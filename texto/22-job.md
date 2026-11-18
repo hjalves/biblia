@@ -73,7 +73,7 @@
 ## Capítulo 4
 
 **1** Então, tomando a palavra Elifaz de Teman, disse:  
-**2** Se começarmos a falar-e, talvez tu o leves a mal;  
+**2** Se começarmos a falar-te, talvez tu o leves a mal;  
 **3** mas, quem poderá conter a palavra concebida? Eis que ensinaste a muitos, deste vigor a mãos cansadas.  
 **4** As tuas palavras firmaram os que vacilavam, fortaleceste os joelhos trémulos;  
 **5** porém, agora que veio sobre ti (a desgraça), desfaleceste; feriu-te, e tu te perturbaste.  
@@ -502,7 +502,7 @@
 **14** Os meus vizinhos abandonaram-me, os meus íntimos esqueceram-se de mim.  
 **15** Os que moravam em minha casa, (mesmo) as minhas servas, olharam-me como um estranho, sou como um desconhecido, a seus olhos.  
 **16** Chamo o meu servo, e ele não me responde, vejo-me obrigado a suplicar-lhe com a minha boca.  
-**17** Minha mulher em horror do meu hálito, e peço graça aos filhos das minhas entranhas.  
+**17** Minha mulher tem horror do meu hálito, e peço graça aos filhos das minhas entranhas.  
 **18** Até os loucos me desprezam; quando me levanto, riem-se de mim.  
 **19** Os que, noutro tempo, eram meus confidentes, têm horror de mim e aqueles a quem eu mais amava, voltam-se contra mim.  
 **20** A’ minha pele, consumidas as carnes, pegaram-se os meus ossos, e só me restam os lábios ao redor dos meus dentes.  
@@ -659,7 +659,7 @@
 **17** Se a aurora aparece de súbito, é para eles como uma sombra de morte; são-lhes familiares os terrores da noite.  
 **18** (O ímpio) corre veloz sobre a superfície das águas; maldita seja a sua herança sobre a terra, e não ande pelo caminho das vinhas _(nem goze os seus frutos).  
 **19** Passe das águas da neve para um excessivo, calor, e o seu pecado vá (com ele) até aos infernos.  
-**20** A misericórdia se esqueça dele; os vermes sejam a sua delicia; não haja dele memória, mas seja feito em pedaços como árvore que dão dá fruto.  
+**20** A misericórdia se esqueça dele; os vermes sejam a sua delicia; não haja dele memória, mas seja feito em pedaços como árvore que não dá fruto.  
 **21** Com efeito devorou (ou roubou) a estéril que não dá filhos, e não fez bem à viúva.  
 **22** Destroçou os valentes com a sua fortaleza, mas, quando estiver em pé, não terá segura a sua vida.  
 **23** Deus deu-lhe tempo de penitência, e ele abusa disto para se ensoberbecer, mas os olhos de Deus estão fixos nos seus caminhos.  
@@ -714,7 +714,7 @@
 **18** Fabricou como a traça a sua casa, e como o guarda fez a sua choupana.  
 **19** O rico deita-se: é pela última vez; abre os olhos, e já não existe.  
 **20** O terror o surpreenderá como uma inundação, de noite o arrastará a tempestade.  
-**21** Um vento abrasador o tirará e levará, e como fim redemoinho o arrebatará do seu lugar.  
+**21** Um vento abrasador o tirará e levará, e como um redemoinho o arrebatará do seu lugar.  
 **22** Deus mandará sobre ele (estas coisas), e não o poupará, e ele se esforçará por fugir da sua mão.  
 **23** Quem vir o seu lugar, baterá palmas (contra ele) e assobiará sobre ele (escarnecendo).  
 
@@ -1066,7 +1066,7 @@
 **33** Podes levantar a tua voz até às nuvens, e fazer vir sobre ti um dilúvio de água?  
 **34** Porventura mandarás os relâmpagos, e eles irão, dizendo-te: Aqui estamos?  
 **35** Porventura mandarás os relâmpagos, e eles irão, dizendo-te: Aqui estamos?  
-**36** Quem pus sabedoria nas nuvens, e inteligência nos meteoros?  
+**36** Quem pôs sabedoria nas nuvens, e inteligência nos meteoros?  
 **37** Quem pode contar exatamente as nuvens e inclinar as urnas do céu,  
 **38** para o pó se tornar em massa, e os torrões (com a água) aderirem uns aos outros?  
 **39** Porventura caçarás tu presa para a leoa, e saciarás a fome dos seus cachorros,  

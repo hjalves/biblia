@@ -355,7 +355,7 @@
 **62** O rei e todo o Israel imolaram vitimas diante do Senhor.  
 **63** Salomão imolou, para o sacrifício pacífico que ofereceu ao Senhor, vinte e dois mil bois, e cento e vinte mil ovelhas. Assim o rei com os filhos de Israel dedicaram o templo do Senhor.  
 **64** Naquele dia o rei consagrou o meio do átrio, que estava diante da casa do Senhor, pois ofereceu ali holocaustos e sacrifícios, e as banhas das hóstias pacíficas, porque o altar de bronze, que estava diante do Senhor, era pequeno, e não podiam caber nele os holocaustos e os sacrifícios, e as banhas das hóstias pacíficas.  
-**65** Tal foi a festa que Salomão celebrou nesse tempo, e todo o Israel com ele, tendo concorrido gente em grande número desde a entrada de Emat até a o rio do Egito, diante do Senhor, nosso Deus, durante sete dias, e (em seguida) durante outros sete dias, isto é, durante catorze dias.  
+**65** Tal foi a festa que Salomão celebrou nesse tempo, e todo o Israel com ele, tendo concorrido gente em grande número desde a entrada de Emat até ao rio do Egito, diante do Senhor, nosso Deus, durante sete dias, e (em seguida) durante outros sete dias, isto é, durante catorze dias.  
 **66** Ao dia oitavo (desta última festa), despediu os povos, os quais abençoando o rei, voltaram para suas tendas, alegres, com o coração contente, por todos os bens que o Senhor tinha feito a Davide, seu servo, e a Israel, seu povo.  
 
 ## Capítulo 9
@@ -614,7 +614,7 @@
 ## Capítulo 16
 
 **1** A palavra do Senhor foi dirigida a Jeú, filho de Hanani, contra Baasa, nestes termos:  
-**2** Visto que eu te levantei do pé e te constituí chefe sobre o meu povo de Israel, e tu andaste no caminho de Jeroboão e fizeste pecar o meu povo de Israel, provocando-me à ira com pecados,  
+**2** Visto que eu te levantei do pó e te constituí chefe sobre o meu povo de Israel, e tu andaste no caminho de Jeroboão e fizeste pecar o meu povo de Israel, provocando-me à ira com pecados,  
 **3** eu varrerei Baasa e a sua casa; farei da tua casa o que fiz da casa de Jeroboão, filho de Nabat.  
 **4** Aquele da linhagem de Baasa que morrer na cidade, comê-lo-ão os cães; o que morrer no campo, comê-lo-ão as aves do céu.  
 **5** O resto das ações de Baasa, todos os seus feitos e batalhas, estão escritos no livro das Crónicas dos reis de Israel.  
@@ -801,7 +801,7 @@
 **3** Nabot respondeu-lhe: Deus me livre de te dar a herança de meus pais!  
 **4** Foi Acab para sua casa, mal disposto e encolerizado, por causa da resposta que Nabot Jezraelita lhe dera: Eu não te entregarei a herança de meus pais. Deitando-se sobre a sua cama, voltou o rosto para a parede e não quis comer nada.  
 **5** Jezabel, sua mulher, foi ter com ele e disse-lhe: Que é isto? Donde te vem esta tristeza? Por que não comes?  
-**6** Ele respondeu-lhe: Falei a Nabot de Jezrael e propus-lhe: Vende-me a tu a vinha, ou se te faz mais conta, dar-te-ei por ela outra vinha melhor. Ele respondeu-me: Eu não te cederei a minha vinha.  
+**6** Ele respondeu-lhe: Falei a Nabot de Jezrael e propus-lhe: Vende-me a tua vinha, ou se te faz mais conta, dar-te-ei por ela outra vinha melhor. Ele respondeu-me: Eu não te cederei a minha vinha.  
 **7** Disse-lhe então Jezabel, sua mulher: Não és tu o rei de Israel? Levanta-te, come e sossega o teu espírito; eu te darei a vinha de Nabot de Jezrael.  
 **8** Escreveu ela, pois, uma carta em nome de Acab, selou-a com o selo do rei, e enviou-a aos anciães e aos principais, que habitavam na cidade de Nabot.  
 **9** O assunto da carta era este: Promulgai um jejum, fazei sentar Nabot entre os primeiros do povo,  

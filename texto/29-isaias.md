@@ -186,7 +186,7 @@
 **8** espraiar-se-á por Judá e, inundando-a e submergindo-a chegar-lhe-á até ao pescoço. A extensão das suas asas encherá todo o espaço da tua terra, ó Emanuel.  
 **9** Ajuntai-vos, povos, (para a guerra) e sereis vencidos! Vós, todas as terras de longe, ouvi, reuni as vossas forças, e sereis vencidas; tomai as vossas armas, e sereis vencidas;  
 **10** formai planos, e eles sairão frustrados; proferi alguma palavra de mando, e ela não será executada, porque Deus é connosco!  
-**11** Porque o Senhor me falou assim, agarrando-se com a sua mão poderosa e avisando-me para não seguir pelo caminho deste povo:  
+**11** Porque o Senhor me falou assim, agarrando-me com a sua mão poderosa e avisando-me para não seguir pelo caminho deste povo:  
 **12** Não chameis conspiração o que este povo chama conspiração: não temais o que ele teme, nem vos assusteis.  
 **13** Proclamai santo o Senhor dos exércitos; seja ele (só) o vosso temor e o vosso terror.  
 **14** Será um santuário, mas também servirá de pedra de tropeço e de pedra de escândalo às duas casas de Israel, de laço e de ruína aos habitantes de Jerusalém.  

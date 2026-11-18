@@ -11,7 +11,7 @@
 **7** Expulsaram-te até à fronteira; todos os teus aliados zombaram de ti; os (que se diziam) teus amigos subjugaram-te; os que comiam o teu pão, armaram-te laços à falsa fé. Edom não tem inteligência!  
 **8** Acaso naquele dia não farei desaparecer os sábios da Idumeia, diz o Senhor, e a inteligência do monte de Esaú?  
 **9** Os teus valentes, ó Teman, serão tomados de medo, de maneira que morrerá todo o varão sobre o monte de Esaú.  
-**10** Por causa da mortandade, da violência que cometeste contra e teu irmão Jacob, cobrir-te-á a confusão, e perecerás para sempre.  
+**10** Por causa da mortandade, da violência que cometeste contra o teu irmão Jacob, cobrir-te-á a confusão, e perecerás para sempre.  
 **11** No dia em que, diante de ti (sem te importares com isso), bárbaros faziam prisioneiro o seu exército, em que estrangeiros entravam pelas suas portas e deitavam sortes sobre Jerusalém, tu também eras como um deles.  
 **12** Não te deleites contemplando teu irmão, no dia do seu infortúnio; não te alegres sobre os filhos de Judá no dia da sua perdição; não te portes com insolência no dia da angústia.  
 **13** Não entres pelas portas (ou cidades) do meu povo no dia da sua ruína (para recolher despojos); não te alegres com os seus males no dia da sua desgraça; não deites a mão às suas riquezas, no dia da sua calamidade;  

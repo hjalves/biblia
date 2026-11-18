@@ -130,7 +130,7 @@
 **50** fez que soprasse no meio da fornalha uma espécie de fresca viração acompanhada de orvalho, de forma que o fogo não os tocou de modo algum, não os atormentou, nem lhes causou moléstia.  
 **51** Então aqueles três (jovens), como por uma só boca, louvavam a Deus na fornalha, glorificavam-no nestes termos;  
 **52** Tu és bem-dito, Senhor Deus de nossos pais, digno de ser louvado e exaltado para sempre. Bem-dito é o teu nome santo e glorioso, digno de todo o louvor e exaltação para sempre.  
-**53** Tu és bem-dito no templo da tua sauta glória, digno do máximo louvor e exaltação, por todos os séculos.  
+**53** Tu és bem-dito no templo da tua santa glória, digno do máximo louvor e exaltação, por todos os séculos.  
 **54** Tu és bem-dito sobre o trono do teu reino, digno do máximo louvor e exaltação, por todos os séculos.  
 **55** Tu és bem-dito, tu que penetras o fundo dos abismos e estás assentado sobre os Querubins, digno do máximo louvor e glória, por todos os séculos.  
 **56** Tu és bem-dito no firmamento do céu.e digno de louvor e de glória, por todos os séculos.  
@@ -319,7 +319,7 @@
 **3** Levantei os meus olhos para olhar, e eis que vi, em pé diante da ribeira, um carneiro, que tinha duas hastes elevadas; uma era mais alta do que a outra, mas cresceu depois dela.  
 **4** Vi que o carneiro dava marradas contra o ocidente, contra o aquilão e contra o meio-dia e nenhuma besta lhe podia resistir, ninguém podia livrar-se do seu poder; fazia quanto queria e tornava-se poderoso.  
 **5** Estava eu considerando isto e eis que um bode vinha do ocidente sobre a face de toda a terra, e (tão rapidamente que) não tocava na terra; este bode tinha uma grande haste entre os seus olhos.  
-**6** Dirigiu-se contra aquele carneiro que tinha hastes, o qual eu tinha visto era pé. diante da ribeira, e correu para ele com todo o ímpeto da sua força.  
+**6** Dirigiu-se contra aquele carneiro que tinha hastes, o qual eu tinha visto em pé. diante da ribeira, e correu para ele com todo o ímpeto da sua força.  
 **7** Vi-o chegar perto do carneiro: atacou-o com fúria, feriu-o e quebrou-lhe as duas hastes, sem que o carneiro lhe pudesse resistir; tendo-o lançado por terra, pisou-o aos pés, e não houve quem pudesse livrar o carneiro do seu poder.  
 **8** Ora o bode tornou-se extraordinariamente grande; mas, quando se fez forte, quebrou-se o sua grande haste, e formaram-se em lugar dela quatro hastes para os quatro ventos do céu.  
 **9** Porém, duma destas saiu uma haste pequena, que se tornou grande para o meio-dia, para o oriente e para a terra esplêndida (de Israel).  
@@ -554,7 +554,7 @@
 **22** Havia também naquele lugar um grande dragão que os Babilónios veneravam.  
 **23** O rei disse a Daniel: Dirás ainda que este é de bronze? Ele vive, come e bebe. Não podes dizer que não é um deus vivo. Adora-o, pois.  
 **24** Daniel respondeu-lhe: Eu adoro o Senhor meu Deus, porque ele é um Deus vivo; este não é um Deus vivo.  
-**25** Tu, é rei, dá-me licença, e eu matarei este dragão, sem espada, nem vara. O rei disse-lhe: Eu ta dou.  
+**25** Tu, ó rei, dá-me licença, e eu matarei este dragão, sem espada, nem vara. O rei disse-lhe: Eu ta dou.  
 **26** Daniel tomou pês, gordura e pelos; cozeu tudo junto, fez umas bolas e meteu-as pela boca do dragão, e o dragão arrebentou. Daniel disse: Eis o que adoráveis.  
 **27** Os Babilónios, tendo sabido isto, indignaram-se fortemente, e, tendo-se juntado contra o rei, disseram: O rei tornou-se judeu! Destruiu Bel, matou o dragão e mandou matar os sacerdotes.  
 **28** Eles, pois, indo ter com o rei, disseram-lhe: Entrega-nos Daniel, senão nós te mataremos a ti e a toda a tua casa.  

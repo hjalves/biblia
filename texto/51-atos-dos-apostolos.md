@@ -132,7 +132,7 @@
 **20** não podemos, pois, deixar de falar das coisas que vimos e ouvimos."  
 **21** Eles então, ameaçando-os novamente, deixaram-nos ir livres, não encontrando pretexto para os castigar, por causa do povo, porque todos glorificavam a Deus pelo que tinha acontecido.  
 **22** Já tinha mais de quarenta anos o homem, em quem tinha sido operada aquela cura miraculosa.  
-**23** Postos com liberdade, foram ter com os seus, e referiram-lhes quanto lhes tinham dito os príncipes dos sacerdotes e os anciães.  
+**23** Postos em liberdade, foram ter com os seus, e referiram-lhes quanto lhes tinham dito os príncipes dos sacerdotes e os anciães.  
 **24** Eles, tendo-os ouvido, levantaram unânimes a voz a Deus e disseram: "Senhor, tu és o Deus que fizeste o céu, a terra, o mar e tudo o que há neles (Ps. 146, 6);  
 **25** que, mediante o Espírito Santo, pela boca do nosso pai David, teu servo, disseste: Por que se agitaram as gentes, e os povos fizeram vãos projetos?  
 **26** Concertaram-se os reis da terra, e os príncipes se coligaram contra o Senhor e contra o seu Cristo (Ps. 2, 1-2).  
@@ -441,7 +441,7 @@
 **23** Quando ele lá chegou e viu a graça de Deus, alegrou-se e exortava todos a perseverar fiéis ao Senhor, com coração firme.  
 **24** De facto, (Barnabé) era um homem de bem e cheio do Espírito Santo e de fé. E uniu-se ao Senhor grande multidão de gente.  
 **25** (Dali) Barnabé partiu para Tarso, em busca de Saulo; tendo-o encontrado, levou-o a Antioquia.  
-**26** Nesta Igreja passaram eles um ano inteiro e instruíram uma grande multidão. Em Antioquia foi dada pela primeira vez aos discípulos o nome de cristãos.  
+**26** Nesta Igreja passaram eles um ano inteiro e instruíram uma grande multidão. Em Antioquia foi dado pela primeira vez aos discípulos o nome de cristãos.  
 **27** Naqueles dias, foram de Jerusalém a Antioquia uns profetas.  
 **28** Levantando-se um deles, chamado Agabo, fazia saber, por virtude do Espírito, que haveria uma grande fome por todo o mundo, a qual veio no tempo de Cláudio.  
 **29** Os discípulos, cada um segundo os seus meios, resolveram enviar algum socorro aos irmãos que habitavam na Judeia;  

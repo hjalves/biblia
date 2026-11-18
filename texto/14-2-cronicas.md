@@ -49,7 +49,7 @@
 **5** Mandou também revestir de madeira de cipreste a parte maior do templo, mandou chapear tudo de lâminas de ouro puríssimo, e mandou esculpir nela palmas e umas como cadeiazinhas, enlaçadas umas nas outras.  
 **6** Mandou pavimentar o templo com mármore preciosíssimo, com muitas decorações.  
 **7** O ouro das lâminas, de que mandou cobrir o edifício, as suas traves, os pilares, as paredes e as portas, era finíssimo. Mandou também esculpir uns querubins nas paredes.  
-**8** Fez também a construção (chamada) Santo dos Santos, cujo comprimento, que correspondia à largura do templo, era de vinte côvados, e cobriu de lâminas de ouro, de quase seiscentos talentos de peso.  
+**8** Fez também a construção (chamada) Santo dos Santos, cujo comprimento, que correspondia à largura do templo, era de vinte côvados, e cobriu-a de lâminas de ouro, de quase seiscentos talentos de peso.  
 **9** Mesmo os pregos eram de ouro; cada um deles pesava cinquenta siclos. Revestiu também de ouro as câmaras altas.  
 **10** Fez no interior do Santo dos Santos duas estátuas de querubins e cobriu-as de ouro.  
 **11** As asas dos querubins (em conjunto) tinham vinte côvados de extensão; uma asa do primeiro tinha cinco côvados e tocava numa parede do templo, e a outra asa, que tinha também cinco côvados, tocava na asa do segundo querubim;  
@@ -123,7 +123,7 @@
 **17** Agora, Senhor Deus de Israel, confirme-se a palavra, que deste a teu servo Davide.  
 **18** Porém, como é crível que Deus habite com os homens sobre a terra? Se o céu e os céus dos céus te não podem conter, quanto menos esta casa, que eu edifiquei!  
 **19** Contudo atende à oração e às súplicas do teu servo, Senhor meu Deus, ouve o grito e as preces, que o teu servo faz na tua presença.  
-**20** Que, de dia e de noite, tenhas os teus olhos abertos sobre esta casa, sobre o lugar, ao qual prometeste que o teu nome seria invocado.  
+**20** Que, de dia e de noite, tenhas os teus olhos abertos sobre esta casa, sobre o lugar, no qual prometeste que o teu nome seria invocado.  
 **21** Escuta as súplicas do teu servo e as do teu povo de Israel, quando orarem neste lugar. Ouve, Senhor, da tua morada, que é o céu, todo aquele que neste lugar orar, e sê-lhe propício.  
 **22** Se alguém pecar contra o seu próximo, e se apresentar para dar juramento contra ele, jurando diante do teu altar nesta casa,  
 **23** ouve, do céu, e faze justiça aos teus servos, de maneira que faças recair a perfídia do culpado sobre a sua cabeça, e vingues o justo, retribuindo-lhe segundo a sua justiça.  
@@ -354,7 +354,7 @@
 **13** Se alguém, disse ele, não buscar o Senhor Deus de Israel, morra, desde o pequeno até ao maior, desde o homem até à mulher.  
 **14** Prestaram juramento ao Senhor em altas vozes, ao toque das trombetas e ao som de buzinas,  
 **15** todos os que estavam em Judá, alegrando-se com o juramento, porque o fizeram de todo o seu coração; buscaram a Deus com toda a sua vontade e encontraram-no, e o Senhor deu-lhes paz com todos os seus vizinhos.  
-**16** Asa tirou, também, a Maaca, sua mãe, o título de rainha, porque ela tinha levantado um ídolo de Astarte, o qual ele quebrou e, fazendo e em pedaços, queimou no vale de Cedron.  
+**16** Asa tirou, também, a Maaca, sua mãe, o título de rainha, porque ela tinha levantado um ídolo de Astarte, o qual ele quebrou e, fazendo o em pedaços, queimou no vale de Cedron.  
 **17** Ainda, porém, ficaram em Israel os lugares altos: não obstante, o coração de Asa foi perfeito em todos os seus dias.  
 **18** Levou para o templo do Senhor o que seu pai e ele tinham prometido com voto, prata, ouro, e diversas espécies de vasos.  
 **19** Não houve guerra até ao ano trigésimo quinto do reinado de Asa.  
@@ -429,7 +429,7 @@
 **26** Direis: Isto manda o rei: Metei este homem no cárcere e dai-lhe pão de aflição e água de angústia, até que eu volte em paz.  
 **27** Miqueias respondeu: Se tu voltares em paz, não falou o Senhor pela minha boca. E acrescentou: Ouvi isto, povos todos.  
 **28** O rei de Israel, pois, e Josafat, rei de Judá, marcharam contra Ramot de Galaad.  
-**29** O rei de Israel disse para Josafat: Eu m darei de trajo, e assim irei combater, mas tu vem com as tuas vestes. O rei de Israel, mudado o trajo, foi para o combate.  
+**29** O rei de Israel disse para Josafat: Eu mudarei de trajo, e assim irei combater, mas tu vem com as tuas vestes. O rei de Israel, mudado o trajo, foi para o combate.  
 **30** Ora o rei da Síria tinha dado aos comandantes da sua cavalaria a ordem seguinte: Não pelejeis contra pequeno nem contra grande, mas somente contra o rei de Israel.  
 **31** Por isso, quando os comandantes da cavalaria viram Josafat, disseram: Este é o rei de Israel. E cercaram-no, carregando sobre ele; porém ele soltou o seu grito (de guerra) e o Senhor o socorreu, desviando os sírios da sua pessoa.  
 **32** Então, tendo visto os capitães da cavalaria que este não era o rei de Israel, deixaram-no.  
@@ -755,7 +755,7 @@
 **1** Feitas estas coisas segundo o rito, todos os Israelitas, que se encontravam nas cidades de Judá, saíram e despedaçaram os ídolos, talaram os ascheras, demoliram os lugares altos e destruíram os altares, não só em toda a terra de Judá e de Benjamim, mas também na de Efraim e de Manassés. Foi uma destruição total. Depois voltaram todos os filhos de Israel para as suas terras, para as suas cidades.  
 **2** Ezequias restabeleceu as classes dos sacerdotes e Levitas, segundo as suas divisões, cada um no seu próprio ofício, tanto dos sacerdotes como dos Levitas, para os holocaustos e hóstias pacíficas, para servirem, para louvarem a Deus e cantarem às portas do acampamento (ou átrio dos sacerdotes da casa) do Senhor.  
 **3** O rei contribuía da sua própria fazenda para que se oferecesse o holocausto perpétuo da manhã e da tarde, dos sábados, neoménias e outras solenidades, como está escrito na lei de Moisés.  
-**4** Mandou também ao povo que morava em Jerusalém que desse aos sacerdotes e aos Levitas as suas porções, para estes se poderem aplicar ao cumprimento a lei do Senhor.  
+**4** Mandou também ao povo que morava em Jerusalém que desse aos sacerdotes e aos Levitas as suas porções, para estes se poderem aplicar ao cumprimento da lei do Senhor.  
 **5** Tendo chegado isto aos ouvidos do povo, os filhos de Israel ofereceram muitas primícias de trigo, de vinho, de azeite e de mel; ofereceram o dízimo de tudo o que a terra produz.  
 **6** Os filhos de Israel e de Judá, que moravam nas cidades de Judá, ofereceram também o dízimo dos bois e das ovelhas, e o dízimo das coisas santificadas, que tinham prometido por voto ao Senhor seu Deus. Levando tudo, fizeram grandes montões.  
 **7** Começaram a formar estes montões no terceiro mês e acabaram-nos no sétimo mês.  
@@ -897,7 +897,7 @@
 **19** Foi celebrada esta Páscoa no ano décimo oitavo do reinado de Josias.  
 **20** Depois que Josias reparou o templo, foi Necau, rei do Egito, fazer guerra em Carcames, junto ao Eufrates. Josias marchou ao seu encontro.  
 **21** Aquele príncipe, porém, mandando-lhe mensageiros, disse-lhe: por que te embaraças tu comigo, ó rei de Judá? Não venho contra ti hoje, mas contra uma casa, contra a qual me mandou Deus que marchasse a toda a pressa; cessa, pois, de te opores aos desígnios de Deus, o qual é comigo, não suceda que ele te mate.  
-**22** Josias não quis tornar atrás, mas preparou-se para lhe dar batalha; não esteve pelo que Necau lhe disse da parte de Deus, mas avançou para lhe dar batalha no campo do Magedo.  
+**22** Josias não quis tornar atrás, mas preparou-se para lhe dar batalha; não esteve pelo que Necau lhe disse da parte de Deus, mas avançou para lhe dar batalha no campo de Magedo.  
 **23** Ali, sendo ferido pelos frecheiros, disse para os seus criados: Tirai-me da peleja, porque estou gravemente ferido.  
 **24** Eles passaram-no dum carro para outro, que o seguia de reserva, segundo o costume dos reis, e levaram-no para Jerusalém. Morreu e foi sepultado no mausoléu de seus pais. Todos os habitantes de Judá e Jerusalém o prantearam,  
 **25** sobretudo Jeremias, cujas lamentações sobre Josias são repetidas até hoje por todos os cantores e cantoras, costume que ficou em Israel como lei. Encontram-se escritas estas coisas no livro das Lamentações.  

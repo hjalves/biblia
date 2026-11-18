@@ -130,7 +130,7 @@
 **22** Espero do Eterno a vossa salvação; chegou a mim a alegria do Santo, por causa da misericórdia que vos virá do Eterno, vosso Salvador.  
 **23** Com choro e pranto vos vi partir; mas Deus vos fará voltar a mim com gozo e alegria para sempre.  
 **24** Assim como as (cidades) vizinhas de Sião viram o vosso cativeiro, assim verão também prontamente baixar da parte de Deus a vossa salvação, que vos sobrevirá com grande glória e esplendor do Eterno.  
-**25** Filhos suportai com paciência o castigo de Deus, que velo sobre vós. O teu inimigo te perseguiu (ó Israel), mas em breve verás a sua perdição e porás o pé sobre a sua cerviz.  
+**25** Filhos suportai com paciência o castigo de Deus, que veio sobre vós. O teu inimigo te perseguiu (ó Israel), mas em breve verás a sua perdição e porás o pé sobre a sua cerviz.  
 **26** Os meus delicados filhos andaram por ásperos caminhos, foram levados como um rebanho roubado pelo inimigo.  
 **27** Tende bom ânimo, ó filhos, e clamai ao Senhor, porque se lembrará de vós aquele que vos castigou.  
 **28** Porque, assim como a vossa vontade vos levou a que vos desviásseis de Deus, assim também, com um ardor dez vezes maior, o buscareis, quando de novo vos converterdes,  

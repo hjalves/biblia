@@ -432,7 +432,7 @@
 **21** Entretanto Alcimo fazia todos os esforços para se impor no pontificado supremo.  
 **22** Juntaram-se a ele todos os que perturbavam o seu povo, tornaram-se senhores do pais de Judá e causaram grandes estragos em Israel.  
 **23** Tendo Judas que todos os males, que Alcimo e os que com ele estavam tinham feito aos filhos de Israel, eram maiores do que os causados pelos gentios,  
-**24** percorreu todo o território da Judeia e deu e merecido castigo aos desertores (da causa da pátria), que foram impedidos de andar pelo país.  
+**24** percorreu todo o território da Judeia e deu o merecido castigo aos desertores (da causa da pátria), que foram impedidos de andar pelo país.  
 **25** Quando Alcimo viu que Judas e a sua gente eram mais fortes, reconhecendo que não podia resistir-lhes, voltou para junto do rei e acusou-os de graves crimes.  
 **26** Então o rei mandou Nicanor, um dos seus mais ilustres generais, inimigo declarado de Israel, e deu-lhe ordem de acabar com este povo.  
 **27** Foi, pois, Nicanor a Jerusalém com um grande exército e deputou quem fosse ter com Judas e seus irmãos, para tratar de paz com engano,  
@@ -465,7 +465,7 @@
 **1** Ora Judas ouviu falar da reputação dos Romanos: que eram grandemente poderosos, bons para os seus aliados, e que davam a sua amizade a todos os que se aproximavam deles, porque o seu poder era grande.  
 **2** Ouviu também contar as suas batalhas, as proezas realizadas na Galácia, de que se tinham assenhoreado e que haviam tornado sua tributária:  
 **3** quanto tinham feito no país de Espanha, para se apoderarem das minas de prata e de ouro, que ali há, e como conquistaram todas estas terras pela sua prudência e paciência,  
-**4** embora se encontrassem tais terras muito distantes; igualmente, (ouviu) como derrotaram reis, que os tinham vindo atacar desde as extremidades, do mundo, infligindo-lhes tão grande mortandade no seus exércitos que os outros lhe pagavam tributo todos os anos.  
+**4** embora se encontrassem tais terras muito distantes; igualmente, (ouviu) como derrotaram reis, que os tinham vindo atacar desde as extremidades, do mundo, infligindo-lhes tão grande mortandade nos seus exércitos que os outros lhe pagavam tributo todos os anos.  
 **5** (Soube) que tinham vencido em batalha a Filipe e a Perseu, rei dos Geteus, e batido e subjugado aos outros, que haviam tomado armas contra eles;  
 **6** que pelos mesmos havia sido desbaratado Antíoco, o Grande, rei da Asia, o qual lhes movera guerra, trazendo cento e vinte elefantes, cavalaria, carros e um exército muito numeroso;  
 **7** que o tinham tomado vivo, e imposto, a ele e aos seus sucessores, um grande tributo, entrega de reféns e de parte do seu reino (a saber):  
@@ -556,14 +556,14 @@
 **57** Vendo Báquides que Alcimo tinha morrido, voltou para o rei, e o pais ficou em repouso durante dois anos,  
 **58** Então todos os maus formaram entre si este desígnio: Eis que Jónatas e os que estão com ele vivem em paz e segurança; façamos, pois, agora vir Báquides, que os apanhará a todos numa noite.  
 **59** Foram, pois, ter com ele, a levar-lhe este conselho.  
-**60** Báquides pôs-se logo a caminho com um grande exército e mandou em segredo cartas ao" do seu partido, que tinha na Judeia, a fim de que prendessem Jónatas e os que estavam com ele. Porém estes não o puderam fazer, porque se divulgou o seu plano.  
+**60** Báquides pôs-se logo a caminho com um grande exército e mandou em segredo cartas aos" do seu partido, que tinha na Judeia, a fim de que prendessem Jónatas e os que estavam com ele. Porém estes não o puderam fazer, porque se divulgou o seu plano.  
 **61** Pelo contrário, (os de Jónatas) prenderam cinquenta homens do país, chefes daquela conspiração, e mandaram-nos matar.  
 **62** Em seguida retirou-se Jónatas, com Simão e os seus partidários, para Betbasi, que está no deserto. Repararam as suas ruínas e fizeram dela uma forte praça.  
 **63** Quando Báquides o soube, juntou logo todas as suas tropas e avisou do que se passava os seus amigos da Judeia.  
 **64** Foi acampar perto de Betbasi, que sitiou durante muitos dias, atacando-a com máquinas de guerra.  
 **65** Porém Jónatas, deixando Simão, seu irmão, na cidade, saiu para o campo com um reduzido corpo de tropas  
 **66** e derrotou Odomera e seus irmãos e os filhos de Faseron, dentro das suas próprias tendas, e começou a dar combates e a aumentar em número.  
-**67** Entretanto Simão e os que com ele estavam saíram da cidade e queimaram os máquinas de guerra;  
+**67** Entretanto Simão e os que com ele estavam saíram da cidade e queimaram as máquinas de guerra;  
 **68** depois atacaram e desbarataram Báquides, que ficou muito desgostoso, ao ver que tinham saído frustrados os seus desígnios e a sua empresa.  
 **69** Irritado contra aqueles homens iníquos, que lhe deram o conselho de vir à terra deles, matou muitos e resolveu voltar para o seu país.  
 **70** Jónatas, ao saber disto, mandou-lhe embaixadores para fazer pazes com ele e tratar da entrega dos prisioneiros.  

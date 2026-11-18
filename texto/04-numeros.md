@@ -26,24 +26,24 @@
 **22** Dos filhos de Simeão, segundo as suas famílias, segundo as suas casas patriarcais, contando os nomes, por cabeça, dos varões dos vinte anos para cima, que podiam ir à guerra,  
 **23** (foram recenseados) cinquenta e nove mil e trezentos.  
 **24** Dos filhos de Gad, segundo as suas famílias, segundo as suas casas patriarcais, contando os nomes de todos os de vinte anos para cima, que podiam ir à guerra,  
-**25** (forem recenseados) quarenta e cinco mil e seiscentos e cinquenta.  
+**25** (foram recenseados) quarenta e cinco mil e seiscentos e cinquenta.  
 **26** Dos filhos de Judá, segundo as suas famílias, segundo as suas casas patriarcais, contando os nomes de cada um deles, dos vinte anos para cima, de todos os que podiam ir à guerra,  
 **27** (foram recenseados) setenta e quatro mil e seiscentos.  
 **28** Dos filhos de Issacar, seguido as suas famílias, segundo as suas casas patriarcais, contando os nomes de cada um deles, dos vinte anos para cima, de todos os que podiam ir à guerra,  
 **29** (foram recenseados) cinquenta e quatro mil e quatrocentos.  
 **30** Dos filhos de Zabulon, segundo as suas famílias, segundo as suas casas patriarcais, contando os nomes de cada um deles, dos vinte anos para cima, de todos os que podiam ir à guerra,  
 **31** (foram recenseados) cinquenta e sete mil e quatrocentos.  
-**32** Dois filhos de José: dos descendentes de Efraim, seguindo as suas famílias, e seguindo as suas casas patriarcais, contando os nomes de cada um, deles dos vinte anos para cima, de todos os que podiam ir à guerra,  
+**32** Dois filhos de José: dos descendentes de Efraim, seguindo as suas famílias, e seguindo as suas casas patriarcais, contando os nomes de cada um, dos vinte anos para cima, de todos os que podiam ir à guerra,  
 **33** (foram recenseados) quarenta mil e quinhentos.  
 **34** Dos descendentes de Manassés, segundo as suas famílias, segundo as suas casas patriarcais, contando o nome de cada um deles, dos vinte anos para cima, de todos os que podiam ir à guerra, (foram recenseados)  
 **35** trinta e dois mil e duzentos.  
-**36** Dos filhos de Benjamim, segundo as suas famílias, casas patriarcais, apontando os nomes de cada um, deles dos vinte anos para cima, de todos os que podiam ir à guerra,  
+**36** Dos filhos de Benjamim, segundo as suas famílias, casas patriarcais, apontando os nomes de cada um, dos vinte anos para cima, de todos os que podiam ir à guerra,  
 **37** (foram recenseados) trinta e cinco mil e quatrocentos.  
 **38** Dos filhos de Dan, segundo as suas famílias, segundo as suas casas patriarcais, apontando o nome de cada um, dos vinte anos para cima, de todos os que podiam ir à guerra,  
 **39** (foram recenseados) sessenta e dois mil e setecentos.  
 **40** Dos filhos de Aser, segundo suas famílias, segundo as suas casas patriarcais, apontando o nome de cada um, dos vinte anos para cima, de todos os que podiam ir à guerra,  
 **41** (foram recenseados) quarenta e um mil e quinhentos.  
-**42** Dos filhos de Neftali, segundo as suas famílias, segundo as suais casas patriarcais, apontando o nome de cada um, dos vinde anos para cima, todos os que podiam ir à guerra,  
+**42** Dos filhos de Neftali, segundo as suas famílias, segundo as suas casas patriarcais, apontando o nome de cada um, dos vinde anos para cima, todos os que podiam ir à guerra,  
 **43** (foram recenseados) cinquenta e três mil e quatrocentos.  
 **44** Estes são os que foram contados por Moisés e Aarão, e pelos doze príncipes de Israel, um por cada tribo.  
 **45** Todo o número dos filhos de Israel, segundo as suas casas e famílias, dos vinte anos para cima, de todos os que podiam ir à guerra, foi  
@@ -71,7 +71,7 @@
 **10** No acampamento dos filhos de Ruben para a parte do meio-dia será príncipe Elisur, filho de Sedeur;  
 **11** todo o corpo dos seus combatentes, que foram contados, era de quarenta e seis mil e quinhentos.  
 **12** Junto a ele acamparam os da tribo de Simeão, cujo príncipe foi Salamiel, filho de Surisadai.  
-**13** Todo o corpo dos seus combatentes, que feriam contados, era de cinquenta e nove mil e trezentos.  
+**13** Todo o corpo dos seus combatentes, que foram contados, era de cinquenta e nove mil e trezentos.  
 **14** Na tribo de Gad foi príncipe Eliasaph, filho de Duel.  
 **15** Todo o corpo dos seus combatentes, que foram contados, era de quarenta e cinco mil seiscentos e cinquenta.  
 **16** Todos os que foram contados no acampamento de Ruben, foram cento e cinquenta e um mil e quatrocentos e cinquenta, segundo as suas turmas; estes serão os segundos a pôr-se em marcha.  
@@ -150,7 +150,7 @@
 
 ## Capítulo 4
 
-**1** O Senhor falou a Moisés e a Aarão, dizendo:  
+**1** O Senhor falou a Moisés e Aarão, dizendo:  
 **2** Faze a contagem dos filhos de Caath, dentre os Levitas, segundo as suas casas e as suas famílias,  
 **3** desde a idade de trinta anos para cima até aos cinquenta, de todos os que entram para assistirem e ministrarem no tabernáculo da reunião.  
 **4** Este é o serviço dos filhos de Caath, no tabernáculo da reunião: referir-se-á a coisas santíssimas.  
@@ -160,7 +160,7 @@
 **8** Estender-lhe-ão por cima um pano carmesim, o qual cobrirão ainda com uma coberta de peles roxas, e meterão os varais.  
 **9** Tomarão também um pano de púrpura violácea, com o qual cobrirão o candeeiro com as lâmpadas e as suas tenazes e espevitadores e todos os vasos de azeite, que são necessários para preparar as lâmpadas:  
 **10** sobre todas estas coisas lançarão uma coberta de peles roxas, e meterão os varais.  
-**11** Envolverão também o altar de ouro num pano de púrpura violáceas e estenderão por cima uma coberta de peles roxas e meterão os varais.  
+**11** Envolverão também o altar de ouro num pano de púrpura violácea e estenderão por cima uma coberta de peles roxas e meterão os varais.  
 **12** Envolverão, num pano de púrpura violácea, todos os utensílios, com que se faz serviço no santuário, estenderão por cima uma coberta de peles roxas e meterão os varais.  
 **13** Limparão também as cinzas do altar, estenderão sobre ele um pano de púrpura;  
 **14** porão em cima todos os utensílios que se usam no serviço, isto é, os braseiros, as tenazes e os tridentes, os garfos e as pás. Cobrirão todos os utensílios do altar com uma coberta de peles roxas, e meterão os varais.  
@@ -422,7 +422,7 @@
 **7** Quando se tiver de congregar o povo, tocareis as trombetas, mas não estrepitosamente.  
 **8** Os filhos de Aarão, sacerdotes, tocarão as trombetas, e esta lei será perpétua nas vossas gerações.  
 **9** Se sairdes do vosso país para fazer guerra contra os inimigos que vos atacam, fareis soar, com estrépito, as trombetas, e o Senhor vosso Deus se lembrará de vós, para vos livrar das mãos de vossos inimigos.  
-**10** Nos vossos dias de alegria, nas vossas solenidades, nos dias de festa do princípio do mês, tocareis as trombetas, oferecendo os holocaustos e os sacrifícios pacíficos, e fim de que o vosso Deus se lembre de vós. Eu sou o Senhor vosso Deus.  
+**10** Nos vossos dias de alegria, nas vossas solenidades, nos dias de festa do princípio do mês, tocareis as trombetas, oferecendo os holocaustos e os sacrifícios pacíficos, a fim de que o vosso Deus se lembre de vós. Eu sou o Senhor vosso Deus.  
 **11** No dia vinte do segundo mês do segundo ano, levantou-se a nuvem do tabernáculo do testemunho.  
 **12** Os filhos de Israel pelas suas turmas partiram do deserto do Sinai, e a nuvem parou no deserto de Faran.  
 **13** Os primeiros que levantaram os acampamentos, conforme a ordem do Senhor daria por meio de Moisés,  
@@ -594,7 +594,7 @@
 
 **1** O Senhor falou a Moisés, dizendo;  
 **2** Fala aos filhos de Israel, e dize-lhes: Quando entrardes na terra da vossa habitação, que eu vos hei-de dar,  
-**3** e oferecerdes ao Senhor algum holocausto ou vítima, quer em cumprimento dos vossos votos, quer de vossa livre vontade, ou fazendo queimar nas vossas solenidades, de odor de suavidade para o Senhor, bois ou ovelhas,  
+**3** e oferecerdes ao Senhor algum holocausto ou vítima, quer em cumprimento dos vossos votos, quer de vossa livre vontade, ou fazendo queimar nas vossas solenidades, em odor de suavidade para o Senhor, bois ou ovelhas,  
 **4** todo aquele que imolar uma vitima, oferecerá em sacrifício a décima parte de efa de flor de farinha amassada com a quarta parte de um hin de azeite,  
 **5** e dará esta mesma medida de vinho para fazer as libações, por cada cordeiro.  
 **6** Por cada carneiro, a oblação será de duas dízimas de flor de farinha, amassada com a terça parte de um hin de azeite:  
@@ -620,7 +620,7 @@
 **26** Será perdoado a toda a multidão dos filhos de Israel, e aos estrangeiros que moram entre eles, porque é uma culpa de todo o povo cometida por ignorância.  
 **27** Porém, se uma só pessoa pecar por ignorância, oferecerá uma cabra de um ano pelo seu pecado,  
 **28** e o sacerdote rogará por ela, porque pecou sem o saber diante do Senhor, e lhe alcançará o perdão, e lhe será perdoado.  
-**29** Uma mesma lei será para todos os que pecarem por ignorância, que sejam naturais quer sejam estrangeiros.  
+**29** Uma mesma lei será para todos os que pecarem por ignorância, quer sejam naturais quer sejam estrangeiros.  
 **30** A pessoa, porém, que dizer alguma coisa com a mão levantada (contra Deus), quer seja cidadão quer forasteiro, será eliminado do meio do seu povo, porque foi rebelde contra o Senhor,  
 **31** porque desprezou a palavra do Senhor e violou o seu preceito; por isso será exterminado, e levará sobre si a sua iniquidade.  
 **32** Ora aconteceu que, estando os filhos de Israel no deserto, e encontrando um homem que apanhava lenha no dia de sábado,  
@@ -787,7 +787,7 @@
 **20** Porém ele respondeu: Não passarás. E Edom marchou logo ao encontro dele com uma infinita multidão, e com mão forte.  
 **21** Não quis condescender com o pedido de dar passagem pelo seu país; por isso Israel desviou-se dele.  
 **22** Tendo levantado os acampamentos de Cades, foram ao monte Hor, que está nos confins da terra de Edom,  
-**23** Onde o Senhor falou a Moisés e a Aarão,  
+**23** Onde o Senhor falou a Moisés e Aarão,  
 **24** dizendo: Aarão vai juntar-se ao seu povo, porque ele não entrará na terra que eu dei aos filhos de Israel, visto que foi incrédulo às minhas palavras nas águas da Contradição.  
 **25** Toma Aarão e seu filho com ele, e leva-os ao monte Hor.  
 **26** Depois de teres despido o pai das suas vestes, revestirás com elas Eleázaro, seu filho: Aarão será reunido (a seus pais), e ai morrerá.  
@@ -978,7 +978,7 @@
 **14** Estas são as famílias da estirpe de Simeão, de que se contaram, ao todo, vinte e dois mil e duzentos (homens).  
 **15** Filhos de Gad, segundo as suas famílias: Sefon, do qual (saiu) a família dos Sefonistas; Agi, do qual (saiu) a família dos Agitas; Sun, do qual (saiu) a família dos Sunitas;  
 **16** Ozni, do qual (saiu) a família dos Oznitas; Her do qual (saiu) a família dos Heritas;  
-**17** Arod, do qual (saiu) a família dois Aroditas; Ariel, do qual (saiu) a família dos Arielitas.  
+**17** Arod, do qual (saiu) a família dos Aroditas; Ariel, do qual (saiu) a família dos Arielitas.  
 **18** Estas são as famílias de Gad, de que se contaram, ao todo, quarenta mil e quinhentos (homens).  
 **19** Filhos de Judá: Her e Onan, os quais morreram na terra de Canaan.  
 **20** Os Outros filhos de Judá, contados segundo as suas famílias, foram: Sela, do qual (saiu) a família dos Selaítas; Farés do qual (saiu) a família dos Faresitas; Zare, do qual (saiu) a família dos Zareítas.  
@@ -1059,7 +1059,7 @@
 **1** Disse também o Senhor a Moisés:  
 **2** Manda aos filhos de Israel, dize-lhes: Apresentai no tempo determinado a minha oferta, o necessário para alimentar os sacrifícios pelo fogo, que são, para mim, de suave odor.  
 **3** Estes são os sacrifícios que deveis oferecer: Todos os dias, dois cordeiros de um ano. Sem defeito, em holocausto perpétuo.  
-**4** Oferecereis um pelo manhã, outro pela tarde:  
+**4** Oferecereis um pela manhã, outro pela tarde:  
 **5** a décima parte de um efa de flor de farinha, amassada na quarta parte de um hin de azeite puríssimo.  
 **6** Este é o holocausto perpétuo que vós oferecestes sobre o monte Sinai, consumido pelo fogo, de suave odor ao Senhor.  
 **7** Derramareis em libação a quarta parte de um hin de vinho por cada cordeiro no santuário do Senhor,  
@@ -1070,7 +1070,7 @@
 **12** e três dízimas de flor de farinha amassada com azeite por cada bezerro, e duas dízimas de flor de farinha amassada com azeite por cada carneiro,  
 **13** e a dízima da dízima de flor de farinha amassada com azeite por cada carneiro. É um holocausto de suave odor, um sacrifício feito pelo fogo ao Senhor.  
 **14** As libações de vinho, que se devem derramar sobre cada vítima, serão estas: Metade de um hin por cada bezerro, um terço pelo carneiro, um quarto pelo cordeiro; este será o holocausto de todos os meses, que se sucedem no decurso do ano.  
-**15** Oferecer-se-á também ao Senhor em bode pelos pecados, em holocausto perpétuo, com as suas libações.  
+**15** Oferecer-se-á também ao Senhor um bode pelos pecados, em holocausto perpétuo, com as suas libações.  
 **16** No primeiro mês, no dia catorze do mês, será a páscoa do Senhor:  
 **17** no dia quinze a solenidade; durante sete dias se comerão pães ázimos.  
 **18** No primeiro dia haverá santa assembleia, e não fareis nele obra alguma servil,  
@@ -1325,7 +1325,7 @@
 **10** Dali os limites para o oriente medir-se-ão desde a aldeia de Enan até Sefama,  
 **11** e de Sefama descerão a Rebla em frente à fonte de Dafnim; de lá se estenderão para o oriente até ao mar de Cenereth,  
 **12** chegarão até ao Jordão, e finalmente terminarão no Mar de Sal. Vós possuireis esta terra segundo os seus limites em toda a volta.  
-**13** Moisés ordenou aos filhos de Israel, dizendo: Esta será a terra que vós possuireis por sorte, e que o Senhor mandou que se desse os nove tribos e à meia tribo,  
+**13** Moisés ordenou aos filhos de Israel, dizendo: Esta será a terra que vós possuireis por sorte, e que o Senhor mandou que se desse às nove tribos e à meia tribo,  
 **14** porque a tribo dos filhos de Ruben, segundo ás suas famílias, e a tribo dos filhos de Gad, segundo o número das suas famílias, e também a meia tribo de Manassés,  
 **15** isto é, duas tribos e meia, receberam a sua parte daquém do Jordão defronte de Jericó, para a banda do oriente.  
 **16** O Senhor disse a Moisés:  

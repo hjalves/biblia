@@ -30,7 +30,7 @@
 **9** Mas, aquele Jesus, que por um pouco de tempo foi feito inferior aos anjos, nós o vemos, pela paixão da morte, coroado de glória e de honra, para que, pela graça de Deus, sofresse a morte por todos.  
 **10** De facto, convinha que aquele, para quem e por quem são todas as coisas, querendo levar muitos filhos à glória, aperfeiçoasse pelos sofrimentos o autor da salvação deles.  
 **11** Porque o santificador e os santificados vêm todos de um só. Por esta causa, (Jesus) não se envergonha de lhes chamar irmãos, dizendo:  
-**12** Anunciarei o teu nome aos meus irmãos; louvar-to-ei no meio da assembleia (Ps. 21, 23).  
+**12** Anunciarei o teu nome aos meus irmãos; louvar-te-ei no meio da assembleia (Ps. 21, 23).  
 **13** E outra vez: Eu confiarei nele (Is. 8, 17). E de novo: Eis-me aqui, eu e os filhos, que Deus me deu (Is. 8, 18).  
 **14** Por isso, visto que os filhos participaram da carne e do sangue, ele também participou igualmente das mesmas coisas, a fim de destruir pela morte aquele que tinha o império da morte, isto é, o demónio,  
 **15** e para livrar aqueles que, pelo temor da morte, estavam em escravidão, toda a vida.  

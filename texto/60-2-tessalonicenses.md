@@ -5,7 +5,7 @@
 **1** Paulo, Silvano e Timóteo, à Igreja dos Tessalonicenses, em Deus nosso Pai e no Senhor Jesus Cristo.  
 **2** Graça e paz vos sejam dadas, da parte de Deus, nosso Pai, e da do Senhor Jesus Cristo.  
 **3** Nós devemos, irmãos, dar sempre graças a Deus por vós, como é justo, porque a vossa fé vai em grande aumento e abunda em cada um de vós a caridade mútua.  
-**4** Também nós mesmos nos gloriamos de vós na igrejas de Deus, pela vossa paciência e fé, no meio de todas as perseguições e tribulações que sofreis.  
+**4** Também nós mesmos nos gloriamos de vós nas igrejas de Deus, pela vossa paciência e fé, no meio de todas as perseguições e tribulações que sofreis.  
 **5** Elas são prova do justo juízo de Deus, (que deste modo vos purifica) para que sejais tidos por dignos do reino de Deus, pelo qual padeceis.  
 **6** Com efeito, é justo diante de Deus dar tribulação aqueles que vos atribulam,  
 **7** e a vós, que sois atribulados, (dar) descanso (eterno) connosco, quando aparecer o Senhor Jesus (descendo) do céu com os anjos (mensageiros) do seu poder,  

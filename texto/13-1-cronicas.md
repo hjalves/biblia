@@ -160,7 +160,7 @@
 **14** Maonati gerou Ofra, Saraia gerou Joab, pai dos habitantes do Vale dos Artífices, (assim chamado) porque ali habitavam os artífices.  
 **15** Os filhos de Caleb, filho de Jefone, foram: Hir, Ela e Naão. Filho de Ela: Cenez.  
 **16** Os filhos de Jeleleel, foram: Zif, Zifa, Tiria e Asrael.  
-**17** Os filhos de Ezra foram: Jeter, Mered, Efer e Jalon. A mulher de Mered (a egípcia) deu à lua Myriam, Sammai, e Jesba, pai dos habitantes de Estamo.  
+**17** Os filhos de Ezra foram: Jeter, Mered, Efer e Jalon. A mulher de Mered (a egípcia) deu à luz Myriam, Sammai, e Jesba, pai dos habitantes de Estamo.  
 **18** (Outra) sua mulher, Odala, deu à luz Jared, pai de Gedor, e Heber, pai de Soco, e Icutiel, pai de Zanoe. Estes são os filhos de Betia, filha de Faraó, com a qual casou Mered.  
 **19** Os filhos de (sua) mulher Odala, irmã de Naão, pai de Ceila, foram: Garmi e Estamo, que era de Macati.  
 **20** Os filhos de Simão foram: Amnon, Binna, filho de Hanan, e Tilon. Os filhos de Jesi foram: Zoet e Benzoet.  
@@ -715,7 +715,7 @@
 **3** os grandes dos Amonitas disseram a Hanon: Julgas talvez que Davide, por honrar a memória de teu pai, te mandou homens que te consolassem? Não vês que os servos vieram para explorar e examinar, e esquadrinhar o teu país?  
 **4** Hanon, então, mandou rapar a cabeça e a barba aos servos de Davide, fez-lhes retalhar as suas túnicas da cintura até aos pés, e despediu-os.  
 **5** Tendo sido avisado disto, Davide mandou (alguns dos seus homens) ao encontro deles (porque era grande o ultraje que tinham padecido), para lhes dizerem que ficassem em Jericó, até lhes crescer a barba, e que então voltassem.  
-**6** Vendo, os Amonitas, assim Hanon com o todo o povo, que tinham feito injúria a Davide, mandaram mil talentos de prata, para tomarem a seu soldo carros de guerra e cavalaria da Mesopotâmia, dos Sírios de Maaca e de Soba.  
+**6** Vendo, os Amonitas, assim Hanon como todo o povo, que tinham feito injúria a Davide, mandaram mil talentos de prata, para tomarem a seu soldo carros de guerra e cavalaria da Mesopotâmia, dos Sírios de Maaca e de Soba.  
 **7** Assoldaram trinta e dois mil carros e o rei Maaca com o seu povo, os quais acamparam defronte de Medaba. Os Amonitas, tendo-se juntado das suas cidades, saíram para a guerra.  
 **8** Davide, informado disto, mandou Joab e todo o exército de homens valentes.  
 **9** Tendo saído os Amonitas, formaram-se em batalha junto da porta da cidade; e os Sírios os reis, que tinham ido em seu socorro, fizeram alto separadamente na campina.  
@@ -757,13 +757,13 @@
 **13** Davide respondeu a Gad: De toda a parte me vejo em grandes angústias, mas para mim é melhor cair nas mãos do Senhor, porque é de muita misericórdia, do que cair nas mãos dos homens.  
 **14** Mandou, pois o Senhor a peste a Israel, e morreram de Israel setenta mil homens.  
 **15** Mandou também um anjo a Jerusalém, para a assolar; porém quando estava a ser assolada, o Senhor olhou e compadeceu-se dum mal tão grande, e mandou ao anjo exterminador: Basta, retira já a tua mão. O anjo do Senhor estava perto da eira de Ornan Jebuseu.  
-**16** Davide, levantando os olhos, viu o anjo do Senhor, que estava entre o céu e a terra, com um a espada desembainhada na sua mão, voltada contra Jerusalém; (à sua vista), tanto ele como os seus anciães, cobertos de cilícios, prostraram-se com os rostos por terra.  
+**16** Davide, levantando os olhos, viu o anjo do Senhor, que estava entre o céu e a terra, com uma espada desembainhada na sua mão, voltada contra Jerusalém; (à sua vista), tanto ele como os seus anciães, cobertos de cilícios, prostraram-se com os rostos por terra.  
 **17** Davide disse a Deus: Porventura não sou eu quem mandou fazer o recenseamento do povo? Fui eu que pequei, eu o que fiz o mal; mas este rebanho, que mereceu ele? Volte-se, pois, te peço, Senhor meu Deus, a tua mão contra mim e contra a casa de meu pai, mas que o teu povo não seja castigado.  
 **18** O anjo do Senhor mandou a Gad que dissesse a Davide que fosse e que levantasse um altar ao Senhor Deus na eira de Ornan Jebuseu.  
 **19** Foi, pois, Davide, conforme a ordem que Gad lhe tinha intimado da parte do Senhor.  
 **20** Ornan e quatro filhos seus, que com ele estavam, tendo levantado os olhos e visto o anjo, esconderam-se; naquela ocasião estavam debulhando trigo na eira.  
 **21** Quando Davide se dirigia para Ornan, viu-o Ornan, e, saindo da sua eira ao seu encontro, fez-lhe uma profunda reverência, prostrando-se por terra.  
-**22** Davide disse-lhe: cede-me o sítio da tua eira, para eu edificar nele um altar ao Senhor; cede-me pelo dinheiro que valer para que cesse a praga de cima do povo.  
+**22** Davide disse-lhe: cede-me o sítio da tua eira, para eu edificar nele um altar ao Senhor; cede-mo pelo dinheiro que valer para que cesse a praga de cima do povo.  
 **23** Ornan respondeu a Davide: Toma-a, e o rei senhor faça dela o que for do seu agrado; eu darei também os bois para o holocausto, os trilhos para lenha, e trigo para o sacrifício; darei tudo de boa vontade.  
 **24** O rei Davide disse-lhe: Não se fará assim, mas eu te hei-de dar o dinheiro que ela vale, porque eu não devo tirar-te o que é teu, e oferecer assim ao Senhor holocaustos que não me custam nada.  
 **25** Deu, pois, Davide a Ornan, pelo terreno, seiscentos siclos de ouro de justo peso.  
@@ -832,7 +832,7 @@
 
 ## Capítulo 24
 
-**1** Os filhos de Aarão foram repartidos nestas classes (que se vão enumerar). Os filhos de Aarão foram: Nadab, Ablu, Eleazar e Itamar.  
+**1** Os filhos de Aarão foram repartidos nestas classes (que se vão enumerar). Os filhos de Aarão foram: Nadab, Abiu, Eleazar e Itamar.  
 **2** Nadab e Ablu morreram antes de seu pai, sem deixar filhos; Eleazar e Itamar exerceram as funções do sacerdócio.  
 **3** Davide repartiu os filhos de Aarão, isto é, Sadoc dos filhos de Eleazar, Abimelec dos filhos de Itamar, em turnos para o serviço.  
 **4** Porém achou-se que entre os chefes de famílias eram muitos mais os filhos de Eleazar, do que os de Itamar. Fez-se esta divisão: Dezasseis chefes de família para os filhos de Eleazar, e oito chefes de família para os filhos de Itamar.  
@@ -857,7 +857,7 @@
 **23** de Jaat foi filho primogénito Jeriau, Amaria o segundo, Jaaziel o terceiro, Jacmaan o quarto;  
 **24** filho de Oziel foi Mica; filho de Mica foi Samir;  
 **25** irmão de Mica foi Jesia; filho de Jesia foi Zacarias.  
-**26** filhos de Meari: Mooli e Musi; filho de Oziau foi Beno;  
+**26** filhos de Merari: Mooli e Musi; filho de Oziau foi Beno;  
 **27** filhos de Merari, por Oziau, foram: Soão, Zacur e Hebri;  
 **28** Mooli teve um filho, isto é, Eleazar, o qual não teve filhos;  
 **29** filho de Cis foi Jerameel;  
@@ -935,7 +935,7 @@
 
 ## Capítulo 27
 
-**1** Os filhos de Israel que, segundo o seu número, com os chefes de famílias, os chefes de milhar, os centuriões e oficiais, serviam ao rei, distribuídos pelas suas turmas, entrando e saindo todos os meses do ano (isto é, prestando serviço um mês) eram (em cada mês) vinte e quatro mil homens com andados pelos seus respetivos capitães.  
+**1** Os filhos de Israel que, segundo o seu número, com os chefes de famílias, os chefes de milhar, os centuriões e oficiais, serviam ao rei, distribuídos pelas suas turmas, entrando e saindo todos os meses do ano (isto é, prestando serviço um mês) eram (em cada mês) vinte e quatro mil homens comandados pelos seus respetivos capitães.  
 **2** A primeira divisão para o primeiro mês era comandada por Jesboão, filho de Zabdiel, e ficavam às suas ordens vinte e quatro mil homens.  
 **3** Era da casa de Farés, e o primeiro entre todos os comandantes do exército durante o primeiro mês.  
 **4** Dudia Aoita comandava a divisão do segundo mês e tinha às suas ordens outro, chamado Macelot, que comandava uma parte dos vinte e quatro mil homens.  

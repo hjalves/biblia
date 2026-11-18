@@ -77,7 +77,7 @@
 **5** e disse-lhes: Ide adiante da arca do Senhor vosso Deus ao meio do Jordão, e trazei de lá cada um a sua pedra sobre os ombros, segundo o número (das tribos) dos filhos de Israel,  
 **6** para que seja um sinal entre vós; quando no futuro vossos filhos vos perguntarem: Que significam estas pedras?  
 **7** — vós lhes respondereis: As águas do Jordão desapareceram diante de arca da aliança do Senhor, enquanto ela o atravessava; por isso se puseram estas pedras como um memorial eterno dos filhos de Israel.  
-**8** Fizeram os filhos de Israel como Josué lhes tinha ordenado, levando do meio do leito do Jordão, doze pedras, segundo o número (das tribos) dos filhos de Israel, consoante o Senhor tinha mandado a Josué, até no lugar onde acamparam, e ali as puseram.  
+**8** Fizeram os filhos de Israel como Josué lhes tinha ordenado, levando do meio do leito do Jordão, doze pedras, segundo o número (das tribos) dos filhos de Israel, consoante o Senhor tinha mandado a Josué, até ao lugar onde acamparam, e ali as puseram.  
 **9** Pôs também Josué outras doze pedras no meio do leito do Jordão, onde estiveram parados os sacerdotes, que levavam a arca da aliança, e elas ainda ali se conservam até ao dia de hoje.  
 **10** Os sacerdotes, quo levavam a arca, estavam parados no meio do Jordão, até se cumprir tudo o que o Senhor tinha mandado a Josué que dissesse ao povo, de acordo com o que Moisés havia prescrito. E o povo apressou-se, e passou.  
 **11** Logo que passaram todos, passou também a arca do Senhor, e os sacerdotes iam (com ela) adiante do povo.  
@@ -556,7 +556,7 @@
 **27** volta pelo oriente para a banda de Betdagon, passa por Zabulon e pelo vale de Jeftael, para o norte, até Betemee e Neiel; estende-se pela esquerda até Cabul,  
 **28** Abran, Roob, Hamon e Cana, até Sidónia, a grande;  
 **29** volta para Horma até à fortíssima cidade de Tiro, e até Hosa; e termina no mar, perto do território de Achziba;  
-**30** (abrange também) Ama, Afec e Boob: vinte e duas e cidades com as suas aldeias.  
+**30** (abrange também) Ama, Afec e Boob: vinte e duas cidades com as suas aldeias.  
 **31** Esta é a herança dos filhos de Aser, segundo as suas famílias, e estas são as suas cidades e aldeias.  
 **32** A sexta sorte caiu aos filhos de Neftali, segundo as suas famílias.  
 **33** A sua fronteira começa em Helef e Elon, vai a Saananim e a Adami, chamada também Neceb, e a Jebnael até Lecum, e avança até ao Jordão;  
@@ -602,7 +602,7 @@
 **8** Os filhos de Israel deram estas cidades e os seus arrabaldes aos Levitas, como o Senhor tinha mandado por meio de Moisés, distribuindo-as a cada um por sorte.  
 **9** Josué deu as cidades das tribos dos filhos de Judá e de Simeão, cujos nomes são (isto é, vão ser apontados):  
 **10** aos filhos de Aarão da família de Caat, da linhagem de Levi (pois que a eles saiu a primeira sorte),  
-**11** Cariatarbe, (cidade) do pal de Enac, que (atualmente) se chama Hebron, sobre o monte de Judá, com os seus arrabaldes em roda.  
+**11** Cariatarbe, (cidade) do pai de Enac, que (atualmente) se chama Hebron, sobre o monte de Judá, com os seus arrabaldes em roda.  
 **12** Os seus campos e aldeias tinha-os dado (Josué), por herança, a Caleb, filho de Jefone.  
 **13** Deu, pois, aos filhos do sacerdote Aarão, Hebron, cidade de refúgio, com os seus arrabaldes, Lobna com os seus arrabaldes,  
 **14** Jeter, Estemo,  

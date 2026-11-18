@@ -138,7 +138,7 @@
 **6** Ela não anda pela vereda da vida. Os seus passos vagabundos vão errando, sem saber para onde.  
 **7** Agora, pois, meu filho, ouve-me, e não te apartes das palavras da minha boca.  
 **8** Afasta dela o teu caminho, e não te aproximes da porta de sua casa.  
-**9** Não dês a tua honra a estranhos, nem os tens anos a um cruel,  
+**9** Não dês a tua honra a estranhos, nem os teus anos a um cruel,  
 **10** para que não suceda que os estranhos enriqueçam com os teus bens, e que (os frutos dos) teus trabalhos passem para a casa doutrem,  
 **11** e que tu gemas no fim, quando tiveres consumido as tuas carnes e o teu corpo, e digas:  
 **12** Por que detestei a disciplina, e o meu coração não cedeu às repreensões,  
@@ -419,7 +419,7 @@
 **5** A testemunha fiel não mente; a testemunha dolosa profere a mentira.  
 **6** O mofador busca a sabedoria, e não a encontra; para os homens-prudentes a sabedoria é (coisa) fácil.  
 **7** Afasta-te do homem insensato, pois ele não conhece os ditames da prudência.  
-**8** A sabedoria tio homem avisado é compreender o seu caminho; a loucura dos insensatos é engano.  
+**8** A sabedoria do homem avisado é compreender o seu caminho; a loucura dos insensatos é engano.  
 **9** O insensato ri-se do pecado; entre os justos mora a benevolência (de Deus).  
 **10** Todo o coração conhece as suas amarguras; um estranho não partilha da sua alegria.  
 **11** A casa dos ímpios será destruída, mas as tendas dos justos florescerão.  
@@ -888,7 +888,7 @@
 **9** Quem desvia os seus ouvidos para não ouvir a lei, até a sua oração será execrável.  
 **10** Aquele que seduz os justos, levando-os a um mau caminho, cairá no fosso que ele mesmo abriu; porém os íntegros herdarão o bem.  
 **11** O homem rico julga que é sábio; mas o pobre inteligente conhece-o bem.  
-**12** No triunfo dos justos há muita glória; mas, quando reinam os ímpios, acontecem as ruínas os homens.  
+**12** No triunfo dos justos há muita glória; mas, quando reinam os ímpios, acontecem as ruínas dos homens.  
 **13** Aquele que esconde as suas maldades não será bem sucedido; aquele porém que as confessar e se retirar delas alcançará misericórdia.  
 **14** Bem-aventurado o homem que está sempre com temor; mas o que é de coração duro cairá no mal.  
 **15** Como um leão que ruge, e um urso faminto, assim é um príncipe ímpio sobre um povo pobre.  
@@ -975,7 +975,7 @@
 
 **1** Palavras de Lamuel, rei de Massa, que lhe foram ensinadas por sua mãe.  
 **2** Que (te direi eu) meu amado filho? Que (te direi eu), amado fruto das minhas entranhas? Que (te direi eu), filho da minha alma?  
-**3** Não dês às mulheres o teu vigor, nem o teus caminhos às que perdem os reis.  
+**3** Não dês às mulheres o teu vigor, nem os teus caminhos às que perdem os reis.  
 **4** Não é próprio dos reis, ó Lamuel, não convém aos reis beber vinho, nem a quem governa dar-se aos licores,  
 **5** para que não suceda que eles bebam e se esqueçam da lei, e atraiçoem a causa de todos os infelizes.  
 **6** Dá aos que estão aflitos um licor forte, e vinho aos que estão em amargura de coração,  

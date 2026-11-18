@@ -350,7 +350,7 @@
 **44** Alguns deles queriam prendê-lo, mas nenhum pôs as mãos sobre ele.  
 **45** Voltaram, pois, os guardas para os príncipes dos sacerdotes e fariseus, que lhes disseram: "Porque o não trouxestes preso?"  
 **46** Os guardas responderam: "Nunca homem algum falou como este homem."  
-**47** Os fariseus replicaram: "Por ventura também vós fostes seduzidos?  
+**47** Os fariseus replicaram: "Porventura também vós fostes seduzidos?  
 **48** Houve, porventura, algum dentre os chefes do povo ou dos fariseus que cresse nele?  
 **49** Quanto a esta plebe, que não conhece a lei, é maldita."  
 **50** Nicodemos disse-lhes, que era um deles (o que tinha ido de noite ter com Jesus):  
@@ -410,7 +410,7 @@
 **48** Os Judeus responderam-lhe: "Não dizemos nós com razão que tu és um samaritano e que tens demónio?"  
 **49** Jesus respondeu: "Eu não tenho demónio, mas honro o meu Pai, e vós a mim desonrastes-me.  
 **50** Eu não busco a minha glória; há quem tome cuidado dela, e quem fará justiça.  
-**51** Em verdade, em verdade voz digo; quem guardar a minha palavra não verá a morte eternamente."  
+**51** Em verdade, em verdade vos digo; quem guardar a minha palavra não verá a morte eternamente."  
 **52** Os Judeus disseram-lhe: "Agora reconhecemos que estás possesso do demónio. Abraão morreu, os profetas também e tu dizes: Quem guardar a minha palavra não provará a morte eternamente.  
 **53** Porventura és maior do que nosso pai Abraão, que morreu? Os profetas também morreram. Quem pretendes tu ser?"  
 **54** Jesus respondeu: "Se eu me glorifico a mim mesmo, não é nada a minha glória; meu Pai é que me glorifica, aquele que vós dizeis que é vosso Deus.  

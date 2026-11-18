@@ -1093,7 +1093,7 @@
 **4** Abalaste a terra (de Israel) e a fendeste; repara as suas feridas, pois vacila.  
 **5** Impuseste ao teu povo duras provas; deste-nos a beber o vinho da vertigem.  
 **6** Deste aos que te temem um estandarte, para que fugissem do arco  
-**7** para que sejam livres os tens amados, socorre-nos com a tua dextra, ouve-nos.  
+**7** para que sejam livres os teus amados, socorre-nos com a tua dextra, ouve-nos.  
 **8** Deus falou no seu santuário: "Exultarei e repartirei (à minha vontade) Siquém, e medirei o vale de Sucot.  
 **9** Minha é a tua terra Galaad, minha a terra de Manassés, Efraim é o elmo da minha cabeça, Judá o meu cetro,  
 **10** Moab é como que a bacia para me levar; poisarei o meu calçado sobre Edom, triunfarei da Filisteia."1  
@@ -1384,7 +1384,7 @@
 **2** Lembra-te da tua família, que fundaste desde a antiguidade, da tribo que para propriedade tua resgataste, do monte de Sião, em que estabeleceste a tua morada.  
 **3** Dirige os teus passos para essas ruínas irreparáveis: o inimigo tudo devastou no santuário.  
 **4** Rugiram os teus adversários no lugar da tua assembleia, arvoraram os seus estandartes como troféu.  
-**5** Pareciam-se cora os que no bosque vibram o machado,  
+**5** Pareciam-se com os que no bosque vibram o machado,  
 **6** e com o machado e o martelo igualmente despedaçam as suas portas.  
 **7** Puseram fogo ao teu santuário; na terra profanaram o tabernáculo do teu nome.  
 **8** Disseram no seu coração: "Destruámo-los todos juntamente; incendiai todos os santuários de Deus na terra."  
@@ -1566,7 +1566,7 @@
 **13** Para que destruíste a sua cerca, de modo que a vindimem todos os que passam pelo caminho,  
 **14** e a devaste o javali da selva, e se apascentem nela as bestas do campo?  
 **15** Ó Deus dos exércitos, volta-te, olha do alto do céu e vê, visita esta videira.  
-**16** Protege aquela que a lua dextra plantou, e o rebento que para ti fortaleceste.  
+**16** Protege aquela que a tua dextra plantou, e o rebento que para ti fortaleceste.  
 **17** Os que a incendiaram e talaram pereçam ante a ameaça do teu rosto  
 **18** Esteja a tua mão sobre o homem da tua dextra, sobre o filho do homem que para ti fortaleceste.  
 **19** Não nos afastaremos mais de ti; tu nos conservarás a vida, e proclamaremos o teu nome.  
@@ -2793,7 +2793,7 @@
 **12** as mesmas trevas não serão obscuras para ti, e a noite brilhará como o dia: a densa escuridão é para ti como a luz.  
 **13** Porque foste tu que formaste os meus rins, me entreteceste no seio de minha mãe.  
 **14** Louvo-te, porque tão admiravelmente fui formado, porque são maravilhosas as tuas obras. Perfeitamente conheces a minha alma;  
-**15** a minha estrutura não te foi desconhecida, quando me ia formando em segredo, quando ia sendo entre tecido nas entranhas da terra.  
+**15** a minha estrutura não te foi desconhecida, quando me ia formando em segredo, quando ia sendo entretecido nas entranhas da terra.  
 **16** Os teus olhos viram os meus atos, e no teu livro todos estão inscritos; são fixados os dias, antes que um só deles existisse.  
 **17** Quão difíceis são para mim os teus desígnios, ó Deus, quão imenso o seu número!  
 **18** Se me ponho a contá-los, vejo que o seu número ultrapassa o da areia (do mar); se chegar ao fim, ainda estou contigo.  

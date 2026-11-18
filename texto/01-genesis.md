@@ -548,7 +548,7 @@
 **33** Deram, pois, a beber vinho a seu pai naquela noite, e a mais velha entrou e dormiu com o pai: ele, porém, não sentiu nem quando ela se deitou, nem quando se levantou.  
 **34** No dia seguinte disse a mais velha para a mais nova: eis que eu ontem dormi com meu pai: demos-lhe também esta noite a beber vinho e dormirás tu com ele, para salvarmos a linhagem de nosso pai.  
 **35** Também, naquela noite deram a beber vinho a seu pai, e a filha mais nova entrou e dormiu com ele: nem então ele sentiu quando ela se deitou, nem quando se levantou.  
-**36** E as duas filhas de Loth conceberam de teu pai.  
+**36** E as duas filhas de Loth conceberam de seu pai.  
 **37** A mais velha deu à luz um filho e pôs-lhe o nome de Moab: este é o pai dos moabitas (que existem) até ao dia de hoje.  
 **38** A mais nova também deu à luz um filho e pôs-lhe o nome de Amon, que quer dizer filho do meu povo: este é o pai dos amonitas, (que existem) até ao dia de hoje.  
 
@@ -756,7 +756,7 @@
 **22** Mas as crianças lutavam no seu ventre, e ela disse: Se assim me havia de acontecer, que necessidade havia de que eu concebesse? Foi consultar o Senhor.  
 **23** o qual lhe disse: Duas nações estão no teu ventre, dois povos (ao sair) do teu ventre se dividirão, e um povo vencerá o outro, e o mais velho servirá ao mais novo.  
 **24** Quando chegou o tempo de dar à luz, foram achados dois gémeos no seu ventre.  
-**25** O que saiu primeiro era ruivo e tudo peludo, como uma pelica: e foi-lhe posto o nome de Esaú. Imediatamente saiu o outro, que agarrava com a mão o pé de Esaú, e por isso ela o chamou Jacob.  
+**25** O que saiu primeiro era ruivo e todo peludo, como uma pelica: e foi-lhe posto o nome de Esaú. Imediatamente saiu o outro, que agarrava com a mão o pé de Esaú, e por isso ela o chamou Jacob.  
 **26** Era Isaac sexagenário quando os meninos lhe nasceram.  
 **27** Tendo crescido, Esaú tomou-se perito caçador e do campo: Jacob, homem simples, habitava nas tendas.  
 **28** Isaac amava Esaú, porque comia das suas caçadas: Rebeca amava Jacob.  
@@ -876,7 +876,7 @@
 **18** Levantando-se, pois, Jacob, ao amanhecer, tirou a pedra, que tinha posto debaixo da cabeça e erigiu-a em padrão, derramando óleo sobre ela.  
 **19** E pôs o nome de Betel à cidade que antes se chamava Lusa.  
 **20** Também fez voto, dizendo: Se Deus for comigo e me proteger na viagem que empreendi, se me der pão para comer, vestido para me cobrir  
-**21** e teu voltar felizmente a casa de meu pai, o Senhor será meu Deus,  
+**21** e eu voltar felizmente a casa de meu pai, o Senhor será meu Deus,  
 **22** e esta pedra, que erigi em padrão, será chamada casa de Deus: de todas as coisas que me deres, te oferecerei (ó Senhor) o dizimo.  
 
 ## Capítulo 29
@@ -1196,12 +1196,12 @@
 **1** Habitou, pois Jacob na terra de Canaan, na qual seu pai tinha vivido como peregrino  
 **2** Esta é a sua posteridade: Quando José, ainda jovem, tendo dezasseis anos, apascentava o rebanho com seus irmãos, filhos de Bala e de Zelfa, mulheres de seu pai, fez saber a seu pai a péssima fama deles.  
 **3** Ora Israel amava José mais que todos os seus (outros) filhos, porque o gerara na velhice, e fez-lhe uma túnica de várias cores.  
-**4** Vendo, pois, seus irmãos que de era amado pelo pai mais que todos os (outros) filhos, odiavam-no, e não lhe podiam falar com bom modo.  
+**4** Vendo, pois, seus irmãos que ele era amado pelo pai mais que todos os (outros) filhos, odiavam-no, e não lhe podiam falar com bom modo.  
 **5** Sucedeu também que ele referiu a seus irmãos um sonho que tivera, o que foi causa de maior ódio.  
 **6** Disse-lhes: Ouvi o sonho que eu tive:  
 **7** parecia-me que atávamos no campo os feixes, e que o meu feixe como que se erguia, ficava de pé, e que os vossos, estando em roda, se prostravam diante do meu.  
 **8** Responderam seus irmãos: Porventura serás nosso rei ou seremos sujeitos ao teu domínio? Estes sonhos e estas conversas acenderam mais a inveja e o ódio.  
-**9** Teve ainda outro sonho, o qual referiu a seus irmãos: Vi em sonhos que o sol, a lua onze estrelas como que me adoravam.  
+**9** Teve ainda outro sonho, o qual referiu a seus irmãos: Vi em sonhos que o sol, a lua e onze estrelas como que me adoravam.  
 **10** Ora, tendo ele contado isto a seu pai e aos irmãos, seu pai repreendeu-o e disse: Que quer dizer este sonho, que tiveste? Porventura eu, tua mãe, e teus irmãos te adoraremos, prostrados por terra?  
 **11** Seus irmãos, por isto, tinham-lhe inveja; porem o pai meditava a coisa em silêncio.  
 **12** Como seus irmãos estivessem em Siquem apascentando os rebanhos do pai,  
@@ -1273,7 +1273,7 @@
 **5** O Senhor abençoou a casa do Egípcio, por causa de José, e multiplicou todos os seus bens, tanto em casa como no campo.  
 **6** (Putifar) não tinha outro cuidado que pôr-se à mesa a comer. José era de rosto formoso e aspeto gentil.  
 **7** Pelo que, passados muitos dias, lançou sua senhora os olhos sobre José e disse: Dorme comigo.  
-**8** Mas de, não consentindo de modo algum na execrável ação, disse-lhe: Se o meu Senhor, tendo entregue tudo nas minhas mãos, não pede contas do que tem em sua casa,  
+**8** Mas ele, não consentindo de modo algum na execrável ação, disse-lhe: Se o meu Senhor, tendo entregue tudo nas minhas mãos, não pede contas do que tem em sua casa,  
 **9** e nada há que não esteja em meu poder, ou que me não tenha sido confiada, exceto tu, que és sua mulher, como posso eu cometer esta maldade, e pecar contra o meu Deus?  
 **10** Ainda que, todos os dias, a mulher falasse (no mesmo assunto) ao jovem, ele recusava estar com ela.  
 **11** Mas aconteceu que, um dia, entrando José em casa, para fazer o seu serviço, sem que ninguém o visse,  
@@ -1460,7 +1460,7 @@
 **2** Põe, também, na boca do saco do mais novo a minha taça de prata, e o dinheiro que deu pelo trigo. Assim foi feito.  
 **3** Chegada a manhã, foram despedidos com os seus jumentos.  
 **4** Já haviam saído da cidade e tinham caminhado um pouco, quando José, chamando o despenseiro da casa, disse: Levanta-te, vai atrás daqueles homens, e, quando os tiveres alcançado, diz-lhes: Por que razão tornastes mal por bem?  
-**5** (A taça que roubastes) é aquela pela qual bebe o teu senhor, e da qual se serve para as suas adivinhações: vós fizestes uma péssima coisa.  
+**5** (A taça que roubastes) é aquela pela qual bebe o meu senhor, e da qual se serve para as suas adivinhações: vós fizestes uma péssima coisa.  
 **6** (O despenseiro) fez como lhe foi mandado. Tendo-os alcançado, falou-lhes nos termos ordenados.  
 **7** Eles responderam: Por que fala assim o nosso senhor? Longe de nós, teus servos, tão grande crime.  
 **8** Voltamos a trazer da terra de Canaan o dinheiro que tínhamos achado no cimo dos sacos; ora como é que, depois disto, pode ser que tenhamos furtado da casa do teu senhor ouro e prata?  
@@ -1584,7 +1584,7 @@
 **21** com todos os seus povos, desde uma extremidade do Egito até à outra.  
 **22** Somente não comprou a terra dos sacerdotes, porque os sacerdotes tinham uma determinada provisão de Faraó, e comiam a provisão que lhes dava Faraó. Por isso não venderam as suas terras,  
 **23** (Depois disto) disse José aos povos: como vedes, Faraó é o Senhor de vós e da vossa terra: tomai sementes e semeai os campos,  
-**24** para que possais colher frutos. Dareis ao rei a quinta parte: as outras quatro deixo-os a vós para semente e para sustento das vossas famílias e filhos.  
+**24** para que possais colher frutos. Dareis ao rei a quinta parte: as outras quatro deixo-as a vós para semente e para sustento das vossas famílias e filhos.  
 **25** Eles responderam: A nossa conservação está nas tuas mãos: que o nosso senhor apenas volva para nós o seu olhar, e alegres serviremos o rei.  
 **26** Desde aquele tempo até ao dia de hoje, em toda a terra do Egito, se paga aos reis a quinta parte; isto tornou-se lei (para todos) excetuada a terra sacerdotal, que ficou livre desta sujeição.  
 **27** Israel habitou, pois, no Egito, na terra do Gessen, e adquiriu, ali, bens, aumentando e multiplicando-se extraordinariamente.  

@@ -6,7 +6,7 @@
 **2** Há a distância de onze jornadas desde Horeb pelo caminho do monte Seir, até Cadesbame.  
 **3** No ano quadragésimo, no undécimo mês, no primeiro dia do mês, Moisés havia referido aos filhos de Israel tudo o que o Senhor lhe tinha ordenado que dissesse,  
 **4** depois de ter derrotado Seon, rei dos Amorreus, que habitava em Hesebon, e Og, rei de Basan, que habitava em Astaroth e em Edrai.  
-**5** Da banda dalém de Jordão, na terra de Moab, Moisés começou a explicar a lei, dizendo:  
+**5** Da banda dalém do Jordão, na terra de Moab, Moisés começou a explicar a lei, dizendo:  
 **6** O Senhor nosso Deus falou-nos em Horeb, e disse: Tendes-vos demorado muito neste monte:  
 **7** voltai e ide ao monte dos Amorreus, e a todos os outros lugares vizinhos, às planícies, às montanhas e aos vales, que ficam para o meio-dia e ao longo da costa do mar, à terra dos Cananeus, e ao Líbano até ao grande rio Eufrates.  
 **8** Eu vos entrego esta terra: entrai e possuí a terra, que o Senhor jurou dar a vossos pais Abraão, Isaac e Jacob, e à sua descendência depois deles.  
@@ -28,7 +28,7 @@
 **24** os quais, tendo-se posto a caminho, e tendo atravessado os montes, chegaram até ao Vale do Cacho: depois de explorada a terra,  
 **25** tomando dos seus frutos, para mostrarem a sua fertilidade, no-los trouxeram, e disseram: É boa a terra que o Senhor nosso Deus nós há-de dar.  
 **26** Vós não quisestes subir (a ela), mas, incrédulos à palavra do Senhor nosso Deus,  
-**27** murmurastes nas vossas tendas, dizendo: O Senhor tem-nos ódio, e por isso nos tirou dia terra do Egito para nos entregar nas mãos dos Amorreus, e exterminar-nos.  
+**27** murmurastes nas vossas tendas, dizendo: O Senhor tem-nos ódio, e por isso nos tirou da terra do Egito para nos entregar nas mãos dos Amorreus, e exterminar-nos.  
 **28** Para onde subiremos? Os exploradores aterraram o nosso coração, dizendo: A multidão é grande, e de estatura mais alta do que a nossa: as cidades são grandes, e fortificadas até ao céu: ali vimos os filhos dos Enacins.  
 **29** E eu disse-vos: Não tenhais medo e não os temais:  
 **30** o Senhor Deus, que é o vosso guia, ele mesmo combaterá por vós, como fez no Egito à vista de todos.  
@@ -299,7 +299,7 @@
 **6** Sabe, pois, que não é pela tua justiça que o Senhor teu Deus te dará a posse desta terra excelente, pois tu és um povo de cerviz duríssima.  
 **7** Lembra-te, não te esqueças de que modo provocaste à ira o Senhor teu Deus no deserto. Desde o dia em que saíste do Egito até este lugar, foste sempre rebelde ao Senhor.  
 **8** Já em Horeb o provocaste, ele irado e te quis destruir,  
-**9** quando eu subi ao monte, para receber as tábuas de pedra, as tábuas de pacto que o Senhor fez convosco, e permaneci no monte quarenta dias e quarenta noites, sem comer pão nem beber água.  
+**9** quando eu subi ao monte, para receber as tábuas de pedra, as tábuas do pacto que o Senhor fez convosco, e permaneci no monte quarenta dias e quarenta noites, sem comer pão nem beber água.  
 **10** O Senhor deu-me duas tábuas de pedra escritas com o dedo de Deus, e que continham todas as palavras que ele vos disse sobre o monte, do meio do fogo, estando junto todo o povo.  
 **11** Passados quarenta dias e outras tantas noites, o Senhor deu-me duas tábuas de pedra, as tábuas da aliança,  
 **12** e disse-me: Levanta-te e desce depressa daqui, porque o teu povo, que tiraste do Egito, prontamente abandonou o caminho que lhe mostraste: fizeram para si uma estátua fundida.  
@@ -412,7 +412,7 @@
 **27** aí oferecerás os teus holocaustos, carne e sangue, sobre o altar do Senhor teu Deus. Derramarás o sangue dos outros sacrifícios Sobre o altar, e comerás as carnes.  
 **28** Observa e ouve tudo o que eu te ordeno, para que suceda bem a ti e aos teus filhos depois de ti perpetuamente, tendo feito o que é bom e agradável aos olhos do Senhor teu Deus.  
 **29** Quando o Senhor teu Deus tiver exterminado diante de ti e das nações em que entrares para as possuir, quando as possuíres e habitares,  
-**30** abstém-te de as imitar, depois que elas estiverem sido destruídas à tua entrada. Tem cuidado, não sigas os seus deuses, dizendo: Assim como estas nações adoraram os seus deuses, de mesmo modo também eu os adorarei.  
+**30** abstém-te de as imitar, depois que elas estiverem sido destruídas à tua entrada. Tem cuidado, não sigas os seus deuses, dizendo: Assim como estas nações adoraram os seus deuses, do mesmo modo também eu os adorarei.  
 **31** Não farás assim com o Senhor teu Deus, porque elas fizeram pelos seus deuses todas as abominações, que o Senhor aborrece, oferecendo-lhes seus filhos e filhas, e queimando-os no fogo.  
 **32** Faze somente em honra do Senhor aquilo que eu te ordeno; não acrescentes nem tires nada.  
 
@@ -473,7 +473,7 @@
 
 **1** No sétimo ano farás a remissão,  
 **2** a qual será celebrada desta maneira: Aquele a quem é devida alguma coisa por seu amigo, ou por seu próximo, ou por seu irmão, não a poderá exigir, porque é o ano da remissão do Senhor.  
-**3** Poderás exigi-la do peregrino e do estrangeiro, mas não terás direito de a exigir dos teus compatriotas nem de teu vizinho.  
+**3** Poderás exigi-la do peregrino e do estrangeiro, mas não terás direito de a exigir dos teus compatriotas nem do teu vizinho.  
 **4** Não haverá entre vós nenhum pobre nem mendigo, para que o Senhor teu Deus te abençoe na terra, que te entregou como herança.  
 **5** Se ouvires a voz do Senhor teu Deus, se guardares tudo o ele te mandou, o que eu hoje te prescrevo, ele te abençoará, como prometeu.  
 **6** Tu emprestarás a muitos povos, e de nenhum receberás empréstimos. Dominarás sobre muitas nações, nenhuma te dominará.  
@@ -609,7 +609,7 @@
 **14** poupando as mulheres, os meninos, os animais e tudo o mais que houver na cidade. Distribuirás toda a presa pelo exército, e comerás dos despojes dos teus inimigos, que o Senhor teu Deus te tiver dado.  
 **15** Farás assim a todas as cidades que estão muito longe de ti, e não são do número destas nações.  
 **16** Quanto àquelas cidades, porém, que te hão-de ser dadas, não permitirás que alguém fique vivo,  
-**17** mas passá-los-ás todos ao fio da espada, isto, é, o Heteu, o Amorreu, o Cananeu, o Ferezeu, o Heveu c o Jebuseu, assim como o Senhor teu Deus te mandou,  
+**17** mas passá-los-ás todos ao fio da espada, isto, é, o Heteu, o Amorreu, o Cananeu, o Ferezeu, o Heveu e o Jebuseu, assim como o Senhor teu Deus te mandou,  
 **18** para que não suceda que vos ensinem a cometer todas as abominações, que eles mesmos praticaram para com os seus deuses, e venhais a pecar contra o Senhor vosso Deus.  
 **19** Quando te detiveres muito tempo no assédio de uma cidade, e a tiveres cercado com máquinas para a tomar, não cortarás as árvores de cujo fruto se pode comer, nem devastarás a golpes de machado o país circunvizinho, porque são árvores, e não homens, e não podem aumentar o número dos que combatem contra ti.  
 **20** Se houver algumas árvores não frutíferas, mas silvestres, aptas para outros usos, corta-as e faze delas máquinas, até que tomes a cidade que combate contra ti.  
@@ -879,7 +879,7 @@
 **5** Ele vos conduziu quarenta anos pelo deserto; as vossas vestes não se romperam, nem os sapatos dos vossos pés se gastaram com a velhice.  
 **6** Não comestes pão, nem bebestes vinho ou outro licor fermentado, para que soubésseis que eu sou o Senhor vosso Deus.  
 **7** Assim chegastes a este lugar Seon, rei de Hesebon, e Og, rei de Basan, marcharam contra nós para nos combater. Nós os derrotámos,  
-**8** tomámos o seu país, te demos a sua propriedade a Ruben, a Gad e à meia tribo de Manassés.  
+**8** tomámos o seu país, e demos a sua propriedade a Ruben, a Gad e à meia tribo de Manassés.  
 **9** Observai, pois, as palavras desta aliança, cumpri-as, a fim de assegurardes o feliz êxito de tudo o que empreenderdes.  
 **10** Vós estais hoje todos diante do Senhor vosso Deus, os vossos chefes, as vossas tribos, os anciães, os oficiais, todos varões de Israel.  
 **11** os vossos filhos e as vossas mulheres, e o estrangeiro que mora contigo no acampamento, desde os que cortam lenha, aos que acarretam água;  
@@ -904,7 +904,7 @@
 
 ## Capítulo 30
 
-**1** Quando, pois, vierem sobre ti todas estas coisas, quando trouxeres à memória a bênção ou a maldição, que eu pus diante ide ti, quando tu, tocado de arrependimento no teu coração, no meio de todas as nações, entre as quais o Senhor teu Deus te tiver espalhado,  
+**1** Quando, pois, vierem sobre ti todas estas coisas, quando trouxeres à memória a bênção ou a maldição, que eu pus diante de ti, quando tu, tocado de arrependimento no teu coração, no meio de todas as nações, entre as quais o Senhor teu Deus te tiver espalhado,  
 **2** voltares para ele e obedeceres aos seus mandamentos, tu e os teus filhos, com todo o teu coração, com toda a tua alma, como eu hoje te ordeno,  
 **3** O Senhor teu Deus te fará voltar do teu cativeiro, e se compadecerá de ti, e te reunirá de novo do meio  
 **4** Ainda que tivesses sido lançado para as extremidades do céu, dai te tirará o Senhor teu Deus  
@@ -979,7 +979,7 @@
 **17** Sacrificaram aos demónios e não a Deus, a deuses que desconheciam, deuses novos, acabados de chegar, que seus pais não tinham adorado.  
 **18** Abandonaste o Deus que te gerou, e esqueceste-te do Senhor teu criador.  
 **19** O Senhor viu (isto), e acendeu-se em ira, porque o provocaram seus filhos e filhas.  
-**20** E disse: Eu esconderei deles a minha face, e verei qual será o seu fim, porque é una geração perversa, (são) uns filhos infiéis.  
+**20** E disse: Eu esconderei deles a minha face, e verei qual será o seu fim, porque é uma geração perversa, (são) uns filhos infiéis.  
 **21** Eles provocaram-me com o que não é Deus, e irritaram-me com os seus ídolos vãos; eu os provocarei com um que não é povo, e os irritarei com uma nação insensata.  
 **22** Acendeu-se o fogo da minha cólera, e arderá até ao fundo da habitação dos mortos; devorará a terra com todos os seus produtos, abrasará os fundamentos das montanhas.  
 **23** Eu acumularei os males sobre eles, empregarei contra eles todas as minhas setas.  
@@ -1042,7 +1042,7 @@
 **25** O ferro e o bronze será seu calçado! Dure a tua prosperidade tanto como tua vida.  
 **26** Não há outro Deus, como o Deus de Jesurun, que paira sobre os céus, para teu auxílio, e sobre as nuvens majestosamente.  
 **27** A sua habitação é lá no alto, e cá em baixo estão os seus braços eternos. Ele expulsará da tua presença o inimigo, e dirá: Sê reduzido a pó.  
-**28** Israel habitará com segurança e só. A vista de Jacob (pousará) sobre um terra fecunda em pão e vinho, e os céus se escurecerão com o orvalho.  
+**28** Israel habitará com segurança e só. A vista de Jacob (pousará) sobre uma terra fecunda em pão e vinho, e os céus se escurecerão com o orvalho.  
 **29** Bem-aventurado sejas tu, ó Israel. Quem é semelhante a ti, ó povo, que tens a tua salvação no Senhor? Ele é o escudo do teu socorro, a espada da tua glória; os teus inimigos mentirão diante de ti, mas tu avançarás sobre as suas alturas,  
 
 ## Capítulo 34

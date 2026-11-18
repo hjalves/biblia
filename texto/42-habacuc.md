@@ -5,7 +5,7 @@
 **1** Oráculo revelado a Habacuc, profeta,  
 **2** Até quando, Senhor, clamarei sem que me ouças? Até quando levantarei a minha voz pará ti, padecendo violência, sem que me salves?  
 **3** Por que me mostras iniquidades, e contemplas, indiferente, a aflição. Se se decide uma causa em juízo, a contradição é que prevalece.  
-**4** Por esta causa é quebrantada a lei, e a justiça não chega a triunfar, porque o ímpio prevalece contra o justo, ó o direito sai falseado.  
+**4** Por esta causa é quebrantada a lei, e a justiça não chega a triunfar, porque o ímpio prevalece contra o justo, e o direito sai falseado.  
 **5** Ponde os olhos nas nações (diz o Senhor) e vede; admirai-vos e pasmai, porque vou fazer uma coisa em vossos dias, que não acreditaríeis se vo-la contassem,  
 **6** Vou suscitar os Caldeus, esse povo cruel e impetuoso, que percorre a superfície da terra, para se apoderar das moradas que não são suas.  
 **7** E horrível e tremendo, autor do seu direito e da sua grandeza.  

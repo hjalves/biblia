@@ -116,7 +116,7 @@
 **9** Os estrangeiros devoraram a sua força, sem ele o sentir; os seus cabelos tornaram-se brancos, sem ele o perceber.  
 **10** A soberba de Israel transparece-lhe no rosto; não se voltam para o Senhor seu Deus, não o buscam apesar de tudo isto.  
 **11** Efraim tornou-se como uma pomba imbecil, som inteligência. Chamam o Egito, vão ter com os Assírios.  
-**12** Depois que tiverem ido, estenderei sobre eles a minha rede, e fá-los-ei cair como aves do céu; castigá-los-ei segundo foi dito mas suas assembleias.  
+**12** Depois que tiverem ido, estenderei sobre eles a minha rede, e fá-los-ei cair como aves do céu; castigá-los-ei segundo foi dito nas suas assembleias.  
 **13** Ai deles, porque se retiraram de mim! Serão destruídos, porque prevaricaram contra mim! Enquanto os queria salvar, proferiam mentiras contra mim.  
 **14** Não clamam a mim do fundo do seu coração, mas uivam (desesperados) nos seus leitos! Somente temem pelo trigo e pelo vinho, revoltam-se contra mim.  
 **15** Instruí-os e dei vigor aos seus braços, mas eles meditaram o mal contra mim.  
@@ -229,7 +229,7 @@
 
 ## Capítulo 14
 
-**1** A Samaria será castigada, porque se revoltou contra o seu Deus. (Os sem habitantes) cairão ao fio da espada, serão esmagados os seus meninos, e abertos os ventres das mulheres grávidas.  
+**1** A Samaria será castigada, porque se revoltou contra o seu Deus. (Os seus habitantes) cairão ao fio da espada, serão esmagados os seus meninos, e abertos os ventres das mulheres grávidas.  
 **2** Converte-te, ó Israel, ao Senhor teu Deus, porque pela iniquidade é que caíste.  
 **3** Tomai convosco palavras (de arrependimento), convertei-vos ao Senhor, dizei-lhe; Tira-nos todas as nossas iniquidades, aceita este bem (ou bom desejo que temos); queremos oferecer-te, como sacrifício, os louvores dos nossos lábios.  
 **4** Assur não nos salvará (mas sim tu Senhor); não montaremos (arrogantes) em cavalos e nunca mais chamaremos Deus à obra das nossas mãos. (Fazemos esta súplica) porque em ti o órfão encontra compaixão,  

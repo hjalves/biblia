@@ -96,7 +96,7 @@
 **18** Caminhando ao longo do mar da Galileia, viu dois irmãos, Simão, chamado Pedro, e, André, seu irmão, que lançavam a rede ao mar, pois eram pescadores.  
 **19** "Segui-me, lhes disse, e eu vos farei pescadores de homens."  
 **20** E eles, imediatamente, deixadas as redes, o seguiram.  
-**21** Passando adiante, viu outros dois irmãos, Tiago, filho de Zebedeu, e João, seu irmão, que estavam numa barca juntamente com seu pai Zebedeu, consertando se suas redes, e chamou-os.  
+**21** Passando adiante, viu outros dois irmãos, Tiago, filho de Zebedeu, e João, seu irmão, que estavam numa barca juntamente com seu pai Zebedeu, consertando as suas redes, e chamou-os.  
 **22** Eles, imediatamente, deixando a barca e o pai, o seguiram.  
 **23** Jesus percorria toda a Galileia, ensinando nas sinagogas, e pregando o Evangelho do reino (de Deus), e curando todas as enfermidades entre o povo.  
 **24** A sua fama espalhou-se por toda a Síria, e trouxeram-lhe todos os que tinham algum mal, possuídos de vários achaques e dores: possessos, lunáticos, paralíticos; e curava-os.  
@@ -922,7 +922,7 @@
 **36** Quanto àquele dia e àquela hora, ninguém sabe, nem os anjos do céu, nem o Filho, mas só o Pai.  
 **37** Assim como foi nos dias de Noé, assim será também a (segunda) vinda do Filho do homem.  
 **38** Nos dias que precederam o dilúvio (os homens) estavam comendo e bebendo, casando-se e casando seus filhos, até ao dia em que Noé entrou na arca,  
-**39** e não souberam nada até que veio o dilúvio, e se levou a todos. Assim será também na vinda do Filho do homem.  
+**39** e não souberam nada até que veio o dilúvio, e os levou a todos. Assim será também na vinda do Filho do homem.  
 **40** Então, de dois que estiverem num campo, um será tomado e o outro será deixado.  
 **41** De duas mulheres que estiverem moendo com a mó, uma será tomada e a outra será deixada.  
 **42** Vigiai, pois, porque não sabeis a que hora virá o vosso Senhor.  

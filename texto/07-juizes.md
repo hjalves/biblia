@@ -134,7 +134,7 @@
 **4** Senhor, quando tu saíste de Seir, e passaste pelas regiões de Edom, a terra estremeceu, e os céus e as nuvens desfizeram-se em água.  
 **5** Os montes abalaram-se à vista do Senhor, e o Sinai diante da face do Senhor Deus de Israel.  
 **6** Nos dias de Samgar, filho de Anat, nos dias de Jael, estavam desertos os caminhos, e aqueles que os percorriam, caminhavam por atalhos tortuosos.  
-**7** Cessaram os valentes em Israel, e desapareceram até que se levantou Débora, ato que ela se levantou mãe em Israel.  
+**7** Cessaram os valentes em Israel, e desapareceram até que se levantou Débora, até que ela se levantou mãe em Israel.  
 **8** Escolhiam-se novos deuses, a guerra estava à porta, e não se via escudo nem lança, entre os quarenta mil de Israel.  
 **9** O meu coração ama os príncipes de Israel; vós os que voluntariamente vos expusestes ao perigo, bendizei ao Senhor.  
 **10** Vós os que montais jumentas brancas os que vos sentais sobre tapetes, e os que andais pelos caminhos, cantai.  
@@ -167,7 +167,7 @@
 **2** pelos quais foram muito oprimidos. Por medo a Madian, fizeram para si covas e cavernas nos montes, e lugares muito fortes para resistirem.  
 **3** Quando Israel tinha semeado, vinham os Mudinnitas, os Amalecitas e os outros povos orientais,  
 **4** e, pondo as tendas junto deles, talavam tudo quanto ainda estava em erva (desde o Jordão) até à entrada de Gaza, e não deixavam aos Israelitas nada do necessário à vida, nem ovelhas, nem bois, nem jumentos.  
-**5** Eles vinham com todos os seus rebanhos e tendas, como nuvem de gafanhotos, e casa multidão inumerável de homens e camelos cobria todas as coisas, destruindo tudo o que tocava.  
+**5** Eles vinham com todos os seus rebanhos e tendas, como nuvem de gafanhotos, e essa multidão inumerável de homens e camelos cobria todas as coisas, destruindo tudo o que tocava.  
 **6** Israel foi muito humilhado na presença dos Madianitas.  
 **7** Quando os israelitas clamaram ao Senhor, pedindo socorro contra os Madianitas,  
 **8** o Senhor mandou-lhes um profeta, que lhes disse; Eis o que diz o Senhor Deus de Israel: Eu vos fiz sair do Egito e vos tirei da casa da escravidão,  
@@ -345,7 +345,7 @@
 **11** O Senhor disse-lhes: Porventura os Egípcios, os Amorreus, os filhos de Amon, os Filisteus,  
 **12** e também os Sidónios, os Amalecitas e os Cinaneus, não vos oprimiram, e vós clamastes a mim, e eu não vos livrei das suas mãos?  
 **13** E com tudo isto vós abandonastes-me, e servistes deuses estranhos; por isso não mais vos livrarei.  
-**14** Ide e invocai os deuses que escolhestes; eles vos livrem ao tempo da angústia.  
+**14** Ide e invocai os deuses que escolhestes; eles vos livrem no tempo da angústia.  
 **15** Mas os filhos de Israel disseram ao Senhor: Pecamos, faz tu de nós o que te parecer; somente livra-nos agora.  
 **16** Dizendo estas coisas, lançaram fora de suas terras todos os ídolos dos deuses estranhos, e serviram ao Senhor Deus, que se compadeceu de suas misérias.  
 **17** Os filhos de Amon com grande algazarra acamparam em Gaad; e os filhos de Israel, congregando-se contra eles, acamparam em Masfa.  
@@ -375,7 +375,7 @@
 **20** Porém ele, desprezando também as palavras de Israel, não o deixou passar pelo seu território, mas, tendo juntado uma inumerável multidão, saiu contra ele, em Jasa, e atacou-o.  
 **21** Todavia o Senhor entregou-o com todo o sou exército nas mãos de Israel, que o desbaratou, e conquistou toda a terra do Amorreu, que habitava naquela região,  
 **22** e todos os seus limites, desde o Arnon até Jaboc, e desde o deserto até ao Jordão.  
-**23** Agora que o Senhor Deus de Israel destruiu os Amorreus, pelejando contra eles o seu povo do Israel, tu pretendeste possuir a sua terra?  
+**23** Agora que o Senhor Deus de Israel destruiu os Amorreus, pelejando contra eles o seu povo de Israel, tu pretendeste possuir a sua terra?  
 **24** Porventura não te é devido por direito tudo o que te deu a possuir o teu Deus Camos? Logo também ficará em nossa posse o que o Senhor nosso Deus alcançou com a vitória,  
 **25** a não ser que tu sejas de melhor condição do que Balac, filho de Sefor, rei de Moab. Porventura ele teve contendas com Israel, ou combateu contra ele,  
 **26** enquanto Israel habitou Hesebou e em suas aldeias, em Aroer e em suas aldeias, e em todas as cidades vizinhas do Jordão, por espaço de trezentos anos? Por que razão em um tão largo tempo não fizestes vós diligência alguma para lhe tirar essas terras?  
@@ -397,7 +397,7 @@
 ## Capítulo 12
 
 **1** Levantou-se uma sedição na tribo de Efraim.(Os desta tribo), passando para o setentrião, disseram a Jefté: por que razão, indo tu combater contra os filhos do Amon, não quiseste chamar-nos para irmos contigo? Por isso queimaremos a tua casa.  
-**2** Ele respondeu-lhes: Eu e o meu povo estávamos metidos numa grande contenda com os filhos de Amon; chamei-vos, para que mo désseis socorro, e vós não o quisestes fazer.  
+**2** Ele respondeu-lhes: Eu e o meu povo estávamos metidos numa grande contenda com os filhos de Amon; chamei-vos, para que me désseis socorro, e vós não o quisestes fazer.  
 **3** Vendo isto, arrisquei a minha vida e marchei contra os filhos de Amon, e o Senhor entregou-os nas minhas mãos. Em que é que eu mereci que vos levanteis contra mim a fazer-me guerra?  
 **4** Convocados todos os homens de Galaad, combateu contra Efraim, e os homens de Galaad derrotaram Efraim, porque este tinha dito: Galaad é um fugitivo de Efraim, e habita entre Efraim e Manassés.  
 **5** Os Galaaditas ocuparam os vaus do Jordão, por onde Efraim havia de voltar. Quando algum fugitivo de Efraim chegava a eles e dizia: Peço-vos que me deixeis passar — os Galaaditas respondiam-lhe: Acaso és tu efraimita? Se ele respondesse: Não sou —  
@@ -456,9 +456,9 @@
 **12** Sansão disse-lhes: Propor-vos-ei um enigma; se vós souberdes decifrá-lo dentro dos sete dias da boda, dar-vos-ei trinta túnicas e outras tantas vestes de festa;  
 **13** mas, se o não souberdes decifrar, dar-me-eis a mim trinta túnicas e outras tantas vestes de festa. Eles responderam-lhe: Propõe o enigma, para que o ouçamos.  
 **14** Ele disse-lhes: Do que come saiu comida, e do forte saiu doçura. Eles durante três dias não puderam decifrar o enigma.  
-**15** Aproximando-se o dia sétimo, disseram à mulher de Sansão: Acaricia o teu marido e faz que ele te descubra o que significa o enigma; se o não quiseres fazer, queimar-te-emos a ti e à casa do teu pai; porventura nos convidastes vós para as bodas a fim de nos despojardes?  
+**15** Aproximando-se o dia sétimo, disseram à mulher de Sansão: Acaricia o teu marido e faz que ele te descubra o que significa o enigma; se o não quiseres fazer, queimar-te-emos a ti e à casa de teu pai; porventura nos convidastes vós para as bodas a fim de nos despojardes?  
 **16** Ela punha-se a chorar junto de Sansão, e queixava-se dizendo: Tu odeias-me, não me amas, por isso não queres declarar-me o enigma, que propuseste aos filhos do meu povo. Ele respondeu: Eu não o quis descobrir a meu pai e a minha mãe, e poderei declará-lo a ti?  
-**17** Ela pois chorava diante dele durante os sete dias da boda; enfim, ao sétimo dia, sendo-lhe ela importuna, declarou-lho. Ela imediatamente o descobriu nos seus compatriotas.  
+**17** Ela pois chorava diante dele durante os sete dias da boda; enfim, ao sétimo dia, sendo-lhe ela importuna, declarou-lho. Ela imediatamente o descobriu aos seus compatriotas.  
 **18** E eles, no sétimo dia, antes de se pôr o sol, disseram-lhe: Que coisa é mais doce que o mel, e que coisa é mais forte que o leão? Ele disse-lhes: Se vós não tivésseis lavrado com a minha novilha, não teríeis decifrado o meu enigma.  
 **19** Apoderou-se dele o espírito do Senhor, e foi a Ascalon. Matou lá trinta homens, e, tirados os seus despojos, deu as trinta vestes de festa aos que tinham decifrado o enigma. Sobremaneira irado, voltou para casa de seu pai.  
 **20** Entretanto sua mulher (julgando-se abandonada), casou-se com um dos amigos e companheiros dele nas bodas.  
@@ -657,7 +657,7 @@
 ## Capítulo 21
 
 **1** Os filhos de Israel tinham jurado em Masfa, dizendo: Nenhum de nós dará a sua filha por mulher aos filhos de Benjamim.  
-**2** Foram todos à casa de Deus, em Silo, e, sentados na sua presença até à tarde, levantaram a vós, dizendo:  
+**2** Foram todos à casa de Deus, em Silo, e, sentados na sua presença até à tarde, levantaram a voz, dizendo:  
 **3** Senhor Deus de Israel, por que aconteceu ao teu povo esta desgraça de ser hoje cortada de nós uma das tribos?  
 **4** Ao outro dia, tendo-se levantado de madrugada, erigiram um altar, ofereceram nele holocaustos e vítimas pacíficas, e disseram:  
 **5** Quem de entre todas as tribos de Israel não marchou com o exército do Senhor? Com efeito, estando em Masfa, tinham-se obrigado com um solene juramento a matar os que faltassem.  

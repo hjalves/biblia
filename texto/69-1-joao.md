@@ -79,7 +79,7 @@
 **3** todo o espírito que não confessa Jesus, não é de Deus, mas é um Anticristo, do qual vós ouvistes que vem, e agora está já no mundo (por meio dos seus precursores, os hereges).  
 **4** Vós, filhinhos, sois de Deus, e alcançastes vitória sobre eles, porque o (Deus) que está em vós, é mais poderoso que o (Anticristo) que está no mundo.  
 **5** Eles são do mundo, por isso falam a linguagem do mundo, e o mundo os ouve.  
-**6** Nós somos de Deus. Quem conhece a Deus, ouve-nos; quem não é de Deus, não nos ouve. Nisto reconhecemos o espírito da verdade e do espírito do erro.  
+**6** Nós somos de Deus. Quem conhece a Deus, ouve-nos; quem não é de Deus, não nos ouve. Nisto reconhecemos o espírito da verdade e o espírito do erro.  
 **7** Caríssimos, amemo-nos uns aos outros, porque a caridade vem de Deus. Todo o que (assim) ama, nasceu de Deus e conhece a Deus.  
 **8** Quem não ama, não conheceu a Deus, porque Deus é caridade.  
 **9** Nisto se manifestou a caridade de Deus para connosco, em que Deus enviou o seu Filho unigénito ao mundo, para que por ele tenhamos a vida (da graça).  

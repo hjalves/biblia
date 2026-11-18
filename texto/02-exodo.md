@@ -4,7 +4,7 @@
 
 **1** Estes são os nomes dos filhos de Israel que entraram no Egito com Jacob cada um deles entrou com sua família:  
 **2** Ruben, Simeão, Levi, Judá,  
-**3** Issacar, Zabuloh, Benjamim,  
+**3** Issacar, Zabulon, Benjamim,  
 **4** Dan, Neftali, Gad e Aser.  
 **5** Eram setenta todas as pessoas provindas de Jacob. José estava (já) no Egito.  
 **6** Depois da sua morte e da de todos os seus irmãos, e de toda aquela geração,  
@@ -91,7 +91,7 @@
 **9** Se nem ainda acreditarem nestes dois prodígios, e não ouvirem a tua voz, toma água do rio, derrama-a por terra, e toda a que tirares do rio se convertará em sangue.  
 **10** Moisés disse: Perdoa, Senhor, eu não sou de palavra fácil desde ontem e desde ante-ontem, e, desde que falaste ao teu Servo, a minha língua está mais embaraçada e mais tarda.  
 **11** O Senhor disse-lhe; Quem fez a boca do homem? quem formou o mudo e o surdo, o que vê e o que é cego? Não sou eu?  
-**12** Vai, pois, e eu estarei na tua toca e te ensinarei o que deverás dizer.  
+**12** Vai, pois, e eu estarei na tua boca e te ensinarei o que deverás dizer.  
 **13** (Moisés) porém disse: Rogo-te Senhor, que envies a tua mensagem por quem quiseras enviar.  
 **14** O Senhor irou-se contra Moisés e disse: Eu sei que Aarão, teu irmão Levita, é eloquente; eis que ele sai ao teu encontro, e, vendo-te, se alegrará no seu coração  
 **15** Fala-lhe e põe as minhas palavras na sua boca: eu serei na tua boca e na dele, e vos mostrarei o que deveis fazer.  
@@ -276,7 +276,7 @@
 
 **1** O Senhor disse a Moisés: Vai ter com Faraó, porque eu endureci o seu coração e o de seus servos, a fim de operar nele os meus prodígios,  
 **2** e para que tu contes a teus filhos e a teus netos quantas vezes feri os Egípcios, e os prodígios que operei no meio deles, e para que vós saibais que eu sou o Senhor.  
-**3** Moisés e Aarão apresentaram-se, pois, a Faraó, e disseram-lhe: O Senhor Deus dos Hebreus diz estas coisas: Até quando recusarás sujeitar-se a mim? Deixa ir o meu povo para que me ofereça sacrifícios.  
+**3** Moisés e Aarão apresentaram-se, pois, a Faraó, e disseram-lhe: O Senhor Deus dos Hebreus diz estas coisas: Até quando recusarás sujeitar-te a mim? Deixa ir o meu povo para que me ofereça sacrifícios.  
 **4** Se ainda resistes, e não o queres deixar ir, amanhã mandarei gafanhotos sobre as tuas terras,  
 **5** os quais cobrirão a superfície da terra, de sorte que dela não apareça nada; será devorado o que escapou do granizo, porque eles roerão todas as plantais que crescem nos campos.  
 **6** Encherão as tuas casas, as dos teus servos, as de todos os Egípcios: nem os teus pais, nem os teus avós viram tanta quantidade, desde que eles nasceram na terra até ao presente. Com isto Moisés voltou-se e saiu da presença de Faraó.  
@@ -608,7 +608,7 @@
 ## Capítulo 21
 
 **1** Estas são as leis que lhes darás:  
-**2** Se comprares um escravo hebreu, de te servirá seis anos; ao sétimo, sairá forro, sem pagar nada.  
+**2** Se comprares um escravo hebreu, ele te servirá seis anos; ao sétimo, sairá forro, sem pagar nada.  
 **3** Se entrou só, sairá só; se tiver mulher, também a mulher sairá juntamente com ele.  
 **4** Mas, se o senhor lhe tiver dado mulher, e ela tiver dado a luz filhos e filhas, a mulher e os seus filhos serão do seu senhor, e ele sairá só.  
 **5** Porém, se o escravo disser: "Eu tenho amor ao meu senhor, à minha mulher e aos meus filhos, não quero sair forro,"  
@@ -721,7 +721,7 @@
 **3** Veio, pois, Moisés e referiu ao povo todas estas palavras do Senhor e as leis; e todo o povo respondeu a uma voz: Nós observaremos todas as palavras ditas pelo Senhor.  
 **4** Moisés escreveu todas as palavras do Senhor. Depois, levantou-se, de manhã, e erigiu um altar no sopé do monte, e doze padrões para as doze tribos de Israel,  
 **5** e enviou jovens dentre os filhos de Israel, que ofereceram os seus holocaustos e imolaram ao Senhor vítimas pacíficas de novilhos.  
-**6** Moisés tomou metade do sangue e lançou-o em taças, e derramou e outra metade sobre o altar.  
+**6** Moisés tomou metade do sangue e lançou-o em taças, e derramou a outra metade sobre o altar.  
 **7** Tomando o livro da aliança, o leu na presença do povo, o qual disse: Faremos tudo o que o Senhor disse, e seremos obedientes.  
 **8** (Moisés) tomou o sangue, derramou-o sobre o povo, e disse: Este é o sangue da aliança que o Senhor celebrou convosco, sobre todas estas palavras.  
 **9** Moisés e Aarão, Nadab e Abiu, com os setenta anciães Israel subiram  
@@ -761,7 +761,7 @@
 **22** De lá te darei as minhas ordens, em cima do propiciatório, e do meio dos dois querubins, que estarão sobre a arca do testemunho, e te direi todas as coisas que por meio de ti intimarei aos filhos de Israel.  
 **23** Farás também uma mesa de pau de acácia, que tenha dois côvados de comprimento, um côvado de largura, e côvado e meio de altura.  
 **24** Cobri-la-ás de ouro puríssimo, far-lhe-ás uma moldura de ouro em roda,  
-**25** e (porás) sobre a mesma moldura uma coroa entalhada, de quatro dedos de altura: e, sobre este, outra coroa de ouro.  
+**25** e (porás) sobre a mesma moldura uma coroa entalhada, de quatro dedos de altura: e, sobre esta, outra coroa de ouro.  
 **26** Farás também quatro argolas de ouro, e as porás nos quatro cantos da mesma mesa, uma em cada pé.  
 **27** As argolas de ouro estarão da parte de baixo da coroa para se meterem por elas varais, a fim de a mesa poder ser transportada.  
 **28** Farás varais de pau de acácia, e os cobrirás de ouro; servirão para transportar a mesa.  
@@ -828,7 +828,7 @@
 **6** Farás também para o altar dois varais de pau de acácia, que revesarás de chapas de bronze,  
 **7** enfiá-los-ás pelas argolas, e ficarão de um e outro lado do altar, a fim de servirem para o transportar.  
 **8** Não o farás maciço, mas oco e côncavo por dentro, como te foi mostrado no monte.  
-**9** Farás também o átrio do tabernáculo, de cujo lado austral, que olha para o medo dia, haverá cortinas de linho fino retorcido: este lado terá cem côvados de comprimento.  
+**9** Farás também o átrio do tabernáculo, de cujo lado austral, que olha para o meio dia, haverá cortinas de linho fino retorcido: este lado terá cem côvados de comprimento.  
 **10** (Farás) vinte colunas com outras tantas bases de bronze, que terão os capitéis com os seus ornatos de prata.  
 **11** Da mesma sorte também no lado do aquilão haverá cortinas numa extensão de cem côvados, vinte colunas e outras tantas bases de bronze, e seus capitéis de prata com seus ornatos.  
 **12** Na largura, porém, do átrio, que olha para o ocidente, haverá cortinas de cinquenta côvados, e dez colunas, e outras tantas bases.  
@@ -981,7 +981,7 @@
 ## Capítulo 31
 
 **1** O Senhor falou a Moisés, dizendo;  
-**2** Sabe que chamei pelo (seu) nome a Beseleel, filho de Uri, filho de Hur da tribo da Judá.  
+**2** Sabe que chamei pelo (seu) nome a Beseleel, filho de Uri, filho de Hur da tribo de Judá.  
 **3** e o enchi do espírito de Deus, de sabedoria, de inteligência e de ciência, para toda a qualidade de obras,  
 **4** para inventar tudo o que se pode fazer com o ouro, com a prata, com o cobre,  
 **5** com o mármore, com as pedras preciosas e com as diversas madeiras.  
@@ -1071,7 +1071,7 @@
 **4** (Moisés) pois cortou duas tábuas de pedra. como eram as primeiras, e, levantando-se de noite, subiu ao monte Sinai, conforme o Senhor lhe tinha ordenado, levando consigo as tábuas.  
 **5** Tendo descido o Senhor no meio da nuvem, esteve com ele, e pronunciou o nome de Iavé.  
 **6** Passando o Senhor diante dele, exclamou; Iavé, Iavé, Deus misericordioso e clemente, paciente e de muita misericórdia, e verdadeiro,  
-**7** que conserva a misericórdia tem milhares de gerações, que perdoa a iniquidade, a revolta e os pecados, mas que os não deixa sem castigo, punindo a iniquidade dos pais sobre os filhos e os netos ate à terceira e quarta geração.  
+**7** que conserva a misericórdia em milhares de gerações, que perdoa a iniquidade, a revolta e os pecados, mas que os não deixa sem castigo, punindo a iniquidade dos pais sobre os filhos e os netos ate à terceira e quarta geração.  
 **8** Imediatamente Moisés se prostrou, se curvou até à terra,  
 **9** dizendo: Senhor, se eu achei graça em tua presença, peço-te que venhas connosco (porque este povo é de cerviz dura), e que tires as nossas iniquidades e pecados, e que tomes posse de nós.  
 **10** O Senhor respondeu: Eu farei à vista de todos a aliança, farei prodígios, que nunca jamais se viram sobre a terra, nem em alguma nação, para que este povo, no meio do qual estás, veja a obra do Senhor porque vou fazer coisas terríveis contigo.  
@@ -1219,7 +1219,7 @@
 **3** Para o seu serviço preparou diversos utensílios de bronze, caldeiras, tenazes, garfos, ganchos e braseiros.  
 **4** E fez a sua grelha de bronze em forma de rode, que colocou em baixo, sob o rebordo do altar, a meia altura dele,  
 **5** tendo vazado quatro argolas para pôr nos quatro cantos da grelha, a fim de por elas fazer passar os varais para o transporte;  
-**6** fez esses mesmos varais de pau de acácia, e cobriu-os com lâminas de bronze,  
+**6** fez esses mesmos varais de pau de acácia, cobriu-os com lâminas de bronze,  
 **7** e meteu-os nas argolas, que sobressaíam dos lados do altar. O altar, porém, não era maciço, mas (feito) de tábuas, oco por dentro.  
 **8** Fez também a bacia de bronze e a sua base com os espelhos das mulheres, que velavam à porta do tabernáculo.  
 **9** Fez mais o átrio, a cujo lado meridional estavam cortinas de linho fino retorcido, com o comprimento de cem côvados.  
@@ -1253,7 +1253,7 @@
 **3** obra tecida de várias cores: cortou folhas de ouro, e reduziu-as a fios para poderem entrelaçar-se com a trama das cores acima ditas.  
 **4** e ( fez) duas ourelas ligadas entre si em um e outro lado das extremidades (do éfode),  
 **5** e (fez) o cíngulo das mesmas cores, conforme o Senhor tenha ordenado a Moisés.  
-**6** Preparou também duas pedras de ónix medidas em duas cápsulas de ouro, e onde gravou segundo a arte dois lapidários os nomes dos filhos de Israel:  
+**6** Preparou também duas pedras de ónix medidas em duas cápsulas de ouro, e onde gravou segundo a arte dos lapidários os nomes dos filhos de Israel:  
 **7** colocou-as nos dois lados do éfode, como para memória dos Filhos de Israel, como o Senhor tinha ordenado a Moisés.  
 **8** Fez mais o peitoral tecido a várias cores com trabalho semelhante ao éfode, de outro, púrpura violácea e escarlate, carmesim e linho fino retorcido;  
 **9** (fê-lo) quadrado e dobrado, da medida de um palmo.  
@@ -1274,7 +1274,7 @@
 **24** uma campainha de ouro e uma romã; com estas coisas ia adornado o pontífice, quando exercia as funções do seu ministério, conforme o Senhor tinha ordenado a Moisés.  
 **25** Fizeram também para Aarão e seus filhos as túnicas tecidas de linho finto,  
 **26** as mitras de linho fino,  
-**27** os calções ide linho fino retorcido,  
+**27** os calções de linho fino retorcido,  
 **28** e o cíngulo de linho fino retorcido, de púrpura violácea e escarlate e carmesim, com vários recamos, como o Senhor ordenara a Moisés.  
 **29** Fizeram mais a lâmina, diadema sagrado, de puríssimo ouro, e escreveram nela por mão do gravador: Santidade ao Senhor;  
 **30** ajustaram-na à mitra com uma fita de púrpura violácea, como o Senhor tinha ordenado a Moisés.  

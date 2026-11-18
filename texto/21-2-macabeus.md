@@ -206,7 +206,7 @@
 **1** Pouco tempo depois, mandou o rei um certo velho ateniense para forçar os Judeus a deixarem as leis de Deus e as de seus pais,  
 **2** para profanar o templo de Jerusalém e dedicá-lo a Júpiter Olímpico, e consagrar o templo de Garizim a Júpiter Hospitaleiro, conforme o caráter dos habitantes daquele lugar.  
 **3** Era pernicioso e grave para todos este crescimento de males,  
-**4** porque o templo estava cheio de lascívias e de festins dos Gentios, que se divertiam com prostitutas e tinham comércio com mulheres aos santos átrios, e levaram lá para dentro o que não era permitido.  
+**4** porque o templo estava cheio de lascívias e de festins dos Gentios, que se divertiam com prostitutas e tinham comércio com mulheres nos santos átrios, e levaram lá para dentro o que não era permitido.  
 **5** O altar também estava cheio de vítimas impuras, proibidas pelas leis.  
 **6** Não se podia guardar os sábados nem celebrar já as festas antigas, e ninguém se atrevia a confessar que era Judeu.  
 **7** Eram levados à viva força aos sacrifícios mensais (profanos) no dia dos anos do rei; e quando se celebrava a festa de Baco, obrigavam-nos a ir pelas ruas, coroados de hera, em honra do mesmo Baco.  
@@ -331,7 +331,7 @@
 **8** Assim aquele que, elevando-se pela sua soberba sobre a condição de homem, imaginava que podia dar ordens às ondas do mar e pesar numa balança as montanhas, agora humilhado até à terra, era levado numa cadeira, dando aos olhos de todos um manifesto testemunho do poder de Deus.  
 **9** Do corpo deste ímpio saíam bichos, e, ainda vivendo, lhe caíam as carnes a pedaços no meio das dores, sendo tal o cheiro da podridão que dele saía, que incomodava todo o exército.  
 **10** Aquele que, pouco antes, cuidava que podia tocar nos astros do céu, agora ninguém o podia suportar, por causa do intolerável cheiro que exalava.  
-**11** Assim, derribado com isto da sua grande soberba, começou a entrar do conhecimento de si mesmo, estimulado pelo castigo de Deus, que aumentava, a cada instante, as suas dores.  
+**11** Assim, derribado com isto da sua grande soberba, começou a entrar no conhecimento de si mesmo, estimulado pelo castigo de Deus, que aumentava, a cada instante, as suas dores.  
 **12** E, como nem ele próprio pudesse já suportar o seu mau cheiro, disse assim; É justo que o homem seja sujeito a Deus, e que quem é mortal não pretenda igualar-se com o mesmo Deus.  
 **13** Este malvado orava ao Senhor, do qual não havia de alcançar misericórdia,  
 **14** prometendo declarar livre aquela cidade, contra a qual antes se encaminhava apressado para a arrasar e reduzir a um sepulcro;  

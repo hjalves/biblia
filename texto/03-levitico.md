@@ -477,7 +477,7 @@
 **8** Se a saliva deste homem cair sobre um que está limpo, esse lavará as suas vestes, e, lavado ele mesmo em água, será impuro até à tarde.  
 **9** A sela, sobre que tiver cavalgado, ficará impura;  
 **10** tudo o que tiver estado debaixo daquele que padece este mal, ficará impuro até à tarde. O que levar alguma destas coisas, lavará as suas vestes, e, lavando-se ele mesmo em água, será impuro até à tarde.  
-**11** Todo aquele que for tocado por um homem em tal estado, sem este ter antes lavado as mãos, lavará também as suas vestes, e, lavando-se ele mesmo em água, será impuro até à tarde.  
+**11** Todo aquele que for tocado por um homem em tal estado, sem este ter antes lavado as mãos, lavará as suas vestes, e, lavando-se ele mesmo em água, será impuro até à tarde.  
 **12** O vaso de barro que tocar, será quebrado, e o vaso de pau será lavado em água.  
 **13** Se o que padece esta moléstia sarou dela, contará sete dias depois da cura, e, lavadas as suas vestes e todo o corpo na água viva, ficará puro.  
 **14** Ao oitavo dia, tomará duas rolas ou dois pombinhos e apresentar-se-á diante do Senhor, à porta do tabernáculo da reunião e dá-los-á ao sacerdote,  
@@ -536,7 +536,7 @@
 **31** Porque é um sábado do descanso, e afligireis as vossas almas, por lei perpétua.  
 **32** À expiação será feita pelo sacerdote que foi ungido, e cujas mãos foram sagradas para exercer as funções do sacerdócio em vez de seu pai; será revestido da túnica de linho e das vestes sagradas,  
 **33** fará expiação pelo santuário, pelo tabernáculo da reunião e pelo altar, e também pelos sacerdotes e por todo o povo.  
-**34** Será para vós lei perpétua, o fazer oração uma ver por ano pelos filhos de Israel e por todos os seus pecados. Fez-se como o Senhor tinha ordenado a Moisés,  
+**34** Será para vós lei perpétua, o fazer oração uma vez por ano pelos filhos de Israel e por todos os seus pecados. Fez-se como o Senhor tinha ordenado a Moisés,  
 
 ## Capítulo 17
 
@@ -566,7 +566,7 @@
 **5** Guardai as minhas leis e os meus mandamentos; o homem que os observa, viverá por eles. Eu sou o Senhor.  
 **6** Nenhum homem se aproximará duma mulher, que lhe é próxima por sangue, para descobrir a sua nudez. Eu sou o Senhor.  
 **7** Não descobrirás a nudez de teu pai nem a nudez de tua mãe; ela é tua mãe, não descobrirás a sua nudez.  
-**8** Não descobrirás a nudez da mulher de teu pai, porque é nudez de seu pai.  
+**8** Não descobrirás a nudez da mulher de teu pai, porque é nudez de teu pai.  
 **9** Não descobrirás a nudez de tua irmã, por parte do pai, ou por parte da mãe, tenha ela nascido dentro ou fora de casa.  
 **10** Não descobrirás a nudez da filha de teu filho, nem da filha de tua filha, porque é tua nudez.  
 **11** Não descobrirás a nudez da filha da mulher de teu pai, a qual ela deu à luz a teu: pai, porque é tua irmã.  
@@ -765,9 +765,9 @@
 **38** independentemente dos sábados do Senhor, dos vossos dons, dos vossos votos e de todas as ofertas que voluntariamente fizerdes ao Senhor.  
 **39** Desde o dia quinze do sétimo mês, quando tiverdes colhido todos os frutos da vossa terra, celebrareis as festas do Senhor durante sete dias: o primeiro dia e o oitavo serão de completo descanso.  
 **40** No primeiro dia tomareis dos frutos de árvores formosas, folhas de palmeira, ramos de árvores frondosas, salgueiros da torrente, e alegrar-vos-eis diante do Senhor vosso Deus.  
-**41** Celebrareis todos os anos durante sete dias esta solenidade. Esta será uma lei perpétua cm vossas gerações. Celebrá-la-eis no sétimo mês,  
+**41** Celebrareis todos os anos durante sete dias esta solenidade. Esta será uma lei perpétua em vossas gerações. Celebrá-la-eis no sétimo mês,  
 **42** e habitareis à sombra dos ramos durante sete dias: todo o homem da geração de Israel habitará em tendas.  
-**43** para que os vossos descendentes saibam que eu fiz habitar em tendas os filhos de Israel, depois de os ter tirado da tenra do Egito. Eu sou o Senhor vosso Deus.  
+**43** para que os vossos descendentes saibam que eu fiz habitar em tendas os filhos de Israel, depois de os ter tirado da terra do Egito. Eu sou o Senhor vosso Deus.  
 **44** Moisés, pois, falou aos filhos de Israel sobre as festas do Senhor.  
 
 ## Capítulo 24
@@ -781,7 +781,7 @@
 **7** porás sobre eles incenso lucidíssimo, para que o pão seja monumento de oferta feita ao Senhor.  
 **8** Cada sábado se mudarão estes pães diante do Senhor, depois de terem sido recebidos dos filhos de Israel; é uma aliança perpétua.  
 **9** Pertencerão a Aarão e a seus filhos, para os comerem no lugar santo, porque são coisa santíssima entre as oferendas feitas pelo fogo ao Senhor. É uma lei perpétua.  
-**10** O filho de uma mulher israelita, que ela tivera de Egípcio que vivia entre os filhos de Israel, saiu fora e contendeu nos acampamentos com um Israelita.  
+**10** O filho de uma mulher israelita, que ela tivera de um Egípcio que vivia entre os filhos de Israel, saiu fora e contendeu nos acampamentos com um Israelita.  
 **11** Tendo blasfemado e amaldiçoado o nome do Senhor, foi levado a Moisés (sua mãe chamava-se Salumite, filha de Dabri, da tribo de Dan),  
 **12** e puseram-no em prisão, até saberem o que o Senhor ordenaria.  
 **13** O Senhor falou a Moisés,  
@@ -848,7 +848,7 @@
 **48** depois da venda pode ser resgatado. Qualquer de seus irmãos que quiser, o resgatará;  
 **49** igualmente o poderá resgatar seu tio, seu primo, ou qualquer parente próximo. Se ele o puder fazer por si mesmo, resgatar-se-á,  
 **50** sendo contados somente os anos desde o tempo da sua venda até ao ano do jubileu, e sendo contada a quantia, por que foi vendido, segundo o número dos anos, e segundo se paga ao jornaleiro.  
-**51** Se forem ainda muitos os anos que restem até ao jubileu, o preço (do resgate) será em proporção destes (anos).  
+**51** Se forem ainda muitos os anos que restam até ao jubileu, o preço (do resgate) será em proporção destes (anos).  
 **52** Se (faltarem) poucos, fará com o comprador a conta segundo o número dos anos, e pagar-lhe-á em proporção dos anos que faltam,  
 **53** levando em conta o salário do tempo que serviu: (o comprador) não o tratará com aspereza à tua vista.  
 **54** Se ele não puder ser resgatado por nenhum destes modos, sairá com seus filhos no ano do jubileu.  
@@ -890,7 +890,7 @@
 **32** Desolarei a vossa terra, e os vossos inimigos pasmarão sobre ela, quando a habitarem.  
 **33** A vós porém, espalhar-vos-ei entre as nações, e desembainharei a espada atrás de vós, será deserta a vossa terra, destruídas as vossas cidades.  
 **34** Então agradarão à terra os seus sábados durante todo o tempo da sua solidão; quando estiverdes  
-**35** em terra de inimigos, ela terá descanso, e repousará nos sábados, dia sua solidão, pois que não repousou nos vossos sábados, quando habitáveis nela.  
+**35** em terra de inimigos, ela terá descanso, e repousará nos sábados, da sua solidão, pois que não repousou nos vossos sábados, quando habitáveis nela.  
 **36** E aos que de vós ficarem, porei tal espanto nos seus corações, em terras dos inimigos, que o ruído de uma folha agitada (pelo vento) os aterrará, e fugirão dela como de uma espada: cairão, sem que ninguém os persiga,  
 **37** precipitar-se-ão uns sobre os outros, como se fugissem das batalhas: nenhum de vós ousará resistir aos inimigos;  
 **38** perecereis entre as nações, e a terra inimiga vos consumirá.  

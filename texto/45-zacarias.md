@@ -4,7 +4,7 @@
 
 **1** No oitavo mês, no segundo ano do reinado de Dario, foi dirigida ao profeta Zacarias, filho de Baraquias, filho de Ado, a palavra do Senhor, nestes termos:  
 **2** O Senhor irou-se em extremo contra vossos pais.  
-**3** Tu dirás (a estes seus filhos): Assim fala o Senhor dos exércitos: Voltai outra vez a mim, diz o Senhor dos exércitos, e ou voltarei de novo a vós, diz o Senhor dos exércitos.  
+**3** Tu dirás (a estes seus filhos): Assim fala o Senhor dos exércitos: Voltai outra vez a mim, diz o Senhor dos exércitos, e eu voltarei de novo a vós, diz o Senhor dos exércitos.  
 **4** Não sejais como vossos pais, aos quais os profetas que vos precederam lançaram este apelo: Isto diz o Senhor dos exércitos: Convertei-vos dos vossos maus caminhos, das vossas malvadas ações. Eles não me ouviram, não me deram atenção, diz o Senhor.  
 **5** Onde estão já vossos pais? E porventura vivem os profetas eternamente?  
 **6** Mas as minhas palavras e as minhas ordens dadas aos meus servos, os profetas, acaso não atingiram vossos pais? (Sim, e de tal forma que) eles então se converteram, dizendo: Como o Senhor dos exércitos fez tenção de nos tratar, segundo os nossos caminhos e segundo as nossas obras, assim de facto nos tratou.  
@@ -72,7 +72,7 @@
 
 ## Capítulo 5
 
-**1** (Em seguida) levantei os meus olhos, pus-me a olhar e vi um livro que voava.  
+**1** (Em seguida) levantei os olhos, pus-me a olhar e vi um livro que voava.  
 **2** (O anjo) disse-me; Que vês tu? Respondi: Vejo um livro que voa, o qual tem vinte côvados de comprido e dez côvados de largo.  
 **3** Então disse-me (o anjo): Esta é a maldição que vai difundir-se sobre a face de todo o país; todo o ladrão será expulso por ela, e todo o que jura (falso) será, da mesma sorte, lançado fora por ela.  
 **4** Eu a deixarei espalhar-se, diz o Senhor dos exércitos, e ela irá à casa do ladrão, e à casa do que jura falsamente em meu nome; ficará no meio da casa (de cada um) deles e a consumirá com a sua madeira e as suas pedras.  
@@ -175,7 +175,7 @@
 **6** Fortalecerei a casa de Judá, salvarei a casa de José; restabelecê-los-ei porque me compadecerei deles; serão como se os não tivesse rejeitado, porque eu sou o Senhor seu Deus: ouvi-los-ei.  
 **7** (Os de) Efraim serão como heróis, e o seu coração se alegrará como (com) o vinho; os seus filhos os verão e se alegrarão, e o seu coração exultará no Senhor.  
 **8** Eu lhes assobiarei e os congregarei, porque os resgatei; multiplicá-los-ei, como antes se tinham multiplicado.  
-**9** Semeá-los-ei por entre os povos, e eles de longe de recordarão de mim; instruirão seus filhos, e tomarão a vir.  
+**9** Semeá-los-ei por entre os povos, e eles de longe se recordarão de mim; instruirão seus filhos, e tomarão a vir.  
 **10** Reconduzi-los-ei da terra do Egito, congregá-los-ei da Assíria, introduzi-los-ei na terra de Galaad e no Líbano, e não se achará lá lugar (bastante) para eles (por serem numerosos).  
 **11** Israel passará o mar, do Egito, (o Senhor) ferirá as ondas do mar, todas as profundidades do Nilo ficarão descobertas. A soberba de Assur será humilhada, e o cetro do Egito será tirado.  
 

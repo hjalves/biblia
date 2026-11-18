@@ -388,7 +388,7 @@
 **42** Saciarei a minha indignação contra ti, e o meu zelo se retirará de ti, e me apaziguarei, e não me tornarei mais a irar.  
 **43** Porque te não lembraste dos dias da tua mocidade e me irritaste com todos estes excessos, por isso também fiz que recaísse sobre a tua cabeça o teu proceder, diz o Senhor Deus. Não cometeste o mal com todas as tuas práticas abomináveis?  
 **44** Eis que todos os que proferem provérbios te aplicarão este: Tal mãe, tal filha.  
-**45** Tu és bem a filha de tua mãe, a qual abandonou o seu esposo (místico, que ó Deus) e os seus filhos (sacrificando-os aos ídolos); e és a irmã de tuas irmãs, que abandonaram os seus esposos e os seus filhos; vossa mãe é Hetela e vosso pal Amorreu.  
+**45** Tu és bem a filha de tua mãe, a qual abandonou o seu esposo (místico, que ó Deus) e os seus filhos (sacrificando-os aos ídolos); e és a irmã de tuas irmãs, que abandonaram os seus esposos e os seus filhos; vossa mãe é Hetela e vosso pai Amorreu.  
 **46** Tua irmã mais velha é a Samaria com as suas filhas (ou cidades) que habitam à tua mão esquerda; e tua irmã mais nova, que habita à tua mão direita, é Sodoma com suas filhas (ou cidades).  
 **47** Porém tu não somente não ficaste atrás em seguir os seus caminhos e em obrar segundo as suas maldades, mas foste mais perversa que elas em teu proceder,  
 **48** Por minha vida, diz o Senhor Deus. (juro) que o que fez Sodoma, tua irmã, ela e suas filhas, não foi tanto como o que tu e suas filhas fizestes.  
@@ -617,7 +617,7 @@
 **5** Oola foi-me infiel e apaixonou-se pelos seus amantes os Assírios, seus vizinhos,  
 **6** vestidos de púrpura. governadores e chefes, jovens amáveis, cavaleiros montados a cavalo.  
 **7** Dispensou os seus favores amorosos a estes homens escolhidos, filhos todos dos Assírios, e manchou-se com ídolos de todos aqueles de quem loucamente estava enamorada.  
-**8** Porém não abandonou as prostituições que tinha tido no Egito, pois (o Egípcios) dormiram com ela na sua adolescência, apertaram o seu selo virginal, comunicaram-lhe todas as suas impurezas.  
+**8** Porém não abandonou as prostituições que tinha tido no Egito, pois (os Egípcios) dormiram com ela na sua adolescência, apertaram o seu seio virginal, comunicaram-lhe todas as suas impurezas.  
 **9** Por isso entreguei-a nas mãos dos seus amantes, nas mãos dos filhos de Assur, por quem ardia de paixão.  
 **10** Eles descobriram a sua nudez, levaram seus filhos e filhas, e mataram-na a ela própria com a espada. E ela tornou-se famosa entre as mulheres, pelo castigo que lhe foi aplicado.  
 **11** Tendo visto isto, sua irmã Ooliba enlouqueceu de paixão ainda mais do que ela, e as suas prostituições excederam as de sua irmã.  
@@ -730,7 +730,7 @@
 **16** Todos os príncipes do mar descerão dos seus tronos e deporão os seus mantos, arrojarão de de si as suas vestes bordadas; revestir-se-ão de terror, sentar-se-ão na terra, e, atónitos com o teu caso, tremerão sem cessar.  
 **17** Fazendo uma lamentação sobre ti, dirão: Como pereceste, tu que habitas no mar, ó cidade célebre, que tens sido poderosa no mar com os teus habitantes, a quem todos temiam!  
 **18** Agora tremem as ilhas no dia da tua queda, ficam turbadas as ilhas do mar, vendo o teu destino.  
-**19** Eis o que diz o Senhor Deus: Quando te tiver reduzido a uma cidade deserta, como as cidades que não são habitadas, quando tiver feito vir sobre ti o abismo (as ondas do mar), e te tiver coberto um dilúvio do águas,  
+**19** Eis o que diz o Senhor Deus: Quando te tiver reduzido a uma cidade deserta, como as cidades que não são habitadas, quando tiver feito vir sobre ti o abismo (as ondas do mar), e te tiver coberto um dilúvio de águas,  
 **20** precipitar-te-ei com aqueles que descem ao sepulcro, para te juntar aos mortos antigos, colocar-te-ei no fundo da terra, nas solidões eternas, com os que foram conduzidos ao túmulo, a fim de ficares para sempre desabitada, quando eu tiver ornado de esplendor a terra dos viventes.  
 **21** Tornar-te-ei um objeto de terror, e tu não existirás mais. Ainda que te busquem, nunca mais te acharão, diz o Senhor Deus.  
 
@@ -762,7 +762,7 @@
 **24** Faziam comércio de diversos produtos de luxo: mantos de púrpura ou bordados, tecidos matizados, fortes cordas entrançadas, tudo posto nos teus mercados.  
 **25** Os navios de Tarsis serviam no teu comércio. Foste cheia de bens e de glória no coração do mar.  
 **26** Os teus remadores conduziram-te sobre grandes águas, (porém) o vento do oriente quebrou-te no coração do mar.  
-**27** As tuas riquezas, os teus produtos, as tuas mercadorias, os teus marinheiros e os teus pilotos, os tens calafates, os encarregados do teu comércio, os guerreiros que estavam contigo, e toda a multidão do povo que estava no meio de ti, cairão todos no fundo do mar, no dia da tua ruína.  
+**27** As tuas riquezas, os teus produtos, as tuas mercadorias, os teus marinheiros e os teus pilotos, os teus calafates, os encarregados do teu comércio, os guerreiros que estavam contigo, e toda a multidão do povo que estava no meio de ti, cairão todos no fundo do mar, no dia da tua ruína.  
 **28** Ao estrondo da gritaria dos teus pilotos se turbarão as praias;  
 **29** todos os remadores descerão dos seus navios; os marinheiros e todos os pilotos do mar ficarão em terra;  
 **30** farão sobre ti um grande pranto em altas vozes, gritarão com amargura, deitarão pó sobre a sua cabeça, rolarão na cinza,  
@@ -897,7 +897,7 @@
 **17** No ano duodécimo, aos quinze do mês, foi-me dirigida a palavra do Senhor, nestes termos:  
 **18** Filho de homem, entoa um cântico lúgubre sobre o povo do Egito: (vaticinando) precipita-o a ele e ás filhas das nações fortes, no fundo da terra com aqueles que descem à fossa.  
 **19** A quem excedes em beleza? Desce e deita-te com os incircuncidados.  
-**20** Cairão no meio daqueles que foram mortos à espada—foi dada a espada (por Deus nos Caldeus). Levaram após si o Egito e todos os seus povos.  
+**20** Cairão no meio daqueles que foram mortos à espada—foi dada a espada (por Deus aos Caldeus). Levaram após si o Egito e todos os seus povos.  
 **21** Do meio da habitação dos mortos lhes dirão os mais poderosos dentre os fortes, a ele e aos seus auxiliares: Desceram e jazem, passados ao fio da espada, os incircuncidados.  
 **22** Ali está Assur, e toda a sua multidão de povo; os seus sepulcros estão ao redor dele; todos foram mortos, caíram a golpes de espada.  
 **23** Os seus sepulcros foram postos no mais profundo da fossa; todo o seu povo jaz ao redor do seu sepulcro; todos foram mortos, abatidos à espada, eles que tinham espalhado o terror na terra dos vivos.  
@@ -907,7 +907,7 @@
 **27** Não jazerão com os heróis de outrora, com esses que baixaram à habitação dos mortos (adornados) com suas armas, debaixo de cujas cabeças foram colocadas as suas espadas, debaixo de cujos ossos foram postos os seus escudos, visto que se espalhou o seu terror na terra dos vivos.  
 **28** No meio dos incircuncidados é que jazerás, entre os que foram passados ao fio da espada.  
 **29** Ali está a Idumeia, e os seus reis, e todos os seus príncipes que, apesar da sua bravura, foram postos entre os mortos à espada, jazendo (assim) com os incircuncidados, com os que descem à fossa.  
-**30** Ali estão todos os príncipes do aquilão, todos os Sidõnios, descidos com os que foram mortos, apesar da sua tremenda valentia. Jazem incircuncidados, com os que tinham perecido a golpes dia espada, e levam sobre si a sua confusão com os que descem à fossa.  
+**30** Ali estão todos os príncipes do aquilão, todos os Sidõnios, descidos com os que foram mortos, apesar da sua tremenda valentia. Jazem incircuncidados, com os que tinham perecido a golpes da espada, e levam sobre si a sua confusão com os que descem à fossa.  
 **31** Faraó os verá e consolar-se-á, à vista de toda esta multidão que foi morta ao fio da espada. Faraó e todo o seu exército, diz o Senhor Deus.  
 **32** Porque tinha espalhado o terror sobre a terra dos vivos, ei-lo que jaz no meio dos incircuncidados, com os que tinham sido mortos pela espada. Faraó e todo o seu povo, diz o Senhor Deus.  
 
@@ -932,7 +932,7 @@
 **17** Entretanto, os filhos do teu povo dizem; O caminho do Senhor não é justo. (Ora, não). O caminho deles é que é injusto.  
 **18** Quando o justo se apartar da sua justiça e cometer obras de iniquidade, encontrará nela a morte.  
 **19** Pelo contrário, quando o ímpio deixar a sua impiedade e praticar obras de retidão e justiça, encontrará nelas a vida.  
-**20** Ainda assim vós dizeis: O caminho do Senhor não á reto! Ó casa de Israel, eu hei-de julgar cada um de vós segundo as suas obras.  
+**20** Ainda assim vós dizeis: O caminho do Senhor não é reto! Ó casa de Israel, eu hei-de julgar cada um de vós segundo as suas obras.  
 **21** No ano duodécimo da nossa transmigração, no décimo mês, aos cinco do mês, um homem, que tinha fugido de Jerusalém, veio ter comigo e disse: A cidade foi tomada.  
 **22** Ora a mão do Senhor tinha-se-me dado a sentir na tarde anterior à chegada do fugitivo, e o Senhor tinha-me abrido a boca antes que esse homem viesse ter comigo pela manhã. Tendo-me sido aberta a boca, não fiquei mais em silêncio.  
 **23** Foi-me dirigida a palavra do Senhor, nestes termos:  
@@ -1390,7 +1390,7 @@
 **8** Junto dos confins de Judá, desde a região oriental à ocidental, serão as primícias (ou porções) que separareis, as quais terão vinte e cinco mil medidas (ou côvados) de largura, e um comprimento igual a cada um dos outros quinhões, desde a região oriental até à ocidental. O santuário ficará no meio.  
 **9** Quanto às primícias (ou porções) que separareis para o Senhor, terão vinte e cinco mil côvados de comprido e dez mil de largo.  
 **10** Estas primícias santas pertencerão aos sacerdotes; terão vinte e cinco mil côvados de comprimento para o aquilão, dez mil de largura, para o mar, dez mil também de largura, para o oriente, e vinte e cinco mil de comprimento, para o meio-dia. O santuário do Senhor ficará no meio (desta porção).  
-**11** Toda esta porção será destinada ao sacerdotes consagrados, filhos de Sadoc os quais observaram as minhas cerimónias e não se desencaminharam como os levitas, quando os filhos de Israel andavam desencaminhados.  
+**11** Toda esta porção será destinada aos sacerdotes consagrados, filhos de Sadoc os quais observaram as minhas cerimónias e não se desencaminharam como os levitas, quando os filhos de Israel andavam desencaminhados.  
 **12** O seu quinhão será no meio das porções reservadas, parte santíssima, junto aos limites dos levitas.  
 **13** Os levitas terão junto aos limites dos sacerdotes, vinte e cinco mil côvados de comprimento, e dez mil de largura. Todo o comprimento (da sua porção) será de vinte e cinco mil côvados e a largura de dez mil.  
 **14** Não poderão nem trocar nada disto, nem transferir a outros as primícias da terra, porque são consagradas ao Senhor.  

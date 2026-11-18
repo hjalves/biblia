@@ -111,7 +111,7 @@
 ## Capítulo 5
 
 **1** Então Tobias respondeu a seu pai: Meu pai, farei tudo o que me mandaste.  
-**2** Todavia não sei de que modo poderei cobrar este dinheiro, porque nem ele lhe conhece a mim, nem eu o conheço a ele; que sinal lhe hei-de dar? Nem mesmo sei o caminho, por onde se vai a tal terra.  
+**2** Todavia não sei de que modo poderei cobrar este dinheiro, porque nem ele me conhece a mim, nem eu o conheço a ele; que sinal lhe hei-de dar? Nem mesmo sei o caminho, por onde se vai a tal terra.  
 **3** Então seu pai disse-lhe: Eu tenho em meu poder o recibo do seu próprio punho; quando tu lho mostrares, ele te pagará logo.  
 **4** Portanto agora vai e busca algum homem fiel, que te acompanhe, mediante uma retribuição, para que cobres o dinheiro enquanto eu estou vivo.  
 **5** Mal havia Tobias saído (de casa), logo encontrou um jovem de belo aspeto, que estava cingido e como prestes a caminhar.  
@@ -287,7 +287,7 @@
 **14** Agora o Senhor enviou-me a curar-te e a livrar do demónio a Sara, mulher de teu filho.  
 **15** Eu sou o anjo Rafael, um dos sete (espíritos principais) que assistimos diante do Senhor.  
 **16** Ao ouvir estas palavras, ficaram fora de si, e, tremendo, caíram com o rosto em terra.  
-**17** O anjo disse-lhe: A paz seja convosco, não temais.  
+**17** O anjo disse-lhes: A paz seja convosco, não temais.  
 **18** Quando eu estava convosco, eu o estava por vontade de Deus; bendizei-o, cantai-lhe louvores.  
 **19** Parecia-vos que eu comia e bebia convosco, mas eu sustento-me dum manjar invisível, duma bebida (que consiste na visão de Deus) a qual não pode ser vista pelos homens.  
 **20** É, pois, tempo que eu volte para aquele que me enviou; vós, porém, bendizei a Deus, e contai todas as suas maravilhas.  

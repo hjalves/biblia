@@ -203,7 +203,7 @@
 **20** Se eu, porém, faço o que não quero, não sou eu já que o faço, mas sim o pecado que habita em mim.  
 **21** Eu encontro, pois, esta lei em mim: quando quero fazer o bem, o mal está junto de mim,  
 **22** porque me deleito na lei de Deus, segundo o homem interior,  
-**23** mas vejo dos meus membros uma outra lei, que se opõe à lei do meu espírito e que me faz escravo da lei do pecado, que está nos meus membros.  
+**23** mas vejo nos meus membros uma outra lei, que se opõe à lei do meu espírito e que me faz escravo da lei do pecado, que está nos meus membros.  
 **24** Infeliz de mim! Quem me livrará deste corpo de morte (isto é, em que habita o pecado, que é causa de morte espiritual)?  
 **25** Sejam dadas graças a Deus, por Jesus Cristo Nosso Senhor. Assim, pois, eu mesmo sirvo à lei de Deus com o espírito; e sirvo à lei do pecado com a carne.  
 

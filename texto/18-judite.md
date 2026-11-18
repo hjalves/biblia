@@ -160,7 +160,7 @@
 
 ## Capítulo 8
 
-**1** Ora aconteceu que estas palavras foram ouvidas por Judit, viúva, a qual era filha de Merari, filho de Idox, filho de José, filho de Ozias, filho de Elai, filho de Jamnor, filho de Gedeão, filho de Rafaim, filho de Aquitob, filho do Melquias, filho de Enan, filho de Natanias, filho de Salatiel, filho de Simeão, filho de Ruben.  
+**1** Ora aconteceu que estas palavras foram ouvidas por Judit, viúva, a qual era filha de Merari, filho de Idox, filho de José, filho de Ozias, filho de Elai, filho de Jamnor, filho de Gedeão, filho de Rafaim, filho de Aquitob, filho de Melquias, filho de Enan, filho de Natanias, filho de Salatiel, filho de Simeão, filho de Ruben.  
 **2** Seu marido foi Manassés, que morreu no tempo da ceifa da cevada (isto é, pela Páscoa);  
 **3** enquanto ele vigiava os que atavam os feixes no campo, deu-lhe o ardor do sol na cabeça, e morreu em Betúlia, sua cidade, onde foi sepultado com seus pais.  
 **4** Havia já três anos e seis meses que Judit tinha ficado viúva.  

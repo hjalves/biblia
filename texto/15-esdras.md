@@ -198,7 +198,7 @@
 **19** Os utensílios, que te foram dados para o serviço de casa do teu Deus, coloca-os na presença do Deus de Jerusalém.  
 **20** Quanto às outras coisas, que forem necessárias para a casa do teu Deus, tudo o que te for preciso gastar, ser-te-á dado do tesouro real,  
 **21** e do que é meu. Eu, o rei Artaxerxes, ordeno a todos os tesoureiros do erário público, que estão além do rio, que tudo o que vos pedir Esdras, sacerdote, escriba da lei do Deus do céu, lho deis sem demora:  
-**22** prata, até à quantia de cem talentos; trigo, até cem coros; vinho, até cem batos; azeite, até cera batos; sal, sem medida.  
+**22** prata, até à quantia de cem talentos; trigo, até cem coros; vinho, até cem batos; azeite, até cem batos; sal, sem medida.  
 **23** Tudo o que pertence ao culto do Deus do céu, seja dado pontualmente à casa do Deus do céu, não suceda irar-se ele contra o reino do rei e de seus filhos.  
 **24** Nós vos notificamos também que, relativamente a todos os sacerdotes, Levitas, cantores, porteiros, Natineus e ministros da casa deste Deus, não tereis poder de lhes impor imposto, nem tributo, nem outros encargos.  
 **25** E tu, Esdras, segundo a sabedoria que recebeste do teu Deus, estabelece juízes e presidentes, que julguem todo o povo que está além do rio, isto é, todos aqueles que conhecem a lei do teu Deus, e ensina também livremente aos que a ignoram.  
@@ -254,7 +254,7 @@
 **6** e disse: Meu Deus, estou confundido e envergonho-me de levantar a minha face para ti, porque as nossas iniquidades multiplicaram-se sobre as nossas cabeças, e os nossos delitos cresceram até ao céu.  
 **7** Desde o tempo de nossos país até hoje, temos cometido graves pecados; por nossas iniquidades temos sido abandonados, nós, os nossos reis, os nossos sacerdotes, nas mãos dos reis da terra, e entregues à espada, ao cativeiro, à rapina e à vergonha que ainda hoje cobre o nosso rosto.  
 **8** Agora por um pouco, por um momento, foram admitidos os nossos rogos pelo Senhor nosso Deus, deixando-nos algumas relíquias e dando-nos um abrigo no seu santo lugar, para fazer brilhar nossos olhos e dar-nos um pouco de vida na nossa escravidão;  
-**9** de facto, nós somos escravos, mas o nosso Deus não nos desamparou no meio da nossa escravidão, antes nos fez achar misericórdia diante do rei dos Persas, conservando-os vida bastante para edificar a casa do nosso Deus, reparar as suas ruínas, prometendo-nos um refúgio seguro em Judá e em Jerusalém.  
+**9** de facto, nós somos escravos, mas o nosso Deus não nos desamparou no meio da nossa escravidão, antes nos fez achar misericórdia diante do rei dos Persas, conservando-nos vida bastante para edificar a casa do nosso Deus, reparar as suas ruínas, prometendo-nos um refúgio seguro em Judá e em Jerusalém.  
 **10** Agora, Deus nosso, que diremos depois disto? Nós abandonámos (novamente) os teus mandamentos,  
 **11** que nos tinhas intimado pelos profetas, teus servos, dizendo: A terra, que vós ides possuir, é uma terra imunda por causa da imundície dos povos dessas regiões, por causa das abominações daqueles que a encheram, duma extremidade à outra, das suas impurezas.  
 **12** Por isso não deis vossas filhas a seus filhos, não tomeis suas filhas para vossos filhos, não procureis jamais nem a sua paz, nem a sua prosperidade, para que sejais poderosos, para que comais os bens desta terra e para que tenhais por herdeiros os vossos filhos para sempre.  

@@ -87,7 +87,7 @@
 **18** Fazeio-o, pois, agora, porque o Senhor disse a Davide: Eu salvarei por meio do meu servo o meu povo de Israel da mão dos Filisteus e de todos os seus inimigos.  
 **19** Do mesmo modo falou Abner aos de Benjamim, e, a seguir, foi ter com Davide em Hebron para lhe dizer tudo o que os de Israel e todos os de Benjamim tinham resolvido.  
 **20** Abner apresentou-se a Davide em Hebron, com vinte homens. Davide deu um banquete a Abner e aos homens que tinham ido com ele.  
-**21** Abner disse a Davide: Eu Irei para reunir a ti, meu senhor e rei, todo o Israel, e farei aliança contigo, para que reines sobre todos, como deseja o teu coração. Tendo David e despedido Abner, e tendo-se este ido em paz,  
+**21** Abner disse a Davide: Eu Irei para reunir a ti, meu senhor e rei, todo o Israel, e farei aliança contigo, para que reines sobre todos, como deseja o teu coração. Tendo Davide despedido Abner, e tendo-se este ido em paz,  
 **22** chegaram logo os homens de Davide e Joab, os quais, tendo matado uns ladrões, traziam uma grande presa. Abner, porém, já não estava com Davide em Hebron, porque o tinha despedido, e ele tinha-se retirado em paz.  
 **23** Joab, com todo o exército que estava com ele, chegou depois; não faltou, porém, quem dissesse a Joab: Abner, filho de Ner, veio ter com o rei, e este o despediu, e ele foi-se em paz.  
 **24** Joab foi ter com o rei e disse: Que fizeste? Abner acaba de vir ter contigo; por que o despediste e o deixaste retirar?  
@@ -120,7 +120,7 @@
 **9** Todavia Davide, respondendo a Recab e a Baana, seu irmão, filhos de Remon Berotlta, disse-lhe: Viva o Senhor, que livrou a minha alma de toda a angústia!  
 **10** Àquele que me anunciou: Morreu Saul cuidando que me trazia uma boa nova, fiz que o prendessem e matassem em Siceleg, quando ele julgava ter merecido alvíçaras pela nova;  
 **11** quanto mais agora que homens malvados mataram um homem Inocente dentro da sua casa, sobre o seu leito, não vingarei eu o sangue derramado pelas vossas mãos, exterminando-vos da terra?  
-**12** Davide deu ordem aos seus criados e eles os mataram e, cortando-lhes as mãos e os pés, penduraram-nos sobre a piscina de Hebron. Depois, tomando a cabeça de Isboset, sepultaram-na do sepulcro de Abner, em Hebron.  
+**12** Davide deu ordem aos seus criados e eles os mataram e, cortando-lhes as mãos e os pés, penduraram-nos sobre a piscina de Hebron. Depois, tomando a cabeça de Isboset, sepultaram-na no sepulcro de Abner, em Hebron.  
 
 ## Capítulo 5
 
@@ -146,7 +146,7 @@
 **20** Foi, pois, Davide a Baal Farasim, onde os derrotou, e disse: O Senhor irrompeu sobre os meus inimigos à minha vista, como águas que irrompem sobre os diques, despedaçando-os. Por isso aquele lugar foi chamado Baal Farasim.  
 **21** Os Filisteus deixaram lá os seus ídolos, os quais Davide e a sua gente levaram (para queimar).  
 **22** Os Filisteus voltaram novamente e espalharam-se pelo vale dos Refains.  
-**23** Davide consultou o Senhor: Irei eu contra os Filisteus, e entregá-los-ás nas minhas mãos? O Senhor respondeu-lhe: Não vás direto a eles, mas dá volta por detrás deles, e irás contra eles, do lado dos balsameiros.  
+**23** Davide consultou o Senhor: Irei eu contra os Filisteus, e entregá-los-ás nas minhas mãos? O Senhor respondeu-lhe: Não vás direito a eles, mas dá volta por detrás deles, e irás contra eles, do lado dos balsameiros.  
 **24** Quando ouvires um rumor como de passos, entre as copas dos balsameiros, então travarás a batalha, porque o Senhor marchará então diante de ti, para ferir o acampamento dos Filisteus.  
 **25** Fez, pois, Davide como o Senhor lhe tinha mandado, e derrotou os Filisteus desde Gabaa até chegar a Gezer.  
 

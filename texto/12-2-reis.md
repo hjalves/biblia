@@ -51,7 +51,7 @@
 
 ## Capítulo 3
 
-**1** Jorão, filho de Acab, reinou sobre Israel em Samaria, no décimo oitavo ano do Josafat, rei de Judá. Reinou doze anos.  
+**1** Jorão, filho de Acab, reinou sobre Israel em Samaria, no décimo oitavo ano de Josafat, rei de Judá. Reinou doze anos.  
 **2** Praticou o mal diante do Senhor, mas não tanto como seu pai e sua mãe, porque tirou as estátuas de Baal, que seu pai tinha feito.  
 **3** Perseverou todavia sempre nos pecados de Jeroboão, filho de Nabat, que fez pecar Israel, e não se apartou deles.  
 **4** Mesa, rei de Moab, senhor de muito gado, pagava ao rei de Israel cem mil cordeiros e cem mil carneiros com os seus velos.  
@@ -63,7 +63,7 @@
 **10** O rei de Israel disse: Ai! O Senhor juntou estes três reis para os entregar nas mãos de Moab.  
 **11** Josafal disse: Aqui não há nenhum profeta do Senhor, para implorarmos por meio dele o Senhor? Um dos servos do rei de Israel respondeu: Está aqui Eliseu, filho de Safat, que lançava água sobre as mãos de Elias (isto é, servia-o).  
 **12** Josafat disse: A palavra do Senhor está nele. Então foram ter com ele o rei de Israel e Josafat, rei de Judá, e o rei de Edom.  
-**13** Eliseu disse no rei de Israel: Que tenho eu contigo? Vai ter com os profetas de teu pai e de tua mãe. O rei de Israel disse- lhe; Por que juntou o Senhor estes três reis para os entregar nas mãos de Moab?  
+**13** Eliseu disse no rei de Israel: Que tenho eu contigo? Vai ter com os profetas de teu pai e de tua mãe. O rei de Israel disse-lhe: Por que juntou o Senhor estes três reis para os entregar nas mãos de Moab?  
 **14** Eliseu respondeu-lhe: Viva o Senhor dos exércitos, em cuja presença estou, que se não fosse por respeitar a pessoa de Josafat, rei de Judá, eu sem dúvida te não atenderia, nem (sequer) poria em ti os olhos.  
 **15** Mas agora trazei-me um tocador de harpa. Enquanto este cantava ao som da harpa, foi a mão do Senhor sobre Eliseu, que disse:  
 **16** Eis o que diz o Senhor: Cavai muitas fossas neste vale!  
@@ -189,7 +189,7 @@
 **29** Cozemos, pois, o meu filho, e comemo-lo. Ao outro dia disse-lhe eu: Dá o teu filho para o comermos. E ela escondeu o seu filho.  
 **30** O rei, tendo ouvido isto, rasgou os seus vestidos; como ia passando pelo muro, todo o povo viu o cilício que ele levava vestido interiormente sobre a carne.  
 **31** O rei disse: Deus me trate com todo o seu rigor, se a cabeça de Eliseu, filho de Safat, lhe ficar hoje sobre os ombros.  
-**32** Eliseu estava sentado em sua caso, e estavam sentados com ele os anciães. Mandou, pois, (o rei) um homem, mas antes que este mensageiro chegasse (Eliseu) disse aos anciães: Não sabeis que este filho do homicida (Acab) mandou cortar-me a cabeça? Tende pois cuidado; quando o mensageiro chegar, fechai a porta, e não o deixeis entrar, porque eis que eu ouço o ruído dos passos do seu senhor, que vem após ele.  
+**32** Eliseu estava sentado em sua casa, e estavam sentados com ele os anciães. Mandou, pois, (o rei) um homem, mas antes que este mensageiro chegasse (Eliseu) disse aos anciães: Não sabeis que este filho do homicida (Acab) mandou cortar-me a cabeça? Tende pois cuidado; quando o mensageiro chegar, fechai a porta, e não o deixeis entrar, porque eis que eu ouço o ruído dos passos do seu senhor, que vem após ele.  
 **33** Quando Eliseu ainda estava falando com eles, apareceu o rei, que vinha para ele e lhe disse: Vede que tão grande mal nos vem do Senhor; que mais esperarei eu do Senhor?  
 
 ## Capítulo 7
@@ -602,7 +602,7 @@
 **16** Inclina o teu ouvido e ouve; abre Senhor, os teus olhos e vê; ouve todas as palavras de Senaquerib, que mandou se blasfemasse diante de nós contra o Deus vivo.  
 **17** É verdade, Senhor, que os reis dos Assírios destruíram as gentes e todas as suas terras,  
 **18** e lançaram os seus deuses no fogo, porém eles não eram deuses, mas obras das mãos dos homens, de pau e de pedra, e, por isso, foram destruídos.  
-**19** Salva-nos, agora Senhor nosso Deus, dos suas mãos, para que todos os reinos da terra saibam que só tu és o Senhor Deus.  
+**19** Salva-nos, agora Senhor nosso Deus, das suas mãos, para que todos os reinos da terra saibam que só tu és o Senhor Deus.  
 **20** Então Isaías, filho de Amós, mandou dizer a Ezequias: Eis o que diz o Senhor Deus de Israel: Eu ouvi a oração que tu me fizeste relativamente a Senaquerib, rei dos Assírios.  
 **21** Eis o que o Senhor disse dele: Ela te desprezou e te escarneceu, a virgem, filha de Sião; ela sacudiu a sua cabeça por detrás de ti, a filha de Jerusalém.  
 **22** A quem insultaste, contra quem blasfemaste? Contra quem levantaste a tua voz? A quem desafiaste com teus olhos? O Santo de Israel.  

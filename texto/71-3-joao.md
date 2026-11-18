@@ -15,7 +15,7 @@
 **11** Caríssimo, não imites o mal, mas o bem. Quem faz o bem, é de Deus; quem faz o mal, não viu a Deus.  
 **12** De Demétrío todos dão (bom) testemunho, e a mesma verdade lho dá. Nós lho damos também; e tu sabes que o nosso testemunho é verdadeiro.  
 **13** Eu tinha mais coisas a escrever-te, porém não quero fazê-lo por meio de tinta e pena,  
-**14** porque espero ver-te, era breve, e falaremos de viva voz. A paz seja contigo. Os amigos saúdam-te. Tu saúda (também) os amigos, cada um em particular.
+**14** porque espero ver-te, em breve, e falaremos de viva voz. A paz seja contigo. Os amigos saúdam-te. Tu saúda (também) os amigos, cada um em particular.
 
 ---
 

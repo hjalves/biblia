@@ -734,7 +734,7 @@
 **4** E ordernar-lhes-ás que comuniquem o seguinte a seus amos: Assim fala o Senhor dos exércitos, o Deus de Israel: Direis isto a vossos amos:  
 **5** Eu fiz a terra, os homens e os animais que estão sobre a face da terra, com o meu grande poder, com o meu braço estendido, e dou o seu domínio àquele a quem me apraz dá-lo.  
 **6** Agora entreguei todas estas terras nas mãos de Nabucodonosor, rei de Babilónia, meu servo; até lhe dei também os animais do campo, para que o sirvam.  
-**7** Todos estes povos o servirão a ele, a seu filho, e ao filho de seu filho, até que venha o tempo da sua terra, até que seja (par sua vez) submetida a muitas nações e grandes reis.  
+**7** Todos estes povos o servirão a ele, a seu filho, e ao filho de seu filho, até que venha o tempo da sua terra, até que seja (por sua vez) submetida a muitas nações e grandes reis.  
 **8** Quanto à nação ou reino, que não se submeter a Nabucodonosor, rei de Babilónia, que não encurvou o seu pescoço debaixo do jugo do rei de Babilónia, castigarei tal nação com a espada, com a fome e com a peste, diz o Senhor, até à destruição pela mão dele.  
 **9** Vós, pois, não deis ouvidos aos vossos profetas, adivinhos, sonhadores, agoureiros e feiticeiros, que vos dizem: Não servireis ao rei de Babilónia.  
 **10** Com efeito, eles vos profetizam a mentira, de forma que sejais mandados para longe da vossa terra, que eu vos disperse e que venhais a perecer.  

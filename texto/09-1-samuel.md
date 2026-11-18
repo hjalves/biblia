@@ -60,7 +60,7 @@
 **25** Se um homem pecar contra outro, está no meio Deus, que pode aplacar o ofendido; mas, se um homem pecar contra o Senhor quem intercederá por ele? Mas eles não ouviram a voz de seu pai, porque o Senhor queria faze-los morrer.  
 **26** Entretanto o menino Samuel crescia, e era agradável tanto ao Senhor como aos homens.  
 **27** Um homem de Deus foi ter com Heli e disse-lhe: Eis o que disse o Senhor: Porventura não me revelei eu visivelmente à casa de teu pai, quando eles estavam no Egito na casa de Faraó?  
-**28** Eu o escolhi entre todas de as tribos de Israel para meu sacerdote, para subir ao meu altar, para me queimar incenso, e para trazer o éfode diante de mim. De todos os sacrifícios de combustão dos filhos do Israel dei parte à casa de teu pai.  
+**28** Eu o escolhi entre todas de as tribos de Israel para meu sacerdote, para subir ao meu altar, para me queimar incenso, e para trazer o éfode diante de mim. De todos os sacrifícios de combustão dos filhos de Israel dei parte à casa de teu pai.  
 **29** Por que calcastes vós aos pés as minhas vítimas e os meus dons, que eu mandei que fossem oferecidos no templo? Por que honraste tu mais os teus filhos do que a mim, comendo com eles as primícias de todos os sacrifícios de Israel, meu povo?  
 **30** Portanto o Senhor Deus de Israel diz: Eu disse e repeti que a tua casa e a casa de teu pai serviria para sempre (no sumo sacerdócio) diante da minha face. Mas agora o Senhor diz: Longe de mim tal coisa; antes, glorificarei a quem me glorificar, e desprezarei a quem me desprezar.  
 **31** Chegam-se os dias, em que eu cortarei o teu braço e o braço da casa de teu pai, de tal modo que não haja nenhum velho em tua casa.  
@@ -632,7 +632,7 @@
 **7** Achava-se ali naquele dia dentro do tabernáculo do Senhor um certo homem dos criados de Saul, chamado Doeg, Idumeu, o mais poderoso dos pastores de Saul.  
 **8** Davide disse a Aquimelec: Tens aqui à mão uma lança ou uma espada? Eu não trouxe comigo a minha espada, nem as minhas armas, porque a ordem do rei urgia.  
 **9** O sacerdote disse: Eis aqui a espada de Golias, Filisteu, que tu mataste no vale do Terebinto; está embrulhada num pano detrás do éfode; se a queres levar, leva-a, porque não há aqui outra senão esta. Davide disse: Não há outra como esta, dá-ma.  
-**10** Levantou-se Davide e fugiu naquele mesmo dia da presença, de Saul, e foi a (refugiar-te em, casa de) Aquis, rei de Get.  
+**10** Levantou-se Davide e fugiu naquele mesmo dia da presença, de Saul, e foi a (refugiar-se em, casa de) Aquis, rei de Get.  
 **11** Os criados de Aquis, tendo visto Davide, disseram ao rei: Porventura não é este aquele Davide (respeitado como) rei do seu país? Não é este aquele a quem cantavam nas danças, dizendo: Saul matou mil, e Davide dez mil?  
 **12** Considerou Davide estas palavras no seu coração, e teve muito medo de Aquis, rei de Get.  
 **13** Então fingiu ter perdido o juízo diante deles. Fez de louco no meio deles, pôs-se a rabiscar nas portas e deixava escorrer a saliva sobre a barba.  

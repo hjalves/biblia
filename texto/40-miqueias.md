@@ -11,7 +11,7 @@
 **7** Todas as suas estátuas serão quebradas, todos os seus ganhos imundos serão queimados pelo fogo; reduzirei a pó todos os seus ídolos, porque tudo isso foi ganho com o prego da sua prostituição, e em salário de prostituição será convertido.  
 **8** Por causa disto prantearei e soltarei gritos, andarei descalço e nu; gritarei como os chacais, soltarei lamentos como as avestruzes.  
 **9** Com efeito o golpe (da idolatria) da Samaria é incurável, chegou até Judá, penetrou até á porta do meu povo, até Jerusalém.  
-**10** Não o deis a saber em Get, não derrameis lágrimas em Aco. Revolve-te no pé em Bet-Afra.  
+**10** Não o deis a saber em Get, não derrameis lágrimas em Aco. Revolve-te no pó em Bet-Afra.  
 **11** Passa numa vergonhosa nudez, habitante de Safir! Não ousam sair os habitantes de Saanan. O luto de Beth-Haesel tira-vos o seu apoio.  
 **12** O habitante de Marot treme pela sua felicidade, porque a desgraça enviada pelo Senhor atinge as portas (ou cidade) de Jerusalém.  
 **13** Atrela o corcel ao carro, habitante de Laquis! Foste origem de pecado para a filha de Sião; em ti se acharam (imitadas) as maldades de Israel.  

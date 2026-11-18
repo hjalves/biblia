@@ -20,7 +20,7 @@
 **2** O rei disse-me: Por que está triste o teu rosto, não te vendo eu doente? Não pode ser outra coisa senão algum desgosto que haja em teu coração. Apoderou-se então de mim um grande temor,  
 **3** e disse ao rei: O rei, vive eternamente; como não há-de estar o meu rosto amargurado, quando a cidade, que é a casa dos sepulcros de meus pais, está deserta, e as suas portas foram queimadas pelo fogo?  
 **4** O rei disse-me: Que queres tu pedir? Eu, encomendando-me ao Deus do céu,  
-**5** disse ao rei: Se é do agrado do rei, se o teu servo te é agradável, peço-te que me mandes à Judeia, à cidade do sepulcro de meu pais, que eu a reedificarei.  
+**5** disse ao rei: Se é do agrado do rei, se o teu servo te é agradável, peço-te que me mandes à Judeia, à cidade do sepulcro de meus pais, que eu a reedificarei.  
 **6** O rei, estando a rainha sentada a seu lado, perguntou-me: Que tempo durará a tua jornada? Quando voltarás tu? Eu disse-lhe o tempo, e aprouve ao rei enviar-me.  
 **7** Depois disse ao rei: Se é do agrado do rei, sejam-me dadas cartas para os governadores das províncias de além do rio, para que me deem passagem, até eu chegar à Judeia,  
 **8** assim como uma carta para Asaf, guarda do bosque do rei, a fim de me fornecer madeiras para as portas das torres da casa (de Deus), para os muros da cidade e para a casa em que eu me alojar. O rei concedeu-me tudo, porque a mão favorável do meu Deus era comigo.  
@@ -441,7 +441,7 @@
 **28** Um dos filhos de Jojada, filho de Eliasib, sumo sacerdote, era genro de Sanabalat, Horonita, a quem afastei de mim.  
 **29** Senhor Deus meu, lembra-te de castigar aqueles que mancham o sacerdócio e o sagrado dever sacerdotal e levítico.  
 **30** Foi assim que os purifiquei (ou separei) de todos os estrangeiros, que pus em vigor o regulamento dos sacerdotes e dos Levitas, colocando cada um no seu ministério,  
-**31** e que restabeleci a oblação da lenha e das primícias, aos tempos devidos. Lembra-te de mim, Deus meu, para meu bem. Assim seja.
+**31** e que restabeleci a oblação da lenha e das primícias, nos tempos devidos. Lembra-te de mim, Deus meu, para meu bem. Assim seja.
 
 ---
 
