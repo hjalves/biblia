@@ -46,7 +46,8 @@
 **3** Os guardas que rondam a cidade encontraram-me, e eu disse-lhes: Vistes porventura aquele a quem ama a minha alma?  
 **4** Mal tinha passado por eles, encontrei aquele a quem ama a minha alma. Agarrei-me a ele, e não o larguei mais, até o introduzir em casa de minha mãe, e levar à câmara daquela que me deu à luz.  
 **5** Eu vos conjuro, filhas de Jerusalém, pelas gazelas e corças do campo, que não perturbeis nem façais a minha amada despertar, antes que ela o queira.  
-**6** Que é isto que sobe do deserto, como uma coluna de fumo, composta de aromas de mirra e de incenso, e de todos os perfumes dos mercadores? Eis o palanquim de Salomão, escoltado de sessenta valentes dos mais fortes de Israel,  
+**6** Que é isto que sobe do deserto, como uma coluna de fumo, composta de aromas de mirra e de incenso, e de todos os perfumes dos mercadores?  
+**7** Eis o palanquim de Salomão, escoltado de sessenta valentes dos mais fortes de Israel,  
 **8** todos armados de espadas, exercitados no combate; cada um deles leva a espada ao lado, por causa dos perigos noturnos.  
 **9** O rei Salomão fez uma liteira de madeira do Líbano.  
 **10** Fez-lhe as colunas de prata, o reclinatório de oiro, o assento de púrpura; o meio é bordado, obra de amor das filhas de Jerusalém.  
@@ -59,7 +60,8 @@
 **3** Os teus lábios são como um fio de púrpura, o teu falar é doce, como metades de romãs, assim são as tuas faces, por detrás do teu véu.  
 **4** O teu pescoço é (direito) como a torre de Davide, que foi edificada com seus baluartes; dela estão pendentes mil escudos, todos os escudos dos heróis.  
 **5** Os teus dois peitos são como dois filhinhos gémeos, duma gazela. que pastam entre os lírios.  
-**6** Antes que chegue o fresco do dia, e se inclinem as sombras, eu irei ao monte da mirra, e ao outeiro do incenso. Toda és formosa, minha amada, e em ti não há mácula.  
+**6** Antes que chegue o fresco do dia, e se inclinem as sombras, eu irei ao monte da mirra, e ao outeiro do incenso.  
+**7** Toda és formosa, minha amada, e em ti não há mácula.  
 **8** Vem do Líbano, esposa minha, vem do Líbano, vem do alto do monte Amaná, dos cumes de Sanir e de Hermon, das cavernas dos leões, dos montes dos leopardos.  
 **9** Arrebataste o meu coração, irmã minha esposa, arrebataste o meu coração com um só dos teus olhares, com uma só pérola do teu colar.  
 **10** Que deliciosas são as tuas carícias, irmã minha esposa! Quanto melhor é o teu amor que o vinho, e quanto o odor dos teus perfumes excede o de todos os aromas.  
@@ -75,8 +77,10 @@
 **1** Venha o meu amado para o seu jardim, e coma dos seus belos frutos! Eu vim para o meu jardim, irmã minha esposa; colhi a minha mirra e o meu bálsamo; comi o favo com o meu mel; bebi o meu vinho com o meu leite. Comei, amigos, e bebei, inebriai-vos caríssimos.  
 **2** Eu durmo, mas o meu coração vela... Eis a voz do meu amado, que bate (dizendo): Abre-me, ó minha irmã, amiga minha, pomba minha, imaculada minha, porque a minha cabeça está cheia de orvalho, e os anéis do meu cabelo (estão cheios) de gotas da noite.  
 **3** (Eu respondi-lhe): Despojei-me da minha túnica, como hei-de vesti-la novamente? Lavei os meus pés, como hei-de tornar a sujá-los?  
-**4** O meu amado meteu a sua mão pela abertura (da porta), e o meu coração estremeceu. Levantei-me para abrir ao meu amado: as minhas mãos destilaram mirra, e os meus dedos a mirra mais preciosa, sobre a aldrava da fechadura.  
-**6** Abri a minha porta ao meu amado, tirando-lhe o ferrolho, mas ele já se tinha ido, já tinha desaparecido. A minha alma ficava fora de si ao som da sua voz. Busquei-o, mas não o achei; chamei-o, e ele não me respondeu. Encontraram-me os guardas que rondam a cidade, bateram-me, feriram-me. Tiraram-me o meu manto, os guardas das muralhas.  
+**4** O meu amado meteu a sua mão pela abertura (da porta), e o meu coração estremeceu.  
+**5** Levantei-me para abrir ao meu amado: as minhas mãos destilaram mirra, e os meus dedos a mirra mais preciosa, sobre a aldrava da fechadura.  
+**6** Abri a minha porta ao meu amado, tirando-lhe o ferrolho, mas ele já se tinha ido, já tinha desaparecido. A minha alma ficava fora de si ao som da sua voz. Busquei-o, mas não o achei; chamei-o, e ele não me respondeu.  
+**7** Encontraram-me os guardas que rondam a cidade, bateram-me, feriram-me. Tiraram-me o meu manto, os guardas das muralhas.  
 **8** Eu vos conjuro, filhas de Jerusalém, que, se encontrardes o meu amado, Ihe façais saber que desfaleço de amor.  
 **9** Que tem o teu amado a mais que (qualquer) outro amado, ó formosíssima entre todas as mulheres? Que tem o teu amado a mais que (qualquer) outro, para que assim nos conjures (a que o procuremos)?  
 **10** O meu amado é cândido e rubicundo, escolhido entre milhares.  
@@ -90,7 +94,8 @@
 
 ## Capítulo 6
 
-**1** O meu amado desceu ao seu jardim, ao canteiro dos balsameiros para apascentar o seu rebanho nos jardins, e para colher lírios. Eu sou do meu amado, e o meu amado é meu, ele, que apascenta o seu rebanho entre os lírios.  
+**1** O meu amado desceu ao seu jardim, ao canteiro dos balsameiros para apascentar o seu rebanho nos jardins, e para colher lírios.  
+**2** Eu sou do meu amado, e o meu amado é meu, ele, que apascenta o seu rebanho entre os lírios.  
 **3** Formosa és, amiga minha, como Tirsa, encantadora como Jerusalém, mas terrível como um exército em ordem de batalha.  
 **4** Aparta os teus olhos de mim, porque eles me fascinam. Os teus cabelos são como um rebanho de cabras, suspensas nas vertentes dos montes de Galaad.  
 **5** Os teus dentes são como rebanho de ovelhas, ao subir do lavadouro; cada uma leva dois cordeirinhos gémeos, e nenhuma entre elas é estéril.  
@@ -107,8 +112,10 @@
 **1** Que verás tu na Sulamita, senão como um coro de duas partes? Quão belos são os teus pés, nas sandálias que trazes, ó filha de príncipe! As colunas das tuas pernas são como anéis trabalhados por mãos de artista.  
 **2** O teu umbigo é uma taça arredondada, que nunca está desprovida de vinho. O teu ventre é como um monte de trigo cercado de lírios.  
 **3** Os teus dois seios são como dois filhinhos gémeos duma gazela.  
-**4** O teu pescoço é como uma torre de marfim. Os teus olhos são como as piscinas de Hesebon, que estão situadas junto da porta de Bat-Rabim. O teu nariz é como a torre do Líbano, que olha para Damasco. A tua cabeça levanta-se como o monte Carmelo; os cabelos da tua cabeça são como a púrpura; um rei ficou preso às suas madeixas.  
-**6** Quão formosa e encantadora és, meu amor, minhas delícias! A tua figura é semelhante a uma palmeira, os teus seios são como cachos.  
+**4** O teu pescoço é como uma torre de marfim.  
+**5** Os teus olhos são como as piscinas de Hesebon, que estão situadas junto da porta de Bat-Rabim. O teu nariz é como a torre do Líbano, que olha para Damasco. A tua cabeça levanta-se como o monte Carmelo; os cabelos da tua cabeça são como a púrpura; um rei ficou preso às suas madeixas.  
+**6** Quão formosa e encantadora és, meu amor, minhas delícias!  
+**7** A tua figura é semelhante a uma palmeira, os teus seios são como cachos.  
 **8** Eu disse: Subirei à palmeira, e colherei os seus frutos. Os teus seios serão, para mim, como cachos de uvas, e o perfume da tua boca como o das maçãs.  
 **9** A tua palavra é como um vinho excelente, digno de ser bebido pelo amado, e saboreado entre os seus lábios e os seus dentes.  
 **10** Eu sou para o meu amado, e os seus desejos voltam-se para mim.  
@@ -119,11 +126,13 @@
 
 ## Capítulo 8
 
-**1** Quem me dera ter-te por irmão, amamentado aos seios de minha mãe, para que, encontrando-te fora, eu te pudesse beijar, sem que ninguém me desprezasse! Eu te tomaria e te levaria a casa de minha mãe. Dar-te-ia a beber vinho perfumado, mosto da minhas romãs.  
+**1** Quem me dera ter-te por irmão, amamentado aos seios de minha mãe, para que, encontrando-te fora, eu te pudesse beijar, sem que ninguém me desprezasse!  
+**2** Eu te tomaria e te levaria a casa de minha mãe. Dar-te-ia a beber vinho perfumado, mosto da minhas romãs.  
 **3** A sua mão esquerda está debaixo da minha cabeça, e a sua mão direita abraça-me.  
 **4** Eu vos conjuro, filhas de Jerusalém, que não perturbeis nem acordeis a minha amada antes que ela queira.  
 **5** Quem é esta, que sobe do deserto, apoiada sobre o seu amado? Eu te despertei debaixo da macieira: foi ali que tua mãe te concebeu, foi ali que te concebeu, te deu à luz.  
-**6** Põe-me como um selo sobre o teu coração, como um selo sobre o teu braço. porque o amor é forte como a morte, o zelo do amor é duro como a habitação dos mortos. Os seus ardores são ardores de fogo, os seus fogos são fogos do Senhor. As muitas águas não poderiam extinguir o amor, nem os rios teriam força para o submergir. Se um homem desse todas as riquezas de sua casa pelo amor, ele o desprezaria como um nada.  
+**6** Põe-me como um selo sobre o teu coração, como um selo sobre o teu braço. porque o amor é forte como a morte, o zelo do amor é duro como a habitação dos mortos. Os seus ardores são ardores de fogo, os seus fogos são fogos do Senhor.  
+**7** As muitas águas não poderiam extinguir o amor, nem os rios teriam força para o submergir. Se um homem desse todas as riquezas de sua casa pelo amor, ele o desprezaria como um nada.  
 **8** A nossa irmã é pequena, ainda não tem seios. Que faremos nós à nossa irmã no dia em que for pedida (em casamento)?  
 **9** Se ela é um muro, edifiquemos sobre ela ameias de prata; se é uma porta, guarneçamo-la com tábuas de cedro.  
 **10** Eu sou um muro, e os meus seios são como torres: também sou para ele a que encontrou a paz.  

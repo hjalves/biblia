@@ -35,7 +35,8 @@
 
 **1** Esta visão era a semelhança da glória do Senhor. Ao vê-la, caí com o meu rosto em terra e ouvi uma voz de alguém que falava. Disse-me; Filho de homem, põe-te de pé, e eu falarei contigo.  
 **2** Enquanto me falava, entrou em mim o espírito, e me firmou sobre os meus pés; e ouvi o que me falava.  
-**3** Dizia-me: Filho de homem, eu te envio aos filhos de Israel, aos povos rebeldes que se revoltaram contra mim; eles e seus pais foram-me infiéis até ao dia de hoje. Aqueles a quem te envio são filhos de semblante duro de coração empedernido. Dir-lhes-ás: Assim fala o Senhor Iavé.  
+**3** Dizia-me: Filho de homem, eu te envio aos filhos de Israel, aos povos rebeldes que se revoltaram contra mim; eles e seus pais foram-me infiéis até ao dia de hoje.  
+**4** Aqueles a quem te envio são filhos de semblante duro de coração empedernido. Dir-lhes-ás: Assim fala o Senhor Iavé.  
 **5** Quer te escutem ou não é gente rebelde (ao menos) saberão que esteve no meio deles um profeta.  
 **6** Tu filho de homem, não tenhas medo deles, não temas as suas palavras, embora te encontres em meio de cardos e espinhos, e habites com escorpiões. Não temas as suas palavras, não te assustes com os seus semblantes, porque é uma casa rebelde.  
 **7** Tu, pois, lhes intimarás as minhas palavras, quer escutem ou não, porque são rebeldes.  
@@ -803,7 +804,8 @@
 
 ## Capítulo 29
 
-**1** No ano décimo, no décimo mês, aos doze dias do mês, foi-me dirigida a palavra do Senhor, nestes termos: Filho de homem, volta o teu rosto contra Faraó, rei do Egito, e profetiza contra ele e contra o Egito.  
+**1** No ano décimo, no décimo mês, aos doze dias do mês, foi-me dirigida a palavra do Senhor, nestes termos:  
+**2** Filho de homem, volta o teu rosto contra Faraó, rei do Egito, e profetiza contra ele e contra o Egito.  
 **3** Fala e dize: Isto diz o Senhor Deus; Eis que venho contra ti, ó Faraó, rei do Egito, crocodilo enorme, que te deitas no meio dos teus rios e que dizes: O rio (Nilo), é meu, fui eu que o fiz.  
 **4** Pôr-te-ei um freio nos queixos, colarei os peixes dos teus rios às tuas escamas, e te tirarei do meio dos teus rios, assim como todos os peixes dos teus rios, pegados às tuas escamas.  
 **5** Lançar-te-ei para o deserto com todos os peixes do teu rio; cairás sobre a face da terra, e não te recolherão nem sepultarão; dar-te-ei por pasto aos animais da terra e às aves do céu.  
@@ -1020,7 +1022,8 @@
 **19** Dispersei-os entre as nações e foram disseminados por várias terras; julguei-os segundo o seu proceder, segundo as suas obras.  
 **20** Tendo chegado às nações para onde foram (dispersos), desonraram o meu santo nome, pois que se dizia deles: Este é o povo do Senhor, estes são os que saíram da sua terra.  
 **21** E eu perdoei-lhes por amor do meu santo nome, o qual a casa de Israel profanou entre as nações, para onde tinha ido.  
-**22** Por isso dirás à casa de Israel: Assim fala o Senhor Deus: Não é por amor de vós, casa de Israel, que procedo desta forma, mas por atenção ao meu santo nome, que vós profanastes entre as nações, para onde fostes. Santificarei o meu grande nome, que foi profanado entre as nações, o qual vós desonrastes no meio delas, a fim de que as nações saibam que eu sou o Senhor, diz o Senhor dos exércitos, quando mostrar a minha santidade, a seus olhos, no meio de vós.  
+**22** Por isso dirás à casa de Israel: Assim fala o Senhor Deus: Não é por amor de vós, casa de Israel, que procedo desta forma, mas por atenção ao meu santo nome, que vós profanastes entre as nações, para onde fostes.  
+**23** Santificarei o meu grande nome, que foi profanado entre as nações, o qual vós desonrastes no meio delas, a fim de que as nações saibam que eu sou o Senhor, diz o Senhor dos exércitos, quando mostrar a minha santidade, a seus olhos, no meio de vós.  
 **24** Tirar-vos-ei dentre as nações, congregar-vos-ei de todos os países e conduzir-vos-ei para a vossa terra.  
 **25** Derramarei sobre vós uma água pura, e sereis purificados de todas as vossas imundícies; purificar-vos-ei de todos os vossos ídolos.  
 **26** Dar-vos-ei um coração novo e porei um novo espírito no meio de vós; tirarei da vossa carne o coração de pedra e dar-vos-ei um coração de carne.  

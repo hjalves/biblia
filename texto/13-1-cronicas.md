@@ -11,7 +11,8 @@
 **7** Filhos de Javan: Elisa, Tarsis, Cetim e Dodanim.  
 **8** Filhos de Cam: Cus, Mesraim, Fut e Canaan.  
 **9** Filhos de Cus: Saba, Hevila, Sabata, Regma e Sabataca. Filhos de Regma: Saba e Dadan.  
-**10** Cus gerou Neinrod, o qual começou a ser poderoso na terra. Mesraim gerou Ludim, Anamim, Laabim, Neftuim,  
+**10** Cus gerou Neinrod, o qual começou a ser poderoso na terra.  
+**11** Mesraim gerou Ludim, Anamim, Laabim, Neftuim,  
 **12** Fetrusim e Casluim, dos quais procederam os Filisteus e os Caftorins.  
 **13** Canaan gerou Sidon, seu primogénito, e também o Heteu,  
 **14** o Jebuseu, o Amorreu, o Gergeseu,  
@@ -189,7 +190,8 @@
 
 ## Capítulo 5
 
-**1** Eis os filhos de Ruben, primogénito de Israel (porque este foi o seu primogénito, em bora, por ter manchado o tálamo de seu pai, fosse o seu direito de primogenitura dado aos filhos de José, filho de Israel, deixando (desta forma) Ruben de ser considerado primogénito; quanto a Judá, que era o mais valente de todos os seus irmãos, da sua estirpe saíram príncipes, mas o direito da primogenitura foi adjudicado a José).  
+**1** Eis os filhos de Ruben, primogénito de Israel (porque este foi o seu primogénito, em bora, por ter manchado o tálamo de seu pai, fosse o seu direito de primogenitura dado aos filhos de José, filho de Israel, deixando (desta forma) Ruben de ser considerado primogénito;  
+**2** quanto a Judá, que era o mais valente de todos os seus irmãos, da sua estirpe saíram príncipes, mas o direito da primogenitura foi adjudicado a José).  
 **3** Eis, pois os filhos de Ruben, primogénito de Israel: Enoc, Falu, Esron e Carmi.  
 **4** Filho de Joel: Samia, pai de Gog, cujo filho foi Semei.  
 **5** Mica, foi filho de Semei; Rela, filho de Mica; Baal, filho de Rela;  

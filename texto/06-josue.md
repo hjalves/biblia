@@ -98,8 +98,9 @@
 ## Capítulo 5
 
 **1** Quando todos os reis dos Amorreus, que habitavam na outra banda do Jordão, ao ocidente, e todos os reis de Canaan, que possuíam os lugares vizinhos do Mar Grande, ouviram dizer que o Senhor tinha secado a corrente do Jordão diante dos filhos de Israel, até que passassem, enfraqueceu-se-lhes o coração, não ficou neles alento, temendo a entrada dos filhos de Israel.  
-**2** Então o Senhor disse a Josué: Faze facas de pedra, e restabelece novamente a circuncisão entre os filhos de Irsrael. Josué, fazendo o que o Senhor lhe mandara, circuncidou os filhos de Israel sobre o outeiro (chamado por isso) da Circuncisão.  
-**3** A causa desta circuncisão é a seguinte: Todos os varões dentre o povo, que tinham saído do Egito, todos os homens de guerra tinham morrido no deserto durante os larguíssimos rodeios do caminho,  
+**2** Então o Senhor disse a Josué: Faze facas de pedra, e restabelece novamente a circuncisão entre os filhos de Irsrael.  
+**3** Josué, fazendo o que o Senhor lhe mandara, circuncidou os filhos de Israel sobre o outeiro (chamado por isso) da Circuncisão.  
+**4** A causa desta circuncisão é a seguinte: Todos os varões dentre o povo, que tinham saído do Egito, todos os homens de guerra tinham morrido no deserto durante os larguíssimos rodeios do caminho,  
 **5** e todos estes tinham sido circuncidados. Porém o povo que nasceu no deserto,  
 **6** durante os quarenta anos de marcha por aquela vastíssima solidão, permaneceu incircunciso, até que morreram aqueles que não tinham obedecido à voz do Senhor, e aos quais ele antes tinha jurado que lhes não mostraria a terra que manava leite e mel.  
 **7** Os filhos destes foram postos (pelo Senhor) no lugar de seus pais, o circuncidou-os Josué, porque estavam incircuncisos, visto que ninguém os tinha circuncidado no caminho.  
@@ -639,7 +640,8 @@
 
 **1** Neste mesmo tempo Josué chamou os Rubenitas, os Gaditas, e a meia tribo de Manassés,  
 **2** e disse-lhes: Vós fizestes tudo o que Moisés, servo do Senhor, vos ordenou; também a mim me tendes obedecido em tudo,  
-**3** e durante um tão largo tempo até ao dia de hoje não abandonastes os vossos irmãos, observando o mandamento do Senhor vosso Deus. Agora, visto que o Senhor vosso Deus deu repouso e paz aos vossos irmãos, como lho tinha prometido, voltai e ide para as vossas tendas, para a terra que vos pertence, terra que Moisés, servo do Senhor, vos deu da outra banda do Jordão.  
+**3** e durante um tão largo tempo até ao dia de hoje não abandonastes os vossos irmãos, observando o mandamento do Senhor vosso Deus.  
+**4** Agora, visto que o Senhor vosso Deus deu repouso e paz aos vossos irmãos, como lho tinha prometido, voltai e ide para as vossas tendas, para a terra que vos pertence, terra que Moisés, servo do Senhor, vos deu da outra banda do Jordão.  
 **5** Só vos imponho de que cumprais exatamente o mandamento e a lei que Moisés, servo do Senhor, vos prescreveu, (isto é) que ameis o Senhor vosso Deus, andeis em todos os seus caminhos, observeis os seus mandamentos, estejais unidos a ele, e o sirvais de todo o coração e de toda a vossa alma.  
 **6** Depois deu-lhes Josué a benção e os despediu. Eles voltaram para as suas tendas.  
 **7** Ora Moisés tinha dado à meia tribo de Manassés uma possessão em Basan; por isso Josué deu, à outra meia, uma parte entre os outros seus irmãos, na banda de aquém do Jordão, para o ocidente. Reenviando-os para as suas tendas e, tendo-os abençoado,  

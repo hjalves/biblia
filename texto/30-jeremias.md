@@ -493,7 +493,8 @@
 **1** Palavra que foi dirigida pelo Senhor a Jeremias, assim:  
 **2** Levanta-te, vai a casa do oleiro, e lá ouvirás as minhas palavras.  
 **3** Fui a casa do oleiro, que estava trabalhando sobre a roda.  
-**4** Quando ficava estragada a vasilha que fazia, retomava o barro com as mãos, e, tornando de novo, fazia outra, como bem lhe parecia. Então foi-me dirigida a palavra do Senhor nos termos seguintes:  
+**4** Quando ficava estragada a vasilha que fazia, retomava o barro com as mãos, e, tornando de novo, fazia outra, como bem lhe parecia.  
+**5** Então foi-me dirigida a palavra do Senhor nos termos seguintes:  
 **6** Porventura não poderei eu fazer de vós, casa de Israel, como este oleiro? diz o Senhor. Vede que, como o barro está na mão do oleiro, assim vós estais na minha mão, casa de Israel.  
 **7** Num momento, decido desarraigar, destruir, fazer perecer um povo ou um reino.  
 **8** (Porém) se tal povo se arrepende do seu mal, pelo qual eu o tenha condenado, também eu me arrependo do mal, que pensava fazer contra ele.  
@@ -1152,7 +1153,8 @@
 
 **1** Então foram todos os oficiais do exército, com Joanan, filho de Careé, e Jezonias, filho de Osaias, e o resto do povo, desde o pequeno ao grande  
 **2** junto do profeta Jeremias e disseram: Seja aceita a nossa súplica na tua presença! Pede ao Senhor teu Deus por nós, por todo este resto, porque de muitos ficamos poucos, como veem os teus olhos.  
-**3** Que o Senhor teu Deus nos mostre o caminho que devemos seguir, e o que devemos fazer. O profeta Jeremias disse-lhes: Eu ouvi. Vou fazer oração ao Senhor vosso Deus, conforme dizeis; qualquer palavra que me responder, eu vo-la referirei, sem vos encobrir coisa alguma.  
+**3** Que o Senhor teu Deus nos mostre o caminho que devemos seguir, e o que devemos fazer.  
+**4** O profeta Jeremias disse-lhes: Eu ouvi. Vou fazer oração ao Senhor vosso Deus, conforme dizeis; qualquer palavra que me responder, eu vo-la referirei, sem vos encobrir coisa alguma.  
 **5** Eles disseram a Jeremias: Seja o Senhor contra nós testemunha verdadeira e fiel, se não fizermos tudo o que o Senhor teu Deus te mandar dizer-nos.  
 **6** Seja coisa favorável ou adversa, obedeceremos à voz do Senhor nosso Deus, ao qual te enviamos para que sejamos bem sucedidos, obedecendo à voz do Senhor nosso Deus.  
 **7** Passados dez dias, foi dirigida a palavra do Senhor a Jeremias,  

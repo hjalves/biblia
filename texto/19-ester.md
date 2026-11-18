@@ -303,7 +303,8 @@
 **3** Não só procuram oprimir os vassalos dos reis, senão que, mal satisfeitos com a glória que receberam, armam traições contra os mesmos que lha deram.  
 **4** E não se contentam com ser ingratos aos benefícios e com violar em si mesmos os direitos da humanidade, mas presumem também poder escapar ao juízo de Deus, que tudo vê.  
 **5** Chegam a tal grau de loucura, que, com os artifícios da mentira, procuram arruinar aqueles que cumprem com exatidão os cargos, que lhes foram confiados, e que procedem em tudo de sorte que se tornam dignos do aplauso comum,  
-**6** enganando com cautelosa sagacidade os ouvidos sinceros dos príncipes, inclinados a ter os outros em bom apreço. Comprova-se não só com as histórias antigas, mas também com o que acontece todos os dias, de que modo as boas inclinações dos reis, se pervertem pelas más sugestões de alguns.  
+**6** enganando com cautelosa sagacidade os ouvidos sinceros dos príncipes, inclinados a ter os outros em bom apreço.  
+**7** Comprova-se não só com as histórias antigas, mas também com o que acontece todos os dias, de que modo as boas inclinações dos reis, se pervertem pelas más sugestões de alguns.  
 **8** Por isso é preciso providenciar à paz de todas as províncias.  
 **9** Mas não penseis que, se variamos as ordens, nasça isto da ligeireza ou inconstância do nosso ânimo, senão que acomodamos as nossas determinações à condição e necessidade dos tempos, como exige o bem da república.  
 **10** Para que entendais melhor o que dizemos (sabei que) Aman, filho de Amadati, macedónio de sentimentos e de raça, alheio ao sangue dos Persas, o qual com a sua crueldade tem desacreditado a nossa piedade, sendo estrangeiro, foi acolhido por nós  

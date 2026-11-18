@@ -653,7 +653,8 @@
 **12** O ímpio maquina males contra o justo e range os dentes contra ele.  
 **13** O Senhor zomba dele, porque vê que há-de chegar o seu dia.  
 **14** Os ímpios desembainham a espada e retesam o seu arco, para abaterem o desgraçado e o pobre, para trucidarem os que seguem caminho reto.  
-**15** A sua espada traspassarão seu próprio coração, e serão quebrados os seus arcos. Mais vale o pouco ao justo, que as muitas riquezas aos ímpios,  
+**15** A sua espada traspassarão seu próprio coração, e serão quebrados os seus arcos.  
+**16** Mais vale o pouco ao justo, que as muitas riquezas aos ímpios,  
 **17** porque os braços dos pecadores serão quebrados, aos justos, porém, sustenta-os o Senhor,  
 **18** O Senhor cuida da vida dos bons, e a herança deles será eterna.  
 **19** Não serão confundidos no tempo do infortúnio, e serão fartos nos dias de fome.  

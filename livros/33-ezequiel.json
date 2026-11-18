@@ -144,7 +144,11 @@
     },
     {
      "n": 3,
-     "texto": "Dizia-me: Filho de homem, eu te envio aos filhos de Israel, aos povos rebeldes que se revoltaram contra mim; eles e seus pais foram-me infiéis até ao dia de hoje. Aqueles a quem te envio são filhos de semblante duro de coração empedernido. Dir-lhes-ás: Assim fala o Senhor Iavé."
+     "texto": "Dizia-me: Filho de homem, eu te envio aos filhos de Israel, aos povos rebeldes que se revoltaram contra mim; eles e seus pais foram-me infiéis até ao dia de hoje."
+    },
+    {
+     "n": 4,
+     "texto": "Aqueles a quem te envio são filhos de semblante duro de coração empedernido. Dir-lhes-ás: Assim fala o Senhor Iavé."
     },
     {
      "n": 5,
@@ -3027,7 +3031,11 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "No ano décimo, no décimo mês, aos doze dias do mês, foi-me dirigida a palavra do Senhor, nestes termos: Filho de homem, volta o teu rosto contra Faraó, rei do Egito, e profetiza contra ele e contra o Egito."
+     "texto": "No ano décimo, no décimo mês, aos doze dias do mês, foi-me dirigida a palavra do Senhor, nestes termos:"
+    },
+    {
+     "n": 2,
+     "texto": "Filho de homem, volta o teu rosto contra Faraó, rei do Egito, e profetiza contra ele e contra o Egito."
     },
     {
      "n": 3,
@@ -3846,7 +3854,11 @@
     },
     {
      "n": 22,
-     "texto": "Por isso dirás à casa de Israel: Assim fala o Senhor Deus: Não é por amor de vós, casa de Israel, que procedo desta forma, mas por atenção ao meu santo nome, que vós profanastes entre as nações, para onde fostes. Santificarei o meu grande nome, que foi profanado entre as nações, o qual vós desonrastes no meio delas, a fim de que as nações saibam que eu sou o Senhor, diz o Senhor dos exércitos, quando mostrar a minha santidade, a seus olhos, no meio de vós."
+     "texto": "Por isso dirás à casa de Israel: Assim fala o Senhor Deus: Não é por amor de vós, casa de Israel, que procedo desta forma, mas por atenção ao meu santo nome, que vós profanastes entre as nações, para onde fostes."
+    },
+    {
+     "n": 23,
+     "texto": "Santificarei o meu grande nome, que foi profanado entre as nações, o qual vós desonrastes no meio delas, a fim de que as nações saibam que eu sou o Senhor, diz o Senhor dos exércitos, quando mostrar a minha santidade, a seus olhos, no meio de vós."
     },
     {
      "n": 24,

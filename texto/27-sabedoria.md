@@ -211,7 +211,8 @@
 **1** Deus de meus pais e Senhor de misericórdia, que fizeste tudo pela tua palavra,  
 **2** e que estabeleceste o homem, pela tua sabedoria, para ter domínio sobre as criaturas, que por ti foram feitas,  
 **3** para governar o mundo com equidade e justiça, para sentenciar em Juízo com retidão do coração.  
-**4** dá-me aquela sabedoria, que está sentada contigo no teu trono, e não me queiras excluir no número dos teus filhos porque eu sou servo teu, filho da tua escrava, sou um homem fraco e de pouca dura, e pouco capaz de compreender o juízo e as leis.  
+**4** dá-me aquela sabedoria, que está sentada contigo no teu trono, e não me queiras excluir no número dos teus filhos  
+**5** porque eu sou servo teu, filho da tua escrava, sou um homem fraco e de pouca dura, e pouco capaz de compreender o juízo e as leis.  
 **6** Ainda que alguém seja perfeito entre os filhos dos homens, se lhe faltar a tua sabedoria, será considerado como nada.  
 **7** Escolheste-me para rei do teu povo, e para juiz dos teus filhos e filhas.  
 **8** Mandaste-me edificar um templo sobre o teu santo monte, e um altar na cidade da tua habitação, conforme o modelo do teu santo tabernáculo, que preparaste desde o princípio.  
@@ -288,7 +289,8 @@
 **3** Tinhas horror aos antigos habitantes da tua terra santa,  
 **4** porque praticavam obras detestáveis de magia, ritos ímpios,  
 **5** cruéis morticínios de crianças, (faziam) festins de entranhas, carne humana e sangue e iniciações em abomináveis mistérios.  
-**6** A esses pais assassinos de seres indefesos, tu quiseste destruir pelas mãos de nossos pais, a fim de que esta terra, que é a mais estimada por ti, recebesse uma digna colónia de filhos de Deus.  
+**6** A esses pais assassinos de seres indefesos, tu quiseste destruir pelas mãos de nossos pais,  
+**7** a fim de que esta terra, que é a mais estimada por ti, recebesse uma digna colónia de filhos de Deus.  
 **8** Mas ainda a esses (perversos) perdoaste como a homens e lhes enviaste as vespas como precursoras do teu exército, para que elas os exterminassem pouco a pouco.  
 **9** Não porque não pudesses sujeitar pela guerra os ímpios aos justos, ou destruí-los duma vez pelos animais cruéis, ou com uma (só) palavra severa;  
 **10** mas, castigando-os pouco a pouco, davas-lhes lugar de fazer penitência, embora não Ignorasses que a sua raça era má, que a malícia lhes era natural, e que os seus pensamentos (perversos) jamais mudariam.  

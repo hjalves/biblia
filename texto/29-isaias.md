@@ -99,7 +99,8 @@
 
 ## Capítulo 5
 
-**1** Cantarei ao meu amado o seu cântico de amor à sua vinha. O meu amado adquiriu uma vinha, plantada numa fértil colina. Cavou-lhe a terra, tirou-lhe as pedras, plantou-a de bacelo escolhido, edificou uma torre no meio, e construiu nela um lagar. Esperava que desse boas uvas, mas produziu agraços.1  
+**1** Cantarei ao meu amado o seu cântico de amor à sua vinha. O meu amado adquiriu uma vinha, plantada numa fértil colina.  
+**2** Cavou-lhe a terra, tirou-lhe as pedras, plantou-a de bacelo escolhido, edificou uma torre no meio, e construiu nela um lagar. Esperava que desse boas uvas, mas produziu agraços.1  
 **3** Agora, pois, habitantes de Jerusalém e homens de Judá, sede vós os juízes entre mim e a minha vinha.  
 **4** Que coisa há que eu devesse fazer mais a minha vinha e que lhe não tenha feito? Por que, esperando eu que ela desse boas uvas, apenas agraços produziu?  
 **5** Agora vos mostrarei o que hei-de fazer à minha vinha: Arrancar-lhe-ei a sebe, e ficará exposta ao roubo; derrubar-lhe-ei o muro, e será pisada.  
@@ -318,7 +319,8 @@
 **3** Naquele tempo em que o Senhor te tiver dado descanso, depois do teu trabalho, da tua opressão, da dura servidão, a que estiveste sujeito,  
 **4** entoarás este cântico contra o rei de Babilónia. Dirás: Como acabou o tirano, como terminou a opressão?  
 **5** O Senhor despedaçou o bastão dos ímpios, a vara dos dominadores,  
-**6** o que na sua indignação feria os povos sem cessar, o que sujeitava as nações no seu furor, o que cruelmente as perseguia. Toda a terra está em descanso e em paz, em cantos de alegria.  
+**6** o que na sua indignação feria os povos sem cessar, o que sujeitava as nações no seu furor, o que cruelmente as perseguia.  
+**7** Toda a terra está em descanso e em paz, em cantos de alegria.  
 **8** Até os ciprestes e os cedros do Líbano exultaram com a tua perda. Desde que morreste (dizem eles), não subirá quem nos corte.  
 **9** A habitação dos mortos comove-se à tua chegada, para sair ao teu encontro. Acorda, em tua honra, as sombras dos grandes, todos os-senhores da terra: faz levantar dos seus tronos todos os reis das nações.  
 **10** Todos, dirigindo-te a palavra, te dirão; Também tu foste ferido como nós, vieste a ser-nos semelhante!  
@@ -535,7 +537,8 @@
 
 ## Capítulo 25
 
-**1** Senhor, tu és o meu Deus; eu te exaltarei, apregoarei o teu nome, porque fizeste maravilhas, realizando os teus antigos e fiéis desígnios. Porque tu reduziste a cidade (do mal) a um montão de pedras, a cidade forte a uma ruína; a cidadela dos estranhos não é mais uma cidade, jamais será reedificada.  
+**1** Senhor, tu és o meu Deus; eu te exaltarei, apregoarei o teu nome, porque fizeste maravilhas, realizando os teus antigos e fiéis desígnios.  
+**2** Porque tu reduziste a cidade (do mal) a um montão de pedras, a cidade forte a uma ruína; a cidadela dos estranhos não é mais uma cidade, jamais será reedificada.  
 **3** Por isso te louvará um povo forte, a cidade das nações robustas temer-te-á,  
 **4** porque te tornaste fortaleza para o pobre, fortaleza para o necessitado na sua tribulação, refúgio contra a tempestade, sombra contra o calor. Com efeito, o orgulho dos poderosos é como um furacão que investe contra uma muralha.  
 **5** Como o ardor (do sol) sobre uma terra árida, humilharás a insolência dos bárbaros; como o calor ardente (é abafado) por uma nuvem, assim se extinguirá o canto triunfal dos tiranos.  
@@ -549,11 +552,13 @@
 
 ## Capítulo 26
 
-**1** Naquele dia será cantado este cântico na terra de Judá; Temos uma cidade forte; o Salvador é para ela o muro e o antemuro. Abri as portas, e entre o povo justo, que observa a verdade.  
+**1** Naquele dia será cantado este cântico na terra de Judá; Temos uma cidade forte; o Salvador é para ela o muro e o antemuro.  
+**2** Abri as portas, e entre o povo justo, que observa a verdade.  
 **3** Desapareceu o antigo erro; tu (ó Senhor) conservarás a paz, a paz, porque em ti esperámos.  
 **4** Vós pusestes para sempre a vossa esperança no Senhor. no Senhor Deus, que é a nossa fortaleza eterna.  
 **5** Ele abate os que habitam no alto, e humilha a cidade altiva; humilha-a até à terra, fá-la descer até ao pó.  
-**6** É calcada pelos pés dos pobres, pelos pés dos miseráveis. A senda do justo é direita, direito é o caminho que abres ao justo, para por ele andar.  
+**6** É calcada pelos pés dos pobres, pelos pés dos miseráveis.  
+**7** A senda do justo é direita, direito é o caminho que abres ao justo, para por ele andar.  
 **8** Nós te esperamos, Senhor, (andando) na vereda dos teus juízos (ou leis); o teu nome e a tua memória são o desejo da nossa alma.  
 **9** A minha alma te desejou de noite, e, desde manhã, te busca o meu espírito. Quando exerceres sobre a terra os teus juízos, os habitantes do mundo aprenderão a justiça.  
 **10** Se se faz mercê ao ímpio, ele não aprende a justiça; na terra da retidão, pratica a iniquidade, e (por isso) não vê a glória do Senhor.  

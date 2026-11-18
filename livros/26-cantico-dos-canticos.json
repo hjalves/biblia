@@ -181,7 +181,11 @@
     },
     {
      "n": 6,
-     "texto": "Que é isto que sobe do deserto, como uma coluna de fumo, composta de aromas de mirra e de incenso, e de todos os perfumes dos mercadores? Eis o palanquim de Salomão, escoltado de sessenta valentes dos mais fortes de Israel,"
+     "texto": "Que é isto que sobe do deserto, como uma coluna de fumo, composta de aromas de mirra e de incenso, e de todos os perfumes dos mercadores?"
+    },
+    {
+     "n": 7,
+     "texto": "Eis o palanquim de Salomão, escoltado de sessenta valentes dos mais fortes de Israel,"
     },
     {
      "n": 8,
@@ -226,7 +230,11 @@
     },
     {
      "n": 6,
-     "texto": "Antes que chegue o fresco do dia, e se inclinem as sombras, eu irei ao monte da mirra, e ao outeiro do incenso. Toda és formosa, minha amada, e em ti não há mácula."
+     "texto": "Antes que chegue o fresco do dia, e se inclinem as sombras, eu irei ao monte da mirra, e ao outeiro do incenso."
+    },
+    {
+     "n": 7,
+     "texto": "Toda és formosa, minha amada, e em ti não há mácula."
     },
     {
      "n": 8,
@@ -283,11 +291,19 @@
     },
     {
      "n": 4,
-     "texto": "O meu amado meteu a sua mão pela abertura (da porta), e o meu coração estremeceu. Levantei-me para abrir ao meu amado: as minhas mãos destilaram mirra, e os meus dedos a mirra mais preciosa, sobre a aldrava da fechadura."
+     "texto": "O meu amado meteu a sua mão pela abertura (da porta), e o meu coração estremeceu."
+    },
+    {
+     "n": 5,
+     "texto": "Levantei-me para abrir ao meu amado: as minhas mãos destilaram mirra, e os meus dedos a mirra mais preciosa, sobre a aldrava da fechadura."
     },
     {
      "n": 6,
-     "texto": "Abri a minha porta ao meu amado, tirando-lhe o ferrolho, mas ele já se tinha ido, já tinha desaparecido. A minha alma ficava fora de si ao som da sua voz. Busquei-o, mas não o achei; chamei-o, e ele não me respondeu. Encontraram-me os guardas que rondam a cidade, bateram-me, feriram-me. Tiraram-me o meu manto, os guardas das muralhas."
+     "texto": "Abri a minha porta ao meu amado, tirando-lhe o ferrolho, mas ele já se tinha ido, já tinha desaparecido. A minha alma ficava fora de si ao som da sua voz. Busquei-o, mas não o achei; chamei-o, e ele não me respondeu."
+    },
+    {
+     "n": 7,
+     "texto": "Encontraram-me os guardas que rondam a cidade, bateram-me, feriram-me. Tiraram-me o meu manto, os guardas das muralhas."
     },
     {
      "n": 8,
@@ -336,7 +352,11 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "O meu amado desceu ao seu jardim, ao canteiro dos balsameiros para apascentar o seu rebanho nos jardins, e para colher lírios. Eu sou do meu amado, e o meu amado é meu, ele, que apascenta o seu rebanho entre os lírios."
+     "texto": "O meu amado desceu ao seu jardim, ao canteiro dos balsameiros para apascentar o seu rebanho nos jardins, e para colher lírios."
+    },
+    {
+     "n": 2,
+     "texto": "Eu sou do meu amado, e o meu amado é meu, ele, que apascenta o seu rebanho entre os lírios."
     },
     {
      "n": 3,
@@ -397,11 +417,19 @@
     },
     {
      "n": 4,
-     "texto": "O teu pescoço é como uma torre de marfim. Os teus olhos são como as piscinas de Hesebon, que estão situadas junto da porta de Bat-Rabim. O teu nariz é como a torre do Líbano, que olha para Damasco. A tua cabeça levanta-se como o monte Carmelo; os cabelos da tua cabeça são como a púrpura; um rei ficou preso às suas madeixas."
+     "texto": "O teu pescoço é como uma torre de marfim."
+    },
+    {
+     "n": 5,
+     "texto": "Os teus olhos são como as piscinas de Hesebon, que estão situadas junto da porta de Bat-Rabim. O teu nariz é como a torre do Líbano, que olha para Damasco. A tua cabeça levanta-se como o monte Carmelo; os cabelos da tua cabeça são como a púrpura; um rei ficou preso às suas madeixas."
     },
     {
      "n": 6,
-     "texto": "Quão formosa e encantadora és, meu amor, minhas delícias! A tua figura é semelhante a uma palmeira, os teus seios são como cachos."
+     "texto": "Quão formosa e encantadora és, meu amor, minhas delícias!"
+    },
+    {
+     "n": 7,
+     "texto": "A tua figura é semelhante a uma palmeira, os teus seios são como cachos."
     },
     {
      "n": 8,
@@ -438,7 +466,11 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Quem me dera ter-te por irmão, amamentado aos seios de minha mãe, para que, encontrando-te fora, eu te pudesse beijar, sem que ninguém me desprezasse! Eu te tomaria e te levaria a casa de minha mãe. Dar-te-ia a beber vinho perfumado, mosto da minhas romãs."
+     "texto": "Quem me dera ter-te por irmão, amamentado aos seios de minha mãe, para que, encontrando-te fora, eu te pudesse beijar, sem que ninguém me desprezasse!"
+    },
+    {
+     "n": 2,
+     "texto": "Eu te tomaria e te levaria a casa de minha mãe. Dar-te-ia a beber vinho perfumado, mosto da minhas romãs."
     },
     {
      "n": 3,
@@ -454,7 +486,11 @@
     },
     {
      "n": 6,
-     "texto": "Põe-me como um selo sobre o teu coração, como um selo sobre o teu braço. porque o amor é forte como a morte, o zelo do amor é duro como a habitação dos mortos. Os seus ardores são ardores de fogo, os seus fogos são fogos do Senhor. As muitas águas não poderiam extinguir o amor, nem os rios teriam força para o submergir. Se um homem desse todas as riquezas de sua casa pelo amor, ele o desprezaria como um nada."
+     "texto": "Põe-me como um selo sobre o teu coração, como um selo sobre o teu braço. porque o amor é forte como a morte, o zelo do amor é duro como a habitação dos mortos. Os seus ardores são ardores de fogo, os seus fogos são fogos do Senhor."
+    },
+    {
+     "n": 7,
+     "texto": "As muitas águas não poderiam extinguir o amor, nem os rios teriam força para o submergir. Se um homem desse todas as riquezas de sua casa pelo amor, ele o desprezaria como um nada."
     },
     {
      "n": 8,

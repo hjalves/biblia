@@ -406,7 +406,8 @@
 
 **1** Passado isto, falou o Senhor a Abrão numa visão, dizendo: não temas, Abrão, eu sou o teu protetor e a tua recompensa (será) excessivamente grande.  
 **2** Abrão respondeu; Senhor Deus, que me darás tu? Eu irei sem filhos, e o herdeiro da minha casa é este Eliezer de Damasco.  
-**3** E acrescentou Abrão: a mim não me deste filhos, e meu escravo será meu herdeiro. Imediatamente o Senhor lhe dirigiu a palavra, dizendo: este não será o teu herdeiro, mas terás por herdeiro aquele que nascer de ti.  
+**3** E acrescentou Abrão: a mim não me deste filhos, e meu escravo será meu herdeiro.  
+**4** Imediatamente o Senhor lhe dirigiu a palavra, dizendo: este não será o teu herdeiro, mas terás por herdeiro aquele que nascer de ti.  
 **5** Depois conduziu-o fora, e disse-lhe: olha para o céu e conta, se podes, as estrelas. Depois acrescentou: assim será a tua descendência.  
 **6** Creu Abrão em Deus, e (este ato de fé) lhe foi imputado como justiça.  
 **7** Disse-lhe mais o Senhor: eu sou o Senhor que te tirei de Ur dos Caldeus, para te dar esta terra, e a possuíres.  

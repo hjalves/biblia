@@ -379,7 +379,11 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Cantarei ao meu amado o seu cântico de amor à sua vinha. O meu amado adquiriu uma vinha, plantada numa fértil colina. Cavou-lhe a terra, tirou-lhe as pedras, plantou-a de bacelo escolhido, edificou uma torre no meio, e construiu nela um lagar. Esperava que desse boas uvas, mas produziu agraços.1"
+     "texto": "Cantarei ao meu amado o seu cântico de amor à sua vinha. O meu amado adquiriu uma vinha, plantada numa fértil colina."
+    },
+    {
+     "n": 2,
+     "texto": "Cavou-lhe a terra, tirou-lhe as pedras, plantou-a de bacelo escolhido, edificou uma torre no meio, e construiu nela um lagar. Esperava que desse boas uvas, mas produziu agraços.1"
     },
     {
      "n": 3,
@@ -1192,7 +1196,11 @@
     },
     {
      "n": 6,
-     "texto": "o que na sua indignação feria os povos sem cessar, o que sujeitava as nações no seu furor, o que cruelmente as perseguia. Toda a terra está em descanso e em paz, em cantos de alegria."
+     "texto": "o que na sua indignação feria os povos sem cessar, o que sujeitava as nações no seu furor, o que cruelmente as perseguia."
+    },
+    {
+     "n": 7,
+     "texto": "Toda a terra está em descanso e em paz, em cantos de alegria."
     },
     {
      "n": 8,
@@ -1983,7 +1991,11 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Senhor, tu és o meu Deus; eu te exaltarei, apregoarei o teu nome, porque fizeste maravilhas, realizando os teus antigos e fiéis desígnios. Porque tu reduziste a cidade (do mal) a um montão de pedras, a cidade forte a uma ruína; a cidadela dos estranhos não é mais uma cidade, jamais será reedificada."
+     "texto": "Senhor, tu és o meu Deus; eu te exaltarei, apregoarei o teu nome, porque fizeste maravilhas, realizando os teus antigos e fiéis desígnios."
+    },
+    {
+     "n": 2,
+     "texto": "Porque tu reduziste a cidade (do mal) a um montão de pedras, a cidade forte a uma ruína; a cidadela dos estranhos não é mais uma cidade, jamais será reedificada."
     },
     {
      "n": 3,
@@ -2032,7 +2044,11 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Naquele dia será cantado este cântico na terra de Judá; Temos uma cidade forte; o Salvador é para ela o muro e o antemuro. Abri as portas, e entre o povo justo, que observa a verdade."
+     "texto": "Naquele dia será cantado este cântico na terra de Judá; Temos uma cidade forte; o Salvador é para ela o muro e o antemuro."
+    },
+    {
+     "n": 2,
+     "texto": "Abri as portas, e entre o povo justo, que observa a verdade."
     },
     {
      "n": 3,
@@ -2048,7 +2064,11 @@
     },
     {
      "n": 6,
-     "texto": "É calcada pelos pés dos pobres, pelos pés dos miseráveis. A senda do justo é direita, direito é o caminho que abres ao justo, para por ele andar."
+     "texto": "É calcada pelos pés dos pobres, pelos pés dos miseráveis."
+    },
+    {
+     "n": 7,
+     "texto": "A senda do justo é direita, direito é o caminho que abres ao justo, para por ele andar."
     },
     {
      "n": 8,

@@ -4,7 +4,7 @@
  "edicao": "1956",
  "lingua": "pt-PT",
  "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
- "versiculos": 35609,
+ "versiculos": 35790,
  "organizacao": "Avelentis",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
@@ -1542,7 +1542,11 @@
       },
       {
        "n": 3,
-       "texto": "E acrescentou Abrão: a mim não me deste filhos, e meu escravo será meu herdeiro. Imediatamente o Senhor lhe dirigiu a palavra, dizendo: este não será o teu herdeiro, mas terás por herdeiro aquele que nascer de ti."
+       "texto": "E acrescentou Abrão: a mim não me deste filhos, e meu escravo será meu herdeiro."
+      },
+      {
+       "n": 4,
+       "texto": "Imediatamente o Senhor lhe dirigiu a palavra, dizendo: este não será o teu herdeiro, mas terás por herdeiro aquele que nascer de ti."
       },
       {
        "n": 5,
@@ -24745,10 +24749,14 @@
       },
       {
        "n": 2,
-       "texto": "Então o Senhor disse a Josué: Faze facas de pedra, e restabelece novamente a circuncisão entre os filhos de Irsrael. Josué, fazendo o que o Senhor lhe mandara, circuncidou os filhos de Israel sobre o outeiro (chamado por isso) da Circuncisão."
+       "texto": "Então o Senhor disse a Josué: Faze facas de pedra, e restabelece novamente a circuncisão entre os filhos de Irsrael."
       },
       {
        "n": 3,
+       "texto": "Josué, fazendo o que o Senhor lhe mandara, circuncidou os filhos de Israel sobre o outeiro (chamado por isso) da Circuncisão."
+      },
+      {
+       "n": 4,
        "texto": "A causa desta circuncisão é a seguinte: Todos os varões dentre o povo, que tinham saído do Egito, todos os homens de guerra tinham morrido no deserto durante os larguíssimos rodeios do caminho,"
       },
       {
@@ -26790,7 +26798,11 @@
       },
       {
        "n": 3,
-       "texto": "e durante um tão largo tempo até ao dia de hoje não abandonastes os vossos irmãos, observando o mandamento do Senhor vosso Deus. Agora, visto que o Senhor vosso Deus deu repouso e paz aos vossos irmãos, como lho tinha prometido, voltai e ide para as vossas tendas, para a terra que vos pertence, terra que Moisés, servo do Senhor, vos deu da outra banda do Jordão."
+       "texto": "e durante um tão largo tempo até ao dia de hoje não abandonastes os vossos irmãos, observando o mandamento do Senhor vosso Deus."
+      },
+      {
+       "n": 4,
+       "texto": "Agora, visto que o Senhor vosso Deus deu repouso e paz aos vossos irmãos, como lho tinha prometido, voltai e ide para as vossas tendas, para a terra que vos pertence, terra que Moisés, servo do Senhor, vos deu da outra banda do Jordão."
       },
       {
        "n": 5,
@@ -42081,7 +42093,11 @@
       },
       {
        "n": 21,
-       "texto": "Eis o que o Senhor disse dele: Ela te desprezou e te escarneceu, a virgem, filha de Sião; ela sacudiu a sua cabeça por detrás de ti, a filha de Jerusalém. A quem insultaste, contra quem blasfemaste? Contra quem levantaste a tua voz? A quem desafiaste com teus olhos? O Santo de Israel."
+       "texto": "Eis o que o Senhor disse dele: Ela te desprezou e te escarneceu, a virgem, filha de Sião; ela sacudiu a sua cabeça por detrás de ti, a filha de Jerusalém."
+      },
+      {
+       "n": 22,
+       "texto": "A quem insultaste, contra quem blasfemaste? Contra quem levantaste a tua voz? A quem desafiaste com teus olhos? O Santo de Israel."
       },
       {
        "n": 23,
@@ -42842,7 +42858,11 @@
       },
       {
        "n": 10,
-       "texto": "Cus gerou Neinrod, o qual começou a ser poderoso na terra. Mesraim gerou Ludim, Anamim, Laabim, Neftuim,"
+       "texto": "Cus gerou Neinrod, o qual começou a ser poderoso na terra."
+      },
+      {
+       "n": 11,
+       "texto": "Mesraim gerou Ludim, Anamim, Laabim, Neftuim,"
       },
       {
        "n": 12,
@@ -43526,7 +43546,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Eis os filhos de Ruben, primogénito de Israel (porque este foi o seu primogénito, em bora, por ter manchado o tálamo de seu pai, fosse o seu direito de primogenitura dado aos filhos de José, filho de Israel, deixando (desta forma) Ruben de ser considerado primogénito; quanto a Judá, que era o mais valente de todos os seus irmãos, da sua estirpe saíram príncipes, mas o direito da primogenitura foi adjudicado a José)."
+       "texto": "Eis os filhos de Ruben, primogénito de Israel (porque este foi o seu primogénito, em bora, por ter manchado o tálamo de seu pai, fosse o seu direito de primogenitura dado aos filhos de José, filho de Israel, deixando (desta forma) Ruben de ser considerado primogénito;"
+      },
+      {
+       "n": 2,
+       "texto": "quanto a Judá, que era o mais valente de todos os seus irmãos, da sua estirpe saíram príncipes, mas o direito da primogenitura foi adjudicado a José)."
       },
       {
        "n": 3,
@@ -56903,7 +56927,11 @@
       },
       {
        "n": 6,
-       "texto": "enganando com cautelosa sagacidade os ouvidos sinceros dos príncipes, inclinados a ter os outros em bom apreço. Comprova-se não só com as histórias antigas, mas também com o que acontece todos os dias, de que modo as boas inclinações dos reis, se pervertem pelas más sugestões de alguns."
+       "texto": "enganando com cautelosa sagacidade os ouvidos sinceros dos príncipes, inclinados a ter os outros em bom apreço."
+      },
+      {
+       "n": 7,
+       "texto": "Comprova-se não só com as histórias antigas, mas também com o que acontece todos os dias, de que modo as boas inclinações dos reis, se pervertem pelas más sugestões de alguns."
       },
       {
        "n": 8,
@@ -69936,7 +69964,11 @@
       },
       {
        "n": 15,
-       "texto": "A sua espada traspassarão seu próprio coração, e serão quebrados os seus arcos. Mais vale o pouco ao justo, que as muitas riquezas aos ímpios,"
+       "texto": "A sua espada traspassarão seu próprio coração, e serão quebrados os seus arcos."
+      },
+      {
+       "n": 16,
+       "texto": "Mais vale o pouco ao justo, que as muitas riquezas aos ímpios,"
       },
       {
        "n": 17,
@@ -78462,7 +78494,11 @@
       },
       {
        "n": 4,
-       "texto": "para dar aos inexperientes o discernimento, e ao jovem conhecimento e reflexão. O sábio, ouvindo (estas sentenças), ficará mais sábio, e o que as entender adquirirá destreza"
+       "texto": "para dar aos inexperientes o discernimento, e ao jovem conhecimento e reflexão."
+      },
+      {
+       "n": 5,
+       "texto": "O sábio, ouvindo (estas sentenças), ficará mais sábio, e o que as entender adquirirá destreza"
       },
       {
        "n": 6,
@@ -78538,11 +78574,19 @@
       },
       {
        "n": 24,
-       "texto": "Mas, visto que eu vos chamei, e vós não quisestes ouvir-me, visto que estendi a minha mão, e não houve quem olhasse para mim, visto que desprezastes todos os meus conselhos, e não fizestes caso das minhas repreensões,"
+       "texto": "Mas, visto que eu vos chamei, e vós não quisestes ouvir-me, visto que estendi a minha mão, e não houve quem olhasse para mim,"
+      },
+      {
+       "n": 25,
+       "texto": "visto que desprezastes todos os meus conselhos, e não fizestes caso das minhas repreensões,"
       },
       {
        "n": 26,
-       "texto": "também eu me rirei da vossa ruína, zombarei de vós; quando vos assaltar o terror, quando cair sobre vós, como furacão, o terror, quando vos colher a desgraça como um temporal, quando vierem sobre vós a tribulação e a angústia"
+       "texto": "também eu me rirei da vossa ruína, zombarei de vós;"
+      },
+      {
+       "n": 27,
+       "texto": "quando vos assaltar o terror, quando cair sobre vós, como furacão, o terror, quando vos colher a desgraça como um temporal, quando vierem sobre vós a tribulação e a angústia"
       },
       {
        "n": 28,
@@ -78587,11 +78631,19 @@
       },
       {
        "n": 4,
-       "texto": "se a buscares como o dinheiro, e procurares desenterrá-la como se faz com os tesouros, então compreenderás o temor do Senhor, e chegarás ao conhecimento de Deus."
+       "texto": "se a buscares como o dinheiro, e procurares desenterrá-la como se faz com os tesouros,"
+      },
+      {
+       "n": 5,
+       "texto": "então compreenderás o temor do Senhor, e chegarás ao conhecimento de Deus."
       },
       {
        "n": 6,
-       "texto": "Com efeito o Senhor é quem dá a sabedoria, e da sua boca procedem a prudência e a ciência. Ele reserva a salvação para os justos, protege os que caminham retamente,"
+       "texto": "Com efeito o Senhor é quem dá a sabedoria, e da sua boca procedem a prudência e a ciência."
+      },
+      {
+       "n": 7,
+       "texto": "Ele reserva a salvação para os justos, protege os que caminham retamente,"
       },
       {
        "n": 8,
@@ -78660,7 +78712,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Meu filho, não te esqueças dos meus ensinamentos, guarda no teu coração os meus preceitos, porque eles te acrescentarão longos dias, anos de vida, e prosperidade."
+       "texto": "Meu filho, não te esqueças dos meus ensinamentos, guarda no teu coração os meus preceitos,"
+      },
+      {
+       "n": 2,
+       "texto": "porque eles te acrescentarão longos dias, anos de vida, e prosperidade."
       },
       {
        "n": 3,
@@ -78668,7 +78724,11 @@
       },
       {
        "n": 4,
-       "texto": "Assim acharás graça e boa opinião diante de Deus e dos homens. Tem confiança no Senhor de todo o teu coração, e não te estribes na tua prudência."
+       "texto": "Assim acharás graça e boa opinião diante de Deus e dos homens."
+      },
+      {
+       "n": 5,
+       "texto": "Tem confiança no Senhor de todo o teu coração, e não te estribes na tua prudência."
       },
       {
        "n": 6,
@@ -78744,11 +78804,19 @@
       },
       {
        "n": 24,
-       "texto": "Quando te deitares a repousar, não temerás; descansarás, e o teu sono será tranquilo. Não receies nenhum terror imprevisto, nem a ruína reservada aos ímpios, quando vier,"
+       "texto": "Quando te deitares a repousar, não temerás; descansarás, e o teu sono será tranquilo."
+      },
+      {
+       "n": 25,
+       "texto": "Não receies nenhum terror imprevisto, nem a ruína reservada aos ímpios, quando vier,"
       },
       {
        "n": 26,
-       "texto": "porque o Senhor estará ao teu lado, e guardará o teu pé para não seres apanhado (no laço). Não recuses um benefício ao que dele precisa, se estiver em teu poder concedê-lo."
+       "texto": "porque o Senhor estará ao teu lado, e guardará o teu pé para não seres apanhado (no laço)."
+      },
+      {
+       "n": 27,
+       "texto": "Não recuses um benefício ao que dele precisa, se estiver em teu poder concedê-lo."
       },
       {
        "n": 28,
@@ -78801,7 +78869,11 @@
       },
       {
        "n": 4,
-       "texto": "Ele me ensinava, dizendo-me: O teu coração receba as minhas palavras; guarda os meus preceitos, e viverás. Adquire sabedoria, adquire, a todo o custo, inteligência; não te esqueças nem te desvies das palavras da minha boca."
+       "texto": "Ele me ensinava, dizendo-me: O teu coração receba as minhas palavras; guarda os meus preceitos, e viverás."
+      },
+      {
+       "n": 5,
+       "texto": "Adquire sabedoria, adquire, a todo o custo, inteligência; não te esqueças nem te desvies das palavras da minha boca."
       },
       {
        "n": 6,
@@ -78865,7 +78937,11 @@
       },
       {
        "n": 21,
-       "texto": "Nunca as percas de vista, conserva-as no íntimo do teu coração, porque são vida para os que as acham, saúde para todo o seu corpo."
+       "texto": "Nunca as percas de vista, conserva-as no íntimo do teu coração,"
+      },
+      {
+       "n": 22,
+       "texto": "porque são vida para os que as acham, saúde para todo o seu corpo."
       },
       {
        "n": 23,
@@ -78873,7 +78949,11 @@
       },
       {
        "n": 24,
-       "texto": "Afasta de ti a malignidade da boca, aparta de ti a perversidade dos lábios. Os teus olhos olhem direitos, a tua vista preceda os teus passos."
+       "texto": "Afasta de ti a malignidade da boca, aparta de ti a perversidade dos lábios."
+      },
+      {
+       "n": 25,
+       "texto": "Os teus olhos olhem direitos, a tua vista preceda os teus passos."
       },
       {
        "n": 26,
@@ -78886,7 +78966,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Meu filho, atende à minha sabedoria, inclina o teu ouvido à minha prudência, para conservares a reflexão e manteres em teus lábios a ciência."
+       "texto": "Meu filho, atende à minha sabedoria, inclina o teu ouvido à minha prudência,"
+      },
+      {
+       "n": 2,
+       "texto": "para conservares a reflexão e manteres em teus lábios a ciência."
       },
       {
        "n": 3,
@@ -78962,7 +79046,11 @@
       },
       {
        "n": 21,
-       "texto": "O Senhor olha atentamente para os caminhos do homem, considera todos os seus passos. O ímpio é presa das suas próprias iniquidades, e é ligado com as cadeias dos seus pecados."
+       "texto": "O Senhor olha atentamente para os caminhos do homem, considera todos os seus passos."
+      },
+      {
+       "n": 22,
+       "texto": "O ímpio é presa das suas próprias iniquidades, e é ligado com as cadeias dos seus pecados."
       },
       {
        "n": 23,
@@ -78975,7 +79063,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Meu filho, se ficaste por fiador do teu próximo, se deste a tua mão a um estranho, com as palavras saídas de teus lábios te meteste no laço, e ficaste preso pela tua própria boca."
+       "texto": "Meu filho, se ficaste por fiador do teu próximo, se deste a tua mão a um estranho,"
+      },
+      {
+       "n": 2,
+       "texto": "com as palavras saídas de teus lábios te meteste no laço, e ficaste preso pela tua própria boca."
       },
       {
        "n": 3,
@@ -78991,7 +79083,11 @@
       },
       {
        "n": 6,
-       "texto": "Vai, ó preguiçoso, ter com a formiga, considera o seu proceder e aprende dela a sabedoria. Não tendo ela guia, nem inspetor, nem príncipe,"
+       "texto": "Vai, ó preguiçoso, ter com a formiga, considera o seu proceder e aprende dela a sabedoria."
+      },
+      {
+       "n": 7,
+       "texto": "Não tendo ela guia, nem inspetor, nem príncipe,"
       },
       {
        "n": 8,
@@ -79047,7 +79143,11 @@
       },
       {
        "n": 21,
-       "texto": "Traze-os incessantemente presos ao teu coração, ligados ao teu pescoço. Quando andares, eles te acompanharão, quando dormires, eles te guardarão, e, ao acordar, falarão contigo."
+       "texto": "Traze-os incessantemente presos ao teu coração, ligados ao teu pescoço."
+      },
+      {
+       "n": 22,
+       "texto": "Quando andares, eles te acompanharão, quando dormires, eles te guardarão, e, ao acordar, falarão contigo."
       },
       {
        "n": 23,
@@ -79055,11 +79155,19 @@
       },
       {
        "n": 24,
-       "texto": "Guardar-te-ão da má mulher, e da língua insinuante da estranha. Não cobice o teu coração a sua formosura, nem te deixes prender dos seus olhares."
+       "texto": "Guardar-te-ão da má mulher, e da língua insinuante da estranha."
+      },
+      {
+       "n": 25,
+       "texto": "Não cobice o teu coração a sua formosura, nem te deixes prender dos seus olhares."
       },
       {
        "n": 26,
-       "texto": "Se a meretriz procura um pedaço de pão, a mulher (adúltera) arrebata toda uma vida preciosa. Porventura pode um homem esconder o fogo no seu seio, sem que ardam as suas vestes?"
+       "texto": "Se a meretriz procura um pedaço de pão, a mulher (adúltera) arrebata toda uma vida preciosa."
+      },
+      {
+       "n": 27,
+       "texto": "Porventura pode um homem esconder o fogo no seu seio, sem que ardam as suas vestes?"
       },
       {
        "n": 28,
@@ -79100,7 +79208,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Meu filho, guarda as minhas palavras, esconde no teu coração os meus preceitos. Filho, observa os meus mandamentos, e viverás; (guarda) a minha lei como a menina dos teus olhos."
+       "texto": "Meu filho, guarda as minhas palavras, esconde no teu coração os meus preceitos."
+      },
+      {
+       "n": 2,
+       "texto": "Filho, observa os meus mandamentos, e viverás; (guarda) a minha lei como a menina dos teus olhos."
       },
       {
        "n": 3,
@@ -79108,11 +79220,19 @@
       },
       {
        "n": 4,
-       "texto": "Dize à sabedoria: Tu és minha irmã; e chama à inteligência tua amiga, para que te guardem da mulher estranha, da alheia que tem palavras lúbricas."
+       "texto": "Dize à sabedoria: Tu és minha irmã; e chama à inteligência tua amiga,"
+      },
+      {
+       "n": 5,
+       "texto": "para que te guardem da mulher estranha, da alheia que tem palavras lúbricas."
       },
       {
        "n": 6,
-       "texto": "Da janela de minha casa eu olhava por entre as grades, e vi uns incautos, e (entre eles) notei um jovem insensato,"
+       "texto": "Da janela de minha casa eu olhava por entre as grades,"
+      },
+      {
+       "n": 7,
+       "texto": "e vi uns incautos, e (entre eles) notei um jovem insensato,"
       },
       {
        "n": 8,
@@ -79168,7 +79288,11 @@
       },
       {
        "n": 21,
-       "texto": "Meteu-o assim na rede com as suas muitas palavras, arrastou-o com as lisonjas dos seus lábios. Ele segue-a logo, como um boi que é levado para o açougue, como um veado colhido no laço,"
+       "texto": "Meteu-o assim na rede com as suas muitas palavras, arrastou-o com as lisonjas dos seus lábios."
+      },
+      {
+       "n": 22,
+       "texto": "Ele segue-a logo, como um boi que é levado para o açougue, como um veado colhido no laço,"
       },
       {
        "n": 23,
@@ -79197,7 +79321,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Porventura a sabedoria não está repetidas vezes clamando, e a prudência não faz ouvir a sua voz? No mais alto e elevado das eminências, ao longo do caminho, nas encruzilhadas ela está de pé,"
+       "texto": "Porventura a sabedoria não está repetidas vezes clamando, e a prudência não faz ouvir a sua voz?"
+      },
+      {
+       "n": 2,
+       "texto": "No mais alto e elevado das eminências, ao longo do caminho, nas encruzilhadas ela está de pé,"
       },
       {
        "n": 3,
@@ -79205,11 +79333,19 @@
       },
       {
        "n": 4,
-       "texto": "A vós, ó homens, é que eu estou continuamente clamando, e aos filhos dos homens é que se dirige a minha voz. Aprendei, ó inexperientes, a prudência, e vós, insensatos, tomai inteligência."
+       "texto": "A vós, ó homens, é que eu estou continuamente clamando, e aos filhos dos homens é que se dirige a minha voz."
+      },
+      {
+       "n": 5,
+       "texto": "Aprendei, ó inexperientes, a prudência, e vós, insensatos, tomai inteligência."
       },
       {
        "n": 6,
-       "texto": "Ouvi, porque tenho de vos falar acerca de grandes coisas, e os meus lábios se abrirão, para anunciarem o que é reto. A minha boca publicará a verdade, e os meus lábios detestarão o ímpio."
+       "texto": "Ouvi, porque tenho de vos falar acerca de grandes coisas, e os meus lábios se abrirão, para anunciarem o que é reto."
+      },
+      {
+       "n": 7,
+       "texto": "A minha boca publicará a verdade, e os meus lábios detestarão o ímpio."
       },
       {
        "n": 8,
@@ -79285,7 +79421,11 @@
       },
       {
        "n": 26,
-       "texto": "Ainda ele não tinha criado a terra, nem os campos, nem o primeiro pó da terra. Quando ele preparava os céus, eu estava presente; quando, por uma lei inviolável, encerrava os abismos dentro dos seus limites;"
+       "texto": "Ainda ele não tinha criado a terra, nem os campos, nem o primeiro pó da terra."
+      },
+      {
+       "n": 27,
+       "texto": "Quando ele preparava os céus, eu estava presente; quando, por uma lei inviolável, encerrava os abismos dentro dos seus limites;"
       },
       {
        "n": 28,
@@ -79330,7 +79470,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "A sabedoria edificou para si uma casa, levantou sete colunas. Imolou as suas vitimas, preparou o vinho, pôs a sua mesa."
+       "texto": "A sabedoria edificou para si uma casa, levantou sete colunas."
+      },
+      {
+       "n": 2,
+       "texto": "Imolou as suas vitimas, preparou o vinho, pôs a sua mesa."
       },
       {
        "n": 3,
@@ -79338,11 +79482,19 @@
       },
       {
        "n": 4,
-       "texto": "Todo o que é simples, venha a mim. Aos insensatos disse: Vinde, comei o pão que eu vos dou, bebei o vinho que vos preparei."
+       "texto": "Todo o que é simples, venha a mim. Aos insensatos disse:"
+      },
+      {
+       "n": 5,
+       "texto": "Vinde, comei o pão que eu vos dou, bebei o vinho que vos preparei."
       },
       {
        "n": 6,
-       "texto": "Deixai as ninharias, e vivereis (felizes), e progredireis pelos caminhos da prudência. Aquele que corrige o mofador, atraí o escárnio sobre si, e aquele que repreende o ímpio, arrisca-se a (sofrer) um ultraje."
+       "texto": "Deixai as ninharias, e vivereis (felizes), e progredireis pelos caminhos da prudência."
+      },
+      {
+       "n": 7,
+       "texto": "Aquele que corrige o mofador, atraí o escárnio sobre si, e aquele que repreende o ímpio, arrisca-se a (sofrer) um ultraje."
       },
       {
        "n": 8,
@@ -79475,7 +79627,11 @@
       },
       {
        "n": 21,
-       "texto": "Os lábios do justo alimentam muitos, mas os néscios morrem por falta de entendimento. A bênção do Senhor faz os (homens) ricos; a nossa fadiga não junta nada."
+       "texto": "Os lábios do justo alimentam muitos, mas os néscios morrem por falta de entendimento."
+      },
+      {
+       "n": 22,
+       "texto": "A bênção do Senhor faz os (homens) ricos; a nossa fadiga não junta nada."
       },
       {
        "n": 23,
@@ -79483,11 +79639,19 @@
       },
       {
        "n": 24,
-       "texto": "O que o ímpio teme, isso virá sobre ele; aos justos se lhes concederá o que desejam. O ímpio desaparecerá como um turbilhão que passa; mas o justo fica em fundamento eterno."
+       "texto": "O que o ímpio teme, isso virá sobre ele; aos justos se lhes concederá o que desejam."
+      },
+      {
+       "n": 25,
+       "texto": "O ímpio desaparecerá como um turbilhão que passa; mas o justo fica em fundamento eterno."
       },
       {
        "n": 26,
-       "texto": "Qual o vinagre para os dentes, e o fumo para os olhos, tal é o preguiçoso para aqueles que o mandaram. O temor do Senhor prolonga os dias, porém os anos dos ímpios serão abreviados."
+       "texto": "Qual o vinagre para os dentes, e o fumo para os olhos, tal é o preguiçoso para aqueles que o mandaram."
+      },
+      {
+       "n": 27,
+       "texto": "O temor do Senhor prolonga os dias, porém os anos dos ímpios serão abreviados."
       },
       {
        "n": 28,
@@ -79536,7 +79700,11 @@
       },
       {
        "n": 6,
-       "texto": "A justiça dos retos livrá-los-á, os iníquos, porém, serão apanhados em seus próprios laços. Quando morre o ímpio, desaparece toda a sua esperança; e a expectativa dos iníquos é aniquilada."
+       "texto": "A justiça dos retos livrá-los-á, os iníquos, porém, serão apanhados em seus próprios laços."
+      },
+      {
+       "n": 7,
+       "texto": "Quando morre o ímpio, desaparece toda a sua esperança; e a expectativa dos iníquos é aniquilada."
       },
       {
        "n": 8,
@@ -79592,7 +79760,11 @@
       },
       {
        "n": 21,
-       "texto": "Cedo ou tarde o mau não ficará impune, porém a linhagem dos justos será salva. Um anel de oiro no focinho dum porco, tal é a mulher formosa mas insensata."
+       "texto": "Cedo ou tarde o mau não ficará impune, porém a linhagem dos justos será salva."
+      },
+      {
+       "n": 22,
+       "texto": "Um anel de oiro no focinho dum porco, tal é a mulher formosa mas insensata."
       },
       {
        "n": 23,
@@ -79600,11 +79772,19 @@
       },
       {
        "n": 24,
-       "texto": "Uns repartem liberalmente e ficam mais ricos, outros poupam demais, estão sempre na pobreza. A alma beneficente será cumulada de bens, e o que largamente dá, largamente receberá."
+       "texto": "Uns repartem liberalmente e ficam mais ricos, outros poupam demais, estão sempre na pobreza."
+      },
+      {
+       "n": 25,
+       "texto": "A alma beneficente será cumulada de bens, e o que largamente dá, largamente receberá."
       },
       {
        "n": 26,
-       "texto": "O que esconde o trigo será amaldiçoado entre os povos; a bênção virá sobre a cabeça dos que o vendem. Aquele que faz o bem, bens atrai (sobre si); aquele porém que busca fazer o mal, será por ele oprimido."
+       "texto": "O que esconde o trigo será amaldiçoado entre os povos; a bênção virá sobre a cabeça dos que o vendem."
+      },
+      {
+       "n": 27,
+       "texto": "Aquele que faz o bem, bens atrai (sobre si); aquele porém que busca fazer o mal, será por ele oprimido."
       },
       {
        "n": 28,
@@ -79629,7 +79809,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Aquele que ama a correção, ama a ciência; o que odeia as repreensões, é insensato. Aquele que é bom terá do Senhor graça; mas o maldoso é por ele condenado."
+       "texto": "Aquele que ama a correção, ama a ciência; o que odeia as repreensões, é insensato."
+      },
+      {
+       "n": 2,
+       "texto": "Aquele que é bom terá do Senhor graça; mas o maldoso é por ele condenado."
       },
       {
        "n": 3,
@@ -79637,11 +79821,19 @@
       },
       {
        "n": 4,
-       "texto": "A mulher diligente é a coroa do seu marido, porém a que faz coisas dignas de confusão é (como) a podridão nos seus ossos. Os pensamentos dos justos são cheios de justiça, mas os conselhos dos ímpios são cheios de fraude."
+       "texto": "A mulher diligente é a coroa do seu marido, porém a que faz coisas dignas de confusão é (como) a podridão nos seus ossos."
+      },
+      {
+       "n": 5,
+       "texto": "Os pensamentos dos justos são cheios de justiça, mas os conselhos dos ímpios são cheios de fraude."
       },
       {
        "n": 6,
-       "texto": "As palavras dos ímpios são ciladas à vida, a boca dos justos é que os salva. Os maus são derrubados, não subsistirão; mas a casa dos justos permanecerá firme."
+       "texto": "As palavras dos ímpios são ciladas à vida, a boca dos justos é que os salva."
+      },
+      {
+       "n": 7,
+       "texto": "Os maus são derrubados, não subsistirão; mas a casa dos justos permanecerá firme."
       },
       {
        "n": 8,
@@ -79734,7 +79926,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "O filho sábio ama a correção; o que porém é mofador não faz caso, quando é repreendido. O homem (justo) será saciado de bens pelo fruto da sua boca; o desejo dos pérfidos é a violência."
+       "texto": "O filho sábio ama a correção; o que porém é mofador não faz caso, quando é repreendido."
+      },
+      {
+       "n": 2,
+       "texto": "O homem (justo) será saciado de bens pelo fruto da sua boca; o desejo dos pérfidos é a violência."
       },
       {
        "n": 3,
@@ -79855,7 +80051,11 @@
       },
       {
        "n": 6,
-       "texto": "O mofador busca a sabedoria, e não a encontra; para os homens-prudentes a sabedoria é (coisa) fácil. Afasta-te do homem insensato, pois ele não conhece os ditames da prudência."
+       "texto": "O mofador busca a sabedoria, e não a encontra; para os homens-prudentes a sabedoria é (coisa) fácil."
+      },
+      {
+       "n": 7,
+       "texto": "Afasta-te do homem insensato, pois ele não conhece os ditames da prudência."
       },
       {
        "n": 8,
@@ -79911,7 +80111,11 @@
       },
       {
        "n": 21,
-       "texto": "Aquele que despreza o seu próximo, peca; mas o que se compadece do pobre, será bem-aventurado. Os que praticam o mal, acaso não se transviam? A misericórdia e a verdade são para que praticam o bem."
+       "texto": "Aquele que despreza o seu próximo, peca; mas o que se compadece do pobre, será bem-aventurado."
+      },
+      {
+       "n": 22,
+       "texto": "Os que praticam o mal, acaso não se transviam? A misericórdia e a verdade são para que praticam o bem."
       },
       {
        "n": 23,
@@ -79927,7 +80131,11 @@
       },
       {
        "n": 26,
-       "texto": "No temor do Senhor há (para o justo) uma confiança cheia de fortaleza; seus filhos encontrarão nele asilo. O temor do Senhor é uma fonte de vida, que afasta dos laços da morte."
+       "texto": "No temor do Senhor há (para o justo) uma confiança cheia de fortaleza; seus filhos encontrarão nele asilo."
+      },
+      {
+       "n": 27,
+       "texto": "O temor do Senhor é uma fonte de vida, que afasta dos laços da morte."
       },
       {
        "n": 28,
@@ -79968,7 +80176,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "A resposta branda aquieta a ira; a palavra dura excita o furor. A língua dos sábios torna amável a ciência; da boca dos insensatos derrama-se a loucura."
+       "texto": "A resposta branda aquieta a ira; a palavra dura excita o furor."
+      },
+      {
+       "n": 2,
+       "texto": "A língua dos sábios torna amável a ciência; da boca dos insensatos derrama-se a loucura."
       },
       {
        "n": 3,
@@ -79984,7 +80196,11 @@
       },
       {
        "n": 6,
-       "texto": "Na casa do justo há grande abundância; nos ganhos do ímpio há turbação. Os lábios dos sábios difundirão a ciência; não assim o coração dos insensatos."
+       "texto": "Na casa do justo há grande abundância; nos ganhos do ímpio há turbação."
+      },
+      {
+       "n": 7,
+       "texto": "Os lábios dos sábios difundirão a ciência; não assim o coração dos insensatos."
       },
       {
        "n": 8,
@@ -80052,11 +80268,19 @@
       },
       {
        "n": 24,
-       "texto": "Pela vereda da vida chega ao alto o homem inteligente, desviando-se assim da habitação dos mortos. O Senhor demolirá a casa dos soberbos, e firmará os limites da viúva."
+       "texto": "Pela vereda da vida chega ao alto o homem inteligente, desviando-se assim da habitação dos mortos."
+      },
+      {
+       "n": 25,
+       "texto": "O Senhor demolirá a casa dos soberbos, e firmará os limites da viúva."
       },
       {
        "n": 26,
-       "texto": "As intenções más são a abominação do Senhor; a palavra pura ser-lhe-á multo agradável. Aquele que vai atrás da avareza perturba a sua casa; o que porém aborrece os subornos viverá (feliz)."
+       "texto": "As intenções más são a abominação do Senhor; a palavra pura ser-lhe-á multo agradável."
+      },
+      {
+       "n": 27,
+       "texto": "Aquele que vai atrás da avareza perturba a sua casa; o que porém aborrece os subornos viverá (feliz)."
       },
       {
        "n": 28,
@@ -80089,7 +80313,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Ao homem pertence formar os projetos em seu coração, mas do Senhor vem a resposta da língua. Todos os caminhos do homem são puros a seus olhos, mas o Senhor pesa os espíritos."
+       "texto": "Ao homem pertence formar os projetos em seu coração, mas do Senhor vem a resposta da língua."
+      },
+      {
+       "n": 2,
+       "texto": "Todos os caminhos do homem são puros a seus olhos, mas o Senhor pesa os espíritos."
       },
       {
        "n": 3,
@@ -80165,7 +80393,11 @@
       },
       {
        "n": 21,
-       "texto": "O que é sábio de coração, será chamado prudente; o que é doce no falar receberá coisas maiores. A sabedoria é uma fonte de vida para quem a possui; o castigo dos Insensatos é a insensatez."
+       "texto": "O que é sábio de coração, será chamado prudente; o que é doce no falar receberá coisas maiores."
+      },
+      {
+       "n": 22,
+       "texto": "A sabedoria é uma fonte de vida para quem a possui; o castigo dos Insensatos é a insensatez."
       },
       {
        "n": 23,
@@ -80173,11 +80405,19 @@
       },
       {
        "n": 24,
-       "texto": "As palavras amáveis são um favo de mel, doçura para a alma, saúde para os ossos (ou corpo). (Às vezes) um caminho parece direito ao homem, e contudo o seu termo é a morte."
+       "texto": "As palavras amáveis são um favo de mel, doçura para a alma, saúde para os ossos (ou corpo)."
+      },
+      {
+       "n": 25,
+       "texto": "(Às vezes) um caminho parece direito ao homem, e contudo o seu termo é a morte."
       },
       {
        "n": 26,
-       "texto": "O homem que trabalha, para si trabalha, porque a sua boca o constrange a isso. O homem ímpio cava a desgraça, e nos seus lábios se vai ateando o fogo."
+       "texto": "O homem que trabalha, para si trabalha, porque a sua boca o constrange a isso."
+      },
+      {
+       "n": 27,
+       "texto": "O homem ímpio cava a desgraça, e nos seus lábios se vai ateando o fogo."
       },
       {
        "n": 28,
@@ -80210,7 +80450,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Vale mais um bocado de pão seco com paz, do que uma casa cheia de carne com discórdia. O servo prudente prevalecerá sobre o filho insensato (do seu amo), e partilhará da herança com os irmãos."
+       "texto": "Vale mais um bocado de pão seco com paz, do que uma casa cheia de carne com discórdia."
+      },
+      {
+       "n": 2,
+       "texto": "O servo prudente prevalecerá sobre o filho insensato (do seu amo), e partilhará da herança com os irmãos."
       },
       {
        "n": 3,
@@ -80218,11 +80462,19 @@
       },
       {
        "n": 4,
-       "texto": "O mau escuta a língua iníqua, e o mentiroso dá ouvidos aos lábios malignos. Aquele que despreza o pobre, insulta o seu Criador, e o que se alegra com a ruína de outrem, não ficará impune."
+       "texto": "O mau escuta a língua iníqua, e o mentiroso dá ouvidos aos lábios malignos."
+      },
+      {
+       "n": 5,
+       "texto": "Aquele que despreza o pobre, insulta o seu Criador, e o que se alegra com a ruína de outrem, não ficará impune."
       },
       {
        "n": 6,
-       "texto": "Os filhos dos filhos são a coroa dos velhos, e a glória dos filhos são os seus pais (virtuosos). Palavras finas não convêm ao insensato, e ainda menos a um príncipe palavras mentirosas."
+       "texto": "Os filhos dos filhos são a coroa dos velhos, e a glória dos filhos são os seus pais (virtuosos)."
+      },
+      {
+       "n": 7,
+       "texto": "Palavras finas não convêm ao insensato, e ainda menos a um príncipe palavras mentirosas."
       },
       {
        "n": 8,
@@ -80278,7 +80530,11 @@
       },
       {
        "n": 21,
-       "texto": "O que gera um insensato, sofrerá amarguras; o pai dum estulto não se poderá alegrar. O espírito alegre é para o corpo remédio salutar, o espírito triste seca os ossos."
+       "texto": "O que gera um insensato, sofrerá amarguras; o pai dum estulto não se poderá alegrar."
+      },
+      {
+       "n": 22,
+       "texto": "O espírito alegre é para o corpo remédio salutar, o espírito triste seca os ossos."
       },
       {
        "n": 23,
@@ -80286,11 +80542,19 @@
       },
       {
        "n": 24,
-       "texto": "A sabedoria está sempre diante do homem prudente; os olhos dos insensatos (andam vagueando) pelas extremidades da terra. O filho insensato é a indignação do pai, e a dor da mãe que o gerou."
+       "texto": "A sabedoria está sempre diante do homem prudente; os olhos dos insensatos (andam vagueando) pelas extremidades da terra."
+      },
+      {
+       "n": 25,
+       "texto": "O filho insensato é a indignação do pai, e a dor da mãe que o gerou."
       },
       {
        "n": 26,
-       "texto": "Não é bom fazer mal ao justo, nem ferir o príncipe que julga segundo a justiça. Aquele que é moderado nas suas palavras possui a ciência; e o homem judicioso é de espírito calmo."
+       "texto": "Não é bom fazer mal ao justo, nem ferir o príncipe que julga segundo a justiça."
+      },
+      {
+       "n": 27,
+       "texto": "Aquele que é moderado nas suas palavras possui a ciência; e o homem judicioso é de espírito calmo."
       },
       {
        "n": 28,
@@ -80315,7 +80579,11 @@
       },
       {
        "n": 4,
-       "texto": "As palavras que saem da boca do homem são como uma água profunda; a fonte da sabedoria é como a corrente que trasborda. Não é bom ter considerações com a pessoa do ímpio, para prejudicar o justo julgamento."
+       "texto": "As palavras que saem da boca do homem são como uma água profunda; a fonte da sabedoria é como a corrente que trasborda."
+      },
+      {
+       "n": 5,
+       "texto": "Não é bom ter considerações com a pessoa do ímpio, para prejudicar o justo julgamento."
       },
       {
        "n": 6,
@@ -80601,7 +80869,11 @@
       },
       {
        "n": 21,
-       "texto": "A herança que alguém se apressa a adquirir (ilicitamente) no princípio, carecerá de bênção no fim. Não digas: Darei mal por mal; espera no Senhor, e ele te livrará."
+       "texto": "A herança que alguém se apressa a adquirir (ilicitamente) no princípio, carecerá de bênção no fim."
+      },
+      {
+       "n": 22,
+       "texto": "Não digas: Darei mal por mal; espera no Senhor, e ele te livrará."
       },
       {
        "n": 23,
@@ -80617,7 +80889,11 @@
       },
       {
        "n": 26,
-       "texto": "O rei sábio dissipa os ímpios, e faz passar sobre eles a roda. O espírito do homem é uma lâmpada divina, a qual penetra todos os segredos do seu interior."
+       "texto": "O rei sábio dissipa os ímpios, e faz passar sobre eles a roda."
+      },
+      {
+       "n": 27,
+       "texto": "O espírito do homem é uma lâmpada divina, a qual penetra todos os segredos do seu interior."
       },
       {
        "n": 28,
@@ -80658,7 +80934,11 @@
       },
       {
        "n": 6,
-       "texto": "Juntar tesouros com uma língua de mentira é desatinada vaidade e laço de morte. As rapinas dos ímpios levá-los-ão à sua ruína, porque não quiseram praticar a justiça."
+       "texto": "Juntar tesouros com uma língua de mentira é desatinada vaidade e laço de morte."
+      },
+      {
+       "n": 7,
+       "texto": "As rapinas dos ímpios levá-los-ão à sua ruína, porque não quiseram praticar a justiça."
       },
       {
        "n": 8,
@@ -80714,7 +80994,11 @@
       },
       {
        "n": 21,
-       "texto": "Aquele que exerce a justiça e a misericórdia, achará vida, justiça e glória. O sábio tornou-se senhor da cidade dos valentes, e destruiu a fortaleza em que ela confiava."
+       "texto": "Aquele que exerce a justiça e a misericórdia, achará vida, justiça e glória."
+      },
+      {
+       "n": 22,
+       "texto": "O sábio tornou-se senhor da cidade dos valentes, e destruiu a fortaleza em que ela confiava."
       },
       {
        "n": 23,
@@ -80730,7 +81014,11 @@
       },
       {
        "n": 26,
-       "texto": "passa todo o dia a desejar com ardor, mas o que é justo dá (aos outros) largamente. O sacrifício dos ímpios é abominável, sobretudo quando o oferecem com má intenção."
+       "texto": "passa todo o dia a desejar com ardor, mas o que é justo dá (aos outros) largamente."
+      },
+      {
+       "n": 27,
+       "texto": "O sacrifício dos ímpios é abominável, sobretudo quando o oferecem com má intenção."
       },
       {
        "n": 28,
@@ -80755,7 +81043,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Mais vale o bom nome do que muitas riquezas; a boa reputação é mais estimável do que a prata e o oiro. O rico e o pobre encontram-se; o Senhor criou-os a ambos."
+       "texto": "Mais vale o bom nome do que muitas riquezas; a boa reputação é mais estimável do que a prata e o oiro."
+      },
+      {
+       "n": 2,
+       "texto": "O rico e o pobre encontram-se; o Senhor criou-os a ambos."
       },
       {
        "n": 3,
@@ -80831,7 +81123,11 @@
       },
       {
        "n": 21,
-       "texto": "para te ensinar a verdade das coisas certas, para que, com palavras exatas, saibas responder àqueles que te enviam. Não faças violência ao pobre, porque é pobre, não oprimas às portas (da cidade) o que não tem nada,"
+       "texto": "para te ensinar a verdade das coisas certas, para que, com palavras exatas, saibas responder àqueles que te enviam."
+      },
+      {
+       "n": 22,
+       "texto": "Não faças violência ao pobre, porque é pobre, não oprimas às portas (da cidade) o que não tem nada,"
       },
       {
        "n": 23,
@@ -80847,7 +81143,11 @@
       },
       {
        "n": 26,
-       "texto": "Não te associes com aqueles que (imprudentemente) se obrigam, apertando as mãos, que se oferecem por fiadores para responder pelas dívidas de outrem, porque, se não tens com que pagar, quem impedirá que te arrebatem a cama de debaixo de ti?"
+       "texto": "Não te associes com aqueles que (imprudentemente) se obrigam, apertando as mãos, que se oferecem por fiadores para responder pelas dívidas de outrem,"
+      },
+      {
+       "n": 27,
+       "texto": "porque, se não tens com que pagar, quem impedirá que te arrebatem a cama de debaixo de ti?"
       },
       {
        "n": 28,
@@ -80876,7 +81176,11 @@
       },
       {
        "n": 4,
-       "texto": "Não te afadigues por ser rico, evita pôr nisso o teu pensamento. Não ponhas os teus olhos em riquezas que não podes ter, porque elas tomarão asas como de águia, e voarão para o céu."
+       "texto": "Não te afadigues por ser rico, evita pôr nisso o teu pensamento."
+      },
+      {
+       "n": 5,
+       "texto": "Não ponhas os teus olhos em riquezas que não podes ter, porque elas tomarão asas como de águia, e voarão para o céu."
       },
       {
        "n": 6,
@@ -81005,7 +81309,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Não tenhas inveja aos homens maus, nem desejes estar com eles; porque o seu espírito medita ruínas, e os seus lábios proferem enganos."
+       "texto": "Não tenhas inveja aos homens maus, nem desejes estar com eles;"
+      },
+      {
+       "n": 2,
+       "texto": "porque o seu espírito medita ruínas, e os seus lábios proferem enganos."
       },
       {
        "n": 3,
@@ -81013,11 +81321,19 @@
       },
       {
        "n": 4,
-       "texto": "Pela ciência encher-se-ão as despensas de tudo o que há de precioso e belo. O homem sábio é forte, e o douto, robusto e valente,"
+       "texto": "Pela ciência encher-se-ão as despensas de tudo o que há de precioso e belo."
+      },
+      {
+       "n": 5,
+       "texto": "O homem sábio é forte, e o douto, robusto e valente,"
       },
       {
        "n": 6,
-       "texto": "porque é pela prudência que se empreende a guerra, e a salvação está onde houver muitos (e sábios) conselhos. Para o insensato é demasiado sublime a sabedoria; ele não abrirá a boca à porta."
+       "texto": "porque é pela prudência que se empreende a guerra, e a salvação está onde houver muitos (e sábios) conselhos."
+      },
+      {
+       "n": 7,
+       "texto": "Para o insensato é demasiado sublime a sabedoria; ele não abrirá a boca à porta."
       },
       {
        "n": 8,
@@ -81134,7 +81450,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Estas são também sentenças de Salomão as quais foram recolhidas pelos homens de Ezequias, rei de Judá. A glória de Deus é encobrir as coisas, e a glória dos reis é investigá-las."
+       "texto": "Estas são também sentenças de Salomão as quais foram recolhidas pelos homens de Ezequias, rei de Judá."
+      },
+      {
+       "n": 2,
+       "texto": "A glória de Deus é encobrir as coisas, e a glória dos reis é investigá-las."
       },
       {
        "n": 3,
@@ -81142,11 +81462,19 @@
       },
       {
        "n": 4,
-       "texto": "Tira as escórias da prata, e sairá um vaso puríssimo; Tira o iníquo da presença do rei, e o seu trono se firmará na justiça."
+       "texto": "Tira as escórias da prata, e sairá um vaso puríssimo;"
+      },
+      {
+       "n": 5,
+       "texto": "Tira o iníquo da presença do rei, e o seu trono se firmará na justiça."
       },
       {
        "n": 6,
-       "texto": "Não apareças ufano diante do rei, e não te ponhas no lugar dos grandes. É melhor que te digam: \"Sobe para cá\", do que seres humilhado diante dum grande."
+       "texto": "Não apareças ufano diante do rei, e não te ponhas no lugar dos grandes."
+      },
+      {
+       "n": 7,
+       "texto": "É melhor que te digam: \"Sobe para cá\", do que seres humilhado diante dum grande."
       },
       {
        "n": 8,
@@ -81214,7 +81542,11 @@
       },
       {
        "n": 24,
-       "texto": "É melhor habitar a um canto do terraço, do que viver com uma mulher litigiosa em espaçosa casa. Como a água fresca para pessoa que tem sede, assim é uma boa nova que vem dum país remoto."
+       "texto": "É melhor habitar a um canto do terraço, do que viver com uma mulher litigiosa em espaçosa casa."
+      },
+      {
+       "n": 25,
+       "texto": "Como a água fresca para pessoa que tem sede, assim é uma boa nova que vem dum país remoto."
       },
       {
        "n": 26,
@@ -81235,7 +81567,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Assim como a neve é imprópria no estio, e as chuvas no tempo da ceifa, assim a glória está mal a um insensato. Como um pássaro que foge, como a andorinha que voa, assim a maldição proferida sem motivo fica sem efeito."
+       "texto": "Assim como a neve é imprópria no estio, e as chuvas no tempo da ceifa, assim a glória está mal a um insensato."
+      },
+      {
+       "n": 2,
+       "texto": "Como um pássaro que foge, como a andorinha que voa, assim a maldição proferida sem motivo fica sem efeito."
       },
       {
        "n": 3,
@@ -81251,7 +81587,11 @@
       },
       {
        "n": 6,
-       "texto": "Corta os (seus) pés e bebe aflições aquele que envia mensagens por intermédio dum insensato. As pernas dum entrevado não têm força; da mesma forma, as sentenças na boca do insensato."
+       "texto": "Corta os (seus) pés e bebe aflições aquele que envia mensagens por intermédio dum insensato."
+      },
+      {
+       "n": 7,
+       "texto": "As pernas dum entrevado não têm força; da mesma forma, as sentenças na boca do insensato."
       },
       {
        "n": 8,
@@ -81364,7 +81704,11 @@
       },
       {
        "n": 6,
-       "texto": "Melhores são as feridas feitas pelo que ama, do que os ósculos fraudulentos do que quer mal. O que está saciado calcará aos pés o favo de mel, e o faminto até o amargo tomará por doce."
+       "texto": "Melhores são as feridas feitas pelo que ama, do que os ósculos fraudulentos do que quer mal."
+      },
+      {
+       "n": 7,
+       "texto": "O que está saciado calcará aos pés o favo de mel, e o faminto até o amargo tomará por doce."
       },
       {
        "n": 8,
@@ -81566,7 +81910,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "O homem que despreza com cerviz dura a quem o repreende, cairá de repente em total ruína, e não terá mais remédio. Sob o governo dos justos está alegre o povo; quando os ímpios tomam o governo, o povo geme."
+       "texto": "O homem que despreza com cerviz dura a quem o repreende, cairá de repente em total ruína, e não terá mais remédio."
+      },
+      {
+       "n": 2,
+       "texto": "Sob o governo dos justos está alegre o povo; quando os ímpios tomam o governo, o povo geme."
       },
       {
        "n": 3,
@@ -81582,7 +81930,11 @@
       },
       {
        "n": 6,
-       "texto": "O homem pecador e iníquo cairá no (seu mesmo) laço; e o justo rejubilará, regozijar-se-á. O justo conhece a causa dos pobres; porém o ímpio ignora a ciência."
+       "texto": "O homem pecador e iníquo cairá no (seu mesmo) laço; e o justo rejubilará, regozijar-se-á."
+      },
+      {
+       "n": 7,
+       "texto": "O justo conhece a causa dos pobres; porém o ímpio ignora a ciência."
       },
       {
        "n": 8,
@@ -81638,7 +81990,11 @@
       },
       {
        "n": 21,
-       "texto": "Aquele que cria delicadamente o seu criado desde a infância, depois terá de que se doer. O homem colérico excita rixas; o que facilmente se indigna será muito propenso a pecar."
+       "texto": "Aquele que cria delicadamente o seu criado desde a infância, depois terá de que se doer."
+      },
+      {
+       "n": 22,
+       "texto": "O homem colérico excita rixas; o que facilmente se indigna será muito propenso a pecar."
       },
       {
        "n": 23,
@@ -81683,7 +82039,11 @@
       },
       {
        "n": 6,
-       "texto": "Não acrescentes nada às suas palavras, para não seres por isso repreendido e achado mentiroso. Duas coisas (ó Senhor) são as que te pedi; não mas negues antes que morra;"
+       "texto": "Não acrescentes nada às suas palavras, para não seres por isso repreendido e achado mentiroso."
+      },
+      {
+       "n": 7,
+       "texto": "Duas coisas (ó Senhor) são as que te pedi; não mas negues antes que morra;"
       },
       {
        "n": 8,
@@ -81796,7 +82156,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Palavras de Lamuel, rei de Massa, que lhe foram ensinadas por sua mãe. Que (te direi eu) meu amado filho? Que (te direi eu), amado fruto das minhas entranhas? Que (te direi eu), filho da minha alma?"
+       "texto": "Palavras de Lamuel, rei de Massa, que lhe foram ensinadas por sua mãe."
+      },
+      {
+       "n": 2,
+       "texto": "Que (te direi eu) meu amado filho? Que (te direi eu), amado fruto das minhas entranhas? Que (te direi eu), filho da minha alma?"
       },
       {
        "n": 3,
@@ -83051,7 +83415,11 @@
       },
       {
        "n": 6,
-       "texto": "Que é isto que sobe do deserto, como uma coluna de fumo, composta de aromas de mirra e de incenso, e de todos os perfumes dos mercadores? Eis o palanquim de Salomão, escoltado de sessenta valentes dos mais fortes de Israel,"
+       "texto": "Que é isto que sobe do deserto, como uma coluna de fumo, composta de aromas de mirra e de incenso, e de todos os perfumes dos mercadores?"
+      },
+      {
+       "n": 7,
+       "texto": "Eis o palanquim de Salomão, escoltado de sessenta valentes dos mais fortes de Israel,"
       },
       {
        "n": 8,
@@ -83096,7 +83464,11 @@
       },
       {
        "n": 6,
-       "texto": "Antes que chegue o fresco do dia, e se inclinem as sombras, eu irei ao monte da mirra, e ao outeiro do incenso. Toda és formosa, minha amada, e em ti não há mácula."
+       "texto": "Antes que chegue o fresco do dia, e se inclinem as sombras, eu irei ao monte da mirra, e ao outeiro do incenso."
+      },
+      {
+       "n": 7,
+       "texto": "Toda és formosa, minha amada, e em ti não há mácula."
       },
       {
        "n": 8,
@@ -83153,11 +83525,19 @@
       },
       {
        "n": 4,
-       "texto": "O meu amado meteu a sua mão pela abertura (da porta), e o meu coração estremeceu. Levantei-me para abrir ao meu amado: as minhas mãos destilaram mirra, e os meus dedos a mirra mais preciosa, sobre a aldrava da fechadura."
+       "texto": "O meu amado meteu a sua mão pela abertura (da porta), e o meu coração estremeceu."
+      },
+      {
+       "n": 5,
+       "texto": "Levantei-me para abrir ao meu amado: as minhas mãos destilaram mirra, e os meus dedos a mirra mais preciosa, sobre a aldrava da fechadura."
       },
       {
        "n": 6,
-       "texto": "Abri a minha porta ao meu amado, tirando-lhe o ferrolho, mas ele já se tinha ido, já tinha desaparecido. A minha alma ficava fora de si ao som da sua voz. Busquei-o, mas não o achei; chamei-o, e ele não me respondeu. Encontraram-me os guardas que rondam a cidade, bateram-me, feriram-me. Tiraram-me o meu manto, os guardas das muralhas."
+       "texto": "Abri a minha porta ao meu amado, tirando-lhe o ferrolho, mas ele já se tinha ido, já tinha desaparecido. A minha alma ficava fora de si ao som da sua voz. Busquei-o, mas não o achei; chamei-o, e ele não me respondeu."
+      },
+      {
+       "n": 7,
+       "texto": "Encontraram-me os guardas que rondam a cidade, bateram-me, feriram-me. Tiraram-me o meu manto, os guardas das muralhas."
       },
       {
        "n": 8,
@@ -83206,7 +83586,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "O meu amado desceu ao seu jardim, ao canteiro dos balsameiros para apascentar o seu rebanho nos jardins, e para colher lírios. Eu sou do meu amado, e o meu amado é meu, ele, que apascenta o seu rebanho entre os lírios."
+       "texto": "O meu amado desceu ao seu jardim, ao canteiro dos balsameiros para apascentar o seu rebanho nos jardins, e para colher lírios."
+      },
+      {
+       "n": 2,
+       "texto": "Eu sou do meu amado, e o meu amado é meu, ele, que apascenta o seu rebanho entre os lírios."
       },
       {
        "n": 3,
@@ -83267,11 +83651,19 @@
       },
       {
        "n": 4,
-       "texto": "O teu pescoço é como uma torre de marfim. Os teus olhos são como as piscinas de Hesebon, que estão situadas junto da porta de Bat-Rabim. O teu nariz é como a torre do Líbano, que olha para Damasco. A tua cabeça levanta-se como o monte Carmelo; os cabelos da tua cabeça são como a púrpura; um rei ficou preso às suas madeixas."
+       "texto": "O teu pescoço é como uma torre de marfim."
+      },
+      {
+       "n": 5,
+       "texto": "Os teus olhos são como as piscinas de Hesebon, que estão situadas junto da porta de Bat-Rabim. O teu nariz é como a torre do Líbano, que olha para Damasco. A tua cabeça levanta-se como o monte Carmelo; os cabelos da tua cabeça são como a púrpura; um rei ficou preso às suas madeixas."
       },
       {
        "n": 6,
-       "texto": "Quão formosa e encantadora és, meu amor, minhas delícias! A tua figura é semelhante a uma palmeira, os teus seios são como cachos."
+       "texto": "Quão formosa e encantadora és, meu amor, minhas delícias!"
+      },
+      {
+       "n": 7,
+       "texto": "A tua figura é semelhante a uma palmeira, os teus seios são como cachos."
       },
       {
        "n": 8,
@@ -83308,7 +83700,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Quem me dera ter-te por irmão, amamentado aos seios de minha mãe, para que, encontrando-te fora, eu te pudesse beijar, sem que ninguém me desprezasse! Eu te tomaria e te levaria a casa de minha mãe. Dar-te-ia a beber vinho perfumado, mosto da minhas romãs."
+       "texto": "Quem me dera ter-te por irmão, amamentado aos seios de minha mãe, para que, encontrando-te fora, eu te pudesse beijar, sem que ninguém me desprezasse!"
+      },
+      {
+       "n": 2,
+       "texto": "Eu te tomaria e te levaria a casa de minha mãe. Dar-te-ia a beber vinho perfumado, mosto da minhas romãs."
       },
       {
        "n": 3,
@@ -83324,7 +83720,11 @@
       },
       {
        "n": 6,
-       "texto": "Põe-me como um selo sobre o teu coração, como um selo sobre o teu braço. porque o amor é forte como a morte, o zelo do amor é duro como a habitação dos mortos. Os seus ardores são ardores de fogo, os seus fogos são fogos do Senhor. As muitas águas não poderiam extinguir o amor, nem os rios teriam força para o submergir. Se um homem desse todas as riquezas de sua casa pelo amor, ele o desprezaria como um nada."
+       "texto": "Põe-me como um selo sobre o teu coração, como um selo sobre o teu braço. porque o amor é forte como a morte, o zelo do amor é duro como a habitação dos mortos. Os seus ardores são ardores de fogo, os seus fogos são fogos do Senhor."
+      },
+      {
+       "n": 7,
+       "texto": "As muitas águas não poderiam extinguir o amor, nem os rios teriam força para o submergir. Se um homem desse todas as riquezas de sua casa pelo amor, ele o desprezaria como um nada."
       },
       {
        "n": 8,
@@ -84151,7 +84551,11 @@
       },
       {
        "n": 4,
-       "texto": "dá-me aquela sabedoria, que está sentada contigo no teu trono, e não me queiras excluir no número dos teus filhos porque eu sou servo teu, filho da tua escrava, sou um homem fraco e de pouca dura, e pouco capaz de compreender o juízo e as leis."
+       "texto": "dá-me aquela sabedoria, que está sentada contigo no teu trono, e não me queiras excluir no número dos teus filhos"
+      },
+      {
+       "n": 5,
+       "texto": "porque eu sou servo teu, filho da tua escrava, sou um homem fraco e de pouca dura, e pouco capaz de compreender o juízo e as leis."
       },
       {
        "n": 6,
@@ -84438,7 +84842,11 @@
       },
       {
        "n": 6,
-       "texto": "A esses pais assassinos de seres indefesos, tu quiseste destruir pelas mãos de nossos pais, a fim de que esta terra, que é a mais estimada por ti, recebesse uma digna colónia de filhos de Deus."
+       "texto": "A esses pais assassinos de seres indefesos, tu quiseste destruir pelas mãos de nossos pais,"
+      },
+      {
+       "n": 7,
+       "texto": "a fim de que esta terra, que é a mais estimada por ti, recebesse uma digna colónia de filhos de Deus."
       },
       {
        "n": 8,
@@ -85244,7 +85652,11 @@
       },
       {
        "n": 6,
-       "texto": "A quem foi descoberta a raiz da sabedoria, e quem conheceu os seus profundos desígnios? A quem foi revelada e manifestada a ciência da sabedoria? E quem compreende a multiplicidade dos seus passos?"
+       "texto": "A quem foi descoberta a raiz da sabedoria, e quem conheceu os seus profundos desígnios?"
+      },
+      {
+       "n": 7,
+       "texto": "A quem foi revelada e manifestada a ciência da sabedoria? E quem compreende a multiplicidade dos seus passos?"
       },
       {
        "n": 8,
@@ -85340,7 +85752,11 @@
       },
       {
        "n": 31,
-       "texto": "Sábias sentenças estão encerradas nos tesouros da sabedoria; o pecador, porém, detesta o culto de Deus."
+       "texto": "Sábias sentenças estão encerradas nos tesouros da sabedoria;"
+      },
+      {
+       "n": 32,
+       "texto": "o pecador, porém, detesta o culto de Deus."
       },
       {
        "n": 33,
@@ -85554,7 +85970,11 @@
       },
       {
        "n": 21,
-       "texto": "Porque só o poder de Deus é que é grande, e é pelos humildes que ele é honrado. Não procures saber o que excede a tua capacidade, e não especules o que ultrapassa as tuas forças (intelectuais), mas pensa sempre no que Deus te mandou, e não tenhas a curiosidade de conhecer demasiado número das suas obras."
+       "texto": "Porque só o poder de Deus é que é grande, e é pelos humildes que ele é honrado."
+      },
+      {
+       "n": 22,
+       "texto": "Não procures saber o que excede a tua capacidade, e não especules o que ultrapassa as tuas forças (intelectuais), mas pensa sempre no que Deus te mandou, e não tenhas a curiosidade de conhecer demasiado número das suas obras."
       },
       {
        "n": 23,
@@ -85611,7 +86031,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Filho, não prives o pobre da sua esmola, não apartes dele os teus olhos. Não desprezes aquele que tem fome, nem exasperes o pobre na sua necessidade."
+       "texto": "Filho, não prives o pobre da sua esmola, não apartes dele os teus olhos."
+      },
+      {
+       "n": 2,
+       "texto": "Não desprezes aquele que tem fome, nem exasperes o pobre na sua necessidade."
       },
       {
        "n": 3,
@@ -85627,7 +86051,11 @@
       },
       {
        "n": 6,
-       "texto": "porque será ouvida a imprecação daquele que te amaldiçoa na amargura da sua alma; o seu Criador o ouvirá. Mostra-te afável no ajuntamento dos pobres; humilha a tua alma diante dum ancião; abaixa a tua cabeça diante dos grandes."
+       "texto": "porque será ouvida a imprecação daquele que te amaldiçoa na amargura da sua alma; o seu Criador o ouvirá."
+      },
+      {
+       "n": 7,
+       "texto": "Mostra-te afável no ajuntamento dos pobres; humilha a tua alma diante dum ancião; abaixa a tua cabeça diante dos grandes."
       },
       {
        "n": 8,
@@ -85752,7 +86180,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Não te fies nas riquezas iníquas e não digas: eu tenho bastante com que viver — porque de nada te aproveitará isto no dia do castigo e da escuridão. Não te abandones, quando te sentires forte, aos maus desejos do teu coração."
+       "texto": "Não te fies nas riquezas iníquas e não digas: eu tenho bastante com que viver — porque de nada te aproveitará isto no dia do castigo e da escuridão."
+      },
+      {
+       "n": 2,
+       "texto": "Não te abandones, quando te sentires forte, aos maus desejos do teu coração."
       },
       {
        "n": 3,
@@ -86078,7 +86510,11 @@
       },
       {
        "n": 26,
-       "texto": "Tens filhas? Vela pela pureza dos seus corpos, e não lhes mostres o teu rosto demasiado jovial. Casa a tua filha, e terás arrumado um assunto importante; dá-a a um homem de bom senso."
+       "texto": "Tens filhas? Vela pela pureza dos seus corpos, e não lhes mostres o teu rosto demasiado jovial."
+      },
+      {
+       "n": 27,
+       "texto": "Casa a tua filha, e terás arrumado um assunto importante; dá-a a um homem de bom senso."
       },
       {
        "n": 28,
@@ -86159,7 +86595,11 @@
       },
       {
        "n": 6,
-       "texto": "Não desprezes o homem que se retira do pecado, não o censures (pelo mal que fez antes): lembra-te que todos nós somos dignos de castigo. Não desprezes nenhum homem na sua velhice, porque alguns de entre nós envelhecerão também."
+       "texto": "Não desprezes o homem que se retira do pecado, não o censures (pelo mal que fez antes): lembra-te que todos nós somos dignos de castigo."
+      },
+      {
+       "n": 7,
+       "texto": "Não desprezes nenhum homem na sua velhice, porque alguns de entre nós envelhecerão também."
       },
       {
        "n": 8,
@@ -86248,7 +86688,11 @@
       },
       {
        "n": 6,
-       "texto": "Nunca entregues a tua alma às prostitutas, para que te não percas a ti e aos teus bens. Não deixes errar os olhos pelas ruas da cidade, nem andes vagueando pelas suas praças."
+       "texto": "Nunca entregues a tua alma às prostitutas, para que te não percas a ti e aos teus bens."
+      },
+      {
+       "n": 7,
+       "texto": "Não deixes errar os olhos pelas ruas da cidade, nem andes vagueando pelas suas praças."
       },
       {
        "n": 8,
@@ -86349,7 +86793,11 @@
       },
       {
        "n": 6,
-       "texto": "Esquece-te de todas as injúrias que recebeste do teu próximo, e não faças nada por via de violência. A soberba é aborrecida por Deus e pelos homens, e toda a iniquidade das nações é execrável."
+       "texto": "Esquece-te de todas as injúrias que recebeste do teu próximo, e não faças nada por via de violência."
+      },
+      {
+       "n": 7,
+       "texto": "A soberba é aborrecida por Deus e pelos homens, e toda a iniquidade das nações é execrável."
       },
       {
        "n": 8,
@@ -86405,7 +86853,11 @@
       },
       {
        "n": 21,
-       "texto": "Deus aboliu a memória dos soberbos, e conservou a dos humildes de coração. A soberba não foi criada com o homem, nem a ira com os nascidos das mulheres."
+       "texto": "Deus aboliu a memória dos soberbos, e conservou a dos humildes de coração."
+      },
+      {
+       "n": 22,
+       "texto": "A soberba não foi criada com o homem, nem a ira com os nascidos das mulheres."
       },
       {
        "n": 23,
@@ -86611,7 +87063,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Se fizeres bem, sabe a quem o fazes, e receberás gratidão pelos teus benefícios. Faze bem ao justo, e receberás uma grande recompensa, se não dele, pelo menos do Senhor."
+       "texto": "Se fizeres bem, sabe a quem o fazes, e receberás gratidão pelos teus benefícios."
+      },
+      {
+       "n": 2,
+       "texto": "Faze bem ao justo, e receberás uma grande recompensa, se não dele, pelo menos do Senhor."
       },
       {
        "n": 3,
@@ -86627,7 +87083,11 @@
       },
       {
        "n": 6,
-       "texto": "Faze bem ao humilde, e não dês ao ímpio; impede que se lhe dê pão, a fim de se não tornar deste modo mais poderoso do que tu, porque acharás dobrado mal por todos os bens que lhe fizeres. O próprio Altíssimo aborrece também os pecadores, e pagará aos ímpios com o castigo."
+       "texto": "Faze bem ao humilde, e não dês ao ímpio; impede que se lhe dê pão, a fim de se não tornar deste modo mais poderoso do que tu,"
+      },
+      {
+       "n": 7,
+       "texto": "porque acharás dobrado mal por todos os bens que lhe fizeres. O próprio Altíssimo aborrece também os pecadores, e pagará aos ímpios com o castigo."
       },
       {
        "n": 8,
@@ -86784,7 +87244,11 @@
       },
       {
        "n": 26,
-       "texto": "Se o rico se engana, tem muitos defensores; se fala com arrogância, justificam-no. Se o pobre se engana, ainda em cima é repreendido; se fala avisadamente, não fazem caso."
+       "texto": "Se o rico se engana, tem muitos defensores; se fala com arrogância, justificam-no."
+      },
+      {
+       "n": 27,
+       "texto": "Se o pobre se engana, ainda em cima é repreendido; se fala avisadamente, não fazem caso."
       },
       {
        "n": 28,
@@ -86813,7 +87277,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Bem-aventurado o homem que não cometeu faltas com palavras da sua boca, e que não foi torturado pelos remorsos do pecado. Ditoso aquele que não teve tristeza na sua alma, e que não descaiu da sua esperança."
+       "texto": "Bem-aventurado o homem que não cometeu faltas com palavras da sua boca, e que não foi torturado pelos remorsos do pecado."
+      },
+      {
+       "n": 2,
+       "texto": "Ditoso aquele que não teve tristeza na sua alma, e que não descaiu da sua esperança."
       },
       {
        "n": 3,
@@ -86821,11 +87289,19 @@
       },
       {
        "n": 4,
-       "texto": "O que amontoa riquezas, defraudando-se do necessário com injustiça, ajunta-as para outros, e outrem se regalará com os seus bens. Para quem será bom aquele que é mau para si? Nem ele goza dos seus bens."
+       "texto": "O que amontoa riquezas, defraudando-se do necessário com injustiça, ajunta-as para outros, e outrem se regalará com os seus bens."
+      },
+      {
+       "n": 5,
+       "texto": "Para quem será bom aquele que é mau para si? Nem ele goza dos seus bens."
       },
       {
        "n": 6,
-       "texto": "Nada há pior do que aquele que é avaro para si mesmo: nisto está o salário da sua malícia. Se faz bem, é só por inadvertência e sem querer; e por último descobre a sua malícia."
+       "texto": "Nada há pior do que aquele que é avaro para si mesmo: nisto está o salário da sua malícia."
+      },
+      {
+       "n": 7,
+       "texto": "Se faz bem, é só por inadvertência e sem querer; e por último descobre a sua malícia."
       },
       {
        "n": 8,
@@ -86934,7 +87410,11 @@
       },
       {
        "n": 6,
-       "texto": "Acumulará sobre ele um tesouro de regozijo e alegria, e lhe dará por herança um nome eterno. Os homens insensatos não a alcançarão, mas os homens de bom senso encontrar-se-ão com ela. Os insensatos não a verão, porque ela está longe da soberba e do engano."
+       "texto": "Acumulará sobre ele um tesouro de regozijo e alegria, e lhe dará por herança um nome eterno."
+      },
+      {
+       "n": 7,
+       "texto": "Os homens insensatos não a alcançarão, mas os homens de bom senso encontrar-se-ão com ela. Os insensatos não a verão, porque ela está longe da soberba e do engano."
       },
       {
        "n": 8,
@@ -87132,7 +87612,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Deus criou o homem da terra, e formou-o à sua imagem. E ele o fez de novo voltar à terra, Revestiu-o de força segundo a sua natureza."
+       "texto": "Deus criou o homem da terra, e formou-o à sua imagem."
+      },
+      {
+       "n": 2,
+       "texto": "E ele o fez de novo voltar à terra, Revestiu-o de força segundo a sua natureza."
       },
       {
        "n": 3,
@@ -87140,11 +87624,19 @@
       },
       {
        "n": 4,
-       "texto": "Ele o fez ser temido de toda a carne, e deu-lhe o império sobre os animais e sobre as aves. Deu-lhe uma auxiliar semelhante a ele, da sua própria substância. Dotou-os de discernimento, língua, olhos, ouvidos, coração para pensar, e encheu-os de saber e inteligência."
+       "texto": "Ele o fez ser temido de toda a carne, e deu-lhe o império sobre os animais e sobre as aves."
+      },
+      {
+       "n": 5,
+       "texto": "Deu-lhe uma auxiliar semelhante a ele, da sua própria substância. Dotou-os de discernimento, língua, olhos, ouvidos, coração para pensar, e encheu-os de saber e inteligência."
       },
       {
        "n": 6,
-       "texto": "Criou neles a ciência do espírito, encheu de sabedoria o seu coração, e mostrou-lhes os males e os bens. Pôs o seu olhar sobre os seus corações, para lhes fazer ver as maravilhas das suas obras,"
+       "texto": "Criou neles a ciência do espírito, encheu de sabedoria o seu coração, e mostrou-lhes os males e os bens."
+      },
+      {
+       "n": 7,
+       "texto": "Pôs o seu olhar sobre os seus corações, para lhes fazer ver as maravilhas das suas obras,"
       },
       {
        "n": 8,
@@ -87386,7 +87878,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "O operário dado ao vinho não enriquecerá. Aquele que despreza as coisas pequenas, pouco a pouco cairá. O vinho e as mulheres desencaminham os próprios sábios, e tornam culpáveis os homens sensatos."
+       "texto": "O operário dado ao vinho não enriquecerá. Aquele que despreza as coisas pequenas, pouco a pouco cairá."
+      },
+      {
+       "n": 2,
+       "texto": "O vinho e as mulheres desencaminham os próprios sábios, e tornam culpáveis os homens sensatos."
       },
       {
        "n": 3,
@@ -87402,7 +87898,11 @@
       },
       {
        "n": 6,
-       "texto": "O que peca contra a sua alma arrepender-se-á de o ter feito, e o que se deleita na malícia será desonrado, Não repitas uma palavra má e ofensiva, e não serás diminuído."
+       "texto": "O que peca contra a sua alma arrepender-se-á de o ter feito, e o que se deleita na malícia será desonrado,"
+      },
+      {
+       "n": 7,
+       "texto": "Não repitas uma palavra má e ofensiva, e não serás diminuído."
       },
       {
        "n": 8,
@@ -87495,7 +87995,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Quanto melhor é repreender do que irritar-se, e não impedir de falar aquele que confessa a sua falta! Como o eunuco que, concupiscentemente, procura desonrar a donzela,"
+       "texto": "Quanto melhor é repreender do que irritar-se, e não impedir de falar aquele que confessa a sua falta!"
+      },
+      {
+       "n": 2,
+       "texto": "Como o eunuco que, concupiscentemente, procura desonrar a donzela,"
       },
       {
        "n": 3,
@@ -87648,7 +88152,11 @@
       },
       {
        "n": 6,
-       "texto": "A súplica do pobre chegará desde a sua boca até aos ouvidos de Deus, e prontamente lhe será feita justiça. Aquele que aborrece a repreensão caminha por cima das pegadas do pecador; aquele que teme a Deus converter-se-á do (intimo do) seu coração."
+       "texto": "A súplica do pobre chegará desde a sua boca até aos ouvidos de Deus, e prontamente lhe será feita justiça."
+      },
+      {
+       "n": 7,
+       "texto": "Aquele que aborrece a repreensão caminha por cima das pegadas do pecador; aquele que teme a Deus converter-se-á do (intimo do) seu coração."
       },
       {
        "n": 8,
@@ -87753,7 +88261,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Ao preguiçoso é atirado lodo e todos falam dele com desprezo. Ao preguiçoso é atirado excremento de bois e todo o que o tocar sacudirá as mãos."
+       "texto": "Ao preguiçoso é atirado lodo e todos falam dele com desprezo."
+      },
+      {
+       "n": 2,
+       "texto": "Ao preguiçoso é atirado excremento de bois e todo o que o tocar sacudirá as mãos."
       },
       {
        "n": 3,
@@ -87966,7 +88478,11 @@
       },
       {
        "n": 21,
-       "texto": "Duas sortes de pessoas pecam muitas vezes, e a terceira atrai a ira e a perdição. A alma ardente como um fogo aceso não se acalma sem ter devorado alguma coisa."
+       "texto": "Duas sortes de pessoas pecam muitas vezes, e a terceira atrai a ira e a perdição."
+      },
+      {
+       "n": 22,
+       "texto": "A alma ardente como um fogo aceso não se acalma sem ter devorado alguma coisa."
       },
       {
        "n": 23,
@@ -87974,11 +88490,19 @@
       },
       {
        "n": 24,
-       "texto": "Todo o pão é doce para o homem voluptuoso; não se cansará de pecar até ao fim da vida. Todo o homem que desonra o seu tálamo (conjugal), despreza a sua alma, dizendo: Quem me vê?"
+       "texto": "Todo o pão é doce para o homem voluptuoso; não se cansará de pecar até ao fim da vida."
+      },
+      {
+       "n": 25,
+       "texto": "Todo o homem que desonra o seu tálamo (conjugal), despreza a sua alma, dizendo: Quem me vê?"
       },
       {
        "n": 26,
-       "texto": "As trevas cercam-me, as paredes escondem-me, e ninguém de parte alguma olha para mim; de quem tenho eu receio? O Altíssimo não se lembrará dos meus pecados. (Esse homem) não considera que os olhos do Senhor veem todas as coisas, que um semelhante temor humano expele de si o temor de Deus, e que os olhos dos homens são unicamente os que o fazem temer."
+       "texto": "As trevas cercam-me, as paredes escondem-me, e ninguém de parte alguma olha para mim; de quem tenho eu receio? O Altíssimo não se lembrará dos meus pecados."
+      },
+      {
+       "n": 27,
+       "texto": "(Esse homem) não considera que os olhos do Senhor veem todas as coisas, que um semelhante temor humano expele de si o temor de Deus, e que os olhos dos homens são unicamente os que o fazem temer."
       },
       {
        "n": 28,
@@ -88031,7 +88555,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "A sabedoria faz o seu próprio elogio, honra-se em Deus, gloria-se no meio do seu povo; abre a sua boca na Assembleia do Altíssimo, glorifica-se diante dos seus exércitos,"
+       "texto": "A sabedoria faz o seu próprio elogio, honra-se em Deus, gloria-se no meio do seu povo;"
+      },
+      {
+       "n": 2,
+       "texto": "abre a sua boca na Assembleia do Altíssimo, glorifica-se diante dos seus exércitos,"
       },
       {
        "n": 3,
@@ -88369,7 +88897,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Ditoso o homem que tem uma virtuosa mulher, porque será dobrado o número dos seus anos. A mulher forte é a alegria de seu marido, derramará paz sobre os anos da sua vida."
+       "texto": "Ditoso o homem que tem uma virtuosa mulher, porque será dobrado o número dos seus anos."
+      },
+      {
+       "n": 2,
+       "texto": "A mulher forte é a alegria de seu marido, derramará paz sobre os anos da sua vida."
       },
       {
        "n": 3,
@@ -88482,7 +89014,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Por causa da pobreza muitos delinquiram; aquele que procura enriquecer-se afasta os olhos. Como se finca um pau no meio da juntura de duas pedras, assim também se introduzirá o pecado entre a venda e a compra."
+       "texto": "Por causa da pobreza muitos delinquiram; aquele que procura enriquecer-se afasta os olhos."
+      },
+      {
+       "n": 2,
+       "texto": "Como se finca um pau no meio da juntura de duas pedras, assim também se introduzirá o pecado entre a venda e a compra."
       },
       {
        "n": 3,
@@ -88498,7 +89034,11 @@
       },
       {
        "n": 6,
-       "texto": "O forno prova os vasos do oleiro, e a prova dá tribulação, os homens justos. Como o cuidado que se tem da árvore se dá a conhecer no fruto, assim a palavra manifesta o que vai no coração do homem."
+       "texto": "O forno prova os vasos do oleiro, e a prova dá tribulação, os homens justos."
+      },
+      {
+       "n": 7,
+       "texto": "Como o cuidado que se tem da árvore se dá a conhecer no fruto, assim a palavra manifesta o que vai no coração do homem."
       },
       {
        "n": 8,
@@ -88623,11 +89163,19 @@
       },
       {
        "n": 4,
-       "texto": "Não tem compaixão dum homem seu semelhante, e pede perdão dos seus pecados? Ele, que é carne, conserva rancor, e pede propiciação a Deus? Quem lha alcançará pelos seus delitos?"
+       "texto": "Não tem compaixão dum homem seu semelhante, e pede perdão dos seus pecados?"
+      },
+      {
+       "n": 5,
+       "texto": "Ele, que é carne, conserva rancor, e pede propiciação a Deus? Quem lha alcançará pelos seus delitos?"
       },
       {
        "n": 6,
-       "texto": "Lembra-te do teu fim e deixa de nutrir inimizades, porque a corrupção e a morte ameaçam-te por detrás dos mandamentos do Senhor."
+       "texto": "Lembra-te do teu fim e deixa de nutrir inimizades,"
+      },
+      {
+       "n": 7,
+       "texto": "porque a corrupção e a morte ameaçam-te por detrás dos mandamentos do Senhor."
       },
       {
        "n": 8,
@@ -88949,11 +89497,23 @@
       },
       {
        "n": 21,
-       "texto": "o qual vê (o alimento) com os seus olhos e geme, como um eunuco que abraça uma donzela e suspira. Não abandones a tua alma à tristeza, e não te aflijas a ti mesmo nos teus pensamentos. O júbilo do coração é a vida do homem e um tesouro inexaurível de santidade; a alegria do homem prolonga a sua vida."
+       "texto": "o qual vê (o alimento) com os seus olhos e geme, como um eunuco que abraça uma donzela e suspira."
+      },
+      {
+       "n": 22,
+       "texto": "Não abandones a tua alma à tristeza, e não te aflijas a ti mesmo nos teus pensamentos."
+      },
+      {
+       "n": 23,
+       "texto": "O júbilo do coração é a vida do homem e um tesouro inexaurível de santidade; a alegria do homem prolonga a sua vida."
       },
       {
        "n": 24,
-       "texto": "Tem piedade da tua alma, procurando agradar a Deus, e aguenta-te; recolhe o teu coração na santidade do mesmo Deus e afugenta para longe de ti a tristeza. Com efeito, a tristeza tem matado a muitos, e não há utilidade nela."
+       "texto": "Tem piedade da tua alma, procurando agradar a Deus, e aguenta-te; recolhe o teu coração na santidade do mesmo Deus e afugenta para longe de ti a tristeza."
+      },
+      {
+       "n": 25,
+       "texto": "Com efeito, a tristeza tem matado a muitos, e não há utilidade nela."
       },
       {
        "n": 26,
@@ -88986,7 +89546,11 @@
       },
       {
        "n": 6,
-       "texto": "Muitos caíram por causa do ouro, cuja beleza foi a sua perdição. O ouro é uma pedra de tropeço para os que lhe sacrificam. Ai daqueles que vão atrás dele! Por sua causa perecerá todo o insensato."
+       "texto": "Muitos caíram por causa do ouro, cuja beleza foi a sua perdição."
+      },
+      {
+       "n": 7,
+       "texto": "O ouro é uma pedra de tropeço para os que lhe sacrificam. Ai daqueles que vão atrás dele! Por sua causa perecerá todo o insensato."
       },
       {
        "n": 8,
@@ -89042,7 +89606,11 @@
       },
       {
        "n": 21,
-       "texto": "Se estás sentado entre muitas pessoas, não estendas a mão antes delas, nem sejas o primeiro a pedir de beber. Quão pouco vinho é suficiente para um homem regrado! Assim, quando dormires, não te causará desassossego, nem sentirás dor."
+       "texto": "Se estás sentado entre muitas pessoas, não estendas a mão antes delas, nem sejas o primeiro a pedir de beber."
+      },
+      {
+       "n": 22,
+       "texto": "Quão pouco vinho é suficiente para um homem regrado! Assim, quando dormires, não te causará desassossego, nem sentirás dor."
       },
       {
        "n": 23,
@@ -89050,11 +89618,19 @@
       },
       {
        "n": 24,
-       "texto": "O homem sóbrio terá um sono salutar, dormirá até pela manhã, e a sua alma se deleitará com ele. Se fores obrigado a comer muito, levanta-te e vomita: achar-te-ás aliviado, e não atrairás ao teu corpo uma doença."
+       "texto": "O homem sóbrio terá um sono salutar, dormirá até pela manhã, e a sua alma se deleitará com ele."
+      },
+      {
+       "n": 25,
+       "texto": "Se fores obrigado a comer muito, levanta-te e vomita: achar-te-ás aliviado, e não atrairás ao teu corpo uma doença."
       },
       {
        "n": 26,
-       "texto": "Ouve-me, filho, e não me desprezes: no fim reconhecerás a verdade das minhas palavras. Sê pronto em todas as tuas ações, e não te virá nenhuma enfermidade."
+       "texto": "Ouve-me, filho, e não me desprezes: no fim reconhecerás a verdade das minhas palavras."
+      },
+      {
+       "n": 27,
+       "texto": "Sê pronto em todas as tuas ações, e não te virá nenhuma enfermidade."
       },
       {
        "n": 28,
@@ -89143,7 +89719,11 @@
       },
       {
        "n": 6,
-       "texto": "Não desperdices palavras, onde não há quem as ouça, e não te glories despropositadamente do teu saber. Correm igual paralelo uma pedrinha de carbúnculo, em engaste de ouro, e um concerto de músicos em festim de vinho."
+       "texto": "Não desperdices palavras, onde não há quem as ouça, e não te glories despropositadamente do teu saber."
+      },
+      {
+       "n": 7,
+       "texto": "Correm igual paralelo uma pedrinha de carbúnculo, em engaste de ouro, e um concerto de músicos em festim de vinho."
       },
       {
        "n": 8,
@@ -89248,7 +89828,11 @@
       },
       {
        "n": 4,
-       "texto": "Prepara o teu discurso, e, deste modo, serás ouvido; junta o teu saber e depois responde. O coração do insensato é como as rodas de um carro, e o seu pensamento é como um eixo que gira."
+       "texto": "Prepara o teu discurso, e, deste modo, serás ouvido; junta o teu saber e depois responde."
+      },
+      {
+       "n": 5,
+       "texto": "O coração do insensato é como as rodas de um carro, e o seu pensamento é como um eixo que gira."
       },
       {
        "n": 6,
@@ -89469,7 +90053,11 @@
       },
       {
        "n": 26,
-       "texto": "Quem tira a alguém o pão que ganhou com o seu suor, é como aquele que mata o seu próximo. Aquele que derrama sangue e o que defrauda o trabalhador, são irmãos."
+       "texto": "Quem tira a alguém o pão que ganhou com o seu suor, é como aquele que mata o seu próximo."
+      },
+      {
+       "n": 27,
+       "texto": "Aquele que derrama sangue e o que defrauda o trabalhador, são irmãos."
       },
       {
        "n": 28,
@@ -89941,7 +90529,11 @@
       },
       {
        "n": 21,
-       "texto": "Não entregues o teu coração à tristeza, mas lança-a fora de ti; lembra-te do teu fim. Não te esqueças dele, porque não há retorno; em nada aproveitarás ao morto, e a ti mesmo farás um grave dano."
+       "texto": "Não entregues o teu coração à tristeza, mas lança-a fora de ti; lembra-te do teu fim."
+      },
+      {
+       "n": 22,
+       "texto": "Não te esqueças dele, porque não há retorno; em nada aproveitarás ao morto, e a ti mesmo farás um grave dano."
       },
       {
        "n": 23,
@@ -90018,7 +90610,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Outrotanto não sucede com o que aplica o seu espírito à lei do Altíssimo e nela medita. Investiga a sabedoria de todos os antigos, e dedica-se ao estudo dos profetas. Conserva no seu coração as narrações dos homens célebres, e penetra também nas subtilezas das parábolas."
+       "texto": "Outrotanto não sucede com o que aplica o seu espírito à lei do Altíssimo e nela medita. Investiga a sabedoria de todos os antigos, e dedica-se ao estudo dos profetas."
+      },
+      {
+       "n": 2,
+       "texto": "Conserva no seu coração as narrações dos homens célebres, e penetra também nas subtilezas das parábolas."
       },
       {
        "n": 3,
@@ -90026,11 +90622,19 @@
       },
       {
        "n": 4,
-       "texto": "serve no meio dos grandes, e aparece diante do que governa. Percorre a terra de nações estranhas, para reconhecer o que há de bom e mau entre os homens."
+       "texto": "serve no meio dos grandes, e aparece diante do que governa."
+      },
+      {
+       "n": 5,
+       "texto": "Percorre a terra de nações estranhas, para reconhecer o que há de bom e mau entre os homens."
       },
       {
        "n": 6,
-       "texto": "Aplica o seu coração a velar de madrugada, ante o Senhor que o criou, e na presença do Altíssimo faz a sua oração. Abre a sua boca para orar, e pede perdão de seus pecados."
+       "texto": "Aplica o seu coração a velar de madrugada, ante o Senhor que o criou, e na presença do Altíssimo faz a sua oração."
+      },
+      {
+       "n": 7,
+       "texto": "Abre a sua boca para orar, e pede perdão de seus pecados."
       },
       {
        "n": 8,
@@ -90255,7 +90859,11 @@
       },
       {
        "n": 21,
-       "texto": "A flauta e a harpa produzem uma suave melodia, mas a língua doce sobrepuja ambas estas coisas. A graça e a beleza deleitam a tua vista, mas a verdura dos campos leva vantagem a ambas estas coisas."
+       "texto": "A flauta e a harpa produzem uma suave melodia, mas a língua doce sobrepuja ambas estas coisas."
+      },
+      {
+       "n": 22,
+       "texto": "A graça e a beleza deleitam a tua vista, mas a verdura dos campos leva vantagem a ambas estas coisas."
       },
       {
        "n": 23,
@@ -90271,7 +90879,11 @@
       },
       {
        "n": 26,
-       "texto": "As riquezas e a força exaltam o coração; mas o temor do Senhor avantaja-se a estas duas coisas. Nada falta ao que tem o temor do Senhor, e com ele não há necessidade de outro auxílio."
+       "texto": "As riquezas e a força exaltam o coração; mas o temor do Senhor avantaja-se a estas duas coisas."
+      },
+      {
+       "n": 27,
+       "texto": "Nada falta ao que tem o temor do Senhor, e com ele não há necessidade de outro auxílio."
       },
       {
        "n": 28,
@@ -90300,7 +90912,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "ó morte, quão amarga é a tua memória para o homem que tem paz no meio das suas riquezas, para o homem tranquilo e afortunado em tudo, e que aluda se encontra em estado de tomar alimento!"
+       "texto": "ó morte, quão amarga é a tua memória"
+      },
+      {
+       "n": 2,
+       "texto": "para o homem que tem paz no meio das suas riquezas, para o homem tranquilo e afortunado em tudo, e que aluda se encontra em estado de tomar alimento!"
       },
       {
        "n": 3,
@@ -90695,7 +91311,11 @@
       },
       {
        "n": 6,
-       "texto": "Eram homens ricos, poderosos, dados ao culto da beleza, pacíficos em suas casas. Todos eles alcançaram glória entre as gerações do seu povo, e foram louvados no seu tempo."
+       "texto": "Eram homens ricos, poderosos, dados ao culto da beleza, pacíficos em suas casas."
+      },
+      {
+       "n": 7,
+       "texto": "Todos eles alcançaram glória entre as gerações do seu povo, e foram louvados no seu tempo."
       },
       {
        "n": 8,
@@ -90792,7 +91412,11 @@
       },
       {
        "n": 4,
-       "texto": "Pela sua fé e mansidão o santificou, e o escolheu dentre todos os homens. (Deus) ouviu-o a ele, escutou a sua voz, e fê-lo entrar na nuvem."
+       "texto": "Pela sua fé e mansidão o santificou, e o escolheu dentre todos os homens."
+      },
+      {
+       "n": 5,
+       "texto": "(Deus) ouviu-o a ele, escutou a sua voz, e fê-lo entrar na nuvem."
       },
       {
        "n": 6,
@@ -90876,7 +91500,11 @@
       },
       {
        "n": 26,
-       "texto": "Nas primícias preparou-lhe alimento em abundância; com efeito (os sacerdotes) devem comer dos sacrifícios do Senhor, os quais lhe deu a ele e à sua descendência. Mas não tem herança na terra das nações. nem porção entre os do seu povo, porque o mesmo Deus é a sua porção e herança."
+       "texto": "Nas primícias preparou-lhe alimento em abundância; com efeito (os sacerdotes) devem comer dos sacrifícios do Senhor, os quais lhe deu a ele e à sua descendência."
+      },
+      {
+       "n": 27,
+       "texto": "Mas não tem herança na terra das nações. nem porção entre os do seu povo, porque o mesmo Deus é a sua porção e herança."
       },
       {
        "n": 28,
@@ -90901,7 +91529,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Josué, filho de Nun, valente na guerra, sucedeu a Moisés na missão de profeta; foi grande, grande como denota o seu nome, multo grande salvador dos escolhidos de Deus, para derrotar os inimigos que contra ele se levantavam, a fim de conseguir para Israel a sua herança."
+       "texto": "Josué, filho de Nun, valente na guerra, sucedeu a Moisés na missão de profeta; foi grande, grande como denota o seu nome,"
+      },
+      {
+       "n": 2,
+       "texto": "multo grande salvador dos escolhidos de Deus, para derrotar os inimigos que contra ele se levantavam, a fim de conseguir para Israel a sua herança."
       },
       {
        "n": 3,
@@ -90909,11 +91541,19 @@
       },
       {
        "n": 4,
-       "texto": "Quem antes dele combateu assim? De facto, o mesmo Senhor lhe trouxe às mãos os seus inimigos. Não é assim que, por impulso do seu zelo, o sol parou, e que um só dia se tornou tão longo como dois?"
+       "texto": "Quem antes dele combateu assim? De facto, o mesmo Senhor lhe trouxe às mãos os seus inimigos."
+      },
+      {
+       "n": 5,
+       "texto": "Não é assim que, por impulso do seu zelo, o sol parou, e que um só dia se tornou tão longo como dois?"
       },
       {
        "n": 6,
-       "texto": "Ele invocou o Altíssimo Poderoso, quando atacava os inimigos por todas as partes, e o grande e santo Deus o ouviu, e fez cair saraiva de grande força. Investiu impetuosamente contra as hostes Inimigas, e derrotou os contrários na descida (do vale),"
+       "texto": "Ele invocou o Altíssimo Poderoso, quando atacava os inimigos por todas as partes, e o grande e santo Deus o ouviu, e fez cair saraiva de grande força."
+      },
+      {
+       "n": 7,
+       "texto": "Investiu impetuosamente contra as hostes Inimigas, e derrotou os contrários na descida (do vale),"
       },
       {
        "n": 8,
@@ -91006,7 +91646,11 @@
       },
       {
        "n": 6,
-       "texto": "porque ele invocou o Senhor Todo-Poderoso, o qual deu à sua dextra força para derrubar um homem valente na guerra, e para exaltar o poder do seu povo. Também foi celebrado por causa (da morte) dos dez mil homens, tornou-se ilustre com as bênçãos do Senhor, e foi-lhe oferecida uma coroa de glória,"
+       "texto": "porque ele invocou o Senhor Todo-Poderoso, o qual deu à sua dextra força para derrubar um homem valente na guerra, e para exaltar o poder do seu povo."
+      },
+      {
+       "n": 7,
+       "texto": "Também foi celebrado por causa (da morte) dos dez mil homens, tornou-se ilustre com as bênçãos do Senhor, e foi-lhe oferecida uma coroa de glória,"
       },
       {
        "n": 8,
@@ -91111,7 +91755,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Surgiu depois o profeta Elias, como um fogo. As suas palavras ardiam como um facho. Fez vir sobre eles a fome. Os que o irritavam pela sua inveja foram reduzidos a um pequeno número, porque não podiam suportar os preceitos do Senhor."
+       "texto": "Surgiu depois o profeta Elias, como um fogo. As suas palavras ardiam como um facho."
+      },
+      {
+       "n": 2,
+       "texto": "Fez vir sobre eles a fome. Os que o irritavam pela sua inveja foram reduzidos a um pequeno número, porque não podiam suportar os preceitos do Senhor."
       },
       {
        "n": 3,
@@ -91127,7 +91775,11 @@
       },
       {
        "n": 6,
-       "texto": "que precipitaste os reis na desgraça, que desfizeste sem trabalho o seu poder, e, no meio da sua glória, os fizeste cair do leito (na sepultura); que ouviste sobre o Sinai o juízo do Senhor, e sobre o Horeb os decretos da sua vingança;"
+       "texto": "que precipitaste os reis na desgraça, que desfizeste sem trabalho o seu poder, e, no meio da sua glória, os fizeste cair do leito (na sepultura);"
+      },
+      {
+       "n": 7,
+       "texto": "que ouviste sobre o Sinai o juízo do Senhor, e sobre o Horeb os decretos da sua vingança;"
       },
       {
        "n": 8,
@@ -91195,7 +91847,11 @@
       },
       {
        "n": 24,
-       "texto": "Dissipou o Acampamento dos Assírios, e o anjo do Senhor os exterminou. Porque Ezequias fez o que era do agrado de Deus, andou com fortaleza pelo caminho de Davide seu Pai, como lhe tinha recomendado Isaías, profeta grande e fiel diante de Deus."
+       "texto": "Dissipou o Acampamento dos Assírios, e o anjo do Senhor os exterminou."
+      },
+      {
+       "n": 25,
+       "texto": "Porque Ezequias fez o que era do agrado de Deus, andou com fortaleza pelo caminho de Davide seu Pai, como lhe tinha recomendado Isaías, profeta grande e fiel diante de Deus."
       },
       {
        "n": 26,
@@ -91216,7 +91872,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "A memória de Josias é como uma composição de aromas feita por arte do perfumista. Em toda a boca será doce a sua lembrança como o mel, e como a música em banquete de (abundante) vinho."
+       "texto": "A memória de Josias é como uma composição de aromas feita por arte do perfumista."
+      },
+      {
+       "n": 2,
+       "texto": "Em toda a boca será doce a sua lembrança como o mel, e como a música em banquete de (abundante) vinho."
       },
       {
        "n": 3,
@@ -91305,11 +91965,19 @@
       },
       {
        "n": 4,
-       "texto": "Teve cuidado do seu povo, livrou-o da perdição. Conseguiu engrandecer a cidade; nas suas relações com o povo alcançou glória, e alargou a entrada do templo e do átrio."
+       "texto": "Teve cuidado do seu povo, livrou-o da perdição."
+      },
+      {
+       "n": 5,
+       "texto": "Conseguiu engrandecer a cidade; nas suas relações com o povo alcançou glória, e alargou a entrada do templo e do átrio."
       },
       {
        "n": 6,
-       "texto": "Como a estrela da manhã, no meio da névoa, como a Lua resplandecente no plenilúnio, e como um Sol brilhante, assim luziu no templo de Deus."
+       "texto": "Como a estrela da manhã, no meio da névoa, como a Lua resplandecente no plenilúnio,"
+      },
+      {
+       "n": 7,
+       "texto": "e como um Sol brilhante, assim luziu no templo de Deus."
       },
       {
        "n": 8,
@@ -91426,11 +92094,19 @@
       },
       {
        "n": 4,
-       "texto": "Livraste-me, segundo a grandeza da misericórdia do teu nome, dos que rugiam, preparados para me devorarem, das mãos dos que procuravam tirar-me a vida, do poder das tribulações que me assaltavam,"
+       "texto": "Livraste-me, segundo a grandeza da misericórdia do teu nome, dos que rugiam, preparados para me devorarem,"
+      },
+      {
+       "n": 5,
+       "texto": "das mãos dos que procuravam tirar-me a vida, do poder das tribulações que me assaltavam,"
       },
       {
        "n": 6,
-       "texto": "da violência da chama que me envolvia. — no melo do fogo (da perseguição) não me queimei — das profundas entranhas da morada dos mortos, da língua impura, da palavra de mentira, dum rei iníquo e da língua injusta."
+       "texto": "da violência da chama que me envolvia. — no melo do fogo (da perseguição) não me queimei —"
+      },
+      {
+       "n": 7,
+       "texto": "das profundas entranhas da morada dos mortos, da língua impura, da palavra de mentira, dum rei iníquo e da língua injusta."
       },
       {
        "n": 8,
@@ -91486,7 +92162,11 @@
       },
       {
        "n": 21,
-       "texto": "Apliquei um pouco o meu ouvido, e logo a percebi. Encontrei muita sabedoria em mim mesmo, e fiz nela grandes progressos."
+       "texto": "Apliquei um pouco o meu ouvido, e logo a percebi."
+      },
+      {
+       "n": 22,
+       "texto": "Encontrei muita sabedoria em mim mesmo, e fiz nela grandes progressos."
       },
       {
        "n": 23,
@@ -91929,7 +92609,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Cantarei ao meu amado o seu cântico de amor à sua vinha. O meu amado adquiriu uma vinha, plantada numa fértil colina. Cavou-lhe a terra, tirou-lhe as pedras, plantou-a de bacelo escolhido, edificou uma torre no meio, e construiu nela um lagar. Esperava que desse boas uvas, mas produziu agraços.1"
+       "texto": "Cantarei ao meu amado o seu cântico de amor à sua vinha. O meu amado adquiriu uma vinha, plantada numa fértil colina."
+      },
+      {
+       "n": 2,
+       "texto": "Cavou-lhe a terra, tirou-lhe as pedras, plantou-a de bacelo escolhido, edificou uma torre no meio, e construiu nela um lagar. Esperava que desse boas uvas, mas produziu agraços.1"
       },
       {
        "n": 3,
@@ -92742,7 +93426,11 @@
       },
       {
        "n": 6,
-       "texto": "o que na sua indignação feria os povos sem cessar, o que sujeitava as nações no seu furor, o que cruelmente as perseguia. Toda a terra está em descanso e em paz, em cantos de alegria."
+       "texto": "o que na sua indignação feria os povos sem cessar, o que sujeitava as nações no seu furor, o que cruelmente as perseguia."
+      },
+      {
+       "n": 7,
+       "texto": "Toda a terra está em descanso e em paz, em cantos de alegria."
       },
       {
        "n": 8,
@@ -93533,7 +94221,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Senhor, tu és o meu Deus; eu te exaltarei, apregoarei o teu nome, porque fizeste maravilhas, realizando os teus antigos e fiéis desígnios. Porque tu reduziste a cidade (do mal) a um montão de pedras, a cidade forte a uma ruína; a cidadela dos estranhos não é mais uma cidade, jamais será reedificada."
+       "texto": "Senhor, tu és o meu Deus; eu te exaltarei, apregoarei o teu nome, porque fizeste maravilhas, realizando os teus antigos e fiéis desígnios."
+      },
+      {
+       "n": 2,
+       "texto": "Porque tu reduziste a cidade (do mal) a um montão de pedras, a cidade forte a uma ruína; a cidadela dos estranhos não é mais uma cidade, jamais será reedificada."
       },
       {
        "n": 3,
@@ -93582,7 +94274,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Naquele dia será cantado este cântico na terra de Judá; Temos uma cidade forte; o Salvador é para ela o muro e o antemuro. Abri as portas, e entre o povo justo, que observa a verdade."
+       "texto": "Naquele dia será cantado este cântico na terra de Judá; Temos uma cidade forte; o Salvador é para ela o muro e o antemuro."
+      },
+      {
+       "n": 2,
+       "texto": "Abri as portas, e entre o povo justo, que observa a verdade."
       },
       {
        "n": 3,
@@ -93598,7 +94294,11 @@
       },
       {
        "n": 6,
-       "texto": "É calcada pelos pés dos pobres, pelos pés dos miseráveis. A senda do justo é direita, direito é o caminho que abres ao justo, para por ele andar."
+       "texto": "É calcada pelos pés dos pobres, pelos pés dos miseráveis."
+      },
+      {
+       "n": 7,
+       "texto": "A senda do justo é direita, direito é o caminho que abres ao justo, para por ele andar."
       },
       {
        "n": 8,
@@ -98894,7 +99594,11 @@
       },
       {
        "n": 4,
-       "texto": "Quando ficava estragada a vasilha que fazia, retomava o barro com as mãos, e, tornando de novo, fazia outra, como bem lhe parecia. Então foi-me dirigida a palavra do Senhor nos termos seguintes:"
+       "texto": "Quando ficava estragada a vasilha que fazia, retomava o barro com as mãos, e, tornando de novo, fazia outra, como bem lhe parecia."
+      },
+      {
+       "n": 5,
+       "texto": "Então foi-me dirigida a palavra do Senhor nos termos seguintes:"
       },
       {
        "n": 6,
@@ -101362,7 +102066,11 @@
       },
       {
        "n": 3,
-       "texto": "Que o Senhor teu Deus nos mostre o caminho que devemos seguir, e o que devemos fazer. O profeta Jeremias disse-lhes: Eu ouvi. Vou fazer oração ao Senhor vosso Deus, conforme dizeis; qualquer palavra que me responder, eu vo-la referirei, sem vos encobrir coisa alguma."
+       "texto": "Que o Senhor teu Deus nos mostre o caminho que devemos seguir, e o que devemos fazer."
+      },
+      {
+       "n": 4,
+       "texto": "O profeta Jeremias disse-lhes: Eu ouvi. Vou fazer oração ao Senhor vosso Deus, conforme dizeis; qualquer palavra que me responder, eu vo-la referirei, sem vos encobrir coisa alguma."
       },
       {
        "n": 5,
@@ -104423,7 +105131,11 @@
       },
       {
        "n": 3,
-       "texto": "Dizia-me: Filho de homem, eu te envio aos filhos de Israel, aos povos rebeldes que se revoltaram contra mim; eles e seus pais foram-me infiéis até ao dia de hoje. Aqueles a quem te envio são filhos de semblante duro de coração empedernido. Dir-lhes-ás: Assim fala o Senhor Iavé."
+       "texto": "Dizia-me: Filho de homem, eu te envio aos filhos de Israel, aos povos rebeldes que se revoltaram contra mim; eles e seus pais foram-me infiéis até ao dia de hoje."
+      },
+      {
+       "n": 4,
+       "texto": "Aqueles a quem te envio são filhos de semblante duro de coração empedernido. Dir-lhes-ás: Assim fala o Senhor Iavé."
       },
       {
        "n": 5,
@@ -107306,7 +108018,11 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "No ano décimo, no décimo mês, aos doze dias do mês, foi-me dirigida a palavra do Senhor, nestes termos: Filho de homem, volta o teu rosto contra Faraó, rei do Egito, e profetiza contra ele e contra o Egito."
+       "texto": "No ano décimo, no décimo mês, aos doze dias do mês, foi-me dirigida a palavra do Senhor, nestes termos:"
+      },
+      {
+       "n": 2,
+       "texto": "Filho de homem, volta o teu rosto contra Faraó, rei do Egito, e profetiza contra ele e contra o Egito."
       },
       {
        "n": 3,
@@ -108125,7 +108841,11 @@
       },
       {
        "n": 22,
-       "texto": "Por isso dirás à casa de Israel: Assim fala o Senhor Deus: Não é por amor de vós, casa de Israel, que procedo desta forma, mas por atenção ao meu santo nome, que vós profanastes entre as nações, para onde fostes. Santificarei o meu grande nome, que foi profanado entre as nações, o qual vós desonrastes no meio delas, a fim de que as nações saibam que eu sou o Senhor, diz o Senhor dos exércitos, quando mostrar a minha santidade, a seus olhos, no meio de vós."
+       "texto": "Por isso dirás à casa de Israel: Assim fala o Senhor Deus: Não é por amor de vós, casa de Israel, que procedo desta forma, mas por atenção ao meu santo nome, que vós profanastes entre as nações, para onde fostes."
+      },
+      {
+       "n": 23,
+       "texto": "Santificarei o meu grande nome, que foi profanado entre as nações, o qual vós desonrastes no meio delas, a fim de que as nações saibam que eu sou o Senhor, diz o Senhor dos exércitos, quando mostrar a minha santidade, a seus olhos, no meio de vós."
       },
       {
        "n": 24,
@@ -117591,7 +118311,11 @@
       },
       {
        "n": 33,
-       "texto": "Expulso o demónio, falou o mudo, e admiraram-se as multidões, dizendo: \"Nunca se viu coisa assim em Israel\" Os fariseus, porém, diziam: \"Ele expulsa os demónios por meio do príncipe dos demónios.\""
+       "texto": "Expulso o demónio, falou o mudo, e admiraram-se as multidões, dizendo: \"Nunca se viu coisa assim em Israel\""
+      },
+      {
+       "n": 34,
+       "texto": "Os fariseus, porém, diziam: \"Ele expulsa os demónios por meio do príncipe dos demónios.\""
       },
       {
        "n": 35,

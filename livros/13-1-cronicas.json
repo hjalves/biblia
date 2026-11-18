@@ -55,7 +55,11 @@
     },
     {
      "n": 10,
-     "texto": "Cus gerou Neinrod, o qual começou a ser poderoso na terra. Mesraim gerou Ludim, Anamim, Laabim, Neftuim,"
+     "texto": "Cus gerou Neinrod, o qual começou a ser poderoso na terra."
+    },
+    {
+     "n": 11,
+     "texto": "Mesraim gerou Ludim, Anamim, Laabim, Neftuim,"
     },
     {
      "n": 12,
@@ -739,7 +743,11 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Eis os filhos de Ruben, primogénito de Israel (porque este foi o seu primogénito, em bora, por ter manchado o tálamo de seu pai, fosse o seu direito de primogenitura dado aos filhos de José, filho de Israel, deixando (desta forma) Ruben de ser considerado primogénito; quanto a Judá, que era o mais valente de todos os seus irmãos, da sua estirpe saíram príncipes, mas o direito da primogenitura foi adjudicado a José)."
+     "texto": "Eis os filhos de Ruben, primogénito de Israel (porque este foi o seu primogénito, em bora, por ter manchado o tálamo de seu pai, fosse o seu direito de primogenitura dado aos filhos de José, filho de Israel, deixando (desta forma) Ruben de ser considerado primogénito;"
+    },
+    {
+     "n": 2,
+     "texto": "quanto a Judá, que era o mais valente de todos os seus irmãos, da sua estirpe saíram príncipes, mas o direito da primogenitura foi adjudicado a José)."
     },
     {
      "n": 3,

@@ -799,7 +799,11 @@
     },
     {
      "n": 4,
-     "texto": "dá-me aquela sabedoria, que está sentada contigo no teu trono, e não me queiras excluir no número dos teus filhos porque eu sou servo teu, filho da tua escrava, sou um homem fraco e de pouca dura, e pouco capaz de compreender o juízo e as leis."
+     "texto": "dá-me aquela sabedoria, que está sentada contigo no teu trono, e não me queiras excluir no número dos teus filhos"
+    },
+    {
+     "n": 5,
+     "texto": "porque eu sou servo teu, filho da tua escrava, sou um homem fraco e de pouca dura, e pouco capaz de compreender o juízo e as leis."
     },
     {
      "n": 6,
@@ -1086,7 +1090,11 @@
     },
     {
      "n": 6,
-     "texto": "A esses pais assassinos de seres indefesos, tu quiseste destruir pelas mãos de nossos pais, a fim de que esta terra, que é a mais estimada por ti, recebesse uma digna colónia de filhos de Deus."
+     "texto": "A esses pais assassinos de seres indefesos, tu quiseste destruir pelas mãos de nossos pais,"
+    },
+    {
+     "n": 7,
+     "texto": "a fim de que esta terra, que é a mais estimada por ti, recebesse uma digna colónia de filhos de Deus."
     },
     {
      "n": 8,

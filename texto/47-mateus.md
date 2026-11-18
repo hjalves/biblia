@@ -293,7 +293,8 @@
 **30** E abriram-se os seus olhos. Jesus deu-lhes ordens terminantes, dizendo: "Vede que ninguém o saiba."  
 **31** Mas eles, retirando-se, divulgaram por toda aquela terra a sua fama.  
 **32** Tendo-se estes retirado, apresentaram-lhe um mudo possesso do demónio.  
-**33** Expulso o demónio, falou o mudo, e admiraram-se as multidões, dizendo: "Nunca se viu coisa assim em Israel" Os fariseus, porém, diziam: "Ele expulsa os demónios por meio do príncipe dos demónios."  
+**33** Expulso o demónio, falou o mudo, e admiraram-se as multidões, dizendo: "Nunca se viu coisa assim em Israel"  
+**34** Os fariseus, porém, diziam: "Ele expulsa os demónios por meio do príncipe dos demónios."  
 **35** Jesus ia percorrendo todas as cidades e aldeias, ensinando nas sinagogas, pregando o Evangelho do reino, e curando toda a doença e toda a enfermidade.  
 **36** Vendo aquelas multidões, compadeceu-se delas, porque estavam fatigadas e abatidas, como ovelhas sem pastor.  
 **37** Então disse a seus discípulos: " A messe é verdadeiramente grande, mas os operários são poucos.  

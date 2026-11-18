@@ -5,7 +5,7 @@
 **A Bíblia do Padre Manuel de Matos Soares (edição de 1956)**
 em português, revista, corrigida e atualizada ao novo Acordo Ortográfico.
 
-![Livros](https://img.shields.io/badge/livros-73-8a6226) ![Versículos](https://img.shields.io/badge/vers%C3%ADculos-35%20609-8a6226) ![Licença](https://img.shields.io/badge/licen%C3%A7a-CC%20BY%204.0-2ea44f)
+![Livros](https://img.shields.io/badge/livros-73-8a6226) ![Versículos](https://img.shields.io/badge/vers%C3%ADculos-35%20790-8a6226) ![Licença](https://img.shields.io/badge/licen%C3%A7a-CC%20BY%204.0-2ea44f)
 
 </div>
 
@@ -148,7 +148,7 @@ Esta edição é um **trabalho derivado de uma obra em domínio público**: a B�
   "capitulos": [ { "capitulo": 3, "versiculos": [ { "n": 16, "texto": "Porque Deus amou…" } ] } ] }
 ```
 
-Os versículos vêm pela **ordem de leitura**. A numeração da edição tem alguns saltos, por isso usa a ordem do ficheiro e não assumas que `n` é sempre sequencial. Os **Salmos** seguem a numeração da Vulgata (o Salmo 22, «O Senhor é meu pastor», é o 23 da numeração hebraica).
+Os versículos vêm pela **ordem de leitura**. A numeração segue a da Vulgata; a única falha é Esd 8,3, que a edição não tem (ver [CORRECOES.md](CORRECOES.md)). Usa a ordem do ficheiro e não assumas que `n` é sempre sequencial. Os **Salmos** seguem a numeração da Vulgata (o Salmo 22, «O Senhor é meu pastor», é o 23 da numeração hebraica).
 
 ## Licença e atribuição
 

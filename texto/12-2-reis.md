@@ -604,7 +604,8 @@
 **18** e lançaram os seus deuses no fogo, porém eles não eram deuses, mas obras das mãos dos homens, de pau e de pedra, e, por isso, foram destruídos.  
 **19** Salva-nos, agora Senhor nosso Deus, dos suas mãos, para que todos os reinos da terra saibam que só tu és o Senhor Deus.  
 **20** Então Isaías, filho de Amós, mandou dizer a Ezequias: Eis o que diz o Senhor Deus de Israel: Eu ouvi a oração que tu me fizeste relativamente a Senaquerib, rei dos Assírios.  
-**21** Eis o que o Senhor disse dele: Ela te desprezou e te escarneceu, a virgem, filha de Sião; ela sacudiu a sua cabeça por detrás de ti, a filha de Jerusalém. A quem insultaste, contra quem blasfemaste? Contra quem levantaste a tua voz? A quem desafiaste com teus olhos? O Santo de Israel.  
+**21** Eis o que o Senhor disse dele: Ela te desprezou e te escarneceu, a virgem, filha de Sião; ela sacudiu a sua cabeça por detrás de ti, a filha de Jerusalém.  
+**22** A quem insultaste, contra quem blasfemaste? Contra quem levantaste a tua voz? A quem desafiaste com teus olhos? O Santo de Israel.  
 **23** Por meio dos teus servos ultrajaste o Senhor, dizendo: Com a multidão dos meus carros (armados) subirei ao alto dos montes, ao cimo do Líbano; deitarei abaixo os seus altos cedros, os seus mais belos ciprestes. Penetrarei até aos mais remotos limites, até aos bosques mais espessos.  
 **24** Cavei. E bebi águas estrangeiras, sequei com as plantas dos meus pés todos os rios do Egito.  
 **25** Tu não ouviste dizer o que eu fiz desde o princípio? Desde os dias antigos eu formei este projeto, e agora o executo; as cidades fortes dos combatentes são um montão de ruínas.  
