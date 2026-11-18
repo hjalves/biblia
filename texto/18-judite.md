@@ -2,7 +2,7 @@
 
 ## Capítulo 1
 
-**1** Arfaxad, rei dos Medes, tinha sujeitado ao seu império muitas nações. Edificou uma cidade poderosíssima, a que chamou Ecbatana,  
+**1** Arfaxad, rei dos Medos, tinha sujeitado ao seu império muitas nações. Edificou uma cidade poderosíssima, a que chamou Ecbatana,  
 **2** de pedras cortadas à esquadria; fez os seus muros de setenta côvados de alto, de trinta côvados de largo, e pôs-lhes torres de cem côvados de altura.  
 **3** Estas eram quadradas, e cada lado estendia-se por espaço de vinte pés. Fez as suas portas proporcionadas à altura das torres,  
 **4** e gloriava-se da invencível força do seu exército e da magnificência dos seus carros (de guerra).  
@@ -153,7 +153,7 @@
 **19** Pecamos nós e os nossos pais, procedemos injustamente, cometemos a iniquidade.  
 **20** Tu, que és piedoso, compadece-te de nós, ou (ao menos) castiga tu mesmo as nossas iniquidades e não entregues os que te bendizem a um povo que te não conhece,  
 **21** para que não se diga entre as nações: Onde está o seu Deus?  
-**22** Quando, depois de cansados com estes clamores com estes prantos, ficaram em silêncio,  
+**22** Quando, depois de cansados com estes clamores e com estes prantos, ficaram em silêncio,  
 **23** levantando-se Ozias, banhado em lágrimas, disse; Tende bom ânimo, irmãos, e por estes cinco dias esperemos a misericórdia do Senhor.  
 **24** Talvez se aplaque a sua ira e dê glória ao seu nome.  
 **25** Mas se, passados estes cinco dias, nos não vier socorro, faremos o que vós dissestes.  
@@ -166,7 +166,7 @@
 **4** Havia já três anos e seis meses que Judit tinha ficado viúva.  
 **5** No andar superior de sua casa tinha feito para si um quarto retirado, no qual se conservava recolhida com as suas criadas;  
 **6** trazendo um cilício sobre os seus rins, jejuava todos os dias da sua vida, exceto nos sábados, nas neoménias e nas festas da casa de Israel.  
-**7** Era de belíssimo aspeto, e seu marido tinha-Ihe deixado muitas riquezas, uma família numerosa e fazendas cheias de manadas de bois e de rebanhos de ovelhas.  
+**7** Era de belíssimo aspeto, e seu marido tinha-lhe deixado muitas riquezas, uma família numerosa e fazendas cheias de manadas de bois e de rebanhos de ovelhas.  
 **8** Era estimadíssima de todos, porque tinha muito temor de Deus; não havia ninguém que dissesse dela uma palavra em desfavor.  
 **9** Tendo, pois, ela sabido que Ozias tinha prometido entregar a cidade, passados cinco dias, mandou chamar os anciãos Cabri e Carmi.  
 **10** Eles foram ter com ela, que lhes disse: Que palavra é esta, com a qual concordou Ozias, de entregar a cidade aos Assírios, se dentro de cinco dias vos não viesse socorro?  
@@ -246,7 +246,7 @@
 **2** Se o teu povo me não tivesse desprezado, não teria eu levantado contra ele a minha lança.  
 **3** Mas dize-me, agora, por que motivo os deixaste e te resolveste a vir para nós?  
 **4** Judit respondeu-lhe: Ouve as palavras da tua serva, porque, se seguires as palavras de tua serva, o Senhor chegará aos seus fins por ti.  
-**5** Viva Nabucododosor, rei da terra, e viva o seu poder, que está nas tuas mãos para castigo de todos os desencaminhados, porque não somente os homens por ti o servem, mas até os animais do campo lhe obedecem.  
+**5** Viva Nabucodonosor, rei da terra, e viva o seu poder, que está nas tuas mãos para castigo de todos os desencaminhados, porque não somente os homens por ti o servem, mas até os animais do campo lhe obedecem.  
 **6** Com efeito, a sabedoria do teu espírito é celebrada em todas as nações; por todo o mundo se sabe que tu és o único bom e poderoso em todo o seu reino, e por todas as províncias é exaltada a tua perícia militar.  
 **7** Não se ignora o que disse Aquior nem o que tu ordenaste que lhe fosse feito.  
 **8** E manifesto que o nosso Deus está de tal sorte irritado pelos pecados, que mandou dizer ao povo por meio dos seus profetas, que o entregaria por causa das suas ofensas.  
@@ -266,7 +266,7 @@
 
 ## Capítulo 12
 
-**1** Então mandou que ela entrasse onde estavam os seus tesouros, ordenando que ficasse ali, e estabeleceu o que Ihe havia de ser dado da sua mesa.  
+**1** Então mandou que ela entrasse onde estavam os seus tesouros, ordenando que ficasse ali, e estabeleceu o que lhe havia de ser dado da sua mesa.  
 **2** Judit respondeu-lhe: Eu não posso agora comer dessas coisas que mandaste dar-me, para não vir sobre mim a indignação (de Deus); comerei daquelas coisas que trouxe comigo.  
 **3** Holofernes disse-lhe: E quando acabar o que trouxeste contigo, que havemos de fazer para ti?  
 **4** Judit disse-lhe: Juro pela tua vida, meu Senhor, que a tua serva não gastará todas estas coisas, sem que Deus faça pela minha mão o que tenho na mente. Então os criados de Holofernes conduziram-na à tenda que ele tinha indicado.  

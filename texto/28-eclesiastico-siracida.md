@@ -714,7 +714,7 @@
 **16** Desvia-te dele, e acharás descanso, e não te enfastiarás com a sua estultícia.  
 **17** Que coisa haverá mais pesada do que o chumbo? E que outro nome se lhe pode dar melhor do que o de insensato?  
 **18** A areia, o sal e qualquer massa de ferro, são mais fáceis de levar do que o imprudente, o insensato e o ímpio.  
-**19** A travação de madeixa, bem ligada e disposta no alicerce do edifício, não se desunirá; assim, também, o coração firmado sobre um bem pensado conselho.  
+**19** A travação de madeira, bem ligada e disposta no alicerce do edifício, não se desunirá; assim, também, o coração firmado sobre um bem pensado conselho.  
 **20** A resolução do homem sensato nunca enfraquecerá com o medo.  
 **21** Assim como uma paliçada posta em lugares elevados e uma parede de pedregulho, sem argamassa, não podem resistir à violência do vento,  
 **22** também o coração tímido, de pensamentos insensatos, não resistirá à violência do temor.  
@@ -1253,7 +1253,7 @@
 **17** Forma dentro de ti um coração de bom conselho, porque não tens outra coisa de maior preço do que ele.  
 **18** A alma dum homem santo descobre algumas vezes melhor a verdade, do que sete sentinelas postadas num lugar elevado para atalaiar.  
 **19** Mas sobre tudo pede ao Altíssimo que dirija o teu caminho em verdade.  
-**20** Preceda todas as tuas obras a palavra verídica, e todos os teus empreendimentos nm conselho estável  
+**20** Preceda todas as tuas obras a palavra verídica, e todos os teus empreendimentos um conselho estável  
 **21** Uma palavra má transtorna o coração, de que nascem quatro coisas: o bem e o mal, a vida e a morte; sobre elas quem domina de contínuo é a língua. Há homem hábil que ensina a muitos, mas que é inútil para si.  
 **22** Outro é prudente e instrui a muitos, e é agradável (ou útil) a si próprio.  
 **23** Aquele que usa duma linguagem pretenciosamente sábia é odioso; será privado de tudo.  
@@ -1263,7 +1263,7 @@
 **27** O homem sábio será cheio de bênçãos, e louvá-lo-ão os que o virem.  
 **28** A vida do homem reduz-se a um certo número de dias, porém os dias de Israel são inumeráveis.  
 **29** O sábio herdará honra no seio do povo, e o seu nome viverá eternamente.  
-**30** Filho, prova a tua alma durante a tua vida; se coisa lhe é prejudicial, não lha concedas,  
+**30** Filho, prova a tua alma durante a tua vida; se uma coisa lhe é prejudicial, não lha concedas,  
 **31** porque nem todas as coisas convêm a todos, nem todas as pessoas se comprazem nas mesmas coisas.  
 **32** Não sejas glutão em banquete algum, nem te lances a todos os pratos,  
 **33** porque no excesso de alimento está a doença, e a intemperança conduz à cólica.  
@@ -1393,7 +1393,7 @@
 ## Capítulo 41
 
 **1** ó morte, quão amarga é a tua memória  
-**2** para o homem que tem paz no meio das suas riquezas, para o homem tranquilo e afortunado em tudo, e que aluda se encontra em estado de tomar alimento!  
+**2** para o homem que tem paz no meio das suas riquezas, para o homem tranquilo e afortunado em tudo, e que ainda se encontra em estado de tomar alimento!  
 **3** Ó morte, que doce é a tua sentença para o homem necessitado, que se acha falto de forças,  
 **4** para o homem já decrépito e consumido de cuidados, e para o que se vê sem esperança (de melhoras), e a quem falta a paciência!  
 **5** Não temas o decreto da morte. Lembra-te dos que existiram antes de ti, e dos que virão depois de ti: É um decreto que o Senhor promulgou para todos os mortais.  
@@ -1406,7 +1406,7 @@
 **12** Se nasceis, na maldição nasceis, se morreis, a maldição é a vossa herança.  
 **13** Tudo o que é da terra tornar-se-á em terra; assim os ímpios (cairão) da maldição na perdição.  
 **14** O pranto dos homens é sobre o seu cadáver, mas o nome dos ímpios será apagado do mundo.  
-**15** Tem cuidado da tua boa reputação, poi-que esta será para ti um bem mais estável do que mil tesouros grandes e preciosos.  
+**15** Tem cuidado da tua boa reputação, porque esta será para ti um bem mais estável do que mil tesouros grandes e preciosos.  
 **16** A vida boa tem somente um certo número de dias, mas o bom nome permanecerá para sempre.  
 **17** Conservai, filhos, em paz a minha instrução, porque, se a sabedoria está escondida e o tesouro é invisível, que utilidade pode haver em ambas estas coisas?  
 **18** Melhor é o homem que esconde a sua estultícia, do que o homem que esconde a sua sabedoria.  
@@ -1556,7 +1556,7 @@
 ## Capítulo 46
 
 **1** Josué, filho de Nun, valente na guerra, sucedeu a Moisés na missão de profeta; foi grande, grande como denota o seu nome,  
-**2** multo grande salvador dos escolhidos de Deus, para derrotar os inimigos que contra ele se levantavam, a fim de conseguir para Israel a sua herança.  
+**2** muito grande salvador dos escolhidos de Deus, para derrotar os inimigos que contra ele se levantavam, a fim de conseguir para Israel a sua herança.  
 **3** Que glória não alcançou ele em levantar as suas mãos, e em brandir a lança contra as cidades (dos Amorreus)!  
 **4** Quem antes dele combateu assim? De facto, o mesmo Senhor lhe trouxe às mãos os seus inimigos.  
 **5** Não é assim que, por impulso do seu zelo, o sol parou, e que um só dia se tornou tão longo como dois?  
@@ -1707,7 +1707,7 @@
 **3** livraste o meu corpo da perdição, do laço da língua iníqua e dos lábios dos forjadores da mentira; à vista dos que estavam contra mim, foste o meu defensor.  
 **4** Livraste-me, segundo a grandeza da misericórdia do teu nome, dos que rugiam, preparados para me devorarem,  
 **5** das mãos dos que procuravam tirar-me a vida, do poder das tribulações que me assaltavam,  
-**6** da violência da chama que me envolvia. — no melo do fogo (da perseguição) não me queimei —  
+**6** da violência da chama que me envolvia. — no meio do fogo (da perseguição) não me queimei —  
 **7** das profundas entranhas da morada dos mortos, da língua impura, da palavra de mentira, dum rei iníquo e da língua injusta.  
 **8** A minha alma louvará o Senhor até à morte,  
 **9** pois a minha vida estava prestes a cair nas profundezas da morada dos mortos.  

@@ -60,7 +60,7 @@
 **31** e saberão que sou o Senhor seu Deus. Dar-lhes-ei um (novo) coração, com que entenderão, e ouvidos com que ouvirão.  
 **32** Louvar-me-ão na terra do seu cativeiro e lembrar-se-ão do meu nome;  
 **33** deixarão a dureza da sua cerviz e as suas maldades, porque se lembrarão do destino de seus pais que pecaram contra mim.  
-**34** Então conduzi-los-ei outra vez para a terra que prometi com juramento a seus pais. Abraão, Isaac e Jacob, e serão senhores dela. Multiplicá-Ios-ei, e não diminuirão.  
+**34** Então conduzi-los-ei outra vez para a terra que prometi com juramento a seus pais. Abraão, Isaac e Jacob, e serão senhores dela. Multiplicá-los-ei, e não diminuirão.  
 **35** Farei com eles uma aliança eterna, para que eu seja o seu Deus, e eles sejam o meu povo, e não removerei jamais o meu povo, os filhos de Israel, da terra que lhes dei.  
 
 ## Capítulo 3

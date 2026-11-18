@@ -10,7 +10,7 @@
 **6** Se pretendemos ter comunhão com ele e andamos nas trevas (do pecado), mentimos e não praticamos a verdade.  
 **7** Porém, se andamos na luz (da verdade e da santidade), como ele mesmo também está na luz, temos comunhão recíproca, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo o pecado.  
 **8** Se pretendemos não ter pecado (menos venial), enganamo-nos, e não há verdade em nós.  
-**9** Porém se confessamos (com humildade e arrependimento) os nossos pecados, (Deus) é fiel e justo para no-Ios perdoar e para nos purificar de toda a iniquidade.  
+**9** Porém se confessamos (com humildade e arrependimento) os nossos pecados, (Deus) é fiel e justo para no-los perdoar e para nos purificar de toda a iniquidade.  
 **10** Se pretendemos não ter pecado, fazemo-lo mentiroso, e a sua palavra não está em nós.  
 
 ## Capítulo 2
@@ -112,7 +112,7 @@
 **12** Aquele que tem o Filho, tem a vida; aquele que não tem o Filho de Deus, não tem a vida.  
 **13** Estas coisas vos escrevo, para que saibais que tendes a vida eterna, vós, que credes no nome do Filho de Deus.  
 **14** Esta é a confiança que temos nele: que qualquer coisa que lhe pedimos, conforme à sua vontade, ele nos ouve.  
-**15** Sabemos que nos ouve em tudo quanto Ihe pedimos; sabemos que obtemos o que lhe tivermos pedido.  
+**15** Sabemos que nos ouve em tudo quanto lhe pedimos; sabemos que obtemos o que lhe tivermos pedido.  
 **16** O que sabe que seu irmão comete um pecado, que não é de morte, ore (por ele), e Deus lhe dará a vida — falo daqueles cujo pecado não conduz à morte. Há um pecado que conduz à morte; não digo que rogue alguém por ele (com tanta confiança de ser ouvido).  
 **17** Toda a iniquidade é pecado, e há pecado que não conduz à morte.  
 **18** Sabemos que todo aquele que nasceu de Deus, não peca: (Jesus) o gerado de Deus o guarda, e o maligno não lhe toca.  

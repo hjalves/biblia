@@ -108,8 +108,8 @@
 **16** Desta sorte, desde agora, a ninguém conhecemos segundo a carne. E, se (houve tempo em que) conhecemos a Cristo segundo a carne, agora já o não conhecemos (deste modo).  
 **17** Se algum, pois, está em Cristo (por meio do batismo), é uma nova criatura: passaram as coisas velhas; eis que tudo se fez novo.  
 **18** Tudo isso vem de Deus, que nos reconciliou consigo por Cristo e nos deu a nós o ministério da reconciliação,  
-**19** porque era Deus que reconciliava consigo o mundo em Cristo, não Ihes imputando os seus pecados e encarregando-nos a nós da palavra de reconciliação,  
-**20** Logo, nós desempenhamos as funções de embaixadores por Cristo, exortando-voe Deus por meio de nós. Por Cristo vos rogamos, reconciliai-vos com Deus.  
+**19** porque era Deus que reconciliava consigo o mundo em Cristo, não lhes imputando os seus pecados e encarregando-nos a nós da palavra de reconciliação,  
+**20** Logo, nós desempenhamos as funções de embaixadores por Cristo, exortando-vos Deus por meio de nós. Por Cristo vos rogamos, reconciliai-vos com Deus.  
 **21** Aquele que não tinha conhecido pecado, (Deus) o fez pecado por nós, para que nos tornássemos nele justiça de Deus.  
 
 ## Capítulo 6
@@ -163,7 +163,7 @@
 **7** Mas, assim como em tudo abundais; na fé, na eloquência, na ciência, em toda a solicitude e na caridade para connosco — assim também abundeis nesta sua obra de generosidade.  
 **8** Não falo como quem manda, experimentar com (o exemplo da) solicitude dos outros a sinceridade da vossa caridade.  
 **9** Com efeito conheceis a liberalidade de Nosso Senhor Jesus Cristo, que, sendo rico, se fez pobre por vós, a fim de que fósseis ricos pela sua pobreza.  
-**10** lsto é um conselho que vos dou, porque é útil para vós, que (primeiro) começastes não só a fazer, mas também a desejar (tirar a coleta) desde o ano passado.  
+**10** Isto é um conselho que vos dou, porque é útil para vós, que (primeiro) começastes não só a fazer, mas também a desejar (tirar a coleta) desde o ano passado.  
 **11** Agora, pois, acabai a obra, para que, assim como a vontade está pronta para querer, também o esteja para cumprir, segundo os vossos meios.  
 **12** Se a vontade está pronta para dar, é aceite segundo aquilo que se tem, não segundo aquilo que se não tem.  
 **13** Não se pretende que os outros tenham alivio e vós fiqueis em aflição, mas que haja igualdade.  

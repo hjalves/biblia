@@ -5,7 +5,7 @@
 **1** Paulo, Silvano e Timóteo, à Igreja dos Tessalonicenses, que está em Deus Pai e no Senhor Jesus Cristo.  
 **2** Graça e paz vos sejam dadas. Damos sempre graças a Deus por todos vós, fazendo continuamente memória de vós nas nossas orações,  
 **3** lembrando-nos, diante de Deus, nosso Pai, da obra da vossa fé, do trabalho da vossa caridade e da constância da vossa esperança em Nosso Senhor Jesus Cristo.  
-**4** Com efeito sabemos, irmãos amados de Deus, que fostes escolhidos (para participar dos beneficias da Redenção),  
+**4** Com efeito sabemos, irmãos amados de Deus, que fostes escolhidos (para participar dos benefícios da Redenção),  
 **5** porque o nosso Evangelho não vos foi pregado somente com palavras, mas também com poder, com o Espírito Santo e com perfeita segurança. Com efeito, sabeis quais nós fomos entre vós, por amor de vós.  
 **6** Por vossa parte, fizestes-vos imitadores nossos e do Senhor, recebendo a palavra no meio de muita tribulação, com a alegria do Espírito Santo,  
 **7** de modo que vos tornastes modelo para todos os crentes da Macedónia e da Acaia.  
@@ -45,7 +45,7 @@
 **5** Por isso, não podendo eu sofrer mais demora, enviei a buscar notícias da vossa fé, temendo que o tentador vos tenha tentado e que se torne inútil o nosso trabalho.  
 **6** Mas agora, voltando Timóteo a nós, depois de vos ter visitado, e trazendo-nos boas novas da vossa fé e caridade, da vossa sempre afetuosa lembrança de nós, do vosso desejo de nos tornar a ver, desejo igual ao nosso (de vos tornar a ver, a vós)  
 **7** com isto temos sido consolados a vosso respeito, pela vossa fé, no meio de toda a nossa angústia e tribulação,  
-**8** porque agora (podemos dizer que) vivem os, visto que vós estais firmes no Senhor.  
+**8** porque agora (podemos dizer que) vivemos, visto que vós estais firmes no Senhor.  
 **9** Que ação de graças podemos dar a Deus por vós, por toda a alegria que gozamos por vossa causa diante do nosso Deus?  
 **10** Pedimos-lhe de noite e de dia, com a maior instância, que cheguemos a ver a vossa face e que completemos o que falta à vossa fé.  
 **11** Que o mesmo Deus, Pai nosso, e Nosso Senhor Jesus Cristo, encaminhem os nossos passos para vós.  
@@ -84,7 +84,7 @@
 **7** Os que dormem, dormem de noite; e os que se embriagam, embriagam-se de noite.  
 **8** Mas nós, que somos (filhos) do dia (isto é da luz da fé), sejamos sóbrios, estando revestidos da couraça da fé e da caridade, e (tendo) por elmo a esperança da salvação,  
 **9** pois Deus não nos destinou para a ira, mas para alcançar a salvação, por Nosso Senhor Jesus Cristo,  
-**10** que morreu por nós, afim de que, ou vigiemos ou durmamos, vivamos juntamente com ele.  
+**10** que morreu por nós, a fim de que, ou vigiemos ou durmamos, vivamos juntamente com ele.  
 **11** Pelo que, consolai-vos mutuamente e edificai-vos uns aos outros, como já fazeis.  
 **12** Nós vos suplicamos, irmãos, que tenhais consideração com aqueles que trabalham entre vós, que vos governam no Senhor e vos admoestam.  
 **13** Tende com eles uma caridade particular, por causa das funções que desempenham. Vivei em paz entre vós.  

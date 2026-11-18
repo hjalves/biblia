@@ -7,7 +7,7 @@
 **3** (Oseias) foi e tomou por sua mulher a Gomer, filha de Deblaim, a qual concebeu e lhe deu à luz um filho.  
 **4** O Senhor disse a Oseias: Põe-lhe o nome de Jezrael, porque dentro de pouco tempo eu tirarei vingança da casa de Jeú, pelo sangue (que derramou na cidade) de Jezrael, e porei fim à realeza da casa de Israel.  
 **5** Naquele dia quebrarei o arco (ou poder militar) de Israel no vale de Jezrael.  
-**6** Ela concebeu outra vez e deu à luz uma filha. O Senhor disse a Oseias: Põe-lhe o nome de Sem-misericórdla (ou: Aquela de que se não tem pena) — porque não me tornarei mais a compadecer da casa de Israel, antes a esquecerei inteiramente.  
+**6** Ela concebeu outra vez e deu à luz uma filha. O Senhor disse a Oseias: Põe-lhe o nome de Sem-misericórdia (ou: Aquela de que se não tem pena) — porque não me tornarei mais a compadecer da casa de Israel, antes a esquecerei inteiramente.  
 **7** Compadecer-me-ei, porém, da casa de Judá; salvá-los-ei por meio do Senhor seu Deus, e não pelo arco, nem pela espada, nem pela guerra, nem pelos cavalos, nem pelos cavaleiros.  
 **8** (Gomer) desquitou a sua filha, chamada Sem-misericórdia, concebeu outra vez e deu à luz um filho.  
 **9** O Senhor disse a Oseias: Põe-lhe o nome de Não-meu-povo, porque vós já não sois meu povo, e eu não sou mais vosso (Deus).  
@@ -163,7 +163,7 @@
 
 **1** Israel era uma vinha frondosa, que dava os frutos correspondentes. Quanto mais abundou em frutos, tanto mais multiplicou os seus altares; quanto mais rica era a terra, mais ricas estelas construía.  
 **2** É falso o seu coração: vão sofrer o castigo devido. Ele mesmo (o Senhor) quebrará os seus altares e deitará abaixo as suas estelas.  
-**3** Dentro em breve eles dirão: Nós não temos rei (que possa salvarmos), porque não tememos o Senhor; e que faria por nós o rei (querendo Deus castigarmos)?  
+**3** Dentro em breve eles dirão: Nós não temos rei (que possa salvar-nos), porque não tememos o Senhor; e que faria por nós o rei (querendo Deus castigarmos)?  
 **4** Proferem palavras vãs, juram falso, concluem alianças, mas o castigo de (Deus) brotará como erva venenosa sobre os sulcos dum campo (semeado).  
 **5** Os habitantes da Samaria tremerão por causa do bezerro, (de ouro) de Betaven. O seu povo (que adorava este ídolo) toma luto por ele, e o bando dos seus sacerdotes faz lamentações por causa de a sua riqueza ter sido transferida para longe dele.1  
 **6** Ele também será levado para a Assíria, como um presente ao grande rei. A confusão apoderar-se-á de Efraim e Israel ficará envergonhado por ter seguido os seus caprichos.  
@@ -206,7 +206,7 @@
 **10** Também falei aos profetas e multipliquei as visões; por meio dos mesmos profetas apresentei-vos parábolas.  
 **11** Se os galaaditas são ímpios, serão reduzidos a nada, em Galgala, onde imolam touros; além disso os seus altares se transformarão em montões de escombros sobre os sulcos dos campos.  
 **12** Jacob fugiu para a planície de Aram, Israel serviu (a Labão) para adquirir uma esposa, para adquirir uma mulher guardou o gado.  
-**13** O Senhor fez sair Israel do Egito por meio dum profeta, e por melo dum profeta o povo foi guardado.  
+**13** O Senhor fez sair Israel do Egito por meio dum profeta, e por meio dum profeta o povo foi guardado.  
 **14** (Não obstante) Efraim provocou a ira (divina) mas o sangue que derramou recairá sobre ele, e o seu Senhor lhe dará (a paga) do seu ultraje.  
 
 ## Capítulo 13

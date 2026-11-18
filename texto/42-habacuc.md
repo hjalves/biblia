@@ -22,7 +22,7 @@
 
 ## Capítulo 2
 
-**1** Estarei alerta (entretanto), fazendo a minha sentinela (como projeta de Israel), e permanecerei de pé sobre as fortificações; olharei atentamente para ver o que me vai dizer o Senhor e o que hei-de responder à advertência recebida.  
+**1** Estarei alerta (entretanto), fazendo a minha sentinela (como profeta de Israel), e permanecerei de pé sobre as fortificações; olharei atentamente para ver o que me vai dizer o Senhor e o que hei-de responder à advertência recebida.  
 **2** Então respondeu-me o Senhor, dizendo; Escreve o que vês e nota-o sobre tabuinhas (de escrever), para que se possa ler correntemente.  
 **3** Porque a visão é apenas para o tempo devido, mas enfim ela se cumprirá, não faltará; se tardar, espera-a, porque infalivelmente virá, não faltará.  
 **4** Eis que sucumbe o que não tem a alma reta, mas o justo viverá pela sua fidelidade.  

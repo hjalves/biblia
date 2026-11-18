@@ -33,11 +33,11 @@
 **29** (foram recenseados) cinquenta e quatro mil e quatrocentos.  
 **30** Dos filhos de Zabulon, segundo as suas famílias, segundo as suas casas patriarcais, contando os nomes de cada um deles, dos vinte anos para cima, de todos os que podiam ir à guerra,  
 **31** (foram recenseados) cinquenta e sete mil e quatrocentos.  
-**32** Dois filhos de José: dos descendentes de Efraim, seguindo as suas famílias, e seguindo as suas casas patriarcais, contando os nomes de cada um, dos vinte anos para cima, de todos os que podiam ir à guerra,  
+**32** Dois filhos de José: dos descendentes de Efraim, seguindo as suas famílias, e seguindo as suas casas patriarcais, contando os nomes de cada um, deles dos vinte anos para cima, de todos os que podiam ir à guerra,  
 **33** (foram recenseados) quarenta mil e quinhentos.  
 **34** Dos descendentes de Manassés, segundo as suas famílias, segundo as suas casas patriarcais, contando o nome de cada um deles, dos vinte anos para cima, de todos os que podiam ir à guerra, (foram recenseados)  
 **35** trinta e dois mil e duzentos.  
-**36** Dos filhos de Benjamim, segundo as suas famílias, casas patriarcais, apontando os nomes de cada um, dos vinte anos para cima, de todos os que podiam ir à guerra,  
+**36** Dos filhos de Benjamim, segundo as suas famílias, casas patriarcais, apontando os nomes de cada um, deles dos vinte anos para cima, de todos os que podiam ir à guerra,  
 **37** (foram recenseados) trinta e cinco mil e quatrocentos.  
 **38** Dos filhos de Dan, segundo as suas famílias, segundo as suas casas patriarcais, apontando o nome de cada um, dos vinte anos para cima, de todos os que podiam ir à guerra,  
 **39** (foram recenseados) sessenta e dois mil e setecentos.  
@@ -150,7 +150,7 @@
 
 ## Capítulo 4
 
-**1** O Senhor falou a Moisés e Aarão, dizendo:  
+**1** O Senhor falou a Moisés e a Aarão, dizendo:  
 **2** Faze a contagem dos filhos de Caath, dentre os Levitas, segundo as suas casas e as suas famílias,  
 **3** desde a idade de trinta anos para cima até aos cinquenta, de todos os que entram para assistirem e ministrarem no tabernáculo da reunião.  
 **4** Este é o serviço dos filhos de Caath, no tabernáculo da reunião: referir-se-á a coisas santíssimas.  
@@ -179,7 +179,7 @@
 **27** levá-las-ão os filhos de Gerson, debaixo das ordens de Aarão e de seus filhos, e cada um saberá que serviço deve prestar.  
 **28** Este é o serviço da família dos Gersonitas no tabernáculo da reunião, e estarão sujeitos a Itamar, filho do sacerdote Aarão.  
 **29** Contarás também os filhos de Merari, segundo as suas famílias e as casas de seus pais,  
-**30** desde os trinta anos para cima até aos cinquenta, todos que têm algum ofício, que prestam serviço no tabernáculo da reunião.  
+**30** desde os trinta anos para cima até aos cinquenta, todos os que têm algum ofício, que prestam serviço no tabernáculo da reunião.  
 **31** Estes são os seus cargos: Levarão as tábuas do tabernáculo, os seus varais, as colunas, as suas bases,  
 **32** e também as colunas que estão ao redor do átrio com as suas bases, estacas e cordas. Receberão por conta todos os vasos e alfaias, e assim as levarão.  
 **33** Este é o serviço da família dos Meraritas e o seu ministério no tabernáculo da reunião; estarão às ordens de Itamar, filho do sacerdote Aarão,  
@@ -297,7 +297,7 @@
 **29** para o sacrifico pacífico, dois bois, cinco carneiros, cinco bodes, cindo cordeiros de um ano. Esta foi a oferta de Eliab, filho de Helon,  
 **30** Ao quarto dia Elisur, filho de Sedeur, e príncipe dos filhos de Ruben,  
 **31** ofereceu um prato de prata, que pesava cento e trinta siclos, uma taça de prata, que tinha setenta siclos pelo peso do santuário, ambos cheias de flor de farinha borrifada com azeite para o sacrifício.  
-**32** um pequeno vaso de ouro do peso de dez sidos, cheio de incenso;  
+**32** um pequeno vaso de ouro do peso de dez siclos, cheio de incenso;  
 **33** um boi da manada, um carneiro e um cordeiro de um ano, para o holocausto;  
 **34** um bode pelo pecado;  
 **35** para o sacrifício pacifico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano. Esta foi a oferta de Elisur, filho de Sodeur.  
@@ -316,7 +316,7 @@
 **48** Ao sétimo dia Elisama, filho de Amiud, príncipe dos filhos de Efraim,  
 **49** ofereceu um prato de prata, que pesava cento e trinta siclos, uma taça de prata, que tinha setenta siclos, pelo peso do santuário, ambos cheios de flor de farinha borrifada com azeite para o sacrifício;  
 **50** um pequeno vaso de ouro do peso de dez siclos, cheio de incenso;  
-**51** um boi da mamada, um carneiro e um cordeiro de um ano, para o holocausto;  
+**51** um boi da manada, um carneiro e um cordeiro de um ano, para o holocausto;  
 **52** um bode pelo pecado;  
 **53** para o sacrifício pacifico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano. Este foi a oferta de Elisama, filho de Amiud.  
 **54** Ao oitavo dia Gamaliel, filho de Fadassur, príncipe dos filhos de Manassés  
@@ -349,7 +349,7 @@
 **81** um boi da manada, um carneiro e um cordeiro de um ano, para o holocausto:  
 **82** um bode pelo pecado;  
 **83** para o sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano. Esta foi a oferta de Aira, filho de Enan.  
-**84** As coisais, pois, oferecidas pelos príncipes de Israel, na dedicação do altar, no dia em que foi consagrado, foram estas; doze pratos de prata, doze taças de prata, doze pequenos vasos de ouro,  
+**84** As coisas, pois, oferecidas pelos príncipes de Israel, na dedicação do altar, no dia em que foi consagrado, foram estas; doze pratos de prata, doze taças de prata, doze pequenos vasos de ouro,  
 **85** pesando cada prato cento e trinta siclos, e cada taça setenta, de sorte que todos os vasos de prata juntos pesavam dois mil e quatrocentos siclos, pelo peso do santuário.  
 **86** os doze pequenos vasos de ouro cheios de incenso, de dez siclos cada um, pelo peso do santuário, pesavam todos juntos cento e vinte siclos de ouro.  
 **87** Total dos animais para o holocausto: Doze bois da manada, doze carneiros, doze cordeiros de um ano com as suas libações, doze bodes pelo pecado.  
@@ -468,7 +468,7 @@
 **14** Eu só não posso suportar todo este povo, porque se me torna pesado.  
 **15** Se te parece outra coisa, peço-te que me tires a vida, e que ache eu graça diante dos teus olhos, para me não ver oprimido de tão grandes males.  
 **16** O Senhor disse a Moisés: Junta-me setenta homens entre os anciães de Israel, que tu saibas serem anciães do povo e seus principais; conduzi-los-ás à porta do tabernáculo da reunião, e ali os farás esperar contigo,  
-**17** para que eu desça, te fale, tome do seu Espírito e Iho dê a eles, para que sustentem contigo o peso do povo, e não sejas tu só o agravado.  
+**17** para que eu desça, te fale, tome do seu Espírito e lho dê a eles, para que sustentem contigo o peso do povo, e não sejas tu só o agravado.  
 **18** Dirás também ao povo: Santificai-vos, que amanhã comereis carnes, pois vos ouvi dizer. Quem nos dará a comer carnes? Nós estávamos bem no Egito. Assim o Senhor vos dará carnes que comais,  
 **19** não só um dia, nem dois, nem cinco ou dez, nem mesmo vinte,  
 **20** mas um mês inteiro, até elas vos saírem pela boca, até vos causarem enjoo, visto que rejeitastes o Senhor, que está no meio de vós, e chorastes no meio dele, dizendo: Por que saímos nós do Egito?  
@@ -493,7 +493,7 @@
 **2** e disseram: Porventura o Senhor falou só por Moisés? Não nos falou ele igualmente a nós? O Senhor ouviu isto.  
 **3** Moisés, porém, era o mais manso de todos os homens que havia na terra.  
 **4** Disse imediatamente o Senhor a Moisés, a Aarão e a Maria: Ide todos três sós ao tabernáculo da reunião. Logo que lá chegaram,  
-**5** o Senhor desceu na coluna de nuvem e panou à entrada do tabernáculo, chamando Aarão e Maria. Tendo-se eles aproximado,  
+**5** o Senhor desceu na coluna de nuvem e parou à entrada do tabernáculo, chamando Aarão e Maria. Tendo-se eles aproximado,  
 **6** disse-lhes: Ouvi as minhas palavras: Se entre vós algum é profeta do Senhor, eu lhe aparecerei em visão, ou lhe falarei em sonhos.  
 **7** Mas não é assim a respeito do meu servo Moisés, o qual é fidelíssimo em toda a minha casa.  
 **8** A ele eu falo cara a cara: ele vê o Senhor claramente, e não sob enigmas e figuras. Por que não temestes vós, pois, falar contra o meu servo Moisés?  
@@ -557,7 +557,7 @@
 **11** O Senhor disse a Moisés: Até quando me há-de ultrajar este povo? Até quando não me acreditarão, depois de todos os prodígios que tenho feito diante deles?  
 **12** Eu os ferirei com peste, exterminá-los-ei, e a ti far-te-ei príncipe duma grande nação, mais forte do que esta é.  
 **13** Moisés disse ao Senhor: Os Egípcios, do meio dos quais tiraste este povo, souberam que, pelo teu poder, o fizeste, e contaram isso mesmo  
-**14** aos habitantes desta terra. Todos sabem que tu, Senhor, estás no meio deste povo e és visto face a face, que a tua nuvem os protege, e que vais adiante deles, de dia numa coluna de nuvem, e de noite muna coluna de fogo.  
+**14** aos habitantes desta terra. Todos sabem que tu, Senhor, estás no meio deste povo e és visto face a face, que a tua nuvem os protege, e que vais adiante deles, de dia numa coluna de nuvem, e de noite numa coluna de fogo.  
 **15** Se fizeres morrer uma tão grande multidão como (se fora) um só homem, esses povos, a que chegou a tua fama, dirão:  
 **16** Ele não pôde introduzir o povo no país, que lhe tinha prometido com juramento, por isso os matou no deserto.  
 **17** Seja, pois, glorificada a fortaleza do Senhor como tu juraste, dizendo:  
@@ -742,7 +742,7 @@
 
 **1** O Senhor falou a Moisés e a Aarão, dizendo:  
 **2** Esta é a cerimónia da vítima que o Senhor ordenou. Ordena aos filhos de Israel que te tragam uma vaca vermelha, perfeita, na qual não haja nenhum defeito, e que não tenha (ainda) levado o jugo:  
-**3** entregá-Ia-eis ao sacerdote Eleázaro, o qual, depois de a ter tirado para fora do campo, a imolará à vista de todos;  
+**3** entregá-la-eis ao sacerdote Eleázaro, o qual, depois de a ter tirado para fora do campo, a imolará à vista de todos;  
 **4** molhando o dedo no sangue dela, fará (com ele) sete aspersões do lado da porta do tabernáculo,  
 **5** e depois a queimará à vista de todos, dando às chamas tanto a pele e a carne, como o sangue e os excrementos.  
 **6** O sacerdote lançará também no fogo, que queima a vaca, pau de cedro, hissopo e escarlate tinto duas vezes.  
@@ -787,7 +787,7 @@
 **20** Porém ele respondeu: Não passarás. E Edom marchou logo ao encontro dele com uma infinita multidão, e com mão forte.  
 **21** Não quis condescender com o pedido de dar passagem pelo seu país; por isso Israel desviou-se dele.  
 **22** Tendo levantado os acampamentos de Cades, foram ao monte Hor, que está nos confins da terra de Edom,  
-**23** Onde o Senhor falou a Moisés e Aarão,  
+**23** Onde o Senhor falou a Moisés e a Aarão,  
 **24** dizendo: Aarão vai juntar-se ao seu povo, porque ele não entrará na terra que eu dei aos filhos de Israel, visto que foi incrédulo às minhas palavras nas águas da Contradição.  
 **25** Toma Aarão e seu filho com ele, e leva-os ao monte Hor.  
 **26** Depois de teres despido o pai das suas vestes, revestirás com elas Eleázaro, seu filho: Aarão será reunido (a seus pais), e ai morrerá.  
@@ -951,7 +951,7 @@
 **8** entrou após o Israelita até à parte posterior da tenda e atravessou o ventre de ambos, do homem e da mulher. Então cessou a praga sobre os filhos de Israel.  
 **9** Foram mortos vinte e quatro mil homens com aquela praga.  
 **10** O Senhor disse a Moisés:  
-**11** Fineias, filho de Eleázaro, filho do sacerdote Aarão, afagou a minha ira dos filhos de Israel, porque foi animado do meu zelo contra eles; por isso, eu não extingui os filhos de Israel no furor do meu zelo.  
+**11** Fineias, filho de Eleázaro, filho do sacerdote Aarão, afastou a minha ira dos filhos de Israel, porque foi animado do meu zelo contra eles; por isso, eu não extingui os filhos de Israel no furor do meu zelo.  
 **12** Por isso dize-lhe: Eu lhe dou a paz da minha aliança,  
 **13** que será tanto para ele como para sua descendência um pacto de perpétuo sacerdócio, porque foi zeloso pelo seu Deus e expiou a maldade dos filhos de Israel.  
 **14** O Israelita, que foi morto com a Madianita, chamava-se Zambri, filho de Salu, chefe de uma família da tribo de Simeão.  
@@ -1119,7 +1119,7 @@
 **27** fareis, segundo o rito, as oblações e as libações pelos bezerros, pelos carneiros e pelos cordeiros.  
 **28** Oferecereis um bode pelo pecado, além do holocausto perpétuo com a sua oblação e as suas libações.  
 **29** No sexto dia oferecereis oito bezerros, dois carneiros, catorze cordeiros de um ano, sem defeito:  
-**30** fareis, segundo o rifo, as oblações e as libações pelos bezerros, pelos carneiros e pelos cordeiros.  
+**30** fareis, segundo o rito, as oblações e as libações pelos bezerros, pelos carneiros e pelos cordeiros.  
 **31** Oferecereis um bode pelo pecado, além do holocausto perpétuo, com a sua oblação e as suas libações.  
 **32** No sétimo dia oferecereis sete bezerros, dois carneiros e catorze cordeiros de um ano, sem defeito;  
 **33** fareis, segundo o rito, as oblações e as libações pelos bezerros, pelos carneiros e pelos cordeiros.  
@@ -1217,7 +1217,7 @@
 **6** Moisés respondeu-lhes: Irão vossos irmãos para a batalha, e vós ficareis aqui?  
 **7** Por que quereis tirar ânimo aos filhos de Israel, para que não passem ao país que o Senhor lhes dará?  
 **8** Não foi assim que procederam os vossos pais, quando eu os mandei de Cadesbarne a reconhecer a terra?  
-**9** Depois de terem chegado ao Vale do Cacto, depois de terem percorrido toda aquela região, tiraram a coragem aos filhos de Israel, para que não entrassem na terra que o Senhor lhes deu.  
+**9** Depois de terem chegado ao Vale do Cacho, depois de terem percorrido toda aquela região, tiraram a coragem aos filhos de Israel, para que não entrassem na terra que o Senhor lhes deu.  
 **10** Ele, irado, jurou dizendo:  
 **11** Estes homens, que saíram do Egito, de vinte anos para cima, não verão a terra que eu prometi com juramento a Abraão, a Isaac e a Jacob, porque não quiseram seguir-me,  
 **12** exceto Caleb, filho de Jefone Cenezeu, e Josué, filho de Nun; estes cumpriram a minha vontade.  
@@ -1236,7 +1236,7 @@
 **25** Os filhos de Gad e de Ruben disseram a Moisés: Somos teus servos, teremos o que nosso Senhor manda.  
 **26** Deixaremos nas cidades de Galaad os nossos filhinhos, mulheres, rebanhos e gados;  
 **27** nós todos, porém, teus servos, iremos prontos para a guerra, como tu, Senhor, dizes.  
-**28** Moisés, pois, ordenou ao sacerdote Eleáraro, a Josué, filho de Nun, e aos chefes de família das tribos de Israel, dizendo-lhes:  
+**28** Moisés, pois, ordenou ao sacerdote Eleázaro, a Josué, filho de Nun, e aos chefes de família das tribos de Israel, dizendo-lhes:  
 **29** Se os filhos de Gad e os filhos de Ruben passarem convosco o Jordão todos armados para pelejar diante do Senhor, e se vos for sujeita, a terra, dai-lhes a posse de Galaad.  
 **30** Mas, se eles não quiserem passar armados convosco à terra de Canaan, recebam entre vós os lugares da sua morada.  
 **31** Os filhos de Gad e os filhos de Ruben responderam: Faremos como o Senhor disse a seus servos.  
@@ -1329,7 +1329,7 @@
 **14** porque a tribo dos filhos de Ruben, segundo ás suas famílias, e a tribo dos filhos de Gad, segundo o número das suas famílias, e também a meia tribo de Manassés,  
 **15** isto é, duas tribos e meia, receberam a sua parte daquém do Jordão defronte de Jericó, para a banda do oriente.  
 **16** O Senhor disse a Moisés:  
-**17** Estes são os nomes dos homens, que vos dividirão a ferra: O sacerdote Eleázaro e Josué, filho de Num.  
+**17** Estes são os nomes dos homens, que vos dividirão a terra: O sacerdote Eleázaro e Josué, filho de Num.  
 **18** Tomareis também um príncipe de cada tribo,  
 **19** cujos nomes são estes: Da tribo de Judá, Caleb, filho de Jefone:  
 **20** da tribo de Simeão, Samuel, filho de Amiud;  

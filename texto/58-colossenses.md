@@ -34,7 +34,7 @@
 
 ## Capítulo 2
 
-**1** Quero, pois, que saibais qual o combate que sustento por vós e por aqueles que estão em Laodiceia, pelas e por todos os que não viram a minha face na carne,  
+**1** Quero, pois, que saibais qual o combate que sustento por vós e por aqueles que estão em Laodiceia, e por todos os que não viram a minha face na carne,  
 **2** a fim de que os seus corações sejam consolados, e eles estejam unidos na caridade e na abundância de uma perfeita inteligência, para conhecerem o mistério de Deus, que é Cristo,  
 **3** no qual estão encerrados todos os tesouros da sabedoria e da ciência.  
 **4** Digo-vos isto, para que ninguém vos engane com discursos subtis,  

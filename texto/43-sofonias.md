@@ -2,7 +2,7 @@
 
 ## Capítulo 1
 
-**1** Palavra do Senhor, que foi dirigida a Sofonias, filho de Cusi, filho de Godolias, filho de Amarias, filho de Bzequias, no tempo de Josias, filho de Amon, rei de Judá.  
+**1** Palavra do Senhor, que foi dirigida a Sofonias, filho de Cusi, filho de Godolias, filho de Amarias, filho de Ezequias, no tempo de Josias, filho de Amon, rei de Judá.  
 **2** Destruirei tudo sobre a face da terra, diz o Senhor;  
 **3** destruirei os homens e os animais, destruirei as aves do céu e os peixes do mar; farei desaparecer os escândalos com os ímpios; exterminarei da terra os homens, diz o Senhor.  
 **4** Estenderei a minha mão contra Judá e contra todos os habitantes de Jerusalém; exterminarei deste lugar os restos (da idolatria) de Baal, até os nomes (ou a memória) dos seus ministros e sacerdotes;  

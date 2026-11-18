@@ -24,7 +24,7 @@
 **20** designado (por Deus para nosso Salvador) antes da criação do mundo, e manifestado nos últimos tempos por amor de vós.  
 **21** Por ele tendes fé em Deus, o qual o ressuscitou dos mortos e o glorificou, de maneira que a vossa fé e a vossa esperança estejam em Deus.  
 **22** Purificando as vossas almas na obediência à verdade, para vos amardes como irmãos. Do intimo do coração amai-vos, pois, intensamente uns aos outros,  
-**23** renascidos como sois (para um a vida nova), não de uma semente corruptível, mas incorruptível: a palavra de Deus, que vive e permanece eternamente.  
+**23** renascidos como sois (para uma vida nova), não de uma semente corruptível, mas incorruptível: a palavra de Deus, que vive e permanece eternamente.  
 **24** Com efeito, toda a carne é como a erva, e toda a sua glória como a flor da erva; seca-se a erva e cai a sua flor,  
 **25** mas a palavra do Senhor permanece eternamente (Is. 40, 6-8). Ora esta palavra é a que vos foi anunciada.  
 

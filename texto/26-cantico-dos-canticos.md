@@ -81,7 +81,7 @@
 **5** Levantei-me para abrir ao meu amado: as minhas mãos destilaram mirra, e os meus dedos a mirra mais preciosa, sobre a aldrava da fechadura.  
 **6** Abri a minha porta ao meu amado, tirando-lhe o ferrolho, mas ele já se tinha ido, já tinha desaparecido. A minha alma ficava fora de si ao som da sua voz. Busquei-o, mas não o achei; chamei-o, e ele não me respondeu.  
 **7** Encontraram-me os guardas que rondam a cidade, bateram-me, feriram-me. Tiraram-me o meu manto, os guardas das muralhas.  
-**8** Eu vos conjuro, filhas de Jerusalém, que, se encontrardes o meu amado, Ihe façais saber que desfaleço de amor.  
+**8** Eu vos conjuro, filhas de Jerusalém, que, se encontrardes o meu amado, lhe façais saber que desfaleço de amor.  
 **9** Que tem o teu amado a mais que (qualquer) outro amado, ó formosíssima entre todas as mulheres? Que tem o teu amado a mais que (qualquer) outro, para que assim nos conjures (a que o procuremos)?  
 **10** O meu amado é cândido e rubicundo, escolhido entre milhares.  
 **11** A sua cabeça é do oiro mais puro: as suas madeixas flexíveis são negras como um corvo.  

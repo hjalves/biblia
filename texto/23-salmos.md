@@ -160,7 +160,7 @@
 ## Capítulo 10
 
 **1** Ao mestre do coro. De Davide.  
-**2** Ao Senhor me acolho; por que dizeis (pois) à minha a alma: "Foge para o monte como a ave?" (1)  
+**2** Ao Senhor me acolho; por que dizeis (pois) à minha alma: "Foge para o monte como a ave?" (1)  
 **3** Eis que os ímpios retesam o seu arco, ajustam a sua flecha sobre a corda, para dispararem às ocultas contra os que são de coração reto. (2)  
 **4** Quando se desmoronam os fundamentos, que pode fazer o justo? (3)  
 **5** O Senhor habita no seu santo templo, o trono do Senhor está no céu. Os seus olhos observam, as suas pálpebras examinam os filhos dos homens. (4)  
@@ -713,7 +713,7 @@
 **3** Fiquei mudo, em silêncio, privado da felicidade, mas (com isto) a minha dor exacerbou-se.  
 **4** O meu coração inflamou-se dentro de mim; no decorrer da minha reflexão, um fogo se ateou  
 **5** falei com a minha língua. Faz-me conhecer, Senhor, o meu fim, qual é o número dos meus dias, para que eu saiba quanto sou caduco.  
-**6** Eis que fixaste aos meus dias a medida de poucos palmos, e a minha vida é como nada diante de ti: sim, todo o homem não é mais que sopro.  
+**6** Eis que fixaste aos meus dias a medida de poucos palmos, e a minha vida é como nada diante de ti: sim, todo o homem não é mais que um sopro.  
 **7** O homem passa como uma simples sombra, é em vão que se afadiga; entesoura, e não sabe quem virá a usufruir (os seus bens).  
 **8** E agora. Senhor, que posso eu esperar? A minha confiança está em ti.  
 **9** Livra-me de todas as minhas iniquidades, não me entregues ao opróbrio do insensato.  
@@ -1072,7 +1072,7 @@
 **4** Eis, com efeito, que armam ciladas à minha vida, conspiram contra mim os poderosos. Não há crime em mim nem pecado, ó Senhor:  
 **5** sem que eu tenha culpa, irrompem e agridem-me. Desperta, vem ao meu encontro e considera (a minha inocência),  
 **6** pois tu, Senhor dos exércitos, és o Deus de Israel. Desperta, castiga todos esses povos, não tenhas piedade de nenhum desses pérfidos.  
-**7** Voltam à tarde, ladram com o cães e percorrem a cidade;  
+**7** Voltam à tarde, ladram como cães e percorrem a cidade;  
 **8** Eis que se vangloriam com a sua boca, há injúrias nos seus lábios: "Pois quem é que nos ouve?"  
 **9** Mas tu, Senhor, estás a rir-te deles, zombas de todas essas gentes.  
 **10** Força minha, para ti me volto, porque tu, ó Deus, és a minha cidadela  
@@ -1080,7 +1080,7 @@
 **12** Mata-os, ó Deus; para que não sirvam de tropeço ao meu povo, desbarata-os e derriba-os com a tua força, ó Senhor nosso escudo.  
 **13** Um pecado da sua boca, é cada palavra dos seus lábios; e fiquem presos na sua mesma soberba, e nas execrações e mentiras que dizem.  
 **14** Extermina-os na tua indignação, extermina-os, para que não mais existam, a fim de que se saiba que Deus reina sobre Jacob e até aos confins da terra.  
-**15** Voltam à tarde; ladram com o cães e percorrem a cidade;  
+**15** Voltam à tarde; ladram como cães e percorrem a cidade;  
 **16** Vagueiam à busca de comer; se não se fartarem, soltam uivos.  
 **17** Eu, porém, contarei a tua fortaleza, e de manhã exultarei em tua misericórdia, porque foste um amparo para mim, e um refúgio no dia da minha angústia.  
 **18** Eu te cantarei salmos, força minha, porque tu, ó Deus, és a minha defesa, o meu Deus, a minha misericórdia.  

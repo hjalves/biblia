@@ -65,7 +65,7 @@
 **20** Por que foi concedida a luz aos infelizes, a vida aos que estão em amargura de ânimo,  
 **21** os quais esperam a morte que não vem, que a buscam mais ardentemente que um tesouro,  
 **22** e ficam transportados de alegria quando encontram o sepulcro?  
-**23** (Por que foi dada a vida) a um homem (conto eu) que não sabe o caminho, e a quem Deus cercou completamente?  
+**23** (Por que foi dada a vida) a um homem (como eu) que não sabe o caminho, e a quem Deus cercou completamente?  
 **24** Suspiro em vez de comer, e os meus gemidos derramam-se como águas.  
 **25** O mal que eu temo, acontece-me, o que receio, cai sobre mim.  
 **26** Não tenho paz nem sossego, não tenho repouso, mas apenas perturbação.  
@@ -262,7 +262,7 @@
 **14** Se eu peco, tu me observas, e não deixarás sem castigo a minha culpa.  
 **15** Se for mau, desgraçado de mim? Mas, se for justo, não levantarei cabeça, farto como estou de confusão e de miséria.  
 **16** Se me levanto, tu me apanharás como a um leão, e me tornarás a atormentar dum modo terrível.  
-**17** Tu renovas contra mim os teus testemunhos, e multiplicas contra mim a tua ira, tropas frescas se levantara contra mim.  
+**17** Tu renovas contra mim os teus testemunhos, e multiplicas contra mim a tua ira, tropas frescas se levantam contra mim.  
 **18** Por que me tiraste tu do ventre de minha mãe? Teria perecido, sem que nenhum olho (moral) me visse.  
 **19** Teria sido como se não existisse, trasladado do ventre materno para a sepultura.  
 **20** Porventura o pequeno número dos meus dias não se acabará em breve? Deixa-me, pois, que eu chore um pouco a minha dor,  
@@ -406,7 +406,7 @@
 **25** porque estendeu a sua mão contra Deus, e se fez forte contra o Omnipotente.  
 **26** Correu contra ele, de cabeça altiva, e armou-se duma soberba inflexível.  
 **27** A gordura cobriu o seu rosto, e a enxúndia pende-lhe das ilhargas.  
-**28** Habitará em cidades assoladas, e em casas desertas, que estão reduzidas a moutões de ruínas.  
+**28** Habitará em cidades assoladas, e em casas desertas, que estão reduzidas a montões de ruínas.  
 **29** Não se enriquecerá, nem os seus bens persistirão, nem lançarão as suas raízes por terra.  
 **30** Não sairá das trevas; uma chama secará os seus ramos, e ele será arrebatado pelo sopro da boca (de Deus).  
 **31** Não se fie na mentira, pois será enlaçado nela; a mentira será a sua recompensa.  
@@ -476,7 +476,7 @@
 **12** A fome enfraquecerá a sua robustez, e a perdição o acompanhará.  
 **13** A pele do seu corpo será devorada; o primogénito da morte devorará os seus membros.  
 **14** Será arrancado da sua tenda onde se julgava seguro, e a morte, como um rei, o calcará.  
-**15** Outros - não mais ele - habitarão na sua casa, e sobre a sua lenda se espalhará enxofre.  
+**15** Outros - não mais ele - habitarão na sua casa, e sobre a sua tenda se espalhará enxofre.  
 **16** Por baixo as suas raízes secarão, e por cima serão cortados os seus ramos.  
 **17** Á sua memória perecerá da terra, e não será celebrado o seu nome na região.  
 **18** Será arrojado da luz para as trevas, será desterrado do mundo.  
@@ -697,7 +697,7 @@
 **1** Em seguida Job, continuando a sua parábola, acrescentou:  
 **2** Por Deus (o qual parece) que abandonou a minha causa (ao juízo dos homens), pelo Omnipotente, que submergiu a minha alma na amargura,  
 **3** (juro que) enquanto em mim houver alento, enquanto Deus me conservar a respiração,  
-**4** os meus lábios não dirão uada de injusto, nem a minha língua proferirá mentira.  
+**4** os meus lábios não dirão nada de injusto, nem a minha língua proferirá mentira.  
 **5** Longe de mim o eu ter-vos por justos; enquanto eu viver, defenderei a minha inocência,  
 **6** não abandonarei a justificação que comecei a fazer, porque o meu coração nada me reprova em toda a minha vida.  
 **7** Seja tido como culpado o meu inimigo, e o meu adversário seja como o iníquo.  
@@ -956,7 +956,7 @@
 **5** Levanta os olhos ao céu e vê, contempla como o firmamento é mais alto que tu.  
 **6** Se pecares, que dano farás tu a Deus? Se as tuas iniquidades se multiplicarem, que prejuízo lhe causarás?  
 **7** Se obrares com justiça, que proveito lhe darás ou que receberá ele da tua mão?  
-**8** A tua impiedade só poderá fazer mal a um homem, que é teu semelhante; a tua justiça só poderá ser útil ao afilho do homem.  
+**8** A tua impiedade só poderá fazer mal a um homem, que é teu semelhante; a tua justiça só poderá ser útil ao filho do homem.  
 **9** Eles (os oprimidos) clamam por causa da gravidade da opressão, e lamentam-se por causa da violência do braço dos tiranos.  
 **10** Mas nenhum disse: Onde está o Deus que me criou, que inspira cânticos de júbilo em plena noite;  
 **11** que nos instrui mais que aos animais da terra, e nos ilustra mais que às aves do céu?  
@@ -1182,7 +1182,7 @@
 **8** Tomai, pois, sete touros e sete carneiros, e ide ao meu servo Job. Oferecei um holocausto por vós; o meu servo Job orará por vós. Admitirei propicio a sua intercessão para que se vos não impute esta estultícia, porque vós não falastes de mim o que era reto, como o meu servo Job.  
 **9** Foram pois, Elifaz de Teman, Baldad de Subé, e Sofar de Naama, e fizeram como o Senhor lhes tinha dito, e o Senhor atendeu a Job.  
 **10** O Senhor também se deixou mover à vista da penitência de Job, quando orava pelos seus amigos, e deu-lhe o duplo de tudo o que ele antes possuía,  
-**11** Foram ter com ele todos os seus irmãos, todas as suas irmãs e todos os que antes o tinham conhecido, comeram com ele em sua casa. Moveram sobre ele a cabeça (em sinal de terna compaixão) e consolaram-no de todas as tribulações que o Senhor lhe tinha enviado. Cada um deles deu-lhe uma peça de prata e um anel de ouro.  
+**11** Foram ter com ele todos os seus irmãos, todas as suas irmãs e todos os que antes o tinham conhecido, e comeram com ele em sua casa. Moveram sobre ele a cabeça (em sinal de terna compaixão) e consolaram-no de todas as tribulações que o Senhor lhe tinha enviado. Cada um deles deu-lhe uma peça de prata e um anel de ouro.  
 **12** E o Senhor abençoou Job no seu último estado muito mais do que no primeiro. Job chegou a ter catorze mil ovelhas, seis mil camelos, mil juntas de bois e mil jumentas.  
 **13** Teve também sete filhos e três filhas.  
 **14** À primeira pôs o nome de Jemima, à segunda o de Ketsia, e à terceira Kereu-Happouk.  

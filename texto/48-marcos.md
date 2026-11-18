@@ -8,7 +8,7 @@
 **4** Apareceu João Batista no deserto, pregando o batismo de penitência, para remissão dos pecados.  
 **5** E ia ter com ele toda a região da Judeia e todos os de Jerusalém, e eram batizados por ele no rio Jordão, confessando os seus pecados.  
 **6** João andava vestido de pelo de camelo, trazia uma cinta de couro em volta dos rins, alimentava-se de gafanhotos e de mel silvestre. E pregava, dizendo:  
-**7** "Vem após de mim quem é mais forte do que eu, ao qual eu não sou digno de desatar, prostrado em terra, a correia doa sapatos.  
+**7** "Vem após de mim quem é mais forte do que eu, ao qual eu não sou digno de desatar, prostrado em terra, a correia dos sapatos.  
 **8** Eu tenho-vos batizado em água, ele, porém, batizar-vos-á no Espírito Santo."  
 **9** Ora aconteceu naqueles dias que Jesus veio de Nazaré da Galileia, e foi batizado por João no Jordão.  
 **10** No momento de sair da água, viu os céus abertos, e o Espírito Santo que descia sobre ele em forma de pomba;  
@@ -202,7 +202,7 @@
 **38** Chegando a casa do príncipe da sinagoga, viu Jesus o alvoroço, os que estavam chorando e fazendo grandes prantos.  
 **39** Tendo entrado, disse-lhes: "Por que vos perturbais e chorais? A menina não está morta, mas dorme."  
 **40** E zombavam dele. Mas ele, tendo feito sair todos, tomou o pai e a mãe da menina, e os que o acompanhavam, e entrou onde a menina estava deitada.  
-**41** Tomando a mão da menina, disse-Ihe: "Talitha koum, que quer dizer: Menina, eu te mando, levanta-te."  
+**41** Tomando a mão da menina, disse-lhe: "Talitha koum, que quer dizer: Menina, eu te mando, levanta-te."  
 **42** Imediatamente se levantou a menina, e andava; pois tinha já doze anos. Ficaram cheios de grande espanto.  
 **43** Jesus ordenou-lhes rigorosamente que ninguém o soubesse. Depois disse que dessem de comer à menina.  
 
@@ -217,7 +217,7 @@
 **7** Chamou os doze, e começou a enviá-los dois a dois, dando-lhes poder sobre os espíritos imundos.  
 **8** Ordenou-lhes que não tomassem nada para o caminho, senão somente um bastão; nem alforge, nem pão, nem dinheiro na cintura;  
 **9** mas que fossem calçados de sandálias, e não levassem duas túnicas.  
-**10** E dizía-Ihes: "E m qualquer casa onde entrardes, ficai nela até sairdes daquele lugar.  
+**10** E dizia-lhes: "Em qualquer casa onde entrardes, ficai nela até sairdes daquele lugar.  
 **11** Onde vos não receberem, nem vos ouvirem, retirando-vos de lá, sacudi o pó dos vossos pés em testemunho contra eles."  
 **12** Tendo partido, pregavam aos povos que fizessem penitência.  
 **13** Expeliam muitos demónios, ungiam com óleo muitos enfermos, e curavam-nos.  
@@ -237,8 +237,8 @@
 **27** Imediatamente mandou um guarda com ordem de trazer a cabeça de João. Ele foi degolá-lo no cárcere,  
 **28** levou a sua cabeça num prato, deu-o à moça, e a moça a deu a sua mãe.  
 **29** Tendo ouvido isto os seus discípulos, foram, tomaram o seu corpo, e o depuseram num sepulcro.  
-**30** Tendo os Apóstolos voltado a Jesus, contaram-Ihe tudo o que tinham feito e ensinado.  
-**31** Ele disse-Ihes: "Vinde aparte, a um lugar solitário, e descansai um pouco." Porque eram muitos os que iam e vinham, e nem tinham tempo para comer.  
+**30** Tendo os Apóstolos voltado a Jesus, contaram-lhe tudo o que tinham feito e ensinado.  
+**31** Ele disse-lhes: "Vinde aparte, a um lugar solitário, e descansai um pouco." Porque eram muitos os que iam e vinham, e nem tinham tempo para comer.  
 **32** Entrando pois numa barca, retiraram-se aparte, a um lugar solitário.  
 **33** Porém viram-nos partir, e muitos souberam para onde iam, e concorreram lá, a pé, de todas as cidades, e chegaram primeiro que eles.  
 **34** Ao desembarcar, viu Jesus uma grande multidão. Teve compaixão deles, porque eram como ovelhas sem pastor, e começou a ensinar-lhes muitas coisas.  
@@ -442,7 +442,7 @@
 **39** Eles disseram-lhe: "Podemos." Jesus disse-lhes: "Efetivamente haveis de beber o cálice que eu vou beber, e haveis de ser batizados no batismo em que eu vou ser batizado;  
 **40** mas, quanto a estardes sentados à minha direita ou à minha esquerda, não pertence a mim o conceder-vo-lo, mas é para aqueles, para quem está preparado."  
 **41** Ouvindo isto os dez, começaram a indignar-se contra Tiago e João.  
-**42** Mas Jesus, chamando-os, disse-Ihes: "Vós sabeis que aqueles que são reconhecidos como chefes das nações as dominam, e que os seus príncipes têm poder sobre elas.  
+**42** Mas Jesus, chamando-os, disse-lhes: "Vós sabeis que aqueles que são reconhecidos como chefes das nações as dominam, e que os seus príncipes têm poder sobre elas.  
 **43** Porém entre vós não deve ser assim, mas o que quiser ser o maior, será o vosso servo,  
 **44** e o que entre vós quiser ser o primeiro, será servo de todos.  
 **45** Porque também o Filho do homem não veio para ser servido, mas para servir, e para dar a sua vida para redenção de muitos."  

@@ -10,13 +10,13 @@
 **6** Ali, sobre o altar de bronze, que estava diante do tabernáculo da aliança do Senhor, Salomão imolou mil vítimas.  
 **7** Naquela mesma noite apareceu-lhe Deus, dizendo: Pede-me o que queres que eu te dê.  
 **8** Salomão disse a Deus: Tu usaste com Davide, meu pai, de grande misericórdia, e a mim me constituíste rei em seu lugar,  
-**9** Agora, pois, Senhor Deus, cumpra-se a tu a palavra, que disseste a meu pai Davide, pois que tu me estabeleceste rei sobre o teu grande povo, que é tão inumerável como o pó da terra.  
+**9** Agora, pois, Senhor Deus, cumpra-se a tua palavra, que disseste a meu pai Davide, pois que tu me estabeleceste rei sobre o teu grande povo, que é tão inumerável como o pó da terra.  
 **10** Dá-me sabedoria e inteligência, a fim de que eu saiba conduzir-me bem diante do teu povo. Pois, quem poderá governar dignamente este teu povo, que é tão grande?  
 **11** Deus disse a Salomão: Visto que isso agradou mais ao teu coração, e não me pediste riquezas, nem bens, nem glória, nem a morte dos que te odeiam, nem muitos dias de vida, antes me pediste sabedoria e inteligência para poderes governar o meu povo, sobre o qual eu te constituí rei,  
 **12** a sabedoria e a inteligência te são dadas; além disso, te darei riquezas, bens e glória, de modo que nenhum rei, nem antes de ti, nem depois de ti, te seja semelhante.  
 **13** Salomão, pois, voltou do alto de Gabaon de diante do tabernáculo da aliança para Jerusalém, e reinou sobre Israel.  
 **14** Juntou um grande número de carros e de cavaleiros teve: mil e quatrocentos carros e doze mil cavaleiros, e mandou-os estar nas cidades destinadas aos carros e em Jerusalém junto ao rei.  
-**15** O rei fez com que a prata e o ouro fossem em Jerusalém tão comuns como as pedras, e os cedros tão numerosos com o os sicómoros, que nascem nos campos.  
+**15** O rei fez com que a prata e o ouro fossem em Jerusalém tão comuns como as pedras, e os cedros tão numerosos como os sicómoros, que nascem nos campos.  
 **16** Eram-lhe trazidos cavalos do Egito e de Coa pelos negociantes do rei, que iam e os compravam por preço determinado:  
 **17** um tiro de quatro cavalos por seiscentos siclos de prata; e um cavalo por cento e cinquenta. Assim se fazia a compra também para todos os reis dos Heteus e da Síria.  
 
@@ -27,7 +27,7 @@
 **3** Mandou dizer a Hirão, rei de Tiro: Do mesmo modo que fizeste com Davide, meu pai, a quem enviaste madeira de cedro, a fim de edificar para si o palácio em que ele habitou,  
 **4** faze o mesmo comigo para que eu edifique uma casa ao nome do Senhor meu Deus, e a consagre para queimar o incenso na sua presença, espalhar o fumo dos aromas, ter sempre expostos os pães da proposição, oferecer os holocaustos da manhã e da tarde, nos sábados, neoménias e solenidades do Senhor nosso Deus, perpetuamente, como foi ordenado a Israel.  
 **5** A casa que eu pretendo edificar, deve ser grande, visto que o nosso Deus é grande sobre todos os deuses.  
-**6** Quem poderá ser capaz de Ihe edificar uma casa digna dele, se o céu e os céus dos céus o não podem conter? Quem sou eu que possa edificar-lhe uma casa? Mas (faço-o) somente para que se queime incenso na sua presença.  
+**6** Quem poderá ser capaz de lhe edificar uma casa digna dele, se o céu e os céus dos céus o não podem conter? Quem sou eu que possa edificar-lhe uma casa? Mas (faço-o) somente para que se queime incenso na sua presença.  
 **7** Envia-me, pois, um homem hábil, que saiba trabalhar em ouro e em prata, em bronze e em ferro, em obras de púrpura, de escarlate e de jacinto, e que saiba esculpir entalhes (a fim de que trabalhe) com os oficiais que eu tenho junto de mim na Judeia e em Jerusalém, os quais David e meu pai tinha escolhido.  
 **8** Manda-me também madeira de cedro, cipreste e sândalo, porque sei que os teus servos são hábeis em cortar madeiras do Líbano, e os meus servos trabalharão com os teus,  
 **9** para que se aparelhem madeiras em grande quantidade. Com efeito, a casa, que eu desejo edificar, deve ser muito grandiosa e magnífica.  
@@ -56,7 +56,7 @@
 **12** da mesma sorte, uma asa do segundo querubim, de cinco côvados, tocava na parede do templo, e a outra asa, igualmente de cinco côvados, tocava a asa do primeiro querubim.  
 **13** Assim as asas destes dois querubins, abertas, tinham vinte côvados de extensão. Eles estavam postos em pé, e os seus rostos virados para o templo exterior.  
 **14** Fez um véu de jacinto, de púrpura, de escarlate e de linho fino, e mandou bordar nele querubins.  
-**15** Fez diante da porta do templo duas colunas, tinham trinta e cinco côvados de altura terminadas com capitéis de cinco côvados.  
+**15** Fez diante da porta do templo duas colunas, que tinham trinta e cinco côvados de altura terminadas com capitéis de cinco côvados.  
 **16** E fez também umas cadeiazinhas, como para o santuário, e pô-las sobre os capitéis das colunas, com cem romãs, que entrelaçou nas cadeiazinhas.  
 **17** Pôs estas colunas no vestíbulo do templo, uma à direita, e outra á esquerda; à que estava à direita chamou-a Jaquim, e à que estava à esquerda chamou-a Booz.  
 
@@ -93,7 +93,7 @@
 **4** e tendo chegado todos os anciães de Israel, os Levitas levaram a arca  
 **5** e introduziram-na (no templo), com tudo o que pertencia ao tabernáculo. Os sacerdotes com os Levitas levaram os vasos do santuário, que havia no tabernáculo.  
 **6** Entretanto o rei Salomão, todo o povo de Israel, todos os que se tinham reunido diante da arca, imolavam carneiros e bois sem número, tão grande era a quantidade das vítimas.  
-**7** Os sacerdotes puseram a arca da aliança do Senhor no lugar, isto é, no santuário do templo, no Santo dos Santos, debaixo das asas dos querubins,  
+**7** Os sacerdotes puseram a arca da aliança do Senhor no seu lugar, isto é, no santuário do templo, no Santo dos Santos, debaixo das asas dos querubins,  
 **8** de modo que os querubins estendiam as suas asas sobre o lugar em que a arca estava posta, e cobriam a mesma arca e os seus varais.  
 **9** Estes eram bastante compridos para que as suas extremidades pudessem ser vistas de diante do santuário; mas, se alguém estava um tanto fora, já não os podia ver. Ali tem estado a arca até ao dia de hoje.  
 **10** Na arca não havia outra coisa além das duas tábuas que Moisés ali tinha posto em Horeb, quando o Senhor deu a lei aos filhos de Israel, na sua saída do Egito.  
@@ -236,7 +236,7 @@
 **5** Ele disse-lhes: Tornai a vir daqui a três dias. Depois que o povo se retirou,  
 **6** teve Roboão conselho com os anciães que tinham sido ministros de Salomão, seu pai, durante a sua vida, e disse-lhes: Que me aconselhais que eu responda ao povo?  
 **7** Eles disseram-lhe: Se contentares este povo, e se o atenderes com palavras doces, eles te servirão para sempre.  
-**8** Ele, porém, abandonou o conselho dos anciães, e começou a consultar os jovens que tinham sido criados com ele estavam na sua companhia.  
+**8** Ele, porém, abandonou o conselho dos anciães, e começou a consultar os jovens que tinham sido criados com ele e estavam na sua companhia.  
 **9** Disse-lhes: Que vos parece? Que devo eu responder a este povo que me veio dizer: Alivia-nos o jugo que teu pai nos impôs?  
 **10** — Eles responderam como jovens e como criados com ele nas delícias, desta forma: Assim responderás ao povo que te veio dizer: Teu pai fez pesadíssimo o nosso jugo, tu alivia-o; assim lhe responderás: O meu dedo mindinho é mais grosso do que as costas de meu pai,  
 **11** meu pai pôs-vos um jugo pesado, mas eu lhe acrescentarei maior peso; meu pai castigou-vos com açoutes, eu castigar-vos-ei com escorpiões.  
@@ -327,7 +327,7 @@
 **4** e ordenou a Judá que buscasse o Senhor Deus de seus pais e observasse a lei e todos os preceitos,  
 **5** e tirou de todas as cidades de Judá os lugares altos e as estátuas.  
 **6** Mandou reparar as cidades fortes de Judá, porque estava em sossego, não havia guerra alguma em seus dias, por lhe ter o Senhor concedido a paz.  
-**7** Disse a Judá: Reparemos estas cidades, cinjamo-las de muros e fortifiquemo-Ias com torres, portas e fechaduras, enquanto tudo está livre de guerras, porque buscamos o Senhor Deus de nossos pais, e ele nos deu paz com os povos vizinhos. Repararam, pois, as praças, e não apareceu nada que os estorvasse.  
+**7** Disse a Judá: Reparemos estas cidades, cinjamo-las de muros e fortifiquemo-las com torres, portas e fechaduras, enquanto tudo está livre de guerras, porque buscamos o Senhor Deus de nossos pais, e ele nos deu paz com os povos vizinhos. Repararam, pois, as praças, e não apareceu nada que os estorvasse.  
 **8** Asa teve no seu exército trezentos mil homens de Judá, armados de escudos e lanças, e de Benjamim duzentos e oitenta mil homens, armados de escudos e de flechas, todos eles homens fortíssimos.  
 **9** Zara Etíope foi contra eles com o seu exército, composto dum milhão de homens e trezentos carros, e chegou até Maresa.  
 **10** Asa marchou ao seu encontro e formou o exército em batalha no vale de Sefata, que está perto de Maresa.  
@@ -537,7 +537,7 @@
 **5** A terça parte de vós, sacerdotes, Levitas e porteiros, que entrais de serviço no templo, ao sábado, estará às portas; a outra terça parte colocar-se-á junto ao palácio do rei; a outra terça à porta, que se chama do Fundamento. Todo o resto do povo estará nos átrios da casa do Senhor.  
 **6** Nenhum outro entre na casa do Senhor, senão os sacerdotes e os Levitas que estão de serviço; entrem somente estes, porque estão santificados; todo o resto do povo esteja guardando a porta da casa do Senhor.  
 **7** Os Levitas rodearão o rei, tendo cada um as suas armas; se algum outro entrar no templo, seja morto. Acompanhareis o rei, quando ele entrar ou quando sair.  
-**8** Os Levitas, pois, e todo o Judá executaram tudo o que o pontífice Jojada lhes tinha ordenado. Cada um tomou os que tinha às suas ordens, aqueles que entravam, tanto os que principiavam como os que acabavam o serviço, ao sábado, porque o pontífice e Jojada não tinha dispensado nenhuma das turmas, que costumavam suceder umas às outras todas os semanas.  
+**8** Os Levitas, pois, e todo o Judá executaram tudo o que o pontífice Jojada lhes tinha ordenado. Cada um tomou os que tinha às suas ordens, aqueles que entravam, tanto os que principiavam como os que acabavam o serviço, ao sábado, porque o pontífice Jojada não tinha dispensado nenhuma das turmas, que costumavam suceder umas às outras todas as semanas.  
 **9** O sacerdote Jojada deu aos centuriões as lanças e os escudos, tanto os grandes como os pequenos, do rei Davide, os quais ele tinha consagrado na casa do Senhor.  
 **10** Depois dispôs todo o povo armado de espadas na mão, desde o lado direito do templo até ao lado esquerdo do templo, diante do altar e do templo, de forma a rodear o rei.  
 **11** Então trouxeram o filho do rei, puseram-lhe a coroa na cabeça e o testemunho, deram-lhe a lei, para que a tivesse na mão, e proclamaram-no rei. O pontífice Jojada e seus filhos ungiram-no, aclamando-o aos gritos de: Viva o rei!  
@@ -914,7 +914,7 @@
 **6** Contra ele marchou Nabucodonosor, rei dos Caldeus, que o prendeu com uma dupla cadeia de bronze e levou para Babilónia.  
 **7** Transportou também para esta cidade os vasos do Senhor e colocou-os no seu palácio de Babilónia.  
 **8** O resto das ações de Joaquim, das abominações que cometeu, que foram encontradas nele, estão contidas no livro dos reis de Judá e de Israel. Em seu lugar reinou seu filho Joaquin.  
-**9** Joaquin tinha oito anos, guando começou a reinar, e reinou três meses e dez dias em Jerusalém. Fez o mal na presença do Senhor.  
+**9** Joaquin tinha oito anos, quando começou a reinar, e reinou três meses e dez dias em Jerusalém. Fez o mal na presença do Senhor.  
 **10** Tendo decorrido o espaço dum ano, o rei Nabucodonosor mandou tropas que o conduziram a Babilónia, levando juntamente os mais preciosos vasos da casa do Senhor. (Em lugar de Joaquin) constituiu rei sobre Judá e sobre Jerusalém a Sedecias, seu tio paterno.  
 **11** Sedecias tinha vinte e um anos, quando começou a reinar, e reinou onze anos em Jerusalém.  
 **12** Fez o mal diante dos olhos do Senhor seu Deus, e não respeitou a pessoa do profeta Jeremias, que lhe falava da parte do Senhor.  

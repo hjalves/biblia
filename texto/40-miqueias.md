@@ -75,7 +75,7 @@
 **5** Assim será a paz: quando o Assírio vier à nossa terra e calcar os nossos palácios suscitaremos contra ele sete pastores e oito (ou muitos) príncipes.  
 **6** Apascentarão com a espada a terra de Assur, e com as suas lanças a terra de Nemrod; ele nos livrará de Assur, quando (Assur) vier A nossa terra e puser os pés sobre o nosso território.  
 **7** Então os restos de Jacob estarão no meio de muitos povos, como um orvalho que vem do Senhor, como gotas de água que caem sobre as ervas, que nada têm a esperar do homem e que não contam com nada dos filhos dos homens.  
-**8** Os restos de Jacob estarão entre as nações, no melo de muitos povos, como um leão no meio dos outros animais dos bosques, como um cachorro de leão entre os rebanhos de ovelhas, o qual, quando passa, pisa aos pés e despedaça (a sua presa) sem haver quem lha tire (das garras).  
+**8** Os restos de Jacob estarão entre as nações, no meio de muitos povos, como um leão no meio dos outros animais dos bosques, como um cachorro de leão entre os rebanhos de ovelhas, o qual, quando passa, pisa aos pés e despedaça (a sua presa) sem haver quem lha tire (das garras).  
 **9** A tua mão se levantará sobre os teus inimigos, e todos os teus inimigos perecerão.  
 **10** Naquele dia, diz o Senhor, tirarei os teus cavalos do meio de ti e destroçarei os teus carros de guerra.  
 **11** Arruinarei as cidades da tua terra, destruirei todas as tuas fortificações, arrancar-te-ei das mãos os teus sortilégios, e não haverá mais adivinhos em ti;  
@@ -117,7 +117,7 @@
 **11** (Chega) o dia em que os teus muros serão reedificados; nesse dia será retirada de ti a lei.  
 **12** Nesse dia virão a ti da Assíria e das cidades do Egito, do Egito até ao rio, dum mar até outro mar, e dum monte até outro monte.  
 **13** A terra será desolada por causa dos seus habitantes, por causa do fruto das suas obras.  
-**14** Apascenta (ó Senhor) com a tua vara o teu povo, o rebanho da tua herança, os que habitam sós no bosque, no melo do Carmelo. (Um dia) se apascentarão em (territórios férteis, como) Basah e Galaad, como nos dias antigos.  
+**14** Apascenta (ó Senhor) com a tua vara o teu povo, o rebanho da tua herança, os que habitam sós no bosque, no meio do Carmelo. (Um dia) se apascentarão em (territórios férteis, como) Basah e Galaad, como nos dias antigos.  
 **15** (Sim, diz o Senhor) como no dia da tua saída da terra do Egito, eu te farei ver maravilhas.  
 **16** As nações as verão e serão confundidas, apesar da sua fortaleza: porão a mão sobre a sua boca, e os seus ouvidos ficarão surdos.  
 **17** Lamberão o pó como as serpentes; sairão com terror dos seus retiros, como os répteis da terra; virão a tremer para o Senhor nosso Deus e terão medo diante de ti (ó Israel).  

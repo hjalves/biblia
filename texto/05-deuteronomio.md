@@ -20,7 +20,7 @@
 **16** Ao mesmo tempo, dei-lhes esta ordem: Ouvi-os, e julgai seguindo a justiça, quer se trate dum cidadão, quer dum estrangeiro.  
 **17** Nenhuma distinção haverá de pessoas; ouvireis o pequeno como o grande: não tereis aceitação de pessoa alguma, porque o juízo é de Deus. Se alguma coisa vos parecer difícil, referi-ma, e eu ouvirei.  
 **18** (Desta forma) vos ordenei tudo o que devíeis fazer,  
-**19** Tendo partido de Horeb, passamos pelo terrível e grandíssimo deserto que vistes, pelo caminho do monte do Amorreu, conforme o Senhor nosso Deus no-Io tinha mandado. Tendo chegado a Cadesbame,  
+**19** Tendo partido de Horeb, passamos pelo terrível e grandíssimo deserto que vistes, pelo caminho do monte do Amorreu, conforme o Senhor nosso Deus no-lo tinha mandado. Tendo chegado a Cadesbame,  
 **20** eu disse-vos: Chegastes ao monte do Amorreu, que o Senhor nosso Deus nos há-de dar.  
 **21** Olha a terra que o Senhor teu Deus te dá: sobe e toma posse dela, como o Senhor nosso Deus disse a teus pais: não temas, nem te atemorize nada.  
 **22** Então aproximastes-vos todos de mim, e dissestes: Enviemos homens que explorem a terra, e que nos ensinem por que caminho devemos subir, e para que cidades devemos encaminhar-nos.  
@@ -58,7 +58,7 @@
 **5** Abstende-vos, porém, de os atacar, porque eu não vos datei da terra deles nem quanto pode calcar a planta dum pé, visto eu ter dado a posse do monte Seir a Esaú.  
 **6** Comprar-lhes-eis por dinheiro o alimento que comerdes, e também lhes comprareis a água que tirardes, e que beberdes.  
 **7** O Senhor teu Deus abençoou-te em todas as obras das tuas mãos, ele cuidou da tua viagem, enquanto, caminhaste por este grande deserto. Durante quarenta anos habitou contigo, e não te faltou nada.  
-**8** Depois que passamos as terras dos nossos irmãos, filhos de Esaú, que habitavam em Sier, pelo caminho da planície de Elath e d'e Asiongaber, chegámos ao caminho que conduz ao deserto de Moab.  
+**8** Depois que passamos as terras dos nossos irmãos, filhos de Esaú, que habitavam em Seir, pelo caminho da planície de Elath e d'e Asiongaber, chegámos ao caminho que conduz ao deserto de Moab.  
 **9** Então o Senhor disse-me: Não pelejes contra os Moabitas, e não lhes faças guerra, porque eu não te darei nada da sua terra, visto que dei Ar em possessão aos filhos de Lote.  
 **10** Os Emirs foram os seus primeiros habitantes, povo grande e forte e de tal estatura que se tinham por gigantes, da linhagem dos Enacins.  
 **11** Eram consideradas refaitas, como os Enacins, mas os Moabitas chamam-nos Emins.  
@@ -86,7 +86,7 @@
 **33** O Senhor nosso Deus no-lo entregou, e nós o derrotámos com seus filhos e com todo o Seu povo.  
 **34** Naquele tempo tomámos-lhe todas as suas cidades, mortos os seus habitantes, homens e mulheres e meninos, e nelas não deixámos nada.  
 **35** exceto os animais, que tocaram aos saqueadores, e os despojos das cidades, que tomámos.  
-**36** Desde Aroer, que está sobre a margem da torrente do Arnon, cidade situada no vale, até Galaad, não houve aldeia nem cidade, que escapasse às nossas mãos: todas no-Ias entregou o Senhor nosso Deus,  
+**36** Desde Aroer, que está sobre a margem da torrente do Arnon, cidade situada no vale, até Galaad, não houve aldeia nem cidade, que escapasse às nossas mãos: todas no-las entregou o Senhor nosso Deus,  
 **37** exceto a terra dos filhos de Amon, a que não chegamos, e todas as regiões adjacentes à torrente de Jeboc, e as cidades das montanhas, e todos os lugares, que o Senhor nosso Deus nos proibiu (que tomássemos).  
 
 ## Capítulo 3
@@ -162,7 +162,7 @@
 **37** Visto que amou teus pais, escolheu a sua posteridade depois deles, e tirou-te do Egito, caminhando diante de ti com o seu grande poder,  
 **38** para exterminar à tua chegada nações maiores e mais fortes do que tu, e para te introduzir nas suas terras e dar-tas como herança, segundo tu estás hoje a ver.  
 **39** Reconhece, pois, neste dia, considera no teu coração que o Senhor é o único (verdadeiro) Deus desde o alto do céu até ao mais profundo da terra, e não há outro.  
-**40** Guarda os seus preceitos e os seus mandamentos, que eu te prescrevo, para que te suceda bem a ti, e aos teus filhos depois de ti, e permaneças por Iongo tempo na terra, que o Senhor teu Deus está para te dar.  
+**40** Guarda os seus preceitos e os seus mandamentos, que eu te prescrevo, para que te suceda bem a ti, e aos teus filhos depois de ti, e permaneças por longo tempo na terra, que o Senhor teu Deus está para te dar.  
 **41** Então Moisés separou três cidades na banda oriental do Jordão,  
 **42** a fim de que se refugie a elas aquele que sem querer tiver morto o seu próximo, sem ser seu inimigo, e possa salvar a sua vida, acolhendo-se a uma destas cidades:  
 **43** Bolsor, no deserto, situada na planície da tribo de Ruben; Ramoth, em Galaad, que está na tribo de Gad; e Golan, em Basan, que está na tribo de Manassés.  
@@ -204,7 +204,7 @@
 **27** Aproxima-te antes tu, e ouve tudo o que o Senhor nosso Deus te disser; (depois) no-lo dirás, e nós, ouvindo-o, cumpri-lo-emos.  
 **28** Tendo escutado isto o Senhor, disse-me: Eu ouvi o som das palavras que este povo te disse: em tudo falaram bem.  
 **29** Quem dera que eles tivessem tal espírito, que me temessem e guardassem em todo o tempo todos os meus mandamentos, para que fosse bem a eles e a seus filhos para sempre.  
-**30** Vai e dize-Ihes: Voltai para as vossas tendas.  
+**30** Vai e dize-lhes: Voltai para as vossas tendas.  
 **31** Tu, porém, fica aqui comigo, e eu te direi todos os meus mandamentos, cerimónias, ordenações, que lhes ensinarás, para que as observem na terra, que lhes hei-de dar a possuir.  
 **32** Guardai, pois, e fazei o que o Senhor Deus vos mandou: não declineis nem para a direita nem para a esquerda,  
 **33** mas andai pelo caminho, que o Senhor vosso Deus vos prescreveu, para que vivais e vos suceda bem, para que os vossas dias se prolonguem na terra cuja posse obtereis.  
@@ -390,7 +390,7 @@
 **5** mas ireis ao lugar que o Senhor vosso Deus escolher entre todas as vossas tribos, para aí pôr o seu nome e habitar nele,  
 **6** e oferecereis neste lugar os vossos holocaustos e sacrifícios, os dízimos e as primeiras das vossas mãos, os vossos e dons, os primogénitos das vacas e das ovelhas.  
 **7** Aí comereis na presença do Senhor vosso Deus, e vos regozijareis vós e as vossas famílias em todas as coisas que as vossas mãos adquirirem e com que o Senhor vosso Deus vos abençoar.  
-**8** Não fareis nesse lugar o que nós fazemos hoje aqui, cada um o que bem Ihe parece,  
+**8** Não fareis nesse lugar o que nós fazemos hoje aqui, cada um o que bem lhe parece,  
 **9** porque ainda não chegastes ao repouso e herança, que o Senhor vosso Deus está para vos dar.  
 **10** Passareis o Jordão, e habitareis na terra que o Senhor vosso Deus vos dará; então estareis seguros de todos os inimigos que vos cercam, e habitareis sem temor algum.  
 **11** No lugar que o Senhor vosso Deus escolher para nele estar o seu nome, lá levareis todas as coisas que eu prescrevo, os holocaustos, os sacrifícios, os dízimos, as primícias das vossas mãos e tudo o que há de melhor entre os dons que oferecerdes, por voto, ao Senhor.  
@@ -422,7 +422,7 @@
 **2** suceder o que ele anunciou, e te disser: Vamos, sigamos os deuses estranhos, que não conheces, e sirvá-mo-los,  
 **3** não ouvirás as palavras de tal profeta ou sonhador, porque o Senhor Vosso Deus vos põe à prova, para se tomar manifesto se o amais ou não de todo o vosso coração e de toda a vossa alma.  
 **4** Segui o Senhor vosso Deus, temei-o, guardai os seus mandamentos e ouvi a sua voz; a ele servireis, a ele vos unireis.  
-**5** Aquele profeta, ou sonhador será posto à morte, porque vos falou pala vos afastar do Senhor vosso Deus, que vos tirou da terra do Egito, e vos resgatou da casa da escravidão, (falando-te) pala te desviar do caminho que o Senhor teu Deus te ordenou. Assim tirarás o mal do meio de ti.  
+**5** Aquele profeta, ou sonhador será posto à morte, porque vos falou para vos afastar do Senhor vosso Deus, que vos tirou da terra do Egito, e vos resgatou da casa da escravidão, (falando-te) para te desviar do caminho que o Senhor teu Deus te ordenou. Assim tirarás o mal do meio de ti.  
 **6** Se o teu irmão, filho de tua mãe, ou teu filho ou tua filha ou tua mulher que repousa sobre o teu seio, ou o amigo, a quem amas como à tua alma, te quiser persuadir, dizendo-te em segredo: Vamos e sirvamos a deuses estranhos desconhecidos de ti e de teus pais,  
 **7** (deuses de qualquer) dos povos, que estão à tua volta, quer perto quer longe, desde uma extremidade da terra até à outra —  
 **8** não cedas ao que te diz, nem o ouças, nem teus olhos lhe perdoem, de modo que tenhas compaixão dele e o encubras,  
@@ -512,12 +512,12 @@
 **13** Celebrarás também durante sete dias a solenidade dos Tabernáculos, quando tiveres recolhido os teus frutos da eira e do lagar.  
 **14** Alegrar-te-ás nesta festa, tu, teu filho e a tua filha, o teu servo e a tua serva, e também o Levita e o estrangeiro, o órfão e a viúva, que estão dentro das tuas portas.  
 **15** Durante sete dias celebrarás esta festa em honra do Senhor teu Deus, no lugar que o Senhor tiver escolhido, e o Senhor teu Deus te abençoará em todos os teus frutos, e em todo o trabalho das tuas mãos, e viverás alegre.  
-**16** Toldos os teus varões aparecerão três vezes por ano diante do Senhor teu Deus no lugar que tiver ele escolhido: na solenidade dos pães ázimos, na solenidade das semanas e na Solenidade dos tabernáculos. Não aparecerão diante do Senhor com as mãos vazias,  
-**17** mas cada um oferecerá segundo o que tiver, e segundo a bênção que o Senhor seu Deus Ihe tiver dado.  
+**16** Todos os teus varões aparecerão três vezes por ano diante do Senhor teu Deus no lugar que tiver ele escolhido: na solenidade dos pães ázimos, na solenidade das semanas e na Solenidade dos tabernáculos. Não aparecerão diante do Senhor com as mãos vazias,  
+**17** mas cada um oferecerá segundo o que tiver, e segundo a bênção que o Senhor seu Deus lhe tiver dado.  
 **18** Estabelecerás juízes e magistrados em todas as cidades que o Senhor teu Deus te tiver dado, em cada uma das tuas tribos, para que julguem o povo com justo juízo,  
 **19** sem se inclinarem para uma das partes. Não farás aceção de pessoas, nem receberás dádivas porque as dádivas cegam os olhos dos sábios, e transtornam as palavras dos justos.  
 **20** Seguirás rigorosamente o que é justo, para que vivas e possuas a terra que o Senhor teu Deus te tiver dado.  
-**21** Não plantarás aschera junto do altar do Senhor teu Deus. Não farás para ti, nem levantarás nenhuma estátua, coisais que o Senhor teu Deus aborrece.  
+**21** Não plantarás aschera junto do altar do Senhor teu Deus. Não farás para ti, nem levantarás nenhuma estátua, coisas que o Senhor teu Deus aborrece.  
 
 ## Capítulo 17
 
@@ -531,7 +531,7 @@
 **8** Se vires que é muito difícil o teu juízo entre sangue e sangue, entre causa e causa, e entre ferida e ferida, e vires que dentro das tuas portas, são vários os pareceres dos juízes, levanta-te, e vai ao lugar que o Senhor teu Deus tiver escolhido.  
 **9** Irás ter com os sacerdotes da linhagem de Levi e com o juiz que, nesse tempo, estiver em exercício, consultá-los-ás, e eles te indicarão a verdade do juízo.  
 **10** Farás tudo o que te disserem os que presidem no lugar que o Senhor tiver escolhido, e tudo o que eles te ensinarem  
-**11** segundo a sua Iei; seguirás o seu parecer, sem declinares nem para a direita nem para a esquerda.  
+**11** segundo a sua lei; seguirás o seu parecer, sem declinares nem para a direita nem para a esquerda.  
 **12** Aquele, porém, que, deixando-se levar pela soberba, não quiser obedecer ao mandado do sacerdote, que nesse tempo for o ministro do Senhor teu Deus, nem ao decreto do juiz, esse homem morrerá, e (assim) tirarás o mal do meio de Israel:  
 **13** todo o povo, ouvindo isto, temerá, de forma que daí em diante, nenhum se inche de soberba.  
 **14** Quando tiveres entrado na terra que o Senhor teu Deus te der, e tiveres tomado posse dela, e nela habitares, se disseres: Eu constituirei um rei sobre mim, como o têm todas as nações em roda  
@@ -635,7 +635,7 @@
 **17** mas reconhecerá por primogénito o filho da que ele aborrece, dar-lhe-á uma porção dupla de tudo o que tem, porque este é o primeiro de seus filhos, a ele pertence o direito da primogenitura.  
 **18** Se um homem tiver gerado um filho rebelde e contumaz, que não atende às ordens do pai ou da mãe e que, mesmo castigado, não quer obedecer,  
 **19** seu pai e sua mãe pegarão nele e o conduzirão aos anciães daquela cidade à porta do juízo,  
-**20** e Ihes dirão: Este nosso filho é um rebelde e contumaz, despreza ouvir as nossas admoestações, passa a vida na embriaguez e na dissolução.  
+**20** e lhes dirão: Este nosso filho é um rebelde e contumaz, despreza ouvir as nossas admoestações, passa a vida na embriaguez e na dissolução.  
 **21** O povo da cidade o apedrejará, e ele morrerá, para que tireis o mal do meio de vós, e todo o Israel, ouvido isto, tema.  
 **22** Quando um homem tiver cometido um crime que deve ser punido com a morte, e, condenado à morte, for pendurado no patíbulo,  
 **23** o seu cadáver não ficará no lenho, mas será sepultado no mesmo dia, porque é maldito de Deus aquele que está pendente do lenho, e tu, de nenhuma sorte, contaminarás a terra que o Senhor teu Deus te der por herança.  
@@ -643,7 +643,7 @@
 ## Capítulo 22
 
 **1** Se vires extraviados o boi ou a ovelha do teu irmão, não passarás adiante, mas reconduzi-los-ás a teu irmão,  
-**2** ainda que este irmão não viva contigo nem tu o conheças: levá-los-ás para tua casa, e estarão junto de ti até que teu irmão os procure; então Ihes entregarás.  
+**2** ainda que este irmão não viva contigo nem tu o conheças: levá-los-ás para tua casa, e estarão junto de ti até que teu irmão os procure; então lhes entregarás.  
 **3** O mesmo farás a respeito do jumento, da roupa e de (outra) qualquer coisa de teu irmão, que se perder; se a encontrareis, não a desprezes.  
 **4** Se vires o jumento ou o boi de teu irmão caídos no caminho, não voltarás os olhos para o lado, mas ajudá-lo-ás a levantá-los.  
 **5** A mulher não se vestirá de homem, nem o homem se vestirá de mulher, porque aquele que tal faz é abominável diante de Deus.  
@@ -657,7 +657,7 @@
 **13** Se um homem, depois de casar com uma mulher, lhe ganhar aversão  
 **14** e lhe imputar delitos e a difamar, dizendo: recebi esta mulher e, aproximando-me dela, não achei virgem -  
 **15** Seu pai e sua mãe a tomarão, e levarão consigo as provas da sua virgindade aos anciães da cidade que estão à porta.  
-**16** O pai dirá: Eu dei minha filha por mulher a este (homem), mas porque ele Ihe tem aversão,  
+**16** O pai dirá: Eu dei minha filha por mulher a este (homem), mas porque ele lhe tem aversão,  
 **17** levanta-lhe uma péssima reputação, chegando a dizer: Não achei virgem a tua filha. Contudo eis as provas da virgindade de minha filha. Então estenderão a roupa diante dos anciães da cidade,  
 **18** e os anciães daquela cidade pegarão naquele homem, e fá-lo-ão açoutar,  
 **19** condenando-o, além disso, a cem siclos de prata, que ele dará ao pai da donzela, porque espalhou uma péssima reputação contra uma virgem de Israel, e a terá por mulher, não podendo repudiá-la durante todo o tempo da sua vida.  
@@ -705,7 +705,7 @@
 
 **1** Se um homem, tomando uma mulher, se casar com ela, e não a achar agradável diante dos seus olhos por qualquer coisa inconveniente, escreverá um libelo de repúdio lho dará na mão, e a despedirá da sua casa.  
 **2** Se ela, depois de ter saído, tomar outro marido,  
-**3** e este também a aborrecer, e, dando-Ihe libelo de repúdio, a despedir de sua casa, ou se ele veio a morrer,  
+**3** e este também a aborrecer, e, dando-lhe libelo de repúdio, a despedir de sua casa, ou se ele veio a morrer,  
 **4** não poderá o primeiro marido tomá-la a tomar por mulher, dado que ela está contaminada, porque isso é abominável diante do Senhor; não faças pecar a terra cuja posse te der o Senhor teu Deus.  
 **5** Quando um homem tiver tomado uma mulher há pouco tempo, não irá à guerra, nem se lhe imporá cargo algum público, mas estará livremente em sua casa, a fim de passar alegre um ano com sua mulher.  
 **6** Não receberás por penhor a mó inferior e a superior, porque te deu por penhor a própria vida.  
@@ -717,11 +717,11 @@
 **12** Se ele é pobre, o penhor não pernoitará em tua casa,  
 **13** mas tornarás a dar-lho antes de se pôr o sol a fim de que ele, dormindo na sua roupa, te abençoe: isso será para ti uma justiça diante do Senhor teu Deus.  
 **14** Não negarás a paga do indigente e do pobre quer ele seja teu irmão, quer um estrangeiro, que mora contigo na terra, e está dentro das tuas portas,  
-**15** mas pagar-Ihe-ás no mesmo dia o preço do seu trabalho antes do sol-posto, porque é pobre, e com isso sustenta a sua vida. De contrário ele clamaria contra ti ao Senhor, e pesaria sobre ti um pecado,  
+**15** mas pagar-lhe-ás no mesmo dia o preço do seu trabalho antes do sol-posto, porque é pobre, e com isso sustenta a sua vida. De contrário ele clamaria contra ti ao Senhor, e pesaria sobre ti um pecado,  
 **16** Não se farão morrer os pais pelos filhos, nem os filhos pelos pais, mas cada um morrerá pelo seu pecado.  
 **17** Não perverterás a justiça (na causa) do estrangeiro e do órfão, nem tirarás por penhor o vestido da viúva.  
 **18** Lembra-te que foste escravo no Egito e que o Senhor teu Deus te tirou de lá. Por isso te mando que faças isto.  
-**19** Quando segares a messe no teu campo, e deixares por esquecimento alguma gavela, não voltarás para a Ievar, mas deixá-las-ás tomar ao estrangeiro, ao órfão e à viúva, a fim de que o Senhor teu Deus te abençoe em todas as obras das tuas mãos.  
+**19** Quando segares a messe no teu campo, e deixares por esquecimento alguma gavela, não voltarás para a levar, mas deixá-las-ás tomar ao estrangeiro, ao órfão e à viúva, a fim de que o Senhor teu Deus te abençoe em todas as obras das tuas mãos.  
 **20** Se tiveres colhido o fruto das oliveiras, não voltarás a colher algum resto que tenha ficado nas árvores, mas deixá-lo-ás ao estrangeiro, ao órfão e à viúva  
 **21** Se tiveres vindimado a tua vinha, não irás colher os cachos que ficaram; serão para o estrangeiro, paia o órfão e para a viúva.  
 **22** Lembra-te que foste também escravo no Egito; por isso te mando que façais assim.  
@@ -736,10 +736,10 @@
 **6** ao filho primogénito que tiver dela porá o nome do seu irmão, para que o nome deste não se extinga em Israel.  
 **7** Porém se ele não quiser receber a mulher do seu irmão, a qual lhe é devida segundo a lei, irá esta mulher à porta da cidade, recorrerá aos anciães e lhes dirá: O irmão de meu marido não quer fazer reviver o nome de seu irmão em Israel, não quer receber-me por mulher.  
 **8** Eles o farão logo comparecer e o interrogarão. Se responder: Eu não a quero receber por mulher —  
-**9** a mulher se aproximará dele diante dos anciães, tirar-Ihe-á o sapato do pé, cuspir-lhe-á na cara e dirá: Assim será feito ao homem que não edifica a casa de seu irmão.  
+**9** a mulher se aproximará dele diante dos anciães, tirar-lhe-á o sapato do pé, cuspir-lhe-á na cara e dirá: Assim será feito ao homem que não edifica a casa de seu irmão.  
 **10** A casa de tal homem será chamada em Israel a casa de descalçado.  
 **11** Quando se levantar alguma pendência entre dois homens, e um começar a renhir contra o outro, se a mulher de um, querendo livrar seu marido da mão do que o agride, estender a mão e lhe pegar pelas partes vergonhosas,  
-**12** cortar-Ihe-ás a mão; não te moverás de compaixão alguma por ela.  
+**12** cortar-lhe-ás a mão; não te moverás de compaixão alguma por ela.  
 **13** Não terás no saco pesos diversos, maior e menor;  
 **14** nem haverá em tua casa dois efas, um maior e outro mais pequeno.  
 **15** Terás um peso justo e verdadeiro, terás um efa justo e verdadeiro, a fim de que vivas muito tempo na terra que o Senhor teu Deus te der.  
@@ -758,7 +758,7 @@
 **6** Os Egípcios nos afligiram e nos perseguiram, impondo-nos cargas pesadíssimas.  
 **7** Então clamámos ao Senhor Deus de nossos pais, o qual nos ouviu, olhou para a nossa humilhação, trabalho e angústia,  
 **8** e nos tirou do Egito com mão forte e braço estendido, em meio de grande pavor, com sinais e portentos.  
-**9** Introduziu-nos neste lugar, e deu-nos esta terra que mana Ieite e mel.  
+**9** Introduziu-nos neste lugar, e deu-nos esta terra que mana leite e mel.  
 **10** Por isso eu ofereço agora as primícias dos frutos da terra que o Senhor me deu. (Depois de tais palavras) deixarás (as ofertas) diante do Senhor teu Deus e adorarás o Senhor teu Deus.  
 **11** Depois darás largas à tua alegria, por todos os bens que o Senhor teu Deus te tiver dado a ti e à tua casa, tu e o Levita, e o estrangeiro que está contigo.  
 **12** Quando tiveres acabado de separar o dízimo de todos os teus frutos, no terceiro ano dos dízimos o darás ao Levita, ao estrangeiro, ao órfão e à viúva, para que comam dentro das tuas portas e se fartem,  
@@ -781,7 +781,7 @@
 **7** oferecerás sacrifícios pacíficos, e ali comerás, e te regalarás diante do Senhor teu Deus.  
 **8** Escreverás distinta e claramente sobre as pedras todas as palavras desta lei.  
 **9** Moisés e os sacerdotes da linhagem de Levi disseram a todo o Israel: Guarda silêncio e ouve, ó Israel; hoje tornaste-te o povo do Senhor teu Deus;  
-**10** ouvirás a sua voz, e observarás os mandamentos e Ieis que eu te prescrevo.  
+**10** ouvirás a sua voz, e observarás os mandamentos e leis que eu te prescrevo.  
 **11** Moisés naquele (mesmo) dia deu esta ordem ao povo:  
 **12** Passado o Jordão, estarão sobre o monte de Garizim, para abençoar o povo, estes: Simeão, Levi, Judá, Issacar, José e Benjamim.  
 **13** E estarão da outra parte sobre o monte Hebal, para deitarem a maldição, estoutros: Ruben, Gad, Aser, Zabulon, Dan e Neftali.  
@@ -820,7 +820,7 @@
 **17** Maldito o teu celeiro, malditas as tuas sobras.  
 **18** Maldito o fruto do teu ventre, o fruto da tua terra, as crias das tuas vacas e das tuas ovelhas.  
 **19** Serás maldito ao entrar, e maldito ao sair.  
-**20** O Senhor mandará sobre ti a fome a carestia, e a maldição sobre todas as obras que fizeres até te destruir e exterminar dentro de pouco tempo, por causa dos teus péssimos desígnios, pelos quais me abandonaste.  
+**20** O Senhor mandará sobre ti a fome e a carestia, e a maldição sobre todas as obras que fizeres até te destruir e exterminar dentro de pouco tempo, por causa dos teus péssimos desígnios, pelos quais me abandonaste.  
 **21** O Senhor te fará pegar a peste, até que ela te consuma da terra em que entrarás para a possuir.  
 **22** O Senhor te fira com a fraqueza, com febre e com frio, com calor e secura, com ar corrompido e com ferrugem, e te persiga até que pereças.  
 **23** O céu, que está por cima de ti, seja de bronze, e a terra, que pisas, seja de ferro.  
@@ -950,7 +950,7 @@
 **21** Depois que tiverem caído sobre ele muitos males e aflições, deporá contra ele como testemunha este cântico, o qual não será tirado por nenhum esquecimento da boca da sua posteridade. Eu conheço os seus pensamentos, e o que ele há-de fazer hoje, antes que eu o introduza na terra que lhe prometi.  
 **22** Moisés neste dia, escreveu o cântico e ensinou-o aos filhos de Israel.  
 **23** O Senhor deu as suas ordens a Josué, filho de Nun, e disse-lhe: Tem coragem e sê forte, porque tu introduzirás os filhos de Israel na terra que eu lhes prometi, e eu serei contigo.  
-**24** Quando Moisés acabou de escrever num livro as palavras desta Iei,  
+**24** Quando Moisés acabou de escrever num livro as palavras desta lei,  
 **25** deu aos Levitas, que levavam a arca da aliança do Senhor, esta ordem.  
 **26** Tomai este livro, e ponde-o ao lado da arca da aliança do Senhor vosso Deus, para aí servir de testemunho contra ti.  
 **27** De facto, eu conheço a tua obstinação e a grande dureza da tua cerviz. Ainda vivendo eu e andando convosco, vos portastes sempre obstinados contra o Senhor; quanto mais depois de eu morrer?  
@@ -1006,7 +1006,7 @@
 **44** Foi, pois, Moisés, e proferiu todas as palavras deste cântico aos ouvidos do seu povo: com ele estava Josué filho de Nun.  
 **45** Quando acabou de proferir todas estas palavras a todo o Israel,  
 **46** disse-lhes: Aplicai os vossos corações a todas as palavras que eu hoje vos dirijo, para que recomendeis a vossos filhos que cuidadosamente cumpram todas as coisas que estão escritas nesta lei,  
-**47** porque não foi em vão que vos foram preceituadas, mas para que cada um de vós ache nelas a vida, e, pondo-as em prática, moreis por Iongo tempo na terra que, passado o Jordão, ides possuir.  
+**47** porque não foi em vão que vos foram preceituadas, mas para que cada um de vós ache nelas a vida, e, pondo-as em prática, moreis por longo tempo na terra que, passado o Jordão, ides possuir.  
 **48** O Senhor no mesmo dia falou a Moisés, dizendo:  
 **49** Sobe à montanha de Abarim, ao monte Nebo, que está na terra de Moab, defronte de Jericó, e contempla a terra de Canaan, cuja posse darei aos filhos de Israel. Tu morrerás sobre o monte,  
 **50** onde vais subir, irás unir-te ao teu povo, da mesma forma que teu irmão Aarão morreu sobre o monte Hor, e se foi unir ao seu povo,  

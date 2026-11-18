@@ -24,7 +24,7 @@
 ## Capítulo 2
 
 **1** Tu, pois, meu filho, fortifica-te na graça que está em Jesus Cristo,  
-**2** e o que ouviste de mim, diante de muitas testemunhas, confia-o a homens fiéis, capazes combater de instruir também a outros.  
+**2** e o que ouviste de mim, diante de muitas testemunhas, confia-o a homens fiéis, capazes de instruir também a outros.  
 **3** Suporta os trabalhos como um bom soldado de Jesus Cristo,  
 **4** Ninguém, que se alistou na milícia, se embaraça com negócios civis, se quer agradar àquele que o alistou.  
 **5** Efetivamente também o que combate nos jogos públicos não é coroado, senão depois que combateu segundo as regras.  

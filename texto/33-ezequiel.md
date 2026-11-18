@@ -2,7 +2,7 @@
 
 ## Capítulo 1
 
-**1** No ano trigésimo, no quarto mês, a cinco do mês, aconteceu que, estando no meio dos cativos, ao rio Cobar, se abriram os céus, e tive visões divinas,  
+**1** No ano trigésimo, no quarto mês, a cinco do mês, aconteceu que, estando no meio dos cativos, junto ao rio Cobar, se abriram os céus, e tive visões divinas,  
 **2** A cinco do mês, no quinto ano da deportação do rei Joaquim,  
 **3** foi dirigida a palavra do Senhor a Ezequiel, filho de Buzi, sacerdote, na terra dos Caldeus, junto ao rio Cobar, e lá a mão do Senhor fez-se sentir sobre ele.  
 **4** Tive pois uma visão; Da banda do norte vinha um vento tempestuoso, e uma grande nuvem, com um feixe de fogo resplendoroso, saindo do centro, do meio do fogo, uma espécie de metal brilhante.  
@@ -184,7 +184,7 @@
 ## Capítulo 9
 
 **1** Então uma grande voz gritou aos meus ouvidos: Os flagelos da cidade estão a chegar, cada um com um instrumento de morte em sua mão.  
-**2** E eis que vinham seis homens pelo caminho da porta superior que olha para o norte, trazendo cada um em sua mão um instrumento de ruína. Havia também no meio deles um homem vestido de roupas de Unho, com um tinteiro de escriba à cinta. Entraram e puseram-se junto do altar de bronze.  
+**2** E eis que vinham seis homens pelo caminho da porta superior que olha para o norte, trazendo cada um em sua mão um instrumento de ruína. Havia também no meio deles um homem vestido de roupas de linho, com um tinteiro de escriba à cinta. Entraram e puseram-se junto do altar de bronze.  
 **3** E a glória do Deus de Israel elevou-se de cima do querubim, sobre o qual estava, indo-se pôr à entrada do templo. O Senhor chamou o homem, que estava vestido de roupas de linho e que tinha o tinteiro de escriba à cinta,  
 **4** e disse-lhe: Passa pelo meio da cidade, pelo meio de Jerusalém, e com um tau marca a fronte dos homens que gemem e que se doem de todas as abominações que se fazem no meio dela.  
 **5** E aos outros disse, ouvindo-o eu: Passai pela cidade, seguindo-o, e feri; não sejam, compassivos os vossos olhos, não tenhais compaixão alguma.  
@@ -206,7 +206,7 @@
 **7** Então um querubim estendeu a mão do meio dos querubins para o fogo, que estava entre os querubins, pegou nele e pô-lo nas mãos daquele que estava vestido de roupas de linho, o qual, tomando-o, saiu.  
 **8** Via-se nos querubins uma semelhança de mão de homem debaixo das suas asas.  
 **9** Olhei ainda e (vi que) havia quatro rodas junto dos querubins: uma roda junto de cada querubim. O aspeto destas rodas era como ó duma pedra de crisólito.  
-**10** Todas quatro pareciam semelhantes, como se uma roda estivesse no melo de outra roda.  
+**10** Todas quatro pareciam semelhantes, como se uma roda estivesse no meio de outra roda.  
 **11** Ao avançar, moviam-se nas quatro direções, e não tornavam para trás quando andavam, porque, para onde a que estava primeiro dirigia o seu caminho, para lá também as outras seguiam, sem voltar para nenhum outro lado.  
 **12** Todo o corpo (dos querubins), o seu dorso, as suas mãos e asas, bem como as rodas, estavam cheios de olhos em toda a volta: cada um dos quatro tinha uma roda.  
 **13** A estas rodas ouvi dar o nome de turbilhão.  
@@ -313,7 +313,7 @@
 **4** Por isso fala-lhes e dize-lhes: Assim fala o Senhor Deus: Se qualquer da casa de Israel, que tiver posto ídolos no seu coração e colocado o escândalo da sua iniquidade diante de seus olhos, for ter com algum profeta (para me interrogar per meio dele), eu mesmo, o Senhor, lhe responderei segundo a multidão dos seus ídolos.  
 **5** a fim de apanhar a casa de Israel pelo seu próprio coração, ela que se retirou de mim por causa de todos os seus ídolos.  
 **6** Por isso dize à casa de Israel: Assim fala o Senhor Deus: Convertei-vos, retirai-vos dos vossos ídolos, afastai o vosso rosto de todas as vossas abominações.  
-**7** Com efeito, se um homem da casa de Israel, ou um estrangeiro estabelecido em Israel, se afastar de mim e puser ídolos no seu coração, e colocar o escândalo da sua iniquidade diante dos seus olhos, e for, depois, ter com algum profeta para me interrogar por melo dele, eu, o Senhor, lhes responderei por mim mesmo (castigando-o);  
+**7** Com efeito, se um homem da casa de Israel, ou um estrangeiro estabelecido em Israel, se afastar de mim e puser ídolos no seu coração, e colocar o escândalo da sua iniquidade diante dos seus olhos, e for, depois, ter com algum profeta para me interrogar por meio dele, eu, o Senhor, lhes responderei por mim mesmo (castigando-o);  
 **8** voltarei o meu rosto contra tal homem, farei dele um exemplo e um provérbio, exterminá-lo-ei do meio do meu povo e vós sabereis que eu sou o Senhor.  
 **9** Se o profeta errar e proferir um (falso) oráculo, serei eu, o Senhor, que permitirei que se engane esse profeta; estenderei a minha mão sobre ele e exterminá-lo-ei do meio do meu povo de Israel.  
 **10** (Desta forma) levarão sobre si (o castigo da) sua iniquidade a falta do profeta será como a do consulente  
@@ -497,7 +497,7 @@
 **6** nesse dia levantei a minha mão em seu favor, jurando transferi-los da terra do Egito para a terra que lhes tinha preparado, a qual mana leite e mel, a mais excelente de todas as terras.  
 **7** Disse-lhes então: Cada um afaste de si os ídolos sedutores dos seus olhos; não vos mancheis com os ídolos do Egito; eu sou o Senhor vosso Deus.  
 **8** Eles, porém, revoltaram-se contra mim, não me quiseram ouvir; nenhum lançou fora os abomináveis ídolos sedutores dos seus olhos; não abandonaram os ídolos do Egito. Pensei derramar a minha indignação sobre eles, saciar neles a minha ira no meio da terra do Egito;  
-**9** porém procedi (de outra forma) por amor do meu nome, para que ele não ficasse desacreditado diante das gentes, no melo das quais estavam, entre as quais me tinha dado a conhecer, para os tirar da terra do Egito.  
+**9** porém procedi (de outra forma) por amor do meu nome, para que ele não ficasse desacreditado diante das gentes, no meio das quais estavam, entre as quais me tinha dado a conhecer, para os tirar da terra do Egito.  
 **10** Tirei-os, pois, da terra do Egito e conduzi-os ao deserto.  
 **11** Dei-lhes os meus preceitos, ensinei-lhes as minhas leis, em cuja observância o homem encontrará a vida.  
 **12** Além disto, dei-lhes os meus sábados, para que fossem um sinal entre mim e eles e para que soubessem que eu sou o Senhor que os santifico.  
@@ -674,7 +674,7 @@
 **10** Junta muita lenha, acende o fogo, coze a carne prepara o tempero, e sejam queimados os ossos.  
 **11** Põe, depois, a caldeira vazia sobre as brasas, para que ela aqueça e o seu cobre se abrase, e se funda dentro dela a sua imundície, e se consuma a sua ferrugem.  
 **12** Vãos esforços! Não saiu dela a sua muita ferrugem, nem por meio do fogo.  
-**13** Da iniundície do teu proceder eu quis limpar-te, mas não ficaste limpa das tuas impurezas; não mais serás limpa, até que satisfaça contra ti a minha indignação.  
+**13** Da imundície do teu proceder eu quis limpar-te, mas não ficaste limpa das tuas impurezas; não mais serás limpa, até que satisfaça contra ti a minha indignação.  
 **14** Eu, o Senhor, falei: isto acontecerá; agirei sem recuar, não perdoarei, não me aplacarei; segundo os teus caminhos e segundo as tuas obras far-se-á o teu julgamento, diz o Senhor.  
 **15** Foi-me dirigida a palavra do Senhor nestes termos;  
 **16** Filho de homem, eis que vou tirar-te dum golpe aquilo que é mais agradável aos teus olhos (a tua esposa), mas tu não te lamentarás, não chorarás, não te correrão as lágrimas (pelo rosto).  
@@ -704,7 +704,7 @@
 **10** Darei a posse disso, assim como da terra dos Amonitas, aos filhos do oriente, a fim de que não haja mais memória dos filhos de Amon entre as nações.  
 **11** Sobre Moab exercerei assim os meus juízos, e eles saberão que eu sou o Senhor.  
 **12** Isto diz o Senhor Deus: Porque a Idumeia exerceu vingança contra a casa de Judá, e pecou (por isso) por se vingar,  
-**13** por tal motivo, assim fala o Senhor Deus: Estenderei a minha mão contra a Idumeia, tirar-lhe-ei os homens e os animais, e farei dela um deserto; desde Temau até Dedan cairão mortos à espada.  
+**13** por tal motivo, assim fala o Senhor Deus: Estenderei a minha mão contra a Idumeia, tirar-lhe-ei os homens e os animais, e farei dela um deserto; desde Teman até Dedan cairão mortos à espada.  
 **14** Exercerei a minha vingança sobre a Idumeia, pela mão do meu povo de Israel, que tratará Edom segundo a minha ira e o meu furor, e (os Idumeus) reconhecerão a minha vingança, diz o Senhor Deus.  
 **15** Assim fala o Senhor Deus: Porque os Filisteus se entregaram à vingança, se vingaram com profundo desprezo, matando com o (seu) ódio eterno,  
 **16** por esse motivo, isto diz o Senhor Deus: Vou estender a minha mão contra os Filisteus, matarei os Cretenses e exterminarei o que resta na costa do mar.  
@@ -715,7 +715,7 @@
 **1** No ano undécimo (do cativeiro), no primeiro do mês foi-me dirigida a palavra do Senhor, nestes termos:  
 **2** Filho de homem, porque Tiro disse de Jerusalém: É bem feito! Foi quebrada a porta dos povos! Volta-se para mim! Vou-me encher (com os despojos) dela que ficou devastada!  
 **3** por isso assim fala o Senhor Deus: Eis que vou contra ti, ó Tiro! Farei subir contra a ti muitas nações, como o mar faz subir as suas ondas quando se encrespa.  
-**4** Elas destruirão os muros de Tiro e deitarão abaixo suas torres, Até o pó varrerei dela, torná-la-ei como uma pedra lisa.  
+**4** Elas destruirão os muros de Tiro e deitarão abaixo as suas torres, Até o pó varrerei dela, torná-la-ei como uma pedra lisa.  
 **5** Virá a ser no meio do mar como um enxugadouro das redes sou eu que o declaro, diz o Senhor Deus será presa das nações.  
 **6** As suas filhas, que estão no campo, serão também passadas ao fio da espada. E saber-se-á que eu sou o Senhor.  
 **7** Eis o que diz o Senhor Deus: Vou fazer vir, das partes do setentrião contra Tiro, a Nabucodonosor, rei de Babilónia, rei dos reis, com cavalos, carros, cavalaria e grande multidão de tropa.  
@@ -883,7 +883,7 @@
 **3** Por cuja causa, isto diz o Senhor Deus: Estenderei sobre ti a minha rede, por meio duma multidão imensa de povos, e tirar-te-ão para fora na minha rede.  
 **4** Arrojar-te-ei à terra, lançar-te-ei sobre o campo, farei pousar sobre ti todas as aves do céu, fartarei em ti todos os animais da terra.  
 **5** Lançarei as tuas carnes sobre os montes, encherei os vales dos teus destroços.  
-**6** Regarei a terra das montanhas com o que escorrer de ti, com o teu sangue, e as que bradas ficarão cheias (do que tiver saldo) de ti.  
+**6** Regarei a terra das montanhas com o que escorrer de ti, com o teu sangue, e as quebradas ficarão cheias (do que tiver saído) de ti.  
 **7** Velarei os céus, quando fores morto, farei enegrecer as suas estrelas; encobrirei o sol de nuvens, e a lua não dará a sua luz.  
 **8** Farei que todos os luzeiros do céu se vistam de luto, por ti, e espalharei as trevas sobre a tua terra, diz o Senhor Deus.  
 **9** Encherei de dor o coração de muitos povos, quando espalhar os teus cativos por entre as nações, por países que não conheces.  
@@ -1136,7 +1136,7 @@
 **3** Quando me introduziu lá, vi um homem, cujo aspeto era como de (lucidíssimo) bronze, o qual, tendo na mão um cordel de linho e uma cana de medir, estava à porta.  
 **4** Este homem disse-me: Filho de homem, vê com os teus olhos, ouve com os teus ouvidos e põe no teu coração todas as coisas que te vou mostrar porque para elas te serem mostradas é que tu foste aqui trazido. Anuncia à casa de Israel todas as coisas que vais ver.  
 **5** Um muro exterior por todas as partes cercava a casa. O homem tinha na mão uma cana de medir, de seis côvados, sendo cada côvado equivalente a um côvado (ordinário) e um palmo, e mediu a largura do muro que era duma cana, e a altura, que era também duma cana.  
-**6** Depois foi ao pórtico voltado para o oriente, subiu pelos degraus e mediu o limiar da porta, que tinha uma oriental cana de largo;  
+**6** Depois foi ao pórtico voltado para o oriente, subiu pelos degraus e mediu o limiar da porta, que tinha uma cana de largo;  
 **7** cada câmara tinha uma cana de comprido e uma cana de largo; entre as câmaras havia cinco côvados.  
 **8** O limiar do pórtico, do lado do vestíbulo do pórtico, para o interior, media uma cana.  
 **9** Mediu o vestíbulo do pórtico, o qual tinha oito côvados, e as suas pilastras (que tinham) dois côvados; o vestíbulo do pórtico estava para a parte de dentro (do edifício).  
@@ -1188,7 +1188,7 @@
 **3** Depois, tendo entrado no interior, mediu as pilastras da porta, que tinham dois côvados, e a porta (no seu comprimento), que tinha seis côvados, e a largura da porta, que era de sete côvados.  
 **4** Depois mediu (o interior do Santuário), diante da face do templo, um comprimento de vinte côvados e uma largura também de vinte côvados, e disse-me: Este é o Santo dos Santos.  
 **5** Mediu a parede do templo, que tinha seis côvados; a largura das câmaras, postas de todas as partes à roda do templo, era de quatro côvados.  
-**6** Estas câmaras laterais estavam umas sobre as outras, em três planos, trinta em cada plano. Havia um muro exterior construído em volta do edifício, para suster as câmaras, que estas tocassem na parede do templo.  
+**6** Estas câmaras laterais estavam umas sobre as outras, em três planos, trinta em cada plano. Havia um muro exterior construído em volta do edifício, para suster as câmaras, sem que estas tocassem na parede do templo.  
 **7** A largura aumentava, dum andar para o outro, à medida que se subia, em toda a volta do templo...  
 **8** Observei neste edifício, ao redor dele, um talude, base das câmaras laterais, com a medida duma cana inteira de seis côvados.  
 **9** A espessura da parede do lado de fora (era) de cinco côvados, igualmente a da passagem junto das câmaras laterais.  
@@ -1315,7 +1315,7 @@
 **14** Quanto à medida do azeite, dareis a décima parte dum bato por cada cor, que é igual ao homer, pois tem dez batos, porque dez batos enchem um homer.  
 **15** (Oferecereis) um carneiro de cada rebanho de duzentas cabeças das pastagens de Israel, para a oblação, para os holocaustos e para os sacrifícios pacíficos, a fim de fazer expiação por eles, diz o Senhor Deus.  
 **16** Todo o povo da terra será obrigado a pagar estas primícias ao que for príncipe em Israel.  
-**17** Mas estarão a cargo do príncipe os holocaustos, as oferendas e as libações nos dias solenes, nos primeiros dias de cada mês, nos sábados, em todas as solenidades da casa de Israel; ele oferecerá (o necessário para) o sacrifício pelo pecado, para o holocausto e para os sacrifícios pacíficos, a fim de se fazer a explação pela casa de Israel.  
+**17** Mas estarão a cargo do príncipe os holocaustos, as oferendas e as libações nos dias solenes, nos primeiros dias de cada mês, nos sábados, em todas as solenidades da casa de Israel; ele oferecerá (o necessário para) o sacrifício pelo pecado, para o holocausto e para os sacrifícios pacíficos, a fim de se fazer a expiação pela casa de Israel.  
 **18** Isto diz o Senhor Deus; No primeiro mês, no primeiro dia do mês, tomarás um novilho sem defeito e expiação, purificarás o santuário.  
 **19** O sacerdote tomará do sangue da vítima oferecida pelo pecado, e espargirá com ele os postes do templo, os quatro cantos do quadro do altar e os postes da porta do átrio Interior.  
 **20** O mesmo farás no sétimo dia do mês, por cada um que pecou por ignorância ou por irreflexão, e (assim) purificarás o templo.  

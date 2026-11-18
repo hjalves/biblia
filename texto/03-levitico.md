@@ -9,7 +9,7 @@
 **5** imolará o novilho diante do Senhor, e os sacerdotes, filhos de Aarão oferecerão o seu sangue, derramando-o ao redor do altar, que está diante da porta do tabernáculo;  
 **6** tirada a pele à vítima, farão em pedaços os seus membros,  
 **7** porão fogo sobre o altar, depois que tiverem posto em ordem a lenha,  
-**8** e colocarão em cima, por ordem, os membros cortados, a saber, a cabeça o redenho.  
+**8** e colocarão em cima, por ordem, os membros cortados, a saber, a cabeça e o redenho.  
 **9** Depois lavará com água os intestinos e os pés da vítima e o sacerdote queimará estas coisas sobre o altar em holocausto e em suave odor ao Senhor.  
 **10** Porém, se a oferta for um holocausto de gado miúdo, oferecerá um macho sem defeito,  
 **11** e o imolará diante do Senhor ao lado do altar, que olha para o aquilão; os filhos de Aarão derramarão o seu sangue em toda a volta sobre o altar.  
@@ -477,7 +477,7 @@
 **8** Se a saliva deste homem cair sobre um que está limpo, esse lavará as suas vestes, e, lavado ele mesmo em água, será impuro até à tarde.  
 **9** A sela, sobre que tiver cavalgado, ficará impura;  
 **10** tudo o que tiver estado debaixo daquele que padece este mal, ficará impuro até à tarde. O que levar alguma destas coisas, lavará as suas vestes, e, lavando-se ele mesmo em água, será impuro até à tarde.  
-**11** Todo aquele que for tocado por um homem em tal estado, sem este ter antes lavado as mãos, lavará as suas vestes, e, lavando-se ele mesmo em água, será impuro até à tarde.  
+**11** Todo aquele que for tocado por um homem em tal estado, sem este ter antes lavado as mãos, lavará também as suas vestes, e, lavando-se ele mesmo em água, será impuro até à tarde.  
 **12** O vaso de barro que tocar, será quebrado, e o vaso de pau será lavado em água.  
 **13** Se o que padece esta moléstia sarou dela, contará sete dias depois da cura, e, lavadas as suas vestes e todo o corpo na água viva, ficará puro.  
 **14** Ao oitavo dia, tomará duas rolas ou dois pombinhos e apresentar-se-á diante do Senhor, à porta do tabernáculo da reunião e dá-los-á ao sacerdote,  
@@ -608,7 +608,7 @@
 **14** Não amaldiçoarás o surdo, nem porás tropeço diante do cego; temerás o Senhor teu Deus, porque eu sou o Senhor.  
 **15** Não farás o que é iníquo, nem julgarás injustamente. Não atendas à pessoa do pobre, nem tenhas respeito à cara do poderoso. Julga o teu próximo com justiça.  
 **16** Não serás um acusador, nem um maldizente entre o povo. Não conspirarás contra o sangue do teu próximo (com falsos testemunhos). Eu sou o Senhor.  
-**17** Não odiarás o teu irmão no teu coração, mas repreendê-Io-ás para que não incorras em pecado por sua causa.  
+**17** Não odiarás o teu irmão no teu coração, mas repreendê-lo-ás para que não incorras em pecado por sua causa.  
 **18** Não procurarás a vingança, nem conservarás a lembrança da injúria dos teus concidadãos. Amarás o teu próximo como a ti mesmo. Eu sou o Senhor.  
 **19** Observai as minhas leis. Não juntarás animais de diversa espécie. Não semearás o teu campo com semente de espécie diversa. Não usarás roupa tecida de duas espécies de fios.  
 **20** Se um homem tiver relações carnais com uma mulher que seja escrava e desposada (com outro homem), mas não resgatada, nem posta em liberdade, serão ambos açoutados, mas não morrerão, porque ela não era livre.  
@@ -905,7 +905,7 @@
 ## Capítulo 27
 
 **1** O Senhor falou a Moisés, dizendo:  
-**2** Fala aos filhos de Israel, e dize-Ihes: Se um homem fizer um voto a Deus, avaliar-se-ão as pessoas relativamente ao Senhor, como tu as avalias.  
+**2** Fala aos filhos de Israel, e dize-lhes: Se um homem fizer um voto a Deus, avaliar-se-ão as pessoas relativamente ao Senhor, como tu as avalias.  
 **3** Um homem, dos vinte aos sessenta anos, avaliá-lo-ás em cinquenta siclos de prata, segundo a medida do santuário;  
 **4** Se for mulher, avaliá-la-ás em trinta.  
 **5** Dos cinco anos até aos vinte avaliarás o homem em vinte siclos; a mulher em dez.  

@@ -29,7 +29,7 @@
 **25** "Isto é uma graça que me fez o Senhor nos dias em que me olhou para tirar o meu opróbrio de entre os homens."  
 **26** Estando Isabel no sexto mês, foi enviado por Deus o anjo Gabriel a uma cidade da Galileia, chamada Nazaré,  
 **27** a uma virgem desposada com um varão, chamado José, da casa de David; o nome da virgem era Maria.  
-**28** Entrando o anjo onde ela estava, disse-Ihe: "Deus te salve, cheia de graça; o Senhor é contigo."  
+**28** Entrando o anjo onde ela estava, disse-lhe: "Deus te salve, cheia de graça; o Senhor é contigo."  
 **29** Ela, ao ouvir estas palavras, perturbou-se, e discorria pensativa que saudação seria esta.  
 **30** O anjo disse-lhe: "Não temas, Maria, pois achaste graça diante de Deus;  
 **31** eis que conceberás no teu ventre, e darás à luz um filho, a quem porás o nome de Jesus.  
@@ -133,7 +133,7 @@
 **46** Aconteceu que, três dias depois, o encontraram no templo sentado no meio dos doutores, ouvindo-os e interrogando-os.  
 **47** E todos os que ouviam, estavam maravilhados da sua sabedoria e das suas respostas.  
 **48** Quando o viram, admiraram-se. E sua mãe disse-lhe: "Filho, porque procedeste assim connosco? Eis que teu pai e eu te procurávamos cheios de aflição."  
-**49** Ele disse-Ihes: "Para que me buscáveis? Não sabíeis que devo ocupar-me nas coisas de meu Pai?"  
+**49** Ele disse-lhes: "Para que me buscáveis? Não sabíeis que devo ocupar-me nas coisas de meu Pai?"  
 **50** Eles porém não entenderam o que lhes disse.  
 **51** Depois desceu com eles, e foi a Nazaré; e era-lhes submisso, Sua mãe conservava todas estas coisas no seu coração.  
 **52** Jesus crescia em sabedoria, em estatura e em graça diante de Deus e dos homens.  
@@ -165,7 +165,7 @@
 **23** Jesus, quando começou o seu ministério, tinha cerca de trinta anos, filho, como se julgava, de José, filho de Heli, filho de Matat,  
 **24** filho de Levi, filho de Melqui, filho de Jane, filho de José,  
 **25** filho de Matatias, filho de Amós, filho de Naum, filho de Hesli, filho de Nagé,  
-**26** filho de Maat, filho de Matalías, filho de Semei, filho de José, filho de Judá,  
+**26** filho de Maat, filho de Matatias, filho de Semei, filho de José, filho de Judá,  
 **27** filho de Joanan, filho de Resa, filho de Zorobabel, filho de Salatiel, filho de Neri,  
 **28** filho de Melqui, filho de Adi, filho de Cosam, filho de Elmadam, filho de Her,  
 **29** filho de Jesus, filho de Eliezer, filho de Jorim, filho de Matat, filho de Levi,  
@@ -175,8 +175,8 @@
 **33** filho de Aminadab, filho de Arão, filho de Esron, filho de Farés, filho de Judá,  
 **34** filho de Jacob, filho de Isaac, filho de Abraão, filho de Taré, filho de Nacor,  
 **35** filho de Sarag, filho de Ragau, filho de Faleg, filho de Heber, filho de Sale,  
-**36** filho de Cainan, filho de Arfasad, filho de Sem, filho de Noé, filho de Lamech,  
-**37** filho de Matusalem, filho de Heuocb, filho de Jared, filho de Malaleel, filho de Cainan,  
+**36** filho de Cainan, filho de Arfaxad, filho de Sem, filho de Noé, filho de Lamech,  
+**37** filho de Matusalem, filho de Henoch, filho de Jared, filho de Malaleel, filho de Cainan,  
 **38** filho de Henós, filho de Set, filho de Adão, filho de Deus.  
 
 ## Capítulo 4
@@ -188,7 +188,7 @@
 **5** O demónio conduziu-o então a um alto monte, mostrou-lhe, num momento, todos os reinos da terra,  
 **6** e disse-lhe: "Dar-te-ei o poder de tudo isto, e a glória destes reinos, porque eles foram-me dados, e eu dou-os a quem me parece.  
 **7** Portanto, se tu me adorares, todos eles serão teus."  
-**8** Jesus, respondeu-Ihe: "Está escrito: Adorarás o Senhor teu Deus, e a ele só servirás (Dt. 6, 13)."  
+**8** Jesus, respondeu-lhe: "Está escrito: Adorarás o Senhor teu Deus, e a ele só servirás (Dt. 6, 13)."  
 **9** Levou-o também a Jerusalém, pô-lo sobre o pináculo do templo, e disse-lhe: "Se és filho de Deus, lança-te daqui abaixo;  
 **10** porque está escrito que Deus mandou aos seus anjos que te guardem,  
 **11** e que te sustenham em suas mãos, para não magoares ó teu pé em nenhuma pedra (Ps. 90, 11-12)."  
@@ -239,7 +239,7 @@
 **9** Porque tanto ele como todos os que se encontravam com ele ficaram possuídos de espanto, por causa da pesca que tinham feito.  
 **10** O mesmo tinha acontecido a Tiago e a João, filhos de Zebedeu, que eram companheiros de Simão. Jesus disse a Simão: "Não tenhas medo; desta hora em diante serás pescador de homens."  
 **11** Trazidas as barcas para terra, deixando tudo, seguiram-no.  
-**12** Sucedeu que, encontrando-se Jesus numa cidade, apareceu um homem cheio de lepra, o qual, vendo Jesus, prostrou-se com o rosto por terra e suplicou-Ihe: "Senhor, se tu queres, podes limpar-me."  
+**12** Sucedeu que, encontrando-se Jesus numa cidade, apareceu um homem cheio de lepra, o qual, vendo Jesus, prostrou-se com o rosto por terra e suplicou-lhe: "Senhor, se tu queres, podes limpar-me."  
 **13** Ele, estendendo a mão, tocou-o, dizendo: "Quero, sê limpo." Imediatamente desapareceu dele a lepra.  
 **14** Jesus ordenou-lhe que a ninguém o dissesse. Mas vai, disse-lhe, mostra-te ao sacerdote, e oferece pela tua cura o que foi ordenado por Moisés, para lhes servir de testemunho."  
 **15** Entretanto dilatava-se cada vez mais a fama do seu nome; e concorriam muitas multidões para o ouvir e ser curadas das suas doenças.  
@@ -271,7 +271,7 @@
 ## Capítulo 6
 
 **1** Num sábado, passando Jesus pelas searas, os seus discípulos colhiam espigas, e, machucando-as nas mãos, as comiam.  
-**2** Alguns dos fariseus disseram-Ihes: "Porque fazeis o que não é permitido nos sábados?"  
+**2** Alguns dos fariseus disseram-lhes: "Porque fazeis o que não é permitido nos sábados?"  
 **3** Jesus respondeu-lhes: "Não leste o que fez David, quando teve fome, ele e os que com ele estavam?"  
 **4** Como entrou na casa de Deus, tomou os pães da proposição, comeu deles, e deu aos seus companheiros, embora não fosse permitido comer deles senão aos sacerdotes?"  
 **5** Depois acrescentou: "O Filho do homem é Senhor também do sábado."  
@@ -446,7 +446,7 @@
 **10** Tendo voltado os Apóstolos, contaram-lhe tudo o que tinham feito. Ele, tomando-os consigo, retirou-se aparte a um lugar do território de Betsaida.  
 **11** Sabendo isto, as multidões foram-no seguindo. E as recebeu, falou-lhes do reino de Deus e sarou os que necessitavam de cura.  
 **12** Ora o dia começava a declinar. Aproximando-se dele os doze, disseram-lhe: "Despede as multidões, para que, indo pelas aldeias e herdades circunvizinhas, se alberguem e encontrem que comer, porque aqui estamos num lugar deserto."  
-**13** Ele respondeu-Ihes: "Dai-lhes vós de comer." Eles disseram: "Não temos mais do que cinco pães e dois peixes, a não ser que vamos comprar mantimento para toda esta multidão."  
+**13** Ele respondeu-lhes: "Dai-lhes vós de comer." Eles disseram: "Não temos mais do que cinco pães e dois peixes, a não ser que vamos comprar mantimento para toda esta multidão."  
 **14** Pois eram quase cinco mil homens. Então disse a seus discípulos: "Mandai-os sentar divididos em ranchos de cinquenta."  
 **15** Eles assim o executaram, e mandaram-nos sentar a todos.  
 **16** Tendo tomado os cinco pães e os dois peixes, levantou os olhos ao céu, abençoou-os, partiu-os e distribuiu-os aos seus discípulos, para que os servissem à multidão.  
@@ -455,7 +455,7 @@
 **19** Responderam e disseram: "Uns dizem que João Batista, outros que Elias, outros que ressuscitou um dos antigos profetas."  
 **20** Ele disse-lhes: "E vós quem dizeis que sou eu?" Pedro, respondendo, disse: "O Cristo de Deus."  
 **21** Mas ele, com seu tom severo, mandou que o não dissessem a ninguém,  
-**22** acrescentando: "É necessário que o Filho do homem padeça muitas coisas, que seja rejeitado pelos anciães, pelos príncipes doe sacerdotes e pelos escribas, que seja morto, e ressuscite ao terceiro dia.  
+**22** acrescentando: "É necessário que o Filho do homem padeça muitas coisas, que seja rejeitado pelos anciães, pelos príncipes dos sacerdotes e pelos escribas, que seja morto, e ressuscite ao terceiro dia.  
 **23** Depois, dirigindo-se a todos: "Se alguém quer vir após de mim, negue-se a si mesmo, tome a sua cruz todos os dias, e siga-me.  
 **24** Porque o que quiser salvar a sua vida (abandonando-me), a perderá; e quem perder a sua vida por causa de mim, salvá-la-á.  
 **25** Que aproveita o homem ganhar todo o mundo, se se perde a si mesmo, e se faz dano a si?  
@@ -499,7 +499,7 @@
 
 ## Capítulo 10
 
-**1** Depois disto, o Senhor escolheu outros setenta e dois mandou-os dois a dois adiante de si por todas as cidades e lugares onde ele estava para ir.  
+**1** Depois disto, o Senhor escolheu outros setenta e dois e mandou-os dois a dois adiante de si por todas as cidades e lugares onde ele estava para ir.  
 **2** Disse-lhes: "Grande é na verdade a messe, mas os operários poucos. Rogai, pois, ao dono da messe que mande operários para a sua messe.  
 **3** Ide; eis que eu vos envio como cordeiros entre lobos.  
 **4** Não leveis bolsa, nem alforge, nem calçado, e pelo caminho não saudeis ninguém.  
@@ -560,7 +560,7 @@
 **14** Jesus estava expelindo um demónio, que era mudo. Depois de ter expelido o demónio, o mudo falou, e as multidões ficaram maravilhadas.  
 **15** Mas alguns disseram: "Ele expele os demónios por virtude de Belzebu, príncipe dos demónios."  
 **16** Outros, para o tentarem, pediam-lhe um prodígio vindo do céu.  
-**17** Ele, porém, conhecendo os seus pensamentos, disse-Ihes: "Todo o reino dividido contra si mesmo será devastado, e cairá casa sobre casa.  
+**17** Ele, porém, conhecendo os seus pensamentos, disse-lhes: "Todo o reino dividido contra si mesmo será devastado, e cairá casa sobre casa.  
 **18** Se, pois, Satanás está dividido contra si mesmo, como estará em pé o seu reino? Porque vós dizeis que por virtude de Belzebu é que eu lanço fora os demónios.  
 **19** Ora, se é por virtude de Belzebu que eu lanço fora os demónios, vossos filhos por virtude de quem os expelem? Por isso eles mesmos serão os vossos juízes.  
 **20** Mas se eu, pelo dedo de Deus, lanço fora os demónios, certamente chegou a vós o reino de Deus.  
@@ -675,7 +675,7 @@
 **10** Jesus estava ensinando numa sinagoga em dia de sábado.  
 **11** Estava lá uma mulher possessa de um espírito que a tinha doente havia dezoito anos; andava encurvada, e não podia absolutamente levantar a cabeça.  
 **12** Jesus, vendo-a, chamou-a, e disse-lhe; "Mulher, estás livre da tua enfermidade.  
-**13** impôs-Ihe as mãos. Imediatamente ficou direita, e glorificava a Deus.  
+**13** impôs-lhe as mãos. Imediatamente ficou direita, e glorificava a Deus.  
 **14** Mas, tomando a palavra o príncipe da sinagoga, indignado de que Jesus tivesse curado em dia de sábado, disse ao povo: "Há seis dias para trabalhar; vinde, pois, nestes, e sede curados, mas não em dia de sábado."  
 **15** O Senhor disse-lhe: "Hipócritas, qualquer de vós não solta aos sábados o seu boi ou seu jumento da manjedoura, para os levar a beber?  
 **16** E esta filha de Abraão, que Satanás tinha presa, há dezoito anos não devia ser livre desta prisão ao sábado?"  
@@ -693,7 +693,7 @@
 **28** Ali haverá choro e ranger de dentes, quando virdes Abraão, Isaac, Jacob, e todos os profetas no reino de Deus, e vós serdes expulsos para fora.  
 **29** Virão muitos do oriente, do ocidente, do norte, do sul, e se sentarão à mesa no reino de Deus.  
 **30** Então haverá últimos que serão os primeiros, e primeiros que serão os últimos."  
-**31** No mesmo dia alguns dos fariseus foram dizer-Ihe: "Sai, e vai-te daqui: porque Herodes quer-te matar."  
+**31** No mesmo dia alguns dos fariseus foram dizer-lhe: "Sai, e vai-te daqui: porque Herodes quer-te matar."  
 **32** Ele respondeu-lhes: "Ide dizer a essa raposa: Eis que eu lanço fora os demónios, e faço curas: hoje e amanhã, e ao terceiro dia estou no termo.  
 **33** Importa, contudo, que eu caminhe ainda hoje, amanhã e no dia seguinte; porque não convém que um profeta morra fora de Jerusalém.  
 **34** Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te são enviados, quantas vezes quis juntar os teus filhos como a galinha recolhe os seus pintainhos debaixo das asas, e tu não quiseste!  
@@ -732,7 +732,7 @@
 **29** Para que, depois de ter assentado o fundamento e não a poder terminar, todos os que virem, não comecem a fazer zombaria dele, dizendo:  
 **30** Este homem principiou a edificar, e não pôde terminar.  
 **31** Ou qual é o rei que, estando para entrar em guerra contra outro rei, não se assenta primeiro a considerar se com dez mil homens pode ir encontrar-se com o que traz contra ele vinte mil?  
-**32** Doutra maneira, quando o outro está ainda longe, enviando embaixadores, pede-Ihe paz.  
+**32** Doutra maneira, quando o outro está ainda longe, enviando embaixadores, pede-lhe paz.  
 **33** Assim, pois, qualquer de vós que não renuncia tudo o que possui, não pode ser meu discípulo.  
 **34** O sal é bom; porém, se o sal perder a força, com que se há-de temperar?  
 **35** Não é bom nem para a terra, nem para estrume; mas será lançado fora. O que tem ouvidos para ouvir, ouça."  
@@ -744,7 +744,7 @@
 **3** Então propôs-lhes esta parábola:  
 **4** "Qual de vós, tendo cem ovelhas, se perde uma delas, não deixa as noventa e nove no deserto, para ir procurar a que se tinha perdido, até que a encontre?  
 **5** E, tendo-a encontrado, a põe sobre os ombros todo contente,  
-**6** e, indo para casa, chama os seus amigos e vizinhos, dizendo-Ihes: Congratulai-vos comigo, porque encontrei a minha ovelha, que se tinha perdido.  
+**6** e, indo para casa, chama os seus amigos e vizinhos, dizendo-lhes: Congratulai-vos comigo, porque encontrei a minha ovelha, que se tinha perdido.  
 **7** Digo-vos que, do mesmo modo, haverá maior júbilo no céu por um pecador que fizer penitência, que por noventa e nove justos que não têm necessidade de penitência.  
 **8** Ou qual é a mulher que, tendo dez dracmas, e perdendo uma, não acende a candeia, não varre a casa, e não procura diligentemente até que a encontre?  
 **9** E que, depois de a achar, não convoca as amigas e vizinhas, dizendo: "Congratulai-vos comigo, porque encontrei a dracma que tinha perdido.  
@@ -794,7 +794,7 @@
 **18** Todo o que repudia sua mulher, e toma outra, comete adultério; e o que casa com a que foi repudiada por seu marido, comete adultério.  
 **19** Havia um homem rico, que se vestia de púrpura e de linho fino, e todos os dias se banqueteava esplendidamente.  
 **20** Havia também um mendigo, chamado Lázaro, que, coberto de chagas, estava deitado à sua porta,  
-**21** desejando saciar-se com as migalhas que caiam da mesa do rico... e até os cães vinham lamber-Ihe as chagas.  
+**21** desejando saciar-se com as migalhas que caiam da mesa do rico... e até os cães vinham lamber-lhe as chagas.  
 **22** Sucedeu morrer o mendigo, e foi levado pelos anjos ao seio de Abraão. Morreu também o rico, e foi sepultado.  
 **23** Quando estava nos tormentos do inferno, levantando os olhos, viu ao longe Abraão, e Lázaro no seu seio.  
 **24** Então exclamou; Pai Abraão, compadece-te de mim, e manda Lázaro que molhe em água a ponta do seu dedo, para refrescar a minha língua, pois sou atormentado nesta chama.  
@@ -804,7 +804,7 @@
 **28** pois tenho cinco irmãos, para que os advirta disto, e não suceda virem também eles parar a este lugar de tormentos.  
 **29** Abraão disse-lhe: Têm Moisés e os profetas; ouçam-nos.  
 **30** Ele, porém, disse: Não basta isso pai Abraão, mas, se algum dos mortos for ter com eles, farão penitência.  
-**31** Ele disse-Ihe: Se não ouvem Moisés e os profetas, tão-pouco acreditarão, ainda que ressuscitasse algum dos mortos."  
+**31** Ele disse-lhe: Se não ouvem Moisés e os profetas, tão-pouco acreditarão, ainda que ressuscitasse algum dos mortos."  
 
 ## Capítulo 17
 
@@ -870,7 +870,7 @@
 **19** Jesus respondeu-lhe: "Porque me chamas bom? Ninguém é bom senão só Deus.  
 **20** Tu conheces os mandamentos: não matarás, não cometerás adultério, não furtarás, não dirás falso testemunho, honra teu pai e tua mãe (Ex. 20, 12-16; Dt. 5, 16-20)."  
 **21** Ele disse: "Tenho observado tudo isso desde a minha juventude."  
-**22** Tendo Jesus ouvido isto, disse-Ihe: "Ainda te falta uma coisa: Vende tudo quanto tens, dá-o aos pobres, e terás um tesouro no céu; depois vem, segue-me."  
+**22** Tendo Jesus ouvido isto, disse-lhe: "Ainda te falta uma coisa: Vende tudo quanto tens, dá-o aos pobres, e terás um tesouro no céu; depois vem, segue-me."  
 **23** Mas ele, ouvindo isto, entristeceu-se, porque era muito rico.  
 **24** Jesus, vendo esta tristeza, disse: "Quanto é difícil que aqueles que têm riquezas entrem no reino de Deus!  
 **25** É mais fácil passar um camelo pelo fundo de uma agulha, do que entrar um rico no reino de Deus."  
@@ -879,7 +879,7 @@
 **28** Então disse Pedro: "Eis que deixámos tudo para te seguir."  
 **29** Ele disse-lhes: "Em verdade vos digo que ninguém há que tenha abandonado a casa, a mulher, os irmãos, os pais ou os filhos por causa do reino de Deus,  
 **30** que não receba muito mais já neste mundo, e, no século futuro, a vida eterna."  
-**31** Em seguida tomou Jesus aparte os doze, e disse-Ihes: "Eis que vamos para Jerusalém, e será cumprido tudo o que está escrito pelos profetas relativo ao Filho do homem.  
+**31** Em seguida tomou Jesus aparte os doze, e disse-lhes: "Eis que vamos para Jerusalém, e será cumprido tudo o que está escrito pelos profetas relativo ao Filho do homem.  
 **32** Será entregue aos gentios, será escarnecido, ultrajado, cuspido;  
 **33** e, depois de o açoutarem, o matarão, e ressuscitará ao terceiro dia."  
 **34** Eles, porém, nada disto compreenderam; este discurso era para eles obscuro, e não penetravam coisa alguma do que lhes dizia.  
@@ -902,7 +902,7 @@
 **5** Quando Jesus chegou àquele lugar, levantou os olhos e disse-lhe: "Zaqueu, desce depressa, porque convém que eu fique hoje em tua casa."  
 **6** Ele desceu a toda a pressa, e recebeu-o alegremente.  
 **7** Vendo isto, todos murmuravam, dizendo: "Foi hospedar-se em casa de um homem pecador."  
-**8** Entretanto Zaqueu, de pé diante do Senhor, disse-Ihe: "Eis, Senhor, que dou aos pobres metade dos meus bens e, naquilo em que eu tiver defraudado alguém restituir-lhe-ei no quádruplo."  
+**8** Entretanto Zaqueu, de pé diante do Senhor, disse-lhe: "Eis, Senhor, que dou aos pobres metade dos meus bens e, naquilo em que eu tiver defraudado alguém restituir-lhe-ei no quádruplo."  
 **9** Jesus disse-lhe: "Hoje entrou a salvação nesta casa, porque este também é filho de Abraão.  
 **10** Porque o Filho do homem veio buscar e salvar o que estava perdido."  
 **11** Estando eles a ouvir isto, Jesus acrescentou uma parábola, por estar perto de Jerusalém, e porque julgavam que o reino de Deus se havia de manifestar em breve.  
@@ -919,7 +919,7 @@
 **22** Disse-lhe o senhor: Servo mau, pela tua mesma boca te julgo. Sabias que eu sou um homem austero, que tiro donde não pus, e recolho o que não semeei;  
 **23** logo, porque não puseste o meu dinheiro num banco, para que, quando eu viesse, o recebesse com os juros?  
 **24** Depois disse aos que estavam presentes: Tirai-lhe o marco de prata, e dai-o ao que tem dez.  
-**25** Eles responderam-Ihe: Senhor, ele já tem dez.  
+**25** Eles responderam-lhe: Senhor, ele já tem dez.  
 **26** Pois eu vos digo que a todo aquele que tiver, se lhe dará; mas ao que não tem, será tirado ainda mesmo o que tem.  
 **27** Quanto, porém, àqueles meus inimigos, que não quiseram que eu fosse seu rei, trazei-os aqui, e degolai-os na minha presença.  
 **28** Dito isto, ia Jesus adiante subindo para Jerusalém.  
@@ -1046,10 +1046,10 @@
 **7** Chegou o dia dos ázimos, no qual se devia imolar a Páscoa.  
 **8** Jesus enviou Pedro e João, dizendo: "Ide, preparai-nos a refeição pascal."  
 **9** Eles perguntaram: "Onde queres que a preparemos?"  
-**10** Ele disse-Ihes: "Logo que entrardes na cidade, sair-vos-á ao encontro um homem levando uma bilha de água; segui-o até à casa em que entrar;  
+**10** Ele disse-lhes: "Logo que entrardes na cidade, sair-vos-á ao encontro um homem levando uma bilha de água; segui-o até à casa em que entrar;  
 **11** e direis ao dono da casa: O Mestre manda-te dizer: Onde está o aposento em que hei-de comer a Páscoa com os meus discípulos?  
 **12** Ele vos mostrará uma grande sala toda ornada; preparai aí o que for preciso."  
-**13** Indo eles, encontraram tudo como Jesus Ihes dissera; e prepararam a Páscoa.  
+**13** Indo eles, encontraram tudo como Jesus lhes dissera; e prepararam a Páscoa.  
 **14** Chegada a hora, pôs-se Jesus à mesa com os Apóstolos, e  
 **15** disse-lhes: "Tenho desejado ardentemente comer convosco esta Páscoa, antes de sofrer,  
 **16** porque vos digo que não mais a comerei, até que ela se cumpra no reino de Deus."  
@@ -1069,10 +1069,10 @@
 **30** para que comais e bebais à minha mesa, no meu reino, e vos senteis sobre tronos a julgar as doze tribos de Israel.  
 **31** Simão, Simão, eis que Satanás vos busca com instância para vos joeirar como trigo;  
 **32** mas eu roguei por ti, para que a tua fé não desfaleça; e tu, uma vez convertido, conforta os teus irmãos."  
-**33** Pedro disse-Ihe: "Senhor, eu estou pronto a ir contigo para a prisão e para a morte."  
+**33** Pedro disse-lhe: "Senhor, eu estou pronto a ir contigo para a prisão e para a morte."  
 **34** Jesus, porém, disse-lhe: Digo-te, Pedro, que não cantará hoje o galo, sem que tu, por três vezes, me tenhas negado que me conheces." Depois disse-lhes:  
 **35** "Quando eu vos mandei sem bolsa, sem alforge, sem sandálias, faltou-vos porventura alguma coisa?"  
-**36** Eles responderam: "Nada." Disse-Ihes, pois: "Mas agora quem tem bolsa, tome-a, e também alforge, quem não tem espada venda o seu manto, e compre uma.  
+**36** Eles responderam: "Nada." Disse-lhes, pois: "Mas agora quem tem bolsa, tome-a, e também alforge, quem não tem espada venda o seu manto, e compre uma.  
 **37** Porque vos digo que é necessário que se cumpra em mim isto que está escrito: Foi posto entre os malfeitores (Is. 53, 12). Porque as coisas que me dizem respeito estão perto do seu cumprimento."  
 **38** Eles responderam; "Senhor, eis aqui duas espadas." Jesus disse-lhes: "Basta."  
 **39** Tendo saído, foi, segundo o seu costume, para o monte das Oliveiras. Seus discípulos o seguiram.  
@@ -1186,7 +1186,7 @@
 **14** Iam falando um com o outro sobre tudo o que se tinha passado.  
 **15** discorrendo entre si, aproximou-se deles o próprio Jesus, e caminhou com eles.  
 **16** Os seus olhos, porém, estavam como que fechados, de modo que não o reconheram.  
-**17** Ele disse-Ihes: "Que conversas são essas que ides tendo pelo caminho, porque estais tristes?  
+**17** Ele disse-lhes: "Que conversas são essas que ides tendo pelo caminho, porque estais tristes?  
 **18** Respondeu um deles, chamado Cléofas: "Só tu és forasteiro em Jerusalém, e não sabes o que ali se tem passado estes dias?"  
 **19** Ele disse-lhes: "Que é?" Responderam: "Sobre Jesus Nazareno, que foi um profeta, poderoso em obras e em palavras, diante de Deus e de todo o povo;  
 **20** e de que maneira os nossos príncipes dos sacerdotes e os nossos magistrados o entregaram para ser condenado à morte, e o crucificaram.  
@@ -1213,7 +1213,7 @@
 **41** Mas, não crendo eles ainda e estando fora de si com a alegria que sentiam, perguntou-lhes: "Tendes aqui alguma coisa que se coma?"  
 **42** Eles apresentaram-lhe uma posta de peixe assado e um favo de mel.  
 **43** Tendo-os tomado comeu-os à vista deles.  
-**44** Depois disse-Ihes: "Isto é que eu vos dizia, quando ainda estava convosco, que era necessário que se cumprisse tudo o que de mim estava escrito na lei de Moisés, nos profetas e nos salmos."  
+**44** Depois disse-lhes: "Isto é que eu vos dizia, quando ainda estava convosco, que era necessário que se cumprisse tudo o que de mim estava escrito na lei de Moisés, nos profetas e nos salmos."  
 **45** Então abriu-lhes o entendimento, para compreenderem as Escrituras;  
 **46** e disse-lhes: "Assim está escrito, e assim era necessário que o Cristo padecesse e ressuscitasse dos mortos ao terceiro dia,  
 **47** e que em seu nome se pregasse a penitência e a remissão dos pecados a todas as nações, começando por Jerusalém.  

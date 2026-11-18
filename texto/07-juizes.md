@@ -7,7 +7,7 @@
 **3** Judá disse a Simeão, seu irmão: Sobe comigo à terra, que me coube em sorte, e combate contra o Cananeu, a fim de que eu vá depois contigo à tua sorte. E Simeão foi com ele.  
 **4** Judá subiu, e o Senhor entregou nas suas mãos o Cananeu e o Ferezeu; derrotaram em Bezec dez mil homens.  
 **5** Encontraram Adonibezec, em Bezec, combateram contra ele, e derrotaram o Cananeu e o Ferezeu.  
-**6** Adonibezec fugiu, mas, indo eles em seu alcance, apanharam-no e cortaram-Ihe as extremidades das mãos e dos pés.  
+**6** Adonibezec fugiu, mas, indo eles em seu alcance, apanharam-no e cortaram-lhe as extremidades das mãos e dos pés.  
 **7** Adonibezec disse: Sessenta reis, a quem tinham sido cortadas as extremidades das mãos e dos pés, apanhavam debaixo da minha mesa os sobejos da comida; como eu fiz, assim Deus me fez. E levaram-no a Jerusalém, e ali morreu.  
 **8** Ora os filhos de Judá, tendo atacado Jerusalém, tomaram-na e passaram-na ao fio de espada, pondo fogo a toda a cidade.  
 **9** Depois, baixando, combateram contra o Cananeu, que habitava nas montanhas, ao meio-dia, e nas planícies.  
@@ -15,8 +15,8 @@
 **11** Partindo dali, foi contra os habitantes de Dabir, que antigamente se chamava Cariat-Sefer, isto é, cidade das letras.  
 **12** Caleb disse: Eu darei minha filha Axa por mulher ao que tomar Cariat-Sefer e a destruir.  
 **13** Tendo-a tomado Otoniel, filho de Cenez, irmão mais novo de Caleb, este deu-lhe a sua filha Axa por mulher.  
-**14** Indo ela em viagem, sugeriu-Ihe seu marido que pedisse a seu pai um campo. Ao descer do jumento, Caleb disse-lhe: Que tens?  
-**15** E ela respondeu: Dá-me a tua bênção; já que me deste uma terra seca, dá-me também uma que se possa regar. Caleb pois deu-Ihe uma terra, que se regava nos altos e nos baixos.  
+**14** Indo ela em viagem, sugeriu-lhe seu marido que pedisse a seu pai um campo. Ao descer do jumento, Caleb disse-lhe: Que tens?  
+**15** E ela respondeu: Dá-me a tua bênção; já que me deste uma terra seca, dá-me também uma que se possa regar. Caleb pois deu-lhe uma terra, que se regava nos altos e nos baixos.  
 **16** Os filhos do Cineu, parente de Moisés, saíram da cidade das palmeiras com os filhos de Judá para o deserto, que era da sorte desta tribo, ao meio-dia de Arad, e habitaram com eles.  
 **17** Depois Judá marchou com Simeão, seu irmão, e juntos derrotaram o Cananeu, que habitava em Safat, e destruíram-no totalmente. E esta cidade foi chamada com o nome de Horma, isto é, anátema.  
 **18** Judá tomou também Gaza com os seus arrabaldes, e Ascalon e Acaron, com os seus arrabaldes.  
@@ -41,7 +41,7 @@
 
 ## Capítulo 2
 
-**1** O anjo do Senhor subiu de Galgala ao lugar o (chamado) dos Chorosos, e disse: Eu vos tirei do Egito e vos introduzi na terra, que eu tinha jurado a vossos pais (dar-vos), e prometi-vos não mais romper o pacto (que fiz) convosco,  
+**1** O anjo do Senhor subiu de Galgala ao lugar (chamado) dos Chorosos, e disse: Eu vos tirei do Egito e vos introduzi na terra, que eu tinha jurado a vossos pais (dar-vos), e prometi-vos não mais romper o pacto (que fiz) convosco,  
 **2** com a condição, porém, de que não faríeis aliança com os habitantes desta terra, mas que destruiríeis os seus altares. Vós não quisestes ouvir a minha voz; por que fizestes isto?  
 **3** Por esta razão eu não quis expulsá-los, à vossa frente, para que os tenhais por inimigos, e os seus deuses sejam a vossa ruína.  
 **4** Ao dizer o anjo do Senhor estas palavras a todos os filhos de Israel, levantaram estes a sua voz e choraram.  
@@ -106,7 +106,7 @@
 **3** Os filhos de Israel clamaram ao Senhor, porque Jabin tinha novecentos carros de ferro, e tinha-os oprimido com violência durante vinte anos.  
 **4** Naquele tempo vivia Débora profetisa, mulher de Lapidot, a qual julgava o povo.  
 **5** Sentava-se debaixo duma palmeira, que se chamava do seu nome, entre Rama e Betel, sobre o monte de Efraim, e os filhos de Israel iam ter com ela em todos os seus litígios.  
-**6** Ela mandou chamar Barac, filho de Abinoem, (natural) de Cedes de Neftali, e disse-Ihe: O Senhor Deus de Israel ordena-te que vás e conduzas o exército ao monte Tabor, levando contigo dez mil combatentes dos filhos de Neftali e dos filhos de Zabulon.  
+**6** Ela mandou chamar Barac, filho de Abinoem, (natural) de Cedes de Neftali, e disse-lhe: O Senhor Deus de Israel ordena-te que vás e conduzas o exército ao monte Tabor, levando contigo dez mil combatentes dos filhos de Neftali e dos filhos de Zabulon.  
 **7** Estando tu no lugar da torrente de Cison, eu farei que venham à tua presença Sisara, general do exército de Jabin, os seus carros e toda a sua gente, e tos entregarei nas mãos.  
 **8** Barac disse-lhe: Se vieres comigo, irei; se não quiseres vir comigo, não irei.  
 **9** Ela respondeu-lhe: Está bem, eu irei contigo, mas desta vez não te será atribuída a vitória, porque Sisara será entregue nas mãos duma mulher. Levantou-se, pois, Débora e partiu com Barac para Cedes.  
@@ -174,7 +174,7 @@
 **9** livrei-vos do poder dos Egípcios e de todos os inimigos, que vos afligiam; lancei-os fora à vossa chegada e entreguei-vos a sua terra.  
 **10** Nessa ocasião, disse-vos: Eu sou o Senhor vosso Deus, não temais os deuses dos Amorreus, em cuja terra habitais. E vós não quisestes ouvir a minha voz.  
 **11** Depois (destas palavras) veio o anjo do Senhor e sentou-se debaixo de um terebinto, que havia em Efra e pertencia a Joás, pai da família de Ezri. Estando Gedeão, seu filho, sacudindo e limpando o trigo no lagar, para o esconder dos Madianitas,  
-**12** o anjo do Senhor apareceu-Ihe e disse: O Senhor é contigo, valente herói.  
+**12** o anjo do Senhor apareceu-lhe e disse: O Senhor é contigo, valente herói.  
 **13** Gedeão disse-lhe: Se o Senhor é connosco, peço-te, senhor meu, (que me digas) por que nos aconteceram todas estas coisas? Onde estão aquelas suas maravilhas, que nossos pais nos contaram, dizendo: O Senhor tirou-nos do Egito? Agora o Senhor abandonou-nos e entregou-nos nas mãos do Madianitas.  
 **14** Então (o anjo que representava) o Senhor olhou para ele e disse: Vai com essa tua força e livra Israel do poder dos Madianitas. Sabe que sou eu quem te manda.  
 **15** Ele respondeu e disse: Diz-me, te peço, meu Senhor, como poderei eu livrar Israel? A minha família é a última de Manassés, e eu sou o menor na casa de meu pai.  
@@ -193,7 +193,7 @@
 **28** Os homens daquela cidade, tendo-se levantado pela manhã, viram o altar de Baal destruído, o aschera e o segundo touro posto sobre o altar, que acabava de ser erigido.  
 **29** Disseram uns para os outros: Quem fez isto? Averiguando o autor da obra, foi-lhes dito: Gedeão, filho de Joás, fez todas estas coisas.  
 **30** Disseram a Joás: Faz vir aqui teu filho, para que seja morto, porque destruiu o altar de Baal, e cortou o aschera.  
-**31** Joás respondeu-Ihes: Porventura sois vós os vingadores de Baal, para combaterdes por ele? Aquele que é seu inimigo, morra antes que chegue o dia de amanhã; se ele é Deus, vingue-se daquele que destruiu o seu altar.  
+**31** Joás respondeu-lhes: Porventura sois vós os vingadores de Baal, para combaterdes por ele? Aquele que é seu inimigo, morra antes que chegue o dia de amanhã; se ele é Deus, vingue-se daquele que destruiu o seu altar.  
 **32** Daquele dia em diante Gedeão foi chamado Jerobaal, por Joás ter dito: Vingue-se Baal daquele que destruiu o seu altar.  
 **33** Entretanto todos os Madianitas, os Amalecitas e os povos do oriente, se juntaram e, tendo passado o Jordão, acamparam no vale de Jezrael.  
 **34** O espírito do Senhor apoderou-se de Gedeão, o qual, tocando a trombeta, convocou a casa de Abiezer, para que o seguisse.  
@@ -272,8 +272,8 @@
 
 ## Capítulo 9
 
-**1** Abimelec, filho de Jerobaal, foi a Siquem ter com os irmãos de sua mãe e disse-lhes, assim como toda a parentela da casa do pai de sua mãe:  
-**2** Dizei a todos os homens de Sequim: Qual é melhor para vós, serdes dominados por setenta homens, filhos todos de Jerobaal, ou por um só homem? Considerai também que eu sou vosso osso e vossa carne.  
+**1** Abimelec, filho de Jerobaal, foi a Siquem ter com os irmãos de sua mãe e disse-lhes, assim como a toda a parentela da casa do pai de sua mãe:  
+**2** Dizei a todos os homens de Siquem: Qual é melhor para vós, serdes dominados por setenta homens, filhos todos de Jerobaal, ou por um só homem? Considerai também que eu sou vosso osso e vossa carne.  
 **3** Os irmãos de sua mãe falaram dele a todos os homens de Siquem, referindo todas as palavras, e inclinaram o seu coração a favor de Abimelec, dizendo: É nosso irmão.  
 **4** (Os Siquemitas) deram-lhe setenta siclos de prata do templo de Baalberit, com os quais tomou a seu soldo homens miseráveis e aventureiros, que o seguiram.  
 **5** Foi à casa de seu pai, em Efra, e matou, sobre uma só pedra, os seus irmãos, filhos de Jerobaal, setenta homens; escapou somente Joatão, filho mais novo de Jerobaal, que se escondeu.  
@@ -282,7 +282,7 @@
 **8** Foram (uma vez) as árvores, para eleger sobre si um rei, e disseram à oliveira: Reina sobre nós.  
 **9** Mas ela respondeu: Porventura posso eu deixar o meu óleo, de que se servem os deuses e os homens, para vir a ser superior entre as árvores?  
 **10** E as árvores disseram à figueira: Vem e reina sobre nós.  
-**11** Mas ela respondeu-Ihes: Porventura posso eu deixar a minha doçura, os meus suavíssimos frutos, para ir ser superior entre as outras árvores?  
+**11** Mas ela respondeu-lhes: Porventura posso eu deixar a minha doçura, os meus suavíssimos frutos, para ir ser superior entre as outras árvores?  
 **12** E as árvores disseram à videira; Vem e reina sobre nós.  
 **13** Mas ela respondeu-lhes: Porventura posso eu deixar o meu vinho, que alegra Deus (nos sacrifícios) e os homens, para ser superior entre as outras árvores?  
 **14** E todas as árvores disseram ao espinheiro: Vem e reina sobre nós.  
@@ -401,7 +401,7 @@
 **3** Vendo isto, arrisquei a minha vida e marchei contra os filhos de Amon, e o Senhor entregou-os nas minhas mãos. Em que é que eu mereci que vos levanteis contra mim a fazer-me guerra?  
 **4** Convocados todos os homens de Galaad, combateu contra Efraim, e os homens de Galaad derrotaram Efraim, porque este tinha dito: Galaad é um fugitivo de Efraim, e habita entre Efraim e Manassés.  
 **5** Os Galaaditas ocuparam os vaus do Jordão, por onde Efraim havia de voltar. Quando algum fugitivo de Efraim chegava a eles e dizia: Peço-vos que me deixeis passar — os Galaaditas respondiam-lhe: Acaso és tu efraimita? Se ele respondesse: Não sou —  
-**6** replicavam-Ihe: Dize pois Schibolet, que significa espiga. Ele pronunciava Sibolet, não podendo exprimir a palavra espiga com as mesmas letras. Imediatamente preso, degolavam-no na mesma passagem do Jordão. Naquele tempo morreram quarenta e dois mil homens de Efraim.  
+**6** replicavam-lhe: Dize pois Schibolet, que significa espiga. Ele pronunciava Sibolet, não podendo exprimir a palavra espiga com as mesmas letras. Imediatamente preso, degolavam-no na mesma passagem do Jordão. Naquele tempo morreram quarenta e dois mil homens de Efraim.  
 **7** Jefté Galaadita julgou Israel durante seis anos; depois morreu, e foi sepultado na sua cidade de Galaad.  
 **8** Depois deste, foi juiz de Israel Abesan, de Belém,  
 **9** O qual teve trinta filhos, e outras tantas filhas, que casou fora de sua casa; fez vir de fora e recebeu em sua casa igual número de mulheres como esposas dos seus filhos. Julgou Israel durante sete anos.  
@@ -424,7 +424,7 @@
 **8** Então Manué fez oração ao Senhor, dizendo: Peço-te, Senhor, que o homem de Deus, que enviaste, venha outra vez, e nos ensine o que devemos fazer acerca do menino, que há-de nascer.  
 **9** O Senhor ouviu a oração de Manué, e o anjo de Deus apareceu de novo à sua mulher, estando sentada no campo. Não estava com ela seu marido Manué. Ela, tendo visto o anjo,  
 **10** imediatamente correu a dar a seu marido a notícia, dizendo: Eis que me apareceu o homem, que eu tinha visto antes.  
-**11** Ele levantou-se, seguiu sua mulher, e, tendo chegado ao homem, disse-Ihe: És tu que falaste a esta mulher? Ele respondeu: Sou eu.  
+**11** Ele levantou-se, seguiu sua mulher, e, tendo chegado ao homem, disse-lhe: És tu que falaste a esta mulher? Ele respondeu: Sou eu.  
 **12** Manué disse-lhe: Quando se tiver cumprido a tua palavra, que queres tu que faça o menino? ou de que coisa se deverá ele abster?  
 **13** O anjo do Senhor respondeu a Manué: Abstenha-se tua mulher de tudo o que eu lhe disse:  
 **14** não coma nada do que nasce da vinha; não beba vinho, nem coisa que possa embriagar; não coma coisa alguma impura; observe e cumpra o que lhe ordenei.  
@@ -545,8 +545,8 @@
 **5** Eles pediram-lhe que consultasse o Senhor, para poderem saber se a sua jornada seria feliz, se a sua empresa se efetuaria.  
 **6** Ele respondeu-lhes: Ide em paz: o Senhor olha (benignamente) a vossa jornada e o caminho que levais.  
 **7** Partindo pois aqueles cinco homens, foram à (cidade e em de) Lais e viram que o povo habitava nela sem nenhum temor, como era costume entre os Sidónios, seguro e tranquilo, não havendo quem lhe fizesse oposição, que era muito rico, distante de Sidónia e separado de todos os outros homens.  
-**8** Voltando para seus irmãos em Saraa e Estaol, e, perguntando-lhes estes o que tinham feito, responderam-Ihes:  
-**9** Levantai-vos, vamos a eles, porque nós vimos que é um país muito rico e fértil; não sejais descuidados, não vos detenhais; vamos e ocupemo-lo, quo não vos custará trabalho algum.  
+**8** Voltando para seus irmãos em Saraa e Estaol, e, perguntando-lhes estes o que tinham feito, responderam-lhes:  
+**9** Levantai-vos, vamos a eles, porque nós vimos que é um país muito rico e fértil; não sejais descuidados, não vos detenhais; vamos e ocupemo-lo, que não vos custará trabalho algum.  
 **10** Entraremos num povo, que vive em segurança num país muito espaçoso, e o Senhor nos dará um lugar onde não falta nada daquelas coisas que são produzidas na terra.  
 **11** Partiram pois da família de Dan, isto é, de Saara e de Estaol, seiscentos homens, munidos com armas de guerra,  
 **12** e, marchando, acamparam em Cariatiarim de Judá; aquele lugar desde então recebeu o nome de Campo de Dan, a ocidente de Cariatiarim.  
@@ -595,7 +595,7 @@
 **21** Conduziu-o a sua casa, deu de comer aos jumentos, e, depois que (os viajantes) lavaram os pés, serviu-lhes uma refeição.  
 **22** Enquanto restauravam os seus corpos com a comida e bebida, chegaram uns homens daquela cidade, filhos de Belial (isto é, sem jugo), e, cercando a casa do velho, começaram a bater fortemente à porta, dizendo ao dono da casa: Deita cá para fora esse homem, que enfarou para tua casa, a fim de abusarmos dele.  
 **23** O velho saiu fora, a ter com eles, e disse: Não queirais, irmãos, não queirais cometer semelhante maldade, pois eu hospedei este homem em minha casa. Não façais tal infâmia.  
-**24** Eu tenho uma filha virgem e este homem tem a sua mulher, eu vo-Ias tirarei cá para fora, para abusardes delas e satisfazerdes a vossa paixão; somente vos peço que não cometais contra este homem tal infâmia.  
+**24** Eu tenho uma filha virgem e este homem tem a sua mulher, eu vo-las tirarei cá para fora, para abusardes delas e satisfazerdes a vossa paixão; somente vos peço que não cometais contra este homem tal infâmia.  
 **25** Eles não queriam ceder às suas razões. Então aquele homem (Levita), vendo isto, trouxe-lhes sua mulher e abandonou-a aos seus ultrajes; eles, depois de terem abusado dela toda a noite, largaram-na ao amanhecer.  
 **26** A mulher, ao amanhecer, foi à porta da casa, onde estava o seu senhor, e lá caiu por terra.  
 **27** Chegada a manhã, levantou-se o marido e, ao abrir a porta para continuar a viagem começada, viu que sua mulher jazia (morta) diante da porta, com as mãos estendidas sobre a soleira.  
@@ -669,7 +669,7 @@
 **11** Eis o que devereis observar: Matai todos os varões e todas as mulheres não virgens, mas reservai virgens.  
 **12** E encontraram-se em Jabes-Galaad quatrocentas virgens, que não tinham conhecido varão, e conduziram-nas ao campo de Silo, na terra de Canaan.  
 **13** Mandaram mensageiros aos filhos de Benjamim, que estavam no rochedo de Remon, e ofereceram-lhes a paz.  
-**14** Então os filhos de Benjamim vieram, e foram-lhes dadas por mulheres as filhas de Jabes-Qalaad, mas não eram bastantes.  
+**14** Então os filhos de Benjamim vieram, e foram-lhes dadas por mulheres as filhas de Jabes-Galaad, mas não eram bastantes.  
 **15** E todo o Israel teve muita pena, e arrependeu-se da destruição duma das tribos de Israel.  
 **16** Os anciãos disseram: Que faremos dos outros, que não receberam mulheres, pois todas as mulheres da tribo de Benjamim pereceram?  
 **17** Fique em Benjamim a herança dos que escaparam, para que não pereça uma das tribos de Israel.  
@@ -679,7 +679,7 @@
 **21** Quando virdes as filhas de Silo sair, segundo o costume, para dançar em coro, saí de repente das vinhas, e cada um tome uma para mulher, e parti para a terra de Benjamim.  
 **22** Quando vierem seus pais e irmãos, e começarem a queixar-se de vós, nós lhes diremos: Tende compaixão deles, pois na guerra não tomámos uma mulher para cada um. Na verdade não fostes vós que lhas destes, senão teríeis incorrido em culpa:  
 **23** Os filhos de Benjamim fizeram como lhes tinha sido mandado; segundo o seu número, cada um tomou para sua mulher uma, de entre as donzelas que dançavam. (Depois) retiraram-se para as suas possessões, edificando as cidades e habitando nelas.  
-**24** Os filhos de Israel também voltaram para as suas toadas, segundo as suas tribos e famílias.  
+**24** Os filhos de Israel também voltaram para as suas tendas, segundo as suas tribos e famílias.  
 **25** Naquele tempo não havia rei em Israel; mas cada um fazia o que lhe parecia justo.
 
 ---

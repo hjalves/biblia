@@ -12,14 +12,14 @@
 **8** Reinou Alexandre doze anos e morreu.  
 **9** Os grandes da sua corte começaram a reinar, cada um no território designado.  
 **10** Depois da morte de Alexandre, puseram todos o diadema, e, após eles, seus filhos, durante muitos anos, multiplicando-se os males sobre a terra.  
-**11** Destes reis saiu aquela raiz do pecado, Antíoco Epífanes, filho do rei Antíoco, que em Boma tinha já estado como refém e que começou a reinar no ano cento e trinta e sete do reino dos Gregos.  
+**11** Destes reis saiu aquela raiz do pecado, Antíoco Epífanes, filho do rei Antíoco, que em Roma tinha já estado como refém e que começou a reinar no ano cento e trinta e sete do reino dos Gregos.  
 **12** Naqueles dias saíram de Israel uns filhos iníquos, que seduziram muitos, dizendo: Vamos e façamos aliança com as nações circunvizinhas, porque, desde que nos separamos delas, vieram sobre nós muitos males.  
 **13** E pareceu bem este conselho a seus olhos.  
 **14** Alguns do povo resolveram-se e foram ter com o rei, o qual lhes deu poder de viver segundo os costumes dos gentios.  
 **15** Em seguida edificaram em Jerusalém um ginásio conforme o uso das nações.  
 **16** Dissimularam os sinais da circuncisão, separaram-se da santa aliança, juntaram-se com as nações e venderam-se para fazerem o mal.  
 **17** Quando lhe pareceu bem consolidado o seu reino (da Síria), Antíoco começou a querer reinar no país do Egito, para ser soberano dos dois reinos.  
-**18** (Com este designo) entrou no Egito à frente dum poderoso exército, com carros, elefantes, cavalaria e grande número de navios.  
+**18** (Com este desígnio) entrou no Egito à frente dum poderoso exército, com carros, elefantes, cavalaria e grande número de navios.  
 **19** Fez guerra a Ptolomeu, rei do Egito, e Ptolomeu, tomado de medo diante dele, fugiu, caindo feridos muitos (dos seus).  
 **20** Antíoco tomou as cidades fortes da terra do Egito e levou os seus despojos.  
 **21** Depois de ter vencido o Egito, no ano cento e quarenta e três, Antíoco voltou e marchou contra Israel:  
@@ -72,7 +72,7 @@
 
 ## Capítulo 2
 
-**1** Naqueles dias Matatias, filho de Joio, filho de Simeão, sacerdote, dentre os filhos de Joarib, saiu de Jerusalém e habitou sobre Modin.  
+**1** Naqueles dias Matatias, filho de João, filho de Simeão, sacerdote, dentre os filhos de Joarib, saiu de Jerusalém e habitou sobre Modin.  
 **2** Tinha cinco filhos: João, por sobrenome Gadis;  
 **3** Simão, por sobrenome Tasi;  
 **4** Judas, chamado Macabeu;  
@@ -136,7 +136,7 @@
 **62** Não temais, pois, as ameaças do homem pecador, porque toda a sua glória irá ter ao esterco e aos bichos;  
 **63** hoje eleva-se, e amanhã desaparecerá, porque voltará ao seu pó, e todos os seus pensamentos se desvanecerão.  
 **64** Vós, pois, filhos, armai-vos de valor e procedei com valentia em defesa da lei, porque por ela é que sereis gloriosos.  
-**65** Aqui tendes Simão, vosso irmão; sei que ele é homem conselho; ouvi-o sempre, e ele será para vós um pai.  
+**65** Aqui tendes Simão, vosso irmão; sei que ele é homem de conselho; ouvi-o sempre, e ele será para vós um pai.  
 **66** Judas Macabeu, de grande valor desde a sua mocidade, seja o general das vossas tropas e conduza a guerra contra as nações.  
 **67** Juntareis a vós todos os observadores da lei e tomareis vingança dos agravos feitos ao vosso povo.  
 **68** Pagai às nações o mal que elas têm feito e estai sempre atentos aos preceitos da lei.  
@@ -383,7 +383,7 @@
 **38** Foi posto o resto da cavalaria dum e doutro flanco, em dois troços, para açoutar o inimigo e proteger as falanges.  
 **39** Quando o sol brilhou sobre os escudos de ouro e de bronze, com o seu reflexo resplandeceram os montes, resplandeceram como fachos de fogo.  
 **40** Uma parte do exército do rei avançou pelo alto dos montes, e outra pelas planícies, caminhando com precaução e ordem.  
-**41** Todos estavam espantados da grita que fazia esta multidão de soldados, do ruído da marcha de tanta gente e do trincolejar das suas armas, porque era um exército multo grande e forte.  
+**41** Todos estavam espantados da grita que fazia esta multidão de soldados, do ruído da marcha de tanta gente e do trincolejar das suas armas, porque era um exército muito grande e forte.  
 **42** Judas aproximou-se com o seu exército para dar a batalha, e morreram do exército do rei seiscentos homens.  
 **43** Então Eleazar, por sobrenome Abaran, viu um dos elefantes todo coberto de couraças reais, mais alto que todos os outros. Supondo que o rei iria sobre ele,  
 **44** sacrificou a sua vida para livrar o seu povo e adquirir um nome imortal.  
@@ -393,7 +393,7 @@
 **48** Então o exército do rei marchou contra eles para a banda de Jerusalém, dirigindo-se (assim) o rei contra a Judeia e o monte Sião  
 **49** O rei fez paz com os que estavam em Betsur, e eles saíram da cidade, porque não tinham já que comer, para suportar o cerco, pois era o ano sabático da terra.  
 **50** Assim o rei tomou Betsur e pôs nela uma guarnição que a guardasse.  
-**51** Depois fez marchar as suas tropas paira o lugar que cercou durante muitos dias; pôs ali balistas, máquinas, engenhos para lançar fogo, trabucos para atirar pedras e arremessar dardos, e escorpiões para despedir setas, e fundas.  
+**51** Depois fez marchar as suas tropas para o lugar que cercou durante muitos dias; pôs ali balistas, máquinas, engenhos para lançar fogo, trabucos para atirar pedras e arremessar dardos, e escorpiões para despedir setas, e fundas.  
 **52** (Os sitiados) fizeram também máquinas contra as máquinas dos inimigos e pelejaram durante muitos dias.  
 **53** Mas não havia víveres na cidade, por ser o ano sétimo (ou sabático) e porque os refugiados na Judeia, fugidos aos gentios, tinham consumido o resto das provisões de reserva.  
 **54** Ficaram poucos homens de guarda aos lugares santos, porque os tinha apertado a fome. (Os outros) dispersaram-se cada um para a sua terra.  
@@ -425,7 +425,7 @@
 **14** porque diziam: É um sacerdote da linhagem de Aarão que vem com o exército; ele não nos fará mal.  
 **15** Alcimo falou-lhes com (todas as aparências de) paz e jurou-lhes: Não queremos fazer mal algum, nem a vós nem aos vossos amigos.  
 **16** Eles deram-lhe crédito. Mas (Alcimo) fez prender sessenta homens deles e mandou-os matar num mesmo dia, segundo a palavra que está escrita (nos Salmos):  
-**17** Entregaram (aos animais) a carne dos teus santos derramaram o seu sangue ao redor de Jerusalém, sem haver quem os sepultasse.  
+**17** Entregaram (aos animais) a carne dos teus santos e derramaram o seu sangue ao redor de Jerusalém, sem haver quem os sepultasse.  
 **18** Então todo o povo foi tomado de grande temor e espanto, pois diziam: Não há entre eles verdade nem justiça, porque violaram a palavra dada e o juramento feito.  
 **19** Báquides partiu de Jerusalém e foi acampar junto de Bezeth, onde mandou prender muitos daqueles que tinham abandonado o seu partido, com alguns do povo, e lançar na grande cisterna.  
 **20** Depois disto, tendo confiado o país a Alcimo e deixado um corpo de tropas para o sustentar, Báquides voltou para junto do rei.  
@@ -438,7 +438,7 @@
 **27** Foi, pois, Nicanor a Jerusalém com um grande exército e deputou quem fosse ter com Judas e seus irmãos, para tratar de paz com engano,  
 **28** dizendo: Não haja guerra entre mim e vós; eu virei com poucos homens a ver-vos pessoalmente e a falar-vos de paz.  
 **29** Depois foi ter com Judas, e uns e outros se saudaram amigavelmente, mas os inimigos estavam preparados para prender Judas.  
-**30** Judas, apenas soube que Nicanor tinha ido falar-Ihe com dolosa tenção, logo se temeu dele e não quis mais ver-lhe o rosto.  
+**30** Judas, apenas soube que Nicanor tinha ido falar-lhe com dolosa tenção, logo se temeu dele e não quis mais ver-lhe o rosto.  
 **31** Nicanor reconheceu que estava descoberto o seu desígnio e marchou contra Judas, para lhe dar batalha junto de Cafarsalama.  
 **32** Do exército de Nicanor caíram cerca de cinco mil homens, e os outros fugiram para a cidade de Davide.  
 **33** Depois disto, Nicanor subiu ao monte Sião. Saíram do templo alguns dos sacerdotes com anciães do povo, para o saudarem em espírito de paz e mostrar-lhe os holocaustos, que se ofereciam pelo rei.  
@@ -467,16 +467,16 @@
 **3** quanto tinham feito no país de Espanha, para se apoderarem das minas de prata e de ouro, que ali há, e como conquistaram todas estas terras pela sua prudência e paciência,  
 **4** embora se encontrassem tais terras muito distantes; igualmente, (ouviu) como derrotaram reis, que os tinham vindo atacar desde as extremidades, do mundo, infligindo-lhes tão grande mortandade no seus exércitos que os outros lhe pagavam tributo todos os anos.  
 **5** (Soube) que tinham vencido em batalha a Filipe e a Perseu, rei dos Geteus, e batido e subjugado aos outros, que haviam tomado armas contra eles;  
-**6** que pelos mesmos havia sido desbaratado Antíoco, o Grande, rei da Asia, o qual lhes movera guerra, trazendo cento e vinte elefantes, cavalaria, carros e um exército multo numeroso;  
+**6** que pelos mesmos havia sido desbaratado Antíoco, o Grande, rei da Asia, o qual lhes movera guerra, trazendo cento e vinte elefantes, cavalaria, carros e um exército muito numeroso;  
 **7** que o tinham tomado vivo, e imposto, a ele e aos seus sucessores, um grande tributo, entrega de reféns e de parte do seu reino (a saber):  
 **8** o país dos Índios, dos Medos e dos Lídios, as mais belas das suas províncias, as quais, depois de recebidas, deram ao rei Eumenes.  
 **9** (Soube também Judas) que os que estavam na Grécia tinham querido marchar (contra os Romanos) e destruí-los, mas que estes, sabedores de tal plano,  
 **10** enviaram contra eles um dos seus generais e lhes deram batalha, mataram muita gente, levaram cativas as suas mulheres e os seus filhos, saquearam-nos, tornaram-se senhores do seu pais, destruíram as suas fortalezas, reduzindo-os à escravidão até ao dia de hoje.  
-**11** Tinham arruinado e subjugado ao seu império os outros reinos e iihas que lhes haviam resistido.  
+**11** Tinham arruinado e subjugado ao seu império os outros reinos e ilhas que lhes haviam resistido.  
 **12** Por outro lado (ouviu) que conservavam cuidadosamente as alianças feitas com os seus amigos e com os que neles confiam; que assim se tornaram senhores dos reinos vizinhos e mesmo dos que lhes ficavam longe, e que todos quantos ouvem o seu nome os temem;  
 **13** que reinam os que eles querem ajudar a reinar, e que são postos fora os que eles não querem; que, desta forma, (os Romanos) se achavam muito engrandecidos.  
 **14** (Finalmente Judas ouviu dizer) que, sem embargo de todas estas coisas, nenhum entre eles trazia diadema, nem se vestia de púrpura, para se engrandecer;  
-**15** que tinham estabelecido nm senado em que todos os dias deliberam trezentos e vinte (senadores), tendo sempre conselho sobre os negócios da república, para bom governo do povo;  
+**15** que tinham estabelecido um senado em que todos os dias deliberam trezentos e vinte (senadores), tendo sempre conselho sobre os negócios da república, para bom governo do povo;  
 **16** que confiam cada ano a autoridade suprema a um só homem, para este mandar em todos os seus estados, obedecendo assim todos a um só, sem haver entre eles nem inveja, nem ciúme.  
 **17** Judas (em vista de tudo isto) escolheu Eupolemo, filho de João, filho de Acos e Jasão, filho de Eleazar, e enviou-os a Roma para contratar amizade e aliança com eles,  
 **18** a fim de que lhes tirassem o jugo dos Gregos, porque viam que eles reduziam à escravidão o reino de Israel  
@@ -618,7 +618,7 @@
 **43** Também (quero) que todos aqueles que se refugiarem no templo de Jerusalém, ou dentro da sua cerca, por causa de dívida ao fisco ou por qualquer outro motivo, fiquem imunes, assim como todos os bens que possuem no meu reino!  
 **44** As despesas para edificar ou reparar as obras do santuário serão feitas por conta do rei,  
 **45** como também o que se gastar para reedificar os muros de Jerusalém, para fortificar a sua cerca e para fazer muralhas nas cidades da Judeia.  
-**46** Mas Jónatas e o povo, quando ouviram estas propostas (de Demétrio), não as tiveram por sinceras e não as aceitaram, poi-que se lembravam dos grandes males que ele tinha feito a Israel e de quanto os tinha atribulado.  
+**46** Mas Jónatas e o povo, quando ouviram estas propostas (de Demétrio), não as tiveram por sinceras e não as aceitaram, porque se lembravam dos grandes males que ele tinha feito a Israel e de quanto os tinha atribulado.  
 **47** Declararam-se, pois, a favor de Alexandre, visto ter sido o primeiro que lhes falara de paz e auxiliaram-no sempre dali por diante.  
 **48** (Negociado isto) levantou o rei Alexandre um grande exército e marchou com suas tropas contra Demétrio.  
 **49** Os dois reis deram batalha, mas o exército de Demétrio fugiu. Alexandre foi em seu alcance e deu sobre ele.  
@@ -698,7 +698,7 @@
 **31** Enviamos-vos uma cópia da carta, que a vosso respeito escrevemos a Lastenes, nosso parente, para tomardes conhecimento dela. (Diz assim);  
 **32** O rei Demétrio, a Lastenes, seu pai, saúde.  
 **33** Resolvemos fazer bem à nação dos Judeus, que são nossos amigos e nos conservam fidelidade, por causa dos seus bons sentimentos para connosco.  
-**34** Confirmamos o seu domínio sobre todo o território da Judeia e dos três distritos de Efraim, Lida e Ramata, os quais foram anexos da província da gamaria à Judeia, com todos os seus territórios. Quanto a todos os que sacrificam em Jerusalém, isentamo-los dos impostos que o rei cobrava deles, cada ano, sobre o que lhes rendiam os frutos da terra e das árvores.  
+**34** Confirmamos o seu domínio sobre todo o território da Judeia e dos três distritos de Efraim, Lida e Ramata, os quais foram anexos da província da Samaria à Judeia, com todos os seus territórios. Quanto a todos os que sacrificam em Jerusalém, isentamo-los dos impostos que o rei cobrava deles, cada ano, sobre o que lhes rendiam os frutos da terra e das árvores.  
 **35** Renunciamos também desde agora a outros direitos que nos pertenciam de dízimos e de tributos, (renunciamos) aos impostos das salinas e às coroas (de ouro) que nos eram devidas.  
 **36** Todas estas coisas lhes damos; e nada disto será anulado desde agora para sempre.  
 **37** Cuidai, pois, de tirar agora uma cópia deste decreto e entregai-a a Jónatas, para ser posta no monte santo (de Sião) em lugar público.  
@@ -887,7 +887,7 @@
 **29** Simão, filho de Matatias, da prosápia de Jarib, e seus irmãos expuseram-se ao perigo e resistiram aos inimigos da sua nação, para susterem o seu santuário e a sua lei, elevando o seu povo a uma grande glória.  
 **30** Jónatas congregou os da sua nação e chegou ao sumo pontificado; depois foi-se unir ao seu povo.  
 **31** Os inimigos (dos Judeus) quiseram espezinhar e destruir o país e lançar a mão ao seu santuário.  
-**32** Então Simão levantou-se, pelejou pelo seu povo, gastou grande parte dos seus bens, armou os valentes da sua nação e deu-Ihes soldo;  
+**32** Então Simão levantou-se, pelejou pelo seu povo, gastou grande parte dos seus bens, armou os valentes da sua nação e deu-lhes soldo;  
 **33** fortificou as cidades da Judeia, assim como a de Betsur, que estava na fronteira, onde os seus inimigos tinham feito antes a sua praça de armas, e pôs nela uma guarnição de Judeus.  
 **34** Fortificou Jope, sitiada sobre a costa do mar, e Gazara, na fronteira de Azot, onde antes habitavam os inimigos, pôs nelas Judeus, e forneceu-as de todas as coisas necessárias para a sua defesa.  
 **35** O povo, vendo os feitos de Simão e a glória que queria dar á sua raça, constituiu-o seu chefe e sumo pontífice, pelo motivo de ter feito tudo isto, pela justiça e fidelidade que tinha guardado à sua nação e por ter procurado por todos os meios exaltar o seu povo.  
@@ -908,7 +908,7 @@
 
 ## Capítulo 15
 
-**1** Então o rei Antíoco, filho de Demétrio enviou das ilhas do mar cartas a Simão, sumo pontífice chefe do povo dos Judeus, e a toda a sua nação.  
+**1** Então o rei Antíoco, filho de Demétrio enviou das ilhas do mar cartas a Simão, sumo pontífice e chefe do povo dos Judeus, e a toda a sua nação.  
 **2** O seu conteúdo era o seguinte; O rei Antioco a Simão, sumo pontífice e chefe, e à nação dos Judeus, saúde.  
 **3** Tendo-se alguns homens perversos apoderado do reino de nossos pais, resolvi recuperá-lo e restabelecê-lo no estado em que antes se achava; (por isso) levantei um grande exército e mandei aparelhar navios de guerra.  
 **4** Quero, pois, entrar nessas regiões para castigar aqueles que arruinaram as nossas terras e assolaram muitas cidades no meu reino.  
@@ -932,7 +932,7 @@
 **22** Estas mesmas coisas escreveram ao rei Demétrio, a Atalo, a Ariarates, a Arsaces,  
 **23** assim como a todos os países (seus aliados): a Lampsaco, aos Espartanos, a Delos, a Mindo, a Siciónia, a Caria, a Samos, a Panfilia, a Lícia, a Halicarnasso, a Rodes, a Fasélida, a Cós, a Side, a Arado, a Gortine, a Guido, a Ohipre e a Cirene.  
 **24** Destas cartas mandaram uma cópia a Simão, sumo pontífice.  
-**25** O rei Antíoco (como dissemos) pôs cerco a Dora, apertando-a por todos os lados e construindo máquinas guerra; encerrou dentro dela a Trifão, de tal sorte que não se podia entrar nem sair.  
+**25** O rei Antíoco (como dissemos) pôs cerco a Dora, apertando-a por todos os lados e construindo máquinas de guerra; encerrou dentro dela a Trifão, de tal sorte que não se podia entrar nem sair.  
 **26** Então Simão mandou em seu auxílio dois mil homens escolhidos, com prata e ouro e muitos apetrechos,  
 **27** mas Antíoco não os quis receber, antes, pelo contrário, rompeu todos os tratados que tinha feito e separou-se dele.  
 **28** Depois enviou-lhe Atenóbio, um dos seus amigos, para tratar com ele, dizendo-lhe da sua parte; Vós ocupais Jope, Gazara e a cidadela de Jerusalém, que são cidades do meu reino;  

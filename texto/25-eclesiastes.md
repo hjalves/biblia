@@ -29,7 +29,7 @@
 **4** Executei grandes obras, edifiquei para mim casas e plantei vinhas;  
 **5** fiz jardins e pomares, e pus neles árvores de toda a espécie;  
 **6** construí depósitos de águas para regar o bosque em que cresciam as árvores;  
-**7** comprei escravos e escravas, e tive muita família; tive multo gado, manadas de bois e rebanhos de ovelhas, mais do que todos os que houve antes de mim em Jerusalém.  
+**7** comprei escravos e escravas, e tive muita família; tive muito gado, manadas de bois e rebanhos de ovelhas, mais do que todos os que houve antes de mim em Jerusalém.  
 **8** Amontoei prata e ouro, riquezas de reis e de províncias. (Para me deleitarem os ouvidos) escolhi cantores e cantoras, e tudo o que faz as delícias dos filhos dos homens, taças e jarros (preciosos) para o serviço do vinho.  
 **9** Ultrapassei em grandeza todos os que viveram antes de mim em Jerusalém, conservando, porém, a minha sabedoria.  
 **10** Não recusei aos meus olhos coisa alguma de tudo o que eles desejaram; nem proibi ao meu coração que gozasse de todo o prazer, e se deleitasse nas coisas que eu lhe tinha preparado; e julguei que seria esta a minha sorte, o disfrutar do meu trabalho.  
@@ -38,7 +38,7 @@
 **13** E reconheci que a sabedoria leva tanta vantagem sobre a loucura, quanta a luz sobre as trevas.  
 **14** Os olhos do sábio estão na sua cabeça; o Insensato anda nas trevas.  
 **15** Todavia reconheci que ambos têm a mesma sorte e disse dentro no meu coração; Se eu e o insensato devemos ter a mesma sorte, igualmente, de que me serve toda a minha sabedoria? E adverti que também isto era vaidade.  
-**16** Porque a memória do sábio, do mesmo modo que a do Insensato, não será eterna, e os tempos futuros sepultarão tudo igualmente no esquecimento. Tanto morre o sábio como ignorante.  
+**16** Porque a memória do sábio, do mesmo modo que a do Insensato, não será eterna, e os tempos futuros sepultarão tudo igualmente no esquecimento. Tanto morre o sábio como o ignorante.  
 **17** E por isso a minha vida se me tornou fastidiosa, vendo que tudo é mau debaixo do sol, que tudo é vaidade e aflição de espírito.  
 **18** Em consequência disto detestei toda aquela aplicação, com que eu tinha trabalhado tanto debaixo do sol, porque tudo hei-de deixar ao que vier depois de mim.  
 **19** E quem pode saber se esse será sábio ou insensato? Contudo será senhor dos meus trabalhos, que me custaram cuidados e sabedoria.  
@@ -154,7 +154,7 @@
 **19** Bom é que tomes conta disto e não ponhas de lado aquilo, porque o que teme a Deus, nada descura.  
 **20** A sabedoria fez o sábio mais forte do que dez príncipes de uma cidade.  
 **21** Não há homem justo sobre a terra, que faça o bem e que não peque.  
-**22** Não inclines o teu coração a ouvir todas palavras que se dizem, para que não ouças talvez o teu servo dizer mal de ti.  
+**22** Não inclines o teu coração a ouvir todas as palavras que se dizem, para que não ouças talvez o teu servo dizer mal de ti.  
 **23** A tua consciência sabe que também tu muitas vezes tens dito mal dos outros.  
 **24** Tudo isto quis buscar na sabedoria. Eu disse: "Far-me-ei sábio", — mas a sabedoria está longe de mim.  
 **25** Continua distante o que estava distante, e profundo, o profundo: quem o poderá sondar?  

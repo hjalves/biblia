@@ -28,7 +28,7 @@
 ## Capítulo 2
 
 **1** Elimelec, marido (de Noemi), tinha um parente, homem poderoso e de grandes riquezas, chamado Booz.  
-**2** Rute Moabita disse a sua sogra: Se o mandas, irei ao campo apanhai; as espigas que escapam das mãos dos segadores, onde quer que me acolham favoravelmente. Ela respondeu-lhe: Vai, minha filha.  
+**2** Rute Moabita disse a sua sogra: Se o mandas, irei ao campo apanhar as espigas que escapam das mãos dos segadores, onde quer que me acolham favoravelmente. Ela respondeu-lhe: Vai, minha filha.  
 **3** Foi Rute pois, e apanhava as espigas por detrás dos segadores. Ora aconteceu que aquele campo tinha por dono um homem chamado Booz, que era da família de Elimelec.  
 **4** E eis que ele chegou de Belém, e disse aos segadores: O Senhor seja convosco. Eles responderam-lhe: O Senhor te abençoe.  
 **5** Booz disse para o jovem que tomava sentido nos segadores: De quem é esta moça?  
@@ -74,7 +74,7 @@
 
 ## Capítulo 4
 
-**1** Foi pois Booz à porta (da cidade) e sentou-se ali. Vendo passar o parente de que antes falam os, chamando-o pelo seu nome, disse-lhe: Vem cá por um pouco, e senta-te aqui. Ele foi e sentou-se.  
+**1** Foi pois Booz à porta (da cidade) e sentou-se ali. Vendo passar o parente de que antes falamos, chamando-o pelo seu nome, disse-lhe: Vem cá por um pouco, e senta-te aqui. Ele foi e sentou-se.  
 **2** Então Booz, tomando dez homens dos anciãos da cidade, disse-lhes: Sentai-vos aqui.  
 **3** Estando eles sentados, (Booz) disse ao parente: Noemi, que voltou do país de Moab, está para vender uma parte do campo de Elimelec, nosso irmão;  
 **4** eu quis informar-te disso e dizer-to diante de todos os que estão aqui sentados, dos anciãos do meu povo. Se o queres possuir pelo direito de parentesco, compra-o e fica com ele, mas, se te desagrada, dize-mo, para que eu saiba o que devo fazer; com efeito, não há outro parente senão tu, que és o primeiro, e eu, que sou o segundo. Ele respondeu: Eu comprarei o campo.  
@@ -87,7 +87,7 @@
 **11** Respondeu todo o povo, que estava à porta, com os anciãos: Nós somos testemunhas; o Senhor faça que esta mulher, que entra na tua casa, seja como Raquel e Lia, que fundaram a casa de Israel. Que, por ela, sejas forte em Efrata, e tenha um nome célebre em Belém.  
 **12** Que a tua casa se torne como a casa de Farés, que Tamar deu á luz a Judá, pela posteridade que o Senhor te der desta jovem  
 **13** Booz pois tomou Rute, e casou com ela. Depois de a ter conhecido, o Senhor fez (a Rute) a graça de conceber e dar à luz um filho.  
-**14** E as mulheres disseram a Noemi: Bem dito seja o Senhor, que não permitiu que te faltasse um redentor! Que o seu nome seja celebrado em Israel!  
+**14** E as mulheres disseram a Noemi: Bendito seja o Senhor, que não permitiu que te faltasse um redentor! Que o seu nome seja celebrado em Israel!  
 **15** Terás quem console a tua alma, e te sustente na velhice, porque nasceu um menino de tua nora, a qual te ama, e é para ti muito melhor do que sete filhos,  
 **16** Noemi, tomando o menino, o pôs no seu regaço, e fazia as vezes de ama e de criada.  
 **17** As mulheres suas vizinhas congratulavam-se com ela, e diziam: Nasceu um filho a Noemi! Puseram-lhe o nome de Obed. Ele foi pai de Isai, pai de David.  

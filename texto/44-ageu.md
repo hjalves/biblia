@@ -41,7 +41,7 @@
 **20** Vede se a semente falta ainda no celeiro, se a vinha, a figueira, a romãzeira e a oliveira continuam improdutivas. Com efeito, a partir deste dia abençoarei tudo.  
 **21** Aos vinte e quatro dias do mês, foi dirigida pela segunda vez a palavra do Senhor a Ageu, a qual dizia:  
 **22** Fala a Zorobabel, governador de Judá, nestes termos: Abalarei o céu e a terra,  
-**23** farei cair o trono dos reinos, quebrarei a fortaleza dos reinos das gentes; destruirei os carros (de guerra) e os que vão sobre eles; os cavalos e os seus cavaleiros cairão (m ortos); cada um será passado pela espada do seu Irmão.  
+**23** farei cair o trono dos reinos, quebrarei a fortaleza dos reinos das gentes; destruirei os carros (de guerra) e os que vão sobre eles; os cavalos e os seus cavaleiros cairão (mortos); cada um será passado pela espada do seu Irmão.  
 **24** Naquele dia, diz o Senhor dos exércitos, eu te tomarei (debaixo da minha proteção) ó Zorobabel, meu servo, filho de Salatiel, diz o Senhor, e te guardarei como um sinete, porque te escolhi, diz o Senhor dos exércitos.
 
 ---

@@ -81,7 +81,7 @@
 
 ## Capítulo 5
 
-**1** Todo pontífice, tomado dentre os homens, é constituído a favor dos homens naquelas coisas que se referem a Deus, para que ofereça dons e sacrifícios pelos pecados,  
+**1** Todo o pontífice, tomado dentre os homens, é constituído a favor dos homens naquelas coisas que se referem a Deus, para que ofereça dons e sacrifícios pelos pecados,  
 **2** o qual se possa condoer daqueles que ignoram e erram, porque também está cercado de enfermidade;  
 **3** por isso deve oferecer sacrifícios pelos seus próprios pecados, como pelos do povo.  
 **4** E nenhum se arroga esta honra, senão o que é chamado por Deus, como Aarão.  
@@ -172,7 +172,7 @@
 **2** Foi construído um tabernáculo, em cuja parte anterior, chamada o Santo, se encontravam o candeeiro, a mesa e os pães da proposição.  
 **3** Por detrás do segundo véu estava a parte do tabernáculo chamada o Santo dos Santos,  
 **4** contendo o altar de ouro, para os perfumes, e a arca da aliança, coberta de ouro por todos os lados, na qual havia uma urna de ouro contendo o maná, a vara de Aarão, que tinha florescido, e as tábuas da aliança;  
-**5** sobre ela estavam os Querubins da glória, que cobriam com a sua sombra o propiciatório. Toda via não é aqui o lugar de falarmos destas coisas, uma por uma.  
+**5** sobre ela estavam os Querubins da glória, que cobriam com a sua sombra o propiciatório. Todavia não é aqui o lugar de falarmos destas coisas, uma por uma.  
 **6** Estando assim tudo disposto, os sacerdotes entram sempre na primeira parte do tabernáculo, para exercer as funções sacerdotais;  
 **7** na segunda só entra o pontífice, uma vez no ano, não sem sangue que ofereça pelas suas faltas e pelas do povo,  
 **8** significando com isto o Espírito Santo que o caminho do santuário não está ainda aberto, enquanto subsiste o primeiro tabernáculo,  
@@ -213,7 +213,7 @@
 **12** este, ao contrário, tendo oferecido uma só hóstia pelos pecados, está sentado para sempre à direita de Deus,  
 **13** esperando, de resto, que os seus inimigos sejam postos por escabelo de seus pés.  
 **14** Com uma só oblação, tornou perfeitos para sempre os que foram santificados.  
-**15** O Espírito Santo no-lo testifica, por que, depois de ter dito:  
+**15** O Espírito Santo no-lo testifica, porque, depois de ter dito:  
 **16** Esta é a aliança que farei com eles depois daqueles dias, o Senhor acrescenta: Porei as minhas leis nos seus corações, escrevê-las-ei nos seus espíritos  
 **17** e jamais me lembrarei dos seus pecados e das suas iniquidades (Je. 31, 33-34).  
 **18** Ora, onde há remissão de pecados, não é necessária oblação pelo pecado.  
@@ -272,7 +272,7 @@
 **29** Pela fé passaram o mar Vermelho, como por terra firme, enquanto que os Egípcios, tentando a mesma passagem, foram engolidos (pelas águas).  
 **30** Pela fé, caíram os muros de Jericó, (só) com dar voltas ao redor deles durante sete dias.  
 **31** Pela fé, Raab, a meretriz, não pereceu com os incrédulos, por haver acolhido com bondade os exploradores.  
-**32** E que mais direi ainda? Faltar-me-ia o tempo, se eu quisesse falar de Gedeão, de Barac, de Sansão, de Jeflé, de David, de Samuel e dos profetas,  
+**32** E que mais direi ainda? Faltar-me-ia o tempo, se eu quisesse falar de Gedeão, de Barac, de Sansão, de Jefté, de David, de Samuel e dos profetas,  
 **33** os quais pela fé conquistaram reinos, exerceram a justiça, alcançaram as promessas, fecharam a boca dos leões,  
 **34** extinguiram a violência do fogo, evitaram o fio da espada, convalesceram de enfermidades, tornaram-se fortes na guerra, puseram em fuga exércitos estrangeiros.  
 **35** Mulheres houve, até, que recobraram ressuscitados os seus mortos. (Pela fé) uns foram torturados, não querendo o seu resgate, para alcançarem melhor ressurreição;  

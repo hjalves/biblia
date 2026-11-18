@@ -20,7 +20,7 @@
 **16** Com efeito eu não me envergonho do Evangelho, porque é a virtude de Deus para dar a salvação a todo o crente, primeiro ao judeu, e depois ao grego.  
 **17** A justiça de Deus manifesta-se nele, indo da fé para a fé, como está escrito: O justo vive da fé (Hc. 2, 4).  
 **18** Com efeito a ira de Deus manifesta-se do céu contra toda a impiedade e injustiça daqueles homens que retêm a verdade de Deus cativa da injustiça,  
-**19** porque o que se pode conhecer de Deus, é-Ihes manifesto, pois Deus Iho manifestou.  
+**19** porque o que se pode conhecer de Deus, é-lhes manifesto, pois Deus lho manifestou.  
 **20** De fato, as coisas invisíveis dele, isto é, o seu poder eterno e a sua divindade, depois da criação do mundo, compreendendo-se pelas coisas feitas, tornaram-se visíveis, de modo que são inexcusáveis,  
 **21** porque, tendo conhecido a Deus, não o glorificaram como Deus, nem lhe deram graças, mas desvaneceram-se nos seus pensamentos, e obscureceu-se o seu coração insensato,  
 **22** pois, dizendo ser sábios, tornaram-se estultos  
@@ -443,7 +443,7 @@
 **24** quando me puser a caminho para Espanha, espero que, de passagem, vos verei e que serei acompanhado por (alguns de) vós até lá, depois de ter gozado em parte a vossa companhia.  
 **25** Agora, porém, irei a Jerusalém em serviço dos santos,  
 **26** porque a Macedónia e Acaia tiveram por bem fazer uma coleta para os pobres, que existem entre os santos de Jerusalém.  
-**27** Tiveram-no por bem e lhes são devedores. Com efeito, se os gentios se tornaram participantes dos seus bens espirituais, devem também assistir-Ihes com os temporais.  
+**27** Tiveram-no por bem e lhes são devedores. Com efeito, se os gentios se tornaram participantes dos seus bens espirituais, devem também assistir-lhes com os temporais.  
 **28** Quando eu, pois, tiver cumprido isto e lhes tiver feito entrega deste fruto, partirei para Espanha, passando por vós.  
 **29** E sei que, indo ter convosco, irei com a plenitude da bênção de Cristo.  
 **30** Rogo-vos, pois, Irmãos, por Nosso Senhor Jesus Cristo e pela caridade do Espírito Santo, que me ajudeis nas minhas lutas com as vossas orações por mim a Deus,  
@@ -467,7 +467,7 @@
 **12** Saudai Trifena e Trifosa, que trabalham no Senhor. Saudai a nossa muito amada Pérside, que trabalhou muito no Senhor.  
 **13** Saudai Rufo, escolhido no Senhor, e sua mãe, que considero como minha.  
 **14** Saudai Asincrito, Flegonte, Hermas, Patrobas, Hermes e os irmãos que estão com eles.  
-**15** Saudai Filólogo e Júlia, Nereve sua irmã, Olimpíades e todos os santos que estão com eles.  
+**15** Saudai Filólogo e Júlia, Nereu e sua irmã, Olimpíades e todos os santos que estão com eles.  
 **16** Saudai-vos uns aos outros, em ósculo santo. Todas as igrejas de Cristo vos saúdam.  
 **17** Rogo-vos, Irmãos, que vos acauteleis daqueles que causam dissensões e escândalos contra a doutrina que aprendestes, e apartai-vos deles,  
 **18** porque esses tais não servem a Cristo Senhor Nosso, mas ao seu ventre, e, com palavras doces e com adulações, enganam os corações dos simples.  

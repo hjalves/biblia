@@ -146,7 +146,7 @@
 **18** Contudo, mesmo nesses dias, diz o Senhor, não acabarei de todo convosco.  
 **19** Se disserdes: Por que nos fez o Senhor nosso Deus todas estas coisas? - responder-lhes-ás: Assim como me abandonastes e servistes a um deus estranho na vossa terra, assim servireis (agora) os estrangeiros em terra não vossa.  
 **20** Anunciai isto à casa de Jacob, fazei-o ouvir em Judá, dizendo:  
-**21** Ouve, povo insensato, que não tens coração! Vós, que tendes olhos e não vedes, que tendes seus ouvidos e não ouvis,  
+**21** Ouve, povo insensato, que não tens coração! Vós, que tendes olhos e não vedes, que tendes ouvidos e não ouvis,  
 **22** não me temereis a mim, diz o Senhor, não estremecereis diante de mim que pus a areia por limite do mar fronteira eterna que não atravessará? Levantar-se-ão as suas ondas, mas não poderão (ir mais adiante); rugirão, mas não a ultrapassarão.  
 **23** Porém o coração deste povo tornou-se obstinado e rebelde; apartaram-se (de mim) e foram (atrás dos ídolos).  
 **24** Não disseram no seu coração: Temamos o Senhor nosso Deus, que nos dá a seu tempo a chuva temporã e serôdia, e que nos assegura as semanas destinadas à colheita.  
@@ -686,7 +686,7 @@
 **24** a todos os reis da Arábia, a todos os reis dos mestiços que habitam no deserto;  
 **25** a todos os reis de Zambri, a todos os reis de Elam e a todos os reis dos Medos;  
 **26** a todos os reis de Aquilão, aos de perto e aos de longe, um após outro, e a todos os reinos que estão sobre a face da terra. O rei de Sesac (ou Babilónia) beberá depois deles.  
-**27** Dir-lhes-ás: Assim fala o Senhor dos exércitos, Deus de Israel: Bebei, embriagai-vos, vomitai e caí, e não vos levanteis diante da espada que eu enviarei contra vós.  
+**27** Dir-lhes-ás: Assim fala o Senhor dos exércitos, o Deus de Israel: Bebei, embriagai-vos, vomitai e caí, e não vos levanteis diante da espada que eu enviarei contra vós.  
 **28** Se não quiserem receber o copo da tua mão para beberem dele, lhes dirás: Assim fala o Senhor dos exércitos: Certamente o bebereis,  
 **29** porque, se pela cidade, onde o meu nome tem sido invocado, vou começar a castigar, à vista disto ficareis vós sem castigo? Não escapareis, porque eu desembainho já a minha espada contra todos os habitantes da terra, diz o Senhor dos exércitos.  
 **30** Tu lhes profetizarás todas estas coisas, dir-lhes-ás: O Senhor ruge (como um leão) do alto, da sua santa morada faz ouvir a sua voz, ruge fortemente contra a sua morada, solta um grito semelhante ao dos pisadores de uvas contra todos os habitantes da terra,  
@@ -717,7 +717,7 @@
 **14** Quanto a mim, eis que estou nas vossas mãos; fazei de mim o que tiverdes por bom e reto aos vossos olhos;  
 **15** porém, sabei que, se me matardes, derramareis um sangue inocente sobre vós mesmos, sobre esta cidade e seus moradores, porque na verdade o Senhor me enviou a vós, para que dissesse aos vossos ouvidos todas estas palavras.  
 **16** Então disseram os príncipes e todo o povo aos sacerdotes e aos profetas: Este homem não merece a morte, porque nos falou em nome do Senhor nosso Deus.  
-**17** Então levantaram-se alguns dos mais anciões da terra e disseram a todo o ajuntamento do povo as seguintes palavras:  
+**17** Então levantaram-se alguns dos mais anciães da terra e disseram a todo o ajuntamento do povo as seguintes palavras:  
 **18** Miqueias de Morasti foi profeta nos dias de Ezequias, rei de Judá, e falou a todo o povo de Judá desta maneira: Assim fala o Senhor dos exércitos: Sião será lavrada como um campo, Jerusalém seró reduzida a um montão de ruínas, e o monte, em que está situado o templo, será um espesso bosque.  
 **19** Porventura condenaram-no à morte Ezequias, rei de Judá, e todo o Judá? Porventura (pelo contrário) não temeram eles ao Senhor, não fizeram as suas deprecações na presença do Senhor, e o Senhor não se arrependeu do mal que tinha anunciado contra eles? Logo nós cometeríamos (matando Jeremias) um grande mal contra as nossas almas.  
 **20** Houve também um homem chamado Urias, filho de Semei de Cariatiarim, que profetizava em nome do Senhor e que tinha predito contra esta cidade e contra esta terra as mesmas coisas que Jeremias.  
@@ -804,7 +804,7 @@
 **29** Leu, pois, o sacerdote Sofonias esta carta aos ouvidos do profeta Jeremias.  
 **30** E foi dirigida a palavra do Senhor a Jeremias, nos termos seguintes:  
 **31** Manda dizer a todos os deportados: Assim fala o Senhor a Semeias, Neelamita: Porque vos profetizou Semeias, e eu não o enviei; visto que fez com que confiásseis na mentira,  
-**32** portanto isto diz o Senho: Eis que castigarei Semeias, Neelamita, e a sua geração; não haverá dele descendente que viva no meio deste povo, e não verá o bem (ou a liberdade) que concederei ao meu povo, diz o Senhor, porque pregou a revolta contra o Senhor.  
+**32** portanto isto diz o Senhor: Eis que castigarei Semeias, Neelamita, e a sua geração; não haverá dele descendente que viva no meio deste povo, e não verá o bem (ou a liberdade) que concederei ao meu povo, diz o Senhor, porque pregou a revolta contra o Senhor.  
 
 ## Capítulo 30
 
@@ -1342,7 +1342,7 @@
 **16** A tua arrogância enganou-te, assim como a soberba do teu coração, (ó Idumeu) tu que habitas nas concavidades dos rochedos, que ocupas o cume do outeiro. Ainda que pusesses no alto como águia, o teu ninho, eu te arrancaria de lá, diz o Senhor.  
 **17** A Idumeia será um objeto de pasmo; todo o que atravessar pelas suas terras, pasmará e fará mofa de todas as suas desgraças.  
 **18** Assim como na destruição de Sodoma, de Gomorra e das cidades vizinhas, diz o Senhor, também ninguém ali habitará, nenhum homem fará a sua morada.  
-**19** Eis que (o inimigo), como leão, subirá das espessuras do Jordão às pastagens perenes (da Idumeia); farei fugir subitamente Edom, e colocarei em seu lugar desgraças, aquele que escolhi. Porque, quem há semelhante a mim? Quem me poderá pedir contas? Qual o pastor (ou capitão) que ousará resistir à minha face?  
+**19** Eis que (o inimigo), como leão, subirá das espessuras do Jordão às pastagens perenes (da Idumeia); farei fugir subitamente Edom, e colocarei em seu lugar aquele que escolhi. Porque, quem há semelhante a mim? Quem me poderá pedir contas? Qual o pastor (ou capitão) que ousará resistir à minha face?  
 **20** Portanto ouvi a resolução que o Senhor formou contra Edom, os seus projetos contra os moradores de Teman: Como os mais pequenos do rebanho serão arrastados (à morte), e a sua pastagem será devastada.  
 **21** Ao estrondo da sua ruína se comove a terra: Chega ao Mar Vermelho o clamor da sua voz.  
 **22** Eis que (o inimigo) subirá como águia, voará e estenderá as suas asas sobre Bosra; e o coração dos guerreiros da Idumeia será naquele dia como o coração duma mulher que está com dores de parto.  
@@ -1437,7 +1437,7 @@
 **20** Tu serves-me de martelo, de instrumento de guerra; por meio de ti arruino nações, por ti destruo reinos;  
 **21** esmago por meio de ti o cavalo e o cavaleiro; esmago por meio de ti o carro e o que vai nele;  
 **22** esmago por meio de ti o homem e a mulher; esmago por meio de ti o velho e o jovem; esmago por meio de ti o mancebo e a virgem;  
-**23** esmago por melo de ti o pastor e o rebanho; esmago por meio de ti o lavrador e as suas juntas; esmago por meio de ti os capitães e os magistrados.  
+**23** esmago por meio de ti o pastor e o rebanho; esmago por meio de ti o lavrador e as suas juntas; esmago por meio de ti os capitães e os magistrados.  
 **24** Depois pagarei a Babilónia e a todos os habitantes da Caldeia todo o mal que fizeram em Sião, ante os vossos olhos, diz o Senhor.  
 **25** Eis-me aqui contra ti, diz o Senhor, ó (Babilónia) montanha de devastação, devastadora de toda a terra; estenderei a minha mão sobre ti, arrancar-te-ei do alto das rochas e te transformarei numa montanha abrasada.  
 **26** E de ti não mais tomarão pedra angular, nem pedra para fundamentos, mas ficarás uma ruína para sempre, diz o Senhor.  

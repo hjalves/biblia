@@ -157,7 +157,7 @@
 **4** Envolto em faixas fui criado, e com grandes cuidados.  
 **5** Nenhum rei teve outro género de nascimento.  
 **6** Há para todos o mesmo modo de entrar na vida e de sair dela.  
-**7** Por isso pedi a prudência, e ela me foi dada; invoquei (o Senhor) e veio a mira o espírito da sabedoria.  
+**7** Por isso pedi a prudência, e ela me foi dada; invoquei (o Senhor) e veio a mim o espírito da sabedoria.  
 **8** Preferia-a aos cetros e aos tronos, e julguei que as riquezas nada valiam em sua comparação.  
 **9** Nem pus em paralelo com ela as pedras mais preciosas, porque todo o ouro em sua comparação é um pouco de areia, e a prata será considerada como lodo à sua vista.  
 **10** Eu amei-a mais do que a saúde e que a formosura, e antes a quis ter que a luz, porque a sua claridade é inextinguível.  
@@ -451,7 +451,7 @@
 **2** Davam-lhes graças porque, depois de haverem sido ofendidos, não se vingavam, e pediam-lhes perdão de os haverem tratado como inimigos.  
 **3** Tu deste (Senhor), em vez das trevas, uma coluna de fogo (aos teus fiéis), como guia num caminho desconhecido, como sol inofensivo na sua gloriosa peregrinação.  
 **4** Bem mereciam ser privados da luz e sofrer um cárcere de trevas, aqueles que tinham encerrado em prisões os teus filhos, por meio dos quais devia ser dada ao mundo a luz incorruptível da tua lei.  
-**5** Quando eles resolveram matar os filhos dos justos, e foi salvo um destes meninos que tinha sido exposto, tu Ihes tiraste, para seu castigo, a multidão de seus filhos, e juntos os destruístes no abismo das águas.  
+**5** Quando eles resolveram matar os filhos dos justos, e foi salvo um destes meninos que tinha sido exposto, tu lhes tiraste, para seu castigo, a multidão de seus filhos, e juntos os destruístes no abismo das águas.  
 **6** Aquela noite tinha sido conhecida, de antemão por nossos pais para que, sabendo eles com verdade a que promessas deram crédito, ficassem os seus ânimos mais corajosos.  
 **7** E assim o teu povo esperou a salvação dos justos e o extermínio dos injustos.  
 **8** Da mesma forma que tu castigaste os nossos adversários, assim também, chamando-nos a ti, nos engrandeceste.  

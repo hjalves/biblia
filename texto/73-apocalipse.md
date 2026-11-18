@@ -47,7 +47,7 @@
 **20** Porém, tenho contra ti que toleras Jezabel, essa mulher que se diz profetiza: ela ensina e desvia os meus servos, para fornicarem e comerem das carnes sacrificadas aos ídolos.  
 **21** Dei-lhe tempo para fazer penitência, e ela não quer arrepender-se da sua prostituição.  
 **22** Eis que a reduzirei a um leito (de dor); e aos seus companheiros de adultério (lançá-los-ei) numa grande tribulação, se não fizerem penitência das suas obras.  
-**23** Ferirei de morte os seus filhos, e todas as Igrejas conhecerão que eu sou aquele que sonda os rins e os corações; "darei a cada um de vós segundo as vossas obras.  
+**23** Ferirei de morte os seus filhos, e todas as Igrejas conhecerão que eu sou aquele que sonda os rins e os corações; "e darei a cada um de vós segundo as vossas obras.  
 **24** Quanto a vós, os restantes (fiéis) de Tiatira, que não seguis esta doutrina e que não conhecestes as profundidades, como eles lhes chamam, de Satanás, declaro-vos que não porei sobre vós outro peso.  
 **25** Todavia guardai bem aquilo que tendes (recebido de Deus), até que eu venha (pedir-vos contas).  
 **26** Aquele que vencei e que praticar as minhas obras até ao fim, eu lhe darei poder sobre as nações,  
@@ -122,7 +122,7 @@
 **7** Quando (o Cordeiro) abriu o quarto selo, ouvi a voz do quarto animal, que dizia: "Vem."  
 **8** Olhei e vi um cavalo esverdeado. O que estava montado sobre ele tinha por nome Morte, e seguia-o o inferno. Foi-lhe dado poder sobre um quarto da terra, para matar à espada, à fome, com a peste e por meio das feras da terra.  
 **9** Quando (o Cordeiro) abriu o quinto selo, vi debaixo do altar as almas dos que tinham sido mortos por causa da palavra de Deus e do testemunho que tinham (dado),  
-**10** Clamaram em voz alta, dizendo: "Até guando. Senhor, santo e verdadeiro, dilatas tu o fazer justiça e vingar o nosso sangue dos que habitam sobre a terra?"  
+**10** Clamaram em voz alta, dizendo: "Até quando. Senhor, santo e verdadeiro, dilatas tu o fazer justiça e vingar o nosso sangue dos que habitam sobre a terra?"  
 **11** E foi dada a cada um deles uma túnica branca e foi-lhes dito que tivessem paciência ainda um pouco de tempo, até que se completasse o número dos seus conservos e irmãos, que haviam de padecer, como eles, a morte.  
 **12** Quando (o Cordeiro) abriu o sexto selo, vi que sobreveio um grande terramoto. O sol tornou-se negro, como um saco de crina, a lua tornou-se toda (vermelha) como sangue,  
 **13** e as estrelas caíram do céu sobre a terra, como quando a figueira, agitada por um forte vento, deixa cair os seus figos verdes.  
@@ -224,7 +224,7 @@
 **15** O sétimo anjo tocou a trombeta, e ouviram-se no céu grandes vozes, que diziam: "O reino deste mundo passou a ser de Nosso Senhor e do seu Cristo, e ele reinará pelos séculos dos séculos."  
 **16** Então os vinte e quatro anciães, que estão sentados diante de Deus sobre os seus tronos, prostraram-se sobre os seus rostos e adoraram a Deus, dizendo:  
 **17** "Graças te damos. Senhor Deus omnipotente, que és e que eras, porque assumiste o teu grande poder e reinaste.  
-**18** As nações irritaram-se (contra ti), mas chegou o teu furor, assim como o tempo de julgar os mortos e de dar a recompensa aos profetas, teus servos, aos santos e aos que temem o teu nome, peque-nos e grandes, e de exterminar os que destruíam a terra.  
+**18** As nações irritaram-se (contra ti), mas chegou o teu furor, assim como o tempo de julgar os mortos e de dar a recompensa aos profetas, teus servos, aos santos e aos que temem o teu nome, pequenos e grandes, e de exterminar os que destruíam a terra.  
 **19** Então abriu-se o templo de Deus, o do céu, e apareceu a arca da sua aliança no seu templo. E sobrevieram relâmpagos, vozes, trovões, um terramoto e uma grande saraivada.  
 
 ## Capítulo 12
@@ -385,7 +385,7 @@
 **6** Depois ouvi uma espécie de voz de grande multidão, voz como ruído de muitas águas e como o estampido de grandes trovões, a dizer: "Aleluia! porque tomou posse do seu reino o Senhor nosso Deus, o Omnipotente.  
 **7** Alegremo-nos, exultemos, demos-lhe glória, porque chegaram as bodas do Cordeiro, e (a Igreja ) sua esposa está ataviada.  
 **8** E foi-lhe dado o vestir-se de linho fino, resplandecente e puro." Este linho fino são os atos de justiça dos santos.  
-**9** E (o anjo) disse-me; "Escreve: Bem-aventura-dos os que foram chamados ao festim das bodas do Cordeiro!" E ajuntou: "Estas palavras de Deus são verdadeiras."  
+**9** E (o anjo) disse-me; "Escreve: Bem-aventurados os que foram chamados ao festim das bodas do Cordeiro!" E ajuntou: "Estas palavras de Deus são verdadeiras."  
 **10** Então caí a seus pés para me prostrar diante dele, mas ele disse-me: "Vê, não faças tal; eu sou servo como tu e como teus irmãos, que têm o testemunho de Jesus. Adora a Deus." Com efeito, o testemunho de Jesus é o espírito da profecia.  
 **11** Depois vi o céu aberto, e apareceu um cavalo branco. O que estava montado sobre ele, chama-se Fiel e Verdadeiro, (Jesus Cristo) que julga com justiça e combate.  
 **12** Os seus olhos são como uma chama de fogo; tem sobre a cabeça muitos diademas; traz um nome escrito, que ninguém conhece senão ele mesmo,  
@@ -410,7 +410,7 @@
 **7** Quando se completarem os mil anos. Satanás será solto da sua prisão,  
 **8** sairá a seduzir as nações que estão nos quatro ângulos da terra, a Gog e a Magog, e os juntará para a batalha: o seu número é como a areia do mar.  
 **9** Subiram pela superfície da terra e cercaram os acampamentos dos santos e a cidade querida. Mas desceu do céu um fogo que os devorou.  
-**10** E o demónio, que os seduzia, foi metido no tanque de fogo e de enxofre, onde também a Besta e o falso profeta serão atormentados de dia e de noite pelos séculos doe séculos.  
+**10** E o demónio, que os seduzia, foi metido no tanque de fogo e de enxofre, onde também a Besta e o falso profeta serão atormentados de dia e de noite pelos séculos dos séculos.  
 **11** Depois vi um grande trono branco e o que estava sentado sobre ele, de cuja vista fugiram a terra e o céu, sem deixar rasto de si.  
 **12** E vi os mortos, grandes e pequenos, de pé diante do trono. Foram abertos livros; e foi aberto um outro livro, que é o da vida; e foram julgados os mortos pelas coisas que estavam escritas nos livros, segundo as suas obras.  
 **13** O mar deu os mortos que estavam nele, a morte e o Hades deram (também) os mortos que estavam neles, e fez-se juízo de cada um segundo as suas obras.  
@@ -466,7 +466,7 @@
 **15** (Ficam) fora os cães, os feiticeiros, os impudicos, os homicidas, os idólatras e todo o que ama e pratica a mentira."  
 **16** "Eu, Jesus,enviei o meu anjo, para vos atestar estas coisas a respeito das Igrejas. Eu sou a raiz e a geração de David, a estrela resplandecente da manhã."  
 **17** E o Espírito (Santo) e a Esposa dizem: "Vem! E o que ouve, diga; "Vem!" E o que tem sede, venha; e o que quer, receba de graça a água da vida.  
-**18** Eu declaro a todos os que ouvem as palavras da profecia deste livro: se alguém lhes juntar (algum a coisa), Deus carregará sobre ele as pragas escritas neste livro.  
+**18** Eu declaro a todos os que ouvem as palavras da profecia deste livro: se alguém lhes juntar (alguma coisa), Deus carregará sobre ele as pragas escritas neste livro.  
 **19** Se alguém tirar qualquer coisa das palavras da profecia deste livro. Deus lhe tirará a sua parte da árvore da vida e da cidade santa, que estão descritas neste livro.  
 **20** O que dá testemunho destas coisas, diz: "Sim, venho sem demora." Amen. Vem, Senhor Jesus.  
 **21** A graça de Nosso Senhor Jesus Cristo seja com todos. Amen.

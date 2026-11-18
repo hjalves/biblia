@@ -21,12 +21,12 @@
 **17** aprendei a fazer o bem, procurai o que é justo, socorrei o oprimido, fazei justiça ao órfão, defendei a viúva.  
 **18** Vinde, expliquemo-nos, diz o Senhor: se os vossos pecados forem como o escarlate, eles se tornarão brancos como a neve: se forem vermelhos como a púrpura, ficarão brancos como a (mais) branca lã.  
 **19** Se quiserdes, se fordes dóceis, comereis os bens da terra.  
-**20** Mas se não quiserdes e me provocardes à ira, devorai-vos-á a espada, porque foi a boca do Senhor que falou.  
+**20** Mas se não quiserdes e me provocardes à ira, devorar-vos-á a espada, porque foi a boca do Senhor que falou.  
 **21** Como se tornou uma prostituta a cidade fiel, cheia de retidão? Outrora habitou nela a justiça, mas agora habitam os homicidas.  
 **22** A tua prata converteu-se era escória; o teu vinho misturou-se com água.  
 **23** Os teus príncipes são rebeldes, companheiros de ladrões; todos eles amam as dádivas, andam atrás das recompensas. Não fazem justiça ao órfão, e a causa da viúva não tem acesso a eles.  
 **24** Por este motivo, diz o Senhor Deus rei dos exércitos, o Forte de Israel: Ah! Tirarei satisfação dos meus adversários, vingar-me-ei dos meus inimigos!  
-**25** Voltarei a minha mão sobre t,. purificar-te-ei no crisol, separarei de ti todo o chumbo.  
+**25** Voltarei a minha mão sobre ti, purificar-te-ei no crisol, separarei de ti todo o chumbo.  
 **26** Restabelecerei os teus juízes (fazendo com que eles sejam) como eram dantes, e os teus conselheiros como antigamente; depois disto, serás chamada a cidade da justiça, a cidade fiel.  
 **27** Sião será resgatada pela retidão, e os seus convertidos pela justiça.  
 **28** Os malvados e os pecadores serão despedaçados, todos juntos e os que abandonam o Senhor serão consumidos.  
@@ -299,7 +299,7 @@
 **8** Ficarão quebrantados, apoderar-se-ão deles convulsões e dores; torcer-se-ão como a mulher que está de parto; cada um ficará atónito, olhando para o seu vizinho; os seus rostos tornar-se-ão inflamados.  
 **9** A cidade será tomada; horrível massacre.  
 **10** Eis que vem o dia do Senhor, dia cruel, cheio de indignação, de ira e de furor, para transformar a terra numa solidão e para exterminar dela os pecadores.  
-**11** As estrelas do céu, as suas constelações não espalharão a sua luz; cobrir-se-á de trevas o sol no seu nascimento, e a Iua não resplandecerá com a sua claridade.  
+**11** As estrelas do céu, as suas constelações não espalharão a sua luz; cobrir-se-á de trevas o sol no seu nascimento, e a lua não resplandecerá com a sua claridade.  
 **12** Castigarei a terra por suas maldades, e os ímpios por sua iniquidade; porei fim à insolência dos soberbos, humilharei a arrogância dos opressores.  
 **13** Farei que os homens sejam mais raros que o ouro fino, mais raros que o ouro de Ofir.  
 **14** Farei estremecer os céus, e mover-se-á a terra do seu lugar, por causa da indignação do Senhor dos exércitos, no dia em que se acender o seu furor.  
@@ -367,7 +367,7 @@
 **4** Habitam junto de ti os fugitivos de Moab; sê para eles um refúgio contra o devastador, até desaparecer a opressão até terminar a devastação, até se retirar o invasor.  
 **5** Será estabelecido o trono pela misericórdia e sobre ele se sentará em verdade, no tabernáculo de Davide, um juiz amigo do direito e zeloso da justiça.  
 **6** Temos ouvido falar da soberba do Moab, que é soberbo em extremo; conhecemos a sua soberba, a sua arrogância, a sua insolência, a sua língua enganadora.  
-**7** Por isso Moab lamenta a Moab; haja lamentação universal. Suspiram, consternados, pelas tortas de uvas Quir-Hareseth.  
+**7** Por isso Moab lamenta a Moab; haja lamentação universal. Suspiram, consternados, pelas tortas de uvas de Quir-Hareseth.  
 **8** Porque os campos de Hesebon estão desertos, os príncipes das nações talaram a vinha (ou região) de Sabama, cujas varas chegavam até Jazer, e iam até perder-se pelo deserto, cujos rebentos se estendiam ao longe, passavam à outra banda do mar.  
 **9** Por esta causa chorarei com o pranto de Jazer a vinha de Sabama, banhar-vos-ei com as minhas lágrimas Hesebon e Eleale, porque se ouviu, sobre as tuas vinhas e sobre as messes, o grito do lagareiro (e do debulhador).  
 **10** A alegria e o regozijo desaparaceram dos campos, e nas vinhas ninguém exulta, nem mostra júbilo. Não mais pisarão vinho no lagar os que tinham costume de o pisar; fiz calar a voz dos pisadores.  
@@ -419,7 +419,7 @@
 **12** — Onde estão agora os teus sábios? Eles te anunciem e apontem o que o Senhor dos exércitos tem resolvido sobre o Egito.  
 **13** Loucos se tornaram os príncipes de Tanis, estão iludidos os príncipes de Mênfis; os chefes das tribos desencaminham o Egito.  
 **14** O Senhor difundiu no meio dele um espírito de vertigem; eles fizeram errar o Egito em todas as suas obras, como erra o homem embriagado e que vomita,  
-**15** O Egito está incapaz de conduzir a bom termo o que devera fazer a cabeça e a cauda, a palma e o junco.  
+**15** O Egito está incapaz de conduzir a bom termo o que devem fazer a cabeça e a cauda, a palma e o junco.  
 **16** Naquele dia ficarão os Egípcios como (tímidas) mulheres: pasmarão e temerão diante do movimento da mão do Senhor dos exércitos, a qual descarregará contra eles.  
 **17** E tornar-se-á o terror do Egito a terra de Judá; todo o que se lembrar dela, encher-se-á de pavor, à vista dos desígnios do Senhor dos exércitos, formados contra o Egito.  
 **18** Naquele dia haverá cinco cidades na terra do Egito, que falarão a língua de Canaan e que jurarão pelo Senhor dos exércitos: Uma delas será chamada a Cidade do Sol.  
@@ -597,7 +597,7 @@
 **4** E a flor caduca do brilho da sua glória, que domina o vale fertilíssimo, será como um figo temporão, que amadurece antes da estação (própria) o qual, o primeiro que o vê, logo colhe e devora.  
 **5** Naquele dia o Senhor dos exércitos será um diadema cintilante, uma coroa de glória para o resto do seu povo,  
 **6** um espírito de justiça para o que está sentado para (administrar) a justiça, uma fortaleza para os que repelem o assalto (dos inimigos) à porta (da cidade).  
-**7** Mas também eles, extraviados por causa do vinho (demasiado), por causa das bebidas fortes, andara sem se poderem ter de pé; o sacerdote e o profeta, vacilam por causa da embriaguez, são absorvidos pelo vinho, andam atordoados pelas bebidas fortes, erram nas visões e tropeçam no juízo.  
+**7** Mas também eles, extraviados por causa do vinho (demasiado), por causa das bebidas fortes, andam sem se poderem ter de pé; o sacerdote e o profeta, vacilam por causa da embriaguez, são absorvidos pelo vinho, andam atordoados pelas bebidas fortes, erram nas visões e tropeçam no juízo.  
 **8** Todas as mesas se encheram de vómito e de asquerosidade, de modo que não há já lugar que esteja limpo.  
 **9** A quem quer ensinar a sabedoria, a quem quer fazer entender a lição? Aos meninos acabados de desleitar, aos que acabam de ser desmamados?  
 **10** Porque: Manda, torna a mandar; manda, torna a mandar; espera, torna a esperar; espera, torna a esperar; um pouco aqui, um pouco aí.  
@@ -1122,7 +1122,7 @@
 **18** Oxalá que tu tivesses atendido aos meus mandamentos! A tua paz teria sido como um rio, a tua justiça (tão copiosa) como as ondas do mar;  
 **19** a tua posteridade teria sido como a areia, os filhos do teu ventre como os grãos de areia; não teria sido abolido nem apagado o teu nome diante da minha face.  
 **20** Sai de Babilónia, fugi dos Caldeus, anunciai com vozes de júbilo esta nova, publicai-a até às extremidades da terra. Dizei: O Senhor resgatou o seu servo Jacob.  
-**21** Não padecem sede no deserto, em que o Senhor os guia; ele Ihes faz rebentar água duma penha; fende a penha, e as águas correm.  
+**21** Não padecem sede no deserto, em que o Senhor os guia; ele lhes faz rebentar água duma penha; fende a penha, e as águas correm.  
 
 ## Capítulo 49
 
@@ -1209,7 +1209,7 @@
 **12** Não saireis tumultuàriamente, em fuga precipitada, porque o Senhor irá adiante de vós, e o Deus de Israel à vossa retaguarda.  
 **13** Eis que o meu Servo prosperará, será engrandecido, exaltado, muito altamente elevado.  
 **14** Assim como pasmaram muitos ao verem-no - tão desfigurado estava depois, o seu rosto que não parecia de homem -  
-**15** assim o admirarão multas nações, e diante dele os reis taparão a boca, porque verão o que nunca lhes tinha sido contado, observarão um prodígio inaudito.  
+**15** assim o admirarão muitas nações, e diante dele os reis taparão a boca, porque verão o que nunca lhes tinha sido contado, observarão um prodígio inaudito.  
 
 ## Capítulo 53
 
@@ -1287,7 +1287,7 @@
 **6** É nas pedras polidas da torrente que está a tua parte: eis a tua sorte! E em honra desses mesmos ídolos derramaste libações, ofereceste sacrifícios. Não me hei-de indignar à vista destas coisas?  
 **7** Pões o leu leito sobre um alto, elevado monte, e lá sobes para imolar hóstias.  
 **8** Detrás da porta e da ombreira pões o teu sinal, porque não foi por mim que tu te descobriste, que subiste ao teu leito e o alargaste: vais-te assalariar com aqueles com que queres ter comércio, multiplicaste as prostituições com eles, admirando o ídolo.  
-**9** Perfumas-te para agraciar a Moloch, multiplicas os teus aromas. Envias os teus embaixadores longe, e fá-los descer até à morada dos mortos.  
+**9** Perfumas-te para agradar a Moloch, multiplicas os teus aromas. Envias os teus embaixadores longe, e fá-los descer até à morada dos mortos.  
 **10** Fatigas-te na multidão dos teus caminhos, e nunca dizes: Descansarei. Achas ainda forças em tuas mãos, por isso andas sem parar.  
 **11** Quem temes tu, de quem tens receio, para (assim) me seres infiel, para me apagares da tua memória, para não fazeres caso de mim? Porque eu estava calado e parecia não ver, por isso te esqueceste de mim.  
 **12** Pois bem, publicarei a tua justiça e as tuas obras, que de nada servem.  

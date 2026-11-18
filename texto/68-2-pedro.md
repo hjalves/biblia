@@ -20,7 +20,7 @@
 **16** Efetivamente, não foi seguindo fábulas engenhosas que vos fizemos conhecer o poder e a vinda (no fim do mundo) de Nosso Senhor Jesus Cristo, mas foi depois de termos sido espetadores da sua grandeza.  
 **17** De facto, ele recebeu de Deus Pai honra e glória, quando da majestosa glória desceu a ele uma voz que dizia: "Este é o meu Filho amado, em quem pus as minhas complacências."  
 **18** Nós mesmos ouvimos esta voz vinda do céu, quando estávamos com ele sobre o monte santo (da Transfiguração).  
-**19** Temos ainda a palavra mais firme dos profetas, à qual fazeis bem em prestar atenção, como a uma lucerna que alumia num lugar escuro, até que venha o dia, e a estrelada manhã nasça em vossos corações.  
+**19** Temos ainda a palavra mais firme dos profetas, à qual fazeis bem em prestar atenção, como a uma lucerna que alumia num lugar escuro, até que venha o dia, e a estrela da manhã nasça em vossos corações.  
 **20** Atendei antes de tudo a isto: que nenhuma profecia da Escritura é de interpretação particular.  
 **21** Com efeito, a profecia nunca foi dada pela vontade humana, mas os homens de Deus falaram inspirados pelo Espírito Santo.  
 

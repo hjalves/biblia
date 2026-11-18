@@ -3,7 +3,7 @@
 ## Capítulo 1
 
 **1** No primeiro ano de Ciro, rei dos Persas, a fim de se cumprir a palavra do Senhor pronunciada pela boca de Jeremias, o Senhor suscitou o espírito de Ciro, rei dos Persas, que mandou publicar em todo o seu reino, de viva voz e por escrito, esta ordem:  
-**2** Eis o que diz Ciro, rei dos Persas: O Senhor Deus do céu deu-me todos os reinos da terra, e ele mesmo me mandou que Ihe edificasse um templo em Jerusalém, que está na Judeia.  
+**2** Eis o que diz Ciro, rei dos Persas: O Senhor Deus do céu deu-me todos os reinos da terra, e ele mesmo me mandou que lhe edificasse um templo em Jerusalém, que está na Judeia.  
 **3** Quem é dentre vós pertencente ao seu povo? O seu Deus seja com ele. Vá para Jerusalém, que está na Judeia, e edifique a casa do Senhor Deus de Israel. O Deus (verdadeiro) é aquele que está em Jerusalém.  
 **4** Todos aqueles que ainda restam (de Judá), em qualquer lugar onde habitem, sejam ajudados pelas populações desse lugar com prata, com ouro, com (outros) bens e com gados, com dons voluntariamente oferecidos para o templo de Deus, que está em Jerusalém.  
 **5** Então os chefes das famílias de Judá e de Benjamim, os sacerdotes, os Levitas, e todos aqueles cujo coração Deus tinha tocado, prepararam-se para ir reedificar o templo do Senhor, que estava em Jerusalém.  
@@ -36,7 +36,7 @@
 **18** filhos de Jora, cento e doze;  
 **19** filhos de Hasum, duzentos e vinte e três;  
 **20** filhos de Gebar, noventa e cinco;  
-**21** filhos de Belém, cento evinte e três;  
+**21** filhos de Belém, cento e vinte e três;  
 **22** homens de Netufa, cinquenta e seis;  
 **23** homens de Anatot, cento e vinte e oito;  
 **24** filhos de Azmavet, quarenta e dois;  
@@ -106,7 +106,7 @@
 ## Capítulo 4
 
 **1** Quando os inimigos de Judá e de Benjamim souberam que os filhos do cativeiro edificavam o templo do Senhor Deus de Israel,  
-**2** indo ter com Zorobabel e com os chefes das famílias, disseram-Ihes: Deixai-nos edificar convosco, porque nós buscamos o vosso Deus, do mesmo modo que vós; temos-lhe sempre imolado vitimas, desde o tempo de Assaradão, rei da Assíria, que nos mandou para aqui.  
+**2** indo ter com Zorobabel e com os chefes das famílias, disseram-lhes: Deixai-nos edificar convosco, porque nós buscamos o vosso Deus, do mesmo modo que vós; temos-lhe sempre imolado vitimas, desde o tempo de Assaradão, rei da Assíria, que nos mandou para aqui.  
 **3** Zorobabel, Josué e os outros chefes das famílias de Israel responderam-lhes: Não convém a vós e a nós edificar juntamente a casa ao nosso Deus; nós, sozinhos, a edificaremos ao Senhor nosso Deus, como Ciro, rei dos Persas, no-lo ordenou.  
 **4** Daqui resultou que o povo da terra intimidava o povo de Judá e estorvava-o na obra.  
 **5** (Os inimigos de Judá) subornaram alguns conselheiros (do rei), para destruírem o seu projeto. Isto durou todo o tempo de Ciro, rei dos Persas, até ao reinado de Dario, rei dos Persas.  
@@ -203,7 +203,7 @@
 **24** Nós vos notificamos também que, relativamente a todos os sacerdotes, Levitas, cantores, porteiros, Natineus e ministros da casa deste Deus, não tereis poder de lhes impor imposto, nem tributo, nem outros encargos.  
 **25** E tu, Esdras, segundo a sabedoria que recebeste do teu Deus, estabelece juízes e presidentes, que julguem todo o povo que está além do rio, isto é, todos aqueles que conhecem a lei do teu Deus, e ensina também livremente aos que a ignoram.  
 **26** "Todo o que não observar exatamente a lei do teu Deus e a ordem do rei, será condenado ou à morte ou a desterro, ou a alguma multa sobre os seus bens, ou à prisão."  
-**27** Bendito seja o Senhor Deus de nossos pais, que pôs coração do rei este pensamento de glorificar a casa do Senhor, que está em Jerusalém,  
+**27** Bendito seja o Senhor Deus de nossos pais, que pôs no coração do rei este pensamento de glorificar a casa do Senhor, que está em Jerusalém,  
 **28** e que inclinou para mim a benevolência do rei, dos seus conselheiros e de todos os príncipes poderosos da corte do rei. Eu, confortado pela mão do Senhor meu Deus, que estava sobre mim, juntei os principais de Israel para virem comigo.  
 
 ## Capítulo 8

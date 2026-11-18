@@ -438,7 +438,7 @@
 **8** disse-lhe: Agar, escrava de Sarai, donde vens e para onde vais? Ela respondeu: fujo da face de Sarai, minha senhora.  
 **9** E o anjo do Senhor disse-lhe: volta para a tua senhora, e humilha-te debaixo da sua mão.  
 **10** E acrescentou: multiplicarei extraordinariamente a tua descendência e a farei tão numerosa que se não poderá contar.  
-**11** Disse ainda mais: eis que concebeste, darás à luz um filho e lhe porás o nome de Ismael, parque o Senhor te ouviu na tua aflição.  
+**11** Disse ainda mais: eis que concebeste, darás à luz um filho e lhe porás o nome de Ismael, porque o Senhor te ouviu na tua aflição.  
 **12** Este será como um cavalo selvagem: a sua mão (se levantará) contra todos, e as mãos de todos (se levantarão) contra ele; levantará as suas tendas defronte de todos os seus irmãos.  
 **13** Então (Agar) invocou o nome do Senhor que lhe falava, chamando-lhe Atta-El-Roi porque, dizia ela, não vi eu, aqui mesmo, o Deus que me via?  
 **14** Por esta razão chamou ela àquele poço o Poço Lachai-Roi, o qual fica situado entre Cades e Barad.  
@@ -447,7 +447,7 @@
 
 ## Capítulo 17
 
-**1** Mas, quando (Abrão) chegou à idade de noventa e nove anos, o Senhor apareceu-lhe e disse-lhe: Eu (sou) o Deus onipotente; anda em minha presença e sê perfeito.  
+**1** Mas, quando (Abrão) chegou à idade de noventa e nove anos, o Senhor apareceu-lhe e disse-lhe: Eu (sou) o Deus omnipotente; anda em minha presença e sê perfeito.  
 **2** Farei a minha aliança entre mim e ti, e te multiplicarei extraordinariamente.  
 **3** Abrão prostrou-se com o rosto por terra.  
 **4** Deus disse-lhe: Eis minha aliança contigo: tu serás pai de muitas gentes  
@@ -1207,14 +1207,14 @@
 **12** Como seus irmãos estivessem em Siquem apascentando os rebanhos do pai,  
 **13** Israel disse-lhe: Teus irmãos apascentam as ovelhas em Siquem: vem, enviar-te-ei a eles. Respondeu (José):  
 **14** Estou pronto. (Jacob) disse-lhe: Vai, vê se tudo corre bem a teus irmãos e aos rebanhos, e traze-me noticias do que se passa. (Sendo) mandado do vale de Hebron, (José) chegou a Siquem,  
-**15** e, andando errante pelo campo, um homem encontrou-o e perguntou-Ihe o que procurava.  
+**15** e, andando errante pelo campo, um homem encontrou-o e perguntou-lhe o que procurava.  
 **16** Ele respondeu: Procuro meus irmãos; indica-me onde apascentam os rebanhos.  
 **17** O homem disse-lhe: Retiraram-se deste lugar, e ouvi-lhes dizer: Vamos para Dotain. Partiu, pois, José atrás de seus irmãos e encontrou-os em Dotain.  
 **18** Eles, porém, tendo-o visto ao longe, antes que se aproximasse, resolveram matá-lo.  
 **19** Diziam entre si: Eis ai vem o sonhador;  
 **20** vinde, matemo-lo, lancemo-lo em uma cisterna velha, diremos: Uma fera cruel o devorou; então se verá de que lhe aproveitam os seus sonhos.  
 **21** Ruben, porém, ouvindo isto, esforçava-se por o livrar das suas mãos, dizendo:  
-**22** Não lhe tireis a vida, nem lhe derrameis o sangue, mas lançai-o nesta cisterna, que está no deserto, e conservai puras as vossas mãos. Diria isto porque queria livrá-lo das suas mãos e restitui-lo a seu pai.  
+**22** Não lhe tireis a vida, nem lhe derrameis o sangue, mas lançai-o nesta cisterna, que está no deserto, e conservai puras as vossas mãos. Dizia isto porque queria livrá-lo das suas mãos e restitui-lo a seu pai.  
 **23** Logo que (José) chegou junto de seus irmãos, despiram-no da túnica talar de várias cores  
 **24** e lançaram-no na cisterna velha, que não tinha água.  
 **25** Depois, sentando-se para comer pão, viram uns viajantes Ismaelitas, que vinham de Galaad, com seus camelos carregados de aromas, resina e mirra, para o Egito.  
@@ -1403,7 +1403,7 @@
 **23** Ora eles não sabiam que José os entendia, porque lhes falava por intérprete.  
 **24** (José) retirou-se, um momento, e chorou; e, voltando; falou com eles.  
 **25** Tendo mandado tomar e ligar Simeão na presença deles, mandou aos oficiais que enchessem os seus sacos de trigo e repusessem o dinheiro de cada um no seu (respetivo) saco, dando-lhes, além disso, mantimentos para o caminho. E assim se fez.  
-**26** Eles levando trigo sobre os seus jumentos, partiram.  
+**26** Eles levando o trigo sobre os seus jumentos, partiram.  
 **27** Abrindo um deles o saco, para dar de comer ao (seu) jumento na estalagem, vendo o dinheiro, na boca do saco,  
 **28** disse para seus irmãos: Tornaram-me a dar o dinheiro, ei-lo aqui no (meu) saco. E, pasmados e perturbados, disseram uns para os outros: Que é isto que Deus nos fez?  
 **29** Chegaram a casa de Jacob, seu pai, na terra de Canaan, e contaram-lhe tudo o que lhes tinha acontecido, dizendo:  
@@ -1573,7 +1573,7 @@
 **10** Abençoado o rei, retirou-se.  
 **11** José deu a seu pai e a seus irmãos uma propriedade, em um ótimo lugar do país, em Ramsés, como Faraó tinha ordenado,  
 **12** e sustentava-os a eles e a toda a família de seu pai, dando a cada um o seu sustento.  
-**13** Ora o pão faltava em toda aquela terra, a fome muito grande, principalmente no Egito e em Canaan.  
+**13** Ora o pão faltava em toda aquela terra, a fome era muito grande, principalmente no Egito e em Canaan.  
 **14** (José) recolheu destes países todo o dinheiro pela venda do trigo, e meteu-o no erário do rei.  
 **15** Faltando o dinheiro aos compradores, todo o Egito foi ter com José, dizendo: Dá-nos pão; por que razão morreremos nós na tua presença, por falta de dinheiro?  
 **16** Ele respondeu-lhes: Trazei os vossos gados, e eu vos darei por eles de comer, se não tendes (mais) dinheiro.  

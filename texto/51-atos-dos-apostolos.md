@@ -68,7 +68,7 @@
 **35** até que eu ponha os teus inimigos por escabelo de teus pés (Ps. 109, 1).  
 **36** Saiba, pois, toda a casa de Israel com a maior certeza que Deus constituiu Senhor e Cristo a este Jesus, a quem vós crucificastes."  
 **37** Ao ouvir estas coisas, ficaram compungidos no seu coração e disseram a Pedro e aos outros Apóstolos: "Que devemos fazer irmãos?"  
-**38** Pedro disse-Ihes: "Fazei penitência, e cada um de vós seja batizado, em nome de Jesus Cristo, para remissão de vossos pecados; e recebereis, então, dom do Espírito Santo.  
+**38** Pedro disse-lhes: "Fazei penitência, e cada um de vós seja batizado, em nome de Jesus Cristo, para remissão de vossos pecados; e recebereis, então, dom do Espírito Santo.  
 **39** Porque a promessa é para vós, para os vossos filhos, para todos os que estão longe e para quantos o nosso Deus chamar (a si)."  
 **40** Com outras muitíssimas palavras, os persuadia e exortava, dizendo: "Salvai-vos desta geração perversa"  
 **41** Os que receberam a sua palavra foram batizados; e ficaram agregadas a eles, naquele dia, cerca de três mil pessoas.  
@@ -254,7 +254,7 @@
 **39** ele, a quem nossos pais não quiseram obedecer, antes repeliram. Voltaram-se em seus corações para o Egito,  
 **40** dizendo a Aarão; Faze-nos deuses, que vão adiante de nós, porque esse Moisés,' que nos tirou da terra do Egito, não sabemos o que foi feito dele (Ex. 32,t-23).  
 **41** Naqueles dias, fizeram um bezerro (de ouro) e ofereceram sacrifício ao ídolo, e alegravam-se das obras das suas mãos.  
-**42** Mas Deus afastou-se deles e abandonou-os ao culto da milícia do céu, como está escrito no livro dos profetas: Por ventura oferecestes-me vós, casa de Israel, algumas vitimas e sacrifícios pelo espaço de quarenta anos no deserto?  
+**42** Mas Deus afastou-se deles e abandonou-os ao culto da milícia do céu, como está escrito no livro dos profetas: Porventura oferecestes-me vós, casa de Israel, algumas vitimas e sacrifícios pelo espaço de quarenta anos no deserto?  
 **43** Transportastes a tenda de Moloch e o astro do vosso deus Renfa, figuras que fizestes para as adorar. Pois eu vos transportarei para além de Babilónia (Am. 5,25-27).  
 **44** O tabernáculo do testemunho esteve entre os nossos pais no deserto, segundo a ordem daquele que tinha prescrito a Moisés que o construísse segundo o modelo que tinha visto.  
 **45** Nossos pais, tendo-o recebido, levaram-no sob a direção de Josué, quando foram tomar posse da terra das nações, que Deus lançou de diante de nossos pais, até aos dias de David,  
@@ -497,7 +497,7 @@
 **18** Alimentou-os no deserto, durante cerca de quarenta anos,  
 **19** e, destruindo sete nações na terra de Canaan, distribuiu entre eles o território delas  
 **20** e deu-lhas, em herança, por espaço de cerca de quatrocentos e cinquenta anos. Depois disso, deu-lhes juízes até ao profeta Samuel.  
-**21** Então pediram um rei, e Deus deu-lhes Saul, Filho de Cie, homem da tribo de Benjamim, por espaço de quarenta anos.  
+**21** Então pediram um rei, e Deus deu-lhes Saul, Filho de Cis, homem da tribo de Benjamim, por espaço de quarenta anos.  
 **22** Rejeitado este, suscitou-lhes como rei a David, ao qual, dando testemunho, disse: Achei David, filho de Jessé, homem segundo o meu coração, que fará todas as minhas vontades.  
 **23** Da descendência deste, Deus, segundo a sua promessa, suscitou um Salvador a Israel, Jesus,  
 **24** tendo João pregado, antes da sua vinda, o batismo da penitência a todo o povo de Israel.  
@@ -888,7 +888,7 @@
 **9** Houve grande vozearia. Levantando-se alguns fariseus, altercavam dizendo: "Não achamos mal algum neste homem; quem sabe se lhe falou algum espírito ou anjo?"  
 **10** Como a discórdia aumentava de violência, temendo o tribuno que Paulo fosse despedaçado por eles, mandou que descessem os soldados, que o tirassem do meio deles e o levassem à fortaleza.  
 **11** Na noite seguinte, aparecendo-lhe o Senhor, disse-lhe: "Coragem! Assim como deste testemunho de mim em Jerusalém, assim importa que também o dês em Roma."  
-**12** Quando se fez dia, coligaram-se alguns judeus e juraram com imprecações contra eles próprios que não haviam de comer nem beber enquanto não matassem contra Paulo.  
+**12** Quando se fez dia, coligaram-se alguns judeus e juraram com imprecações contra eles próprios que não haviam de comer nem beber enquanto não matassem Paulo.  
 **13** Eram mais de quarenta os que tinham feito esta conjuração.  
 **14** Foram ter com os príncipes dos sacerdotes e com os anciães, e disseram: "Nós obrigamo-nos por voto, sob pena de maldição, a não tomar nenhum alimento até que matemos Paulo.  
 **15** Vós, pois, agora, com o Sinédrio, fazei saber ao tribuno que o conduza à vossa presença, como se fosse para descobrir alguma coisa de mais seguro acerca dele. Nós estaremos preparados para o matar, antes que ele chegue."  
@@ -1029,7 +1029,7 @@
 **17** Tendo-o içado, (os marinheiros) valiam-se de todos os meios de salvação, cingindo a nau com cabos de reforço. Em seguida, havendo receio de ir contra a Sirte, soltou-se a âncora flutuante, indo-se assim ao sabor das ondas.  
 **18** Sendo nós violentamente balidos pela tempestade, os marinheiros no dia seguinte alijaram carga.  
 **19** Ao terceiro dia lançaram ao mar com as suas próprias mãos os aparelhos do navio.  
-**20** Não aparecendo durante muitos dias sol nem estrelas e continuando a tempestade com violência, tínhamos já perdida Ioda a esperança de salvação.  
+**20** Não aparecendo durante muitos dias sol nem estrelas e continuando a tempestade com violência, tínhamos já perdida toda a esperança de salvação.  
 **21** Estando todos há muito tempo sem comer, Paulo, em pé no meio deles, disse: "Convinha, meus amigos seguindo o meu conselho, não ter saído de Creta e evitar este perigo e dano.  
 **22** Mas agora exorto-vos a que tenhais coragem, porque nenhum de vós perderá a vida, mas somente o navio será destruído.  
 **23** Porque esta noite apareceu-me o anjo daquele Deus de quem eu sou, e a quem sirvo,  

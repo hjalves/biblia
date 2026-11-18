@@ -191,7 +191,7 @@
 **9** No mesmo instante, ficou são aquele homem, tomou o seu leito e começou a andar. Ora aquele dia era um sábado,  
 **10** Por isso os Judeus diziam ao que tinha sido curado: "Hoje é sábado, não te é licito levar o teu leito."  
 **11** Ele respondeu-lhes: "Aquele que me curou, disse-me: Toma o teu leito, e anda."  
-**12** Perguntaram- lhe então: "Quem é esse homem que te disse: Toma o teu leito e anda?"  
+**12** Perguntaram-lhe então: "Quem é esse homem que te disse: Toma o teu leito e anda?"  
 **13** Porém o que tinha sido curado não sabia quem ele era, porque Jesus havia desaparecido sem ser notado, graças à multidão que estava naquele lugar.  
 **14** Depois disto, Jesus encontrou-o no templo e disse-lhe: "Eis que estás são; não peques mais, para que te não suceda coisa pior."  
 **15** Foi aquele homem anunciar aos Judeus que era Jesus quem o tinha curado.  
@@ -271,7 +271,7 @@
 **39** Ora a vontade daquele que me enviou, é que eu não perca nada do que me deu, mas que o ressuscite no último dia.  
 **40** A vontade de meu Pai, que me enviou, é que todo o que vê o Filho e crê nele tenha a vida eterna; e eu o ressuscitarei no último dia."  
 **41** Murmuravam, pois, dele os Judeus, porque dissera: "Eu sou o pão que desceu do céu."  
-**42** Diziam: "Por ventura não é este aquele Jesus, filho de José, cujo pai e mãe nós conhecemos? Como, pois, diz ele: Descido céu?"  
+**42** Diziam: "Porventura não é este aquele Jesus, filho de José, cujo pai e mãe nós conhecemos? Como, pois, diz ele: Descido céu?"  
 **43** Jesus, replicando, disse-lhes: "Não murmureis entre vós.  
 **44** Ninguém pode vir a mim, se o Pai que me enviou, o não atrair; e eu o ressuscitarei no último dia.  
 **45** Está escrito nos profetas: E serão todos ensinados por Deus (Is. 54, 13). Portanto todo aquele que ouve e aprende do Pai; vem a mim.  
@@ -300,11 +300,11 @@
 **68** Simão Pedro respondeu-lhe: "Senhor, para quem havemos nós de ir? Tu tens palavras de vida eterna.  
 **69** E nós acreditamos e conhecemos que tu és o Santo de Deus."  
 **70** Jesus replicou: "Não fui eu que vos escolhi, a vós os doze? E contudo um de vós é um demónio."  
-**71** Falava de Judas, filho de Simão Iscariote, porque era este que o havia de entregar, não obstante ser um dos doze.  
+**71** Falava de Judas, filho de Simão Iscariotes, porque era este que o havia de entregar, não obstante ser um dos doze.  
 
 ## Capítulo 7
 
-**1** Depois disto, andava Jesus pela Galileia; não queria andar pela Judeia, visto que os Judeus queriam matar.  
+**1** Depois disto, andava Jesus pela Galileia; não queria andar pela Judeia, visto que os Judeus o queriam matar.  
 **2** Estava próxima a festa dos Judeus, chamada dos Tabernáculos.  
 **3** Disseram-lhe, pois, seus irmãos: "Sai daqui e vai para a Judeia, a fim de que também os teus discípulos vejam as obras que fazes.  
 **4** Porque ninguém que deseja ser conhecido em público, faz coisa alguma em segredo. Já que fazes estas coisas, manifesta-te ao mundo."  
@@ -489,7 +489,7 @@
 **21** Outros diziam: "Estas palavras não são de quem está possesso do demónio. Porventura pode o demónio abrir os olhos aos cegos?"  
 **22** Celebrava-se em Jerusalém a festa da dedicação. Era inverno.  
 **23** Jesus andava passeando no templo, no pórtico de Salomão.  
-**24** Rodearam-no os Judeus, e disseram-lhe: "A té quando nos terás tu perplexos? Se és o Cristo, dize-no-lo claramente."  
+**24** Rodearam-no os Judeus, e disseram-lhe: "Até quando nos terás tu perplexos? Se és o Cristo, dize-no-lo claramente."  
 **25** Jesus respondeu-lhes: "Eu digo-vo-lo, e vós não me credes. As obras que faço em nome de meu Pai, essas dão testemunho de mim;  
 **26** porém vós não credes, porque não sois das minhas ovelhas,  
 **27** As minhas ovelhas ouvem a minha voz; eu conheço-as, e elas seguem-me.  
@@ -864,7 +864,7 @@
 **26** Jesus, vendo sua Mãe, e, junto dela, o discípulo que amava, disse a sua Mãe: "Mulher, eis o teu filho."  
 **27** Depois disse ao discípulo: "Eis a tua Mãe." E, desta hora por diante, a levou o discípulo para sua casa.  
 **28** Em seguida, sabendo Jesus que tudo estava consumado, para se cumprir a Escritura, disse: "Tenho sede."  
-**29** Havia sido ali posto um vaso cheio de vinagre. Então, os soldados, ensopando no vinagre uma esponja e atando-a a uma cana de hissopo, chegaram-Iha à boca.  
+**29** Havia sido ali posto um vaso cheio de vinagre. Então, os soldados, ensopando no vinagre uma esponja e atando-a a uma cana de hissopo, chegaram-lha à boca.  
 **30** Jesus, tendo tomado o vinagre, disse: "Tudo está consumado." Depois, inclinando a cabeça, rendeu o espírito.  
 **31** Os Judeus, visto que era o dia da Preparação, para que não ficassem os corpos na cruz no sábado, porque aquele dia de sábado era de grande solenidade, rogaram a Pilatos que lhes fossem quebradas as pernas, e fossem tirados.  
 **32** Foram, pois, os soldados, e quebraram as pernas ao primeiro e ao outro com quem ele havia sido crucificado.  

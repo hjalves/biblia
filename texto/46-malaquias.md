@@ -10,7 +10,7 @@
 **6** O filho honra seu pai, e o servo o seu senhor. Se eu, pois, sou vosso pai, onde está a minha honra? E se eu sou vosso Senhor, onde está o temor que se me deve? — diz o Senhor dos exércitos. A vós, sacerdotes, (é isto dirigido, a vós) que desprezais o meu nome e que dizeis; Em que desprezamos o teu nome?  
 **7** (Nisto:) Ofereceis sobre o meu altar um pão imundo. Também dizeis: Em que te profanamos? — Nisso que dizeis: A mesa do Senhor é desprezível.  
 **8** Se ofereceis um (animal) cego para ser imolado, não é isto mau? E se ofereceis um coxo e doente, não é isto mau? Oferece (isso) ao teu governador e verás se lhe agradará, se te receberá com agrado, diz o Senhor dos exércitos.  
-**9** E agora rogais a Deus que se compadeça de vós! Tudo isto foi feito por vossas mãos. (Regias circunstâncias) receber-vos-á favoravelmente?— diz o Senhor dos exércitos.  
+**9** E agora rogais a Deus que se compadeça de vós! Tudo isto foi feito por vossas mãos. (Nestas circunstâncias) receber-vos-á favoravelmente?— diz o Senhor dos exércitos.  
 **10** Quem há entre vós que feche as portas, para que se não acenda o lume inutilmente sobre o meu altar? O meu afeto não está em vós, diz o Senhor dos exércitos, nem aceitarei oferenda alguma da vossa mão.  
 **11** Desde o nascente ao poente, o meu nome é grande entre as nações, e em todo o lugar se oferece ao meu nome um sacrifício fumegante e uma oblação pura, porque o meu nome é grande entre as nações, diz o Senhor dos exércitos.  
 **12** Entretanto vós o profanais, dizendo: A mesa do Senhor está contaminada; e aquilo que se oferece em cima dela é alimento desprezível.  
@@ -34,7 +34,7 @@
 **13** Ainda fazeis outra coisa: Cobris de lágrimas, de prantos e de gemidos o altar do Senhor, porque não presta mais atenção às vossas - oferendas, não sente agrado no que lhe apresentam vossas mãos.  
 **14** E perguntais: Por que causa? — Porque o Senhor foi testemunha entre ti e a esposa da tua juventude, à qual foste infiel, sendo ela a tua companheira e a esposa da tua aliança.  
 **15** Porventura não fez ele (o Senhor) um só ser que tem carne e sopro de vida? E a que tende este ser único senão a uma posteridade concedida por Deus? Guardai, pois, o vosso espírito, e não desprezeis a mulher que recebestes na vossa mocidade.  
-**16** Quando alguém, por aversão, repudia (a mulher), diz o Senhor Deus de Israel, cobre de injustiça as suas restes, diz o Senhor dos exércitos. Acautelai, pois, a vossa vida e não sejais pérfidos.  
+**16** Quando alguém, por aversão, repudia (a mulher), diz o Senhor Deus de Israel, cobre de injustiça as suas vestes, diz o Senhor dos exércitos. Acautelai, pois, a vossa vida e não sejais pérfidos.  
 **17** Vós fatigastes o Senhor com os vossos discursos e dizeis: Em que o temos fatigado? — Nisto que dizeis: Todo o que faz o mal, passa por bom aos olhos do Senhor, que nele se compraz. Ou então (dizeis): Onde está o Deus da justiça?  
 
 ## Capítulo 3
@@ -43,12 +43,12 @@
 **2** E quem poderá suportar o dia da sua vinda, quem poderá ter-se à sua vista? Porque ele é como o fogo que derrete (os metais), como a lixívia dos lavandeiros.  
 **3** Sentar-se-á para fundir e refinar a prata; (deste modo) purificará os filhos de Levi e os apurará como o ouro e como a prata; (então) eles poderão apresentar as oferendas ao Senhor, em justiça.  
 **4** E a oblação de Judá e de Jerusalém será agradável ao Senhor, como nos dias antigos, como nos anos de outrora.  
-**5** Aproximar-me-ei de vós para exercer o juízo e serei uma testemunha pronta contra os feiticeiros, contra os adúlteros, contra os perjuros, contia os que defraudam o salário do trabalhador, que oprimem a viúva e o órfão, que desprezam o estrangeiro e não me temem, diz o Senhor dos exércitos.  
+**5** Aproximar-me-ei de vós para exercer o juízo e serei uma testemunha pronta contra os feiticeiros, contra os adúlteros, contra os perjuros, contra os que defraudam o salário do trabalhador, que oprimem a viúva e o órfão, que desprezam o estrangeiro e não me temem, diz o Senhor dos exércitos.  
 **6** Porque eu sou o Senhor, e não mudo; por isso é que vós, 6 filhos de Jacob, não tendes sido ainda consumidos.  
 **7** Desde os dias de vossos pais vos apartastes das minhas leis, não as guardastes. Voltai de novo para mim, e eu me voltarei de novo para vós, diz o Senhor dos exércitos. Porém dizeis; Como voltaremos (para ti?)  
 **8** — Deve um homem enganar o seu Deus? Ora vós enganais-me. E dizeis; Em que te temos enganado? — Nos dízimos e nas primícias.  
 **9** Postes amaldiçoados, e vós, a nação toda, procurais enganar-me.  
-**10** Levai todos os vossos dízimos ao (meu) celeiro, para que haja alimento na minha casa! Desta maneira ponde-me à prova, diz o Senhor, (e ver eis) se não vos abro as cataratas do céu e se não derramo a minha bênção sobre vós em abundância.  
+**10** Levai todos os vossos dízimos ao (meu) celeiro, para que haja alimento na minha casa! Desta maneira ponde-me à prova, diz o Senhor, (e vereis) se não vos abro as cataratas do céu e se não derramo a minha bênção sobre vós em abundância.  
 **11** Para vos beneficiar, afugentarei o inseto devorador, que não estragará mais os frutos da vossa terra; nem haverá nos campos vinhas estéreis, diz o Senhor dos exércitos.  
 **12** Todas as nações vos chamarão ditosos, porque sereis um país de delícias, diz o Senhor dos exércitos.  
 **13** São duras as palavras que tendes proferido contra mim, diz o Senhor.  

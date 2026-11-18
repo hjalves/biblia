@@ -3,7 +3,7 @@
 ## Capítulo 1
 
 **1** Sucedeu que, depois da morte de Saul, Davide voltou da derrota dos Amalecitas e esteve dois dias em Siceleg.  
-**2** Ao terceiro dia, apareceu um homem, que vinha do campo de Saul, com a roupa rasgada e a cabeça coberta de pó. Logo que chegou a Davide, prostrou-se com o rosto em terra, fazendo-lhe um a profunda reverência.  
+**2** Ao terceiro dia, apareceu um homem, que vinha do campo de Saul, com a roupa rasgada e a cabeça coberta de pó. Logo que chegou a Davide, prostrou-se com o rosto em terra, fazendo-lhe uma profunda reverência.  
 **3** Davide disse-lhe: Donde vens? Ele respondeu-lhe: Eu salvei-me do acampamento de Israel.  
 **4** Davide disse-lhe: O que aconteceu? Dize-mo. Ele respondeu: O povo fugiu da batalha, muitos do povo caíram mortos, e até Saul e seu filho Jónatas pereceram  
 **5** Davide disse ao jovem que lhe dava esta nova: Como sabes tu que Saul e Jónatas, seu filho, morreram?  
@@ -79,7 +79,7 @@
 **10** fazendo que o reino seja transferido da casa de Saul, e que o trono de Davide seja elevado sobre Israel e sobre Judá, desde Dan até Bersabee.  
 **11** (Isboset) não lhe pode responder coisa alguma, porque o temia.  
 **12** Abner enviou mensageiros a Davide, que da sua parte lhe disseram; A quem pertence o país? E que acrescentassem: Faze amizade comigo, e eu te ajudarei a voltar para ti todo o Israel.  
-**13** Davide respondeu: ótimo; eu farei amizade contigo, mas peço-te um a coisa: que não me venhas ver, sem me trazeres contigo Micol, filha de Saul; deste modo virás, e me verás.  
+**13** Davide respondeu: ótimo; eu farei amizade contigo, mas peço-te uma coisa: que não me venhas ver, sem me trazeres contigo Micol, filha de Saul; deste modo virás, e me verás.  
 **14** Davide enviou mensageiros a Isboset, filho de Saul, a dizer-lhe: Restitue-me Micol, minha mulher, que eu desposei por ter matado cem Filisteus.  
 **15** Isboset mandou tirá-la ao seu (segundo) marido, Faltiel, filho de Lais,  
 **16** e o seu (segundo) marido a seguia chorando até Baurim. Abner disse-lhe: Vai, e volta para trás. E ele voltou.  
@@ -111,7 +111,7 @@
 
 **1** Quando Isboset, filho de Saul, soube que Abner tinha sido morto em Hebron, perdeu a força de suas mãos, e todo o Israel ficou perturbado.  
 **2** Tinha o filho de Saul a seu serviço dois capitães de ladrões, um dos quais se chamava Baana, e outro Recab, filhos de Remon de Berot, da tribo de Benjamim, pois Berot era contada (entre as cidades) de Benjamim.  
-**3** Os Berotitas haviam fugido para Getaim, e moraram lá com o forasteiros até àquele tempo.  
+**3** Os Berotitas haviam fugido para Getaim, e moraram lá como forasteiros até àquele tempo.  
 **4** Jónatas, filho de Saul, tinha um filho aleijado dos pés, porque, aos cinco anos, quando chegou de Jezrnel a nova (da morte) de Saul e de Jónatas, sua ama, tomando-o e fugindo, na precipitação da fuga o deixou cair, e, assim ele ficou coxo. Chamava-se Mifiboset.  
 **5** Vindo os filhos de Remon, Berotita, Recab e Baana, entraram em casa de Isboset no maior calor do dia. Ele estava no seu leito, dormindo a sesta. A porteira da casa, estando a limpar trigo, tinha adormecido.  
 **6** Entraram, pois, na casa sem ser sentidos, Recab e Baana, a tomar umas espigas de trigo; feriram Isboset no ventre e fugiram.  
@@ -170,7 +170,7 @@
 **16** Quando entrou a arca do Senhor na cidade de Davide, Micol, filha de Saul, olhando da janela, viu o rei Davide dançando e saltando diante do Senhor, e desprezou-o em seu coração.  
 **17** Introduziram a arca do Senhor e colocaram-na no seu lugar, no meio do tabernáculo, que Davide lhe tinha preparado; depois disto Davide ofereceu holocaustos e vítimas pacíficas diante do Senhor.  
 **18** Quando acabou de oferecer os holocaustos e as vítimas pacíficas, abençoou o povo em nome do Senhor dos exércitos.  
-**19** A seguir distribuiu a todo o povo de Israel, tanto a homens como a mulheres, a cada um um a torta de pão, um pedaço de carne de vaca assada, e uma pasta de uvas. E retirou-se todo o povo, cada um para sua casa.  
+**19** A seguir distribuiu a todo o povo de Israel, tanto a homens como a mulheres, a cada um uma torta de pão, um pedaço de carne de vaca assada, e uma pasta de uvas. E retirou-se todo o povo, cada um para sua casa.  
 **20** Retirou-se também Davide a sua casa, para a abençoar. Micol, filha de Saul, tendo saído ao encontro de Davide, disse: Que bela figura fez hoje o rei de Israel, despindo-se (das suas insígnias), diante das escravas de seus vassalos, e desnudando-se como faria um chocarreiro  
 **21** Davide disse a Micol: Diante do Senhor, que me escolheu, preferindo-me a teu pai e a toda a sua família, e que me mandou que fosse eu o condutor do povo do Senhor em Israel,  
 **22** não só dançarei, mas também me farei mais vil do que me tenho feito, serei mais humilde aos teus olhos, e com isto aparecerei com mais glória diante das escravas, de que falaste.  
@@ -183,7 +183,7 @@
 **3** Natan respondeu ao rei: Vai e faze tudo o que tens no coração, porque o Senhor é contigo.  
 **4** Naquela mesma noite, o Senhor falou a Natan, dizendo:  
 **5** Vai e dize ao meu servo Davide: Eis o que o diz o Senhor: Porventura serás tu que me edificarás uma casa para eu habitar?  
-**6** Vê que eu, desde que tirei da terra do Egito os filhos de Israel até ao dia de hoje, não habitei em nenhum a casa, mas tenho caminhado debaixo dum pavilhão e duma tenda.  
+**6** Vê que eu, desde que tirei da terra do Egito os filhos de Israel até ao dia de hoje, não habitei em nenhuma casa, mas tenho caminhado debaixo dum pavilhão e duma tenda.  
 **7** Em todos os lugares, por onde passei com todos os filhos de Israel, falei eu porventura a algum dos chefes de Israel, a esses que mandei pastorear o meu povo de Israel, dizendo: Por que não me edificais uma casa de cedro?  
 **8** Dirás, pois, ao meu servo Davide: Eis o que diz O Senhor dos exércitos: Eu tirei-te das pastagens, quando ias seguindo os gados, para que fosses o condutor do meu povo de Israel;  
 **9** por toda a parte por onde andaste, estive contigo, exterminei diante de ti todos os teus inimigos, e fiz o teu nome tão ilustre como o nome dos grandes que há na terra;  
@@ -211,7 +211,7 @@
 ## Capítulo 8
 
 **1** Depois disto Davide derrotou os Filisteus e humilhou-os, tirando-lhes o mando da sua capital.  
-**2** Derrotou também os Moabitas, e (os prisioneiros) mediu-os a cordel, fazendo-os deitar por terra: duas medidas de cordel para a morte e uma medida avantajada para a vida. E ficou Moab sujeito a Davide, pagando-Ihe tributo.  
+**2** Derrotou também os Moabitas, e (os prisioneiros) mediu-os a cordel, fazendo-os deitar por terra: duas medidas de cordel para a morte e uma medida avantajada para a vida. E ficou Moab sujeito a Davide, pagando-lhe tributo.  
 **3** Davide derrotou também Adadezer, filho de Roob, rei de Soba, quando marchou para estender os seus domínios até ao rio Eufrates.  
 **4** Tendo-lhe Davide tomado mil e setecentos cavaleiros e vinte mil peões, cortou os jarretes a todos os cavalos dos carros; deles reservou somente (os precisos) para cem carros.  
 **5** Vieram também os Sírios de Damasco, para darem socorro a Adadezer, rei de Soba, e Davide matou vinte e dois mil Sírios.  
@@ -248,7 +248,7 @@
 ## Capítulo 10
 
 **1** Aconteceu, depois disto, morrer o rei dos Amonitas, sucedendo-lhe, no reino, Hanon, seu filho,  
-**2** Davide disse: Eu mostrarei benevolência a Hanon, filho de Naas, como seu pai me mostrou a mim. Enviou, pois, Davide em baixadores, para o consolar na morte de seu pai. Todavia, quando os enviados de Davide chegaram ás terras dos Amonitas,  
+**2** Davide disse: Eu mostrarei benevolência a Hanon, filho de Naas, como seu pai me mostrou a mim. Enviou, pois, Davide embaixadores, para o consolar na morte de seu pai. Todavia, quando os enviados de Davide chegaram ás terras dos Amonitas,  
 **3** os príncipes dos Amonitas disseram a Hanon, seu senhor: Tu cuidas que é em honra de teu pai, que Davide te enviou estes homens para te consolar? Não te enviou, antes, os seus servos para investigarem e reconhecerem a cidade, e para a destruirem?  
 **4** Prendeu, então, Hanon os servos de Davide, mandou-lhes rapar metade da barba e cortar-lhes metade dos seus vestidos, até cerca da cintura, e despediu-os.  
 **5** Davide, quando isto lhe foi referido, mandou enviados ao seu encontro porque aqueles homens estavam sobremaneira, envergonhados com a afronta que lhes dissessem: Deixai-vos estar em Jericó, até que vos cresça a barba, e depois voltareis.  
@@ -272,7 +272,7 @@
 **1** Ora sucedeu que, decorrido um ano, no tempo em que os reis costumam ir para a guerra, Davide enviou Joab com os seus oficiais e todo o (exército de) Israel, que destruíram os Amonitas, e sitiaram Raba. Davide, porém, ficou em Jerusalém.  
 **2** Enquanto assim passavam as coisas, levantando-se, uma tarde, Davide de dormir a sesta, pôs-se a passear no terraço do palácio real e viu uma mulher que se banhava, defronte do seu terraço, mulher muito formosa.  
 **3** Mandou o rei saber quem era aquela mulher. Disseram-lhe que era Betsabé, filha de Elião, mulher de Urias Heteu.  
-**4** Então Davide mandou mensageiros, que Iha trouxessem. Ela veio e Davide dormiu com ela. Ela purificou-se logo da sua imundície,  
+**4** Então Davide mandou mensageiros, que lha trouxessem. Ela veio e Davide dormiu com ela. Ela purificou-se logo da sua imundície,  
 **5** e voltou para sua casa tendo concebido. E mandou dizer a Davide: Concebi.  
 **6** Davide mandou dizer a Joab: Envia-me Urias Heteu. Joab enviou Urias a Davide.  
 **7** Urias apresentou-se a Davide, e Davide perguntou-lhe se passava bem Joab e o povo, e como ia a guerra.  
@@ -282,7 +282,7 @@
 **11** Urias respondeu a Davide: Enquanto a arca de Deus, e Israel e Judá, habitam debaixo de tendas, e o meu senhor Joab e os servos do meu senhor dormem sobre a terra dura, eu deveria ir para minha casa comer, beber e dormir com minha mulher? Pela tua vida e pela saúde da tua alma (juro que) não farei tal coisa.  
 **12** Disse Davide a Urias: Fica ainda hoje aqui, e amanhã te enviarei. Urias ficou em Jerusalém aquele dia e o seguinte.  
 **13** Davide convidou-o a comer e a beber em sua presença, e embriagou-o, mas Urias, saindo já de noite, dormiu na sua cama com os oficiais do seu senhor, e não foi a sua casa.  
-**14** Chegada a manhã, Davide escreveu um a carta a Joab, enviando-lha por mão de Urias.  
+**14** Chegada a manhã, Davide escreveu uma carta a Joab, enviando-lha por mão de Urias.  
 **15** Dizia na carta: Ponde Urias na frente, onde for mais rijo o combate, e desamparai-o, para que seja ferido e morra.  
 **16** Joab, tendo sitiado a cidade, pôs Urias defronte do lugar onde sabia que estavam os homens mais valentes (dos inimigos).  
 **17** Tendo os homens da cidade feito uma sortida, combatiam contra Joab, e morreram alguns do exército de Davide, morrendo também Urias Heteu.  
@@ -301,7 +301,7 @@
 
 **1** O Senhor, pois, enviou Natan a Davide, e Natan, tendo chegado à sua presença, disse-lhe: Havia numa cidade (do teu reino) dois homens, um rico e outro pobre.  
 **2** O rico tinha ovelhas e bois em grande número.  
-**3** O pobre, porém, não tinha coisa alguma, senão uma ovelhinha, que comprara e criara, e que tinha crescido em sua casa juntamente com seus filhos, comendo do seu pão, bebendo do seu mesmo copo e dormindo no seu regaço; e ele queria-lhe com o se fosse uma sua filha.  
+**3** O pobre, porém, não tinha coisa alguma, senão uma ovelhinha, que comprara e criara, e que tinha crescido em sua casa juntamente com seus filhos, comendo do seu pão, bebendo do seu mesmo copo e dormindo no seu regaço; e ele queria-lhe como se fosse uma sua filha.  
 **4** Tendo chegado um hóspede a casa do rico, não querendo este tocar nas suas ovelhas nem nos seus bois, para dar um banquete ao hóspede, que lhe tinha chegado, tomou a ovelha do pobre e preparou-a para dar de comer ao homem que tinha vindo a sua casa.  
 **5** Davide, sumamente indignado contra tal homem, disse a Natan: Viva o Senhor, um homem que tal fez é digno de morte.  
 **6** Pagará o quádruplo da ovelha, por ter feito dela o que fez, e não ter poupado (o pobre).  
@@ -315,7 +315,7 @@
 **14** Todavia, visto que tu, pelo que fizeste, deste lugar a que os inimigos do Senhor blasfemem, morrerá irremissivelmente o filho, que te nasceu (do adultério).  
 **15** E Natan voltou para sua casa. O Senhor feriu (de enfermidade) o menino, que a mulher de Urias tinha dado à luz a Davide, e ele adoeceu gravemente.  
 **16** Davide fez oração ao Senhor pelo menino, jejuou rigorosamente e, retirando-se à parte, prostrou-se sobre a terra.  
-**17** Os anciães da sua casa vieram para o abrigar a levantar-se do chão, mas ele não o quis fazer, nem comeu com eles.  
+**17** Os anciães da sua casa vieram para o obrigar a levantar-se do chão, mas ele não o quis fazer, nem comeu com eles.  
 **18** Ao sétimo dia, morreu o menino, e os servos de Davide não ousaram dizer-lhe que o menino tinha morrido, porque diziam: Quando o menino ainda vivia, nós falávamos-lhe, e ele não queria ouvir-nos; quanto mais se afligirá ele, se lhe dissermos que o menino morreu?  
 **19** Davide, porém, vendo os seus servos a falar em segredo, compreendeu que o menino tinha morrido e disse-lhes: Porventura morreu o menino? Eles responderam-lhe: Morreu.  
 **20** Então Davide levantou-se do chão, lavou-se e ungiu-se, e, tendo mudado de roupa, entrou na casa do Senhor e o adorou (completamente resignado). (Depois) foi para sua casa e pediu que lhe pusessem de comer, e comeu.  
@@ -329,7 +329,7 @@
 **28** Agora, junta o resto do povo, vem ao sítio da cidade e toma-a, para não suceder que, tendo eu destruído a cidade, se atribua ao meu nome a vitória.  
 **29** Juntou Davide todo o povo, marchou contra Raba e, depois de ter combatido, a tomou.  
 **30** Tirou da cabeça do rei dos Amonitas o seu diadema, que pesava um talento de ouro, enriquecido de pedras preciosíssimas, o qual foi posto na cabeça de Davide. E levou da cidade muitíssimos despojos.  
-**31** Quanto aos seus moradores deportou-os, empregando-os em serrar, em a fiar ferros, em serviços com machados e em trabalhos em fornos de cozer tijolo. Assim fez a todas as cidades dos Amonitas. Em seguida, Davide voltou com todo o exército para Jerusalém  
+**31** Quanto aos seus moradores deportou-os, empregando-os em serrar, em afiar ferros, em serviços com machados e em trabalhos em fornos de cozer tijolo. Assim fez a todas as cidades dos Amonitas. Em seguida, Davide voltou com todo o exército para Jerusalém  
 
 ## Capítulo 13
 
@@ -400,7 +400,7 @@
 **23** Partiu, logo, Joab, foi a Gessur e conduziu Absalão para Jerusalém  
 **24** Mas o rei disse: Volte para sua casa, sem aparecer diante de mim. Absalão foi, e não viu a face do rei.  
 **25** Em todo o Israel não havia homem tão belo, nem tão gentil, como Absalão; da planta dos pés até à cabeça não havia nele defeito algum.  
-**26** Quando cortava o cabelo (o que fazia um a vez cada ano, porque o incomodava a cabeleira), o cabelo da sua cabeça pesava duzentos ciclos, pelo peso real.  
+**26** Quando cortava o cabelo (o que fazia uma vez cada ano, porque o incomodava a cabeleira), o cabelo da sua cabeça pesava duzentos ciclos, pelo peso real.  
 **27** Absalão teve três filhos e uma filha chamada Tamar, de extrema formosura.  
 **28** Absalão esteve em Jerusalém dois anos, e não viu a face do rei.  
 **29** Mandou chamar Joab para o enviar ao rei, mas ele não quis ir. Chamou-o segunda vez, e, tendo ele recusado ir,  
@@ -422,7 +422,7 @@
 **9** O rei Davide disse-lhe: Vai em paz. Ele saiu, e foi para Hebron.  
 **10** Absalão enviou emissários por todas as tribos de israel, dizendo: Logo que ouvirdes o som da trombeta, dizei: Absalão reina em Hebron.  
 **11** Com Absalão foram duzentos homens de Jerusalém, convocados por ele, que o seguiam com simplicidade do coração, sem nada saberem dos seus desígnios.  
-**12** Absalão mandou também chamar Aquitofel, Gilonita, conselheiro de Davide, à sua cidade de Gilo. Enquanto imolava as vítimas, fez-se um a poderosa conjuração, e crescia o número de gente que tomava o partido de Absalão.  
+**12** Absalão mandou também chamar Aquitofel, Gilonita, conselheiro de Davide, à sua cidade de Gilo. Enquanto imolava as vítimas, fez-se uma poderosa conjuração, e crescia o número de gente que tomava o partido de Absalão.  
 **13** Chegou pois um mensageiro a Davide, dizendo: Todo o Israel segue Absalão de todo o coração.  
 **14** Davide disse aos seus criados, que estavam com ele em Jerusalém: Levantai-vos, fujamos, porque não poderemos escapar das mãos de Absalão; apressai-vos a sair, não suceda que ele, chegando, nos apanhe, traga sobre nós a ruína e mande passar a cidade a fio da espada.  
 **15** Os servos do rei disseram-lhe: Nós, teus servos, executaremos de boa vontade tudo o que mandar o rei nosso senhor.  
@@ -441,7 +441,7 @@
 **28** Eu vou esconder-me nas campinas do deserto, até que vós me mandeis novas do estado das coisas.  
 **29** Sadoc e Abiatar tornaram a levar para Jerusalém a arca de Deus, e lá ficaram.  
 **30** Entretanto Davide ia subindo a encosta do Monte das Oliveiras, e subia-a chorando, caminhando com os pés descalços e a cabeça coberta; todo o povo que ia com ele, subia também com cabeça coberta, a chorar.  
-**31** Foi referido a Davide que Aquitofel também entrava na conjuração de Absalão, e David e disse: Peço-te, Senhor, que tornes insensato o conselho de Aquitofel.  
+**31** Foi referido a Davide que Aquitofel também entrava na conjuração de Absalão, e Davide disse: Peço-te, Senhor, que tornes insensato o conselho de Aquitofel.  
 **32** Quando Davide chegou ao cume do monte, lá onde se adora o Senhor, veio ao seu encontro Chusai Araquita, com as vestes rasgadas e a cabeça coberta de pó.  
 **33** Davide disse-lhe: Se vieres comigo, ser-me-ás pesado;  
 **34** mas, se voltares para a cidade e disseres a Absalão: Eu, ó rei, sou teu servo, e eu te servirei a ti, como servi a teu pai então desconcertarás (em meu favor) os conselhos de Aquitofel.  
@@ -512,15 +512,15 @@
 **1** Davide, tendo feito resenha da sua gente, nomeou sobre ela chefes de milhar e chefes de centena.  
 **2** Pôs um terço das suas tropas sob o mando de Joab, outro terço sob o mando de Abisai, filho de Sarvia irmão de Joab, e outro terço sob o mando de Etai de Get. O rei disse ao povo: Eu sairei também convosco.  
 **3** Todavia o povo respondeu: Não sairás, porque, ainda que os inimigos nos ponham em fuga, não terão isto por uma grande coisa; mesmo que morra metade de nós, não lhes dará isso maior cuidado. Tu, porém és considerado como dez mil. Logo é melhor que fiques na cidade para nos socorrer.  
-**4** O rei disse-lhes: Farei o que vos parecer bem. E pôs-se o rei junto à porta (da cidade), e o povo Ia desfilando, formado em esquadrões de cem e de mil homens.  
+**4** O rei disse-lhes: Farei o que vos parecer bem. E pôs-se o rei junto à porta (da cidade), e o povo ia desfilando, formado em esquadrões de cem e de mil homens.  
 **5** O rei deu esta ordem a Joab, a Abisai e a Etai: Poupai-me o meu filho Absalão. E todo o povo ouviu a ordem que o rei dava a todos os seus generais em favor de Absalão.  
 **6** Saiu, enfim, o povo à campanha contra Israel, e deu-se a batalha no bosque de Efraim  
-**7** Ali o povo de Israel foi derrotado pelo exército de Davide, e naquele dia houve um a grande mortandade de vinte mil homens.  
+**7** Ali o povo de Israel foi derrotado pelo exército de Davide, e naquele dia houve uma grande mortandade de vinte mil homens.  
 **8** O combate estendeu-se sobre a superfície de toda aquela terra, e foram muito mais os que pereceram (fugindo) pelo bosque, do que aqueles que pereceram à espada.  
 **9** Ora aconteceu que, indo Absalão montado num macho, se encontrou com a gente de Davide. Tendo entrado o macho por baixo dum frondoso e grande carvalho, enredou-se a cabeleira (de Absalão) nos ramos do carvalho; passando adiante o macho em que la montado, ficou ele pendurado entre o céu e a terra.  
 **10** Vendo isto um homem, avisou Joab, dizendo: Eu vi Absalão pendurado dum carvalho.  
 **11** Joab disse ao homem que lhe dava esta notícia: Se o viste, por que o não abateste? Eu dar-te-ia dez siclos de prata e um cinto.  
-**12** Ele respondeu a Joab: Ainda que pusesses nas minhas mãos mil siclos de prata, de nenhuma sorte estenderia minha mão contra o filho do rei, porque todos nós ouvimos a ordem que o rei deu a ti, a Abisai, e a Etai, quando disse: Poupai-me o meu filho Absalão.  
+**12** Ele respondeu a Joab: Ainda que pusesses nas minhas mãos mil siclos de prata, de nenhuma sorte estenderia a minha mão contra o filho do rei, porque todos nós ouvimos a ordem que o rei deu a ti, a Abisai, e a Etai, quando disse: Poupai-me o meu filho Absalão.  
 **13** Se eu, com risco da minha vida, tivesse procedido tão temerariamente, de nenhum modo isto se poderia ocultar ao rei; e tu mesmo opor-te-ias (ao rei, defendendo-me)?  
 **14** Joab disse: Não será o que dizes, mas à tua vista o matarei. Tomou, pois, na mão três lanças, e traspassou com elas o coração de Absalão. Quando ele ainda palpitava pendurado no carvalho,  
 **15** correram dez jovens escudeiros de Joab, que, a golpes, o acabaram de matar.  
@@ -539,7 +539,7 @@
 **28** Aquimaas, gritando, disse ao rei: Vitória! E, prostrado em terra, diante do rei, e fazendo-lhe uma profunda reverência; disse: Bem-dito seja o Senhor, teu Deus, que destroçou os homens que se tinham sublevado contra o rei, meu senhor.  
 **29** O rei disse: Está vivo o meu filho Absalão? Aquimaas respondeu-lhe: Quando o teu servo Joab me enviou a ti, que (também) sou teu servo, ó rei, eu vi um grande tumulto; não sei mais nada.  
 **30** O rei disse-lhe: Afasta-te e espera aí. Tendo ele passado e estando no seu lugar,  
-**31** chegou o cusita que disse: Ó rei, meu senhor, trago-te um a boa nova, porque o Senhor julgou hoje em teu favor, libertando-te da mão de todos aqueles que se sublevaram contra ti.  
+**31** chegou o cusita que disse: Ó rei, meu senhor, trago-te uma boa nova, porque o Senhor julgou hoje em teu favor, libertando-te da mão de todos aqueles que se sublevaram contra ti.  
 **32** O rei disse ao cusita: Está vivo o meu filho Absalão? Cusi, respondendo-lhe, disse: Assim suceda aos inimigos do rei, meu senhor, e a todos os que se sublevam contra ele para o perderem, como sucedeu àquele jovem.  
 **33** Então o rei, cheio de tristeza subiu ao quarto, que estava por cima da porta, e pôs-se a chorar. E, andando, dizia assim: Meu filho Absalão! Absalão, filho meu! Quem me dera ter morrido por ti, Absalão, meu filho, filho meu, Absalão  
 
@@ -691,7 +691,7 @@
 **44** Tu me salvaste das contradições do meu povo; conservaste-me para ser o chefe das nações; um povo, que eu não conhecia, me serviu.  
 **45** Os estrangeiros fingem-se submissos, à menor palavra minha, me obedecem.  
 **46** Os filhos estranhos foram dispersos, saíam, a tremer, dos seus esconderijos.  
-**47** Viva o Senhor, e seja bem-dito o meu Deus, seja exaltado o Deus forte da minha salvação.  
+**47** Viva o Senhor, e seja bem-dito o meu Deus, e seja exaltado o Deus forte da minha salvação.  
 **48** Tu és, ó Deus, que me vingas e que me sujeitas os povos.  
 **49** Tu o que me tiras dentre os meus inimigos, o que me exaltas sobre os que me resistem, e me livras do homem iníquo.  
 **50** Por isso, Senhor, louvar-te-ei no meio das nações, e entoarei cânticos em honra do teu nome;  
@@ -741,7 +741,7 @@
 
 ## Capítulo 24
 
-**1** O furor do Senhor tornou-se de novo a acender contra Israel e excitou David e contra ele, permitindo que dissesse (cheio de vaidade): Vai e faze o recenseamento de Israel, e de Judá.  
+**1** O furor do Senhor tornou-se de novo a acender contra Israel e excitou Davide contra ele, permitindo que dissesse (cheio de vaidade): Vai e faze o recenseamento de Israel, e de Judá.  
 **2** Disse, pois, Davide a Joab, general do seu exército; Percorre todas as tribos de Israel, desde Dan até Bersabé, e faze o recenseamento do povo, para eu saber o seu número.  
 **3** Joab respondeu ao rei; O Senhor teu Deus queira multiplicar o teu povo outro tanto do que agora é, e ainda cem vezes mais aos olhos do rei meu senhor, mas, que pretende o rei meu senhor com isto?  
 **4** Todavia a ordem do rei prevaleceu sobre as representações de Joab e dos generais do exército. Então saiu Joab da presença do rei com os primeiros oficiais do exército, a contar o povo de Israel.  

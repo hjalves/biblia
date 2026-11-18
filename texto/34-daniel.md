@@ -4,12 +4,12 @@
 
 **1** No ano terceiro do reinado de Joaquim, rei de Judá, veio Nabucodonosor rei de Babilónia, contra Jerusalém, e sitiou-a.  
 **2** O Senhor entregou nas suas mãos Joaquim, rei de Judá e uma parte dos objetos da casa de Deus. Ele levou-os para a terra de Senaar, para a casa do seu deus; pôs os objetos na casa do tesouro do seu deus.  
-**3** Então disse o rei a Asfenez, seu eunuco-mor, que Ihe destinasse, dentre os filhos de Israel, da linhagem dos reis e dos nobres,  
+**3** Então disse o rei a Asfenez, seu eunuco-mor, que lhe destinasse, dentre os filhos de Israel, da linhagem dos reis e dos nobres,  
 **4** alguns meninos em que não houvesse defeito algum, de gentil presença, hábeis para toda a sabedoria, versados nas ciências e inteligentes, que pudessem estar no palácio do rei, para que lhes fossem ensinadas as letras e a língua dos Caldeus  
 **5** O rei ordenou que se lhes desse cada dia de comer das Iguarias reais, e de beber do vinho que ele mesmo bebia, a fim de que, mantidos deste modo durante três anos, servissem depois na presença do rei.  
 **6** Entre estes encontraram-se dos filhos de Judá, Daniel, Ananias, Misael e Azarias.  
 **7** O eunuco-mor pôs-lhes os seguintes nomes: a Daniel o de Baltasar, a Ananias o de Sidrac, a Misael o de Misac, e a Azarias o de Abdenago.  
-**8** Daniel resolveu no seu coração não se contaminar com as iguarias que lhe viessem da mesa do rei, nem com o vinho que ele bebesse, e pediu ao eumuco-mor que não o obrigasse a contaminar-se.  
+**8** Daniel resolveu no seu coração não se contaminar com as iguarias que lhe viessem da mesa do rei, nem com o vinho que ele bebesse, e pediu ao eunuco-mor que não o obrigasse a contaminar-se.  
 **9** Deus fez que Daniel achasse graça e benevolência diante do eunuco-mor.  
 **10** Então o eunuco-mor disse a Daniel: Tenho medo do rei, meu amo, o qual determinou o que vós deveis comer e beber; se ele vir os vossos rostos mais macilentos que os dos outros jovens da vossa idade, sereis a causa de que o rei me condene.  
 **11** Daniel respondeu ao oficial, a quem o eunuco-mor tinha ordenado que tivesse cuidado de Daniel, de Ananias, de Misael e de Azarias;  
@@ -89,7 +89,7 @@
 **9** Disseram ao rei Nabucodonosor: Ó rei vive eternamente!  
 **10** Tu ó rei, decretaste que todo o homem que ouvisse o som da trombeta, da flauta, da citara, da harpa, do saltério, da cornamusa e de todo o género de instrumentos músicos, se prostrasse em terra e adorasse a estátua de ouro,  
 **11** e que, se alguém não a adorasse, prostrado, seria lançado numa fornalha incandescente.  
-**12** Não obstante isto, há (três) homens Judeus, que constituíste superintendentes dos negócios da província de Babilónia, Sidrac, Jlisac e Abdenago, os quais desprezaram, ó rei, o teu decreto; não honram os teus deuses, nem adoram a estátua de ouro que levantaste.  
+**12** Não obstante isto, há (três) homens Judeus, que constituíste superintendentes dos negócios da província de Babilónia, Sidrac, Misac e Abdenago, os quais desprezaram, ó rei, o teu decreto; não honram os teus deuses, nem adoram a estátua de ouro que levantaste.  
 **13** Então Nabucodonosor cheio de furor e de ira, ordenou que trouxessem à sua presença Sidrac, Misac e Abdenago, que foram logo conduzidos à presença do rei.  
 **14** E o rei Nabucodonosor, tomando a palavra disse-lhes: É verdade, Sidrac, Misac e Abdenago, que não honrais os meus deuses e não adorais a estátua de ouro que erigi?  
 **15** Agora estais prontos (a obedecer-me) no momento em que ouvirdes o som da trombeta, da flauta, da citara, da harpa, do saltério, da cornamusa e de todo o género de instrumentos músicos, a prostrar-vos em terra e adorar a estátua que fiz? Se a não adorardes, no mesmo instante sereis lançados numa fornalha incandescente. E qual é o Deus que vos poderá livrar da minha mão?  
@@ -286,7 +286,7 @@
 **1** No primeiro ano de Baltasar, rei de Babilónia, teve Daniel um sonho e visões da sua cabeça, estando na sua cama. Escreveu o seu sonho, apontando a substância do acontecido. Exprimiu-se assim:  
 **2** Eu estava vendo na minha visão noturna, e eis que os quatro ventos do céu agitavam o Grande Mar.  
 **3** E quatro grandes animais, diferentes uns dos outros, saíram do mar.  
-**4** O primeiro era como um leão e tinha asas de águia. Quando eu estava olhando para ele, foram-Ihe arrancadas as asas, e foi levantado da terra e erguido sobre os seus pés, como um homem, e foi-lhe dado um coração de homem.  
+**4** O primeiro era como um leão e tinha asas de águia. Quando eu estava olhando para ele, foram-lhe arrancadas as asas, e foi levantado da terra e erguido sobre os seus pés, como um homem, e foi-lhe dado um coração de homem.  
 **5** E vi outro animal semelhante a um urso, que se levantava sobre um lado, o qual tinha três costelas na sua boca, entre os dentes, e diziam-'lhe assim: Levanta-te, como carne em abundância.  
 **6** Depois disto, quando estava olhando, vi outro (animal), semelhante a um leopardo que tinha no dorso quatro asas, como asas dum pássaro; este animal possuía quatro cabeças, e foi-lhe dado o poder.  
 **7** Depois disto, continuando a contemplar esta visão noturna, vi um quarto animal, terrível, espantoso e extraordinariamente forte, com uns grandes dentes de ferro; devorava e despedaçava, e calcava aos pés o que sobejava; era diferente dos outros animais que eu tinha visto antes dele, e tinha dez hastes.  
@@ -367,7 +367,7 @@
 **21** quando eu, digo, ainda não tinha bem acabado as palavras da minha súplica, eis que Gabriel, aquele homem que, anteriormente, eu tinha visto na visão, voando rapidamente, se aproximou de mim, à hora da oblação da tarde.  
 **22** Instruiu-me, falando-me assim; Daniel, eu vim agora para te ensinar, de modo que entendas (os desígnios de Deus).  
 **23** Desde o princípio das tuas preces, foi enviada uma palavra e eu vim para ta anunciar, porque tu és um predileto (de Deus); toma, pois, bem sentido nesta palavra e compreende a visão.  
-**24** Setenta semanas foram decretadas sobre o teu povo e sobre e a tua cidade santa a fim de que a prevaricação termine, os pecados sejam selados, a iniquidade expiada; a justiça eterna trazida, as visões e profecias seladas, e o Santo dos santos ungido.  
+**24** Setenta semanas foram decretadas sobre o teu povo e sobre a tua cidade santa a fim de que a prevaricação termine, os pecados sejam selados, a iniquidade expiada; a justiça eterna trazida, as visões e profecias seladas, e o Santo dos santos ungido.  
 **25** Sabe, pois, isto e compreende-o: Desde a saída da ordem para Jerusalém ser reedificada até a um ungido, um chefe, passarão sete semanas e sessenta e duas semanas; e serão reedificadas as praças e os muros na angústia dos tempos.  
 **26** Depois das sessenta e duas semanas, será exterminado um ungido, sem haver quem lhe suceda. E o povo dum chefe que há-de vir, destruirá a cidade e o santuário; o seu fim será uma ruína total, e, até ao fim, haverá a guerra e a devastação decretada.  
 **27** Concluirá com muitos uma aliança firme durante uma semana, e, no meio da semana, fará cessar o sacrifício e a oblação, e virá sobre o templo a abominação da desolação, que durará até ao fim, até ao termo marcado para o devastador.  
@@ -438,7 +438,7 @@
 **38** Mas venerará o deus das fortalezas no seu lugar, enfeitará com ouro, prata, pedras preciosas e coisas de grande valor, a este deus, que seus pais desconheceram.  
 **39** Fortificará as suas praças com um deus estranho; aqueles que o reconhecerem, cumulá-los-á de honras, dar-lhes-á poder sobre muitas coisas e repartirá por eles terras gratuitamente.  
 **40** O rei do Meio-dia pelejará contra ele no tempo do fim; o rei do Aquilão marchará também contra ele como uma tempestade, com grande multidão de carros, de gente a cavalo e com uma grande armada; entrará nas suas terras, como torrente transbordante.  
-**41** Depois entrará na terra esplêndida (ou da Judeia), onde muitíssimos cairão. Todavia hão-de escapar às suas mãos, Bdom, Moab e os principais dos filhos de Amon.  
+**41** Depois entrará na terra esplêndida (ou da Judeia), onde muitíssimos cairão. Todavia hão-de escapar às suas mãos, Edom, Moab e os principais dos filhos de Amon.  
 **42** Estenderá a sua mão contra outros países, e a terra do Egito não escapará.  
 **43** Tornar-se-á senhor dos tesouros de ouro, de prata e de tudo o que há de precioso no Egito. Segui-lo-ão os Líbios e os Etíopes.  
 **44** Turbá-lo-ão, porém, notícias vindas do oriente e do Aquilão, e partirá com grande furor para destruir e matar muitos.  
@@ -476,7 +476,7 @@
 **12** Observavam todos os dias com grande cuidado o tempo em que a poderiam ver. (Um, dia) disseram entre si:  
 **13** Vamos para casa, porque são horas de comer. (Realmente), tendo saído separaram-se um do outro.  
 **14** Mas, tornando logo (cada um) a vir, encontraram-se de novo num mesmo lugar. Depois de se terem perguntado mutuamente a causa, confessaram a sua paixão, e, então, de comum acordo, fixaram o tempo em que a poderiam encontrar só.  
-**15** Aconteceu, pois, que, aguardando eles uma ocasião oportuna, entrou ela, como de costume, acompanhada somente de duas donzelas, e quis banhar-se no jardim, acusam porque fazia (muito) calor.  
+**15** Aconteceu, pois, que, aguardando eles uma ocasião oportuna, entrou ela, como de costume, acompanhada somente de duas donzelas, e quis banhar-se no jardim, porque fazia (muito) calor.  
 **16** Não se encontrava então ali ninguém, senão os dois velhos, que estavam escondidos e a contemplavam.  
 **17** Disse Susana às donzelas: Trazei-me os óleos e os perfumes, e fechai as portas do jardim, para eu tomar banho.  
 **18** Elas fizeram o que lhes tinha mandado; fecharam as portas do jardim e saíram por uma porta escusa, para trazerem o que lhes havia ordenado, ignorando que os velhos estavam dentro escondidos.  
@@ -501,7 +501,7 @@
 **37** Então um jovem, que estava escondido, foi ao seu encontro e pecou com ela.  
 **38** Nós, que estávamos a um canto do jardim, vendo esta maldade, corremos para eles e vimo-los ambos neste ato.  
 **39** Não pudemos apanhar o jovem, porque era mais forte do que nós, o qual, tendo aberto a porta, fugiu.  
-**40** A ela conseguimos apanhá-la e perguntámos-Ihe que jovem era aquele, mas não no-lo quis dizer. Deste sucesso somos nós testemunhas.  
+**40** A ela conseguimos apanhá-la e perguntámos-lhe que jovem era aquele, mas não no-lo quis dizer. Deste sucesso somos nós testemunhas.  
 **41** Todo o ajuntamento lhes deu crédito, como a velhos e a juízes do povo, e ela foi condenada à morte.  
 **42** Então Susana exclamou em alta voz: Deus eterno, que penetras as coisas escondidas, que conheces todas as coisas ainda antes que aconteçam,  
 **43** tu sabes que eles levantaram contra mim um falso testemunho; e eis que morro, sem ter feito nada do que inventaram criminosamente contra mim.  
@@ -532,7 +532,7 @@
 
 **1** Ora Daniel comia à mesa do rei, que o tinha elevado em honra acima de todos os seus amigos.  
 **2** Entre os Babilónios havia um ídolo chamado Bel; gastavam-se com ele todos os dias doze artabes de flor de farinha, quarenta ovelhas e seis medidas de vinho.  
-**3** O rei também honrava esse ídolo e todos os dias o ia adorar. Daniel, porém, adorava o seu Deus. O rei disse-Ihe: Por que não adoras Bel?  
+**3** O rei também honrava esse ídolo e todos os dias o ia adorar. Daniel, porém, adorava o seu Deus. O rei disse-lhe: Por que não adoras Bel?  
 **4** Daniel respondeu-lhe: Porque eu não adoro os ídolos, que são feitos por mãos de homens, mas sim o Deus vivo, que criou o céu e a terra e que tem debaixo do seu poder toda a carne.  
 **5** O rei disse-lhe: Não te parece que Bel é um Deus vivo? Não vês o que ele come e bebe todos os dias?  
 **6** Daniel respondeu-lhe, sorrindo: Ó rei, não te iludas; esse ídolo é de barro por dentro, e de bronze, por fora, e nunca comeu.  

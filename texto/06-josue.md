@@ -50,7 +50,7 @@
 
 ## Capítulo 3
 
-**1** Josué Ievantando-se de madrugada, moveu o acampamento e saiu de Setim. Chegados ao Jordão, ele e todos os filhos de Israel, aí se detiveram, antes de o atravessar.  
+**1** Josué levantando-se de madrugada, moveu o acampamento e saiu de Setim. Chegados ao Jordão, ele e todos os filhos de Israel, aí se detiveram, antes de o atravessar.  
 **2** Passados três dias, os pregoeiros atravessaram pelo meio do acampamento,  
 **3** e começaram a dizer em alta voz: Logo que virdes a arca da aliança do Senhor vosso Deus levada pelos sacerdotes da linhagem de Levi, levantai-vos vós, também, e ide atrás dela,  
 **4** mas de forma que haja entre vós e a arca o espaço de dois mil côvados, a fim de a poderdes ver de longe, e conhecer o caminho por onde deveis ir, porque não andastes antes por ele; tomai cuidado, não vos aproximeis da arca.  
@@ -77,7 +77,7 @@
 **5** e disse-lhes: Ide adiante da arca do Senhor vosso Deus ao meio do Jordão, e trazei de lá cada um a sua pedra sobre os ombros, segundo o número (das tribos) dos filhos de Israel,  
 **6** para que seja um sinal entre vós; quando no futuro vossos filhos vos perguntarem: Que significam estas pedras?  
 **7** — vós lhes respondereis: As águas do Jordão desapareceram diante de arca da aliança do Senhor, enquanto ela o atravessava; por isso se puseram estas pedras como um memorial eterno dos filhos de Israel.  
-**8** Fizeram os filhos de Israel como Josué Ihes tinha ordenado, levando do meio do leito do Jordão, doze pedras, segundo o número (das tribos) dos filhos de Israel, consoante o Senhor tinha mandado a Josué, até no lugar onde acamparam, e ali as puseram.  
+**8** Fizeram os filhos de Israel como Josué lhes tinha ordenado, levando do meio do leito do Jordão, doze pedras, segundo o número (das tribos) dos filhos de Israel, consoante o Senhor tinha mandado a Josué, até no lugar onde acamparam, e ali as puseram.  
 **9** Pôs também Josué outras doze pedras no meio do leito do Jordão, onde estiveram parados os sacerdotes, que levavam a arca da aliança, e elas ainda ali se conservam até ao dia de hoje.  
 **10** Os sacerdotes, quo levavam a arca, estavam parados no meio do Jordão, até se cumprir tudo o que o Senhor tinha mandado a Josué que dissesse ao povo, de acordo com o que Moisés havia prescrito. E o povo apressou-se, e passou.  
 **11** Logo que passaram todos, passou também a arca do Senhor, e os sacerdotes iam (com ela) adiante do povo.  
@@ -98,7 +98,7 @@
 ## Capítulo 5
 
 **1** Quando todos os reis dos Amorreus, que habitavam na outra banda do Jordão, ao ocidente, e todos os reis de Canaan, que possuíam os lugares vizinhos do Mar Grande, ouviram dizer que o Senhor tinha secado a corrente do Jordão diante dos filhos de Israel, até que passassem, enfraqueceu-se-lhes o coração, não ficou neles alento, temendo a entrada dos filhos de Israel.  
-**2** Então o Senhor disse a Josué: Faze facas de pedra, e restabelece novamente a circuncisão entre os filhos de Irsrael.  
+**2** Então o Senhor disse a Josué: Faze facas de pedra, e restabelece novamente a circuncisão entre os filhos de Israel.  
 **3** Josué, fazendo o que o Senhor lhe mandara, circuncidou os filhos de Israel sobre o outeiro (chamado por isso) da Circuncisão.  
 **4** A causa desta circuncisão é a seguinte: Todos os varões dentre o povo, que tinham saído do Egito, todos os homens de guerra tinham morrido no deserto durante os larguíssimos rodeios do caminho,  
 **5** e todos estes tinham sido circuncidados. Porém o povo que nasceu no deserto,  
@@ -223,7 +223,7 @@
 **8** Mas eles disseram a Josué: Nós somos teus servos. Aos quais Josué disse: Quem sois vós? donde viestes?  
 **9** Eles responderam: Os teus servos vieram de uma terra muito distante em nome do Senhor teu Deus, porque ouvimos a fama do seu poder, tudo o que fez no Egito,  
 **10** e (como tratou) os dois reis dos Amorreus, que estavam da outra banda do Jordão, Seon rei de Hesebon, e Og rei de Basan, que estava em Astarot.  
-**11** Os nossos anciães e todos os habitantes da nossa terra disseram-nos: Tomai provisões para uma tão longa jornada, ide ao seu encontro e dizei-Ihes: Nós somos vossos servos, fazei aliança connosco.  
+**11** Os nossos anciães e todos os habitantes da nossa terra disseram-nos: Tomai provisões para uma tão longa jornada, ide ao seu encontro e dizei-lhes: Nós somos vossos servos, fazei aliança connosco.  
 **12** Eis os pães, que tomamos quentes quando partimos de nossas casas para vir ter convosco, agora estão secos e desfeitos por demasiadamente antigos.  
 **13** Estes odres eram novos, quando os enchemos de vinho, e agora estão rotos e descosidos; a roupa que nos cobre, e o calçado que trazemos nos pés, gastaram-se, quase se consumiram com um tão longo caminho.  
 **14** Tomaram pois (os Israelitas) dos viveres deles, e não consultaram o oráculo do Senhor.  
@@ -265,7 +265,7 @@
 **20** Tendo sido feito, pois, grande destroço nos inimigos, quase até ao extermínio, aqueles que puderam fugir de Israel, acolheram-se às cidades fortes.  
 **21** Todo o exército salvo e em número completo voltou para Josué, a Maceda, onde então estava o acampamento; ninguém (dos adversários) se atreveu a abrir a boca contra os filhos de Israel.  
 **22** Josué disse: Abri a boca da caverna e trazei-me os cinco reis, que nela estão escondidos.  
-**23** Eles fizeram como Ihes fora mandado, e levaram-Ihe os cinco reis: o rei de Jerusalém, o rei de Hebron, o rei de Jerimot, o rei de Laquis, o rei de Eglon.  
+**23** Eles fizeram como lhes fora mandado, e levaram-lhe os cinco reis: o rei de Jerusalém, o rei de Hebron, o rei de Jerimot, o rei de Laquis, o rei de Eglon.  
 **24** Quando foram conduzidos perante ele, chamou todos os varões de Israel e disse aos chefes do exército que estavam com ele: Ide e ponde o pé sobre os pescoços destes reis. Tendo eles ido e posto os pés sobre os pescoços dos reis subjugados,  
 **25** disse-lhes de novo: Não temais nem vos acobardeis, tende ânimo, sede fortes, porque assim fará o Senhor a todos os vossos inimigos, contra quem pelejais.  
 **26** Depois disto, Josué feriu-os e tirou-lhes a vida, e mandou-os pendurar em cinco forcas, onde estiveram até à tarde.  
@@ -490,7 +490,7 @@
 **13** Porém, depois que os filhos de Israel se tornaram mais fortes, sujeitaram os Cananeus e fizeram-nos seus tributários, mas não os mataram.  
 **14** Os filhos de José disseram a Josué: Por que me deste tu a posse de uma só herança e de uma só parte, sendo eu um povo tão numeroso, e tendo-me o Senhor abençoado?  
 **15** Josué disse-lhes: Se tu és um povo tão numeroso sobe ao bosque e corta para ti espaço no país dos Fereseus e dos Rafeins, já que a possessão do monte de Efraim é muito estreita para ti.  
-**16** Os filhos de José responderam-Ihe: A montanha não nos basta, e os Cananeus, que habitam a planície, onde está Betsan com as suas aldeias, e Jezrael que ocupa a meio do vale, usam carros armados de ferro.  
+**16** Os filhos de José responderam-lhe: A montanha não nos basta, e os Cananeus, que habitam a planície, onde está Betsan com as suas aldeias, e Jezrael que ocupa a meio do vale, usam carros armados de ferro.  
 **17** Josué disse à casa de José, Efraim e Manassés: Tu és um povo muito numeroso e de grande força, não terás só uma parte,  
 **18** mas passarás ao monte, cortarás para ti, e limparás maior terreno para habitares; poderás alargar-te ainda mais, depois que tiveres exterminado o Cananeu, apesar de ele ter carros armados de ferro, e ser fortíssimo.  
 

@@ -433,7 +433,7 @@
 **19** Os maus se inclinarão diante dos bons, e os ímpios diante das portas dos justos.  
 **20** O pobre é odioso até aos seus parentes; porém os amigos dos ricos serão muitos.  
 **21** Aquele que despreza o seu próximo, peca; mas o que se compadece do pobre, será bem-aventurado.  
-**22** Os que praticam o mal, acaso não se transviam? A misericórdia e a verdade são para que praticam o bem.  
+**22** Os que praticam o mal, acaso não se transviam? A misericórdia e a verdade são para os que praticam o bem.  
 **23** Em toda a parte onde se trabalha há abundância; mas onde (somente) se fala muito, aí se encontra a indigência.  
 **24** A riqueza é uma coroa para os sábios; a fatuidade dos insensatos é imprudência.  
 **25** A testemunha fiel salva a vida (dos caluniados); a que porém é falsa atraiçoa (e causa a morte).  
@@ -475,7 +475,7 @@
 **23** Cada um compraz-se em saber dar uma (boa) resposta. E quanto bem faz uma palavra oportuna!  
 **24** Pela vereda da vida chega ao alto o homem inteligente, desviando-se assim da habitação dos mortos.  
 **25** O Senhor demolirá a casa dos soberbos, e firmará os limites da viúva.  
-**26** As intenções más são a abominação do Senhor; a palavra pura ser-lhe-á multo agradável.  
+**26** As intenções más são a abominação do Senhor; a palavra pura ser-lhe-á muito agradável.  
 **27** Aquele que vai atrás da avareza perturba a sua casa; o que porém aborrece os subornos viverá (feliz).  
 **28** A alma do justo medita o que deve responder, porém a boca dos ímpios despeja maldades.  
 **29** O Senhor está longe dos ímpios, mas atende às orações dos justos.  
@@ -987,7 +987,7 @@
 **12** Ela lhe dará o bem, e não o mal, em todos os dias da sua vida.  
 **13** Ela procura lã e linho, e trabalha de mãos alegres.  
 **14** É como a nau do negociante, que traz de longe o seu pão.  
-**15** Levanta-se, ainda de noite, distribui o alimento pelos seus domésticos, determina o serviço das suas criadas.  
+**15** Levanta-se, ainda de noite, distribui o alimento pelos seus domésticos, e determina o serviço das suas criadas.  
 **16** Põe a mira em um campo, e compra-o planta uma vinha com o ganho das suas mãos.  
 **17** Cinge os seus rins de fortaleza, e fortalece o seu braço.  
 **18** Alegra-se com o seu prosperar: a sua lâmpada não se apaga de noite.  

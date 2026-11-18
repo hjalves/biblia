@@ -27,7 +27,7 @@
 
 **1** Tocai a trombeta em Sião, soltai gritos sobre o meu santo monte! Estremeçam todos os habitantes da terra, porque se aproxima o dia do Senhor, está perto,  
 **2** Dia de trevas e de escuridão, dia de nublados e de sombras! Como a luz da aurora se espalha sobre os montes, assim um povo numeroso e possante (se difundirá por toda a vossa terra de Israel), semelhante ao qual não houve desde o princípio, nem depois haverá outro no decorrer dos séculos.  
-**3** Diante dele (virá) um fogo devorador, e atrás uma chama abrasadora; a terra que, antes dele (chegar), era um jardim de Eden, depois dele ficará sendo a desolação dum deserto, sem haver nada que Ihe escape.  
+**3** Diante dele (virá) um fogo devorador, e atrás uma chama abrasadora; a terra que, antes dele (chegar), era um jardim de Eden, depois dele ficará sendo a desolação dum deserto, sem haver nada que lhe escape.  
 **4** O seu aspeto é como o aspeto de cavalos; avançam como corcéis.  
 **5** (O seu ruído é) como o estrondo de carros a saltar sobre os cumes dos montes, como o crepitar da chama que queima a palha seca; dir-se-ia uma multidão de gente armada para o combate.  
 **6** A sua vista ficam atormentados os povos; todos os rostos empalidecem,  
@@ -52,7 +52,7 @@
 **25** Recompensar-vos-ei dos anos, cujos frutos foram devorados pelo gafanhoto, pelo yeleg, pelo hasil e pelo gazam, esse poderoso exército que mandei contra vós.  
 **26** Comereis e saciar-vos-eis destes bens, e louvareis o nome do Senhor vosso Deus, que fez em vosso favor maravilhas; e o meu povo jamais tornará a cair na confusão.  
 **27** Sabereis então que estou no meio de Israel, que sou o Senhor vosso Deus e que não há outro. E o meu povo jamais tornará a cair na confusão.  
-**28** Depois disto, acontecerá que derramarei o meu espírito sobre toda a carne; os vossos filhos e as vossas filhas profetizarão, os vossos velhos terão (comunicações por melo de) sonhos, e os vossos jovens terão visões.  
+**28** Depois disto, acontecerá que derramarei o meu espírito sobre toda a carne; os vossos filhos e as vossas filhas profetizarão, os vossos velhos terão (comunicações por meio de) sonhos, e os vossos jovens terão visões.  
 **29** Derramarei também naqueles dias o meu espírito sobre os escravos e as escravas.  
 **30** Farei aparecer prodígios no céu e na terra, sangue, fogo e turbilhões de fumo.  
 **31** O sol converter-se-á em trevas, e a lua em sangue, antes que venha o grande e terrível dia do Senhor.  
@@ -76,7 +76,7 @@
 **14** Povos, povos, (comparecei) no vale do julgamento, porque o dia do Senhor está perto, (comparecei) no vale do julgamento.  
 **15** O Sol e a lua obscurecer-se-ão, e as estrelas retirarão o seu resplendor.  
 **16** O Senhor rugirá de Sião, de Jerusalém fará ouvir a sua voz; os céus e a terra serão abalados. Todavia o Senhor será um refúgio para o seu povo, uma fortaleza para os filhos de Israel.  
-**17** Sabereis então que eu sou o Senhor vosso Deus, que habito no meu santo monte de Sião; Jerusalém será um lugar santo, onde os estrangeiros não tornarão mala a passar.  
+**17** Sabereis então que eu sou o Senhor vosso Deus, que habito no meu santo monte de Sião; Jerusalém será um lugar santo, onde os estrangeiros não tornarão mais a passar.  
 **18** Acontecerá naquele dia que os montes destilarão vinho doce, os outeiros manarão leite, e as águas Jorrarão em todas as correntes de Judá. Da casa do Senhor sairá uma fonte (maravilhosa) que regará o vale das Acácias.  
 **19** O Egito será todo assolado, e a Idumeia ficará sendo um deserto de devastação, porque oprimiram injustamente os filhos de Judá, e derramaram na sua terra o sangue inocente.  
 **20** Pelo contrário a Judeia será habitada eternamente, e Jerusalém de geração em geração.  

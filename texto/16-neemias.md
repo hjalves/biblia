@@ -53,7 +53,7 @@
 **12** ao lado deles, trabalhou Selum, filho de Aloés, chefe da (outra) metade do distrito de Jerusalém, com suas filhas.  
 **13** A porta do Vale edificaram-na Hanun e os habitantes de Zanoé; estes a edificaram e lhe puseram os batentes, as fechaduras e as trancas; além disso, refizeram mil côvados do muro até à porta da Esterqueira.  
 **14** A porta da Esterqueira ediflicou-a Melquias, filho de Recab, chefe do distrito de Betacarão: edificou-a e pôs-lhe os batentes, as fechaduras e as trancas.  
-**15** A porta da Fonte edificou-a Selum, filho de Colboza, chefe do distrito de Masfa; ele a edificou e a cobriu e Ihe pôs as fechaduras e as trancas; além disso, refez os muros desde a piscina de Siloé, ao longo do jardim do rei, até aos degraus que descem da cidade de David.  
+**15** A porta da Fonte edificou-a Selum, filho de Colboza, chefe do distrito de Masfa; ele a edificou e a cobriu e lhe pôs as fechaduras e as trancas; além disso, refez os muros desde a piscina de Siloé, ao longo do jardim do rei, até aos degraus que descem da cidade de David.  
 **16** Depois dele, trabalhou nas reparações Neemias, filho de Azboc, chefe de metade do distrito de Betsur, até defronte do sepulcro de David, até à piscina que tinha sido feita com grande trabalho, e até à casa dos Valentes (de David).  
 **17** Depois dele trabalharam nas reparações os Levitas, (sob a direção de) Reum, filho de Beni; depois dele, Hasebias, chefe de metade do distrito de Ceila, no seu distrito;  
 **18** depois dele, seus irmãos, sob a direção de Bavai, filho de Enadad, chefe da (outra) metade de Ceila;  
@@ -105,7 +105,7 @@
 **4** Outros diziam: Tomemos dinheiro emprestado para pagarmos os tributos do rei, e empenhemos os nossos campos e vinhas.  
 **5** Apesar de a nossa carne ser como a carne dos nossos irmãos (ricos), os nossos filhos como os deles, contudo reduzimos os nossos filhos e as nossas filhas à escravidão, e algumas das nossas filhas são (já) escravas! E não temos com que poder resgatá-las, pois são estranhos que possuem os nossos campos e as nossas vinhas.  
 **6** Eu irritei-me muito, ao ouvir os seus clamores e as suas reclamações.  
-**7** Depois de ter refletido maduramente, repreendi os grandes e os magistrados, dizendo-Ihes: Porventura sois usurários para vossos irmãos? Então convoquei contra eles uma grande assembleia  
+**7** Depois de ter refletido maduramente, repreendi os grandes e os magistrados, dizendo-lhes: Porventura sois usurários para vossos irmãos? Então convoquei contra eles uma grande assembleia  
 **8** e disse-lhe: Nós, como sabeis, segundo as nossas posses, resgatámos os Judeus nossos irmãos, que tinham sido vendidos aos gentios; e vós vendereis agora vossos irmãos, para que nós os tenhamos de resgatar (novamente)? Eles ficaram em silêncio, e não souberam que me responder.  
 **9** Acrescentei: Não é bem o que fazeis. Por que não andais vós no temor do nosso Deus, para que não cheguemos a ser escarnecidos pelos povos nossos inimigos?  
 **10** Também eu, meus irmãos e meus criados temos emprestado a muitos dinheiro e trigo; concordemos todos em não lhes pedir nada, em os dar por quites do que nos devem.  
@@ -212,7 +212,7 @@
 **67** sem falar nos seus escravos e escravas, que eram sete mil trezentos e trinta e sete. Havia entre eles duzentos e quarenta e cinco cantores e cantoras.  
 **68** Tinham setecentos e trinta e seis cavalos, duzentos e quarenta e cinco machos,  
 **69** quatrocentos e trinta e cinco camelos, seis mil setecentos e vinte jumentos.  
-**70** Alguns dos chefes das famílias contribuíram para a obra. O governador deu para o tesouro mil dáricos de ouro, cinquenta laças e quinhentas e trinta túnicas sacerdotais.  
+**70** Alguns dos chefes das famílias contribuíram para a obra. O governador deu para o tesouro mil dáricos de ouro, cinquenta taças e quinhentas e trinta túnicas sacerdotais.  
 **71** Alguns dos chefes das famílias deram para o tesouro da obra vinte mil dracmas de ouro e duas mil e duzentas minas de prata.  
 **72** O resto do povo deu vinte mil dáricos de ouro, duas mil minas de prata e sessenta e sete túnicas sacerdotais.  
 **73** Os sacerdotes, os Levitas, os porteiros, os cantores, o resto do povo, os Natineus e todos os Israelitas ficaram habitando nas suas cidades.  
@@ -431,11 +431,11 @@
 **18** Não é isto o mesmo que fizeram nossos pais, e não foi por isso que nosso Deus fez cair toda esta calamidade sobre nós e sobre esta cidade? Ides vós aumentar a sua ira sobre Israel, violando o sábado?  
 **19** Mandei, pois, que quando descessem as sombras sobre as portas de Jerusalém, na véspera do sábado, se fechassem as mesmas portas e se não abrissem senão depois do sábado; pus alguns de meus criados às portas, para que ninguém fizesse entrar carga alguma em dia de sábado.  
 **20** Os negociantes e os que traziam para vender toda a casta de mercadoria ficaram uma ou duas vezes fora de Jerusalém.  
-**21** Adverti-os e disse-Ihes: Por que estais assim defronte dos muros? Se fizerdes isso outra vez, mandar-vos-ei castigar. Daquele tempo em diante, não tornaram mais no sábado.  
+**21** Adverti-os e disse-lhes: Por que estais assim defronte dos muros? Se fizerdes isso outra vez, mandar-vos-ei castigar. Daquele tempo em diante, não tornaram mais no sábado.  
 **22** Ordenei também aos Levitas que se purificassem, que fossem guardar as portas e santificar o dia de sábado. Também por isso lembra-te de mim, ó meu Deus, e perdoa-me segundo a multidão das tuas misericórdias.  
 **23** Naqueles dias, vi Judeus que se tinham casado com mulheres de Azoto, de Amon e de Moab.  
 **24** Metade dos seus filhos falavam língua azótica e não sabiam falar hebreu; o mesmo (que com a língua azótica) sucedia com a língua de outros povos.  
-**25** E eu os repreendi e amaldiçoei. Feri alguns deles, arranquei-Ihes os cabelos e fi-los jurar por Deus que não dariam suas filhas aos filhos de estrangeiros, e não tomariam filhas estrangeiras para seus filhos nem para si mesmos.  
+**25** E eu os repreendi e amaldiçoei. Feri alguns deles, arranquei-lhes os cabelos e fi-los jurar por Deus que não dariam suas filhas aos filhos de estrangeiros, e não tomariam filhas estrangeiras para seus filhos nem para si mesmos.  
 **26** Porventura, disse-lhes eu, não foi nisto mesmo que pecou Salomão, rei de Israel? Certamente não havia rei semelhante a ele entre todos os povos; ele era amado do seu Deus, e Deus tinha-o constituído rei sobre todo o Israel; contudo as mulheres estrangeiras fizeram-no cair no pecado.  
 **27** Podemos nós ouvir dizer (e consentir) que cometeis este grande mal de tomar mulheres estrangeiras e que sois, assim, infiéis ao nosso Deus?  
 **28** Um dos filhos de Jojada, filho de Eliasib, sumo sacerdote, era genro de Sanabalat, Horonita, a quem afastei de mim.  

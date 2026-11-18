@@ -59,7 +59,7 @@
 ## Capítulo 2
 
 **1** Aproximando-se o dia da morte de Davide, deu ele estas Instruções a Salomão, seu filho, dizendo:  
-**2** Eis que vou para o lugar onde vão parar todos os mortais; sê forte, e porta-te com o homem.  
+**2** Eis que vou para o lugar onde vão parar todos os mortais; sê forte, e porta-te como homem.  
 **3** Observa tudo o que o Senhor teu Deus te mandou, andando pelos seus caminhos, guardando as suas cerimónias, os seus preceitos, as suas ordenações e as suas leis, conforme está escrito na lei de Moisés, para que sejas bem sucedido em tudo o que fizeres, em qualquer parte onde estejas,  
 **4** de sorte que o Senhor confirme as suas palavras, ditas a meu respeito. Se os teus filhos vigiarem sobre os seus caminhos, e andarem diante de mim em verdade, de todo o seu coração e de toda a sua alma, terás sempre algum dos teus descendentes sentado no trono de Israel  
 **5** Tu sabes também o que me fez Joab, filho de Sarvia, como ele procedeu com os dois generais do exército de Israel, Abner, filho de Ner, e Amasa, filho de Jeter, a quem matou, derramando sangue em tempo de paz, como se fosse na guerra, e manchando com o sangue da guerra o cinto que trazia sobre os seus rins, e os sapatos que tinha nos pés.  
@@ -94,7 +94,7 @@
 **34** Partiu, então, Banaias, filho de Jojada, e, arremetendo contra Joab, o matou. Joab foi sepultado em sua casa no deserto.  
 **35** Em lugar de Joab constituiu o rei a Banaias, filho de Jojada, general do exército, e, em lugar de Abiatar, estabeleceu como pontífice a Sadoc.  
 **36** Mandou o rei também chamar Semei e disse-lhe: Faze para ti uma casa em Jerusalém, e habita aí; dela não sairás andando duma parte para outra.  
-**37** Em qualquer dia, pois, que daqui saíres e passares a torrente do Cedron, sabe que serás morto; o teu sangue recairá sobre a tu a cabeça.  
+**37** Em qualquer dia, pois, que daqui saíres e passares a torrente do Cedron, sabe que serás morto; o teu sangue recairá sobre a tua cabeça.  
 **38** Disse Semei ao rei: Justa ordem é esta. Como disse o rei, meu senhor, assim o executará o teu servo. Morou Semei em Jerusalém durante muito tempo.  
 **39** Passados três anos, aconteceu que os servos de Semei fugiram para Aquis, filho de Maaca, rei de Get, e foram dizer a Semei que os servos tinham ido para Get.  
 **40** Levantou-se Semei, aparelhou o seu jumento e foi ter com Aquis, a Get, em busca dos seus servos, e tornou-os a trazer de Get.  
@@ -130,7 +130,7 @@
 **21** Levantando-me eu pela manhã para amamentar o meu filho, apareceu-me morto; olhando para ele com mais atenção, já dia claro, vi que ele não era o meu, não era o que eu tinha dado à luz;  
 **22** A outra mulher respondeu: Não é assim como tu dizes; o teu filho morreu e o meu é que está vivo. A primeira, pelo contrário, replicava: Mentes, porque o meu filho está vivo, e o teu é que morreu. E deste modo disputavam diante do rei.  
 **23** Então disse o rei: Esta diz: O meu filho está vivo, e o teu filho está morto. Aquela responde: Não, mas o teu filho é que morreu, e o meu é que está vivo.  
-**24** Disse, pois, o rei: Trazei-me cá um a espada. Sendo trazida uma espada ao rei,  
+**24** Disse, pois, o rei: Trazei-me cá uma espada. Sendo trazida uma espada ao rei,  
 **25** este disse: Dividi em duas partes o menino, que está vivo, e dai metade a uma, e metade a outra.  
 **26** A mulher, porém, cujo filho estava vivo, disse ao rei (porque as suas entranhas se enterneceram por seu filho)_: Senhor, peço-te que dês a ela o menino vivo, que não o mates. A outra, pelo contrário, dizia: Não seja nem para mim, nem para ti, mas divida-se.  
 **27** Então o rei respondeu: Dai àquela o menino vivo, não se mate, porque é ela a sua mãe.  
@@ -309,8 +309,8 @@
 **16** Desde o dia em que eu tirei do Egito o meu povo de Israel, não escolhi cidade alguma de todas as tribos de Israel, para que me fosse edificada nela uma casa onde se invocasse o meu nome, mas escolhi Davide para ser o chefe do meu povo de Israel.  
 **17** Ora o meu pai Davide quis edificar uma casa ao nome do Senhor Deus de Israel.  
 **18** Porém o Senhor disse a Davide, meu pai: Quando tu no teu coração intentaste edificar uma casa ao meu nome, fizeste bem, formando tal intenção.  
-**19** Todavia, tu não edificarás uma casa, mas teu filho, que descenderá de ti, esse edificará um a casa ao meu nome.  
-**20** O Senhor cumpriu a palavra que lhe disse: eu fiquei em lugar de Davide, meu pai, sentei-me sobre o trono de Israel, como o Senhor tinha dito, e edifiquei um a casa ao nome do Senhor Deus de Israel.  
+**19** Todavia, tu não edificarás uma casa, mas teu filho, que descenderá de ti, esse edificará uma casa ao meu nome.  
+**20** O Senhor cumpriu a palavra que lhe disse: eu fiquei em lugar de Davide, meu pai, sentei-me sobre o trono de Israel, como o Senhor tinha dito, e edifiquei uma casa ao nome do Senhor Deus de Israel.  
 **21** Nela escolhi o lugar para a arca, dentro da qual está (a lei que é) a aliança que o Senhor fez com os nossos pais, quando saíram da terra do Egito.  
 **22** Depois pôs-se Salomão diante do altar do Senhor, à vista do ajuntamento de Israel, estendeu as suas mãos para o céu  
 **23** e disse: Senhor Deus de Israel, não há Deus semelhante a ti, nem no mais alto do céu, nem cá embaixo sobre a terra; tu conservas o pacto e a misericórdia para com os teus servos, que caminham diante de ti, de todo o seu coração,  
@@ -454,11 +454,11 @@
 **29** Ora aconteceu que, um dia, Jeroboão saiu de Jerusalém, e que Aias Silonita, profeta, coberto com uma capa nova, o encontrou no caminho. Estavam sós os dois no campo.  
 **30** Aias, tomando a sua capa nova, de que vinha coberto, rasgou-a em doze partes  
 **31** e disse a Jeroboão: Toma para ti dez retalhos, porque isto é o que diz o Senhor Deus de Israel: Eu rasgarei o reino das mãos de Salomão e dar-te-ei dez tribos.  
-**32** A ele, porém, ficará um a tribo, em atenção a meu servo Davide e à cidade de Jerusalém, que eu escolhi dentre todas as tribos de Israel.  
+**32** A ele, porém, ficará uma tribo, em atenção a meu servo Davide e à cidade de Jerusalém, que eu escolhi dentre todas as tribos de Israel.  
 **33** Salomão abandonou-me e adorou Astarte, deusa dos Sidónios, Camos, deus de Moab, e Moloc, deus dos filhos de Amon, e não andou pelos meus caminhos, para fazer o que era justo, diante de mim, e para observar os meus preceitos e as minhas leis, como Davide, pai.  
 **34** Eu não lhe tirarei todo o reino das suas mãos, mas deixá-lo-ei governar todos os dias da sua vida por causa de Davide, meu servo, a quem escolhi, o qual guardou os meus mandamentos e os meus preceitos.  
 **35** Tirai porém, o reino das mãos de seu filho, para te dar dez tribos;  
-**36** ao seu filho darei um a tribo, para que fique sempre a meu servo Davide uma lâmpada diante de mim, em Jerusalém, a cidade que eu escolhi, a fim de o meu nome ser nela reverenciado.  
+**36** ao seu filho darei uma tribo, para que fique sempre a meu servo Davide uma lâmpada diante de mim, em Jerusalém, a cidade que eu escolhi, a fim de o meu nome ser nela reverenciado.  
 **37** Eu te tomarei, e tu reinarás sobre tudo o que a tua alma deseja. Serás rei em Israel.  
 **38** Se tu ouvires tudo o que eu te ordenar, se andares pelos meus caminhos, se fizeres o que é reto diante de mim, guardando as minhas leis e os meus preceitos, como fez Davide, meu servo, eu serei contigo e te edificarei uma casa, que seja estável, como a que edifiquei a meu servo Davide, e te entregarei Israel.  
 **39** Afligirei neste ponto a descendência de Davide, mas não para sempre.  
@@ -509,7 +509,7 @@
 **2** Clamando contra o altar, da parte do Senhor, disse: Altar, altar! Eis o que diz o Senhor: Na casa de Davide nascerá um filho, que se chamará Josias, o qual degolará sobre ti os sacerdotes dos lugares altos, que agora queimam incensos sobre ti, e queimar-se-ão sobre ti ossos de homens.  
 **3** Ao mesmo tempo, como prova da verdade da sua predição, acrescentou: Eis o sinal (que vos fará saber) que o Senhor falou: O altar se partirá, e a cinza que está por cima, se espalhará.  
 **4** Tendo o rei ouvido as palavras do homem de Deus, que ele proferia em alta voz contra o altar em Betel, estendeu a sua mão do altar, dizendo: Prendei-o. E logo a mão, que ele estendera contra o homem de Deus, se secou, e ele não a pôde trazer a si.  
-**5** O altar também se partiu e espalhou-se a cinza do altar, conforme o sinal o homem de Deus tinha dado em nome do Senhor.  
+**5** O altar também se partiu e espalhou-se a cinza do altar, conforme o sinal que o homem de Deus tinha dado em nome do Senhor.  
 **6** O rei disse ao homem de Deus: Faze oração ao Senhor, teu Deus, e roga-lhe por mim, para que me seja restituída a minha mão. O homem de Deus fez oração ao Senhor, e o rei trouxe a si a sua mão, ficando como antes era.  
 **7** Disse mais o rei ao homem de Deus: Vem comigo a minha casa, e eu te darei presente.  
 **8** O homem de Deus respondeu ao rei: Ainda que tu me desses metade da tua casa, eu não iria contigo, nem comeria pão, nem beberia água neste lugar,  
@@ -522,11 +522,11 @@
 **15** Ele disse-lhe: Vem comigo a casa comer pão.  
 **16** Ele respondeu: Não posso voltar, nem ir contigo, nem comerei pão, nem beberei água neste lugar,  
 **17** porque o Senhor, com palavras de Senhor, me falou, dizendo: Não comerás pão, nem beberás água nesse lugar, nem voltarás pelo caminho por onde tiveres ido.  
-**18** O outro disse-lhe: Eu também sou profeta como tu, e um anjo falou-me da parte do Senhor, dizendo: Leva-o contigo a tua casa, para que ele com a pão e beba água. Enganou-o,  
+**18** O outro disse-lhe: Eu também sou profeta como tu, e um anjo falou-me da parte do Senhor, dizendo: Leva-o contigo a tua casa, para que ele coma pão e beba água. Enganou-o,  
 **19** e levou-o consigo. Comeu, pois, pão em sua casa e bebeu água.  
 **20** Estando à mesa, o Senhor falou ao profeta, que o tinha feito voltar.  
 **21** (Este profeta) gritou ao homem de Deus, que tinha vindo de Judá: Eis o que diz o Senhor: Porque não obedeceste à palavra do Senhor e não guardaste o mandamento que o Senhor teu Deus te tinha imposto,  
-**22** porque voltaste, com este pão e bebeste água, no lugar em que te mandou que não comesses pão, nem bebesses água, o teu cadáver não será levado ao sepulcro de teus pais.  
+**22** porque voltaste, comeste pão e bebeste água, no lugar em que te mandou que não comesses pão, nem bebesses água, o teu cadáver não será levado ao sepulcro de teus pais.  
 **23** Logo que comeu e bebeu, o velho profeta aparelhou o seu jumento para o profeta a quem tinha feito voltar.  
 **24** Indo este no caminho, um leão saiu-lhe ao encontro e matou-o, e o seu cadáver ficou estendido no caminho; o jumento estava parado junto dele, e o leão também ficou ao pé do cadáver.  
 **25** Ora, passando por ali uns homens, viram o cadáver estendido no caminho, e o leão posto ao pé do cadáver, e foram e divulgaram isto na cidade onde morava aquele velho profeta.  
@@ -597,7 +597,7 @@
 **19** Entre mim e ti haja aliança, como a houve entre meu pai e teu pai; por isso mando-te estes presentes de prata e ouro, e suplico-te que quebres a aliança que tens com Baasa, rei de Israel, para que ele se retire das minhas terras.  
 **20** Benadad, condescendendo com os rogos do rei Asa, mandou os generais do seu exército contra as cidades de Israel, os quais tomaram Alon, Dan, Abelcasa de Maaca e todo o país de Cenerot, isto é, todo o território de Neftali.  
 **21** Baasa, tendo ouvido isto, deixou de fortificar Rama e voltou para Tersa.  
-**22** O rei Asa enviou mensageiros por toda a Judeia com essa ordem: Ninguém se escuse (de acudir a Rama). Tomaram as pedras e as madeiras que Baasa tinha em pregado em fortificar Rama, e, com elas, o rei Asa edificou Gabaa de Benjamim e Masfa.  
+**22** O rei Asa enviou mensageiros por toda a Judeia com essa ordem: Ninguém se escuse (de acudir a Rama). Tomaram as pedras e as madeiras que Baasa tinha empregado em fortificar Rama, e, com elas, o rei Asa edificou Gabaa de Benjamim e Masfa.  
 **23** O resto de todas as ações de Asa, todas as suas empresas de valor, todos os seus feitos, as cidades que edificou, tudo se acha escrito no livro das Crónicas dos reis de Judá. No tempo da sua velhice, sofreu dos pés.  
 **24** Adormeceu com seus pais e foi sepultado com eles, na cidade de seu pai Davide. Josafat, seu filho, reinou em seu lugar.  
 **25** Nadab, filho de Jeroboão, reinou sobre Israel no segundo ano de Asa, rei de Judá. Reinou sobre Israel dois anos.  
@@ -702,7 +702,7 @@
 **23** (Contudo) deem-nos dois bois, e eles escolham para si um boi, façam-no em pedaços, ponham-no sobre a lenha, mas não lhe metam fogo por baixo; eu tomarei o outro boi e o porei sobre a lenha, mas também não lhe meterei fogo por baixo.  
 **24** Invocai vós os nomes dos vossos deuses, e eu invocarei o nome do meu Senhor; o Deus que ouvir, mandando fogo, esse seja considerado o (verdadeiro) Deus. Todo o povo, respondendo, disse: Ótima proposta.  
 **25** Disse Elias aos profetas de Baal: Escolhei para vós um boi, e começai vós primeiro, porque sois em maior número; invocai os nomes dos vossos deuses, mas não ponhais fogo por baixo.  
-**26** Eles, tendo tom ado o boi que lhes foi dado, sacrificaram-no e invocaram o nome de Baal, desde manhã até ao meio dia, dizendo: Baal, ouve-nos. Mas não se percebia voz, nem havia quem respondesse, enquanto continuavam a saltar diante do altar que tinham feito.  
+**26** Eles, tendo tomado o boi que lhes foi dado, sacrificaram-no e invocaram o nome de Baal, desde manhã até ao meio dia, dizendo: Baal, ouve-nos. Mas não se percebia voz, nem havia quem respondesse, enquanto continuavam a saltar diante do altar que tinham feito.  
 **27** Sendo já meio dia, Elias escarnecia-os, dizendo: Gritai mais alto, porque ele é (certamente) Deus, mas talvez esteja entretido a conversar, ou ocupado, ou em viagem, ou talvez durma e necessite que o acordem.  
 **28** Eles gritavam em alta voz, e retalhavam-se, segundo o seu costume, com canivetes e lancetas até se cobrirem de sangue.  
 **29** Passado o meio-dia, enquanto eles profetizavam, chegou o tempo em que era costume oferecer-se o sacrifício, e não se ouvia voz, nem havia quem respondesse, nem ouvisse os seus rogos.  
@@ -776,13 +776,13 @@
 **24** Tu, pois, faze isto: Aparta do exército do os reis, e põe em seu lugar os primeiros oficiais;  
 **25** levanta um exército semelhante ao que perdeste, com equivalente número de cavalos e carros. Nós pelejaremos contra eles em campo raso, e tu verás que os desbarataremos. Ele ouviu e seguiu o seu conselho.  
 **26** Portanto, tendo passado um ano, fez Benadad o recenseamento dos Sírios e foi a Afec, para combater contra Israel.  
-**27** Foi feito também o recenseamento dos filhos de Israel, que, providos de víveres, marcharam contra os Sírios. Acamparam em frente deles, com o dois pequenos rebanhos de cabras, ao passo que os Sírios cobriam o país.  
+**27** Foi feito também o recenseamento dos filhos de Israel, que, providos de víveres, marcharam contra os Sírios. Acamparam em frente deles, como dois pequenos rebanhos de cabras, ao passo que os Sírios cobriam o país.  
 **28** Vindo um homem de Deus, disse ao rei de Israel: Eis o que diz o Senhor: Porque os Sírios disseram: O Senhor é Deus dos montes e não Deus dos vales eu te entregarei nas mãos toda esta grande multidão para que saibais que eu sou o Senhor.  
 **29** Estiveram os exércitos ordenados em batalha sete dias, um em frente do outro, e ao sétimo dia deu-se a batalha: os filhos de Israel mataram num dia cem mil homens de pé, dos Sírios.  
 **30** Os que escaparam, fugiram para a cidade de Afec, mas as muralhas caíram sobre os vinte e sete mil homens, que tinham restado. Benadad, fugindo, entrou na cidade e retirou-se ao lugar mais secreto duma câmara.  
-**31** Os seus servos disseram-lhe: Nós tem os ouvido dizer que os reis da casa de Israel são clementes; ponhamos, pois, sacos sobre os nossos rins e cordas ao nosso pescoço, e vamos ter com o rei de Israel; talvez ele nos poupe a vida.  
+**31** Os seus servos disseram-lhe: Nós temos ouvido dizer que os reis da casa de Israel são clementes; ponhamos, pois, sacos sobre os nossos rins e cordas ao nosso pescoço, e vamos ter com o rei de Israel; talvez ele nos poupe a vida.  
 **32** Cingiram-se com sacos pelos rins, puseram cordas ao pescoço e foram ter com o rei de Israel, dizendo-lhe: O teu servo Benadad diz: Concede-me, eu te peço, a vida. Ele responde: Se ainda vive, ele é meu irmão.  
-**33** Os Sírios tom aram isto por bom preságio e, tomando logo a palavra da sua boca, disseram: Benadad é teu irmão. Ele disse-lhes: Ide e trazei-mo. Veio, pois, Benadad à presença de Acab, e este mandou-o subir para o seu carro.  
+**33** Os Sírios tomaram isto por bom preságio e, tomando logo a palavra da sua boca, disseram: Benadad é teu irmão. Ele disse-lhes: Ide e trazei-mo. Veio, pois, Benadad à presença de Acab, e este mandou-o subir para o seu carro.  
 **34** Benadad disse-lhe: Eu te restituirei as cidades que meu pai tomou a teu pai; faze para ti praças em Damasco, como meu pai as fez em Samaria, e eu me retirarei de ti, depois de feita a aliança. Acab fez, pois, aliança com ele deixou-o ir livre,  
 **35** Então um dos filhos dos profetas disse da parte do Senhor a um seu companheiro: Fere-me. Porém ele não o quis ferir.  
 **36** Ele disse-lhe: Porque não quiseste ouvir a voz do Senhor, logo que te afastares de mim, um leão te matará. Mal se havia afastado um pouco dele, um leão o feriu e matou.  
@@ -797,7 +797,7 @@
 ## Capítulo 21
 
 **1** Depois destas coisas, naquele tempo Nabot de Jezrael possuía uma vinha que estava em Jezrael, junto do palácio de Acab, rei de Samaria.  
-**2** Acab falou a Nabot, dizendo: Dá-me a tu a vinha, a fim de eu fazer uma horta para mim, porque está junto de minha casa, e dar-te-ei por e la uma vinha melhor, ou, se te faz mais conta, o seu justo preço em dinheiro.  
+**2** Acab falou a Nabot, dizendo: Dá-me a tua vinha, a fim de eu fazer uma horta para mim, porque está junto de minha casa, e dar-te-ei por ela uma vinha melhor, ou, se te faz mais conta, o seu justo preço em dinheiro.  
 **3** Nabot respondeu-lhe: Deus me livre de te dar a herança de meus pais!  
 **4** Foi Acab para sua casa, mal disposto e encolerizado, por causa da resposta que Nabot Jezraelita lhe dera: Eu não te entregarei a herança de meus pais. Deitando-se sobre a sua cama, voltou o rosto para a parede e não quis comer nada.  
 **5** Jezabel, sua mulher, foi ter com ele e disse-lhe: Que é isto? Donde te vem esta tristeza? Por que não comes?  
@@ -838,12 +838,12 @@
 **8** O rei de Israel respondeu a Josafat: Ficou um homem, por meio do qual podemos consultar o Senhor, porém eu aborreço-o, porque ele não me profetiza o bem, mas o mal: é Miqueias, filho de Jemla. Josafat disse-lhe: Ó rei, não fales assim.  
 **9** Chamou, então o rei de Israel um eunuco e disse-lhe: Traze-me aqui depressa a Miqueias, filho de Jemla.  
 **10** O rei de Israel e Josafat, rei de Judá, estavam sentados cada um no seu trono, vestidos com magnificência real, na praça, junto à porta de Samaria, e todos os (falsos) profetas profetizavam diante deles.  
-**11** Fez para si Sedecias, filho de Canaana, uns chifres de ferro, e disse: Eis o que diz o Senhor: Com estes chifres ferirás os sírios, a té os destruíres de todo.  
+**11** Fez para si Sedecias, filho de Canaana, uns chifres de ferro, e disse: Eis o que diz o Senhor: Com estes chifres ferirás os sírios, até os destruíres de todo.  
 **12** E todos os profetas profetizavam da mesma maneira, dizendo: Vai contra Ramot de Galaad, marcha em boa hora, pois o Senhor a entregará nas mãos do rei.  
 **13** Ora o mensageiro, que tinha ido chamar Miqueias, disse: Todos os profetas, a uma voz, predizem bom sucesso ao rei; sejam, pois, as tuas palavras semelhantes às deles, anuncia bom sucesso.  
 **14** Miqueias respondeu-lhe: Viva o Senhor, que eu não direi senão o que o Senhor me disser.  
 **15** Apresentou-se, pois, diante do rei, e o rei disse-lhe: Miqueias, devem os ir pelejar contra Ramot de Galaad, ou ficar quietos? Miqueias respondeu-lhe: Vai, marcha em boa hora, pois o Senhor a entregará nas mãos do rei.  
-**16** O rei disse-lhe: Eu te conjuro uma e outra vez em nome do Senhor, que m e não fales senão a verdade.  
+**16** O rei disse-lhe: Eu te conjuro uma e outra vez em nome do Senhor, que me não fales senão a verdade.  
 **17** Ele disse-lhe: Eu vi todo o Israel disperso pelos montes, como ovelhas que não têm pastor. O Senhor disse: Eles não têm condutor; torne cada um em paz para sua casa.  
 **18** Disse o rei de Israel para Josafat: Não te disse eu que este homem nunca me profetiza o bem, mas sempre o mal?  
 **19** Miqueias, porém, acrescentando, disse: Por isso ouve a palavra do Senhor: Eu vi o Senhor sentado sobre o seu trono, e todo o exército do céu ao redor dele, á direita e à esquerda.  

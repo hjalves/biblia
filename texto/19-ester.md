@@ -71,17 +71,17 @@
 
 ## Capítulo 4
 
-**1** Mardoqueu, tendo sabido isto, rasgou as suas vestes, vestiu-se de saco, cobrindo a cabeça de cinza; depois percorreu a cidade, soltando grandes grilos de dor.  
+**1** Mardoqueu, tendo sabido isto, rasgou as suas vestes, vestiu-se de saco, cobrindo a cabeça de cinza; depois percorreu a cidade, soltando grandes gritos de dor.  
 **2** Com este pranto foi até à porta do palácio, porque não era permitido entrar vestido de saco no palácio do rei.  
 **3** Em todas as províncias, cidades e lugares, onde este cruel edito do rei tinha chegado, era grande a consternação entre os Judeus: jejuavam, choravam, lamentavam-se, utilizando, muitos deles, para seu leito, saco e cinza.  
-**4** As criadas de Ester e os eunucos entraram a dar-Ihe a notícia (do que Mardoqueu fazia). Quando ouviu isto, ficou consternada, e mandou a Mardoqueu roupa, para que, despindo o saco, a vestisse; ele, porém, não a quis receber.  
+**4** As criadas de Ester e os eunucos entraram a dar-lhe a notícia (do que Mardoqueu fazia). Quando ouviu isto, ficou consternada, e mandou a Mardoqueu roupa, para que, despindo o saco, a vestisse; ele, porém, não a quis receber.  
 **5** Ester, chamando o eunuco Atac, que o rei lhe tinha dado para a servir, mandou-lhe que fosse ter com Mardoqueu, e soubesse dele por que fazia isto.  
 **6** Saindo Atac, foi ter com Mardoqueu, que estava na praça da cidade, diante da porta do palácio.  
 **7** Este informou-o de tudo o que se tinha passado, e da soma de dinheiro que Aman tinha prometido pôr nos tesouros do rei, pelo massacre dos Judeus.  
 **8** Deu-lhe, lambem, uma cópia do edito, que estava afixado em Susa, respeitante à sua exterminação, para a mostrar à rainha, e para a exortar a que fosse apresentar-se ao rei e intercedesse pelo seu povo.  
 **9** Atac veio referir a Ester tudo o que Mardoqueu lhe tinha dito.  
 **10** Ela ordenou-lhe que dissesse a Mardoqueu:  
-**11** Todos os servos do rei e todas as províncias que estão debaixo do seu domínio sabem que se alguém, homem ou mulher, entrar, sem ser chamado, na câmara do rei, no mesmo ponto, sem remissão alguma, é morto, exceto se o rei estender para ele o seu cetro de ouro, em sinal de clemência, e Ihe salvar assim a vida. Como poderei eu, pois, ir ter com o rei, quando há já trinta dias que ele me não chama para junto de si?  
+**11** Todos os servos do rei e todas as províncias que estão debaixo do seu domínio sabem que se alguém, homem ou mulher, entrar, sem ser chamado, na câmara do rei, no mesmo ponto, sem remissão alguma, é morto, exceto se o rei estender para ele o seu cetro de ouro, em sinal de clemência, e lhe salvar assim a vida. Como poderei eu, pois, ir ter com o rei, quando há já trinta dias que ele me não chama para junto de si?  
 **12** Mardoqueu, tendo ouvido isto,  
 **13** mandou novamente dizer a Ester; Não te persuadas que, por estares na casa do rei, escaparás à morte, tu só, entre todos os Judeus;  
 **14** com efeito, se tu agora te calares, por outro caminho se salvarão os Judeus, mas tu e a casa de teu pai perecereis. E quem sabe se porventura foste elevada a rainha, para que estivesses pronta em tal conjuntura?  
@@ -99,16 +99,16 @@
 **6** O rei disse-lhe, enquanto se bebia o vinho: Que desejas tu que eu te dê? Que é o que me pedes? Ainda que me peças metade do meu reino, a alcançarás.  
 **7** Ester respondeu-lhe: A minha petição e os meus rogos são estes:  
 **8** Se alcancei graça diante do rei, se ao rei lhe apraz conceder-me o que peço e satisfazer a minha petição, venha o rei e Aman a (outro) banquete que lhes tenho preparado, e amanhã declararei ao rei a minha vontade.  
-**9** Saiu, pois, Aman naquele dia alegre e contente. Mas, tendo visto Mardoqueu sentado diante da portado palácio, que não só não se tinha levantado para o cortejar, senão que nem sequer se tinha movido do seu assento, irritou-se em extremo.  
+**9** Saiu, pois, Aman naquele dia alegre e contente. Mas, tendo visto Mardoqueu sentado diante da porta do palácio, que não só não se tinha levantado para o cortejar, senão que nem sequer se tinha movido do seu assento, irritou-se em extremo.  
 **10** Dissimulando a ira, voltou para sua casa, convocou os seus amigos e Zarés, sua mulher,  
 **11** e declarou-lhes a grandeza das suas riquezas, o grande número dos seus filhos e a alta glória a que o rei o tinha elevado, colocando-o acima de todos os seus príncipes e cortesãos.  
 **12** Depois disse: A rainha Ester a nenhum outro chamou para o banquete com o rei, senão a mim, e amanhã tenho de me sentar também à sua mesa com o rei.  
 **13** Todavia, embora tenha tudo isto, nada me parece ter, enquanto vir o judeu Mardoqueu sentado diante das portas do palácio.  
-**14** Zarés, sua mulher, e os outros responderam-Ihe: Manda levantar uma grande viga de cinquenta côvados de altura, e diz amanhã, de manhã, ao rei que mande pendurar nela Mardoqueu. Assim irás alegre para o banquete com o rei. Agradou-lhe o conselho, e mandou que se preparasse o madeiro.  
+**14** Zarés, sua mulher, e os outros responderam-lhe: Manda levantar uma grande viga de cinquenta côvados de altura, e diz amanhã, de manhã, ao rei que mande pendurar nela Mardoqueu. Assim irás alegre para o banquete com o rei. Agradou-lhe o conselho, e mandou que se preparasse o madeiro.  
 
 ## Capítulo 6
 
-**1** O rei passou aquela noite sem dormir, mandou que lhe trouxessem o livro dos Anais, as Crónicas. Quando se fazia a leitura, diante dele,  
+**1** O rei passou aquela noite sem dormir, e mandou que lhe trouxessem o livro dos Anais, as Crónicas. Quando se fazia a leitura, diante dele,  
 **2** chegou-se àquele lugar onde estava escrito como Mardoqueu tinha descoberto a conjuração dos eunucos Bagatan e Tares, que tinham querido assassinar o rei Assuero.  
 **3** Tendo ouvido isto, o rei disse: Que honra e que recompensa recebeu Mardoqueu por tanta fidelidade? Os seus servos e ministros disseram-lhe: Não recebeu nenhuma recompensa.  
 **4** O rei imediatamente disse: "Quem está na antecâmara? Ora Aman tinha entrado no átrio interior da casa real, para sugerir ao rei que mandasse pôr Mardoqueu no patíbulo, que lhe tinha preparado.  
@@ -276,7 +276,7 @@
 
 ## Capítulo 15
 
-**1** E mandou dizer-lhe (sem dúvida que foi Mardoqueu) que se apresentasse ao rei, para Ihe rogar pelo seu povo e pela sua pátria.  
+**1** E mandou dizer-lhe (sem dúvida que foi Mardoqueu) que se apresentasse ao rei, para lhe rogar pelo seu povo e pela sua pátria.  
 **2** Lembra-te (lhe disse) dos dias da tua humilhação, de como foste criada pela minha mão. Aman, que é o segundo depois do rei, tem falado contra nós para nos fazer morrer;  
 **3** tu, pois, invoca o Senhor e fala por nós ao rei; livra-nos da morte. (E também encontrei o que se segue:)  
 **4** No dia terceiro, (Ester) depôs os vestidos que trazia e adornou-se com os da sua glória.  

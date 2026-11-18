@@ -82,7 +82,7 @@
 ## Capítulo 4
 
 **1** Ora uma mulher, dentre as mulheres dos filhos dos profetas, gritou a Eliseu, dizendo: Meu marido, teu servo, morreu, e tu sabes que teu servo era temente ao Senhor; agora veio o credor para me levar os meus dois filhos para os fazer seus escravos.  
-**2** Eliseu disse-Ihe: Que queres que eu te faça? Dize-me: que tens em tua casa? Ela respondeu: Eu, tua serva, não tenho em minha casa outra coisa, senão uma vasilha de azeite.  
+**2** Eliseu disse-lhe: Que queres que eu te faça? Dize-me: que tens em tua casa? Ela respondeu: Eu, tua serva, não tenho em minha casa outra coisa, senão uma vasilha de azeite.  
 **3** Disse-lhe Eliseu: Vai, pede emprestadas às tuas vizinhas bastantes vasilhas vazias;  
 **4** depois entra e fecha a tua porta, quando estiveres de dentro tu e teus filhos, e deita do azeite em todas estas vasilhas; à medida que se forem enchendo, vai-as pondo à parte.  
 **5** Foi, pois, a mulher, e fechou a porta sobre si e sobre seus filhos; os filhos chegavam-lhe as vasilhas, e ela as enchia.  
@@ -111,7 +111,7 @@
 **28** Ela disse-lhe: Porventura pedi-te eu algum filho, meu senhor? Não te disse eu: Não me enganes?  
 **29** Eliseu disse a Giezi: Cinge os teus rins, toma meu bordão na mão, e parte. Se encontrares alguém, não o saudes; se alguém te saudar, não lhe respondas. Porás o meu bordão sobre o rosto do menino.  
 **30** Mas a mãe do menino disse: Viva o Senhor e viva a tua alma, que não te deixarei. Partiu ele, pois, e seguiu-a.  
-**31** Ora Giezi tinha ido adiante deles, e tinha posto o bordão de Eliseu sobre o rosto do menino, mas ele não tinha nem fala, nem sentidos. Voltou a encontrar-se com ele, e Iho noticiou, dizendo: O menino não ressuscitou.  
+**31** Ora Giezi tinha ido adiante deles, e tinha posto o bordão de Eliseu sobre o rosto do menino, mas ele não tinha nem fala, nem sentidos. Voltou a encontrar-se com ele, e lho noticiou, dizendo: O menino não ressuscitou.  
 **32** Entrou, pois, Eliseu na casa, e o menino estava morto em cima da sua cama.  
 **33** Depois de entrar, cerrou a porta sobre si e sobre o menino, e fez oração ao Senhor.  
 **34** Depois subiu (à cama), deitou-se sobre o menino, pôs a sua boca sobre a boca dele, os seus olhos sobre os olhos dele, as suas mãos sobre as mãos dele. Enquanto ele estava assim estendido, a carne do menino aqueceu-se.  
@@ -184,7 +184,7 @@
 **24** Aconteceu, depois, que Benadad, rei da Síria, juntou todas as suas tropas e foi sitiar Samaria.  
 **25** Houve uma grande fome em Samaria, e o cerco durou tanto que se chegou a vender a cabeça de um jumento por oitenta moedas de prata, e a quarta parte dum cab de esterco de pombas por cinco moedas de prata.  
 **26** Passando o rei de Israel pelo muro, gritou-lhe uma mulher: Salva-me, ó rei meu senhor.  
-**27** Ele disse: Se o Senhor não te salva, como posso eu salvar-te? Com trigo da eira, ou vinho do lagar? E o re i acrescentou: Que é que tu queres? Ela respondeu:  
+**27** Ele disse: Se o Senhor não te salva, como posso eu salvar-te? Com trigo da eira, ou vinho do lagar? E o rei acrescentou: Que é que tu queres? Ela respondeu:  
 **28** Esta mulher disse-me: Dá-me o teu filho, para o comermos hoje; amanhã comeremos o meu filho.  
 **29** Cozemos, pois, o meu filho, e comemo-lo. Ao outro dia disse-lhe eu: Dá o teu filho para o comermos. E ela escondeu o seu filho.  
 **30** O rei, tendo ouvido isto, rasgou os seus vestidos; como ia passando pelo muro, todo o povo viu o cilício que ele levava vestido interiormente sobre a carne.  
@@ -206,7 +206,7 @@
 **10** Tendo chegado à porta da cidade, contaram o sucedido: Nós fomos ao campo dos Sírios e não encontramos lá homem algum, mas somente cavalos, jumentos presos, e as suas tendas armadas.  
 **11** Foram os guardas da porta dar aviso aos de dentro do palácio do rei,  
 **12** o qual se levantou de noite e disse aos seus oficiais: Eu vos direi o que fizeram os Sírios contra nós: Sabem que a fome nos aperta, e por isso saíram do seu arraial e esconderam-se pelos campos, dizendo: Logo que saírem da cidade, nós os apanharemos vivos, e então poderemos entrar na cidade.  
-**13** Mas um dos servos do rei respondeu: Tomem os os cinco cavalos, que ficaram na cidade (porque só estes restaram de tão grande número que havia em Israel, porque os outros foram consumidos) e, mandando estes, poderemos descobrir o que há.  
+**13** Mas um dos servos do rei respondeu: Tomemos os cinco cavalos, que ficaram na cidade (porque só estes restaram de tão grande número que havia em Israel, porque os outros foram consumidos) e, mandando estes, poderemos descobrir o que há.  
 **14** Tomaram, pois, dois carros com os seus cavalos, e o rei mandou (gente) seguir os dos Sírios, dizendo: Ide e vede.  
 **15** Eles foram em busca dos Sírios, até ao Jordão, e acharam que todo o caminho estava cheio de vestes e de armas, que os Sírios tinham arrojado na sua precipitação. Os mensageiros, voltando, deram conta ao rei.  
 **16** Então o povo saiu e saqueou o acampamento dos Sírios. Uma medida de flor de farinha foi vendida por um siclo, e duas medidas de cevada por um siclo, conforme a palavra do Senhor.  
@@ -339,7 +339,7 @@
 **9** Os centuriões executaram tudo o que o pontífice Jojada lhes tinha ordenado; tomando cada um os seus homens, tanto os que começavam, ao sábado, o seu serviço como os que o terminavam, e foram ter com o pontífice Jojada,  
 **10** o qual lhes deu as lanças e as armas do rei Davide, que estavam na casa do Senhor.  
 **11** Puseram-se, pois, cada um com as armas na mão em volta do rei, desde o lado direito do templo até ao lado esquerdo do altar e do templo.  
-**12** Jojada apresentou-Ihes o filho do rei, pôs-lhe sobre a cabeça o diadema, entregou-lhe o livro da lei, e eles o proclamaram rei e o ungiram e, dando palmas, disseram: Viva o rei.  
+**12** Jojada apresentou-lhes o filho do rei, pôs-lhe sobre a cabeça o diadema, entregou-lhe o livro da lei, e eles o proclamaram rei e o ungiram e, dando palmas, disseram: Viva o rei.  
 **13** Atalia ouviu o clamor do povo que concorria e, entrando por entre a multidão no templo do Senhor,  
 **14** viu o rei sentado no trono, segundo o costume, e junto dele os cantores e trombetas, e todo o povo do país muito alegre, ao som das trombetas. Então ela rasgou os seus vestidos e gritou: Traição, traição!  
 **15** Mas Jojada ordenou aos centuriões, que comandavam as tropas: Levai-a para fora do recinto do templo; qualquer que a seguir, morra à espada. Com efeito, o pontífice tinha dito: Não seja morta dentro do templo do Senhor.  
@@ -381,7 +381,7 @@
 **3** Acendeu-se o furor do Senhor contra os israelitas, que entregou durante todo este tempo nas mãos de Hazael, rei da Síria, e nas mãos de Benadad, filho de Hazael.  
 **4** Mas Joacaz fez a sua oração diante da face do Senhor e o Senhor ouviu-o, pois viu a aflição de Israel, porque o rei da Síria tinha-os oprimido.  
 **5** E o Senhor deu um salvador aos israelitas. Libertados (por tal salvador) da mão do rei da Síria, os filhos de Israel habitaram nas suas tendas como dantes.  
-**6** Todavia, não se apartaram dos pecados da casa de Jeroboão, que tinha feito pecar Israel, mas caminharam neles, porque até o ídolo de Astar te permaneceu em Samaria.  
+**6** Todavia, não se apartaram dos pecados da casa de Jeroboão, que tinha feito pecar Israel, mas caminharam neles, porque até o ídolo de Astarte permaneceu em Samaria.  
 **7** Da gente (de guerra) não tinham ficado a Joacaz senão cinquenta cavalos, dez carros e dez mil homens de pé, porque o rei da Síria lhe tinha aniquilado o resto e reduzido ao estado do pó que se calca.  
 **8** Quanto ao resto das ações de Joacaz, a todos os seus feitos, ao seu valor, não estão estas coisas escritas no livro das Crónicas dos reis de Israel?  
 **9** Joacaz adormeceu com seus pais, e sepultaram-no em Samaria. Joás, seu filho, reinou em seu lugar.  
@@ -428,7 +428,7 @@
 **22** Ele reedificou Elat e restituiu-a a Judá, depois que o rei adormeceu com seus pais.  
 **23** No décimo quinto ano de Amasias, filho de Joás, rei de Judá, reinou em Samaria Jeroboão, filho de Joás, rei de Israel, durante quarenta e um anos.  
 **24** Fez o mal diante do Senhor: não se apartou de nenhum pecado de Jeroboão, filho de Nabat, que tinha feito pecar Israel.  
-**25** Restabeleceu os limites de Israel, (reconquistando) desde a entrada de Emat até ao luar do deserto, conforme a palavra do Senhor Deus de Israel, pronunciada por seu servo o profeta Jonas, filho de Amati, que era natural de Get, (cidade) que está em Ofer.  
+**25** Restabeleceu os limites de Israel, (reconquistando) desde a entrada de Emat até ao mar do deserto, conforme a palavra do Senhor Deus de Israel, pronunciada por seu servo o profeta Jonas, filho de Amati, que era natural de Get, (cidade) que está em Ofer.  
 **26** O Senhor viu a amargosíssima aflição de Israel, que a todos tinha consumido, escravos ou livres, de modo que não havia quem socorresse Israel.  
 **27** Nem o Senhor tinha decretado que apagaria o nome de Israel de sob o céu.  
 **28** Quanto ao resto da história de Jeroboão, às suas ações e empreendimentos guerreiros, à forma como reconquistou para Israel (as cidades de) Damasco e Emat (que tinham sido) de Judá, não está tudo isto escrito no livro das Crónicas dos reis de Israel?  
@@ -445,7 +445,7 @@
 **7** Azarias adormeceu com seus pais, e sepultaram-no com os seus maiores na cidade de Davide. Joatão, seu filho, reinou em seu lugar.  
 **8** No ano trinta e oito de Azarias, rei de Judá, reinou Zacarias, filho de Jeroboão, sobre Israel, em Samaria, durante seis meses.  
 **9** Fez o que era mau diante do Senhor, como tinham feito seus pais; não se apartou dos pecados de Jeroboão, filho de Nabat, que tinha feito pecar Israel.  
-**10** Conjurou-se contra ele Selum, filho de Jabes, e atacou-o publicamente, dando-Ihe a morte. Reinou em seu lugar.  
+**10** Conjurou-se contra ele Selum, filho de Jabes, e atacou-o publicamente, dando-lhe a morte. Reinou em seu lugar.  
 **11** Quanto ao resto das ações de Zacarias, não estão elas escritas no livro das Crónicas dos reis de Israel?  
 **12** Assim se cumpriu o que o Senhor tinha dito a Jeú: Teus filhos estarão sentados sobre o trono de Israel até á quarta geração. Assim sucedeu.  
 **13** No ano trinta e nove de Azarias, rei de Judá, reinou Selum, filho de Jabes. Reinou somente durante um mês em Samaria.  
@@ -460,7 +460,7 @@
 **22** Manaem adormeceu com seus pais, e Faceias, seu filho, reinou em seu lugar.  
 **23** No ano cinquenta de Azarias, rei de Judá, Faceias, filho de Manaem, reinou sobre Israel, em Samaria, durante dois anos.  
 **24** Fez o que era mau diante do Senhor; não se apartou dos pecados de Jeroboão, filho de Nabat, que tinha feito pecar Israel.  
-**25** Faceia, filho de Romelia, general das suas tropas, fez uma conjuração contra ele, feriu-o em Samaria, na torre da casa real, junto de Argobe de Arie, tendo com ele cinquenta homens dos filhos de Galaaditas, e matou-o, ficando a reinar em seu lugar.  
+**25** Faceia, filho de Romelia, general das suas tropas, fez uma conjuração contra ele, feriu-o em Samaria, na torre da casa real, junto de Argob e de Arie, tendo com ele cinquenta homens dos filhos de Galaaditas, e matou-o, ficando a reinar em seu lugar.  
 **26** Quanto ao resto das ações de Faceias, a tudo o que ele fez, não está isso escrito no livro das Crónicas dos reis de Israel?  
 **27** No ano cinquenta e dois de Azarias, rei de Judá, Faceia, filho de Romelia, reinou sobre Israel em Samaria durante vinte anos.  
 **28** Fez o que era mau diante do Senhor; não se apartou dos pecados de Jeroboão, filho de Nabat, que tinha feito pecar Israel.  
@@ -493,7 +493,7 @@
 **14** O altar de bronze, que estava na presença do Senhor, transportou-o de diante do templo, entre o altar novo e o templo do Senhor, e pô-lo no norte do altar novo.  
 **15** O rei Acaz ordenou também ao pontífice Urias: Oferece sobre o altar-mór o holocausto de manhã, o sacrifício da tarde, o holocausto do rei e o seu sacrifício, o holocausto de todo o povo da terra, os seus sacrifícios e as suas libações, e derramarás sobre ele todo o sangue do holocausto e todo o sangue da vítima; quanto ao altar de bronze estará pronto à minha disposição.  
 **16** O pontífice Urias fez, pois, tudo aquilo que o rei Acaz tinha ordenado.  
-**17** Tirou também o rei Acaz as bases entalhadas e a bacia, que estava em cima; tirou o mar de bronze de cima dos bois de bronze, que o sustinham, e pô-Io sobre um suporte de pedra.  
+**17** Tirou também o rei Acaz as bases entalhadas e a bacia, que estava em cima; tirou o mar de bronze de cima dos bois de bronze, que o sustinham, e pô-lo sobre um suporte de pedra.  
 **18** Tirou, além disso, o pórtico do sábado, que se tinha mandado fazer no templo do Senhor, e mudou a entrada exterior do rei, para agradar ao rei dos Assírios.  
 **19** O resto das ações de Acaz não está escrito no livro das Crónicas dos reis de Judá?  
 **20** Acaz adormeceu com seus pais, e foi sepultado com eles na cidade de Davide. Em seu lugar reinou seu filho Ezequias.  
@@ -509,7 +509,7 @@
 **7** Sucedeu que, tendo os filhos de Israel pecado contra o Senhor seu Deus, que os tinha tirado da terra do Egito, do poder de Faraó, rei do Egito, adoraram deuses estranhos.  
 **8** Caminharam segundo os costumes das gentes que o Senhor tinha exterminado diante dos filhos de Israel, e (segundo os costumes) dos reis de Israel, que tinham feito o mesmo.  
 **9** Os filhos de Israel ofenderam o Senhor seu Deus, com ações más, e edificaram para si (altares nos) lugares altos em todas as suas cidades, desde as torres de guarda até às cidades fortes.  
-**10** Fizeram para si estátuas e ascherim sobre rodos os mais altos outeiros e debaixo de todas as árvores frondosas:  
+**10** Fizeram para si estátuas e ascherim sobre todos os mais altos outeiros e debaixo de todas as árvores frondosas:  
 **11** ali queimavam incenso sobre os altares, à maneira das gentes, que o Senhor tinha levado para longe, da sua presença; praticaram ações criminosíssimas, irritaram o Senhor,  
 **12** adorando ídolos que o Senhor expressamente lhes tinha proibido de fazer.  
 **13** O Senhor tinha protestado em Israel e em Judá por meio de todos os seus profetas e videntes, dizendo: Voltai dos vossos caminhos corrompidos, guardai os meus preceitos e cerimónias, conforme todas as leis, que eu prescrevi a vossos pais, e do mesmo modo que vo-lo tenho declarado pelos profetas, meus servos.  
@@ -547,7 +547,7 @@
 **1** No terceiro ano de Oseias, filho de Ela, rei de Israel, reinou Ezequias, filho de Acaz, rei de Judá.  
 **2** Tinha vinte e cinco anos quando começou a reinar, e reinou vinte e nove anos em Jerusalém. Sua mãe chamava-se Abi, filha de Zacarias.  
 **3** Ele fez o que era bom na presença do Senhor, segundo tudo o que tinha feito Davide, seu pai.  
-**4** Destruiu os lugares altos, quebrou as estátuas, cortou aschera e fez em pedaços a serpente de metal que Moisés tinha fabricado, porque os filhos de Israel até então tinham-Ihe queimado incenso, e chamou-a Noestan (isto é, um simples objeto de bronze).  
+**4** Destruiu os lugares altos, quebrou as estátuas, cortou aschera e fez em pedaços a serpente de metal que Moisés tinha fabricado, porque os filhos de Israel até então tinham-lhe queimado incenso, e chamou-a Noestan (isto é, um simples objeto de bronze).  
 **5** Pôs a sua esperança no Senhor Deus de Israel; por isso, depois dele, não houve, dentre todos os reis de Judá quem lhe fosse semelhante, assim como o não tinha havido entre aqueles que o precederam.  
 **6** Conservou-se unido ao Senhor, não se apartou dos seus caminhos, observou os mandamentos que o Senhor tinha dado a Moisés.  
 **7** Por isso o Senhor era com ele, e conduzia-se com sabedoria em todas as coisas que empreendia. Revoltou-se contra o rei dos Assírios e deixou de lhe estar sujeito.  
@@ -610,7 +610,7 @@
 **24** Cavei. E bebi águas estrangeiras, sequei com as plantas dos meus pés todos os rios do Egito.  
 **25** Tu não ouviste dizer o que eu fiz desde o princípio? Desde os dias antigos eu formei este projeto, e agora o executo; as cidades fortes dos combatentes são um montão de ruínas.  
 **26** Os que nelas habitam, ficando sem forças, atemorizam-se e confundem-se, tornam-se como o feno dos campos, como a erva verde dos telhados, que se seca antes de amadurecer.  
-**27** Eu previa tua habitação, a tua saída, a tua entrada e o teu caminho, conheço o teu furor contra mim.  
+**27** Eu previ a tua habitação, a tua saída, a tua entrada e o teu caminho, conheço o teu furor contra mim.  
 **28** Ficaste furioso contra mim, e a tua soberba subiu até aos meus ouvidos. Eu te porei pois o meu anel nos teus narizes, o meu freio nos teus lábios, e te farei voltar pelo caminho por onde vieste.  
 **29** Tu, porém, ó Ezequias, terás este sinal: Come neste ano o que encontrares, e no segundo ano o que nascer por si mesmo: mas no terceiro semeai e recolhei, plantai vinhas e comei os frutos delas.  
 **30** O que ficar da casa de Judá, lançará raízes para baixo, e produzirá o seu fruto para cima.  
@@ -636,7 +636,7 @@
 **10** Ezequias disse: É fácil que a sombra se adiante dez graus; não quero que se faça isto, mas que volte atrás dez graus.  
 **11** O profeta Isaías invocou, pois, o Senhor, e fez que a sombra voltasse pelas linhas, pelas quais já tinha passado no relógio de Acaz, dez graus atrás.  
 **12** Naquele tempo Berodac Baladan, filho de Baladan, rei dos Babilónios, enviou uma carta e presentes a Ezequias, porque tinha sabido que Ezequias tinha estado doente.  
-**13** Ezequias alegrou-se com a sua vinda, e mostrou-lhes a casa dos aromas, o ouro e a prata, os aramas, os unguentos, o seu arsenal e tudo o que tinha em seus tesouros. Não houve nada em seu palácio, nem coisa que fosse sua, que Ezequias não lhe mostrasse.  
+**13** Ezequias alegrou-se com a sua vinda, e mostrou-lhes a casa dos aromas, o ouro e a prata, os aromas, os unguentos, o seu arsenal e tudo o que tinha em seus tesouros. Não houve nada em seu palácio, nem coisa que fosse sua, que Ezequias não lhe mostrasse.  
 **14** O profeta Isaías foi ter com o rei Ezequias e disse-lhe: Que te disseram estes homens? Donde vieram eles para te falar? Ezequias respondeu-lhe: vieram ver-me dum país muito remoto de Babilónia.  
 **15** Ele respondeu: Que viram eles em tua casa? Ezequias disse: Viram tudo quanto há no meu palácio; não há nada nos meus tesouros que eu lhes não mostrasse.  
 **16** Então Isaías disse a Ezequias: Ouve a palavra do Senhor;  
@@ -688,7 +688,7 @@
 **9** O secretário Safan voltou ao rei, deu-lhe conta do que lhe tinha sido mandado, e disse: Os teus servos juntaram o dinheiro que se achou na casa do Senhor, e entregaram-no aos superintendentes das obras do templo do Senhor, a fim de o distribuirem pelos operários.  
 **10** O secretário Safan disse mais ao rei; O pontífice Helcias deu-me um livro. Safan leu-o diante do rei,  
 **11** e o rei ao ouvir as palavras do livro da lei do Senhor, rasgou as suas vestes.  
-**12** E ordenou ao pontífice Helcias, a Aicão, filho de Safan, a Acobor, filho de Milica, a Safan, secretário, e a Asaias, oficial do rei, o seguinte:  
+**12** E ordenou ao pontífice Helcias, a Aicão, filho de Safan, a Acobor, filho de Mica, a Safan, secretário, e a Asaias, oficial do rei, o seguinte:  
 **13** Ide e consultai o Senhor acerca de mim, e do povo, e de todo o Judá, sobre as palavras deste livro que se achou, porque a ira do Senhor se acendeu grandemente contra nós, porque os nossos pais não ouviram as palavras deste livro, nem puseram em execução tudo o que nos fora prescrito.  
 **14** O pontífice Helcias, Aicão, Acobor, Safan e Asaias, foram ter com a profetiza Holda, mulher de Selum, filho de Tecua, filho de Araaz, guarda-roupa, a qual habitava em Jerusalém, no segundo bairro, e falaram com ela.  
 **15** Ela respondeu-lhes: Eis o que diz o Senhor Deus de Israel: Dizei ao homem que vos mandou ter comigo:  
@@ -701,14 +701,14 @@
 ## Capítulo 23
 
 **1** Eles referiram ao rei o que a profetiza tinha dito. O rei mandou juntar em sua presença todos a anciães de Judá e de Jerusalém  
-**2** e foi a o templo do Senhor, com todos os homens de Judá e todos os que habitavam em Jerusalém, os sacerdotes e os profetas, e todo o povo, desde o mais pequeno ao maior, e leu, ouvindo todos eles, todas as palavras do livro da aliança, que tinha sido achado na casa do Senhor.  
+**2** e foi ao templo do Senhor, com todos os homens de Judá e todos os que habitavam em Jerusalém, os sacerdotes e os profetas, e todo o povo, desde o mais pequeno ao maior, e leu, ouvindo todos eles, todas as palavras do livro da aliança, que tinha sido achado na casa do Senhor.  
 **3** O rei pôs-se em pé sobre a tribuna e fez a aliança, diante do Senhor, de que (todos) andariam pelo caminho do Senhor e observariam os seus preceitos, ordenações e cerimónias, de todo o seu coração e com toda a sua alma, cumprindo as palavras desta aliança, que estavam escritas naquele livro. O povo concordou com este pacto.  
 **4** A seguir, o rei mandou ao pontífice Helcias, aos sacerdotes da segunda ordem e aos porteiros, que lançassem fora do templo do Senhor todos os vasos que tinham sido feitos para Baal, para Astarte e para toda a milícia do céu; queimou-os fora de Jerusalém, no vale do Cedron, e fez levar as suas cinzas para Betel.  
 **5** Exterminou os agoureiros, que tinham sido constituídos pelos reis de Judá para sacrificarem nos lugares altos nas cidades de Judá e nos arredores de Jerusalém, assim como os que queimavam incenso a Baal, ao sol, à lua, aos doze signos e a toda a milícia do céu.  
 **6** Mandou que se levasse o ídolo de Astarte da casa do Senhor para fora de Jerusalém, para o vale do Cedron; queimou-o aí, reduziu-o a cinzas, e mandou-as lançar sobre os sepulcros do povo.  
 **7** Derrubou os lugares de prostituição idolátrica, que havia na casa do Senhor, e nos quais as mulheres teciam uns como pavilhões para Astarte.  
 **8** Juntou todos os sacerdotes das cidades de Judá e profanou os altos, onde os sacerdotes sacrificavam, desde Gabaa até Bersabé, e destruiu os altares das portas à entrada da casa de Josué, governador da cidade, que ficava à esquerda da porta da cidade.  
-**9** Nem os sacerdotes dos altos (dali em diante) subiam ao altar do Senhor em Jerusalém, mas comiam semente do pão ázimo o no meio de seus irmãos.  
+**9** Nem os sacerdotes dos altos (dali em diante) subiam ao altar do Senhor em Jerusalém, mas comiam semente do pão ázimo no meio de seus irmãos.  
 **10** Profanou também o lugar de Tofet, que está no vale do filho de Enom, para que ninguém sacrificasse seu filho ou filha pelo fogo a Moloc.  
 **11** Tirou também os cavalos que os reis de Judá tinham consagrado ao sol, à entrada do templo do Senhor, perto da pousada do eunuco Natanmelec, que estava em Farurim, e queimou os carros do sol.  
 **12** O rei destruiu também os altares que estavam sobre o terraço da câmara de Acaz, os quais os reis de Judá tinham feito, e os altares que Manassés tinha construído nos dois átrios do templo do Senhor; e correu daí, e lançou as cinzas deles na torrente do Cedron.  
@@ -730,7 +730,7 @@
 **28** O resto das ações de Josias, tudo o que ele fez, está escrito no livro das Crónicas dos reis de Judá.  
 **29** No seu reinado, o Faraó Necao, rei do Egito, marchou contra o rei dos Assírios, para a banda do Eufrates. O rei Josias foi-lhe ao encontro, mas foi morto em Magedo, logo que (Necao) o viu.  
 **30** Seus servos levaram-no morto de Magedo e transportaram-no a Jerusalém, onde o sepultaram no seu sepulcro. O povo do país tomou Joacaz, filho de Josias, ungiu-o e constituiu-o rei, em lugar de seu pai.  
-**31** Tinha Joacaz vinte e três anos, quando começou reinar, e reinou três meses em Jerusalém. Sua mãe chamava-se Amital, filha de Jeremias, de Lobna.  
+**31** Tinha Joacaz vinte e três anos, quando começou a reinar, e reinou três meses em Jerusalém. Sua mãe chamava-se Amital, filha de Jeremias, de Lobna.  
 **32** Ele fez o mal diante do Senhor, segundo tudo o que tinham feito seus pais.  
 **33** O Faraó Necao prendeu-o em Rebla, que está no país de Emat, para que ele não reinasse em Jerusalém, e impôs ao país a contribuição de cem talentos de prata e dum talento de ouro.  
 **34** O Faraó Necao constituiu rei a Eliacim, filho de Josias, para reinar em lugar de Josias, seu pai, e mudou-lhe o nome em Joaquim. Quanto a Joacaz, conduziu-o ao Egito onde morreu.  
@@ -780,7 +780,7 @@
 **15** O general do exército levou também os turíbulos e os copos, tudo quanto era de ouro e tudo quanto era de prata.  
 **16** Quanto às duas colunas, ao mar de bronze e às bases que Salomão tinha feito no templo do Senhor, o peso do seu bronze era incalculável.  
 **17** Cada coluna tinha dezoito côvados de altura, e, em cima, um capitel de bronze de três côvados de alto; sobre o capitel da coluna, uma (espécie de) rede e romãs, tudo de bronze; a segunda coluna tinha os mesmos ornatos.  
-**18** O general do exército Ievou também Saraias primeiro sacerdote, e Sofonias, segundo sacerdote, e três porteiros.  
+**18** O general do exército levou também Saraias primeiro sacerdote, e Sofonias, segundo sacerdote, e três porteiros.  
 **19** Levou um eunuco apanhado na cidade, que comandava a gente de guerra, e cinco homens dos que assistiam ao rei, os quais encontrou na cidade, e Sofer, inspetor do exército, que exercitava os soldados bisonhos do povo do país, e sessenta homens do povo, que foram encontrados na cidade.  
 **20** Tomando-os Nabuzardan, general do exército, levou-os ao rei de Babilónia a Reblata.  
 **21** O rei de Babilónia matou-os em Reblata, no país de Emat. Assim Judá foi deportado do seu país.  

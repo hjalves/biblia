@@ -152,7 +152,7 @@
 **30** Enquanto estas coisas se passavam, aconteceu excitarem os de Tarso e os de Maio uma sedição, por terem sido dadas estas cidadelas a Antioquides, concubina do rei.  
 **31** Foi lá, pois, o rei a toda a pressa apaziguá-los, tendo deixado por seu lugar-tenente um dos grandes da sua corte, chamado Andronico.  
 **32** Menelau, persuadido de que esta ocasião lhe era favorável, tendo furtado do templo alguns vasos de ouro, deu parte deles a Andronico e vendeu os outros em Tiro e nas cidades vizinhas.  
-**33** Tendo Onias sabido isto com toda a clareza, repreendeu Menelau, conservando-se, entretanto, refugiada perto de Antioquia, num lugar de asilo, em Dafné.  
+**33** Tendo Onias sabido isto com toda a clareza, repreendeu Menelau, conservando-se, entretanto, refugiado perto de Antioquia, num lugar de asilo, em Dafné.  
 **34** Por esta causa, indo Menelau ter particularmente com Andronico, rogava-lhe que matasse Onias. Foi, pois, Andronico visitar Onias, e depois de o haver persuadido, dando-lhe a dextra com juramento (se bem que Onias o tinha por suspeito), a que saísse daquele asilo, o matou logo, sem nenhuma atenção à justiça.  
 **35** Não somente os Judeus, mas também muitos pagãos ficaram indignados e irritados pela injusta morte deste varão.  
 **36** Quando o rei voltou da Cilícia, foram ter com ele a Antioquia os Judeus e juntamente os Gregos, inimigos da violência, queixando-se desta ilegal morte de Onias.  
@@ -182,7 +182,7 @@
 **7** Todavia não lhe foi possível apoderar-se do poder, mas recebeu a confusão como fruto da sua perfídia e retirou-se fugitivo outra vez para a terra dos Amonitas.  
 **8** Por fim, apertado por Aretas, rei dos Árabes, fugindo de cidade em cidade, aborrecido de todos, detestado como violador das leis, execrando como carrasco da pátria e dos concidadãos, foi empurrado para o Egito.  
 **9** Aquele que tinha lançado fora da sua terra tantas pessoas, pereceu longe da sua pátria, levado para a Lacedemónia pela esperança de achar lá algum refúgio por causa do parentesco.  
-**10** Ele, que tinha deixado os corpos de muitos sem sepultara, não foi chorado nem sepultado, não achando sequer um lugar no túmulo de seus pais.  
+**10** Ele, que tinha deixado os corpos de muitos sem sepultura, não foi chorado nem sepultado, não achando sequer um lugar no túmulo de seus pais.  
 **11** Ao conhecer tais acontecimentos, o rei pensou que os Judeus abandonariam a aliança feita com ele, e, por isso, tendo voltado do Egito com o ânimo enfurecido, tomou a cidade pelas armas.  
 **12** Mandou aos soldados que ferissem sem piedade, todos os que lhes caíssem nas mãos, e que, entrando nas casas, fizessem matança dos que aí se refugiassem.  
 **13** Houve, pois, uma grande mortandade de jovens e velhos, um massacre de mulheres e de crianças, de donzelas e de meninos de peito.  
@@ -340,7 +340,7 @@
 **17** e, além disso, fazer-se judeu e percorrer todos os lugares da terra proclamando neles o poder de Deus.  
 **18** Mas não cessavam as suas dores, porque o justo juízo de Deus tinha enfim caído sobre ele. Então, desesperado, escreveu aos Judeus, em forma de súplica, uma carta, que continha o seguinte:  
 **19** Aos Judeus, excelentes cidadãos, o rei e general Antíoco (deseja) saúde, bem-estar e toda a prosperidade.  
-**20** Se vós e vossos filhos passais bem, e se vos sucedem todas as coisas como desejais, rendo por isso multas graças a Deus, em quem ponha a minha esperança.  
+**20** Se vós e vossos filhos passais bem, e se vos sucedem todas as coisas como desejais, rendo por isso muitas graças a Deus, em quem ponha a minha esperança.  
 **21** Quanto a mim, prostrado sem forças, no meu leito, lembro-me, com satisfação, das provas de respeito e benquerença que me haveis dado. Nesta grande doença que me surpreendeu ao voltar das regiões da Pérsia, julguei necessário cuidar da segurança de todos,  
 **22** embora não porque desespere da minha cura, pois, pelo contrário, tenho grande confiança de me restabelecer.  
 **23** (O caso é que) considerei como meu pai, quando capitaneava o seu exército nas províncias superiores, designou quem havia de reinar depois dele,  
@@ -413,7 +413,7 @@
 **17** João e Absalão, que me enviastes, ao entregar-me as vossas cartas, pediram-me que cumprisse as cláusulas que nelas se continham.  
 **18** Expus ao rei tudo o que se lhe podia representar, e ele concordou naquilo que as circunstâncias permitiam,  
 **19** Se, portanto, fordes fiéis ao rei nos vossos tratados, eu também daqui em diante me empenharei em vos fazer todo o bem que puder.  
-**20** Pelo que toca a centos pormenores, dei explicações tanto aos que vós me enviastes, como aos que vos envio, para tratarem oralmente convosco.  
+**20** Pelo que toca a certos pormenores, dei explicações tanto aos que vós me enviastes, como aos que vos envio, para tratarem oralmente convosco.  
 **21** Tende boa saúde. Ano cento e quarenta e oito, aos vinte e quatro dias do mês de Dióscoro.  
 **22** A carta do rei continha o seguinte: O rei Antíoco, a Lísias, seu irmão, saúde.  
 **23** Tendo sido o rei nosso pai trasladado para entre os deuses, e desejando nós que os que estão no nosso reino vivam em paz e se apliquem com cuidado aos seus negócios,  
@@ -445,7 +445,7 @@
 **8** Mas, tendo sabido que também os de Jâmnia queriam fazer do mesmo modo aos Judeus que viviam entre eles,  
 **9** surpreendeu igualmente de noite os Jamnitas e queimou-lhes o porto com as suas embarcações, de sorte que o clarão do fogo se via em Jerusalém, ficando ela à distância de duzentos e quarenta estádios.  
 **10** Quando tinha já andado nove estádios, avançando contra Timóteo, atacaram-no os Árabes, em número de cinco mil infantes e quinhentos cavaleiros.  
-**11** Travou-se um rijo combate, com bom sucesso para as tropas de Judas, por auxílio de Deus. Os Árabes, vendo-se vencidos, pediam a Judas que se compusesse com eles, prometendo que Ihe dariam gado e lhe assistiriam em tudo o mais.  
+**11** Travou-se um rijo combate, com bom sucesso para as tropas de Judas, por auxílio de Deus. Os Árabes, vendo-se vencidos, pediam a Judas que se compusesse com eles, prometendo que lhe dariam gado e lhe assistiriam em tudo o mais.  
 **12** Judas, crendo que eles efetivamente lhe podiam ser úteis em muitas coisas, prometeu-lhes a paz. Concluído o tratado, os Árabes voltaram para as suas tendas.  
 **13** Atacou ainda uma cidade forte, chamada Caspin, cercada de muros, na qual habitava uma mistura de diversas nações.  
 **14** Os que estavam dentro, confiados na firmeza dos seus muros e na provisão que tinham de víveres, insultavam os de Judas com ditos grosseiros e proferiam blasfémias e palavras ímpias.  
@@ -505,7 +505,7 @@
 **19** Fez pôr cerco diante de Betsur, praça forte dos Judeus, mas foi rechaçado e ficou diminuído.  
 **20** Entretanto Judas mandava aos sitiados o que lhes era necessário.  
 **21** Porém, um certo Rodoco, do exército dos Judeus, descobriu aos inimigos segredos (da defesa dos do seu lado) mas, depois de reconhecido, foi apanhado e metido em prisão.  
-**22** Então o rei parlamentou novamente com os que estavam em Betsur, deu-Ihes a sua mão (ou a paz), recebeu a deles e retirou-se.  
+**22** Então o rei parlamentou novamente com os que estavam em Betsur, deu-lhes a sua mão (ou a paz), recebeu a deles e retirou-se.  
 **23** Pelejou contra Judas, mas foi vencido. Mas, tendo sabido que Filipe, que tinha sido deixado como superintendente dos negócios, se havia revoltado em Antioquia, ficou consternado. Apresentou propostas aos Judeus, submeteu-se e jurou guardar todas as condições justas; depois desta reconciliação, ofereceu um sacrifício, honrou o templo e fez-lhe presentes.  
 **24** Acolheu muito bem a Macabeu e declarou-o governador militar desde a Ptolemaida até aos Gerrénios.  
 **25** Quando chegou a Ptolemaida, estavam os Ptolemenses num grande descontentamento por causa daquele tratado (de amizade feito com os Judeus) mostrando a sua indignação e pretendendo rejeitar as condições.  
@@ -520,7 +520,7 @@
 **5** Mas achou ocasião oportuna de executar o seu louco intento, quando chamado por Demétrio ao conselho, foi interrogado sobre quais as disposições e projetos dos Judeus.  
 **6** Respondeu: Aqueles de entre os Judeus, chamados Assideus, de que Judas Macabeu é o chefe, fomentam guerras e sedições, e não sofrem que o reino esteja em paz.  
 **7** Até eu mesmo, despojado da glória que tinha recebido de meus pais, quero dizer, do sumo sacerdócio, vim ter aqui,  
-**8** primeiramente para guardar a fidelidade que devo ao rei, no tocante aos seus interesses, e em segundo lugar para negociar também o bem-estar dos meus compatriotas, porque toda a nossa nação está multo prejudicada por causa dos excessos daqueles homens.  
+**8** primeiramente para guardar a fidelidade que devo ao rei, no tocante aos seus interesses, e em segundo lugar para negociar também o bem-estar dos meus compatriotas, porque toda a nossa nação está muito prejudicada por causa dos excessos daqueles homens.  
 **9** Quando, pois, é rei, te informares de todas estas coisas, olha pelos Interesses tanto da nossa terra, como da nossa nação, conforme a tua bondade por todos já tão conhecida.  
 **10** Enquanto Judas viver, é impossível que haja paz no Estado.  
 **11** Depois que Alcimo assim falou, os outros amigos (do rei), que eram inimigos declarados de Judas, inflamaram ainda mais Demétrio contra ele.  
@@ -549,7 +549,7 @@
 **34** Ditas estas coisas, foi-se embora. Os sacerdotes então, levantando as mãos ao céu, invocavam aquele (Senhor) que sempre se tinha declarado protetor do nosso povo, dizendo assim:  
 **35** Senhor de todo o universo, que de nada necessitas, quiseste que se edificasse um templo para tua habitação no meio de nós.  
 **36** Agora, pois. Senhor, santo de toda a santidade, conserva para sempre livre de profanação esta casa, que há pouco foi purificada.  
-**37** Sucedeu também que foi acusado diante de Nicanor um dos anciães de Jerusalém, chamado Bazis, homem que amava os seus concidadãos, que era multo considerado e chamado o pai dos Judeus, pelo afeto que lhes tinha.  
+**37** Sucedeu também que foi acusado diante de Nicanor um dos anciães de Jerusalém, chamado Bazis, homem que amava os seus concidadãos, que era muito considerado e chamado o pai dos Judeus, pelo afeto que lhes tinha.  
 **38** Este, já de tempos atrasados, quando se fazia resistência ao contacto com os pagãos, fora acusado de judaísmo, pronto a entregar por ele o seu corpo e a sua vida, constantemente.  
 **39** Querendo Nicanor mostrar o ódio que tinha aos Judeus, mandou quinhentos soldados para o prender,  
 **40** pois tinha para si que, se prendesse este homem, causaria um grandíssimo estrago aos Judeus.  
@@ -589,7 +589,7 @@
 **25** Entretanto Nicanor e o seu exército aproximavam-se ao som de trombetas e de canções guerreiras.  
 **26** Judas, porém, e os que vinham com ele, invocando a Deus com as suas orações, deram sobre os inimigos.  
 **27** Assim, pelejando com a mão e orando ao Senhor no fundo de seus corações, mataram não menos que trinta e cinco mil homens, sentindo-se cheios de alegria pelo manifesto auxílio de Deus.  
-**28** Concluído o combate, no tempo que voltavam júbilo, souberam que Nicanor tinha caído morto, coberto com a sua armadura.  
+**28** Concluído o combate, no tempo que voltavam com júbilo, souberam que Nicanor tinha caído morto, coberto com a sua armadura.  
 **29** Por isso, levantando uma grande gritaria e ruído, deram graças ao Senhor Todo-Poderoso na língua de seus pais.  
 **30** Judas, que estava sempre pronto, de corpo e alma, a dar a vida pelos seus compatriotas, mandou que cortassem a cabeça a Nicanor, e a sua mão com o braço, e os levassem a Jerusalém.  
 **31** Tendo lá chegado, convocou os seus concidadãos e os sacerdotes, pôs-se junto do altar e chamou também os que estavam na cidadela.  

@@ -183,7 +183,7 @@
 **15** E, pegando na mão direita de sua filha, a pôs na mão direita de Tobias, dizendo: O Deus de Abraão, o Deus de Isaac o Deus de Jacob seja convosco, que ele mesmo vos ajunte e cumpra em vós a sua bênção.  
 **16** Depois, tomando papel, fizeram a escritura de casamento.  
 **17** Tomaram parte no banquete, bendizendo a Deus.  
-**18** Raguel chamou Ana, sua mulher, e ordenou-Ihe que preparasse outro aposento.  
+**18** Raguel chamou Ana, sua mulher, e ordenou-lhe que preparasse outro aposento.  
 **19** (Ana) introduziu lá Sara, sua filha, e pôs-se a chorar.  
 **20** E disse-lhe: Tem ânimo, minha filha; o Senhor do céu te encha de alegria pelos desgostos que tens sofrido.  
 
@@ -218,7 +218,7 @@
 
 **1** Então Tobias chamou a si o anjo, que ele julgava ser homem, e disse-lhe: Irmão Azarias, peço-te que ouças as minhas palavras.  
 **2** Ainda que eu me entregasse a ti por escravo, não poderia corresponder dignamente aos teus cuidados.  
-**3** Suplico-te, não obstante, que tomes contigo cavalgaduras e servos, e vás ter com Gabelo, a Ragés, cidade dos Medos. Entrega-Ihe o seu recibo, recebe dele o dinheiro e roga-lhe que venha à minha boda.  
+**3** Suplico-te, não obstante, que tomes contigo cavalgaduras e servos, e vás ter com Gabelo, a Ragés, cidade dos Medos. Entrega-lhe o seu recibo, recebe dele o dinheiro e roga-lhe que venha à minha boda.  
 **4** Tu bem sabes que meu pai conta os dias: se eu tardar um dia mais, a sua alma se contristará.  
 **5** Tu vês também como Raguel instou comigo, e que não posso desprezar as suas instâncias tão fortes.  
 **6** Então Rafael, tomando quatro criados de Raguel e dois camelos, foi à cidade de Ragés, na Média. Encontrando Gabelo, entregou-lhe o seu recibo, e recebeu dele todo o dinheiro.  
@@ -265,7 +265,7 @@
 **16** E glorificaram a Deus, ele, sua mulher e todos os que ó conheciam.  
 **17** Tobias dizia: Eu te bendigo. Senhor Deus de Israel, por me teres castigado e por me teres curado; eis que vejo o meu filho Tobias!  
 **18** Passados sete dias, chegou também Sara, mulher de seu filho, com todos os seus servidores, de boa saúde, com os rebanhos, os camelos, o grande dote do seu casamento e com o dinheiro restituído por Gabelo.  
-**19** Tobias contou a seus pais todos os benefícios que Deus Ihe tinha feito, por meio desse homem, que o conduzira.  
+**19** Tobias contou a seus pais todos os benefícios que Deus lhe tinha feito, por meio desse homem, que o conduzira.  
 **20** Aquior e Nabat, primos de Tobias, foram regozijar-se com Tobias, congratular-se com ele por todos os favores que Deus lhe tinha feito.  
 **21** Banqueteando-se durante sete dias, todos se regozijaram com a maior alegria.  
 
@@ -326,7 +326,7 @@
 **2** Tendo completado cento e dois anos, foi sepultado honorificamente em Ninive.  
 **3** Aos cinquenta e seis anos perdeu vista, e recobrou-a aos sessenta.  
 **4** O restante da sua vida passou-o na alegria; à medida que progredia no temor de Deus, aumentava a sua paz.  
-**5** A’ hora da morte, chamou à sua presença Tobias, seu filho, e sete jovens filhos deste, seus netos, e disse-Ihes:  
+**5** A’ hora da morte, chamou à sua presença Tobias, seu filho, e sete jovens filhos deste, seus netos, e disse-lhes:  
 **6** A ruína de Ninive está próxima, porque a palavra do Senhor não falta; os nossos irmãos, que foram dispersos para longe da terra de Israel, voltarão para ela.  
 **7** Todo o seu país deserto será repovoado, e a casa de Deus, que ali foi queimada, será reedificada. Para ela voltarão todos os que temem a Deus,  
 **8** e os gentios abandonarão os seus ídolos, virão a Jerusalém, habitarão nela,  
@@ -338,7 +338,7 @@
 **14** Tobias, depois da morte de sua mãe, saiu de Ninive com sua mulher e filhos, e os filhos de seus filhos, e voltou para casa de seus sogros.  
 **15** Encontrou-os ainda com saúde numa ditosa velhice; tomou cuidado deles, e ele mesmo lhes fechou os seus olhos. Tomou posse de toda a herança da casa de Raquel, viu os filhos de seus filhos até à quinta geração.  
 **16** Tendo vivido noventa e nove anos no temor do Senhor, sepultaram-no com alegria.  
-**17** Toda a sua parentela e toda a sua descendência perseveraram numa numa vida íntegra e num santo procedimento, modo que foram amados tanto por Deus como pelos homens e por todos os habitantes do país.
+**17** Toda a sua parentela e toda a sua descendência perseveraram numa vida íntegra e num santo procedimento, modo que foram amados tanto por Deus como pelos homens e por todos os habitantes do país.
 
 ---
 

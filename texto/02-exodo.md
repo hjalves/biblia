@@ -11,7 +11,7 @@
 **7** os filhos de Israel cresceram e multiplicaram-se: tendo-se tornado extremamente numerosos e fortes, encheram aquela terra.  
 **8** Entretanto levantou-se no Egito um novo rei, que não conhecia José,  
 **9** e disse ao seu povo: O povo dos filhos de Israel é mais numeroso e forte que nós.  
-**10** Vinde, oprimámo-Io com astúcia para que ele não se multiplique e para que, se sobrevier contra nós alguma guerra, se não una contra os nossos inimigos, e, depois de nos vencer; saia deste país.  
+**10** Vinde, oprimámo-lo com astúcia para que ele não se multiplique e para que, se sobrevier contra nós alguma guerra, se não una contra os nossos inimigos, e, depois de nos vencer; saia deste país.  
 **11** Portanto estabeleceu sobre eles inspetores de obras, para os oprimirem com trabalhos penosos; assim edificaram a Faraó, para servirem de armazéns, as cidades de Fitom e Ramessés.  
 **12** Mas, quanto mais os oprimiam, tanto mais se multiplicavam e cresciam.  
 **13** Os Egípcios odiavam os filhos de Israel e os afligiam com insultos,  
@@ -62,14 +62,14 @@
 **5** E (o Senhor) disse; Não te aproximes daqui; tira as sandálias de teus pés, porque o lugar em que estás, é uma terra santa.  
 **6** E acrescentou: Eu sou o Deus de teu pai, o Deus de Abraão, o Deus de Isaac e o Deus de Jacob. Cobriu Moisés o rosto, porque não ousava olhar para Deus.  
 **7** O Senhor disse-lhe: Eu vi a aflição do meu povo no Egito, ouvi o seu clamor causado pela crueza daqueles que têm a superintendência das obras.  
-**8** Conhecendo a sua dor, desceu para o livrar das mãos dos Egípcios e para o conduzir daquela terra para uma terra boa e espaçosa, para uma terra onde corre o leite e o mel, nas regiões do Cananeu, do Heteu, do Amorreu, do Ferezeu, do Heveu do Jebuseu.  
+**8** Conhecendo a sua dor, desceu para o livrar das mãos dos Egípcios e para o conduzir daquela terra para uma terra boa e espaçosa, para uma terra onde corre o leite e o mel, nas regiões do Cananeu, do Heteu, do Amorreu, do Ferezeu, do Heveu e do Jebuseu.  
 **9** O clamor, pois, dos filhos de Israel chegou até mim, e eu vi a aflição com que são oprimidos pelos Egípcios.  
 **10** Mas vem e eu te enviarei a Faraó, a fim de que tires do Egito o meu povo, os filhos de Israel.  
 **11** Moisés disse a Deus: Quem sou eu, para ir ter com Faraó e tirar os filhos de Israel do Egito?  
 **12** Deus disse-lhe: Eu serei contigo; terás isto por sinal de que eu te mandarei: Quando tiveres tirado o meu povo do Egito, oferecerás sacrifícios a Deus sobre este monte.  
 **13** Moisés disse a Deus; Eu irei aos filhos de Israel e lhes direi: O Deus de vossos pais enviou-me a vós. Porém, se eles me perguntarem qual o seu nome, que lhes hei-de responder?  
 **14** Deus disse a Moisés: Eu sou o que sou. E acrescentou: Assim dirás aos filhos de Israel; Aquele que é, enviou-me a vós.  
-**15** Deus disse novamente a Moisés: Dirás isto aos filhos de Israel: O Senhor Deus de vossos pais, o Deus de Abraão, o Deus de Isaac, o Deus de Jacob, enviou-me a vós; teste é o meu nome por toda a eternidade, e com este (nome) serei recordado de geração em geração.  
+**15** Deus disse novamente a Moisés: Dirás isto aos filhos de Israel: O Senhor Deus de vossos pais, o Deus de Abraão, o Deus de Isaac, o Deus de Jacob, enviou-me a vós; este é o meu nome por toda a eternidade, e com este (nome) serei recordado de geração em geração.  
 **16** Vai, ajunta os anciães de Israel e dize-lhes: O Senhor Deus de vossos pais apareceu-me, o Deus de Abraão, o Deus de Isaac, o Deus de Jacob, e disse: Eu vos visitei atentamente e vi tudo o que vos tem sucedido no Egito.  
 **17** Resolvi tirar-vos da opressão dos Egípcios e (conduzir-vos) à terra do Cananeu, do Heteu, do Amorreu do Ferezeu, do Heveu e do Jebuseu, a uma terra onde corre o leite e o mel.  
 **18** Eles ouvirão a tua voz, e tu com os anciães de Israel irás ao rei do Egito e lhe dirás: O Senhor Deus dos Hebreus chamou-nos; nós faremos viagem de três dias no deserto para sacrificarmos ao Senhor nosso Deus.  
@@ -217,7 +217,7 @@
 **14** Juntaram-nas em imensos montões, e a terra ficou infeccionada.  
 **15** Mas Faraó, vendo que lhe era dado alívio, endureceu o seu coração e não os ouviu, como o Senhor tinha mandado.  
 **16** O Senhor disse a Moisés: Dize a Aarão: Estende a tua vara, fere o pó da terra, e haja mosquitos em toda a terra do Egito.  
-**17** Eles fizeram assim. Aarão, pegando na vara, estendeu a mão, feriu o pó da terra, e os mosquitos caíram sobro os homens e sobre os animais; todo o pó da terra se converteu em mosquitos por toda a terra do Egito.  
+**17** Eles fizeram assim. Aarão, pegando na vara, estendeu a mão, feriu o pó da terra, e os mosquitos caíram sobre os homens e sobre os animais; todo o pó da terra se converteu em mosquitos por toda a terra do Egito.  
 **18** Os magos fizeram dum modo semelhante com os seus encantamentos para produzir mosquitos, e não puderam. Os mosquitos existiam, tanto sobre os homens, como sobre os animais.  
 **19** Então os magos disseram a Faraó: O dedo de Deus está aqui. Porém o coração de Faraó endureceu-se, e não os ouviu, como o Senhor tinha anunciado.  
 **20** O Senhor disse outra vez a Moisés; Levanta-te de madrugada, e apresenta-te a Faraó, quando ele sair para ir junto da água, e dize-lhe: Assim fala o Senhor: Deixa ir o meu povo, a fim de que me ofereça sacrifícios,  
@@ -418,7 +418,7 @@
 **18** Os Egípcios saberão que eu sou o Senhor, quando for glorificado em Faraó, nos seus carros e nos seus cavaleiros.  
 **19** O Anjo de Deus, que caminhava na frente do acampamento de Israel, levantou-se e foi para detrás deles; com ele, ao mesmo tempo, a coluna de nuvem, deixando a frente,  
 **20** parou detrás deles entre o acampamento dos Egípcios e o acampamento de Israel, e esta nuvem era tenebrosa (do lado dos Egípcios) e tornava clara a noite (do lado dos Israelitas), de sorte que uns e outros não puderam aproximar-se durante o tempo da noite.  
-**21** Tendo Moisés estendido a mão sobre o mar, o Senhor, soprando toda a noite um vento forte e ardente, o redrou e secou: e a água dividiu-se.  
+**21** Tendo Moisés estendido a mão sobre o mar, o Senhor, soprando toda a noite um vento forte e ardente, o retirou e secou: e a água dividiu-se.  
 **22** Os filhos de Israel entraram pelo meio do mar enxuto: a água estava como um muro à direita e à esquerda deles.  
 **23** Os Egípcios, que os perseguiam, entraram atrás deles pelo meio do mar, e toda a cavalaria de Faraó, os seus carros e cavaleiros.  
 **24** E já tinha chegado a vigília da manhã, quando o Senhor, olhando para o acampamento dos Egípcios por entre a coluna de fogo e de nuvem, perturbou o seu exército.  
@@ -541,7 +541,7 @@
 **19** Ouve as minhas palavras e conselhos, e Deus será contigo. Sê mediador do povo naquelas coisas que dizem respeito a Deus, para lhe expores os pedidos que lhe são dirigidos,  
 **20** e para ensinares ao povo as cerimónias e o modo de honrar a Deus, o caminho por onde devem andar e as obras que devem fazer.  
 **21** Mas escolhe entre todo o povo homens capazes e tementes a Deus, nos quais haja verdade e que aborreçam a avareza: faz deles chefes de mil, de cem, de cinquenta e de dez homens,  
-**22** os quais julguem o povo em todo o tempo, te deem conta coisas mais graves, e eles julguem somente as coisas menos graves. Desta sorte o peso que te oprime será mais leve, sendo repartido com outros.  
+**22** os quais julguem o povo em todo o tempo, te deem conta das coisas mais graves, e eles julguem somente as coisas menos graves. Desta sorte o peso que te oprime será mais leve, sendo repartido com outros.  
 **23** Se fizeres isto, cumprirás a ordem de Deus e poderás executar os seus preceitos: e todo este povo voltará em paz para as suas moradas.  
 **24** Moisés, tendo ouvido isto, fez tudo o que seu sogro lhe sugerira.  
 **25** Tendo escolhido entre todo o povo de Israel homens de valor, constituiu chefes de mil, de cem, de cinquenta e de dez homens.  
@@ -551,7 +551,7 @@
 ## Capítulo 19
 
 **1** No primeiro dia do terceiro mês, depois da saída dos Israelitas da terra do Egito, chegaram ao deserto de Sinai.  
-**2** Tendo partido de Rafidim, e chegando ao deserto de Sinai, acamparam naquele mesmo lugar, e Israel levantou aí as suas tendas defrontes do monte.  
+**2** Tendo partido de Rafidim, e chegando ao deserto de Sinai, acamparam naquele mesmo lugar, e Israel levantou aí as suas tendas defronte do monte.  
 **3** Moisés subiu (para ir falar) a Deus e o Senhor o chamou do alto do monte, dizendo: Dirás estas coisas à casa de Jacob e anunciarás aos filhos de Israel:  
 **4** Vós mesmos vistes o que eu fiz aos Egípcios, de que modo vos trouxe sobre asas de águia, e vos tomei para mim.  
 **5** Se, portanto, ouvirdes a minha voz e observardes a minha aliança, sereis para mim a porção escolhida dentre todos os povos, porque toda a terra é minha.  
@@ -622,7 +622,7 @@
 **13** Aquele, porém, que não armou ciladas, mas (foi) Deus (quem) lho entregou nas suas mãos, eu te designarei um lugar no qual se deva refugiar.  
 **14** Se alguém matar o seu próximo de caso pensado e a traição, tu o arrancarás mesmo do meu altar para que morra.  
 **15** O que feri seu pai ou sua mãe, seja punido de morte.  
-**16** Aquele tiver roubado um homem, e o tiver vendido ou o retiver em seu poder, seja morto.  
+**16** Aquele que tiver roubado um homem, e o tiver vendido ou o retiver em seu poder, seja morto.  
 **17** O que amaldiçoar seu pai ou sua mãe, seja punido de morte,  
 **18** Se alguns homens se travarem de razões, e um ferir o seu próximo com uma pedra ou com o punho, e ele não morrer, mas for para o leito,  
 **19** se ele (depois) se levantar e andar por fora encostado ao seu bordão, será (declarado) inocente o que o feriu, com a condição, porém, de que o compense do seu trabalho (interrompido) e das despesas feitas com o tratamento.  
@@ -728,7 +728,7 @@
 **10** e viram o Deus de Israel: debaixo dos seus pés (estava) como que uma obra de pedra de safira, que se parecia com o céu, quando está sereno.  
 **11** Ora (o Senhor) não estendeu a sua mão contra os eleitos dos filhos de Israel que, depois de verem a Deus, comeram e beberam.  
 **12** O Senhor disse a Moisés: Sobe para mim ao monte, e deixa-te estar aí: e eu te darei as tábuas de pedra (com) a lei e os mandamentos, que (nelas) escrevi, para lhos ensinares.  
-**13** Moisés e Josué, seu ministro, Ievantaram-se e, quando subiram ao monte de Deus,  
+**13** Moisés e Josué, seu ministro, levantaram-se e, quando subiram ao monte de Deus,  
 **14** Moisés disse aos anciães: Esperai aqui, até que voltaremos a vós. Tendes convosco Aarão e Hur; se sobrevier alguma questão, recorrei a eles.  
 **15** Tendo Moisés subido, a nuvem cobriu o monte,  
 **16** e a glória do Senhor pousou sobre o Sinai, cobrindo-o com a nuvem durante seis dias: ao sétimo dia. Deus chamou Moisés do meio da escuridão (da nuvem).  
@@ -773,7 +773,7 @@
 **34** E no mesmo candeeiro haverá quatro copos em forma de flor de amendoeira, e em cada um a sua esferazinha e a sua açucena.  
 **35** Haverá três esferazinhas em três lugares da haste, e de cada uma sairão dois ramos, e serão ao todo seis ramos saindo da mesma haste.  
 **36** As esferazinhas, pois, e os ramos serão da mesma peça (com o candeeiro), tudo de ouro finíssimo, trabalhado a martelo.  
-**37** Farás, além disso, sete lâmpadas, e pô-Ias-ás sobre o candeeiro, a fim de que deem luz para a frente.  
+**37** Farás, além disso, sete lâmpadas, e pô-las-ás sobre o candeeiro, a fim de que deem luz para a frente.  
 **38** Também os espevitadores e os vasos onde se apague o morrão que se tiver tirado das lâmpadas. Serão feitos de ouro puríssimo.  
 **39** Todo o peso do candeeiro com todos os seus vasos será um talento de ouro puríssimo.  
 **40** Toma sentido, e faze conforme o modelo que te foi mostrado sobre o monte.  
@@ -1001,7 +1001,7 @@
 
 ## Capítulo 32
 
-**1** Mas o povo, vendo que Moisés tardava em descer do monte, juntou-se contra Aarão, e disse: Levanta-te, faze-nos um deus que vá diante de nós, parque não sabemos o que aconteceu a Moisés, esse homem que nos tirou da terra do Egito.  
+**1** Mas o povo, vendo que Moisés tardava em descer do monte, juntou-se contra Aarão, e disse: Levanta-te, faze-nos um deus que vá diante de nós, porque não sabemos o que aconteceu a Moisés, esse homem que nos tirou da terra do Egito.  
 **2** Aarão disse-lhes: Tomai as arrecadas de ouro das orelhas de vossas mulheres, de vossos filhos e de vossas filhas, e trazei-as.  
 **3** O povo fez o que lhes mandara, trazendo as arrecadas a Aarão.  
 **4** Ele, tendo-as tomado, mandou-as fundir, e formou delas um bezerro fundido. Eles disseram: Este, ó Israel, é o teu deus que te tirou da terra do Egito.  
@@ -1050,7 +1050,7 @@
 **9** Logo que ele entrava no tabernáculo da reunião, a coluna de nuvem descia, e parava à porta, e (o Senhor) falava com Moisés.  
 **10** Todo o povo, ao ver que a coluna de nuvem se conservava parada à porta do tabernáculo, se levantava e se prosternava (adorando o Senhor) à porta das suas tendas.  
 **11** O Senhor falava a Moisés face a face, como um homem costuma falar com o seu amigo. Quando ele voltava para os acampamentos, o seu jovem servo Josué, filho de Nun, não se apartava do tabernáculo.  
-**12** Moisés disse ao Senhor: Ordenas-me que tire daqui povo mas não me declaras quem mandarás comigo, embora me tenhas dito: Conheço-te pelo Deu nome, e tu achaste graça diante de mim.  
+**12** Moisés disse ao Senhor: Ordenas-me que tire daqui este povo mas não me declaras quem mandarás comigo, embora me tenhas dito: Conheço-te pelo Deu nome, e tu achaste graça diante de mim.  
 **13** Se eu, pois, achei graça na tua presença, faze-me conhecer os teus caminhos, para que, conhecendo-os, veja que achei graça ante os teus olhos. Considera que este povo é o teu povo.  
 **14** O Senhor disse-lhe: A minha face irá diante de ti, e eu te darei descanso.  
 **15** Moisés disse: Se tu mesmo não vais adiante de nós, não nos faças partir deste lugar;  
@@ -1219,7 +1219,7 @@
 **3** Para o seu serviço preparou diversos utensílios de bronze, caldeiras, tenazes, garfos, ganchos e braseiros.  
 **4** E fez a sua grelha de bronze em forma de rode, que colocou em baixo, sob o rebordo do altar, a meia altura dele,  
 **5** tendo vazado quatro argolas para pôr nos quatro cantos da grelha, a fim de por elas fazer passar os varais para o transporte;  
-**6** fez esses mesmos varais de pau de acácia, cobriu-os com lâminas de bronze,  
+**6** fez esses mesmos varais de pau de acácia, e cobriu-os com lâminas de bronze,  
 **7** e meteu-os nas argolas, que sobressaíam dos lados do altar. O altar, porém, não era maciço, mas (feito) de tábuas, oco por dentro.  
 **8** Fez também a bacia de bronze e a sua base com os espelhos das mulheres, que velavam à porta do tabernáculo.  
 **9** Fez mais o átrio, a cujo lado meridional estavam cortinas de linho fino retorcido, com o comprimento de cem côvados.  
@@ -1302,7 +1302,7 @@
 **6** e diante dele (colocarás) o altar dos holocaustos.  
 **7** (Colocarás) a bacia, que encherás de água, entre o altar e o tabernáculo.  
 **8** Cercarás de cortinas o átrio e a sua entrada.  
-**9** Tomado o óleo da unção, ungirás o tabernáculo com seus utensílios, para ficarem santificados;  
+**9** Tomado o óleo da unção, ungirás o tabernáculo com os seus utensílios, para ficarem santificados;  
 **10** ungirás o altar dos holocaustos e todos os seus utensílios; consagrarás o altar e ele será santíssimo:  
 **11** ungirás a bacia com a sua base e consagrá-la-ás.  
 **12** Farás chegar Aarão e seus filhos à entrada do tabernáculo da reunião, e depois de lavados em água,  

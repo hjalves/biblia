@@ -150,7 +150,7 @@
 **12** As vacas foram diretamente pela estrada que conduz a Betsames; seguiram sempre o mesmo caminho sem parar e mugindo, e não declinaram nem para a direita nem para a esquerda. Os príncipes dos Filisteus também iam seguindo atrás, até os confins de Betsames.  
 **13** Ora os Betsamitas segavam trigo no vale. Levantando os olhos, viram a arca, e alegraram-se quando a viram.  
 **14** O carro foi para o campo de Josué Betsamita e parou ali. Havia lá uma grande pedra, e (os Betsamitas) fizeram em pedaços a madeira do carro, e puseram as vacas em cima em holocausto ao Senhor.  
-**15** Os Levita s desceram a arca do Senhor e a pequena caixa que estava ao seu lado, onde vinham as figuras de ouro, e colocaram-na sobre aquela grande pedra. Os Betsamitas ofereceram holocaustos e imolaram vítimas naquele dia ao Senhor.  
+**15** Os Levitas desceram a arca do Senhor e a pequena caixa que estava ao seu lado, onde vinham as figuras de ouro, e colocaram-na sobre aquela grande pedra. Os Betsamitas ofereceram holocaustos e imolaram vítimas naquele dia ao Senhor.  
 **16** Os cinco príncipes dos Filisteus, depois de verem isto, voltaram no mesmo dia para Acaron.  
 **17** Ora estes são os tumores de ouro, que os Filisteus deram ao Senhor pelo pecado: Azot deu um, Gaza um, Ascalon um, Get um, Acaron um  
 **18** também os ratos de ouro eram segundo o número das cidades das cinco províncias dos Filisteus, desde as cidades muradas até às aldeias sem muros. Testemunho a grande pedra, sobre a qual puseram a arca do Senhor, a qual, até ao dia de hoje, está no campo de Josué Betsamita.  
@@ -160,8 +160,8 @@
 
 ## Capítulo 7
 
-**1** Foram, pois, os homens de Cariatarim, transportaram a arca do Senhor, puseram-na em casa de Abinadab, em Gabaa, e santificaram o seu filho Eleázaro, para que guardasse a arca do Senhor.  
-**2** Sucedeu que, desde o dia em que a arca do Senhor foi colocada em Cariatarim, se passaram muitos dias (pois já era o vigésimo ano), e toda a casa de Israel descansou seguindo o Senhor.  
+**1** Foram, pois, os homens de Cariatiarim, transportaram a arca do Senhor, puseram-na em casa de Abinadab, em Gabaa, e santificaram o seu filho Eleázaro, para que guardasse a arca do Senhor.  
+**2** Sucedeu que, desde o dia em que a arca do Senhor foi colocada em Cariatiarim, se passaram muitos dias (pois já era o vigésimo ano), e toda a casa de Israel descansou seguindo o Senhor.  
 **3** E Samuel falou a toda a casa de Israel, dizendo: Se vós tornais de todo o vosso coração para o Senhor, tirai do meio de vós os deuses estranhos, os Baalins e Astarot, e preparai os vossos corações para o Senhor; servi a ele só, e ele vos livrará da mão dos Filisteus.  
 **4** Os filhos de Israel lançaram, pois, fora os Baalins e Astarot, e serviram só ao Senhor.  
 **5** Samuel disse: Convocai em Masfa todo o Israel, para eu orar por vós ao Senhor.  
@@ -248,7 +248,7 @@
 **11** Todos os que o tinham conhecido pouco antes, vendo que ele estava com os profetas e que profetizava, disseram entre si: Que é o que aconteceu ao filho de Cis? Porventura também Saul está entre os profetas?  
 **12** Um da multidão disse: E quem é o pai destes (profetas)? Por isso passou a provérbio (o dizer-se): Porventura também Saul está entre os profetas?  
 **13** Quando cessou de profetizar, foi para o lugar alto.  
-**14** O tio de Saul disse-lhe a ele e ao seu criado: A onde fostes? Eles responderam: Procurar as jumentas; porém, não as tendo encontrado, fomos ter com Samuel.  
+**14** O tio de Saul disse-lhe a ele e ao seu criado: Aonde fostes? Eles responderam: Procurar as jumentas; porém, não as tendo encontrado, fomos ter com Samuel.  
 **15** Seu tio perguntou-lhe: Conta-me o que te disse Samuel.  
 **16** Saul respondeu ao seu tio: Disse-nos que se tinham encontrado as jumentas. Contudo não lhe descobriu nada do que Samuel lhe tinha dito relativamente ao reino.  
 **17** Samuel convocou o povo diante do Senhor, em Masfa,  
@@ -267,7 +267,7 @@
 
 **1** Aconteceu que, quase um mês depois, Naás Amonita pôs-se em campanha e começou a combater contra Jabes de Galaad. Todos os habitantes de Jabes disseram a Naás: Toma-nos como aliados, e nós te serviremos.  
 **2** Naás Amonita respondeu-lhes: Farei convosco aliança com a condição de vos tirar a todos o olho direito, e fazer isso como opróbrio para todo o Israel.  
-**3** Os anciães de Jabes disseram-lhe: Concede-nos sete dias para que enviem os mensageiros por todo o território de Israel; se não houver quem nos defenda, entregar-nos-emos a ti.  
+**3** Os anciães de Jabes disseram-lhe: Concede-nos sete dias para que enviemos mensageiros por todo o território de Israel; se não houver quem nos defenda, entregar-nos-emos a ti.  
 **4** Foram, pois, os mensageiros a Gabaa, (pátria) de Saul, e referiram estas palavras ao povo, e todo o povo levantou a voz e chorou.  
 **5** Saul vinha, então, do campo, atrás dos seus bois, e disse: Que tem o povo que chora? E referiram-lhe as palavras dos habitantes de Jabes.  
 **6** O espírito do Senhor apoderou-se de Saul, ao ouvir estas palavras, e acendeu-se sobremaneira o seu furor.  
@@ -330,7 +330,7 @@
 **17** Saíram do campo dos Filisteus três destacamentos a fazer presas. Um destacamento tomou o caminho de Efra para a terra de Saul;  
 **18** um outro avançava pelo caminho de Bet-horon, e o terceiro voltou-se para o caminho do território que domina o vale de Seboim, em frente do deserto.  
 **19** Ora em toda a terra de Israel não se encontrava um ferreiro, porque os Filisteus tinham procurado evitar que os Hebreus forjassem espadas e lanças.  
-**20** Pelo que todo o Israel tinha que ir aos Filisteus, para cada um a fiar a sua relha, o enxadão, a machadinha e o sacho.  
+**20** Pelo que todo o Israel tinha que ir aos Filisteus, para cada um afiar a sua relha, o enxadão, a machadinha e o sacho.  
 **21** Estavam, portanto, embotados os fios das relhas e dos enxadões e das forquilhas e das machadinhas, nem sequer tendo com que aguçar um aguilhão.  
 **22** Quando chegou o dia do combate, não se encontrou nem espada nem lança na mão de todo o povo que estava com Saul e Jónatas, exceto as de Saul e Jónatas, seu filho.  
 **23** Uma guarnição dos Filisteus avançou a fim de ir para Macmas.  
@@ -360,7 +360,7 @@
 **21** Os Hebreus, que tinham estado com os Filisteus nos dias antecedentes e que tinham ido com eles ao acampamento, voltaram a pôr-se ao lado dos Israelitas, que estavam com Saul e Jónatas.  
 **22** Igualmente todos os Israelitas que se tinham escondido no monte de Efraim, sabendo que os Filisteus tinham fugido, uniram-se aos seus na batalha. Estavam com Saul cerca de dez mil homens.  
 **23** Naquele dia o Senhor salvou Israel. A batalha chegou até Betaven.  
-**24** Os homens de Israel reuniram-se naquele dia, e Saul obrigou o povo com juramento, dizendo: Maldito o homem que hoje tomar alimento antes da tarde, até insensato que eu me vingue dos meus inimigos. E ninguém comeu nada.  
+**24** Os homens de Israel reuniram-se naquele dia, e Saul obrigou o povo com juramento, dizendo: Maldito o homem que hoje tomar alimento antes da tarde, até que eu me vingue dos meus inimigos. E ninguém comeu nada.  
 **25** Todo o povo foi a um bosque, onde havia mel sobre a superfície do campo.  
 **26** O povo entrou, no bosque, viu correr o mel, mas ninguém (o) levou (com) a mão à boca, porque o povo temia (violar) o juramento (do rei).  
 **27** Todavia Jónatas não tinha ouvido o juramento que seu pai obrigou o povo a fazer e, estendendo a ponta da vara que tinha na mão, molhou-a num favo de mel, chegou a mão à boca e iluminaram-se-lhe os olhos.  
@@ -433,7 +433,7 @@
 **1** O Senhor disse a Samuel: Até quando chorarás tu Saul, tendo-o eu rejeitado para que não reine sobre Israel? Enche de óleo o teu (vaso feito de) chifre e vem, para eu te enviar a Isai de Belém, porque dentre os seus filhos, escolhi para mim um rei.  
 **2** Samuel disse; Como hei-de eu ir? Saul o saberá e matar-me-á. O Senhor disse: Tomarás contigo um novilho da manada, e dirás: Eu vim para sacrificar ao Senhor.  
 **3** Convidarás Isaí para comer da vítima e eu te mostrarei o que deves fazer; ungirás aquele que eu te designar.  
-**4** Fez, pois, Samuel com o o Senhor lhe disse, e foi a Belém. Os anciães da cidade foram inquietos, aos seu encontro, e disseram: É de paz a tua vinda?  
+**4** Fez, pois, Samuel como o Senhor lhe disse, e foi a Belém. Os anciães da cidade foram inquietos, aos seu encontro, e disseram: É de paz a tua vinda?  
 **5** Ele respondeu: É de paz; vim para fazer um sacrifício ao Senhor; purificai-vos e vinde comigo ao sacrifício. Ele purificou Isai e seus filhos, e chamou-os ao sacrifício. Todavia Samuel chorava Saul, porque o Senhor se tinha arrependido de o ter constituído rei sobre Israel.  
 **6** Tendo eles entrado, (Samuel) viu Eliab e disse: Porventura está diante do Senhor o seu ungido?  
 **7** Mas o Senhor disse a Samuel: Não olhes para o seu vulto, nem para a altura da sua estatura, porque eu o rejeitei. Eu não julgo do homem pelo que aparece à vista: o homem vê o rosto, mas o Senhor olha para o coração.  
@@ -462,7 +462,7 @@
 **4** Saiu do campo dos Filisteus um desafiador, chamado Golias, de Get, que tinha seis côvados e um palmo de altura.  
 **5** Trazia na cabeça um capacete de bronze e estava vestido duma couraça escameada; o peso da couraça era de cinco mil siclos de bronze.  
 **6** Trazia nas pernas escarcelas de bronze, e um escudo de bronze cobria os seus ombros.  
-**7** A baste da sua lança era como o órgão dum tear, e o ferro da sua lança pesava seiscentos siclos de ferro; o seu escudeiro vinha diante dele.  
+**7** A haste da sua lança era como o órgão dum tear, e o ferro da sua lança pesava seiscentos siclos de ferro; o seu escudeiro vinha diante dele.  
 **8** Posto em pé, clamava para os esquadrões de Israel, dizendo-lhes: Por que viestes dispostos para a batalha? Porventura não sou eu um Filisteu, e vós os escravos de Saul? Escolhei entre vós um homem, que venha bater-se (comigo) só por só.  
 **9** Se ele puder combater comigo e me tirar a vida, nós seremos vossos escravos; mas se eu prevalecer e o matar, vós sereis nossos escravos, servir-nos-eis.  
 **10** O Filisteu acrescentou: Eu hoje desafiei os esquadrões de Israel, dizendo: Dai-me um homem, que saia a bater-se comigo, só por só.  
@@ -558,7 +558,7 @@
 **6** Saul, tendo ouvido isto, aplacado com as razões de Jónatas, jurou: Viva o Senhor, que ele não morrerá.  
 **7** Jónatas chamou, pois, Davide, e contou-lhe todas estas coisas; a seguir, levou-o à presença de Saul, e (Davide) ficou vivendo junto dele, como antes.  
 **8** Quando recomeçou a guerra, Davide, saindo, combateu contra os Filisteus, fazendo neles grande destroço e obrigando-os a fugir diante dele  
-**9** E o espírito maligno, mandado pelo Senhor, apoderou-se de Saul. Estava este sentado em sua casa, com um a lança na mão, e David e tocava harpa.  
+**9** E o espírito maligno, mandado pelo Senhor, apoderou-se de Saul. Estava este sentado em sua casa, com uma lança na mão, e Davide tocava harpa.  
 **10** Saul tentou atravessar Davide com a lança contra a parede, mas Davide desviou-se, e a lança, sem o ofender, foi cravar se na parede. Davide fugiu e salvou-se aquela noite.  
 **11** Mandou, pois, Saul os seus guardas a casa de Davide para lho terem seguro e para ser morto pela manhã. Porém Davide foi avisado por Micol, sua mulher, que lhe disse: Se te não puseres a salvo esta noite, amanhã morrerás.  
 **12** Ela fê-lo descer por uma janela, e ele fugiu e salvou-se.  
@@ -572,7 +572,7 @@
 **20** Saul mandou guardas para prenderem Davide, mas tendo eles visto um grupo de profetas que profetizavam, com Samuel à frente, o Espírito do Senhor apoderou-se também deles, e começaram também a profetizar.  
 **21** Tendo isto sido contado a Saul, mandou outros mensageiros, mas estes também profetizaram. De novo mandou Saul terceiros mensageiros, mas também estes profetizaram. Então Saul, cheio de cólera,  
 **22** foi ele próprio a Rama, chegou até à grande cisterna, que há em Soco, e perguntou: Em que lugar estão Samuel e Davide? Foi-lhe respondido: Estão em Naiot de Rama.  
-**23** Partiu para Naiot de Rama, mas apoderou-se também dele o Espírlto do Senhor, e ia andando, e profetizando (por todo o caminho) até que chegou a Naiot de Rama.  
+**23** Partiu para Naiot de Rama, mas apoderou-se também dele o Espírito do Senhor, e ia andando, e profetizando (por todo o caminho) até que chegou a Naiot de Rama.  
 **24** (Chegando lá ) despojou-se também ele das suas vestes, e profetizou com os outros diante de Samuel, e esteve nu, por terra, aquele dia e aquela noite. Daqui tomou origem o provérbio: Também Saul entre os profetas?  
 
 ## Capítulo 20
@@ -670,7 +670,7 @@
 **2** Davide consultou o Senhor, dizendo: Marcharei eu e desbaratarei estes Filisteus? O Senhor disse a Davide: Vai, que desbaratarás os Filisteus e salvarás Ceila.  
 **3** Os homens, que estavam com Davide, disseram-lhe: Se, estando nós aqui na Judeia, temos medo, quanto mais se formos a Ceila contra os esquadrões dos Filisteus?  
 **4** Segunda vez Davide consultou o Senhor, o qual, respondendo, lhe disse: Levanta-te e vai a Ceila, porque eu entregarei os Filisteus nas tuas mãos.  
-**5** Foi, então, Davide com a sua gente a Ceila, e combateu contra os Filisteus, levou-Ihes os seus gados e fez neles grande mortandade, salvando assim os habitantes da Ceila.  
+**5** Foi, então, Davide com a sua gente a Ceila, e combateu contra os Filisteus, levou-lhes os seus gados e fez neles grande mortandade, salvando assim os habitantes da Ceila.  
 **6** Quando Abiatar, filho de Aquimelec, fugiu para Davide em Ceila, levou consigo o éfode.  
 **7** Foi noticiado a Saul que Davide tinha ido para Ceila, e Saul disse: Deus o entregou nas minhas mãos, porque entrou numa cidade que tem portas e fechaduras.  
 **8** Saul mandou a todo o povo que marchasse a Ceila, para o combate, e que sitiasse Davide e os seus.  
@@ -723,7 +723,7 @@
 
 ## Capítulo 25
 
-**1** Entretanto morreu Samuel, e todo o Israel se juntou a chorá-lo. Sepultaram-no na sua casa em Rama. David e pôs-se em marcha, e desceu para o deserto de Faran.  
+**1** Entretanto morreu Samuel, e todo o Israel se juntou a chorá-lo. Sepultaram-no na sua casa em Rama. Davide pôs-se em marcha, e desceu para o deserto de Faran.  
 **2** Ora havia no deserto de Maon um homem, que tinha as suas possessões no Carmelo: este homem era muito rico, tinha três mil ovelhas e mil cabras, e encontrava-se no Carmelo para fazer a tosquia do seu gado.  
 **3** O nome daquele homem era Nabal, e o nome da sua mulher Abigail. A mulher era muito prudente e formosa; seu marido, porém, era um homem duro e mau, descendente da linhagem de Caleb.  
 **4** Davide, tendo sabido, no deserto que Nabal fazia a tosquia do seu rebanho,  
@@ -757,12 +757,12 @@
 **32** Davide disse a Abigail: Bem-dito seja o Senhor Deus de Israel, que te enviou hoje ao meu encontro!  
 **33** Bem-dito o teu bom senso! Bem-dita sejas tu, que me impediste hoje de derramar sangue, vingar-me pela minha mão.  
 **34** Doutro modo — juro-o pelo Senhor Deus de Israel, que me impediu que te fizesse mal! — se tu não viesses logo ao meu encontro, não teria ficado com vida desde hoje até amanhã, em casa de Nabal, nenhum ser masculino que lhe pertencesse.  
-**35** Davide aceitou, da mão de Abigail, tudo o que lhe tinha trazido, e disse-Ihe: Vai em paz para tua casa: ouvi a tua voz e acolhi a tua petição.  
+**35** Davide aceitou, da mão de Abigail, tudo o que lhe tinha trazido, e disse-lhe: Vai em paz para tua casa: ouvi a tua voz e acolhi a tua petição.  
 **36** Abigail voltou para Nabal, que dava em sua casa um banquete, como banquete de rei; o seu coração estava alegre, porque estava muito embriagado, e ela não lhe disse uma palavra nem pequena nem grande até pela manhã.  
 **37** Ao outro dia muito cedo, quando Nabal tinha já digerido o vinho, sua mulher contou-lhe tudo o que se tinha passado, e o seu coração ficou como morto interiormente, e ele tornou-se (imóvel) como uma pedra.  
 **38** Passados dez dias, o Senhor feriu Nabal, e ele morreu.  
 **39** Tendo Davide ouvido dizer que Nabal morrera, disse: Bem-dito seja o Senhor que me vingou da afronta que me fez Nabal, preservou o seu servo de fazer mal e fez cair a iniquidade de Nabal sobre a sua cabeça. Davide enviou mensageiros a Abigail, para a tomar por sua mulher.  
-**40** Os mensageiros de Davide foram ter com Abigail, ao Carmelo, e falaram-lhe assim; Davide mandou-nos ter contigo para te tom ar por sua mulher.  
+**40** Os mensageiros de Davide foram ter com Abigail, ao Carmelo, e falaram-lhe assim; Davide mandou-nos ter contigo para te tomar por sua mulher.  
 **41** Ela, levantando-se, inclinou-se até à terra, e disse: Eis a tua serva, que será como uma escrava para lavar os pés aos criados do meu senhor.  
 **42** Abigail, levantando-se depressa, montou no jumento, levou consigo cinco donzelas suas. Seguiu os mensageiros de Davide, e tornou-se sua mulher.  
 **43** Davide desposou-se também com Aquinoão, (que era) de Jezrael. Ambas foram suas mulheres.  
@@ -855,7 +855,7 @@
 
 ## Capítulo 30
 
-**1** Tendo, ao terceiro dia, chegado Davide e os seus a Siceleg, os Amalecltas tinham pela banda do meio-dia feito uma incursão sobre Siceleg, que tomaram e queimaram  
+**1** Tendo, ao terceiro dia, chegado Davide e os seus a Siceleg, os Amalecitas tinham pela banda do meio-dia feito uma incursão sobre Siceleg, que tomaram e queimaram  
 **2** Tinham levado dali cativas as mulheres (e todos os habitantes), desde o mais pequeno até ao maior; não tinham matado ninguém, mas tinham levado tudo consigo, e voltavam pelo seu caminho.  
 **3** Quando Davide e a sua gente chegaram à cidade, e a encontraram queimada, quando viram que suas mulheres filhos e filhas foram levados cativos,  
 **4** levantaram as suas vozes e choraram até se lhes esgotarem as lágrimas.  
@@ -884,7 +884,7 @@
 **27** (Mandou também) aos que viviam em Betei, aos de Ramot para o meio-dia, aos de Jeter,  
 **28** aos de Aroer, aos de Sefamot, aos de Estamo,  
 **29** aos de Racal, aos das cidades de Jerameel, aos das cidades de Ceni,  
-**30** aos de Aram a, aos do lago de Asan, aos de Atac,  
+**30** aos de Arama, aos do lago de Asan, aos de Atac,  
 **31** aos de Hebron, e a todos os outros que viviam naqueles lugares em que Davide tinha morado com os seus.  
 
 ## Capítulo 31

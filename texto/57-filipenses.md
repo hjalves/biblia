@@ -94,7 +94,7 @@
 
 **1** Portanto, meus muito amados e desejados irmãos, minha alegria e minha coroa, permanecei assim firmes no Senhor, caríssimos.  
 **2** Rogo a Evódia, e suplico a Síntique, que tenham os mesmos sentimentos no Senhor.  
-**3** Também te rogo a ti, meu fiel companheiro, que as ajudes a elas que combateram comigo peio Evangelho com Clemente e com os outros meus colaboradores, cujos nomes estão no livro da vida.  
+**3** Também te rogo a ti, meu fiel companheiro, que as ajudes a elas que combateram comigo pelo Evangelho com Clemente e com os outros meus colaboradores, cujos nomes estão no livro da vida.  
 **4** Alegrai-vos incessantemente no Senhor; outra vez digo, alegrai-vos.  
 **5** A vossa afabilidade seja conhecida de todos os homens; o Senhor está perto (e contempla-vos).  
 **6** Não vos inquieteis com nada, mas em todas as circunstâncias manifestai a Deus as vossas necessidades por meio de orações e súplicas unidas à ação de graças.  

@@ -64,14 +64,14 @@
 **3** Filhos de Judá: Her, Onan e Sela; estes três nasceram da filha de Sué, a Cananeia. Her, primogénito de Judá, foi mau diante do Senhor, e o Senhor fê-lo morrer.  
 **4** Tamar, nora de Judá, deu-lhe à luz Farés e Zara. Todos os filhos de Judá foram pois cinco.  
 **5** Filhos de Farés: Hesron e Hamul.  
-**6** Filhos de Zara: Zamri, Etan, Eman, Calcai e Dara, cinco a o todo.  
+**6** Filhos de Zara: Zamri, Etan, Eman, Calcai e Dara, cinco ao todo.  
 **7** Filhos de Carmi: Acar, que turbou Israel e pecou num furto de coisa votada anátema.  
 **8** Filho de Etan: Azarias.  
 **9** Os filhos que nasceram de Hesron (foram): Jerameel, Ram e Calubi.  
 **10** Ram gerou Aminadab, Aminadab gerou Naasson príncipe dos filhos de Judá;  
 **11** Naasson gerou Salma, do qual procedeu Booz;  
 **12** Booz gerou Obed, o qual gerou Isaí;  
-**13** Isaí teve por primogénito a Ellab, sendo seu segundo (filho) Abinadab, terceiro Simaa,  
+**13** Isaí teve por primogénito a Eliab, sendo seu segundo (filho) Abinadab, terceiro Simaa,  
 **14** quarto Natanael, quinto Radal,  
 **15** sexto Asom, sétimo Davide.  
 **16** Foram irmãs destes Sarvla e Abigall. Os filhos de Sarvia (foram) três; Abisai, Joab e Asael.  
@@ -190,7 +190,7 @@
 
 ## Capítulo 5
 
-**1** Eis os filhos de Ruben, primogénito de Israel (porque este foi o seu primogénito, em bora, por ter manchado o tálamo de seu pai, fosse o seu direito de primogenitura dado aos filhos de José, filho de Israel, deixando (desta forma) Ruben de ser considerado primogénito;  
+**1** Eis os filhos de Ruben, primogénito de Israel (porque este foi o seu primogénito, embora, por ter manchado o tálamo de seu pai, fosse o seu direito de primogenitura dado aos filhos de José, filho de Israel, deixando (desta forma) Ruben de ser considerado primogénito;  
 **2** quanto a Judá, que era o mais valente de todos os seus irmãos, da sua estirpe saíram príncipes, mas o direito da primogenitura foi adjudicado a José).  
 **3** Eis, pois os filhos de Ruben, primogénito de Israel: Enoc, Falu, Esron e Carmi.  
 **4** Filho de Joel: Samia, pai de Gog, cujo filho foi Semei.  
@@ -219,9 +219,9 @@
 
 ## Capítulo 6
 
-**1** Filhos de Levi: Gereon, Caat e Merari.  
+**1** Filhos de Levi: Gerson, Caat e Merari.  
 **2** Filhos de Caat: Amrão, Isaar, Hebron e Oziei.  
-**3** Filhos de Amrão: Arão, Moisés e Alaria. Filhos de Arão: Nadab e Abiu, Eleazar e Itamar.  
+**3** Filhos de Amrão: Arão, Moisés e Maria. Filhos de Arão: Nadab e Abiu, Eleazar e Itamar.  
 **4** Eleazar gerou Fineias, e Fineias gerou Abisué;  
 **5** Abisué gerou Boci, e Boci gerou Ozi;  
 **6** Ozi gerou Zaraias, e Zaraias gerou Meraiot;  
@@ -519,9 +519,9 @@
 **15** Foram estes que passaram o Jordão no primeiro mês, quando ele costumava trasbordar por cima das de suas ribeiras, e puseram em fuga todos os que habitavam nos vales, assim ao oriente, como ao ocidente.  
 **16** Foram também vários da tribo de Benjamim e da tribo de Judá, à fortaleza em que estava Davide.  
 **17** Davide saiu-lhes ao encontro e disse: Se vindes pacificamente a socorrer-me, o meu coração se unirá ao vosso; mas se me armais ciladas, secundando os meus inimigos, embora eu tenha as minhas mãos limpas de qualquer iniquidade, o Deus de nossos pais seja disto testemunha e juiz.  
-**18** Amasai, porém, o primeiro entre os trinta, revestido do espírito (divino), disse: Nós somos teus, ó Davide, e estamos contigo, ó filho de Isaí. A paz, a paz seja contigo, a paz seja com teus defensores, porque o teu Deus te protege. Davide recebeu-os e constituiu-os com andantes das tropas.  
+**18** Amasai, porém, o primeiro entre os trinta, revestido do espírito (divino), disse: Nós somos teus, ó Davide, e estamos contigo, ó filho de Isaí. A paz, a paz seja contigo, a paz seja com teus defensores, porque o teu Deus te protege. Davide recebeu-os e constituiu-os comandantes das tropas.  
 **19** Também alguns da tribo de Manassés se passaram para Davide, quando ele marchava com os Filisteus contra Saul, para pelejar. Todavia não socorreram os Filisteus, porque os príncipes dos Filisteus, tendo feito conselho, despediram Davide, dizendo: Ele, com perigo das nossas vidas, voltará para Saul, seu amo.  
-**20** Quando ele voltou para Siceleg, fugiram para ele, da tribo de Manassés, Ednas, Jozabad, Jediel, Miguel, Jozabad, Eliu e Salati, com andantes de mil homens na tribo de Manassés.  
+**20** Quando ele voltou para Siceleg, fugiram para ele, da tribo de Manassés, Ednas, Jozabad, Jediel, Miguel, Jozabad, Eliu e Salati, comandantes de mil homens na tribo de Manassés.  
 **21** Estes prestaram auxílio a Davide contra os guerrilheiros (dos Amalecitas), porque todos eram homens fortíssimos, e foram feitos capitães do exército.  
 **22** Assim cada dia concorria gente a Davide para o auxiliar, até que se fez um grande número, como um exército de Deus.  
 **23** Eis o número dos homens equipados que foram ter com Davide, quando estava em Hebron, a fim de transferirem para ele o reino de Saul, conforme a palavra do Senhor:  
@@ -558,7 +558,7 @@
 **11** Davide afligiu-se, porque o Senhor tinha ferido Oza com tal castigo, e chamou àquele lugar a Divisão de Oza, (nome que conserva) até ao dia de hoje.  
 **12** Davide temeu então a Deus, dizendo: Como poderei eu levar para minha casa a arca de Deus?  
 **13** Por esta razão não a conduziu para a sua casa, isto é, para a cidade de Davide, mas mandou-a levar para casa de Obededom de Get.  
-**14** Ficou, pois, a arca de Deus em casa de Obededom durante três meses; e o Senhor abençoou a sua casa e tudo o que Ihe pertencia.  
+**14** Ficou, pois, a arca de Deus em casa de Obededom durante três meses; e o Senhor abençoou a sua casa e tudo o que lhe pertencia.  
 
 ## Capítulo 14
 
@@ -713,7 +713,7 @@
 **1** Depois disto, faleceu Naas, rei dos Amonitas, e seu filho reinou em seu lugar.  
 **2** Davide disse: Quero mostrar o meu afeto a Hanon, filho de Naas, pois que recebi favores de seu pai. E Davide mandou mensageiros para o consolarem na morte de seu pai. Quando eles chegaram ao pais dos Amonitas, para consolarem Hanon,  
 **3** os grandes dos Amonitas disseram a Hanon: Julgas talvez que Davide, por honrar a memória de teu pai, te mandou homens que te consolassem? Não vês que os servos vieram para explorar e examinar, e esquadrinhar o teu país?  
-**4** Hanon, então, mandou rapar a cabeça e a barba aos servos de Davide, fez-Ihes retalhar as suas túnicas da cintura até aos pés, e despediu-os.  
+**4** Hanon, então, mandou rapar a cabeça e a barba aos servos de Davide, fez-lhes retalhar as suas túnicas da cintura até aos pés, e despediu-os.  
 **5** Tendo sido avisado disto, Davide mandou (alguns dos seus homens) ao encontro deles (porque era grande o ultraje que tinham padecido), para lhes dizerem que ficassem em Jericó, até lhes crescer a barba, e que então voltassem.  
 **6** Vendo, os Amonitas, assim Hanon com o todo o povo, que tinham feito injúria a Davide, mandaram mil talentos de prata, para tomarem a seu soldo carros de guerra e cavalaria da Mesopotâmia, dos Sírios de Maaca e de Soba.  
 **7** Assoldaram trinta e dois mil carros e o rei Maaca com o seu povo, os quais acamparam defronte de Medaba. Os Amonitas, tendo-se juntado das suas cidades, saíram para a guerra.  

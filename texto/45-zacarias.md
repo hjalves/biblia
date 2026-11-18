@@ -72,7 +72,7 @@
 
 ## Capítulo 5
 
-**1** (Em seguida) levantei os olhos, pus-me a olhar e vi um livro que voava.  
+**1** (Em seguida) levantei os meus olhos, pus-me a olhar e vi um livro que voava.  
 **2** (O anjo) disse-me; Que vês tu? Respondi: Vejo um livro que voa, o qual tem vinte côvados de comprido e dez côvados de largo.  
 **3** Então disse-me (o anjo): Esta é a maldição que vai difundir-se sobre a face de todo o país; todo o ladrão será expulso por ela, e todo o que jura (falso) será, da mesma sorte, lançado fora por ela.  
 **4** Eu a deixarei espalhar-se, diz o Senhor dos exércitos, e ela irá à casa do ladrão, e à casa do que jura falsamente em meu nome; ficará no meio da casa (de cada um) deles e a consumirá com a sua madeira e as suas pedras.  
@@ -92,7 +92,7 @@
 **4** Tomei a palavra e disse ao anjo que falava comigo: Que significam estas coisas, meu Senhor?  
 **5** O anjo respondeu-me: Estes são os quatro ventos do céu, que saem para estar diante do Senhor de toda a terra (a fim de executar as suas ordens).  
 **6** Os cavalos negros, seguem para a terra do aquilão, os brancos para oriente, os baios para a terra do meio-dia.  
-**7** Os (cavalos) vigoroso, logo que saíram, pediram para percorrer toda a terra. E (o anjo) disse-Ihes: Ide, percorrei a terra. E eles percorreram a terra.  
+**7** Os (cavalos) vigoroso, logo que saíram, pediram para percorrer toda a terra. E (o anjo) disse-lhes: Ide, percorrei a terra. E eles percorreram a terra.  
 **8** Depois chamou-me e disse: Os que se dirigiram para a terra do aquilão, fizeram repousar o meu espírito na terra do aquilão.  
 **9** Foi-me dirigida a palavra do Senhor, nestes termos:  
 **10** Recebe o que te derem os exilados, as ofertas de Holdai, Tobias e Idaia; irás neste mesmo dia e entrarás em casa de Josias, filho de Sofonias, os quais vieram de Babilónia.  
@@ -226,7 +226,7 @@
 **6** Se alguém lhe disser: Que ferimentos São esses entres os teus braços? — responderá: Recebi estes ferimentos na casa dos meus amigos.  
 **7** Ó gládio, levanta-te contra o meu pastor, contra o homem da minha intimidade, diz o Senhor dos exércitos! Fere o pastor, e serão dispersas as ovelhas; voltarei a minha mão mesmo contra os pequeninos.  
 **8** Em todo o país, diz o Senhor, haverá dois terços que serão exterminados, que perecerão, e um terço que ficará nele.  
-**9** Farei passar este terço pelo fogo e purificá-lo-ei como se purifica a prata, prová-lo-ei como se prova o ouro. Ele invocará o meu nome, e eu o ouvirei. Dirlhe-ei: Tu és o meu povo — e ele dirá: lavé é o meu Deus.  
+**9** Farei passar este terço pelo fogo e purificá-lo-ei como se purifica a prata, prová-lo-ei como se prova o ouro. Ele invocará o meu nome, e eu o ouvirei. Dirlhe-ei: Tu és o meu povo — e ele dirá: Iavé é o meu Deus.  
 
 ## Capítulo 14
 
