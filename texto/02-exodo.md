@@ -746,7 +746,7 @@
 **7** pedras de ónix, e (outras) pedras preciosas para adornar o éfode e o peitoral.  
 **8** Construir-me-ão um santuário, e eu habitarei no meio deles.  
 **9** (Devem fazê-lo) conforme em tudo ao modelo do tabernáculo, que eu te mostrarei, e ao modelo de todos os seus vasos para o culto.  
-**10** Fazei uma arca de pau de acácia, cujo comprimento meça dois côvados e meio, a largura covado e meio, a altura igualmente côvado e meio.  
+**10** Fazei uma arca de pau de acácia, cujo comprimento meça dois côvados e meio, a largura côvado e meio, a altura igualmente côvado e meio.  
 **11** Revesti-la-ás de ouro puríssimo por dentro e por fora, e farás sobre ela uma coroa de ouro em roda:  
 **12** (farás) quatro argolas de ouro, que porás nos quatro cantos da arca: duas argolas dum lado e duas doutro.  
 **13** Farás também varais de pau de acácia, Cobri-los-ás de ouro,  
@@ -1071,7 +1071,7 @@
 **4** (Moisés) pois cortou duas tábuas de pedra. como eram as primeiras, e, levantando-se de noite, subiu ao monte Sinai, conforme o Senhor lhe tinha ordenado, levando consigo as tábuas.  
 **5** Tendo descido o Senhor no meio da nuvem, esteve com ele, e pronunciou o nome de Iavé.  
 **6** Passando o Senhor diante dele, exclamou; Iavé, Iavé, Deus misericordioso e clemente, paciente e de muita misericórdia, e verdadeiro,  
-**7** que conserva a misericórdia em milhares de gerações, que perdoa a iniquidade, a revolta e os pecados, mas que os não deixa sem castigo, punindo a iniquidade dos pais sobre os filhos e os netos ate à terceira e quarta geração.  
+**7** que conserva a misericórdia em milhares de gerações, que perdoa a iniquidade, a revolta e os pecados, mas que os não deixa sem castigo, punindo a iniquidade dos pais sobre os filhos e os netos até à terceira e quarta geração.  
 **8** Imediatamente Moisés se prostrou, se curvou até à terra,  
 **9** dizendo: Senhor, se eu achei graça em tua presença, peço-te que venhas connosco (porque este povo é de cerviz dura), e que tires as nossas iniquidades e pecados, e que tomes posse de nós.  
 **10** O Senhor respondeu: Eu farei à vista de todos a aliança, farei prodígios, que nunca jamais se viram sobre a terra, nem em alguma nação, para que este povo, no meio do qual estás, veja a obra do Senhor porque vou fazer coisas terríveis contigo.  
@@ -1214,7 +1214,7 @@
 
 ## Capítulo 38
 
-**1** Fez de pau de acácia o altar dos holocaustos, que tinha cinco covados em comprimento e em largura, e três de alto,  
+**1** Fez de pau de acácia o altar dos holocaustos, que tinha cinco côvados em comprimento e em largura, e três de alto,  
 **2** de cujos ângulos saíam as pontas, e cobriu-o com lâminas de bronze.  
 **3** Para o seu serviço preparou diversos utensílios de bronze, caldeiras, tenazes, garfos, ganchos e braseiros.  
 **4** E fez a sua grelha de bronze em forma de rode, que colocou em baixo, sob o rebordo do altar, a meia altura dele,  

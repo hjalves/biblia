@@ -26,7 +26,7 @@
 **22** Tudo isto aconteceu para que se cumprisse o que foi dito pelo Senhor por meio do profeta, que diz:  
 **23** Eis que a Virgem conceberá e dará à luz um filho, e lhe porão o nome de Emanuel, que significa: Deus connosco (Is. 7, 14).  
 **24** Ao despertar José do sono, fez como lhe tinha mandado o anjo do Senhor, e recebeu em sua casa (Maria), sua esposa,  
-**25** E, sem que ele a tivesse conhecido, deu à luz um filho, e pos-lhe o nome de Jesus.  
+**25** E, sem que ele a tivesse conhecido, deu à luz um filho, e pôs-lhe o nome de Jesus.  
 
 ## Capítulo 2
 

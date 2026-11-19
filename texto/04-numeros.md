@@ -78,7 +78,7 @@
 **17** (Em seguida irá) o tabernáculo da reunião (que) será levado por cuidado dos Levitas, e por suas turmas; pela ordem que for armado, assim será desarmado. Cada um marchará no seu lugar e na sua ordem.  
 **18** Para a parte do ocidente estará o acampamento dos filhos de Efraim, cujo príncipe foi Elisama filho de Amiud.  
 **19** Todo o corpo dos seus combatentes, que foram contados, era de quarenta mil e quinhentos.  
-**20** A seu lado acampará a tribo dos filhos de Manasses cujo príncipe, foi Gamaliel, filho de Fadussur.  
+**20** A seu lado acampará a tribo dos filhos de Manassés cujo príncipe, foi Gamaliel, filho de Fadussur.  
 **21** Todo o corpo dos seus combatentes, que foram contados, era de trinta e dois mil e duzentos.  
 **22** Na tribo dos filhos de Benjamim foi príncipe Abidan, filho de Gedeão.  
 **23** Todo o corpo dos seus combatentes, que foram contados, era de trinta e cinco mil e quatrocentos.  
@@ -482,7 +482,7 @@
 **28** Imediatamente Josué, filho de Nun, ministro de Moisés e escolhido entre muitos, disse: Moisés, meu senhor, impede-os (de profetizar).  
 **29** Moisés respondeu-lhe; Por que és tão zeloso por mim? Quem dera que todo o povo profetizasse, e que o Senhor lhe desse o seu Espírito!  
 **30** E Moisés voltou para os acampamentos com os anciães de Israel.  
-**31** Um vento mandado pelo Senhor, trazendo codornizes das bandas do mar, arrebatou-as consigo e fê-las descer sobre os acampamentos ao redor do campo por tanto espaço, quanto se pode andar num dia e voavam pelo ar à altura de dois covados sobre a terra.  
+**31** Um vento mandado pelo Senhor, trazendo codornizes das bandas do mar, arrebatou-as consigo e fê-las descer sobre os acampamentos ao redor do campo por tanto espaço, quanto se pode andar num dia e voavam pelo ar à altura de dois côvados sobre a terra.  
 **32** Levantando-se então o povo, apanhou todo aquele dia e a noite e o outro dia tantas codornizes, que aquele que menos (recolheu), tinha dez gomores delas, e puseram-nas a secar à roda dos acampamentos.  
 **33** Ainda as carnes estavam nos seus dentes, e ainda se lhes não tinha acabado este manjar, quando a cólera do Senhor se acendeu contra o povo, e o feriu com uma grandíssima praga.  
 **34** Aquele lugar foi chamado o Sepulcro da Concupiscência, porque ali sepultaram o povo, que tinha tido os desejos. E tendo partido dos Sepulcros da Concupiscência, foram a Haseroth, e ali ficaram.  
@@ -1382,7 +1382,7 @@
 
 ## Capítulo 36
 
-**1** Os chefes das casas patriarcais dos descendentes de Galaad, filho de Maquir, filho de Manasses, da linhagem dos filhos de José, aproximaram-se e falaram a Moisés, em presença dos príncipes de Israel, e disseram-lhe:  
+**1** Os chefes das casas patriarcais dos descendentes de Galaad, filho de Maquir, filho de Manassés, da linhagem dos filhos de José, aproximaram-se e falaram a Moisés, em presença dos príncipes de Israel, e disseram-lhe:  
 **2** O Senhor ordenou a ti, nosso Senhor, que dividisses por sorte a terra entre os filhos de Israel, e que desses às filhas de Salfaad, nosso irmão, a herança devida ao pai.  
 **3** Ora, se os homens de outra tribo as receberem por mulheres, segui-las-á a sua herança e, transferida a outra tribo, será diminuída a nossa herança.  
 **4** E assim acontecerá que, quando chegar o (ano do) jubileu, isto é, o ano quinquagésimo da remissão, será confundida a distribuição feita por sortes, e a possessão de uns passará aos outros.  

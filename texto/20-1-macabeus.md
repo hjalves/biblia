@@ -467,7 +467,7 @@
 **3** quanto tinham feito no país de Espanha, para se apoderarem das minas de prata e de ouro, que ali há, e como conquistaram todas estas terras pela sua prudência e paciência,  
 **4** embora se encontrassem tais terras muito distantes; igualmente, (ouviu) como derrotaram reis, que os tinham vindo atacar desde as extremidades, do mundo, infligindo-lhes tão grande mortandade nos seus exércitos que os outros lhe pagavam tributo todos os anos.  
 **5** (Soube) que tinham vencido em batalha a Filipe e a Perseu, rei dos Geteus, e batido e subjugado aos outros, que haviam tomado armas contra eles;  
-**6** que pelos mesmos havia sido desbaratado Antíoco, o Grande, rei da Asia, o qual lhes movera guerra, trazendo cento e vinte elefantes, cavalaria, carros e um exército muito numeroso;  
+**6** que pelos mesmos havia sido desbaratado Antíoco, o Grande, rei da Ásia, o qual lhes movera guerra, trazendo cento e vinte elefantes, cavalaria, carros e um exército muito numeroso;  
 **7** que o tinham tomado vivo, e imposto, a ele e aos seus sucessores, um grande tributo, entrega de reféns e de parte do seu reino (a saber):  
 **8** o país dos Índios, dos Medos e dos Lídios, as mais belas das suas províncias, as quais, depois de recebidas, deram ao rei Eumenes.  
 **9** (Soube também Judas) que os que estavam na Grécia tinham querido marchar (contra os Romanos) e destruí-los, mas que estes, sabedores de tal plano,  
@@ -677,7 +677,7 @@
 **10** Efetivamente estou arrependido de lhe ter dado minha filha, visto que procurou matar-me.  
 **11** Acusava-o deste modo, pelo desejo que tinha do seu reino.  
 **12** Tirou-lhe sua filha, deu-a a Demétrio, rompendo com Alexandre e tornando manifesta a sua inimizade.  
-**13** Ptolomeu entrou em Antioquia e pôs na sua cabeça dois diademas: um do Egito e outro da Asia.  
+**13** Ptolomeu entrou em Antioquia e pôs na sua cabeça dois diademas: um do Egito e outro da Ásia.  
 **14** O rei Aiexandre naquele tempo encontrava-se na Cilícia porque os habitantes dessa região tinham-se revoltado contra ele.  
 **15** Quando, porém, Alexandre ouviu tal notícia, foi logo contra ele para o combater. O rei Ptolomeu fez sair a campo o seu exército, saiu-lhe ao encontro com grandes forças e pô-lo em fuga.  
 **16** Alexandre fugiu para a Arábia, a ver se achava ali alguma proteção. E o rei Ptolomeu triunfou.  

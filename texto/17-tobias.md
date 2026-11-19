@@ -296,7 +296,7 @@
 
 ## Capítulo 13
 
-**1** O velho Tobias, abrindo a sua boca, disse ao Senhor, assim: Tu, Senhor, es grande na eternidade, e o teu reino estende-se por todos os séculos.  
+**1** O velho Tobias, abrindo a sua boca, disse ao Senhor, assim: Tu, Senhor, és grande na eternidade, e o teu reino estende-se por todos os séculos.  
 **2** Com efeito, tu castigas e salvas, conduzes até ao sepulcro e ressuscitas, e ninguém há que possa subtrair-se á tua mão.  
 **3** Dai graças ao Senhor, filhos de Israel, e louvai-o diante das nações,  
 **4** porque ele vos espalhou por entre os povos que o não conhecem, a fim de que vós publiqueis as suas maravilhas, e lhes façais saber que não há outro Deus omnipotente senão ele.  

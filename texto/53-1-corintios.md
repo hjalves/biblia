@@ -478,7 +478,7 @@
 **16** Sede atenciosos para com estes e para com todo aquele que trabalha e pena com eles.  
 **17** Alegro-me com a presença de Estéfanas, de Fortunato e de Acaico, porque encheram o vazio da vossa ausência  
 **18** e tranquilizaram assim o meu espírito, como o vosso. Tende, pois, consideração com tais pessoas.  
-**19** As igrejas da Asia saúdam-vos. Muito vos saúdam no Senhor Âquila e Priscila, com a igreja de sua casa.  
+**19** As igrejas da Ásia saúdam-vos. Muito vos saúdam no Senhor Âquila e Priscila, com a igreja de sua casa.  
 **20** Todos os irmãos vos saúdam. Saudai-vos uns aos outros num ósculo santo.  
 **21** A saudação de mim, Paulo, é de meu próprio punho.  
 **22** Se alguém não ama a Nosso Senhor Jesus Cristo, seja anátema! Maran Atha.  

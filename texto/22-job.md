@@ -96,7 +96,7 @@
 
 ## Capítulo 5
 
-**1** Chama, pois, (algum defensor), se é que há alguém que te responda. Para qual dos santos te voltaras?  
+**1** Chama, pois, (algum defensor), se é que há alguém que te responda. Para qual dos santos te voltarás?  
 **2** Verdadeiramente a ira mata o insensato, e a inveja mata o louco.  
 **3** Eu vi o (pecador) insensato com profundas raízes, mas, subitamente, foi destruída a sua morada.  
 **4** Longe estão os seus filhos da salvação (ou felicidade), são pisados à porta (da cidade), e não há quem os livre.  

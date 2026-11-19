@@ -473,7 +473,7 @@
 **4** Todo o leito em que dormir, e todo o objeto sobre o qual se sentar, será impuro.  
 **5** Se alguém tocar o seu leito, lavará as suas vestes, e esse mesmo, depois de lavado em água, será impuro até à tarde.  
 **6** Se se sentar onde ele estava sentado, lavará também as suas vestes, e, lavando-se em água, será impuro até à tarde.  
-**7** O que tocar a sua carne, lavará as suas vestes, e, lavado ele mesmo em água, será impuro ate à tarde.  
+**7** O que tocar a sua carne, lavará as suas vestes, e, lavado ele mesmo em água, será impuro até à tarde.  
 **8** Se a saliva deste homem cair sobre um que está limpo, esse lavará as suas vestes, e, lavado ele mesmo em água, será impuro até à tarde.  
 **9** A sela, sobre que tiver cavalgado, ficará impura;  
 **10** tudo o que tiver estado debaixo daquele que padece este mal, ficará impuro até à tarde. O que levar alguma destas coisas, lavará as suas vestes, e, lavando-se ele mesmo em água, será impuro até à tarde.  

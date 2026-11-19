@@ -616,7 +616,7 @@
 **37** Chegou, pois, o rapaz ao lugar da seta que Jónatas tinha atirado, e Jónatas gritou-lhe: Olha que a seta está mais para lá de ti.  
 **38** Jónatas tornou a gritar, como se se dirigisse ao rapaz, dizendo: Vai depressa, não te demores. O servo de Jónatas recolheu as setas e levou-as ao seu amo.  
 **39** O servo ignorava completamente o motivo do que se fazia, porque só Jónatas e Davide o sabiam.  
-**40** Deu Jonatas depois as suas armas ao rapaz e disse-lhe: Vai, leva-as à cidade.  
+**40** Deu Jónatas depois as suas armas ao rapaz e disse-lhe: Vai, leva-as à cidade.  
 **41** Logo que o rapaz partiu, Davide saiu do lugar onde estava, que olhava para o meio-dia, e, Inclinando-se até à terra, prostrou-se três vezes (diante de Jónatas) e, beijando-se um ao outro, choraram ambos, mas Davide mais.  
 **42** Disse Jónatas a Davide: Vai em paz; (lembra-te de) tudo o que nós ambos juramos em nome do Senhor, dizendo: O Senhor seja para sempre testemunha entre mim e ti, entre a minha geração e a tua geração.  
 **43** Davide levantou-se e partiu. Jónatas voltou para a cidade.  

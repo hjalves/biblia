@@ -401,7 +401,7 @@
 
 ## Capítulo 10
 
-**1** Saindo dali, foi Jesus para o território da Judeia, e alem do Jordão. Novamente as multidões se juntaram em volta dele, e de novo as ensinava, segundo o seu costume,  
+**1** Saindo dali, foi Jesus para o território da Judeia, e além do Jordão. Novamente as multidões se juntaram em volta dele, e de novo as ensinava, segundo o seu costume,  
 **2** Aproximando-se os fariseus, perguntavam-lhe para o tentarem: "É lícito ao marido repudiar sua mulher?"  
 **3** Ele respondeu-lhes: "Que vos mandou Moisés?"  
 **4** Eles responderam: "Moisés permitiu escrever libelo de divórcio, e separar-se dela (Dt. 24, 1)."  

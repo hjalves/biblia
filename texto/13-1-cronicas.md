@@ -378,7 +378,7 @@
 **30** e seu filho primogénito Abdon, e Sur, Cis, Baal, Nadab,  
 **31** Gedor, Aio, Zaquer e Macelot.  
 **32** Macelot gerou Samaa. Estes habitaram em frente de seus irmãos em Jerusalém juntamente com seus irmãos.  
-**33** Ner gerou Cis, Cis gerou Saul, Saul gerou Jonatas, Melquisua, Abinadab e Esbaal.  
+**33** Ner gerou Cis, Cis gerou Saul, Saul gerou Jónatas, Melquisua, Abinadab e Esbaal.  
 **34** O filho de Jónatas foi Meribaal; Meribaal gerou Mica.  
 **35** Filhos de Mica: Fiton, Meleque, Taraa e Acaz.  
 **36** Acaz gerou Joada; Joada gerou Almat, Azmot e Zamri; Zamri gerou Mosa;  

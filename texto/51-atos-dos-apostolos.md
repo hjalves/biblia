@@ -39,7 +39,7 @@
 **6** Logo que se deu este ruído, acudiu muita gente, e ficou pasmada, porque cada um os ouvia falar na sua própria língua.  
 **7** Estavam todos atónitos e admiravam-se, dizendo: "Porventura não são Galileus todos estes que falam?  
 **8** Como é que os ouvimos falar cada um de nós a nossa língua materna?  
-**9** Partos, Medos, Elamitas, os que habitam a Mesopotâmia, a Judeia, a Capadócia, o Ponto e a Asia,  
+**9** Partos, Medos, Elamitas, os que habitam a Mesopotâmia, a Judeia, a Capadócia, o Ponto e a Ásia,  
 **10** a Frigia e a Panfília, o Egito e várias partes da Líbia, vizinhas de Cirene, e os vindos de Roma,  
 **11** tanto Judeus como prosélitos, Cretenses e Árabes, todos os ouvimos falar nas nossas línguas das maravilhas de Deus."  
 **12** Estavam todos atónitos e fora de si, dizendo uns para os outros: "Que quer isto dizer?  
@@ -203,7 +203,7 @@
 **6** Apresentaram-nos diante dos Apóstolos, e estes, depois de terem orado, impuseram-lhes as mãos.  
 **7** A palavra do Senhor ia-se espalhando cada vez mais, multiplicava-se muito o número dos discípulos em Jerusalém, e também uma grande multidão de sacerdotes aderia à fé.  
 **8** Estêvão, cheio de graça e de fortaleza, fazia grandes prodígios e milagres entre o povo.  
-**9** Porém alguns da sinagoga, chamada dos Libertos, dos Cirenenses, dos Alexandrinos e dos que eram da Cilícia e da Asia, levantaram-se a disputar com Estêvão,  
+**9** Porém alguns da sinagoga, chamada dos Libertos, dos Cirenenses, dos Alexandrinos e dos que eram da Cilícia e da Ásia, levantaram-se a disputar com Estêvão,  
 **10** mas não podiam resistir à sabedoria e ao Espírito que inspirava as suas palavras.  
 **11** Então subornaram alguns que disseram: "Ouvimos dizer palavras de blasfémia contra Moisés e contra Deus."  
 **12** Amotinaram assim o povo, os anciães e os escribas; e, avançando contra ele, o arrebataram e levaram ao Sinédrio,  
@@ -738,7 +738,7 @@
 **19** Muitos também daqueles que se tinham entregado à magia, trouxeram os seus livros e queimaram-nos diante de todos. Calculando o seu valor, acharam que montava a cinquenta mil moedas de prata.  
 **20** Deste modo crescia poderosamente e firmava-se a palavra de Deus.  
 **21** Concluídas estas coisas, Paulo concebeu o projeto de ir a Jerusalém, atravessando a Macedónia e a Acaia, dizendo: "Depois de ir lá, é necessário que veja também Roma."  
-**22** E, enviando à Macedónia dois dos que lhe assistiam, Timóteo e Erasto, demorou-se ainda algum tempo na Asia.  
+**22** E, enviando à Macedónia dois dos que lhe assistiam, Timóteo e Erasto, demorou-se ainda algum tempo na Ásia.  
 **23** Neste tempo, surgiu um grande tumulto a propósito do caminho (do Senhor).  
 **24** Com efeito, um certo ourives de prata, chamado Demétrio, que fazia de prata uns pequenos templos de Ártemis, dava muito ganho aos (seus) artífices.  
 **25** Convocando ele estes e outros que trabalhavam em obras semelhantes, disse: "Amigos, sabeis que o nosso ganho nos vem desta indústria.  
