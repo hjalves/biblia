@@ -264,10 +264,14 @@
     },
     {
      "n": 21,
-     "texto": "Os que temem o Senhor, guardam os seus mandamentos, e têm paciência até que lance os olhos sobre eles, dizendo: Se não fizermos penitência, cairemos nas mãos do Senhor, e não nas mãos dos homens."
+     "texto": "Os que temem o Senhor, guardam os seus mandamentos, e têm paciência até que lance os olhos sobre eles, dizendo:"
     },
     {
      "n": 22,
+     "texto": "Se não fizermos penitência, cairemos nas mãos do Senhor, e não nas mãos dos homens."
+    },
+    {
+     "n": 23,
      "texto": "Porque, na medida em que é elevada a sua grandeza, assim o é a sua misericórdia."
     }
    ]
@@ -3638,18 +3642,22 @@
     },
     {
      "n": 26,
-     "texto": "Ela durará (algum, mas) não muito tempo; assenhorear-se-á dos caminhos dos injustos, mas a sua chama não queimará os justos. Os que deixam a Deus, cairão no poder dela, que os queimará, sem se extinguir; lançar-se-á sobre eles como um leão, e como um leopardo os despedaçará."
+     "texto": "Ela durará (algum, mas) não muito tempo; assenhorear-se-á dos caminhos dos injustos, mas a sua chama não queimará os justos."
     },
     {
      "n": 27,
-     "texto": "Cerca os teus ouvidos com espinhos,não queiras ouvir a língua má, e põe na tua boca uma porta com ferrolhos."
+     "texto": "Os que deixam a Deus, cairão no poder dela, que os queimará, sem se extinguir; lançar-se-á sobre eles como um leão, e como um leopardo os despedaçará."
     },
     {
      "n": 28,
-     "texto": "Funde o teu ouro e a tua prata, e faze uma balança para (pesares) as tuas palavras, e um freio bem ajustado para a tua boca;"
+     "texto": "Cerca os teus ouvidos com espinhos,não queiras ouvir a língua má, e põe na tua boca uma porta com ferrolhos."
     },
     {
      "n": 29,
+     "texto": "Funde o teu ouro e a tua prata, e faze uma balança para (pesares) as tuas palavras, e um freio bem ajustado para a tua boca;"
+    },
+    {
+     "n": 30,
      "texto": "olha, não escorregues no teu falar, para não caíres diante dos teus inimigos, que te armam ciladas, e para que não venha a tua queda a ser incurável e mortal."
     }
    ]
@@ -3904,7 +3912,11 @@
     },
     {
      "n": 26,
-     "texto": "A inveja e a ira abreviam os dias, e os afans fazem chegar a velhice antes do tempo. Um coração generoso e bom está num contínuo festim, porque lhe preparam com diligência o seu alimento."
+     "texto": "A inveja e a ira abreviam os dias, e os afans fazem chegar a velhice antes do tempo."
+    },
+    {
+     "n": 27,
+     "texto": "Um coração generoso e bom está num contínuo festim, porque lhe preparam com diligência o seu alimento."
     }
    ]
   },
@@ -5778,7 +5790,11 @@
     },
     {
      "n": 26,
-     "texto": "Distinguiu-o com suas bênçãos, deu-lhe a herança, e repartiu-lha entre as doze tribos. E conservou-lhe homens de misericórdia, que fossem amados por todas as gentes."
+     "texto": "Distinguiu-o com suas bênçãos, deu-lhe a herança, e repartiu-lha entre as doze tribos."
+    },
+    {
+     "n": 27,
+     "texto": "E conservou-lhe homens de misericórdia, que fossem amados por todas as gentes."
     }
    ]
   },

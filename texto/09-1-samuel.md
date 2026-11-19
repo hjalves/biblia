@@ -660,9 +660,10 @@
 **17** E o rei disse para os guardas que o rodeavam: Voltai-vos e matai os sacerdotes do Senhor, porque a mão deles está com Davide: sabendo que ele tinha fugido, não me avisaram. Porém, os criados do rei não quiseram estender as suas mãos contra os sacerdotes do Senhor.  
 **18** Então o rei disse a Doeg: Vai tu, e lança-te sobre os sacerdotes. Doeg, Idumeu, voltando-se, lançou-se sobre os sacerdotes e trucidou naquele dia oitenta e cinco homens, que estavam vestidos do éfode de linho.  
 **19** Saul passou, também, ao fio da espada, Nobe, cidade sacerdotal, (matando) homens e mulheres, crianças e meninos de leite, bois, jumentos e ovelhas.  
-**20** e participou-lhe que Saul tinha matado os sacerdotes do Senhor.  
-**21** Davide disse a Abiatar: Eu logo vi, naquele dia, que, estando lá Doeg, Idumeu, certamente o havia de dizer a Saul: eu sou o culpado da morte de toda a casa de teu pai.  
-**22** Fica comigo, não temas; se alguém buscar a minha vida, buscará também a tua; comigo estarás bem guardado.  
+**20** Escapando um filho de Aquimelec, filho de Aquitob, que se chamava Abiatar, fugiu para Davide  
+**21** e participou-lhe que Saul tinha matado os sacerdotes do Senhor.  
+**22** Davide disse a Abiatar: Eu logo vi, naquele dia, que, estando lá Doeg, Idumeu, certamente o havia de dizer a Saul: eu sou o culpado da morte de toda a casa de teu pai.  
+**23** Fica comigo, não temas; se alguém buscar a minha vida, buscará também a tua; comigo estarás bem guardado.  
 
 ## Capítulo 23
 

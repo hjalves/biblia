@@ -178,6 +178,7 @@
 **9** Semeá-los-ei por entre os povos, e eles de longe se recordarão de mim; instruirão seus filhos, e tomarão a vir.  
 **10** Reconduzi-los-ei da terra do Egipto, congregá-los-ei da Assíria, introduzi-los-ei na terra de Galaad e no Líbano, e não se achará lá lugar (bastante) para eles (por serem numerosos).  
 **11** Israel passará o mar, do Egipto, (o Senhor) ferirá as ondas do mar, todas as profundidades do Nilo ficarão descobertas. A soberba de Assur será humilhada, e o ceptro do Egipto será tirado.  
+**12** Fortificá-los-ei no Senhor, e eles andarão no seu nome — oráculo do Senhor.  
 
 ## Capítulo 11
 

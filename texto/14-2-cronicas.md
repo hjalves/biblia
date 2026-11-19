@@ -36,9 +36,10 @@
 **12** E acrescentava: Bem-dito seja o Senhor Deus de Israel, que fez o céu e a terra, que deu ao rei Davide um filho sábio, entendido, judicioso e prudente, para edificar um templo ao Senhor, e um palácio para si.  
 **13** Eu te envio, pois, um homem sábio e inteligente, que é mestre Hirão,  
 **14** filho duma mulher das filhas de Dan, cujo pai foi Tírio, que sabe trabalhar em ouro e em prata, em bronze e em ferro, em mármore, em madeira, em púrpura, em jacinto, em linho fino, em escarlate, que sabe lavrar todo o género de figuras e inventar engenhosamente tudo o que é necessário para qualquer trabalho; ele trabalhará com os teus artistas e com os artistas do teu pai Davide, meu senhor.  
-**15** Nós mandaremos cortar no Líbano as madeiras de que tiveres necessidade, e faremos pôr jangadas para irem por mar até Jope, donde tu as mandarás transportar a Jerusalém.  
-**16** Salomão, pois, mandou tomar nota de todos os estrangeiros, que havia na terra, de Israel, depois do recenseamento que tinha mandado fazer Davide, seu pai, e achou-se que eram cento e cinquenta e três mil e seiscentos.  
-**17** Destes escolheu setenta mil, que levassem as cargas às costas, oitenta mil que cortassem pedras nos montes, e três mil e seiscentos para inspectores dos trabalhos desta gente.  
+**15** Manda, pois, meu senhor, para os teus servos o trigo, a cevada, o azeite e o vinho, que prometeste.  
+**16** Nós mandaremos cortar no Líbano as madeiras de que tiveres necessidade, e faremos pôr jangadas para irem por mar até Jope, donde tu as mandarás transportar a Jerusalém.  
+**17** Salomão, pois, mandou tomar nota de todos os estrangeiros, que havia na terra, de Israel, depois do recenseamento que tinha mandado fazer Davide, seu pai, e achou-se que eram cento e cinquenta e três mil e seiscentos.  
+**18** Destes escolheu setenta mil, que levassem as cargas às costas, oitenta mil que cortassem pedras nos montes, e três mil e seiscentos para inspectores dos trabalhos desta gente.  
 
 ## Capítulo 3
 

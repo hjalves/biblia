@@ -353,7 +353,8 @@
 **13** Semearam trigo e colheram espinhos; trabalharam, mas em vão; receberam a herança, mas não lhes aproveitou. Tende vergonha dos vossos frutos, por causa da grande cólera do Senhor.  
 **14** Assim fala o Senhor: Todos os vizinhos malvados, que tocam (ou usurpam) a herança que reparti pelo meu povo de Israel, vou arrancá-los da sua terra e arrancar a casa de Judá do meio deles.  
 **15** Mas, quando os tiver arrancado, voltar-me-ei e terei piedade deles, fá-los-ei voltar cada um à sua herança, cada um à sua terra.  
-**16** Se eles, escarmentados, aprenderem os caminhos do meu povo, de maneira que jurem em meu nome (dizendo): Vive o Senhor - como ensinaram o meu povo a jurar por Baal, _(então) serão estabelecidos no meio do meu povo. Porém, se não ouvirem, arrancarei pela raiz e exterminarei aquela gente, diz o Senhor.  
+**16** Se eles, escarmentados, aprenderem os caminhos do meu povo, de maneira que jurem em meu nome (dizendo): Vive o Senhor - como ensinaram o meu povo a jurar por Baal, _(então) serão estabelecidos no meio do meu povo.  
+**17** Porém, se não ouvirem, arrancarei pela raiz e exterminarei aquela gente, diz o Senhor.  
 
 ## Capítulo 13
 
@@ -530,6 +531,7 @@
 **12** Isto farei a este lugar e aos seus habitantes, diz o Senhor, tornando esta cidade semelhante a Tofet.  
 **13** As casas de Jerusalém e as casas dos reis de Judá serão imundas, como o lugar de Tofet; todas as casas, em cujos terraços ofereceram incenso a toda a milícia (ou astros) do céu, e ofereceram libações aos deuses estranhos.  
 **14** Quando Jeremias voltou de Tofet, aonde o tinha enviado o Senhor a profetizar, pôs-se em pé no átrio da casa do Senhor e disse a todo o povo:  
+**15** Assim fala o Senhor dos exércitos, o Deus de Israel: Vou fazer vir sobre esta cidade e sobre todas as cidades dela dependentes, todos os males que predisse contra ela, porque endureceram a sua cerviz, para não ouvir as minhas palavras.  
 
 ## Capítulo 20
 

@@ -126,7 +126,8 @@
 **23** Aplica-te com todo o cuidado possível à guarda do teu coração, porque dele é que procede a vida.  
 **24** Afasta de ti a malignidade da boca, aparta de ti a perversidade dos lábios.  
 **25** Os teus olhos olhem direitos, a tua vista preceda os teus passos.  
-**26** Examina a vereda em que pões os teus pés, e todos os teus caminhos sejam direitos. Não declines nem para a direita nem para a esquerda, retira o teu pé do mal.  
+**26** Examina a vereda em que pões os teus pés, e todos os teus caminhos sejam direitos.  
+**27** Não declines nem para a direita nem para a esquerda, retira o teu pé do mal.  
 
 ## Capítulo 5
 
@@ -873,7 +874,8 @@
 **23** Conhece diligentemente o estado da tua grei, atende aos teus rebanhos,  
 **24** porque nem sempre dura a riqueza, nem a tua coroa passará de geração em geração.  
 **25** Abrem-se os prados, brotam as verdes ervas, recolhe-se o feno dos montes.  
-**26** Os cordeiros são para te vestires, e os cabritos para comprares um campo. Basta-te o leite das cabras para o teu sustento, para o sustento da tua família e para manter as tuas escravas.  
+**26** Os cordeiros são para te vestires, e os cabritos para comprares um campo.  
+**27** Basta-te o leite das cabras para o teu sustento, para o sustento da tua família e para manter as tuas escravas.  
 
 ## Capítulo 28
 
@@ -933,7 +935,8 @@
 **23** O orgulho dum homem condu-lo à humilhação; porém o humilde de espírito será glorificado.  
 **24** Aquele que se associa com o ladrão, aborrece a sua própria alma; ouve a maldição e nada denuncia.  
 **25** Aquele que teme o homem, cairá num laço, o que espera no Senhor estará seguro.  
-**26** São muitos os que buscam a face (o favor) do príncipe; porém do Senhor depende a verdadeira sentença de cada um. Os justos abominam o homem ímpio, e os ímpios abominam aqueles que estão no caminho recto.  
+**26** São muitos os que buscam a face (o favor) do príncipe; porém do Senhor depende a verdadeira sentença de cada um.  
+**27** Os justos abominam o homem ímpio, e os ímpios abominam aqueles que estão no caminho recto.  
 
 ## Capítulo 30
 

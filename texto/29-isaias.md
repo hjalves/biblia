@@ -281,11 +281,12 @@
 
 ## Capítulo 12
 
-**1** Dirás naquele dia: Eu te rendo graças, Senhor, porque, havendo-te irado contra mim, o teu furor aplacou-se e tu me consolaste. Eis o Deus meu Salvador; estou cheio de confiança, não temo, porque o Senhor é a minha fortaleza e o meu louvor; ele foi a minha salvação.  
-**2** Tirareis com gosto águas das fontes da salvação,  
-**3** e direis naquele dia; Louvai o Senhor, invocai o seu nome, publicai entre os povos as suas obras, proclamai que o seu nome é excelso.  
-**4** Cantai ao Senhor, porque ele fez coisas magníficas; que se saiba isto em toda a terra.  
-**5** Cantai de alegria, rejubilai, habitantes de Sião, porque se mostra grande, no meio de vós, o Santo de Israel.  
+**1** Dirás naquele dia: Eu te rendo graças, Senhor, porque, havendo-te irado contra mim, o teu furor aplacou-se e tu me consolaste.  
+**2** Eis o Deus meu Salvador; estou cheio de confiança, não temo, porque o Senhor é a minha fortaleza e o meu louvor; ele foi a minha salvação.  
+**3** Tirareis com gosto águas das fontes da salvação,  
+**4** e direis naquele dia; Louvai o Senhor, invocai o seu nome, publicai entre os povos as suas obras, proclamai que o seu nome é excelso.  
+**5** Cantai ao Senhor, porque ele fez coisas magníficas; que se saiba isto em toda a terra.  
+**6** Cantai de alegria, rejubilai, habitantes de Sião, porque se mostra grande, no meio de vós, o Santo de Israel.  
 
 ## Capítulo 13
 
@@ -579,15 +580,16 @@
 **1** Naquele dia o Senhor, armado com a sua espada dura, grande e forte, visitará Leviatan, essa serpente fugidia, Leviatan, essa serpente tortuosa, e matará o monstro que está no mar.  
 **2** Naquele dia se dirá: Cantai a vinha que dá vinho puro.  
 **3** Sou eu, o Senhor, que a guardo; eu a rego continuamente; para que não receba nenhum dano, eu a guardo de noite e de dia.  
-**4** Não tenho indignação (contra ela). Quem me dará silvas e espinhos para combater? Marcharei contra eles, queimá-los-ei todos juntos, a não ser que se ponham debaixo da minha protecção, que façam a paz comigo, que façam comigo a paz.  
-**5** Em dias futuros, Jacob lançará raízes, Israel florescerá, lançará rebentos e encherá de seus frutos a face finai de da terra.  
-**6** Porventura feriu-o (Deus) como feriu os seus opressores? Ou matou-o como aos que o matavam?  
-**7** Pelo desterro o castigou, impelindo-o com o seu sopro impetuoso, como vento do Oriente  
-**8** Assim foi expiado o crime da casa de Jacob, e eis todo o fruto da expiação do seu pecado: pulverizou todas as pedras dos altares como pedras reduzidas a cinzas, e não se levantarão mais (ascherás) nem estelas do Sol.  
-**9** Porque a cidade forte foi assolada, despovoada e abandonada, como um deserto; nela pastam os bois, nela se deitam, e comem as pontas da sua verdura.  
-**10** As ramagens secas partem-se, e vêm as mulheres e queimam-nas. É um povo sem inteligência: por isso, aquele que o fez não terá pena dele, não lhe fará mercê aquele que o formou.  
-**11** E acontecerá que naquele dia o Senhor sacudirá o trigo desde o leito do rio (Eufrates) até à torrente do Egipto; e vós, filhos de Israel, sereis congregados, um a um.  
-**12** Também acontecerá que naquele dia soará uma grande trombeta e virão os que tinham ficado perdidos na terra dos Assírios, e os que se achavam desterrados na terra do Egipto, e adorarão o Senhor no monte santo, em Jerusalém.  
+**4** Não tenho indignação (contra ela). Quem me dará silvas e espinhos para combater? Marcharei contra eles, queimá-los-ei todos juntos,  
+**5** a não ser que se ponham debaixo da minha protecção, que façam a paz comigo, que façam comigo a paz.  
+**6** Em dias futuros, Jacob lançará raízes, Israel florescerá, lançará rebentos e encherá de seus frutos a face da terra.  
+**7** Porventura feriu-o (Deus) como feriu os seus opressores? Ou matou-o como aos que o matavam?  
+**8** Pelo desterro o castigou, impelindo-o com o seu sopro impetuoso, como vento do Oriente  
+**9** Assim foi expiado o crime da casa de Jacob, e eis todo o fruto da expiação do seu pecado: pulverizou todas as pedras dos altares como pedras reduzidas a cinzas, e não se levantarão mais (ascherás) nem estelas do Sol.  
+**10** Porque a cidade forte foi assolada, despovoada e abandonada, como um deserto; nela pastam os bois, nela se deitam, e comem as pontas da sua verdura.  
+**11** As ramagens secas partem-se, e vêm as mulheres e queimam-nas. É um povo sem inteligência: por isso, aquele que o fez não terá pena dele, não lhe fará mercê aquele que o formou.  
+**12** E acontecerá que naquele dia o Senhor sacudirá o trigo desde o leito do rio (Eufrates) até à torrente do Egipto; e vós, filhos de Israel, sereis congregados, um a um.  
+**13** Também acontecerá que naquele dia soará uma grande trombeta e virão os que tinham ficado perdidos na terra dos Assírios, e os que se achavam desterrados na terra do Egipto, e adorarão o Senhor no monte santo, em Jerusalém.  
 
 ## Capítulo 28
 
