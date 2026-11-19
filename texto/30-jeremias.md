@@ -866,7 +866,7 @@
 **27** Eis vêm dias, diz o Senhor, em que semearei a casa de Israel e a casa de Judá de semente de homens e de semente de animais.  
 **28** E, assim como vigiei sobre eles para desarraigar, demolir, dissipar, arruinar e afligir, do mesmo modo vigiarei sobre eles para edificar e plantar, diz o Senhor.  
 **29** Naqueles dias não se dirá mais: Os pais comeram uvas verdes, e os dentes dos filhos é que ficaram botos.  
-**30** Mas morrerá pela sua iniquidade; a todo o homem que comer uvas verdes, a esse é que ficarão botos os dentes.  
+**30** Mas cada um morrerá pela sua iniquidade; a todo o homem que comer uvas verdes, a esse é que ficarão botos os dentes.  
 **31** Estão a chegar os dias, diz o Senhor, em que farei nova aliança com a casa de Israel e com a casa de Judá,  
 **32** diferente da aliança que fiz com seus pais no dia em que os tomei pela mão, para os tirar da terra do Egito, aliança que eles violaram. (Por isso) fiz sentir sobre eles o meu poder, diz o Senhor.  
 **33** Eis a aliança que farei com a casa de Israel, depois daqueles dias, diz o Senhor; Imprimirei a minha lei no seu íntimo, escrevê-la-ei nos seus corações; serei o seu Deus, e eles serão o meu povo.  
@@ -1038,7 +1038,7 @@
 
 ## Capítulo 37
 
-**1** O rei Sedecias, filho de Josias, reinou em lugar de Jeconias, filho de Joaquim, a quem Nabucodonosor Babilónia, estabeleceu rei no país de Judá.  
+**1** O rei Sedecias, filho de Josias, reinou em lugar de Jeconias, filho de Joaquim, a quem Nabucodonosor, rei de Babilónia, estabeleceu rei no país de Judá.  
 **2** Mas nem ele, nem os seus servos, nem o povo da terra, escutaram as palavras que o Senhor tinha dito pela boca do profeta Jeremias.  
 **3** Contudo, o rei Sedecias mandou Jucal, filho de Selemias, e Sofonias, filho de Maasias, sacerdote, dizer ao profeta Jeremias: Pede por nós ao Senhor nosso Deus.  
 **4** Jeremias andava livremente por entre o povo, porque ainda o não tinham metido no cárcere. Entretanto o exército de Faraó saiu do Egito; ouvindo esta nova, os Caldeus, que tinham cercado Jerusalém, retiraram-se de Jerusalém.  

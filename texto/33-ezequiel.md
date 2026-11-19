@@ -744,7 +744,7 @@
 **6** fizeram de carvalhos de Basan os teus remos; de marfim incrustado em cedro das ilhas de Kittim construíram os teus bancos;  
 **7** de fino linho do Egito, bordado, foi tecido o teu velame, que te servia de toldo; de jacinto e de púrpura das ilhas de Elisa era formado o teu pavilhão;  
 **8** os habitantes de Sidónia e de Arada eram teus remadores; os teus sábios, ó Tiro, eram teus pilotos;  
-**9** os velhos de Gebal, e os mais hábeis de lá, empregavam na reparação do teu material. Todos os navios do mar e os seus marinheiros vinham a ti para o tráfico de mercadorias.  
+**9** os velhos de Gebal, e os mais hábeis de lá, empregavam-se na reparação do teu material. Todos os navios do mar e os seus marinheiros vinham a ti para o tráfico de mercadorias.  
 **10** Persas, Lídios e Líbios eram guerreiros no teu exército; suspendiam em ti os seus escudos e capacetes, dando-te esplendor.  
 **11** Os filhos de Arvad com o teu exército estavam sobre a cintura das tuas muralhas, e os de Gammad nas tuas torres; penduravam os seus escudos à roda dos teus muros e completavam a tua formosura.  
 **12** Tarsis fazia tráfico contigo de toda a casta de riquezas, pagando-se mercadorias com prata, ferro, estanho e chumbo.  

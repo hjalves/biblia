@@ -22,7 +22,7 @@
 **4** Não me compadecerei dos seus filhos, porque são filhos da prostituição.  
 **5** Com efeito, sua mãe prostituiu-se (idolatrando), aquela que os concebeu conduziu-se mal e disse: Irei após os meus amantes (ou ídolos), que me dão o meu pão e a minha água, a minha lã e o meu linho, o meu azeite e a minha bebida.  
 **6** Por isso vou fechar-lhe o caminho com uma sebe de espinhos; cercá-lo-ei com um muro, e ela não encontrará as suas veredas.  
-**7** Irá em seguimento dos (ídolos) seus amantes, mas não os alcançará; buscá-los, mas não os encontrará. Dirá então: Irei e voltarei para o meu primeiro (legítimo) esposo, porque então eu era mais feliz do que agora.  
+**7** Irá em seguimento dos (ídolos) seus amantes, mas não os alcançará; buscá-los-á, mas não os encontrará. Dirá então: Irei e voltarei para o meu primeiro (legítimo) esposo, porque então eu era mais feliz do que agora.  
 **8** Ela não reconheceu que fui eu (e não os ídolos) que lhe dei o trigo, o vinho e o azeite, e que lhe prodigalizei a prata e o ouro, que, ofereceram a Baal.  
 **9** Por isso (mudarei agora de proceder a seu respeito), ou tomarei o meu trigo a seu tempo, e o meu vinho na estação própria, e tirarei (das suas mãos) a minha lã e o meu linho, que cobrem a sua nudez.  
 **10** Agora descobrirei a sua vergonha aos olhos dos seus amantes (que em nada lhe podem valer), e ninguém a livrará da minha mão;  

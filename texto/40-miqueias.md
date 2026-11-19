@@ -90,7 +90,7 @@
 **3** Povo meu, que é que te fiz, ou em que te fui molesto? Responde-me.  
 **4** Tirei-te da terra do Egito, livrei-te da casa da escravidão e enviei diante de ti Moisés, Aarão e Maria.  
 **5** Povo meu, peço-te que te lembres do desígnio (contra ti) de Balac, rei de Moab, e do que lhe respondeu Balaão, filho de Beor, (em teu favor, obrigado por mim); (lembra-te de como te protegi) desde Setim até Gálgala, para reconheceres as mercês do Senhor.  
-**6** Com que (ofertas) me apresentarei ao Senhor (responde o povo) e me prostrarei diante do Deus excelso? Oferecer-lhe porventura holocaustos, novilhos de um ano?  
+**6** Com que (ofertas) me apresentarei ao Senhor (responde o povo) e me prostrarei diante do Deus excelso? Oferecer-lhe-ei porventura holocaustos, novilhos de um ano?  
 **7** Porventura o Senhor receberá com agrado milhares de carneiros ou miriades de torrentes de azeite? Porventura sacrificar-lhe-ei pela minha maldade o meu filho primogénito, o fruto das minhas entranhas pelo pecado da minha alma?  
 **8** Já te foi mostrado, ó homem, (responde o profeta) o que te é bom, o que o Senhor requer de ti: que pratiques a justiça, que ames a bondade e que andes humildemente diante do teu Deus.  
 **9** A voz do Senhor clama à cidade. É sabedoria (ó Deus) temer o teu nome. Ouve, tribo; ouve, assembleia da cidade!  

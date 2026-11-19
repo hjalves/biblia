@@ -180,7 +180,7 @@
 **20** Negro se torna o seu rosto com o fumo que se eleva na sua casa.  
 **21** Sobre o seu corpo e sobre a sua cabeça esvoaçam os mochos, as andorinhas e outras aves, e também saltam os gatos.  
 **22** Por isto bem vedes que não são deuses; portanto não os temais.  
-**23** O ouro que os cobre, serve para os embelezar, mas se alguém lhes não limpar o empanamento, reluzirão. Mesmo quando os fundiam, nada sentiram.  
+**23** O ouro que os cobre, serve para os embelezar, mas se alguém lhes não limpar o empanamento, não reluzirão. Mesmo quando os fundiam, nada sentiram.  
 **24** Por alto preço são comprados, e não há neles espírito de vida.  
 **25** Não tendo pés (capazes de andar), são levados sobre os ombros, mostrando aos homens a sua vileza. Devem também envergonhar-se os que os adoram.  
 **26** Se caírem em terra, não se levantam por si mesmos; se alguém os põe de pé, não se podem mover; se inclinados, não se podem endireitar. São lhes apresentadas, como a mortos, as oferendas.  

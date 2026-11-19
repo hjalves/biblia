@@ -121,7 +121,7 @@
 **15** nem se acende uma lucerna, e se põe debaixo do alqueire, mas sobre o candeeiro, a fim de que dê luz a todos os que estão em casa.  
 **16** Assim brilhe a vossa luz diante dos homens, para que vejam as vossas boas obras, e glorifiquem o vosso Pai, que está nos céus.  
 **17** Não julgueis que vim abolir a lei ou os profetas; não vim (para os) abolir, mas sim (para os) cumprir.  
-**18** Porque em verdade vos digo: antes passarão o céu e a terra, que passe da lei um só jota ou um ápice, sem que tudo seja cumprido.  
+**18** Porque em verdade vos digo: antes passarão o céu e a terra, que passe da lei um só jota ou um só ápice, sem que tudo seja cumprido.  
 **19** Aquele, pois, que violar um destes mandamentos, mesmo dos mais pequenos, e ensinar assim aos homens, será considerado o mais pequeno no reino dos céus; mas o que os guardar e ensinar, esse será considerado grande no reino dos céus.  
 **20** Porque eu vos digo que, se a vossa justiça não exceder a dos escribas e a dos fariseus, não entrareis no reino dos céus.  
 **21** Ouvistes que foi dito aos antigos: Não matarás (Ex. 20, 13...), e quem matar será submetido ao juízo do tribunal.  

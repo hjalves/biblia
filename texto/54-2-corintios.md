@@ -23,7 +23,7 @@
 **19** Porque o Filho de Deus, Jesus Cristo, que vos foi pregado por nós, (isto é), por mim, por Silvano e por Timóteo, não foi sim e não, mas foi (sempre) sim.  
 **20** Com efeito, todas as promessas de Deus encontraram o seu sim nele e, por isso é também por ele que dizemos o nosso Amen para glória de Deus.  
 **21** Ora, aquele que nos confirma em Cristo convosco e que nos ungiu, é Deus,  
-**22** o qual nos imprimiu o seu selo e pôs em nossos corações o penhor do Espírito (Santo).  
+**22** o qual também nos imprimiu o seu selo e pôs em nossos corações o penhor do Espírito (Santo).  
 **23** Ora eu chamo a Deus por testemunha sobre a minha alma de que (foi) para ser indulgente convosco que não fui mais a Corinto; não porque pretendamos dominar sobre a vossa fé, mas porque somos cooperadores do vosso gozo, pois estais firmes na fé.  
 
 ## Capítulo 2

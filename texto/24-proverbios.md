@@ -343,7 +343,7 @@
 **21** Cedo ou tarde o mau não ficará impune, porém a linhagem dos justos será salva.  
 **22** Um anel de oiro no focinho dum porco, tal é a mulher formosa mas insensata.  
 **23** Todo o desejo dos justos se dirige ao bem; o que espera os ímpios é o furor (divino).  
-**24** Uns repartem liberalmente e ficam mais ricos, outros poupam demais, estão sempre na pobreza.  
+**24** Uns repartem liberalmente e ficam mais ricos, outros poupam demais, e estão sempre na pobreza.  
 **25** A alma beneficente será cumulada de bens, e o que largamente dá, largamente receberá.  
 **26** O que esconde o trigo será amaldiçoado entre os povos; a bênção virá sobre a cabeça dos que o vendem.  
 **27** Aquele que faz o bem, bens atrai (sobre si); aquele porém que busca fazer o mal, será por ele oprimido.  

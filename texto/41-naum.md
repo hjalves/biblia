@@ -47,7 +47,7 @@
 **9** A Etiópia era a sua força, como também o Egito de população ilimitada; os Lídios e os Líbios eram seus auxiliares.  
 **10** Não obstante isto, ela foi levada cativa para uma terra estranha; os seus pequeninos foram esmagados nas esquinas de todas as ruas; sobre os seus nobres deitaram sortes, e todos os seus grandes senhores foram carregados de ferros.  
 **11** Também tu, pois, (ó Nínive), serás embriagada, e cairás no desprezo; também tu, (em vão) pedirás socorro contra o inimigo.  
-**12** Todas as tuas fortificações serão como a figueira com figos temporãos: se se sacudirem, cairão na boca do que quiser comer.  
+**12** Todas as tuas fortificações serão como a figueira com figos temporãos: se se sacudirem, cairão na boca do que os quiser comer.  
 **13** Eis que o teu povo é (fraco) como mulheres no meio de ti; as portas da tua terra se abrirão de par em par aos teus inimigos; o fogo devorará as tuas trancas.  
 **14** Abastece-te de água para o cerco, repara as tuas fortificações; pisa o barro, amassa a argila, pega na forma dos tijolos.  
 **15** Ali te consumirá o fogo; perecerás à espada, ela te devorará como o yeleq (devora a erva), ainda que reunas gente em tão grande número como o yeleq, poderoso como o gafanhoto.  

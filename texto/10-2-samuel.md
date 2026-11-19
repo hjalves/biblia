@@ -568,7 +568,7 @@
 **21** Respondendo, porém, Abisai, filho de Sarvia, disse: Porventura bastarão estas palavras para Semei não ser morto, depois de ter amaldiçoado o ungido do Senhor?  
 **22** Mas Davide disse: Que tenho eu convosco, ó filhos de Sarvia? Por que vos haveis de opor, hoje, a mim? Então há-de, neste dia, tirar-se a vida a um israelita? Ignoro eu porventura que hoje fui feito rei sobre Israel?  
 **23** E o rei disse a Semei: Não morrerás. E assim lho jurou.  
-**24** Veio Mifiboset, filho de Saul, receber o rei. Não havia lavado os pés nem feito a barba, nem lavado vestes desde o dia em que o rei tinha saído, até ao dia da sua volta em paz.  
+**24** Veio Mifiboset, filho de Saul, receber o rei. Não havia lavado os pés nem feito a barba, nem lavado suas vestes desde o dia em que o rei tinha saído, até ao dia da sua volta em paz.  
 **25** Vindo ao encontro do rei em Jerusalém, o rei disse-lhe: Mifiboset, por que não foste tu comigo?  
 **26** Ele respondeu-lhe: Meu rei e senhor, o meu criado enganou-me porque eu, teu servo, disse-lhe que me aparelhasse um jumento para montar nele, e ir com o rei, pois eu, teu servo, sou coxo.  
 **27** Ele, além disto, acusou-me a mim, teu servo, diante de ti, meu rei e senhor, mas tu, meu rei e senhor, és como um anjo de Deus: faze o que bem te parecer.  
