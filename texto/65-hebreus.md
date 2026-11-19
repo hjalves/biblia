@@ -69,7 +69,7 @@
 **5** E outra vez: Não entrarão no meu descanso (Ps. 94, 11).  
 **6** Como, pois, alguns entram nele, e aqueles, a quem primeiro foi anunciada a boa nova, não entraram por causa da sua incredulidade,  
 **7** (Deus) fixa de novo um certo dia (que ele chama). Hoje, dizendo, por meio de David, muito tempo depois, o que acima foi citado: Hoje, se ouvirdes a sua voz, não endureçais os vossos corações.  
-**8** De fato, se Josué lhes tivesse dado o descanso, Deus não teria falado, depois disso, de um outro dia.  
+**8** De facto, se Josué lhes tivesse dado o descanso, Deus não teria falado, depois disso, de um outro dia.  
 **9** Resta portanto um repouso sabático ( no céu) para o povo de Deus.  
 **10** Realmente aquele que entrou no descanso de Deus, também repousa das suas obras, como Deus das dele.  
 **11** Apressemos-nos, pois, a entrar naquele descanso, para que ninguém caia, dando tal exemplo de desobediência.  
@@ -246,7 +246,7 @@
 **3** Pela fé reconhecemos que o mundo foi formado pela palavra de Deus, de sorte que o visível foi feito pelo invisível.  
 **4** (Animado) pela fé, ofereceu Abel a Deus um sacrifício melhor que o de Caim; por ela foi declarado justo, tendo Deus aprovado os seus dons; e por ela fala ainda depois de morto (por meio dos seus exemplos).  
 **5** Pela fé foi arrebatado Henoch (deste mundo) para que não visse a morte, e não foi encontrado, visto que Deus o tinha arrebatado (Gn. 5, 24). Antes desta trasladação, recebeu o testemunho de ter agradado a Deus.  
-**6** Sem fé é impossível agradar-lhe: de fato, é necessário que o que se aproxima de Deus, creia que ele existe e que é remunerador dos que o buscam.  
+**6** Sem fé é impossível agradar-lhe: de facto, é necessário que o que se aproxima de Deus, creia que ele existe e que é remunerador dos que o buscam.  
 **7** Foi pela fé que Noé, avisado por Deus de coisas que ainda se não viam, com piedoso temor foi aparelhando uma arca para salvar a sua família; pela fé condenou o mundo e tornou-se herdeiro da justiça, que se obtêm pela fé.  
 **8** Pela fé, aquele que se chama Abraão obedeceu, partindo para o lugar que havia de receber por herança; e partiu, sem saber para onde ia.  
 **9** Pela fé estabeleceu-se na terra prometida, como em terra alheia, habitando em tendas com Isaac e Jacob, herdeiros com ele da mesma promessa,  

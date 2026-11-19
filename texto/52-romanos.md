@@ -21,7 +21,7 @@
 **17** A justiça de Deus manifesta-se nele, indo da fé para a fé, como está escrito: O justo vive da fé (Hc. 2, 4).  
 **18** Com efeito a ira de Deus manifesta-se do céu contra toda a impiedade e injustiça daqueles homens que retêm a verdade de Deus cativa da injustiça,  
 **19** porque o que se pode conhecer de Deus, é-lhes manifesto, pois Deus lho manifestou.  
-**20** De fato, as coisas invisíveis dele, isto é, o seu poder eterno e a sua divindade, depois da criação do mundo, compreendendo-se pelas coisas feitas, tornaram-se visíveis, de modo que são inexcusáveis,  
+**20** De facto, as coisas invisíveis dele, isto é, o seu poder eterno e a sua divindade, depois da criação do mundo, compreendendo-se pelas coisas feitas, tornaram-se visíveis, de modo que são inexcusáveis,  
 **21** porque, tendo conhecido a Deus, não o glorificaram como Deus, nem lhe deram graças, mas desvaneceram-se nos seus pensamentos, e obscureceu-se o seu coração insensato,  
 **22** pois, dizendo ser sábios, tornaram-se estultos  
 **23** e mudaram a glória de Deus incorruptível na figura de um simulacro de homem corruptível, de aves, de quadrúpedes e de répteis.  
@@ -49,7 +49,7 @@
 **10** mas glória, honra e a paz a todo aquele que faz o bem, ao judeu primeiramente, e depois ao grego,  
 **11** porque, diante de Deus, não há aceção de pessoas.  
 **12** Porque todos os que sem lei pecaram, sem lei perecerão, e todos os que com a lei pecaram, pela lei serão julgados.  
-**13** De fato, não são justos diante de Deus os que ouvem a lei, mas os que observam a lei é que serão justificados.  
+**13** De facto, não são justos diante de Deus os que ouvem a lei, mas os que observam a lei é que serão justificados.  
 **14** Com efeito, quando os gentios, que não têm lei (escrita), fazem naturalmente as coisas que são da lei, esses, não tendo lei, a si mesmos servem de lei  
 **15** e mostram que o que a lei ordena está escrito nos seus corações, dando-lhes testemunho a sua própria consciência e os pensamentos, que os acusam (se fizerem o mal) ou defendem (se fizerem o bem).  
 **16** Isto ver-se-á naquele dia em que Deus, segundo o meu Evangelho, há-de julgar as coisas ocultas dos homens por meio de Jesus Cristo.  

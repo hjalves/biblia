@@ -63,7 +63,7 @@
 **7** Em verdade, Deus não nos chamou para a impureza, mas para a santidade.  
 **8** Aquele, pois, que despreza isto, não despreza um homem, mas Deus, que vos dá o seu Espírito Santo.  
 **9** Pelo que diz respeito à caridade fraterna, não temos necessidade de vos escrever, porque vós mesmos aprendestes de Deus que vos deveis amar uns aos outros.  
-**10** E, de fato, assim o praticais com todos os irmãos em toda a Macedónia. Mas nós vos exortamos, irmãos, a avançar, cada vez mais (na prática desta virtude).  
+**10** E, de facto, assim o praticais com todos os irmãos em toda a Macedónia. Mas nós vos exortamos, irmãos, a avançar, cada vez mais (na prática desta virtude).  
 **11** Procurai viver em paz, ocupar-vos dos vossos negócios e trabalhar com as vossas mãos, como vos ordenamos.  
 **12** Assim tereis um proceder correto, aos olhos dos que estão fora (da Igreja), e não precisareis de ninguém.  
 **13** Mas não queremos, irmãos, que estejais na ignorância acerca dos mortos, para que não vos entristeçais como os outros, que não têm esperança.  

@@ -22,7 +22,7 @@
 **18** Efetivamente, a palavra da cruz é uma loucura para os que se perdem, mas, para os que se salvam, isto é, para nós, é a virtude de Deus.  
 **19** Porque está escrito: Destruirei a sabedoria dos sábios e reprovarei a prudência dos prudentes (Is. 29, 14).  
 **20** Onde está o sábio? Onde o homem instruído? Onde o disputador deste mundo? Porventura não convenceu Deus de loucura a sabedoria deste mundo?  
-**21** De fato, como ante a sabedoria de Deus o mundo não conheceu a Deus por meio da sabedoria, aprouve a Deus salvar os crentes por meio da loucura da pregação.  
+**21** De facto, como ante a sabedoria de Deus o mundo não conheceu a Deus por meio da sabedoria, aprouve a Deus salvar os crentes por meio da loucura da pregação.  
 **22** Enquanto os Judeus exigem milagres e os Gregos buscam a sabedoria,  
 **23** nós pregamos a Cristo crucificado, que é escândalo para os Judeus e loucura para os gentios,  
 **24** mas, para os que são chamados (à fé) quer dos Judeus, quer dos Gregos, é Cristo virtude de Deus e sabedoria de Deus;  
@@ -51,7 +51,7 @@
 **13** as quais também anunciamos, não com palavras doutas de humana sabedoria, mas com a doutrina do Espírito, exprimindo em termos espirituais as coisas espirituais.  
 **14** O homem natural não percebe aquelas coisas que são do Espírito de Deus, porque, para ele, são uma estultícia, e não as pode entender, pois elas ponderam-se espiritualmente.  
 **15** Porém o homem espiritual julga (bem) todas as coisas, e não é julgado por ninguém.  
-**16** De fato, quem conheceu o pensamento do Senhor, para que o possa instruir (Is. 40, 13)? Nós, porém, temos o pensamento de Cristo.  
+**16** De facto, quem conheceu o pensamento do Senhor, para que o possa instruir (Is. 40, 13)? Nós, porém, temos o pensamento de Cristo.  
 
 ## Capítulo 3
 
@@ -95,7 +95,7 @@
 **12** e cansamo-nos a trabalhar por nossas próprias mãos; amaldiçoam-nos, e bendizemos; perseguem-nos, e sofremos (com paciência);  
 **13** somos caluniados, e encorajamos; tornamo-nos como a imundície deste mundo, a escória de todos até agora.  
 **14** Não escrevo estas coisas para vos envergonhar, mas admoesto-vos como a meus filhos caríssimos.  
-**15** De fato, ainda que tenhais dez mil pedagogos em Cristo, não tendes todavia muitos pais, pois fui eu que vos gerei em Jesus Cristo por meio do Evangelho.  
+**15** De facto, ainda que tenhais dez mil pedagogos em Cristo, não tendes todavia muitos pais, pois fui eu que vos gerei em Jesus Cristo por meio do Evangelho.  
 **16** Rogo-vos, pois, que sejais meus imitadores.  
 **17** Por isso vos enviei Timóteo, que é meu filho caríssimo e fiel no Senhor, o qual vos lembrará os meus caminhos, que são em Jesus Cristo, como eu ensino por toda a parte em todas as igrejas.  
 **18** Alguns andam inchados (de orgulho) como se eu não estivesse para ir ter convosco.  
