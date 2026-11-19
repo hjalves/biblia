@@ -81,7 +81,7 @@
 **3** E, aproximando-se dele o tentador, disse-lhe: "Se és Filho de Deus, diz que estas pedras se convertam em pães."  
 **4** Jesus respondeu: "Está escrito: Não só de pão vive o homem, mas de toda a palavra que sai da boca de Deus (Dt. 8, 3)."  
 **5** Então o demónio transportou-o à cidade santa, pô-lo sobre o pináculo do templo,  
-**6** e disse-lhe: "Se és Filho de Deus. lança-te daqui abaixo, porque está escrito: Mandou aos seus anjos em teu favor, eles te levarão nas suas mãos, para que o teu pé não tropece em alguma pedra (Ps. 90, 11-12)."  
+**6** e disse-lhe: "Se és Filho de Deus, lança-te daqui abaixo, porque está escrito: Mandou aos seus anjos em teu favor, eles te levarão nas suas mãos, para que o teu pé não tropece em alguma pedra (Ps. 90, 11-12)."  
 **7** Jesus disse-lhe: "Também está escrito: Não tentarás o Senhor teu Deus (Dt. 6, 16)."  
 **8** De novo o demónio o transportou a um monte muito alto, e lhe mostrou todos os reinos do mundo e a sua magnificência,  
 **9** e lhe disse: "Tudo isto te darei, se, prostrado, me adorares."  
@@ -140,7 +140,7 @@
 **34** Eu, porém, digo-vos que não jureis de modo algum (sem motivo justo), nem pelo céu, porque é o trono de Deus;  
 **35** nem pela terra, porque é o escabelo de seus pés; nem por Jerusalém, porque é a cidade do grande rei.  
 **36** Nem jurarás pela tua cabeça, pois não podes fazer branco ou negro um só dos teus cabelos.  
-**37** Seja o vosso falar: Sim. sim; não não. Tudo o que disto passa, procede do Maligno.  
+**37** Seja o vosso falar: Sim, sim; não não. Tudo o que disto passa, procede do Maligno.  
 **38** Ouvistes que foi dito: Olho por olho, e dente por dente (Lv. 24, 19-20).  
 **39** Eu, porém, digo-vos que não resistais ao (que é) mau; mas, se alguém te ferir na tua face direita, apresenta-lhe também a outra;  
 **40** e ao que quer chamar-te a juízo para te tirar a túnica, cede-lhe também a capa.  
@@ -447,7 +447,7 @@
 **12** Porque ao que tem lhe será dado (ainda mais), e terá em abundância, mas ao que não tem, até o que tem lhe será tirado.  
 **13** Por isso lhes falo em parábolas, porque vendo não veem, e ouvindo não ouvem nem entendem.  
 **14** E cumpre-se neles a profecia de Isaías (Is. 6, 9-10), que diz: Ouvireis com os ouvidos, e não entendereis; olhareis com os vossos olhos, e não vereis.  
-**15** Porque o coração deste povo tornou-se insensível, os- seus ouvidos tornaram-se duros, e fecharam os olhos, para não suceder que vejam com os olhos, e ouçam com os ouvidos, e entendam com o coração, e se convertam, e eu os sare.  
+**15** Porque o coração deste povo tornou-se insensível, os seus ouvidos tornaram-se duros, e fecharam os olhos, para não suceder que vejam com os olhos, e ouçam com os ouvidos, e entendam com o coração, e se convertam, e eu os sare.  
 **16** Ditosos, porém, os vossos olhos, porque veem, e os vossos ouvidos, porque ouvem.  
 **17** Em verdade vos digo que muitos profetas e justos desejaram ver o que vedes, e não o viram, ouvir o que ouvis, e não o ouviram.  
 **18** Ouvi, pois, vós o que significa a parábola do semeador:  
@@ -461,10 +461,10 @@
 **26** Tendo crescido a erva e dado fruto, apareceu então a cizânia.  
 **27** Chegando os servos do pai de família, disseram-lhe: Senhor, porventura não semeaste tu boa semente no teu campo? Donde veio pois a cizânia?  
 **28** Ele respondeu-lhes: Foi um inimigo que fez isto. Os servos disseram-lhe: Queres que vamos e a arranquemos?  
-**29** Ele respondeu-lhes: Não. para que talvez não suceda que, arrancando a cizânia, arranqueis juntamente com ela o trigo.  
+**29** Ele respondeu-lhes: Não, para que talvez não suceda que, arrancando a cizânia, arranqueis juntamente com ela o trigo.  
 **30** Deixai crescer uma e outra coisa até à ceifa, e no tempo da ceifa direi aos segadores: Colhei primeiramente a cizânia, e atai-a em molhos para a queimar; o trigo, porém, recolhei-o no meu celeiro."  
 **31** Propôs-lhes outra parábola, dizendo: O reino dos céus é semelhante a um grão de mostarda, que um homem tomou e semeou no seu campo.  
-**32** É a mais pequena,de todas as sementes, mas, depois de ter crescido, é maior que todas as hortaliças e chega a tornar- se uma árvore, de sorte que as aves do céu vêm aninhar sobre os seus ramos."  
+**32** É a mais pequena,de todas as sementes, mas, depois de ter crescido, é maior que todas as hortaliças e chega a tornar-se uma árvore, de sorte que as aves do céu vêm aninhar sobre os seus ramos."  
 **33** Disse-lhes outra parábola; "O reino dos céus é semelhante ao fermento que uma mulher toma e mistura em três medidas de farinha, até que o todo fica fermentado."  
 **34** Todas estas coisas disse Jesus ao povo em parábolas; e não lhes falava sem parábolas,  
 **35** a fim de que se cumprisse o que estava anunciado pelo profeta, que diz; Abrirei em parábolas a minha boca, publicarei as coisas escondidas desde a criação (Ps. 77, 2)."  
@@ -886,7 +886,7 @@
 
 **1** Tendo saído Jesus do templo, ia-se retirando; e aproximaram-se dele os seus discípulos, para lhe fazerem notar as construções.  
 **2** Mas ele, respondendo, disse-lhes: "Vedes tudo isto? Em verdade vos digo que não ficará aqui pedra sobre pedra que não seja derribada."  
-**3** Estando sentado sobre o monte das Oliveiras, aproximaram- se dele seus discípulos, aparte, e perguntaram: "Diz-nos quando sucederá isto, e qual será o sinal da tua vinda e do fim do mundo?"  
+**3** Estando sentado sobre o monte das Oliveiras, aproximaram-se dele seus discípulos, aparte, e perguntaram: "Diz-nos quando sucederá isto, e qual será o sinal da tua vinda e do fim do mundo?"  
 **4** Jesus respondeu-lhes: "Vede que ninguém vos engane.  
 **5** Porque virão muitos em meu nome, dizendo: Eu sou o Cristo, e seduzirão muitos.  
 **6** Ouvireis falar de guerras e de rumores de guerras. Olhai, não vos turbeis, porque importa que estas coisas aconteçam, mas não é ainda o fim.  

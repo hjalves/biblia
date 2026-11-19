@@ -123,7 +123,7 @@
 **16** Nós declaramos ao rei que, se esta cidade for reedificada e os seus muros restaurados, não possuirás as terras da banda de além do rio.  
 **17** O rei respondeu a Reum, governador, e a Samsai, secretário, e aos outros habitantes da Samaria que eram do seu partido, bem como a todos os outros que moravam da banda de além do rio, dizendo; Saúde, etc.  
 **18** A acusação que nos enviastes, foi lida dum modo claro na minha presença.  
-**19** Foi ordenado por mim que se examinassem os anais, e acharam que, desde tempos antigos, esta cidade tem-se revoltado contra os reis. que nela se têm excitado sedições e revoltas.  
+**19** Foi ordenado por mim que se examinassem os anais, e acharam que, desde tempos antigos, esta cidade tem-se revoltado contra os reis, que nela se têm excitado sedições e revoltas.  
 **20** Em Jerusalém houve reis poderosos, senhores de todas as terras que estão da outra banda do rio (Eufrates), os quais recebiam tributos, impostos e direito de passagem.  
 **21** Agora, pois, ouvi o que eu ordeno: Proibi a esses homens que reedifiquem essa cidade, até que eu mande o contrário.  
 **22** Vede, não sejais negligentes em executar esta ordem, não suceda crescer o mal pouco a pouco contra os reis.  

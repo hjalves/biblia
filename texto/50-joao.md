@@ -186,7 +186,7 @@
 **4** Porque um anjo do Senhor descia de tempos a tempos à piscina, e agitava a água. O primeiro que descesse à piscina, depois do movimento da água, ficava curado de qualquer doença que tivesse.  
 **5** Estava ali um homem que, há trinta e oito anos, se encontrava enfermo.  
 **6** Jesus, vendo-o deitado e sabendo que estava assim há muito, disse-lhe: "Queres ficar são?"  
-**7** O enfermo respondeu- lhe: "Senhor, não tenho uma pessoa que me lance na piscina, quando a água é agitada; enquanto eu vou, outro desce primeiro do que eu."  
+**7** O enfermo respondeu-lhe: "Senhor, não tenho uma pessoa que me lance na piscina, quando a água é agitada; enquanto eu vou, outro desce primeiro do que eu."  
 **8** Jesus disse-lhe: "Levanta-te, toma o teu leito e anda."  
 **9** No mesmo instante, ficou são aquele homem, tomou o seu leito e começou a andar. Ora aquele dia era um sábado,  
 **10** Por isso os Judeus diziam ao que tinha sido curado: "Hoje é sábado, não te é licito levar o teu leito."  
@@ -290,7 +290,7 @@
 **58** Este é o pão que desceu do céu. Não é como o pão que comeram os vossos pais, que morreram. O que come deste pão viverá eternamente."  
 **59** Jesus disse estas coisas, ensinando em Cafarnaum, na Sinagoga  
 **60** Muitos de seus discípulos, ouvindo isto, disseram: "Dura é esta linguagem; quem a pode ouvir?"  
-**61** Jesus, conhecendo em si mesmo que seus discípulos murmuravam por isto, disse-lhes: "Isto escandaliza- vos?  
+**61** Jesus, conhecendo em si mesmo que seus discípulos murmuravam por isto, disse-lhes: "Isto escandaliza-vos?  
 **62** Que será quando virdes subir o Filho do homem para onde estava antes?  
 **63** E o espírito que vivifica; a carne para nada aproveita. As palavras que eu vos disse, são espírito e vida.  
 **64** Mas há alguns de vós que não creem. Com efeito Jesus sabia desde o princípio quais eram os que não criam, e quem havia de o entregar  
@@ -369,7 +369,7 @@
 **7** Continuando, porém, eles a interrogá-lo, levantou-se, e disse-lhes: "O que de vós está sem pecado, seja o primeiro que lhe atire a pedra."  
 **8** Depois, tornando a inclinar-se, escrevia na terra,  
 **9** Mas eles, ouvindo isto, foram-se retirando, um após outro, começando pelos mais velhos; e ficou só Jesus com a mulher diante dele.  
-**10** Então Jesus, levantando-se. disse-lhe: "Mulher, onde estão os que te acusavam? Ninguém te condenou?  
+**10** Então Jesus, levantando-se, disse-lhe: "Mulher, onde estão os que te acusavam? Ninguém te condenou?  
 **11** Ela respondeu: "Ninguém, Senhor." Então Jesus disse: "Nem eu te condeno; vai, e não peques mais."  
 **12** Outra vez lhes falou Jesus, dizendo: "Eu sou a luz do mundo; o que me segue não anda nas trevas, mas terá a luz da vida."  
 **13** Os fariseus disseram-lhe: "Tu dás testemunho de ti mesmo; o teu testemunho, por isso, não é verdadeiro."  
@@ -462,7 +462,7 @@
 **38** Então ele disse: "Creio, Senhor." E, prostrando-se, o adorou.  
 **39** Jesus disse: "Eu vim a este mundo para exercer um justo juízo, a fim de que os que não veem vejam, e os que veem se tornem cegos."  
 **40** Ouviram isto alguns dos fariseus, que estavam com ele, e disseram-lhe: "Porventura também nós somos cegos?"  
-**41** Jesus disse- lhes: "Se vós fosseis cegos, não teríeis culpa; mas, pelo contrário, vós dizeis: Nós vemos. Fica, pois subsistindo o vosso pecado.  
+**41** Jesus disse-lhes: "Se vós fosseis cegos, não teríeis culpa; mas, pelo contrário, vós dizeis: Nós vemos. Fica, pois subsistindo o vosso pecado.  
 
 ## Capítulo 10
 

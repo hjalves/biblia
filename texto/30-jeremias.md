@@ -702,7 +702,7 @@
 ## Capítulo 26
 
 **1** No princípio do reinado de Joaquim, filho de Josias, rei de Judá, falou-me o Senhor nos termos seguintes:  
-**2** Isto diz o Senhor: Põe-te no átrio da casa do Senhor, e falarás às gentes de todas as cidades de Judá. que vêm adorar na casa do Senhor, anunciar-lhes-ás todas as palavras que te tenho mandado anunciar, sem nada omitir,  
+**2** Isto diz o Senhor: Põe-te no átrio da casa do Senhor, e falarás às gentes de todas as cidades de Judá, que vêm adorar na casa do Senhor, anunciar-lhes-ás todas as palavras que te tenho mandado anunciar, sem nada omitir,  
 **3** para ver se acaso eles te ouvem e se convertem cada um do seu mau caminho; então me arrependerei (ou desistirei) do mal que tenho tenção de lhes fazer, por causa da malícia das suas ações.  
 **4** Dir-lhes-ás: Assim fala o Senhor: Se me não ouvirdes, se não andardes segundo a lei que vos dei,  
 **5** ouvindo as palavras dos meus servos, os profetas, que eu com tanta solicitude vos enviei, e a quem (de facto) não tendes ouvido.  
@@ -847,7 +847,7 @@
 **10** Ouvi, nações, a palavra do Senhor e anunciai-a às ilhas longínquas. Dizei: O que dispersou Israel o congregará e guardará como um pastor guarda o seu rebanho.  
 **11** Porque o Senhor resgatou Jacob, livrou-o da mão dum mais poderoso.  
 **12** Virão, soltando gritos de alegria às alturas de Sião, e correrão aos bens do Senhor, ao trigo, ao vinho, ao azeite, às ovelhas e aos bois; a sua alma será como um jardim de regadio, e não terão mais debilidade.  
-**13** Então se alegrará a virgem na dança, alegrar-se-ão os jovens e os velhos juntamente; converterei o seu pranto em gozo. consolá-los-ei, passada a sua dor, enchê-los-ei de alegria.  
+**13** Então se alegrará a virgem na dança, alegrar-se-ão os jovens e os velhos juntamente; converterei o seu pranto em gozo, consolá-los-ei, passada a sua dor, enchê-los-ei de alegria.  
 **14** Darei abundância de gordura (de vítimas) aos sacerdotes, e o meu povo será cheio dos meus bens, diz o Senhor.  
 **15** Assim fala o Senhor: Foi ouvida, em Rama, uma voz, uma lamentação; um pranto amargo; é Raquel, que chora os seus filhos, e não quer ser consolada pela sua perda, porque já não existem.  
 **16** Isto diz o Senhor: Cesse a tua boca de se lamentar, e os teus olhos de verterem lágrimas. Com efeito, as tuas penas terão a sua recompensa, diz o Senhor, e eles (teus filhos) voltarão da terra do inimigo.  
@@ -867,7 +867,7 @@
 **30** Mas morrerá pela sua iniquidade; a todo o homem que comer uvas verdes, a esse é que ficarão botos os dentes.  
 **31** Estão a chegar os dias, diz o Senhor, em que farei nova aliança com a casa de Israel e com a casa de Judá,  
 **32** diferente da aliança que fiz com seus pais no dia em que os tomei pela mão, para os tirar da terra do Egito, aliança que eles violaram. (Por isso) fiz sentir sobre eles o meu poder, diz o Senhor.  
-**33** Eis a aliança que farei com a casa de Israel, depois daqueles dias, diz o Senhor; Imprimirei a minha lei no seu íntimo. escrevê-la-ei nos seus corações; serei o seu Deus, e eles serão o meu povo.  
+**33** Eis a aliança que farei com a casa de Israel, depois daqueles dias, diz o Senhor; Imprimirei a minha lei no seu íntimo, escrevê-la-ei nos seus corações; serei o seu Deus, e eles serão o meu povo.  
 **34** Ninguém ensinará mais o seu próximo, nem o seu irmão, dizendo: Conhece o Senhor - porque todos me conhecerão, desde o mais pequeno até ao maior, diz o Senhor, pois perdoarei a sua maldade e não me lembrarei mais do seu pecado.  
 **35** Assim fala o Senhor, que dá o sol para luz do dia, e a lua e as estrelas para luz da noite; que agita o mar e faz bramir as ondas, aquele cujo nome é Senhor dos exércitos:  
 **36** Se falharem estas leis diante de mim, diz o Senhor, então poderá também a linhagem de Israel deixar de ser diante de mim uma nação para sempre.  
@@ -1448,7 +1448,7 @@
 **31** Os correios avançam, uns atrás dos outros, correm mensageiros após mensageiros, para anunciar ao rei de Babilónia que a sua cidade está tomada desde uma extremidade à outra,  
 **32** que os vaus estão tomados, os baluartes a arder, e que os homens de guerra estão amedrontados.  
 **33** Porque assim fala o Senhor dos exércitos, o Deus de Israel; A filha de Babilónia é como uma eira, no tempo em que é calcada; ainda um pouco, e virá o tempo da ceifa.  
-**34** Nabucodonosor, rei de Babilónia, tragou-me. devorou-me; deixou-me como um vaso desejado, engoliu-me como um dragão, encheu o seu ventre de tudo o que eu tinha de mais delicioso, e deitou-me fora.  
+**34** Nabucodonosor, rei de Babilónia, tragou-me, devorou-me; deixou-me como um vaso desejado, engoliu-me como um dragão, encheu o seu ventre de tudo o que eu tinha de mais delicioso, e deitou-me fora.  
 **35** Que a minha despedaçada carne seja contra a Babilónia, diz o povo de Sião; que o meu sangue seja contra os moradores da Caldeia, diz Jerusalém.  
 **36** Portanto isto diz o Senhor: Vou tomar a meu cuidado a tua causa, vingar-te-ei, deixarei sem água o seu mar e secarei os seus mananciais.  
 **37** Babilónia será reduzida a um montão de escombros, virá a ser a habitação de chacais, objeto de espanto e de escárnio, sem ter quem a habite.  

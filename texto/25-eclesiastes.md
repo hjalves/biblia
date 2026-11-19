@@ -133,7 +133,7 @@
 
 ## Capítulo 7
 
-**1** Quem sabe o que é bom para o homem na vida. durante os dias da sua vida de vaidade, que passa como a sombra? Ou quem lhe poderá mostrar o que está para suceder depois dele debaixo do sol?  
+**1** Quem sabe o que é bom para o homem na vida, durante os dias da sua vida de vaidade, que passa como a sombra? Ou quem lhe poderá mostrar o que está para suceder depois dele debaixo do sol?  
 **2** É melhor o bom nome do que os perfumes preciosos, e o dia da morte (do justo) do que o dia do nascimento.  
 **3** É melhor ir a uma casa que está de luto, do que a uma casa de banquete, porque naquela recorda-se (com proveito) o fim de todos os homens, e o que está vivo considera (indo lá) no que (um dia) lhe há-de acontecer.  
 **4** É melhor a tristeza do que o riso, porque o rosto triste faz bem ao coração.  
@@ -251,7 +251,7 @@
 **6** (Lembra-te do teu Criador) antes que se quebre o cordão de prata e se despedace a lâmpada de oiro, e se parta o cântaro sobre a fonte, e se desfaça a roda sobre a cisterna,  
 **7** e o pó volte à terra donde saiu, e o espírito volte para Deus que o deu.  
 **8** Vaidade de vaidade, disse o Eclesiaste, e tudo é vaidade.  
-**9** O Eclesiaste. além de ser um sábio, ensinou a ciência ao povo; estudou, investigou e compôs sentenças.  
+**9** O Eclesiaste, além de ser um sábio, ensinou a ciência ao povo; estudou, investigou e compôs sentenças.  
 **10** Aplicou-se a encontrar palavras agradáveis e a escrever corretamente palavras de verdade.  
 **11** As palavras dos sábios são como aguilhões, como cravos profundamente pregados, que, por meio do conselho dos mestres, nos foram comunicados pelo único pastor (que é Deus).  
 **12** Não busques, pois, meu filho, mais coisa alguma além destas (verdades). Não se põe termo em multiplicar os livros, e a meditação frequente é aflição da carne.  

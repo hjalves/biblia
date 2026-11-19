@@ -203,7 +203,7 @@
 
 **1** Salmo. De Davide. Senhor, quem terá a sua morada no teu tabernáculo? quem habitará no teu santo monte?  
 **2** O que anda sem mancha e pratica a justiça  
-**3** e pensa o que é reto no seu coração, e não calunia com a sua língua; o que ao seu próximo não faz mal. nem dirige opróbrio ao seu vizinho;  
+**3** e pensa o que é reto no seu coração, e não calunia com a sua língua; o que ao seu próximo não faz mal, nem dirige opróbrio ao seu vizinho;  
 **4** o que tem o malvado por desprezível, e honra os que temem o Senhor;  
 **5** o que, embora tenha um juramento com dano próprio, não o muda, o que não empresta o seu dinheiro com usura, nem aceita dádivas (para proceder) contra o inocente. Quem faz estas coisas não será jamais comovido.  
 
@@ -768,7 +768,7 @@
 **3** A minha alma tem sede de Deus, de Deus vivo: quando irei e contemplarei a face de Deus?  
 **4** As minhas lágrimas são o meu pão de dia e de noite, enquanto me dizem todos os dias:"Onde está o teu o Deus?"  
 **5** Lembro-me destas coisas e derramo a minha alma dentro de mim mesmo: como avançava entre a multidão, como os precedia para a casa de Deus, entre cânticos de alegria e de louvor, no ajuntamento festivo.  
-**6** Por que te deprimes, minha alma, por que te conturbas dentro de mim? Espera em Deus. porque novamente o hei-de louvar, (a ele que é a) salvação do meu rosto  
+**6** Por que te deprimes, minha alma, por que te conturbas dentro de mim? Espera em Deus, porque novamente o hei-de louvar, (a ele que é a) salvação do meu rosto  
 **7** e o meu Deus. Dentro de mim mesmo se deprime a minha alma: por isso me lembro de ti, desde a terra do Jordão e do Hermon, desde o monte Misar.  
 **8** Um abismo chama outro abismo, com o fragor das tuas cataratas: todas as tuas vagas e as tuas torrentes passaram sobre mim.  
 **9** Durante o dia o Senhor me conceda a sua graça, e de noite eu cantarei, louvarei ao Deus da minha vida.  
@@ -1660,7 +1660,7 @@
 
 ## Capítulo 85
 
-**1** Súplica. De Davide. inclina, Senhor, o teu ouvido, ouve-me porque eu sou desvalido e pobre.  
+**1** Súplica. De Davide. Inclina, Senhor, o teu ouvido, ouve-me porque eu sou desvalido e pobre.  
 **2** Guarda a minha alma, porque te sou dedicado; salva o teu servo, que espera em ti. Tu és o meu Deus:  
 **3** tem misericórdia de mim, porque a ti clamo sem cessar.  
 **4** Alegra a alma do teu servo, porque a ti, Senhor, elevo a minha alma.  

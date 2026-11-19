@@ -2,7 +2,7 @@
 
 ## Capítulo 1
 
-**1** Eis as palavras do livro que escreveu Baruch, filho de Nérias. filho de Maasias, filho de Sedecias. filho de Sedei, filho de Helcias, em Babilónia,  
+**1** Eis as palavras do livro que escreveu Baruch, filho de Nérias, filho de Maasias, filho de Sedecias, filho de Sedei, filho de Helcias, em Babilónia,  
 **2** no ano quinto, a sete do mês. no tempo em que os Caldeus tomaram Jerusalém e a incendiaram.  
 **3** Baruch leu as palavras deste livro aos ouvidos de Jeconias, filho de Joaquim, rei de Judá e aos ouvidos de todas as pessoas que tinham vindo ouvir ler este livro,  
 **4** aos ouvidos dos grandes, dos príncipes reais, dos anciães e de todo o povo, que habitavam em Babilónia, junto do rio Sodi,  
@@ -13,7 +13,7 @@
 **9** depois que Nabucodonosor rei de Babilónia, aprisionou Jeconias, os príncipes, todos os grandes e o povo da terra, e os levou de Jerusalém para Babilónia.  
 **10** E disseram: Aí mandamos dinheiro; comprai com ele vítimas, para os holocaustos e sacrifícios de expiação, e incenso; preparai oblações e levai-as ao altar do Senhor nosso Deus:  
 **11** Rogai-lhe pela vida de Nabucodonosor rei de Babilónia, e pela vida de Baltasar, seu filho, para que os seus dias sobre a terra sejam como os dias do céu.  
-**12** Que o Senhor alumie os nossos olhos, a fim de que vivamos debaixo da sombra de Nabucodonosor. rei de Babilónia, e debaixo da sombra de Baltasar, seu filho, os sirvamos muitos dias e achemos graça na sua presença.  
+**12** Que o Senhor alumie os nossos olhos, a fim de que vivamos debaixo da sombra de Nabucodonosor, rei de Babilónia, e debaixo da sombra de Baltasar, seu filho, os sirvamos muitos dias e achemos graça na sua presença.  
 **13** Orai também ao Senhor nosso Deus por nós mesmos, porque pecámos contra o Senhor nosso Deus, e o seu furor não se apartou de nós até este dia.  
 **14** Lede este livro, que vos mandamos para ser lido em alta voz no templo do Senhor, no dia da Festa (dos tabernáculos) e nos dias sagrados.  
 **15** Direis: Ao Senhor nosso Deus pertence a justiça, mas a nós a confusão do rosto, a nós, homens de Judá e habitantes de Jerusalém,  
@@ -52,7 +52,7 @@
 **23** tirarei das cidades de Judá e de Jerusalém toda a voz de regozijo e de alegria, o cantar do esposo e o cantar da esposa, e ficará toda a terra um deserto, sem habitantes.  
 **24** Mas não ouvimos a tua voz, servindo o rei de Babilónia; (então) cumpriste as palavras que pronunciaste pela boca de teus servos, os profetas, anunciando que seriam arrebatados do seu lugar os ossos dos nossos reis e os ossos de nossos pais.  
 **25** E eis que foram expostos ao calor do dia e ao frio da noite. E tinham morrido em meio de acerbas dores, pela fome, pela espada e pela peste.  
-**26** Reduziste esta casa sobre que tem sido invocado o teu nome, ao estado em que se encontra hoje. por causa da maldade da casa de Israel e da casa de Judá.  
+**26** Reduziste esta casa sobre que tem sido invocado o teu nome, ao estado em que se encontra hoje, por causa da maldade da casa de Israel e da casa de Judá.  
 **27** Procedeste connosco ó Senhor, nosso Deus, segundo a tua bondade, conforme toda a tua grande misericórdia.  
 **28** como o tinhas predito por meio do teu servo Moisés, no dia em que lhe mandaste escrever a tua lei diante dos filhos de Israel,  
 **29** dizendo: Se não ouvirdes a minha voz, esta grande multidão de gente será reduzida a um pequeno número, entre as nações, por onde os dispersarei.  
@@ -185,7 +185,7 @@
 **25** Não tendo pés (capazes de andar), são levados sobre os ombros, mostrando aos homens a sua vileza. Devem também envergonhar-se os que os adoram.  
 **26** Se caírem em terra, não se levantam por si mesmos; se alguém os põe de pé, não se podem mover; se inclinados, não se podem endireitar. São lhes apresentadas, como a mortos, as oferendas.  
 **27** Os seus sacerdotes vendem tais oferendas, para seu proveito; as suas mulheres tomam também uma parte que salgam (para conservar), não dando coisa alguma, nem aos pobres nem aos enfermos.  
-**28** As mulheres grávidas e no seu estado de impureza tocam os sacrifícios deles. Sabendo vós, pois. por estas coisas, que não são deuses, não os temais.  
+**28** As mulheres grávidas e no seu estado de impureza tocam os sacrifícios deles. Sabendo vós, pois, por estas coisas, que não são deuses, não os temais.  
 **29** Por que chamar-lhes, pois, deuses? As mulheres fazem oferendas a estes deuses de prata, de ouro e de madeira.  
 **30** Nos seus templos estão assentados os sacerdotes, de túnicas rasgadas, de cabeça e barba rapadas, de cabeça descoberta.  
 **31** Rugem, fazendo alarido diante dos seus deuses, como num festim fúnebre.  
@@ -200,17 +200,17 @@
 **40** Os próprios Caldeus os desonram: quando sabem que alguém não pode falar, porque é mudo, apresentam-no a Bel, pedindo-lhe que lhe dê fala, como se o deus pudesse ouvir.  
 **41** São incapazes de refletir sobre tudo isto e de abandonar esses deuses, tamanha é a sua insensatez! Mesmo, quando se desenganam, os abandonam, porque os seus deuses são insensíveis.  
 **42** Mulheres, cingidas de cordas, estão assentadas nos caminhos, queimando farelo.  
-**43** E, quando alguma delas, atraída por qualquer transeunte, dormiu com ele. lança em rosto à sua vizinha que ela não foi julgada digna da mesma honra e de a sua corda se quebrar.  
+**43** E, quando alguma delas, atraída por qualquer transeunte, dormiu com ele, lança em rosto à sua vizinha que ela não foi julgada digna da mesma honra e de a sua corda se quebrar.  
 **44** Todas as coisas que se fazem com estes deuses são mentira. Como se pode, pois, crer ou dizer que são deuses?  
 **45** Por artistas e ourives foram feitos. Nenhuma outra coisa serão, senão aquilo que querem que sejam os artífices.  
-**46** Os mesmos artífices que os fazem, não são de muita duração; como podem, pois. ser deuses os que por eles foram fabricados?  
+**46** Os mesmos artífices que os fazem, não são de muita duração; como podem, pois, ser deuses os que por eles foram fabricados?  
 **47** Não deixaram senão engano e opróbrio aos seus descendentes.  
 **48** Quando sobrevém alguma guerra ou desastre, os sacerdotes consultam entre si sobre onde se hão-de esconder com os seus deuses.  
 **49** Como, pois, não se vê que não são deuses os que nem se podem livrar da guerra, nem defender-se das calamidades?  
 **50** Porque são de madeira, dourados e prateados, vir-se-á a saber, um dia, que são falsos; claro se tornará, para todos os povos e reis, que não são deuses, mas obra da mão dos homens, e que não há neles operação alguma divina.  
 **51** Quem, pois não verá claramente que não são deuses?  
 **52** Não estabelecerão rei em país algum, nem darão chuva aos homens.  
-**53** Não decidirão as próprias contendas. nem livrarão da opressão, porque nada podem, como as gralhas que voam entre o céu e a terra.  
+**53** Não decidirão as próprias contendas, nem livrarão da opressão, porque nada podem, como as gralhas que voam entre o céu e a terra.  
 **54** Se o fogo se atear na casa desses deuses de madeira, cobertos de prata e de ouro, os seus sacerdotes fugirão e se livrarão, mas eles, como traves, no meio das chamas serão queimados.  
 **55** Não resistirão a um rei nem a inimigos. Como se pode, pois, admitir ou pensar que são deuses?  
 **56** Não se poderão defender dos ladrões, nem dos salteadores, estes deuses de madeira, dourados e prateados, porque aqueles, sendo mais fortes,  

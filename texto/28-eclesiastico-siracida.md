@@ -156,7 +156,7 @@
 **8** Não tardes em te converter ao Senhor, não o difiras de dia para dia,  
 **9** porque virá de improviso a sua ira, e no dia do castigo te perderá.  
 **10** Não andes inquieto por (amor de) riquezas injustas, porque elas não te aproveitarão no dia do castigo e da escuridão.  
-**11** Não te voltes a todo o vento, e não andes por todos os caminhos. porque é assim que todo o pecador de língua dobre se dá a conhecer.  
+**11** Não te voltes a todo o vento, e não andes por todos os caminhos, porque é assim que todo o pecador de língua dobre se dá a conhecer.  
 **12** Se firme no caminho do Senhor, na sinceridade dos teus sentimentos e conhecimentos, e que a palavra de paz e de justiça te acompanhe sempre.  
 **13** Sê manso para ouvir a palavra, a fim de que a entendas; então darás com sabedoria uma resposta justa.  
 **14** Se tens inteligência, responde ao teu próximo; se não, põe a tua mão sobre a tua boca, para que te não suceda ser surpreendido numa palavra indiscreta e cair em confusão,  
@@ -227,7 +227,7 @@
 **18** Lembra-te da ira (de Deus) que não tardará.  
 **19** Humilha profundamente o teu espírito, porque a carne do ímpio será castigada com o fogo e com o verme.  
 **20** Não faças mal a um teu amigo, porque difere dar-te o dinheiro, nem desprezes pelo ouro um teu irmão querido.  
-**21** Não te separes da mulher sensata e virtuosa. que recebeste por sorte no temor do Senhor, porque a graça da sua modéstia é mais preciosa que o ouro.  
+**21** Não te separes da mulher sensata e virtuosa, que recebeste por sorte no temor do Senhor, porque a graça da sua modéstia é mais preciosa que o ouro.  
 **22** Não trates mal o servo que trabalha com fidelidade, nem o mercenário que todo se dá a servir-te.  
 **23** O servo sensato seja querido de ti como a tua alma, não lhe negues a liberdade (que ele merece), e não o deixes cair na pobreza.  
 **24** Tens gados? Cuida deles; se te são úteis, conserva-os.  
@@ -262,7 +262,7 @@
 **10** deles aprenderás a sabedoria, os ensinamentos da inteligência e a arte de servir os grandes de um modo irrepreensível.  
 **11** Não deixes de ouvir o que contam os velhos, porque eles o aprenderam de seus pais;  
 **12** deles aprenderás a inteligência e a arte de responder oportunamente.  
-**13** Não acendas os carvões dos pecadores, arguindo-os. para que não sejas abrasado na chama do fogo dos seus pecados.  
+**13** Não acendas os carvões dos pecadores, arguindo-os, para que não sejas abrasado na chama do fogo dos seus pecados.  
 **14** Não resistas, cara a cara, a um homem insolente, para que não suceda que ele se ponha a armar laços às tuas palavras,  
 **15** Não emprestes a um homem mais poderoso do que tu, porque, se lhe emprestares, faze de conta que o perdeste.  
 **16** Não fiques por fiador em mais do que podem as tuas forças, porque, se ficares, considera-te obrigado a pagar.  
@@ -276,10 +276,10 @@
 ## Capítulo 9
 
 **1** Não sejas cioso da mulher que repousa no teu seio, para que não empregue contra ti a malícia que lhe ensinaste.  
-**2** Não dês à mulher poder sobre a tua alma. para que não usurpe a tua autoridade, e fiques envergonhado.  
+**2** Não dês à mulher poder sobre a tua alma, para que não usurpe a tua autoridade, e fiques envergonhado.  
 **3** Não olhes para a mulher volúvel, para não caíres nos seus laços.  
 **4** Não andes muito com uma bailarina, nem a ouças, para não pereceres à força dos seus atrativos.  
-**5** Não detenhas os teus olhos sobre uma donzela. para que a sua beleza não te seja ocasião de queda.  
+**5** Não detenhas os teus olhos sobre uma donzela, para que a sua beleza não te seja ocasião de queda.  
 **6** Nunca entregues a tua alma às prostitutas, para que te não percas a ti e aos teus bens.  
 **7** Não deixes errar os olhos pelas ruas da cidade, nem andes vagueando pelas suas praças.  
 **8** Afasta os teus olhos da mulher enfeitada, e não olhes com insistência para a formosura alheia.  
@@ -394,7 +394,7 @@
 **13** Quem se compadecerá do encantador ferido pela serpente e de todos os que se aproximam das feras? o mesmo acontecerá com aquele que acompanha com o homem iníquo e que se encontra envolvido em seus pecados.  
 **14** Permanecerá contigo uma hora, mas, se caíres em decadência, não te suportará.  
 **15** O inimigo tem sobre os lábios a doçura, mas no seu coração arma laços para te fazer cair na cova.  
-**16** O inimigo tem lágrimas nos olhos. mas, se encontrar ocasião, não se fartará de (teu) sangue.  
+**16** O inimigo tem lágrimas nos olhos, mas, se encontrar ocasião, não se fartará de (teu) sangue.  
 **17** Se vierem sobre ti os males, verás que ele é a sua primeira origem.  
 **18** O inimigo tem lágrimas nos olhos, mas, fingindo socorrer-te, procurará fazer-te cair.  
 **19** Abanará a cabeça, baterá palmas, e, falando muito entre dentes, mudará de semblante.  
@@ -416,7 +416,7 @@
 **13** Não lhe sejas importuno, para que ele se não desgoste de ti; e não te afastes demasiado, para que te não esqueça.  
 **14** Não pretendas falar com ele, como se fosses seu igual, nem te fies nas suas muitas palavras, porque ele te experimentará, fazendo-te falar muito, e, sorrindo, te interrogará sobre os teus segredos,  
 **15** O seu coração desapiedado conservará todas as tuas palavras, e não te poupará, nem aos maus tratos, nem às prisões.  
-**16** Tem cuidado contigo, e presta bem atenção aos teus ouvidos. pois andas em risco de te perder.  
+**16** Tem cuidado contigo, e presta bem atenção aos teus ouvidos, pois andas em risco de te perder.  
 **17** Mas, ouvindo essas coisas (as suas palavras), toma-as por um sonho, e vigiarás.  
 **18** Ama a Deus durante toda a tua vida, e invoca-o para tua salvação.  
 **19** Todo o ser vivo ama o seu semelhante; igualmente todo o homem ama o seu próximo.  
@@ -452,12 +452,12 @@
 **14** Não te prives dum bom dia, e não deixes perder nenhuma parcela do bem que te é concedido.  
 **15** Não vês que hás-de deixar a outros o fruto das tuas penas e dos teus trabalhos, para eles o repartirem, pela sorte, entre si?  
 **16** Dá, e recebe, e justifica a tua alma.  
-**17** Pratica a justiça antes da tua morte. porque na sepultura não se vai procurar alimento.  
+**17** Pratica a justiça antes da tua morte, porque na sepultura não se vai procurar alimento.  
 **18** Toda a carne envelhece como o feno, e como as folhas que crescem sobre as árvores verdes.  
 **19** Umas folhas nascem, e outras caem: assim nas gerações de carne e de sangue; umas morrem e outras nascem.  
 **20** Toda a obra corruptível virá enfim a perecer, e aquele que a fez irá com ela.  
 **21** Toda a obra excelente será bem apreciada, e o que a executa, nela será honrado.  
-**22** Bem-aventurado o homem que permanece constante na sabedoria. que medita na sua justiça, e que pensa, em seu coração, no olhar de Deus que vê tudo;  
+**22** Bem-aventurado o homem que permanece constante na sabedoria, que medita na sua justiça, e que pensa, em seu coração, no olhar de Deus que vê tudo;  
 **23** que repassa no seu coração os caminhos da sabedoria, e que penetra na inteligência dos seus segredos, indo atrás dela como quem lhe segue o rasto, e se detém sobre os seus caminhos:  
 **24** que olha pelas suas janelas, que escuta à sua porta;  
 **25** que repousa junto da sua casa, e que, pregando uma estaca nas suas paredes, assenta ao lado dela a sua pequena cabana, dentro da qual terão perpétua morada (todos) os bens.  
@@ -505,7 +505,7 @@
 **12** Porque a misericórdia e a ira estão sempre com ele; é poderoso para perdoar, e também o é para derramar a sua ira;  
 **13** os seus castigos igualam a sua misericórdia, julga o homem segundo as suas obras.  
 **14** Não escapará (ao castigo) o pecador com as suas rapinas, e a paciência do que usa de misericórdia, não tardará em ser recompensada,  
-**15** Toda a misericórdia preparará a cada um o seu lugar. segundo o merecimento das suas obras e segundo a sabedoria (com que tiver vivido) neste lugar de exílio.  
+**15** Toda a misericórdia preparará a cada um o seu lugar, segundo o merecimento das suas obras e segundo a sabedoria (com que tiver vivido) neste lugar de exílio.  
 **16** Não digas: Esconder-me-ei de Deus; quem pensará em mim lá dos altos céus?  
 **17** Eu não serei conhecido entre um tão grande povo; pois, que coisa é a minha alma entre tamanha multidão de criaturas?  
 **18** Eis que o céu e o céu dos céus, o abismo, toda a extensão da terra e tudo o que neles se contém, tremerão à sua vista.  
@@ -613,7 +613,7 @@
 **16** não acredites em tudo o que se diz. Homem há que peca pela língua, mas não do coração.  
 **17** E quem há que não tenha pecado com a língua? Repreende o teu próximo antes de o ameaçares,  
 **18** e dá lugar ao temor do Altíssimo, porque toda a sabedoria é temor de Deus, nela está o temer a Deus, e em toda a sabedoria há o cumprimento da lei.  
-**19** Não é sabedoria a habilidade de fazei mal. nem o pensar dos pecadores é prudência.  
+**19** Não é sabedoria a habilidade de fazei mal, nem o pensar dos pecadores é prudência.  
 **20** Há uma malícia (habilidosa) que é execrável, e há (certos) insensatos que (apenas) têm falta de sabedoria  
 **21** Vale mais um homem que tem pouca sabedoria e que é falto de senso, mas que tem o temor de Deus, do que o que tem muito senso, mas que viola a lei do Altíssimo.  
 **22** Há uma habilidade certeira, mas que é injusta.  
@@ -708,7 +708,7 @@
 **10** Chora sobre o morto porque lhe faltou a luz, e chora sobre o insensato, porque lhe falta o siso.  
 **11** Chora pouco sobre o morto, porque ele entrou no descanso;  
 **12** mas a vida criminosa do mau é pior que a morte.  
-**13** O pranto sobre o morto dura sete dias. mas sobre o insensato e o ímpio dura toda a sua vida.  
+**13** O pranto sobre o morto dura sete dias, mas sobre o insensato e o ímpio dura toda a sua vida.  
 **14** Não fales muito com o estulto, e não acompanhes com o insensato.  
 **15** Guarda-te dele, para que não tenhas inquietações, e não serás contaminado com o seu pecado.  
 **16** Desvia-te dele, e acharás descanso, e não te enfastiarás com a sua estultícia.  
@@ -762,7 +762,7 @@
 **28** Não sabe que os olhos do Senhor são muito mais luminosos do que o Sol, que em torno estão vendo todos os caminhos dos homens, que penetram o profundo do abismo e os corações dos mesmos homens, até aos mais ocultos esconderijos.  
 **29** Com efeito, o Senhor Deus, assim como conhecia todas as coisas antes de as ter criado, assim também agora, depois que as criou, as vê todas.  
 **30** Este tal será punido nas praças da cidade, será posto em fuga como um potro de égua, e, onde ele menos o esperar, será apanhado.  
-**31** Será vexado diante de todos. por isso mesmo que não compreendeu o temor do Senhor.  
+**31** Será vexado diante de todos, por isso mesmo que não compreendeu o temor do Senhor.  
 **32** Assim (perecerá) também toda a mulher que deixa o seu marido, e que lhe dá por herdeiro o fruto duma união adúltera.  
 **33** Porque primeiramente ela foi desobediente à lei do Altíssimo; em segundo lugar pecou contra o seu marido: em terceiro lugar cometeu um adultério. e deu-se a si filhos doutro, que não era seu esposo.  
 **34** Esta mulher será levada à assembleia, e serão lançados os olhares sobre seus filhos.  
@@ -913,7 +913,7 @@
 **18** Ama o teu próximo e sê leal na amizade com ele.  
 **19** Se descobrires os seus segredos, não o voltarás a ganhar.  
 **20** Como um homem que mata o seu amigo, assim é o que destrói a amizade do seu próximo.  
-**21** Como aquele que deixa ir da sua mão o pássaro. assim tu deixaste ir o teu próximo, e não o conciliarás mais.  
+**21** Como aquele que deixa ir da sua mão o pássaro, assim tu deixaste ir o teu próximo, e não o conciliarás mais.  
 **22** Não o sigas, porque já está muito distante; fugiu do laço como uma gazela. Porque foi ferida a sua alma,  
 **23** não poderás mais atraí-lo a ti. Depois duma injúria há reconciliação;  
 **24** mas o revelar os segredos do amigo tira toda a esperança a uma alma infeliz.  
@@ -954,7 +954,7 @@
 **23** Bem-aventurado aquele que está a coberto da língua iníqua, que não passou pela ira dela, que não atraiu para cima de si o seu jugo e que não foi ligado com as suas cadeias,  
 **24** porque o seu jugo é um jugo de ferro, e as suas cadeias são cadeias de bronze.  
 **25** A morte que ela causa é uma morte desgraçadíssima, e a sepultura é-lhe preferível.  
-**26** Ela durará (algum, mas) não muito tempo; assenhorear-se-á dos caminhos dos injustos, mas a sua chama não queimará os justos. Os que deixam a Deus, cairão no poder dela. que os queimará, sem se extinguir; lançar-se-á sobre eles como um leão, e como um leopardo os despedaçará.  
+**26** Ela durará (algum, mas) não muito tempo; assenhorear-se-á dos caminhos dos injustos, mas a sua chama não queimará os justos. Os que deixam a Deus, cairão no poder dela, que os queimará, sem se extinguir; lançar-se-á sobre eles como um leão, e como um leopardo os despedaçará.  
 **27** Cerca os teus ouvidos com espinhos,não queiras ouvir a língua má, e põe na tua boca uma porta com ferrolhos.  
 **28** Funde o teu ouro e a tua prata, e faze uma balança para (pesares) as tuas palavras, e um freio bem ajustado para a tua boca;  
 **29** olha, não escorregues no teu falar, para não caíres diante dos teus inimigos, que te armam ciladas, e para que não venha a tua queda a ser incurável e mortal.  
@@ -965,7 +965,7 @@
 **2** Cumpre a tua palavra, e trata lealmente com ele. e em todo o tempo acharás o que te é necessário.  
 **3** Muitos consideram o que se lhes emprestou como um achado, e causam desgosto àqueles que o ajudaram.  
 **4** Beijara as mãos do que lhes empresta até que tenham recebido, e com voz humilde fazem (grandes) promessas;  
-**5** porém, chegando o prazo de pagar a dívida, pedem espera. dizem palavras de enfado e de murmuração, e desculpam-se com o tempo (dizendo que a rida está difícil).  
+**5** porém, chegando o prazo de pagar a dívida, pedem espera, dizem palavras de enfado e de murmuração, e desculpam-se com o tempo (dizendo que a rida está difícil).  
 **6** porém, chegando o prazo de pagar a dívida, pedem espera, dizem palavras de enfado e de murmuração, e desculpam-se com o tempo (dizendo que a rida está difícil).  
 **7** Ainda que possam pagar, porão dificuldades, depois darão dificilmente metade do capital, e dirão que se deve considerar isso como uma coisa achada.  
 **8** Se não (podem pagar), privam o credor do seu dinheiro, e, sem causa alguma, o ficarão tendo por inimigo;  
@@ -1547,11 +1547,11 @@
 **24** Operou contra eles prodígios, e consumiu-os com chamas de fogo.  
 **25** Acrescentou a glória a Aarão, deu-lhe uma herança, concedeu-lhe as primícias dos frutos da terra.  
 **26** Nas primícias preparou-lhe alimento em abundância; com efeito (os sacerdotes) devem comer dos sacrifícios do Senhor, os quais lhe deu a ele e à sua descendência.  
-**27** Mas não tem herança na terra das nações. nem porção entre os do seu povo, porque o mesmo Deus é a sua porção e herança.  
+**27** Mas não tem herança na terra das nações, nem porção entre os do seu povo, porque o mesmo Deus é a sua porção e herança.  
 **28** Fineias, filho de Eleazar, é o terceiro em glória, imitando-o (a Moisés) no temor do Senhor.  
 **29** Permaneceu firme no meio da queda vergonhosa do povo; pela bondade e zelo da sua alma aplacou Deus em favor de Israel.  
 **30** Por isso é que Deus fez com ele uma aliança de paz, constituindo-o príncipe do santuário e do seu povo. a fim de que a dignidade sacerdotal pertencesse sempre a ele e à sua descendência.  
-**31** (Deus) também fez uma aliança (semelhante) com o rei Davide, filho de Jessé, da tribo de Judá, constituindo-o herdeiro (do reino), a ele e à sua linhagem, a fim de dar sabedoria ao nosso coração, e julgar o seu povo com justiça. para que não se perdesse a sua felicidade. É tornou eterna a glória destes (rarões) em sua nação.  
+**31** (Deus) também fez uma aliança (semelhante) com o rei Davide, filho de Jessé, da tribo de Judá, constituindo-o herdeiro (do reino), a ele e à sua linhagem, a fim de dar sabedoria ao nosso coração, e julgar o seu povo com justiça, para que não se perdesse a sua felicidade. É tornou eterna a glória destes (rarões) em sua nação.  
 
 ## Capítulo 46
 
@@ -1634,7 +1634,7 @@
 **17** Ficou muito pouca gente (na Palestina), e (somente) um príncipe da casa de Davide.  
 **18** Alguns deles fizeram o que era do agrado de Deus, outros cometeram muitos pecados.  
 **19** Ezequias fortificou a sua cidade, conduziu água para o centro dela, abriu com ferro um rochedo, e fez reservatórios para água.  
-**20** Durante o seu reinado veio Senaquerib. que enviou Rabsaces, o qual levantou a sua mão contra eles. estendeu a sua mão contra Sião, ensoberbecendo-se com o seu poder.  
+**20** Durante o seu reinado veio Senaquerib, que enviou Rabsaces, o qual levantou a sua mão contra eles, estendeu a sua mão contra Sião, ensoberbecendo-se com o seu poder.  
 **21** Então (os Israelitas) ficaram sobressaltados nos seus corações e nas suas mãos sentiram dores como as mulheres que estão de parto.  
 **22** Invocaram o Senhor misericordioso, levantando ao céu as suas mãos estendidas, e o Santo, o Senhor Deus, ouviu logo a sua voz.  
 **23** Não mais se lembrou dos seus pecados, não os entregou aos seus inimigos, mas purificou-os por mão do santo profeta Isaías.  
@@ -1655,7 +1655,7 @@
 **7** Por isso tiveram de entregar a outros o seu reino, e a sua glória a uma nação estrangeira,  
 **8** Incendiaram a cidade escolhida, a cidade santa, e reduziram a um deserto as suas ruas, conforme a predição de Jeremias,  
 **9** porque maltrataram aquele que foi consagrado profeta desde o ventre de sua mãe, para derrubar, arrancar e destruir, mas para depois reedificar e renovar.  
-**10** Ezequiel teve uma visão de glória. que o Senhor lhe mostrou no carro dos querubins.  
+**10** Ezequiel teve uma visão de glória, que o Senhor lhe mostrou no carro dos querubins.  
 **11** Anunciou a chuva para os inimigos de Deus, e os bens reservados para aqueles que seguiam o caminho reto.  
 **12** Reverdeçam também os ossos dos doze profetas, nos seu túmulos, porque eles fortificaram Jacob, e salvaram-no por uma fé corajosa.  
 **13** Como engrandeceremos nós a Zorobabel? Ele foi como um anel na mão direita.  

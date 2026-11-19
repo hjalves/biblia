@@ -220,7 +220,7 @@
 **10** Ele faz coisas grandes e incompreensíveis, prodígios que não têm número.  
 **11** Se ele vem a mim, eu não o verei, se se retira não o perceberei.  
 **12** Se levar uma presa, quem se lhe oporá? Quem lhe pode dizer: Por que fazes isto?  
-**13** Deus. ninguém pode resistir à sua ira, e sob ele curvam-se os auxiliares de Rabab.  
+**13** Deus, ninguém pode resistir à sua ira, e sob ele curvam-se os auxiliares de Rabab.  
 **14** Quem sou eu, pois, para lhe responder, e para lhe falar com as minhas próprias palavras?  
 **15** Ainda que eu tivesse alguma razão, não responderia, mas imploraria a clemência do meu juiz.  
 **16** E ainda que tivesse ouvido ás minhas súplicas, não acreditaria que tivesse feito caso da minha voz,  
@@ -318,8 +318,7 @@
 **22** Tira das trevas as coisas mais ocultas, e traz à luz a (própria) sombra da morte.  
 **23** Multiplica as nações e as destrói, e, depois de destruídas, as restitui ao seu primeiro estado.  
 **24** Ele muda o coração dos príncipes do povo da terra, transvia-os em desertos sem caminhos;  
-**25** Job faz uma longa enumeração dos males que, por permissão de Deus, sobrevêm a toda a classe de pessoas e de povos, para mostrar não tanto o seu poder como a independência em que está a sua ação dos méritos dessas pessoas e povos.  
-**26** andam às apalpadelas nas trevas, longe da luz; fá-los andar errantes como ébrios.  
+**25** andam às apalpadelas nas trevas, longe da luz; fá-los andar errantes como ébrios.  
 
 ## Capítulo 13
 
@@ -434,7 +433,7 @@
 **15** Despedaçou-me com feridas sobre feridas, lançou-se a mim como um gigante.  
 **16** Levo um cilício cosido sobre a minha pele, e cobri de cinza a minha carne.  
 **17** O meu rosto inchou à força de chorar, e as minhas pálpebras escureceram-se.  
-**18** Sofri isto sem que houvesse maldade nas minhas mãos. quando eu oferecia a Deus orações puras.  
+**18** Sofri isto sem que houvesse maldade nas minhas mãos, quando eu oferecia a Deus orações puras.  
 **19** Ó terra, não cubras o meu sangue, nem o meu clamor ache em ti lugar no qual seja sufocado.  
 **20** A minha testemunha está no céu, e está nas alturas o meu defensor.  
 **21** Os meus amigos escarnecem-me, mas os meus olhos recorrem a Deus, desfeitos em lágrimas.  
@@ -863,13 +862,21 @@
 **5** Mas, quando viu que os três não lhe puderam responder, indignou-se fortemente.  
 **6** Então, tomando a palavra Eliú, filho de Baraquel de Buz, disse: Sou novo ainda, e vós já velhos; portanto, abaixando a minha cabeça, não me atrevi a expor-vos o meu parecer.  
 **7** Eu esperava que falasse (com argumentos sólidos) a idade mais madura, e que os muitos anos ensinassem a sabedoria,  
-**8** Sentido deste versículo: Deus deu aos homens uma alma racional capaz de compreender a verdade, mas a verdadeira sabedoria provém de uma inspiração particular do mesmo Deus.  
-**9** Mas, pelo que vejo, é o espírito de Deus nos homens, é a inspiração do Omnipotente que dá a inteligência.  
-**10** Não são sábios os de muita idade, nem os anciãos os que julgam o que é justo.  
-**11** Portanto falarei: Ouvi-me, eu vos mostrarei também o meu pensamento.  
-**12** Falarei, e respirarei um pouco; abrirei os meus lábios, e responderei.  
-**13** Não farei aceitação de pessoa, não adularei seja quem for.  
-**14** Não sei usar circunlóquios, e por um pouco me suportará o meu Criador.  
+**8** Mas, pelo que vejo, é o espírito de Deus nos homens, é a inspiração do Omnipotente que dá a inteligência.  
+**9** Não são sábios os de muita idade, nem os anciãos os que julgam o que é justo.  
+**10** Portanto falarei: Ouvi-me, eu vos mostrarei também o meu pensamento.  
+**11** Esperei (que terminassem) os vossos discursos, ouvi as vossas razões, enquanto duraram as vossas disputas;  
+**12** enquanto julguei que poderíeis dizer alguma coisa, atendi. Porém, pelo que vejo, não há entre vós quem possa convencer Job, nem responder às suas razões.  
+**13** Não digais porventura: Nós encontrámos a sabedoria; é Deus que o fere, e não um homem.  
+**14** Não (direi) palavras tais, nem lhe responderei segundo os vossos arrazoados.  
+**15** (Eis aqui três homens que) estão desconcertados, não têm mais resposta, e a si mesmos taparam a boca.  
+**16** Visto, pois, que esperei, e eles não falaram, visto que estão aí sem nada mais responder,  
+**17** responderei eu também pela minha parte, e mostrarei o meu parecer.  
+**18** Sinto-me cheio de coisas para dizer, aperta-me o espírito que está dentro de mim.  
+**19** Eis que o meu peito é como o mosto sem respiradouro, o qual faz estoirar as vasilhas novas.  
+**20** Falarei, e respirarei um pouco; abrirei os meus lábios, e responderei.  
+**21** Não farei aceitação de pessoa, não adularei seja quem for.  
+**22** Não sei usar circunlóquios, e por um pouco me suportará o meu Criador.  
 
 ## Capítulo 33
 

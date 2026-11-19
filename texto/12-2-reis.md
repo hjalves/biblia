@@ -516,7 +516,7 @@
 **14** Eles não o quiseram ouvir, mas endureceram a sua cerviz, como a cerviz de seus pais, que não quiseram obedecer ao Senhor, seu Deus.  
 **15** Rejeitaram as suas leis e o pacto que tinha feito com seus pais, desprezaram as advertências, que lhes tinha feito, e correram atrás das vaidades, tornando-se eles próprios vaidades, e seguiram as nações, de que estavam rodeados, acerca das quais o Senhor lhes tinha ordenado que não fizessem como elas faziam.  
 **16** Abandonaram todos os preceitos do Senhor seu Deus e fizeram para si dois bezerros fundidos e aschera, adoraram todos os astros do céu, serviram a Baal,  
-**17** consagraram seus filhos e suas filhas por meio do fogo. entregaram-se a adivinhações e agouros, abandonaram-se a fazer o mal diante do Senhor, provocando a sua ira.  
+**17** consagraram seus filhos e suas filhas por meio do fogo, entregaram-se a adivinhações e agouros, abandonaram-se a fazer o mal diante do Senhor, provocando a sua ira.  
 **18** O Senhor indignou-se sobremaneira contra os israelitas e rejeitou-os de diante da sua face. Não ficou senão a tribo de Judá,  
 **19** mas nem essa mesma tribo de Judá guardou os mandamentos do Senhor seu Deus, antes andou nos erros que Israel tinha praticado.  
 **20** O Senhor abandonou toda a linhagem de Israel, afligiu-os e deu-os em presa aos que os saqueavam, até que os rejeitou (inteiramente) da sua presença.  

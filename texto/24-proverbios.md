@@ -646,7 +646,7 @@
 ## Capítulo 21
 
 **1** O coração do rei está na mão do Senhor como a água corrente; ele o inclinará para qualquer parte que quiser.  
-**2** Todo o caminho do homem lhe parece, a ele próprio. direito; o Senhor porém pesa os corações.  
+**2** Todo o caminho do homem lhe parece, a ele próprio, direito; o Senhor porém pesa os corações.  
 **3** Fazer misericórdia e justiça é mais agradável ao Senhor do que os sacrifícios (materiais).  
 **4** A soberba do coração torna altivos os olhos; o luzeiro dos ímpios é o pecado.  
 **5** Os pensamentos do homem diligente produzem sempre abundância; todo o precipitado, porém, está sempre na pobreza.  
@@ -707,7 +707,7 @@
 **26** Não te associes com aqueles que (imprudentemente) se obrigam, apertando as mãos, que se oferecem por fiadores para responder pelas dívidas de outrem,  
 **27** porque, se não tens com que pagar, quem impedirá que te arrebatem a cama de debaixo de ti?  
 **28** Não passes além dos antigos marcos que puseram teus pais.  
-**29** Viste um homem (pontual e) expedito nos seus afazeres? Este terá lugar junto dos reis. não ficará entre gente obscura.  
+**29** Viste um homem (pontual e) expedito nos seus afazeres? Este terá lugar junto dos reis, não ficará entre gente obscura.  
 
 ## Capítulo 23
 
@@ -813,7 +813,7 @@
 **25** Como a água fresca para pessoa que tem sede, assim é uma boa nova que vem dum país remoto.  
 **26** Como uma fonte turbada, como uma nascente de água corrompida, assim é o justo que vacila diante do ímpio.  
 **27** Assim como não faz bem o mel àquele que o come em demasia, assim o que quer sondar a majestade (divina) será oprimido pela sua glória.  
-**28** Como uma cidade desmantelada, sem muros, assim é aquele que, quando fala. não pode conter o seu espírito.  
+**28** Como uma cidade desmantelada, sem muros, assim é aquele que, quando fala, não pode conter o seu espírito.  
 
 ## Capítulo 26
 
@@ -946,7 +946,7 @@
 **7** Duas coisas (ó Senhor) são as que te pedi; não mas negues antes que morra;  
 **8** Afasta de mim a falsidade e as palavras mentirosas; não me dês nem a pobreza, nem as riquezas, dá-me somente o que for necessário para viver,  
 **9** para que não suceda que, estando eu saciado, seja tentado a renegar-te e a dizer (com arrogância): Quem é o Senhor? ou que, constrangido pela indigência, me ponha a furtar, e atente contra o nome do meu Deus.  
-**10** Não calunies o servo diante do seu senhor. para que não suceda que ele te amaldiçoe e que sofras o castigo.  
+**10** Não calunies o servo diante do seu senhor, para que não suceda que ele te amaldiçoe e que sofras o castigo.  
 **11** Há uma casta de gente que amaldiçoa o seu pai e que não abençoa sua mãe.  
 **12** Há uma casta de gente que se julga pura, e contudo não está limpa das suas manchas.  
 **13** Há uma casta de gente cujos olhos são altivos, cujas pálpebras são levantadas.  
