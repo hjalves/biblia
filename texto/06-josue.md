@@ -31,7 +31,7 @@
 **6** Ora ela tinha feito subir os homens ao terraço da sua casa e tinha-os coberto com palha de linho, que ali havia.  
 **7** Os que haviam sido enviados, foram atrás deles pelo caminho que conduz ao vau do Jordão, e, logo que saíram, foi fechada a porta (da cidade).  
 **8** Ainda os homens, que estavam escondidos, não tinham adormecido, quando a mulher subiu junto deles e lhes disse:  
-**9** Eu sei que o Senhor vos entregou este país; o terror de vós apoderou-se de nós, e todos os habitantes do pais desanimaram,  
+**9** Eu sei que o Senhor vos entregou este país; o terror de vós apoderou-se de nós, e todos os habitantes do país desanimaram,  
 **10** pois soubemos que o Senhor secou as águas do Mar Vermelho à vossa entrada, quando saístes do Egito, e (soubemos) o que fizestes aos dois reis dos Amorreus, que estavam da banda de além do Jordão, Seon e Og, os quais matastes.  
 **11** Quando ouvimos isto, tivemos grande medo, o nosso coração desmaiou e não ficou alento em nós à vossa aproximação; porque o Senhor vosso Deus é o (mesmo) Deus (que reina ) lá em cima no céu, e cá em baixo na terra.  
 **12** Agora pois jurai-me pelo Senhor, que, assim como eu usei de misericórdia convosco, assim usareis com a casa de meu pai, e dai-me um sinal seguro  
@@ -236,7 +236,7 @@
 **21** mas vivam com a obrigação de cortarem lenha e acarretarem água para o serviço de todo o povo. Estando eles a dizer isto,  
 **22** Josué chamou os Gabaonitas e disse-lhes: Porque nos quisestes enganar com (a vossa) fraude, dizendo: Nós habitamos muito longe de vós, sendo que viveis no meio de nós?  
 **23** Por isso estareis debaixo de maldição, e não faltará da vossa linhagem quem corte lenha e acarrete água para a casa do meu Deus.  
-**24** Eles responderam: A nós, teus servos, chegou a noticia de que o Senhor teu Deus tinha prometido a Moisés, seu servo, que vos daria toda a terra e extinguiria todos os seus habitantes. Tivemos, pois, muito medo, e, compelidos pelo terror que vós cansáveis, tomámos este expediente para segurarmos as nossas vidas.  
+**24** Eles responderam: A nós, teus servos, chegou a notícia de que o Senhor teu Deus tinha prometido a Moisés, seu servo, que vos daria toda a terra e extinguiria todos os seus habitantes. Tivemos, pois, muito medo, e, compelidos pelo terror que vós cansáveis, tomámos este expediente para segurarmos as nossas vidas.  
 **25** Agora estamos nas tuas mãos; faz de nós o que te parecer bom e justo.  
 **26** Fez pois Josué, como tinha dito, e livrou-os das mãos dos filhos de Israel, para que os não matassem.  
 **27** Determinou naquele dia que fossem empregados no serviço de todo o povo e do altar do Senhor, cortando lenha e conduzindo água ao lugar que o Senhor escolhesse, (como o fazem) até ao presente.  

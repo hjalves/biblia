@@ -106,7 +106,7 @@
 ## Capítulo 4
 
 **1** Quando os inimigos de Judá e de Benjamim souberam que os filhos do cativeiro edificavam o templo do Senhor Deus de Israel,  
-**2** indo ter com Zorobabel e com os chefes das famílias, disseram-lhes: Deixai-nos edificar convosco, porque nós buscamos o vosso Deus, do mesmo modo que vós; temos-lhe sempre imolado vitimas, desde o tempo de Assaradão, rei da Assíria, que nos mandou para aqui.  
+**2** indo ter com Zorobabel e com os chefes das famílias, disseram-lhes: Deixai-nos edificar convosco, porque nós buscamos o vosso Deus, do mesmo modo que vós; temos-lhe sempre imolado vítimas, desde o tempo de Assaradão, rei da Assíria, que nos mandou para aqui.  
 **3** Zorobabel, Josué e os outros chefes das famílias de Israel responderam-lhes: Não convém a vós e a nós edificar juntamente a casa ao nosso Deus; nós, sozinhos, a edificaremos ao Senhor nosso Deus, como Ciro, rei dos Persas, no-lo ordenou.  
 **4** Daqui resultou que o povo da terra intimidava o povo de Judá e estorvava-o na obra.  
 **5** (Os inimigos de Judá) subornaram alguns conselheiros (do rei), para destruírem o seu projeto. Isto durou todo o tempo de Ciro, rei dos Persas, até ao reinado de Dario, rei dos Persas.  
@@ -154,7 +154,7 @@
 
 **1** Então o rei Dario mandou que se fizessem investigações na casa dos arquivos, onde estavam depositados os tesouros, em Babilónia.  
 **2** Foi encontrado em Ecbatana, que é uma fortaleza da província de Média, um livro, onde estava registada a seguinte memória:  
-**3** No primeiro ano do rei Ciro, o rei Ciro ordenou que a casa de Deus, que está em Jerusalém, seja reedificada para ser um lugar onde se possam oferecer vitimas, e que lhe sejam lançados sólidos fundamentos. Terá sessenta côvados de altura e sessenta de largura,  
+**3** No primeiro ano do rei Ciro, o rei Ciro ordenou que a casa de Deus, que está em Jerusalém, seja reedificada para ser um lugar onde se possam oferecer vítimas, e que lhe sejam lançados sólidos fundamentos. Terá sessenta côvados de altura e sessenta de largura,  
 **4** com três ordens de pedras por polir, e uma ordem de madeira nova. Que as despesas sejam feitas pela casa do rei.  
 **5** Que também os vasos de ouro e prata, que Nabucodonosor tinha tirado do templo de Jerusalém e transportado para Babilónia, sejam restituídos e reconduzidos para o templo de Jerusalém, para o seu lugar, sejam colocados no templo de Deus.  
 **6** Agora, pois, Talanai, governador das terras, que estão da banda de além do rio, Starbuzanai, e vossos colegas Afarsaqueus, que viveis da banda de além do rio, retirai-vos dos Judeus.  

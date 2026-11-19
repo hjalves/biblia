@@ -267,7 +267,7 @@
 **11** Não entregues, Senhor, o teu cetro àqueles que não são nada, para que não escarneçam da nossa ruína, mas volta contra eles os seus desígnios e destrói aquele que começou a ser cruel contra nós.  
 **12** Lembra-te de nós, Senhor, mostra-nos a tua face no tempo da nossa tribulação, e dá-me força. Senhor, rei dos deuses e Dominador de todas as potestades;  
 **13** põe na minha boca palavras próprias na presença do leão (Assuero), e muda o seu coração de modo que aborreça o nosso inimigo, a fim de que pereça ele e os outros que estão de acordo com ele.  
-**14** Livra-nos com a tua mão. Socorre-me, que não tenho outro auxilio, senão a ti. Senhor, que conheces todas as coisas,  
+**14** Livra-nos com a tua mão. Socorre-me, que não tenho outro auxílio, senão a ti. Senhor, que conheces todas as coisas,  
 **15** que sabes que aborreço a glória dos iníquos e detesto o leito dos incircuncisos e de qualquer estrangeiro.  
 **16** Tu sabes o constrangimento que sinto, quanto abomino o distintivo da soberba e da minha glória, que trago sobre a minha cabeça nos dias em que devo comparecer em público, sabes que o detesto como um pano asqueroso e que não o trago nos dias do meu silêncio (da vida particular),  
 **17** que não tenho comido na mesa de Aman, nem me têm deleitado os convites do rei, nem tenho bebido vinho das libações (oferecidas aos ídolos);  
@@ -310,7 +310,7 @@
 **10** Para que entendais melhor o que dizemos (sabei que) Aman, filho de Amadati, macedónio de sentimentos e de raça, alheio ao sangue dos Persas, o qual com a sua crueldade tem desacreditado a nossa piedade, sendo estrangeiro, foi acolhido por nós  
 **11** e encontrou em nós tão grande humanidade, que era chamado nosso pai e venerado por todos como o segundo depois do rei.  
 **12** Porém chegou a tal extremo de arrogância, que intentou privar-nos do reino e da vida.  
-**13** Com efeito, com novos e inauditos artifícios, maquinou a morte de Mardoqueu, a cuja lealdade e beneficio devemos a vida, e também a de Ester, minha companheira no reino, com toda a sua nação,  
+**13** Com efeito, com novos e inauditos artifícios, maquinou a morte de Mardoqueu, a cuja lealdade e benefício devemos a vida, e também a de Ester, minha companheira no reino, com toda a sua nação,  
 **14** tendo em vista, depois de os matar, armar ciladas ao nosso isolamento, e trasladar o reino dos Persas para os Macedónios.  
 **15** Ora nós não encontramos a menor culpa nos Judeus, destinados à morte pelo pior dos homens, antes pelo contrário seguem leis justas  
 **16** e são filhos do Deus Altíssimo, omnipotente, que vive para sempre, por cujo benefício foi dado o reino a nossos pais e a nós mesmos, e até ao dia de hoje nos é conservado.  

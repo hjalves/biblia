@@ -86,9 +86,9 @@
 **12** Quanto tínhamos de santo, de ilustre e de glorioso, tudo foi destruído e profanado pelas nações.  
 **13** De que nos serve pois o viver ainda?  
 **14** Dito isto, rasgaram as suas vestes, Matatias e seus filhos, cobriram-se de cilícios e choraram amargamente.  
-**15** Ao mesmo tempo chegaram ali os que o rei Antioco tinha enviado a constranger os da cidade de Modin a que apostatassem e sacrificassem (aos ídolos).  
+**15** Ao mesmo tempo chegaram ali os que o rei Antíoco tinha enviado a constranger os da cidade de Modin a que apostatassem e sacrificassem (aos ídolos).  
 **16** Muitos do povo de Israel, consentindo nisso, uniram-se a eles; porém Matatias e seus filhos perseveraram constantes.  
-**17** Tomando a palavra os que tinham sido enviados por Antioco, disseram a Matatias: Tu és um notável, poderoso, respeitado nesta cidade, apoiado por filhos e irmãos.  
+**17** Tomando a palavra os que tinham sido enviados por Antíoco, disseram a Matatias: Tu és um notável, poderoso, respeitado nesta cidade, apoiado por filhos e irmãos.  
 **18** Vem, pois, em primeiro lugar, e executa a ordem do rei, como o têm feito todas as nações, os homens de Judá e os que ficaram em Jerusalém; assim tu e os teus filhos sereis do número dos amigos do rei, ficareis cumulados de ouro, de prata e de muitas mercês.  
 **19** Matatias respondeu em alta voz: Ainda que todas as nações pertencentes ao reino do rei lhe obedeçam, de tal sorte que cada um se aparte do Jugo da lei de seus pais e se submeta às ordens do rei,  
 **20** eu, meus filhos e meus irmãos seremos fiéis à Aliança dos nossos pais.  
@@ -171,13 +171,13 @@
 **24** Judas perseguiu-o na descida de Betoron Até à planície. Morreram deles (Sírios) oitocentos homens; os outros fugiram para o país dos Filisteus.  
 **25** Então o terror e o medo, que Infundiam Judas e os seus irmãos, espalharam-se por todas as nações circunvizinhas;  
 **26** a fama do seu nome chegou até ao rei, e todos os povos falavam das batalhas de Judas.  
-**27** Logo que o rei Antioco ouviu estas novas, concebeu grande ira e mandou reunir todas as tropas do seu reino, de que formou um exército poderosíssimo.  
+**27** Logo que o rei Antíoco ouviu estas novas, concebeu grande ira e mandou reunir todas as tropas do seu reino, de que formou um exército poderosíssimo.  
 **28** Abriu o seu erário e deu no exército o soldo de um ano, mandando-lhes que estivessem prestes para tudo.  
 **29** Mas viu que lhe faltava o dinheiro de seus tesouros e que rendiam pouco os tributos do país (de Judá), por causa das discórdias e misérias que ele mesmo tinha ocasionado, querendo abolir as leis que estavam em uso desde os tempos antigos.  
 **30** Temeu, portanto, não ter, como uma ou duas vezes antes acontecera, para os gastos e donativos, que anteriormente fazia com mão larga, e em que tinha excedido os reis seus predecessores.  
 **31** Consternado em extremo no seu interior, resolveu ir à Pérsia, a recolher os tributos daquelas províncias e ajuntar muito dinheiro.  
 **32** Deixou Lísias, homem nobre da família real, para que tivesse cuidado dos negócios do reino, desde o rio Eufrates até aos confins do Egito,  
-**33** e para que cuidasse da educação de seu filho Antioco, até ele voltar.  
+**33** e para que cuidasse da educação de seu filho Antíoco, até ele voltar.  
 **34** Confiou-lhe metade do exército, com os elefantes, e deu-lhe as suas ordens acerca de tudo, particularmente sobre o que dizia respeito aos habitantes da Judeia e de Jerusalém:  
 **35** mandou-lhe que enviasse contra eles um exército, para destruir e exterminar o poder de Israel e os restos de Jerusalém, para apagar deste lugar até a sua memória,  
 **36** e que estabelecesse no seu território habitantes doutras nações, repartindo por sorte as suas terras.  
@@ -185,8 +185,8 @@
 **38** Lísias escolheu Ptolomeu, filho de Dorimeno, e Nicanor e Górgias, que eram chefes valorosos entre os amigos do rei,  
 **39** e enviou com eles quarenta mil homens a pé e sete mil cavaleiros, para que fossem à terra de Judá e a assolassem, conforme a ordem do rei.  
 **40** Eles, pois, marcharam com todas as suas tropas e chegaram lá, acampando na planície do território de Emaús.  
-**41** Quando os mercadores das províncias vizinhas ouviram a noticia da chegada deles, tomaram muita prata, muito ouro e criados, e foram ao acampamento, com o fim de comprarem os filhos de Israel para escravos. Os exércitos da Síria se ajuntaram a eles, como também os de outras nações.  
-**42** Então Judas e seus irmãos, vendo que os males se tinham multiplicado e que os exércitos se aproximavam das suas fronteiras, e tendo noticia das ordens que o rei tinha dado para destruir e exterminar o povo,  
+**41** Quando os mercadores das províncias vizinhas ouviram a notícia da chegada deles, tomaram muita prata, muito ouro e criados, e foram ao acampamento, com o fim de comprarem os filhos de Israel para escravos. Os exércitos da Síria se ajuntaram a eles, como também os de outras nações.  
+**42** Então Judas e seus irmãos, vendo que os males se tinham multiplicado e que os exércitos se aproximavam das suas fronteiras, e tendo notícia das ordens que o rei tinha dado para destruir e exterminar o povo,  
 **43** disseram uns para os outros: Levantemos o nosso povo do seu abatimento e pelejemos pela nossa nação e pelo santuário.  
 **44** Fez-se a convocação de toda a gente, a fim de se prepararem para a peleja e a fim de fazerem oração (ao Senhor) e implorarem a sua misericórdia,e piedade.  
 **45** Ora Jerusalém não estava então habitada, mas parecia um deserto: entre seus filhos nenhum havia que entrasse e saísse dela; o santuário estava pisado aos pés; os filhos dos estrangeiros ocupavam a fortaleza, a qual servia de habitação aos gentios; foi desterrada de Jacob toda a alegria, não se ouvindo já nem a flauta nem a harpa.  
@@ -210,7 +210,7 @@
 
 **1** Górgias tomou cinco mil homens de pé e mil cavaleiros escolhidos, partindo de noite,  
 **2** para atacar o acampamento dos Judeus e dar sobre eles de improviso. Os homens da guarnição da fortaleza (de Jerusalém) serviam-lhes de guia.  
-**3** Judas, ao ter noticia disto, levantou-se com os seus valentes para ir atacar o exército do rei, que estava em Emaús,  
+**3** Judas, ao ter notícia disto, levantou-se com os seus valentes para ir atacar o exército do rei, que estava em Emaús,  
 **4** enquanto as tropas estavam ainda dispersas fora do acampamento.  
 **5** Górgias foi de noite ao acampamento de Judas, mas não encontrou lá ninguém; então buscava-os pelos montes, dizendo: Eles fogem de nós.  
 **6** Quando foi dia, apareceu Judas na planície, acompanhado de três mil homens, que não tinham nem os escudos nem as espadas que desejavam.  
@@ -358,7 +358,7 @@
 **13** Reconheço, pois, que por isso é que vieram sobre mim todos estes males; e eis que vou morrer de grande melancolia numa terra estrangeira  
 **14** Então chamou Filipe, um dos seus amigos, e constituiu-o regente de todo o seu reino;  
 **15** entregou-lhe o seu diadema, o seu manto real e o seu anel, com o encargo de dirigir seu filho Antíoco e de o educar para o trono.  
-**16** E o rei Antioco morreu ali, no ano cento e quarenta e nove  
+**16** E o rei Antíoco morreu ali, no ano cento e quarenta e nove  
 **17** Lísias ao saber que o rei tinha morrido, aclamou rei a Antíoco, seu filho, a quem tinha criado desde menino, e pôs-lhe o nome de Eupator.  
 **18** Ora os que estavam na fortaleza tinham fechado a Israel nos arredores do templo, procurando sempre fazer-lhe mal e apoiar os gentios.  
 **19** Judas resolveu destruí-los, e convocou todo o povo para os cercar.  
@@ -430,7 +430,7 @@
 **19** Báquides partiu de Jerusalém e foi acampar junto de Bezeth, onde mandou prender muitos daqueles que tinham abandonado o seu partido, com alguns do povo, e lançar na grande cisterna.  
 **20** Depois disto, tendo confiado o país a Alcimo e deixado um corpo de tropas para o sustentar, Báquides voltou para junto do rei.  
 **21** Entretanto Alcimo fazia todos os esforços para se impor no pontificado supremo.  
-**22** Juntaram-se a ele todos os que perturbavam o seu povo, tornaram-se senhores do pais de Judá e causaram grandes estragos em Israel.  
+**22** Juntaram-se a ele todos os que perturbavam o seu povo, tornaram-se senhores do país de Judá e causaram grandes estragos em Israel.  
 **23** Tendo Judas que todos os males, que Alcimo e os que com ele estavam tinham feito aos filhos de Israel, eram maiores do que os causados pelos gentios,  
 **24** percorreu todo o território da Judeia e deu o merecido castigo aos desertores (da causa da pátria), que foram impedidos de andar pelo país.  
 **25** Quando Alcimo viu que Judas e a sua gente eram mais fortes, reconhecendo que não podia resistir-lhes, voltou para junto do rei e acusou-os de graves crimes.  
@@ -471,7 +471,7 @@
 **7** que o tinham tomado vivo, e imposto, a ele e aos seus sucessores, um grande tributo, entrega de reféns e de parte do seu reino (a saber):  
 **8** o país dos Índios, dos Medos e dos Lídios, as mais belas das suas províncias, as quais, depois de recebidas, deram ao rei Eumenes.  
 **9** (Soube também Judas) que os que estavam na Grécia tinham querido marchar (contra os Romanos) e destruí-los, mas que estes, sabedores de tal plano,  
-**10** enviaram contra eles um dos seus generais e lhes deram batalha, mataram muita gente, levaram cativas as suas mulheres e os seus filhos, saquearam-nos, tornaram-se senhores do seu pais, destruíram as suas fortalezas, reduzindo-os à escravidão até ao dia de hoje.  
+**10** enviaram contra eles um dos seus generais e lhes deram batalha, mataram muita gente, levaram cativas as suas mulheres e os seus filhos, saquearam-nos, tornaram-se senhores do seu país, destruíram as suas fortalezas, reduzindo-os à escravidão até ao dia de hoje.  
 **11** Tinham arruinado e subjugado ao seu império os outros reinos e ilhas que lhes haviam resistido.  
 **12** Por outro lado (ouviu) que conservavam cuidadosamente as alianças feitas com os seus amigos e com os que neles confiam; que assim se tornaram senhores dos reinos vizinhos e mesmo dos que lhes ficavam longe, e que todos quantos ouvem o seu nome os temem;  
 **13** que reinam os que eles querem ajudar a reinar, e que são postos fora os que eles não querem; que, desta forma, (os Romanos) se achavam muito engrandecidos.  
@@ -486,7 +486,7 @@
 **22** Eis o rescrito que fizeram gravar em lâminas de bronze e enviaram a Jerusalém, para ali servirem como dum monumento de paz e aliança (que tinham feito com os Judeus):  
 **23** Felicidade aos Romanos e à nação dos Judeus, por mar e por terra, para sempre! Que a espada e o inimigo estejam (sempre) longe deles!  
 **24** Se sobrevier uma guerra aos Romanos, primeiramente, ou a quaisquer dos seus aliados, em toda a extensão dos seus domínios,  
-**25** a nação dos Judeus lhes dará auxilio de todo o (seu) coração, conforme o permitirem as circunstâncias;  
+**25** a nação dos Judeus lhes dará auxílio de todo o (seu) coração, conforme o permitirem as circunstâncias;  
 **26** os Judeus não darão nem subministrarão aos inimigos de Roma, trigo, nem armas, nem dinheiro, nem embarcações, porque assim é que pareceu bem aos Romanos; (os Judeus) cumprirão o estabelecido, sem receberem nade deles.  
 **27** Da mesma sorte, se sobrevier primeiro uma guerra à nação dos Judeus, os Romanos os ajudarão de todo o coração, segundo lhes permitir o tempo;  
 **28** não darão aos combatentes trigo, nem armas, nem dinheiro, nem embarcações, porque assim é que aprouve aos Romanos; estes cumprirão o estabelecido com fidelidade.  
@@ -521,7 +521,7 @@
 **22** As outras narrações (que se podiam fazer) das guerras de Judas, das façanhas que operou e da sua grandeza não se acham escritas, porque eram muito numerosas.  
 **23** Aconteceu que, depois da morte de Judas, apareceram por todo o território de Israel homens perversos, e levantaram a cabeça todos os obreiros da Iniquidade.  
 **24** Naqueles dias sobreveio uma fome muito grande, e todo o país tomou o seu partido.  
-**25** Báquides escolheu homens ímpios e deu-lhes cargos de mando no pais.  
+**25** Báquides escolheu homens ímpios e deu-lhes cargos de mando no país.  
 **26** Estes andavam em busca zelosa dos amigos de Judas e traziam-nos a Báquides, o qual se vingava deles e os ridicularizava.  
 **27** levantou-se uma tão grande tribulação em Israel, que não se tinha visto outra assim desde o tempo do desaparecimento dos profetas de Israel  
 **28** Então juntaram-se todos os amigos de Judas e disseram a Jónatas:  
@@ -549,11 +549,11 @@
 **50** edificou cidades fortes na Judeia e consolidou com altos muros, com portas e ferrolhos, as fortificações de Jericó, Emaús, Betoron, Betei, Tamnata, Faraton e Tefon.  
 **51** Nelas pôs guarnições para que fizessem correrias contra Israel.  
 **52** Fortificou também a cidade de Betsur, Gazara e a cidadela (de Sião), e pôs nelas tropas e provisões de mantimentos.  
-**53** Tomou para reféns os filhos das principais famílias do pais e pô-los em custódia na fortaleza de Jerusalém.  
+**53** Tomou para reféns os filhos das principais famílias do país e pô-los em custódia na fortaleza de Jerusalém.  
 **54** No ano cento e cinquenta e três, no segundo mês, mandou Alcimo demolir as paredes do átrio interior do templo, destruindo as obras dos profetas (Ageu e Zacarias). Começou a deitá-las abaixo,  
 **55** mas, nessa altura, Alcimo foi ferido (pela mão de Deus), e não pôde acabar o que tinha começado: cerrou-se-lhe a boca, ficou tolhido de paralisia, sem poder mais pronunciar uma palavra, nem fazer disposição alguma relativamente à sua casa.  
 **56** (Assim) morreu Alcimo neste tempo, atormentado de grandes dores.  
-**57** Vendo Báquides que Alcimo tinha morrido, voltou para o rei, e o pais ficou em repouso durante dois anos,  
+**57** Vendo Báquides que Alcimo tinha morrido, voltou para o rei, e o país ficou em repouso durante dois anos,  
 **58** Então todos os maus formaram entre si este desígnio: Eis que Jónatas e os que estão com ele vivem em paz e segurança; façamos, pois, agora vir Báquides, que os apanhará a todos numa noite.  
 **59** Foram, pois, ter com ele, a levar-lhe este conselho.  
 **60** Báquides pôs-se logo a caminho com um grande exército e mandou em segredo cartas aos" do seu partido, que tinha na Judeia, a fim de que prendessem Jónatas e os que estavam com ele. Porém estes não o puderam fazer, porque se divulgou o seu plano.  
@@ -721,7 +721,7 @@
 **54** Depois disto, voltou Trifão, e com ele Antíoco, jovem ainda, que reinou e se pôs o diadema na cabeça.  
 **55** Todas as tropas que Demétrio tinha despedido juntaram-se logo a Antíoco e combateram contra Demétrio, o qual voltou costas e fugiu.  
 **56** Trifão apoderou-se dos elefantes e tornou-se senhor de Antioquia.  
-**57** Então o jovem Antioco escreveu a Jónatas nestes termos: Eu te confirmo no sumo pontificado e te constituo sobre os quatro distritos e (quero que) sejas dos amigos do rei.  
+**57** Então o jovem Antíoco escreveu a Jónatas nestes termos: Eu te confirmo no sumo pontificado e te constituo sobre os quatro distritos e (quero que) sejas dos amigos do rei.  
 **58** Mandou-lhe também vasos de ouro, utensílios, e deu-lhe poder de beber por copo de ouro, de se vestir de púrpura e de trazer afinete de ouro.  
 **59** A seu irmão Simão nomeou-o governador das terras que vão desde a Escada de Tiro até à fronteira do Egito.  
 **60** Então saiu Jónatas e percorreu as terras e as cidades de além do rio. Juntou-se a ele, para combater seu lado, todo o exército da Síria. Chegou assim a Ascalon, cujos habitantes saíram a recebê-lo com grades honras.  
@@ -909,7 +909,7 @@
 ## Capítulo 15
 
 **1** Então o rei Antíoco, filho de Demétrio enviou das ilhas do mar cartas a Simão, sumo pontífice e chefe do povo dos Judeus, e a toda a sua nação.  
-**2** O seu conteúdo era o seguinte; O rei Antioco a Simão, sumo pontífice e chefe, e à nação dos Judeus, saúde.  
+**2** O seu conteúdo era o seguinte; O rei Antíoco a Simão, sumo pontífice e chefe, e à nação dos Judeus, saúde.  
 **3** Tendo-se alguns homens perversos apoderado do reino de nossos pais, resolvi recuperá-lo e restabelecê-lo no estado em que antes se achava; (por isso) levantei um grande exército e mandei aparelhar navios de guerra.  
 **4** Quero, pois, entrar nessas regiões para castigar aqueles que arruinaram as nossas terras e assolaram muitas cidades no meu reino.  
 **5** Confirmo-te agora todas as isenções que os reis meus predecessores te deram e todos os dons que te concederem;  
@@ -930,7 +930,7 @@
 **20** Julgámos que devíamos aceitar o escudo que nos trouxeram.  
 **21** Se, pois, alguns homens corrompidos saíram do país deles para se refugiarem entre vós, remetei-os a Simão sumo sacerdote, para que ele os faça castigar conforme a sua lei.  
 **22** Estas mesmas coisas escreveram ao rei Demétrio, a Atalo, a Ariarates, a Arsaces,  
-**23** assim como a todos os países (seus aliados): a Lampsaco, aos Espartanos, a Delos, a Mindo, a Siciónia, a Caria, a Samos, a Panfilia, a Lícia, a Halicarnasso, a Rodes, a Fasélida, a Cós, a Side, a Arado, a Gortine, a Guido, a Ohipre e a Cirene.  
+**23** assim como a todos os países (seus aliados): a Lampsaco, aos Espartanos, a Delos, a Mindo, a Siciónia, a Caria, a Samos, a Panfília, a Lícia, a Halicarnasso, a Rodes, a Fasélida, a Cós, a Side, a Arado, a Gortine, a Guido, a Ohipre e a Cirene.  
 **24** Destas cartas mandaram uma cópia a Simão, sumo pontífice.  
 **25** O rei Antíoco (como dissemos) pôs cerco a Dora, apertando-a por todos os lados e construindo máquinas de guerra; encerrou dentro dela a Trifão, de tal sorte que não se podia entrar nem sair.  
 **26** Então Simão mandou em seu auxílio dois mil homens escolhidos, com prata e ouro e muitos apetrechos,  

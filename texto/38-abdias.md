@@ -17,7 +17,7 @@
 **13** Não entres pelas portas (ou cidades) do meu povo no dia da sua ruína (para recolher despojos); não te alegres com os seus males no dia da sua desgraça; não deites a mão às suas riquezas, no dia da sua calamidade;  
 **14** não te ponhas nas encruzilhadas para matar os (Hebreus) que fugirem; não entregues os restos dos seus habitantes no dia da tribulação.  
 **15** Porque o dia (do castigo) do Senhor está perto para todas as nações, far-se-á contigo como tu fizeste (com o meu povo): (Deus) fará cair sobre a tua cabeça as tuas obras.  
-**16** Assim como vós bebestes (sacrilegamente) sobre o meu santo monte, assim também beberão de continuo (do cálice da cólera divina) todas as (outras) nações (idólatras); beberão, sorverão, e virão a ser como se nunca tivessem sido.  
+**16** Assim como vós bebestes (sacrilegamente) sobre o meu santo monte, assim também beberão de contínuo (do cálice da cólera divina) todas as (outras) nações (idólatras); beberão, sorverão, e virão a ser como se nunca tivessem sido.  
 **17** Mas sobre o monte de Sião haverá escapados, será (um lugar) santo e a casa de Jacob despojará aqueles que a despojaram.  
 **18** A casa de Jacob será um fogo, a casa de José uma chama, e a casa de Esaú palha seca, a qual será abrasada e devorada por aquelas, sem ficar resto algum da casa de Esaú, porque o Senhor assim o disse.  
 **19** Os que habitam ao meio-dia ocuparão o monte (ou pais) de Esaú, e os que habitam na planície (tomarão) o país dos Filisteus; serão senhores do país de Efraim e do território de Samaria, e Benjamim possuirá Galaad.  

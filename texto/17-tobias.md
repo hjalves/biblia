@@ -3,7 +3,7 @@
 ## Capítulo 1
 
 **1** Tobias, da tribo e cidade de Neftali (que está situada na Galileia superior, acima de Naasson, por detrás do caminho que vai para o Ocidente, e tem à esquerda a cidade de Sefet),  
-**2** foi levado cativo no tempo de Salmanasar, rei dos Assirios. Não obstante encontrar-se no cativeiro, não abandonou o caminho da verdade,  
+**2** foi levado cativo no tempo de Salmanasar, rei dos Assírios. Não obstante encontrar-se no cativeiro, não abandonou o caminho da verdade,  
 **3** de sorte que, daquilo de que podia dispor, distribuía todos os dias pelos seus irmãos de raça, que estavam cativos com ele.  
 **4** Embora fosse o mais jovem de todos os da tribo de Neftali, nada praticava de pueril em suas ações.  
 **5** Além disso, quando todos iam adorar os bezerros de ouro que Jeroboão, rei de Israel, tinha feito, só ele fugia da companhia de todos  
@@ -239,7 +239,7 @@
 **6** Tobias dizia-lhe: Cala-te, não te perturbes, que o nosso filho está são; aquele homem, com quem nós o mandamos, é muito fiel.  
 **7** Ela, porém, não se podia consolar de modo algum, mas, saindo todos os dias fora, andava olhando para todas as parles, e corria por todos os caminhos, por onde esperava que o filho poderia voltar, para o ver vir ao longe, se lhe fosse possível.  
 **8** Entretanto Raguel dizia a seu genro: Fica-te aqui; eu mandarei a Tobias, teu pai, um mensageiro com novas da tua saúde.  
-**9** Tobias respondeu-lhe: Eu sei que meu pai e minha mãe estão agora contando-os dias e que o seu espírito está num continuo tormento.  
+**9** Tobias respondeu-lhe: Eu sei que meu pai e minha mãe estão agora contando-os dias e que o seu espírito está num contínuo tormento.  
 **10** Raguel, depois de ter feito muitas instâncias a Tobias, ao ver que este não queria, de modo algum, condescender com ele, entregou-lhe sua filha Sara e metade de tudo o que possuía em servos, servas, rebanhos, camelos, vacas, e em grande quantidade de dinheiro; (depois)deixou-o partir são e alegre,  
 **11** dizendo: Que o santo anjo do Senhor seja convosco na viagem, vos conduza sem perigo algum, e que os meus olhos vejam os vossos filhos antes de eu morrer.  
 **12** Os pais, abraçando a sua filha, beijaram-na e deixaram-na partir,  
@@ -252,7 +252,7 @@
 **3** Se assim, pois, te parece bem, vamos nós adiante, e os teus domésticos sigam-nos devagar com tua mulher e com os gados  
 **4** Tendo Tobias achado bom este parecer, disse-lhe Rafael: Traz contigo do fel do peixe, porque será necessário. Tomou, portanto, Tobias do fel, e partiram.  
 **5** Entretanto Ana todos os dias se ia assentar junto da estrada, no alto duma colina, donde podia ver ao longe,  
-**6** Enquanto desse lugar espreitava a sua vinda, viu ao longe e logo reconheceu seu filho que vinha; (logo) correu a dar a nova a seu marido, dizendo: Eis ai vem teu filho.  
+**6** Enquanto desse lugar espreitava a sua vinda, viu ao longe e logo reconheceu seu filho que vinha; (logo) correu a dar a nova a seu marido, dizendo: Eis aí vem teu filho.  
 **7** Ao mesmo tempo Rafael disse a Tobias: Quando tiveres entrado em tua casa, adora logo ao Senhor teu Deus e dá-lhe graças; depois aproxima-te de teu pai e dá-lhe um beijo.  
 **8** Unta-lhe imediatamente os seus olhos com este fel do peixe, que trazes contigo, porque está certo que logo os seus olhos se abrirão, que teu pai verá a luz do céu e se alegrará em te ver,  
 **9** Então o cão, que os tinha seguido pelo caminho, correu adiante e, como que trazendo a nova, mostrava o seu contentamento e fazia festas, abanando a cauda.  

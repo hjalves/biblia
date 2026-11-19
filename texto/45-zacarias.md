@@ -22,7 +22,7 @@
 **18** Em seguida levantei os meus olhos, pus-me a olhar e vi quatro hastes.  
 **19** Perguntei ao anjo que falava comigo: Que é isto? Respondeu-me: Estas são as hastes que dispersaram Judá, Israel e Jerusalém,  
 **20** Depois o Senhor mostrou-me quatro ferreiros.  
-**21** Eu perguntei: Que vêm estes fazer? Respondeu-me: Aquelas hastes haviam dispersado Judá de forma que ninguém ousava levantar a cabeça; mas estes vieram para as deitar abaixo, para abater as hastes (ou o poder) das nações, que levantaram a sua força contra o pais de Judá, para dispersar (os seus habitantes).  
+**21** Eu perguntei: Que vêm estes fazer? Respondeu-me: Aquelas hastes haviam dispersado Judá de forma que ninguém ousava levantar a cabeça; mas estes vieram para as deitar abaixo, para abater as hastes (ou o poder) das nações, que levantaram a sua força contra o país de Judá, para dispersar (os seus habitantes).  
 
 ## Capítulo 2
 
@@ -108,7 +108,7 @@
 **2** Betel enviou Sarasar, Rogomelec e os homens que estavam com ele para apresentar as suas orações diante do Senhor  
 **3** e fazer aos sacerdotes da casa do Senhor dos exércitos e aos profetas esta pergunta: Porventura devo eu chorar no quinto mês, jejuando, como já o fiz durante muitos anos (Que durou o cativeiro)?  
 **4** Foi-me dirigida a palavra do Senhor dos exércitos, nestes termos:  
-**5** Dize a todo o povo do pais e aos sacerdotes o seguinte: Quando vós jejuáveis e choráveis no quinto e sétimo mês, durante estes setenta anos, foi por meu respeito que jejuastes?  
+**5** Dize a todo o povo do país e aos sacerdotes o seguinte: Quando vós jejuáveis e choráveis no quinto e sétimo mês, durante estes setenta anos, foi por meu respeito que jejuastes?  
 **6** Quando comestes e bebestes, não foi para vós que comestes e bebestes?  
 **7** Porventura não são estas as coisas que disse o Senhor por meio dos profetas que nos precederam, quando Jerusalém era ainda habitada e estava Cheia de riquezas, ela e as cidades circunvizinhas, e quando havia população em Negueb e Sefeíah?  
 **8** Foi dirigida a Zacarias a palavra do Senhor, nestes termos:  
@@ -220,7 +220,7 @@
 ## Capítulo 13
 
 **1** Naquele dia haverá uma fonte aberta para a casa de Davide e para os habitantes de Jerusalém, para se lavarem as manchas do pecado e da impureza.  
-**2** Naquele dia, diz o Senhor dos exércitos, exterminarei do pais (até) os nomes dos ídolos, de forma que deles não haverá mais memória; tirarei dele os falsos profetas e o espírito de impureza.  
+**2** Naquele dia, diz o Senhor dos exércitos, exterminarei do país (até) os nomes dos ídolos, de forma que deles não haverá mais memória; tirarei dele os falsos profetas e o espírito de impureza.  
 **3** Se alguém intentar ainda inculcar-se por profeta, seu pai e sua mãe, que os geraram, lhe dirão: Tu não viverás, pois que disseste mentira em nome do Senhor.— E seu pai e sua mãe, que o geraram, o traspassarão, quando se tiver metido a profetizar.  
 **4** Naquele dia serão confundidos os (falsos) profetas, cada um pela sua visão, quando profetizarem; não mais se cobrirão (hipocritamente) com o manto de pelos para mentirem,  
 **5** mas (cada um deles) dirá: Eu não sou profeta, sou um agricultor, emprego em que me ocupo desde a minha mocidade.  

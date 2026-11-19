@@ -13,7 +13,7 @@
 **9** Que projetos formais contra o Senhor? É ele mesmo que aniquilará (Nínive); esta inimiga não surgirá duas vezes.  
 **10** Como espinhos entrelaçados uns nos outros, ébrios do seu vinho generoso, serão consumidos como palha completamente seca.  
 **11** De ti saiu (ó Nínive) quem pensa mal (ou impiamente) contra o Senhor, quem trama desígnios perversos.  
-**12** Isto diz o Senhor: Por mais fortes e numerosos que (os Assirios) sejam, ainda assim serão ceifados e desaparecerão. Eu te afligi (ó meu povo), mas não te afligirei mais (por meio deles).  
+**12** Isto diz o Senhor: Por mais fortes e numerosos que (os Assírios) sejam, ainda assim serão ceifados e desaparecerão. Eu te afligi (ó meu povo), mas não te afligirei mais (por meio deles).  
 **13** Agora vou quebrar o seu jugo, que pesa sobre ti, e desfazer as tuas cadeias.  
 **14** Eis o que o Senhor ordenou sobre ti (ó Nínive): Não haverá mais posteridade com o teu nome; destruirei as estátuas esculpidas e fundidas da casa do teu deus; prepararei o teu sepulcro, porque és desprezível  
 **15** Eis já sobre os montes os pés do que traz a boa nova, do que anuncia a paz. Celebra, é Judá, as tuas festividades, cumpre os teus votos, porque o ímpio não passará mais por ti: está completamente destruído.  

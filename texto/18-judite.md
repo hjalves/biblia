@@ -332,8 +332,8 @@
 **7** Logo que apareceu o dia, penduraram sobre os muros a cabeça de Holofernes, cada um tomou as suas armas, e saíram com muito estrondo e alarido.  
 **8** Vendo isto as sentinelas avançadas, correram à tenda de Holofernes.  
 **9** Os que estavam na tenda, indo e fazendo ruído à entrada da câmara, a fim de o despertar, procuravam, com arte, que Holofernes acordasse com o ruído que faziam, sem ser despertado por ninguém.  
-**10** Com efeito, nenhum ousava abrir ou bater à porta da câmara do general dos Assirios.  
-**11** Mas, tendo vindo os seus capitães, tribunos e todos os oficiais maiores do exército do rei dos Assirios, disseram aos camareiros:  
+**10** Com efeito, nenhum ousava abrir ou bater à porta da câmara do general dos Assírios.  
+**11** Mas, tendo vindo os seus capitães, tribunos e todos os oficiais maiores do exército do rei dos Assírios, disseram aos camareiros:  
 **12** Entrai e acordai-o, porque saíram os ratos das suas cavernas e tiveram o atrevimento de nos desafiar para o combate.  
 **13** Então Vagao, tendo entrado na câmara de Holofernes, pôs-se diante da cortina e bateu com as mãos, porque imaginava que ele dormia com Judit.  
 **14** Porém, aplicando o ouvido e não percebendo nenhum movimento de quem dormia, aproximou-se mais da cortina e, levantando-a, viu o cadáver de Holofernes sem cabeça, que jazia estendido sobre a terra, banhado no seu próprio sangue. (Perante esse espetáculo) gritou em alta voz, com lágrimas, e rasgou as suas vestes.  

@@ -42,7 +42,7 @@
 ## Capítulo 3
 
 **1** Se a oferta de alguém for um sacrifício pacífico de gado graúdo, apresentará diante do Senhor um macho ou fêmea sem defeito.  
-**2** Porá a mão sobre a cabeça da sua vitima, a qual será imolada à entrada do tabernáculo da reunião, e os sacerdotes filhos de Aarão derramarão o sangue ao redor do altar.  
+**2** Porá a mão sobre a cabeça da sua vítima, a qual será imolada à entrada do tabernáculo da reunião, e os sacerdotes filhos de Aarão derramarão o sangue ao redor do altar.  
 **3** Oferecerá desta vítima pacífica, em sacrifício pelo fogo ao Senhor, a gordura que cobre as vísceras, e tudo o que há de gordura interiormente:  
 **4** os dois rins com a gordura, que cobre os lombos, e o redenho do fígado com os rins.  
 **5** Os filhos de Aarão queimarão tudo isto em holocausto sobre o altar, depois de ter posto fogo debaixo da lenha, em oblação de suavíssimo odor ao Senhor.  
@@ -70,7 +70,7 @@
 **7** Porá do mesmo sangue sobre as pontas do altar dos perfumes agradáveis ao Senhor, o qual (altar) está no tabernáculo do testemunho, e todo o resto do sangue derramá-lo-á aos pés do altar dos holocaustos à entrada do tabernáculo.  
 **8** Tirará (em seguida) a gordura do novilho (imolado) pelo pecado, não só a que cobre as vísceras, mas também toda a que está no interior  
 **9** (tirará também) os dois rins e o redenho que está sobre eles junto da região tombar, e a gordura do fígado com os rins,  
-**10** do mesmo modo que se tiram do novilho da hóstia pacifica, e queimará isso sobre o altar dos holocaustos.  
+**10** do mesmo modo que se tiram do novilho da hóstia pacífica, e queimará isso sobre o altar dos holocaustos.  
 **11** Porém, a pele e toda a carne com a cabeça e os pés e os intestinos e os excrementos,  
 **12** e o resto do corpo, lavá-los-á fora dos acampamentos, a um lugar limpo, onde se costumam deitar as cinzas, e queimá-los-á sobre um feixe de lenha; será queimado no lugar onde se costumam deitar as cinzas.  
 **13** Porém, se toda a multidão de Israel pecar involuntariamente, por inadvertência, e se fizer alguma coisa que é contra o mandamento do Senhor,  
@@ -238,7 +238,7 @@
 **2** Toma da manada um novilho pelo pecado, e um carneiro para o holocausto, um e outro sem defeito, e oferece-os diante do Senhor.  
 **3** Dirás aos filhos de Israel: Tomai um bode pelo pecado, um novilho e um cordeiro de ano e sem defeito, para o holocausto,  
 **4** um boi e um carneiro, para sacrifício pacífico, e imolai-os diante do Senhor, oferecendo no sacrifício de cada um deles flor de farinha misturada com azeite. Com efeito, hoje o Senhor vos aparecerá,  
-**5** Levaram, pois, à entrada do tabernáculo tudo o que Moisés lhes ordenara: ai, enquanto toda a multidão estava em pé,  
+**5** Levaram, pois, à entrada do tabernáculo tudo o que Moisés lhes ordenara: aí, enquanto toda a multidão estava em pé,  
 **6** Moisés disse: Isto é o quê o Senhor mandou: Fazei-o, e a sua glória vos aparecerá.  
 **7** Depois disse a Aarão: Aproxima-te do altar, e sacrifica pelo teu pecado: oferece o holocausto, e roga por ti e pelo povo: depois de teres sacrificado a vítima pelo povo, ora por ele, como o Senhor ordenou.  
 **8** Logo Aarão, aproximando-se do altar, imolou o novilho pelo seu pecado,  

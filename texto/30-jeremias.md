@@ -1487,7 +1487,7 @@
 **1** Vinte e um anos tinha Sedecias, quando começou a reinar, e reinou onze anos em Jerusalém. Sua mãe chamava-se Amital, filha de Jeremias, de Lobna.  
 **2** Ele fez o mal aos olhos do Senhor, conforme tudo o que tinha feito Joaquim.  
 **3** Provocaram o furor do Senhor, em Jerusalém e em Judá, até que os rejeitou da sua face. Sedecias revoltou-se contra o rei de Babilónia.  
-**4** No ano nono do seu reinado, no décimo dia do décimo mês, aconteceu isto: Marchou Nabucodonosor, deportado, rei de Babilónia, com todo o seu exército, contra Jerusalém. Puseram-lhe sitio e levantaram contra ela fortificações em seu circuito.  
+**4** No ano nono do seu reinado, no décimo dia do décimo mês, aconteceu isto: Marchou Nabucodonosor, deportado, rei de Babilónia, com todo o seu exército, contra Jerusalém. Puseram-lhe sítio e levantaram contra ela fortificações em seu circuito.  
 **5** A cidade esteve cercada até ao ano undécimo do reinado de Sedecias.  
 **6** Mas, no mês quarto, aos nove do mês, apoderou-se a fome da cidade: não havia víveres para o povo da terra.  
 **7** Então abriu-se brecha na cidade, e todos os seus homens de armas fugiram da cidade de noite, pelo caminho da porta que está entre os dois muros, perto do jardim do rei, - embora os Caldeus cercassem a cidade por todos os lados - e foram-se pelo caminho que vai ter às planuras (desertas) do Jordão.  

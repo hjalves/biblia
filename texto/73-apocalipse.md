@@ -103,7 +103,7 @@
 **5** Então um dos anciães disse-me: "Não chores; eis que o leão da tribo de Judá, a estirpe de David, venceu de maneira a poder abrir o livro e os seus sete selos."  
 **6** Então vi no meio do trono e dos quatro animais, e no meio dos anciães, um Cordeiro de pé, como imolado, o qual tinha sete chifres e sete olhos, que são os sete espíritos de Deus, mandados por toda a terra.  
 **7** Ele veio e recebeu o livro da mão direita do que estava sentado no trono.  
-**8** E, tendo aberto o livro, os quatro animais e os vinte e quatro anciães prostraram-se diante do Cordeiro, tendo cada um uma citara e taças de ouro cheias de perfumes, que são as orações dos santos.  
+**8** E, tendo aberto o livro, os quatro animais e os vinte e quatro anciães prostraram-se diante do Cordeiro, tendo cada um uma cítara e taças de ouro cheias de perfumes, que são as orações dos santos.  
 **9** Cantam um cântico novo, dizendo: "Digno és de receber o livro e de abrir os seus selos, porque foste morto e resgataste para Deus, com o teu sangue, homens de toda a tribo, língua, povo e nação,  
 **10** e fizeste deles, para o nosso Deus, um reino e sacerdotes, e reinam sobre a terra."  
 **11** Depois olhei e ouvi a voz de muitos anjos em volta do trono, dos animais e dos anciães. O número deles era de miríades de miríades e de milhares de milhares,  
@@ -272,7 +272,7 @@
 ## Capítulo 14
 
 **1** E olhei; e eis que o Cordeiro estava de pé sobre o monte de Sião, e com ele cento e quarenta e quatro mil que tinham escrito sobre as suas frontes o nome dele e o nome de seu pai.  
-**2** E ouvi uma voz do céu, como o rumor de muitas águas e como o estrondo de um grande trovão; a voz que ouvi, era como de tocadores de citara que tocavam as suas cítaras.  
+**2** E ouvi uma voz do céu, como o rumor de muitas águas e como o estrondo de um grande trovão; a voz que ouvi, era como de tocadores de cítara que tocavam as suas cítaras.  
 **3** Cantam um cântico novo diante do trono, diante dos quatro animais e dos anciães. Ninguém podia cantar este cântico, senão aqueles cento e quarenta e quatro mil, que foram resgatados da terra.  
 **4** Estes são os que se não contaminaram com mulheres, porque são virgens. Estes seguem o Cordeiro para onde quer que ele vá. Estes foram resgatados dentre os homens como primícias para Deus e para o Cordeiro,  
 **5** e na sua boca não se achou mentira: estão sem mácula diante do trono de Deus.  
@@ -368,10 +368,10 @@
 **16** dizendo: "Ai, ai da grande cidade, que estava vestida de linho fino, de púrpura e de escarlate, e que se adornava de ouro, de pedras preciosas e de pérolas,  
 **17** porque num momento foram reduzidas a nada tantas riquezas!" E todos os pilotos, todos os que fazem navegação costeira, os marinheiros e quantos vivem do mar, ficaram ao longe,  
 **18** e, vendo o fumo do seu incêndio, clamavam, dizendo: "Que cidade era semelhante a esta grande cidade?"  
-**19** E lançavam pó sobre as suas cabeças e clamavam, chorando e lamentando-se assim: "Aí, ai daquela grande cidade, de cujas riquezas se enriqueceram todos os que têm navios no mar! Num momento foi arruinada!"  
+**19** E lançavam pó sobre as suas cabeças e clamavam, chorando e lamentando-se assim: "Ai, ai daquela grande cidade, de cujas riquezas se enriqueceram todos os que têm navios no mar! Num momento foi arruinada!"  
 **20** Exulta sobre ela, ó céu, e vós, os santos, os apóstolos e os profetas, porque Deus, julgando-a, fez-vos justiça.  
 **21** Então um anjo forte levantou uma pedra, como uma grande mó de moinho, e lançou-a ao mar, dizendo: "Com este ímpeto será precipitada Babilónia, a grande cidade, e não será jamais encontrada.  
-**22** Não se ouvirá mais em ti a voz dos tocadores de citara, dos músicos, dos tocadores de flauta e de trombeta; não se encontrará mais em ti artista algum de qualquer arte, nem se tornará mais a ouvir o ruído da mó,  
+**22** Não se ouvirá mais em ti a voz dos tocadores de cítara, dos músicos, dos tocadores de flauta e de trombeta; não se encontrará mais em ti artista algum de qualquer arte, nem se tornará mais a ouvir o ruído da mó,  
 **23** nem luzirá mais a luz de uma lâmpada; não se ouvirá mais em ti a voz do esposo e da esposa, porque os teus mercadores eram uns príncipes da terra, porque por causa dos teus encantamentos erraram todas as nações.  
 **24** Nesta cidade foi encontrado o sangue dos profetas e dos santos e de todos os que foram mortos sobre a terra."  
 

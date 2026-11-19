@@ -70,9 +70,9 @@
 **17** o Senhor falou, dizendo:  
 **18** Passarás hoje os confins de Moab, a cidade de Ar;  
 **19** chegando às vizinhanças dos filhos de Amon, abstém-te de combater contra eles, nem lhes faças guerra, porque eu não te darei nada da terra dos filhos de Amon, porque a dei em possessão aos filhos de Lote.  
-**20** Este país foi reputado o pais dos gigantes; nele, em outro tempo, habitaram os gigantes, que os Amonitas chamam Zomzomins,  
+**20** Este país foi reputado o país dos gigantes; nele, em outro tempo, habitaram os gigantes, que os Amonitas chamam Zomzomins,  
 **21** povo grande e numeroso da mesma estatura que os Enacins. O Senhor os exterminou, diante dos Amonitas, e fez habitar estes em lugar daqueles.  
-**22** O Senhor fez o mesmo pelos filhos de Esaú, que habitam, em Seir, exterminando os Horreus, e dando àqueles o pais destes, o qual possuem até ao presente.  
+**22** O Senhor fez o mesmo pelos filhos de Esaú, que habitam, em Seir, exterminando os Horreus, e dando àqueles o país destes, o qual possuem até ao presente.  
 **23** Da mesma sorte os Heveus, que habitavam desde Haserim até Gaza, foram expulsos pelos Caftorins, os quais, tendo saído Caftor, os destruíram, e se estabeleceram no seu lugar.  
 **24** Levantai-vos e passai a torrente do Amon. Entrego nas tuas mãos a Seon, rei de Heseblon, Amorreu, com a sua terra: Peleja contra ele.  
 **25** Hoje começarei a meter o terror e o medo das tuas almas aos povos, que habitam debaixo de todo o céu, para que, ao ouvir o teu nome, tremam e sintam angústia, por causa de ti.  

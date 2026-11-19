@@ -397,7 +397,7 @@
 **16** a seu lado, Amasias, filho de Zecri, consagrado ao Senhor, com duzentos mil homens valentes.  
 **17** De Benjamim, Eliada, valoroso na peleja, com duzentos mil homens armados de arcos e de escudos;  
 **18** a seu lado, Jozabad, com cento e oitenta mil soldados armados para a guerra.  
-**19** Todos estes estavam prontos às ordens do rei, sem falar dos outros que ele tinha posto (de guarnição) nas cidades muradas, por todo o pais de Judá.  
+**19** Todos estes estavam prontos às ordens do rei, sem falar dos outros que ele tinha posto (de guarnição) nas cidades muradas, por todo o país de Judá.  
 
 ## Capítulo 18
 

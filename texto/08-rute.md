@@ -90,12 +90,12 @@
 **14** E as mulheres disseram a Noemi: Bendito seja o Senhor, que não permitiu que te faltasse um redentor! Que o seu nome seja celebrado em Israel!  
 **15** Terás quem console a tua alma, e te sustente na velhice, porque nasceu um menino de tua nora, a qual te ama, e é para ti muito melhor do que sete filhos,  
 **16** Noemi, tomando o menino, o pôs no seu regaço, e fazia as vezes de ama e de criada.  
-**17** As mulheres suas vizinhas congratulavam-se com ela, e diziam: Nasceu um filho a Noemi! Puseram-lhe o nome de Obed. Ele foi pai de Isai, pai de David.  
+**17** As mulheres suas vizinhas congratulavam-se com ela, e diziam: Nasceu um filho a Noemi! Puseram-lhe o nome de Obed. Ele foi pai de Isaí, pai de David.  
 **18** Estas são as gerações de Farés: Farés gerou Esron,  
 **19** Esron gerou Aram, Aram gerou Aminadab,  
 **20** Aminadab gerou Naason, Naason gerou Salmon,  
 **21** Salmon gerou Booz, Booz gerou Obed,  
-**22** Obed gerou Isai, Isai gerou David.
+**22** Obed gerou Isaí, Isaí gerou David.
 
 ---
 

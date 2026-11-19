@@ -46,7 +46,7 @@
 **8** Depois o Senhor Deus plantou um jardim no Eden, a Oriente, no qual pôs o homem que tinha formado.  
 **9** E o Senhor Deus tinha produzido da terra toda a casta de árvores formosas à vista, e de frutos doces para comer; e a árvore da vida no meio do paraíso, e a árvore da ciência do bem e do mal.  
 **10** Do Eden saía um rio para regar o jardim, o qual dali se dividiu em quatro braços.  
-**11** O nome do primeiro é Fison, e é aquele que torneia todo o pais de Evilath, onde se encontra o ouro.  
+**11** O nome do primeiro é Fison, e é aquele que torneia todo o país de Evilath, onde se encontra o ouro.  
 **12** E o ouro deste país é ótimo; ali (também) se acha o bdélio e a pedra ónix.  
 **13** O nome do segundo rio é Geon, este é aquele que torneia toda a terra da Etiópia.  
 **14** O nome, porém, do terceiro rio é Tigre, que corre para a banda dos Assírios. E o quatro rio é o Eufrates.  
@@ -106,12 +106,12 @@
 **13** E Caim disse ao Senhor: Insuportavelmente grande é o meu castigo, grande demais para que eu mereça perdão.  
 **14** Eis que tu hoje me expulsas desta terra, e eu me esconderei da tua face, e serei vagabundo e fugitivo na terra; portanto todo o que me achar, me matará.  
 **15** E o Senhor disse-lhe: não será assim; mas qualquer que matar Caim, será castigado sete vezes mais. E o Senhor pôs um sinal em Caim, para que o não matasse ninguém que o encontrasse.  
-**16** E Caim, tendo-se retirado de diante da face do Senhor, andou errante sobre a terra, e habitou no pais de Nod, que está ao nascente do Eden.  
+**16** E Caim, tendo-se retirado de diante da face do Senhor, andou errante sobre a terra, e habitou no país de Nod, que está ao nascente do Eden.  
 **17** E Caim conheceu sua mulher, a qual concebeu e deu à luz Henoch. E edificou uma cidade, que chamou Henoch, do nome de seu filho.  
 **18** Ora Henoch gerou Irad, Irad gerou Maviael, Maviael gerou Matusael, e Matusael gerou Lamech.  
 **19** E este tomou duas mulheres, uma chamada Ada e outra Sela.  
 **20** E Ada deu à luz Jabel, que foi pai dos que habitam sob tendas e entre rebanhos.  
-**21** O nome de seu irmão foi Jubal, que foi o pai (ou mestre) dos que tocam citara e orgão.  
+**21** O nome de seu irmão foi Jubal, que foi o pai (ou mestre) dos que tocam cítara e orgão.  
 **22** Sela também deu à luz Tubalcain, que foi artífice de todos os instrumentos de bronze e de feno. E a irmã de Tubalcain foi Noema.  
 **23** E Lamech disse a suas mulheres, Ada e Sela: Ouvi a minha voz, mulheres de Lamech, escutai as minhas palavras: eu matei um homem que me feriu, e um adolescente que me contundiu.  
 **24** Caim será vingando sete vezes, mas Lamech setenta vezes sete.  
@@ -338,11 +338,11 @@
 **3** Abençoarei os que te abençoarem, amaldiçoarei os que te amaldiçoarem; em ti serão benditas todas as nações da terra.  
 **4** Partiu, pois, Abrão, como o Senhor lhe tinha ordenado, e foi com ele Loth. Tinha Abrão setenta e cinco anos, quando saiu de Haran  
 **5** Levou consigo Sarai, sua mulher, Loth, filho de seu irmão, todos os bens que possuíam e as pessoas que tinham adquirido em Haran. Partiram, a caminho da terra de Canaan, e lá chegaram.  
-**6** Abrão atravessou este pais até ao lugar de Siquém, até à cadeia de Moré. Os Cananeus estavam então naquela terra.  
+**6** Abrão atravessou este país até ao lugar de Siquém, até à cadeia de Moré. Os Cananeus estavam então naquela terra.  
 **7** O Senhor apareceu a Abrão e disse-lhe: darei esta terra aos teus descendentes. Naquele lugar, (Abrão) edificou um altar ao Senhor, que lhe tinha aparecido.  
-**8** Passando dali ao monte, que estava ao oriente de Betel, ai levantou a sua tenda, tendo Betel ao ocidente, e Hai ao oriente. Aí edificou também um altar ao Senhor, e invocou o seu nome.  
+**8** Passando dali ao monte, que estava ao oriente de Betel, aí levantou a sua tenda, tendo Betel ao ocidente, e Hai ao oriente. Aí edificou também um altar ao Senhor, e invocou o seu nome.  
 **9** Abrão continuou a sua viagem, andando e avançando para o meio-dia.  
-**10** Sobreveio, porém, uma fome no país, e Abrão desceu ao Egito, para ai viver algum tempo, porque a fome era muita no (seu) pais.  
+**10** Sobreveio, porém, uma fome no país, e Abrão desceu ao Egito, para aí viver algum tempo, porque a fome era muita no (seu) pais.  
 **11** Quando estava perto de entrar no Egito disse a Sarai, sua mulher: conheço que és uma mulher formosa  
 **12** e que, quando os Egípcios te virem, dirão: é sua mulher - e matar-me-ão, conservando-te a ti.  
 **13** Dize, pois, te peço, que és minha irmã, para que eu seja bem tratado por causa de ti, e me conservem a vida, em atenção a ti.  
@@ -359,7 +359,7 @@
 **1** Abrão, pois, saiu do Egito com sua mulher e com tudo o que possuía, e Loth com ele, e caminhou para a parte meridional.  
 **2** Era Abrão muito rico em gado, ouro e prata.  
 **3** Voltou pelo caminho, por onde tinha vindo do meio-dia até Betei, até ao lugar onde primeiro tinha levantado a (sua) tenda, entre Betei e Hai,  
-**4** no lugar onde estava o altar que tinha levantado antes, e ai invocou o nome do Senhor.  
+**4** no lugar onde estava o altar que tinha levantado antes, e aí invocou o nome do Senhor.  
 **5** Mas também Loth, que estava com Abrão, tinha rebanhos de ovelhas, manadas e tendas.  
 **6** E a terra não tinha capacidade para poderem habitar juntos, porque os seus bens eram grandes demais para viverem um com o outro.  
 **7** Daqui nasceu uma contenda entre os pastores dos rebanhos de Abrão e os de Loth. Cananeus e Fereseus habitavam, então, naquela terra.  
@@ -372,7 +372,7 @@
 **14** O Senhor disse a Abrão, depois que Loth se separou dele: levanta os teus olhos e repara, desde o lugar em que agora estás, para o setentrião e para o meio-dia, para o oriente e para o ocidente.  
 **15** Toda a terra que vês, eu a darei para sempre a ti e à tua posteridade.  
 **16** Multiplicarei a tua descendência como o pó da terra; se algum dos homens pode contar o pó da terra, poderá também contar o número dos teus descendentes.  
-**17** Levanta-te e percorre o pais em todo o seu comprimento, porque eu to hei-de dar.  
+**17** Levanta-te e percorre o país em todo o seu comprimento, porque eu to hei-de dar.  
 **18** Portanto, levantando Abrão a sua tenda, foi habitar ao pé da cadeia de Mambré, que está em Hebron; e aí edificou um altar ao Senhor.  
 
 ## Capítulo 14
@@ -537,7 +537,7 @@
 **22** Apressa-te e salva-te lá, porque não poderei fazer nada, enquanto tu lá não tiveres entrado. Por isso puseram àquela cidade o nome de Segor.  
 **23** O sol levantava-se sobre a terra, quando Loth entrou em Segor.  
 **24** Fez, pois, o Senhor da parte do Senhor chover sobre Sodoma e Gomorra enxofre e fogo (vindo) do céu.  
-**25** e destruiu estas cidades, todo o pais em roda, todos os habitantes das cidades e toda a verdura da terra.  
+**25** e destruiu estas cidades, todo o país em roda, todos os habitantes das cidades e toda a verdura da terra.  
 **26** A mulher de Loth, tendo olhado para trás, ficou convertida numa estátua de sal.  
 **27** Ora Abraão, tendo-se levantado de manhã, foi ao lugar onde antes tinha estado com o Senhor,  
 **28** e olhou para Sodoma e Gomorra, e para toda a terra daquela região, e viu que se elevavam da terra cinzas infamadas, como o fumo duma fornalha.  
@@ -595,7 +595,7 @@
 **18** Levanta-te, toma o menino, tem-no pela mão, porque eu farei dele um grande povo.  
 **19** E Deus abriu-lhe os olhos, e ela, vendo um poço de água, foi a ele, encheu o odre e deu de beber ao menino.  
 **20** E (Deus) foi com ele, que cresceu, habitou no deserto e que, depois de crescido, se tornou frecheiro.  
-**21** Habitou no deserto de Faran, e sua mãe tomou para ele uma mulher do pais do Egito.  
+**21** Habitou no deserto de Faran, e sua mãe tomou para ele uma mulher do país do Egito.  
 **22** Por aquele mesmo tempo, Abimelech, acompanhado de Ficol, general do seu exército, disse a Abraão: Deus é contigo em tudo o que fazes.  
 **23** Portanto jura por Deus que me não farás mal, nem aos meus descendentes, nem à minha estirpe, mas que usarás comigo e com a terra onde tens vivido como estrangeiro, da mesma benevolência com que te tratei.  
 **24** Abraão disse: eu o jurarei.  
@@ -723,7 +723,7 @@
 **59** Deixaram-na, pois, partir juntamente com a sua ama de leite, e o servo de Abraão e seus companheiros,  
 **60** fazendo votos pelas prosperidades de sua irmã, dizendo: És nossa irmã, cresce em milhares de milhares, e a tua posteridade possua as portas de seus inimigos.  
 **61** Então Rebeca e suas criadas, montadas nos camelos, seguiram aquele homem, o qual a toda a pressa voltava para o seu Senhor.  
-**62** Ora, naquele tempo, Isaac passeava pelo caminho que conduz ao poço, chamado (poço) do que vive e do que vê, porque habitava no pais meridional.  
+**62** Ora, naquele tempo, Isaac passeava pelo caminho que conduz ao poço, chamado (poço) do que vive e do que vê, porque habitava no país meridional.  
 **63** Tinha saído ao campo para meditar, ao cair da noite, e, levantando os olhos, viu ao longe vir os camelos.  
 **64** Rebeca também, tendo visto Isaac desceu do camelo  
 **65** e disse ao servo: Quem é aquele homem que vem pelo campo ao nosso encontro? Ele respondeu: É o meu senhor. Ela tomou depressa o véu e cobriu-se.  
@@ -785,24 +785,24 @@
 **14** Teve rebanhos de ovelhas e manadas, e muitos servos. Por isto, tendo-lhe os filisteus inveja,  
 **15** entulharam-lhe naquele tempo todos os poços que os servos de seu pai Abraão tinham aberto, enchendo-os de terra:  
 **16** (chegou a coisa a) tanto que o mesmo Abimelech disse a Isaac: Aparta-te de nós, porque te tornaste muito mais poderoso do que nós.  
-**17** Ele apartou-se para o vale de Gerara e ai habitou.  
+**17** Ele apartou-se para o vale de Gerara e aí habitou.  
 **18** De novo abriu aqueles poços, que os servos de seu pai Abraão tinham aberto, os quais, morto, ele, os filisteus tinham antecedentemente entulhado, e pôs-lhes os mesmos nomes, que já seu pai lhes tinha posto.  
 **19** Cavavam na depressão e acharam água viva.  
-**20** Também ai os pastores de Gerara contenderam com os pastores de Isaac, dizendo: A água é nossa. Por esta razão, em virtude do que havia acontecido, chamou àquele poço Contenda.  
+**20** Também aí os pastores de Gerara contenderam com os pastores de Isaac, dizendo: A água é nossa. Por esta razão, em virtude do que havia acontecido, chamou àquele poço Contenda.  
 **21** Abriram ainda outro poço: também, por causa dele, houve rixas, e o chamou Inimizade.  
 **22** Partindo dali, abriu outro poço, pelo qual não contenderam, e por isso lhe pôs o nome de Largura, dizendo: Agora o Senhor nos pôs ao largo, e prosperaremos nesta terra.  
 **23** Daquele lugar subiu a Bersabeía,  
 **24** onde, na mesma noite, lhe apareceu o Senhor, dizendo: Eu sou o Deus de Abraão, teu pai: não temas, porque sou contigo; eu te abençoarei e multiplicarei a tua descendência por causa do meu servo Abraão.  
-**25** Portanto levantou ai um altar, e, invocado o nome do Senhor, ergueu a sua tenda e ordenou aos seus servos que abrissem um poço.  
+**25** Portanto levantou aí um altar, e, invocado o nome do Senhor, ergueu a sua tenda e ordenou aos seus servos que abrissem um poço.  
 **26** Ora Abimelech, com Ocozath, seu amigo, e Ficol, general do seu exército, tendo ido de Gerara àquele lugar,  
 **27** disse-lhes Isaac: Por que viestes vós a mim, a um homem que odiastes, e expulsastes de vós?  
 **28** Eles responderam: Vimos que o Senhor é contigo, e por isso dissemos: Haja juramento entre nós e façamos aliança,  
 **29** de maneira que tu nos não faças mal algum, assim como também nós não temos tocado em nada do que é teu, nem fizemos coisa que te prejudicasse, mas te deixamos partir em paz, cheio da bênção do Senhor.  
 **30** Deu-lhes (Isaac) um banquete, e, depois de terem comido e bebido,  
 **31** levantando-se pela manhã, juraram de parte a parte (a aliança). Depois Isaac os despediu e deixou ir em paz.  
-**32** Ora, no mesmo dia, vieram os servos de Isaac, dando-lhe a noticia do poço que tinham aberto, dizendo: Achamos água.  
+**32** Ora, no mesmo dia, vieram os servos de Isaac, dando-lhe a notícia do poço que tinham aberto, dizendo: Achamos água.  
 **33** Pelo que (Isaac) o chamou Abundância; à cidade foi posto o nome de Bersabeia, (que conserva) até ao dia de hoje.  
-**34** Ora Esaú, tendo quarenta anos, tomou por mulheres Judith, filha de Beeri Heteu, e Bademath, filha de Elom do mesmo pais,  
+**34** Ora Esaú, tendo quarenta anos, tomou por mulheres Judith, filha de Beeri Heteu, e Basemath, filha de Elon do mesmo país,  
 **35** ambas as quais amarguraram o ânimo de Isaac e de Rebeca.  
 
 ## Capítulo 27
@@ -843,7 +843,7 @@
 **34** Esaú, ouvidas as palavras do pai, gritou com grande clamor, e, consternado, disse: Dá-me também a mim a bênção, meu pai.  
 **35** Ele disse: O teu irmão veio fraudulentemente e recebeu a tua bênção.  
 **36** Esaú prosseguiu: com razão lhe foi posto o nome de Jacob, porque pela segunda vez me suplantou: Primeiro, tirou-me o direito da primogenitura, e, agora, novamente me roubou a minha bênção. Disse de novo ao pai: Porventura não reservaste uma bênção também para mim?  
-**37** Isaac respondeu: Eu o constitui teu senhor, e sujeitei à sua servidão todos os seus irmãos: estabeleci-o na posse do trigo e do vinho; depois disto, meu filho, que te posso eu fazer?  
+**37** Isaac respondeu: Eu o constituí teu senhor, e sujeitei à sua servidão todos os seus irmãos: estabeleci-o na posse do trigo e do vinho; depois disto, meu filho, que te posso eu fazer?  
 **38** Esaú disse-lhe: Porventura ó pai, tens uma só bênção? Rogo-te que me abençoes também a mim. E, como rompesse num grande pranto,  
 **39** Isaac, comovido, disse-lhe: Sem a abundância da terra, e sem o orvalho do alto do céu será a tua bênção.  
 **40** Viverás da espada, e servirás a teu irmão; porém virá tempo em que sacudas e desates o seu jugo da tua cerviz.  
@@ -866,7 +866,7 @@
 **8** reconhecendo também que seu pai não via com bons olhos as filhas de Canaan,  
 **9** foi a casa de Ismael, e, além das que já tinha, tomou por mulher a Maeleth, filha de Ismael, filho de Abraão, irmã de Nabajoth.  
 **10** Jacob, pois, tendo partido de Bersabeia, ia para Haran.  
-**11** Tendo chegado a um certo lugar e querendo nele descansar porque o sol estava no ocaso, tomou uma das pedras que ali estavam, e, pondo-a debaixo da cabeça, dormiu naquele mesmo sitio.  
+**11** Tendo chegado a um certo lugar e querendo nele descansar porque o sol estava no ocaso, tomou uma das pedras que ali estavam, e, pondo-a debaixo da cabeça, dormiu naquele mesmo sítio.  
 **12** Viu (então) em sonhos uma escada posta sobre a terra, cujo cimo tocava o céu, e os anjos de Deus subindo e descendo por ela,  
 **13** e o Senhor apoiado na escada, que lhe dizia: Eu sou o Senhor Deus de Abraão, teu pai e o Deus de Isaac: darei a ti e à tua descendência a terra em que dormes.  
 **14** A tua posteridade será como o pó da terra; dilatar-te-ás para o ocidente, para o oriente, para o setentrião te para o meio-dia, e serão abençoadas em ti e na tua geração todas as tribos da terra.  
@@ -881,7 +881,7 @@
 
 ## Capítulo 29
 
-**1** Tendo partido (daquele lugar), Jacob dirigiu-se para o pais do oriente.  
+**1** Tendo partido (daquele lugar), Jacob dirigiu-se para o país do oriente.  
 **2** Viu um poço no campo, e, repousando junto dele, três rebanhos de ovelhas, porque dele se dava de beber aos rebanhos. A sua boca estava tapada com uma grande pedra.  
 **3** Era costume (só) tirarem a pedra depois de estarem reunidos todos os rebanhos, e, depois que eles tinham bebido, tornavam-na a colocar sobre a boca do poço.  
 **4** (Jacob) disse aos pastores: Irmãos, donde sois vós? Eles responderam: De Haran.  
@@ -1018,7 +1018,7 @@
 **51** Disse mais a Jacob: Eis que o cabeço e a pedra, que eu levantei entre mim e ti,  
 **52** será testemunha: este cabeço bem como esta pedra deem testemunho de que o não passarei, indo contra ti, nem tu o passarás com intento de me fazeres mal.  
 **53** O Deus de Abraão, o Deus de Nacor, o Deus de seus pais, seja juiz entre nós. Jurou, pois, Jacob por aquele que era temido por seu pai Isaac.  
-**54** E, imoladas as vitimas sobre o monte, convidou seus irmãos para comer pão. Tendo comido, ficaram ali (a passar a noite).  
+**54** E, imoladas as vítimas sobre o monte, convidou seus irmãos para comer pão. Tendo comido, ficaram ali (a passar a noite).  
 **55** Labão, porém, levantando-se antes de amanhecer, beijou os filhos e as filhas, abençoou-os e voltou para sua casa.  
 
 ## Capítulo 32
@@ -1077,7 +1077,7 @@
 **17** Jacob foi para Socoth, onde, tendo edificado uma casa, e levantado as tendas, pôs àquele lugar o nome de Socoth isto é, tendas.  
 **18** E depois que voltou da Mesopotâmia da Síria, passou para Salém, cidade dos Siquimitas, a qual está na terra de Canaan, e habitou junto da cidade.  
 **19** Comprou parte do campo, onde tinha levantado as tendas, aos filhos de Hemor, pai de Siquem, por cem cordeiros  
-**20** e, tendo levantado ai um altar, invocou sobre ele o Deus fortíssimo de Israel.  
+**20** e, tendo levantado aí um altar, invocou sobre ele o Deus fortíssimo de Israel.  
 
 ## Capítulo 34
 
@@ -1121,14 +1121,14 @@
 **4** Deram-lhe, pois, todos os deuses estranhos que tinham, e as arrecadas que tinham nas orelhas, e ele enterrou estas coisas debaixo de um terebinto, que está por detrás da cidade de Siquem.  
 **5** Tendo estes partido, o terror de Deus invadiu todas as cidades circunvizinhas, e não se atreveram a perseguir os que se retiravam.  
 **6** Chegou, portanto Jacob, com toda a sua gente, a Luza, por apelido Betel, a qual está (situada) na terra de Canaan.  
-**7** Edificou ai um altar, e pôs àquele lugar o nome de casa de Deus, porque ali lhe apareceu Deus, quando fugia de seu irmão.  
+**7** Edificou aí um altar, e pôs àquele lugar o nome de casa de Deus, porque ali lhe apareceu Deus, quando fugia de seu irmão.  
 **8** No mesmo tempo morreu Débora, ama de Rebeca: foi ali sepultada debaixo de um carvalho ao pé de Betel, e aquele lugar foi chamado o Carvalho do pranto.  
 **9** E Deus apareceu novamente a Jacob, depois que voltou da Mesopotâmia da Síria, e o abençoou  
 **10** dizendo: Não te chamarás mais Jacob, mas teu nome será Israel. E chamou-O Israel.  
 **11** Disse-lhe: Eu sou o Deus omnipotente: cresce e multiplica-te; nações e multidão de povos nascerão de ti, de ti procederão reis.  
 **12** Dar-te-ei a ti e à tua posteridade, depois de ti, a terra que dei a Abraão e a Isaac.  
 **13** Deus afastou-se do lugar em que lhe tinha falado e  
-**14** ai levantou Jacob um padrão de pedra, fazendo sobre ele libações e derramando óleo.  
+**14** aí levantou Jacob um padrão de pedra, fazendo sobre ele libações e derramando óleo.  
 **15** À esse lugar pôs o nome de Betel.  
 **16** Partindo dali, chegou, no tempo da primavera, a um lugar junto da estrada que conduz a Efrata, onde Raquel, tendo as dores do parto,  
 **17** e sendo o parto difícil começou a estar em perigo (de vida). Disse-lhe a parteira: Não temas, porque ainda terás este filho.  
@@ -1206,12 +1206,12 @@
 **11** Seus irmãos, por isto, tinham-lhe inveja; porem o pai meditava a coisa em silêncio.  
 **12** Como seus irmãos estivessem em Siquem apascentando os rebanhos do pai,  
 **13** Israel disse-lhe: Teus irmãos apascentam as ovelhas em Siquem: vem, enviar-te-ei a eles. Respondeu (José):  
-**14** Estou pronto. (Jacob) disse-lhe: Vai, vê se tudo corre bem a teus irmãos e aos rebanhos, e traze-me noticias do que se passa. (Sendo) mandado do vale de Hebron, (José) chegou a Siquem,  
+**14** Estou pronto. (Jacob) disse-lhe: Vai, vê se tudo corre bem a teus irmãos e aos rebanhos, e traze-me notícias do que se passa. (Sendo) mandado do vale de Hebron, (José) chegou a Siquem,  
 **15** e, andando errante pelo campo, um homem encontrou-o e perguntou-lhe o que procurava.  
 **16** Ele respondeu: Procuro meus irmãos; indica-me onde apascentam os rebanhos.  
 **17** O homem disse-lhe: Retiraram-se deste lugar, e ouvi-lhes dizer: Vamos para Dotain. Partiu, pois, José atrás de seus irmãos e encontrou-os em Dotain.  
 **18** Eles, porém, tendo-o visto ao longe, antes que se aproximasse, resolveram matá-lo.  
-**19** Diziam entre si: Eis ai vem o sonhador;  
+**19** Diziam entre si: Eis aí vem o sonhador;  
 **20** vinde, matemo-lo, lancemo-lo em uma cisterna velha, diremos: Uma fera cruel o devorou; então se verá de que lhe aproveitam os seus sonhos.  
 **21** Ruben, porém, ouvindo isto, esforçava-se por o livrar das suas mãos, dizendo:  
 **22** Não lhe tireis a vida, nem lhe derrameis o sangue, mas lançai-o nesta cisterna, que está no deserto, e conservai puras as vossas mãos. Dizia isto porque queria livrá-lo das suas mãos e restitui-lo a seu pai.  
@@ -1328,7 +1328,7 @@
 **8** de manhã, cheio de pavor, mandou chamar todos os adivinhos do Egito e todos os sábios; estando reunidos, contou-lhes o sonho e não havia quem lho explicasse.  
 **9** Então, finalmente, lembrando-se o copeiro-mór (de José) disse: Confesso a minha falta.  
 **10** Tendo-se o rei irado contra os seus servos, mandou que eu e o padeiro-mór fôssemos metidos no cárcere do chefe da guarda;  
-**11** ai, uma noite, ambos nós tivemos um sonho que presagiava o futuro.  
+**11** aí, uma noite, ambos nós tivemos um sonho que presagiava o futuro.  
 **12** Achava-se lá um jovem hebreu, servo do mesmo chefe da guarda. Tendo-lhe nós referidos os sonhos,  
 **13** ouvimos tudo o que depois os factos comprovaram: Eu fui restituído ao meu ofício e o outro foi pendurado em uma forca.  
 **14** Imediatamente José foi tirado do cárcere por mandado do rei. Barbeou-se, mudou de roupa e foi ter com Faraó.  
@@ -1386,7 +1386,7 @@
 **6** José era governador na terra do Egito, e, conforme a sua vontade, se vendia o trigo aos povos. Tendo-se prostrado diante dele os seus irmãos, ele os reconheceu,  
 **7** e falava-lhes com aspereza, como a estrangeiros, perguntando-lhes: Donde vindes? Eles responderam: Da terra de Canaan, a fim de comprar o necessário para o sustento.  
 **8** Embora ele reconhecesse os irmãos, todavia não foi reconhecido por eles.  
-**9** Lembrado dos sonhos que em outro tempo tivera, disse-lhes: Vós sois espiões; viestes reconhecer os lugares mais fracos do pais.  
+**9** Lembrado dos sonhos que em outro tempo tivera, disse-lhes: Vós sois espiões; viestes reconhecer os lugares mais fracos do país.  
 **10** Eles responderam: Não é assim, senhor, mas os teus servos vieram para comprar de comer.  
 **11** Somos todos filhos de um mesmo homem; viemos com sentimentos pacíficos, nem os teus servos maquinam mal algum.  
 **12** Ele respondeu-lhes: Isso não é assim; vós viestes observar os lugares não fortificados deste país.  
@@ -1443,7 +1443,7 @@
 **22** (Além deste) trouxemos outro dinheiro, para comprarmos o que nos é necessário: não sabemos quem pôs aquele nos nossos sacos.  
 **23** Ele, porém, respondeu: A paz seja convosco: não temais. O vosso Deus, o Deus de vosso pai, pôs-vos (aqueles) tesouros nos vossos sacos, porque o vosso dinheiro, eu o recebi. E trouxe-lhes Simeão.  
 **24** Introduzidos em casa, deu-lhes água para lavarem os pés, e deu de comer aos seus jumentos.  
-**25** Eles preparavam os presentes, para quando José entrasse ao meio-dia, porque tinham ouvido que ai haviam de comer.  
+**25** Eles preparavam os presentes, para quando José entrasse ao meio-dia, porque tinham ouvido que aí haviam de comer.  
 **26** José entrou em sua casa, e eles ofereceram-lhe os presentes, que tinham nas suas mãos, e saudaram-no, inclinando-se até à terra.  
 **27** Ele perguntou se estavam bons e, a seguir, interrogou: O vosso velho pai, de quem me falastes, está de saúde? Ainda vive?  
 **28** Eles responderam: Nosso pai, teu servo, está de saúde, ainda vive. E, inclinando-se, o saudaram.  
@@ -1639,12 +1639,12 @@
 **17** Dan é como uma serpente no caminho, uma víbora no atalho, que morde as unhas do cavalo, para que o cavaleiro caia para trás.  
 **18** A tua salvação esperarei, ó Senhor.  
 **19** Gad: salteadores o assaltam, e ele fere-os nos calcanhares.  
-**20** Aser: Suculento é o seu pão, e ministrará delicias aos reis.  
+**20** Aser: Suculento é o seu pão, e ministrará delícias aos reis.  
 **21** Neftali é uma corsa veloz, pronuncia palavras graciosas.  
 **22** José é o rebento duma árvore fértil, o rebento duma árvore fértil junto duma fonte, cujos ramos passam por cima do muro.  
 **23** Os arqueiros provocam-no, lançam-lhe flechas, os arqueiros o atacam,  
 **24** O seu arco apoiou-se no forte; os seus braços e as mãos permanecem ágeis, pela mão do Poderoso de Jacob, por aquele que é o Pastor e a Rocha de Israel.  
-**25** O Deus de teu pai será o teu auxilio, e o Omnipotente te abençoará com as bênçãos do alto céu, com as bênçãos do abismo, que jaz em baixo, com as bênçãos dos seios maternos e dos úteros.  
+**25** O Deus de teu pai será o teu auxílio, e o Omnipotente te abençoará com as bênçãos do alto céu, com as bênçãos do abismo, que jaz em baixo, com as bênçãos dos seios maternos e dos úteros.  
 **26** As bênçãos de teu pai, que excedem as que ele recebeu de seus pais, e as delícias das colinas eternas. Derramem-se sobre a cabeça de José, sobre a cabeça daquele que é Príncipe dos seus irmãos.  
 **27** Benjamim, lobo arrebatador. Pela manhã devorará a presa, e, à tarde, repartirá os despojos.  
 **28** Todos estes são os chefes das doze tribos de Israel. Foi assim que lhes falou seu pai, foi assim que abençoou cada um deles, com bênçãos próprias,  

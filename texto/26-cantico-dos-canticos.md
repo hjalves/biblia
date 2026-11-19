@@ -67,7 +67,7 @@
 **10** Que deliciosas são as tuas carícias, irmã minha esposa! Quanto melhor é o teu amor que o vinho, e quanto o odor dos teus perfumes excede o de todos os aromas.  
 **11** Os teus lábios, ó esposa, são como um favo, que destila mel; e o mel e o leite estão debaixo da tua língua, e o odor dos teus vestidos é como o odor (suave) do incenso.  
 **12** Jardim fechado és, irmã minha esposa, nascente fechada, fonte selada.  
-**13** As tuas plantas formam um jardim de delicias, (cheio) de romãzeiras, com frutos preciosos, com cipre e nardo,  
+**13** As tuas plantas formam um jardim de delícias, (cheio) de romãzeiras, com frutos preciosos, com cipre e nardo,  
 **14** nardo e açafrão, canela e cinamono, com todas as árvores de incenso, e todos os melhores balsameiros, com mirra e aloés,  
 **15** És fonte de jardins, poço de águas vivas, que com ímpeto correm do Líbano.  
 **16** Levanta-te, Aquilão, e vem tu, vento do Meio-dia, sopra no meu jardim, (de sorte) que os balsameiros exalem seus perfumes.  

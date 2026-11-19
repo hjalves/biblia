@@ -265,7 +265,7 @@
 ## Capítulo 9
 
 **1** A sabedoria edificou para si uma casa, levantou sete colunas.  
-**2** Imolou as suas vitimas, preparou o vinho, pôs a sua mesa.  
+**2** Imolou as suas vítimas, preparou o vinho, pôs a sua mesa.  
 **3** Enviou as suas criadas a fazer o convite dos pontos mais altos da cidade:  
 **4** Todo o que é simples, venha a mim. Aos insensatos disse:  
 **5** Vinde, comei o pão que eu vos dou, bebei o vinho que vos preparei.  
@@ -321,7 +321,7 @@
 ## Capítulo 11
 
 **1** A balança falsa é abominação diante do Senhor, mas o peso justo é-lhe agradável.  
-**2** Onde houver soberba, aí haverá também ignomínia; onde porém há humildade, ai há igualmente sabedoria.  
+**2** Onde houver soberba, aí haverá também ignomínia; onde porém há humildade, aí há igualmente sabedoria.  
 **3** A integridade dos justos conduzi-los-á felizmente; porém os enganos dos perversos serão a sua ruína.  
 **4** As riquezas não servirão de nada no dia da cólera, mas a justiça livra da morte.  
 **5** A justiça do homem honesto aplana-lhe o caminho, o mau porém cairá pela sua maldade.  
@@ -660,7 +660,7 @@
 **12** O Justo reflete maduramente sobre a casa do ímpio, e precipita os maus na desventura.  
 **13** Aquele que fecha os ouvidos ao clamor do pobre, esse mesmo também clamará e não será ouvido.  
 **14** Um presente secreto extingue as iras; e a dádiva oferecida às ocultas, aplaca a maior indignação.  
-**15** O justo encontra a sua alegria na prática da justiça; porém os que cometem a iniquidade, estão em (continuo) susto.  
+**15** O justo encontra a sua alegria na prática da justiça; porém os que cometem a iniquidade, estão em (contínuo) susto.  
 **16** O homem que se extraviar do caminho da sabedoria terá por morada a assembleia dos mortos.  
 **17** Aquele que ama a alegria (na intemperança), parará na indigência; o que ama o vinho e os perfumes, não enriquecerá.  
 **18** O ímpio é entregue (à expiação) em lugar do justo, e o iníquo em lugar dos retos.  

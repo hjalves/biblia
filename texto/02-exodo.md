@@ -173,7 +173,7 @@
 
 ## Capítulo 7
 
-**1** O Senhor disse a Moisés: Repara que te constitui deus de Faraó; Aarão, teu irmão, será teu profeta.  
+**1** O Senhor disse a Moisés: Repara que te constituí deus de Faraó; Aarão, teu irmão, será teu profeta.  
 **2** Tu lhe dirás tudo o que eu te mando, e ele falará a Faraó, para que deixe partir do seu país os filhos de Israel.  
 **3** Eu endurecerei o seu coração, e multiplicarei os meus sinais e os meus prodígios na terra do Egito.  
 **4** Faraó não vos ouvirá, mas eu estenderei a minha mão sobre o Egito e farei sair do Egito o meu exército, o meu povo, os filhos de Israel, por meio dos maiores juízos.  
@@ -503,7 +503,7 @@
 
 **1** Tendo, pois, partido toda a multidão dos filhos de Israel do deserto de Sin, e feito as suas paragens segundo a ordem do Senhor, acamparam em Rafidim, onde não havia água de beber para o povo,  
 **2** o qual, murmurando contra Moisés, disse: Dá-nos água para bebermos. Moisés respondeu-lhes: Por que murmurais contra mim? Por que tentais ao Senhor?  
-**3** Todavia ai mesmo, por causa da falta de água, o povo sequioso murmurou contra Moisés, dizendo: Por que nos fizeste sair do Egito, para nos fazer morrer à sede a nós e aos nossos filhos e aos nossos animais?  
+**3** Todavia aí mesmo, por causa da falta de água, o povo sequioso murmurou contra Moisés, dizendo: Por que nos fizeste sair do Egito, para nos fazer morrer à sede a nós e aos nossos filhos e aos nossos animais?  
 **4** Moisés clamou ao Senhor, dizendo: Que farei eu a este povo? Pouco falta para que me apedreje.  
 **5** O Senhor disse a Moisés: Caminha adiante do povo, toma contigo alguns dos anciães de Israel, toma na tua mão a vara com que feriste o rio e vai.  
 **6** Eu estarei lá diante de ti sobre a pedra de Horeb: ferirás a pedra e dela sairá água, para que o povo beba. Moisés assim fez na presença dos anciães de Israel.  
@@ -917,7 +917,7 @@
 **25** Depois receberás todas estas coisas das suas mãos, e queimá-las-ás sobre o altar em holocausto, para cheiro suavíssimo diante do Senhor, porque é a sua oblação.  
 **26** Tomarás também o peito do carneiro imolado para a sagração de Aarão, e agitá-lo-ás, elevando-o diante do Senhor: esta será a tua parte.  
 **27** Santificarás também o peito consagrado e a espádua que separaste do carneiro.  
-**28** imolado para a sagração de Aarão e de seus filhos: estas serão as porções de Aarão e de seus filhos por um direito perpétuo entre os filhos de Israel, porque são as primícias e as primeiras partes das vitimas pacíficas, que eles oferecem ao Senhor.  
+**28** imolado para a sagração de Aarão e de seus filhos: estas serão as porções de Aarão e de seus filhos por um direito perpétuo entre os filhos de Israel, porque são as primícias e as primeiras partes das vítimas pacíficas, que eles oferecem ao Senhor.  
 **29** As vestes santas de que Aarão usar, tê-las-ão seus filhos depois dele, para que, vestidos com elas, sejam ungidos, e as suas mãos sejam consagradas.  
 **30** Durante sete dias usará delas aquele de seus filhos que for constituído pontífice em seu lugar, e que entrar no tabernáculo do testemunho para ministrar no santuário.  
 **31** Tomarás o carneiro da sagração, e cozerás as suas carnes no lugar santo;  
@@ -1137,7 +1137,7 @@
 **32** para inventar e executar trabalhos de ouro, prata e cobre,  
 **33** para lavrar pedras, para trabalhos de carpintaria e para todas as espécies de trabalhos artísticos.  
 **34** Concedeu-lhe também o dom de ensinar, assim como a Ooliab, filho de Aquisamech, da tribo de Dan.  
-**35** A ambos comunicou habilidade para fazerem trabalhos de carpinteiro, de tecelão em várias cores, e bordados de purpura violácea, escarlate e carmesim, e de linho fino, e para fazerem toda a espécie de tecidos, e inventarem novidades de toda a sorte.  
+**35** A ambos comunicou habilidade para fazerem trabalhos de carpinteiro, de tecelão em várias cores, e bordados de púrpura violácea, escarlate e carmesim, e de linho fino, e para fazerem toda a espécie de tecidos, e inventarem novidades de toda a sorte.  
 
 ## Capítulo 36
 
@@ -1238,7 +1238,7 @@
 **22** e que foram completadas por Beseleel, filho de Uri, filho de Hur, da tribo de Judá, segundo a ordem que o Senhor tinha dado por meio de Moisés,  
 **23** tendo servido a Beseleel de ajudante Ooliab, filho de Àquisamech, da tribo de Dan, o qual foi artista hábil em obras de madeira, em tecidos de várias cores, e em bordados de púrpura violácea e escarlate e carmesim, e de linho fino.  
 **24** Todo o ouro que foi empregado na obra do santuário, produto de ofertas, foi de vinte e nove talentos, e setecentos e trinta siclos segundo a medida do santuário.  
-**25** Estas ofertas foram feitas pelos que entraram no recenseamento, de vinte anos para cima, isto e, por seiscentos e três mil quinhentos e cinquenta homens de armas.  
+**25** Estas ofertas foram feitas pelos que entraram no recenseamento, de vinte anos para cima, isto é, por seiscentos e três mil quinhentos e cinquenta homens de armas.  
 **26** Recolheram-se, além disto, cem talentos de prata de que foram feitas as bases (das colunas) do santuário, e a entrada onde estava suspenso o véu.  
 **27** Foram feitas cem bases de cem talentos, contando-se um talento por cada base.  
 **28** Com mil e setecentos e setenta e cinco (siclos) fez os capitéis das colunas, as quais também revestiu de prata.  

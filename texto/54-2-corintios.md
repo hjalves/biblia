@@ -40,7 +40,7 @@
 **10** Ora, ao que perdoastes também eu perdoo; pois eu, também, o que perdoei, se alguma coisa tive a perdoar, foi por amor de vós com os olhos em Cristo,  
 **11** para não sermos surpreendidos de Satanás, pois que não ignoramos os seus desígnios.  
 **12** Quando cheguei a Tróade para lá pregar o Evangelho de Cristo, embora me fosse aberta uma porta pelo Senhor,  
-**13** não tive repouso no meu espírito, porque não encontrei o meu irmão Tito (para me dar noticias de vós) e, por isso, despedindo-me deles, parti para a Mecedónia.  
+**13** não tive repouso no meu espírito, porque não encontrei o meu irmão Tito (para me dar notícias de vós) e, por isso, despedindo-me deles, parti para a Mecedónia.  
 **14** Mas, graças a Deus, que nos faz sempre triunfar em Jesus Cristo e que por nosso meio difunde o odor do seu conhecimento em todo o lugar,  
 **15** porque somos diante de Deus o bom odor de Cristo, nos que se salvam e nos que perecem:  
 **16** para uns, odor de morte, para sua morte; para outros, odor de vida, para sua vida. E quem está à altura de uma tal missão?  

@@ -1455,7 +1455,7 @@
 **16** Todo o que quiser ser abençoado sobre a terra, quererá ser abençoado pelo Deus da verdade, e o que jurar sobre a terra, jurará pelo Deus da verdade, porque foram postas em esquecimento as antigas angústias, desapareceram dos meus olhos.  
 **17** Porque vou criar novos céus e uma nova terra, e não persistirão na memória as coisas passadas, não voltarão mais ao espírito.  
 **18** Antes folgareis e exultareis para sempre naquelas coisas que vou criar porque vou fazer de Jerusalém uma cidade de júbilo, e do seu povo, um povo de alegria.  
-**19** Terei as minhas delícias em Jerusalém, e a minha alegria no meu povo; e não se ouvirá mais, ai, voz de choro nem voz de lamento.  
+**19** Terei as minhas delícias em Jerusalém, e a minha alegria no meu povo; e não se ouvirá mais, aí, voz de choro nem voz de lamento.  
 **20** Não haverá ali mais menino que viva poucos dias; nem velho que não complete os seus dias; será ainda novo o que morrer aos cem anos, e o pecador somente aos cem anos será amaldiçoado.  
 **21** Edificarão casas e habitarão nelas; plantarão vinhas e comerão o seu fruto.  
 **22** Não edificarão casas para outrem as habitar, nem plantarão para outrem comer (o fruto). Os dias do meu povo serão como os dias das árvores (que duram muito), e os meus eleitos usufruirão das obras das suas mãos.  

@@ -131,7 +131,7 @@
 **1** Naaman, general do exército do rei da Síria, era um homem poderoso e de grande consideração junto do seu amo, porque, por meio dele, o Senhor salvou a Síria; era um homem valente e rico, mas leproso.  
 **2** Ora uns guerrilheiros, que tinham saído da Síria para fazer uma incursão, levaram cativa do país de Israel uma pequena rapariga, que ficou ao serviço da mulher de Naaman.  
 **3** Ela disse à sua ama: Prouvera a Deus que o meu senhor tivesse ido ter com o profeta que está em Samaria; sem dúvida ele o teria curado da lepra que padece.  
-**4** Tendo ouvido isto, Naaman foi ter com o seu senhor, e contou-lhe o acontecido, dizendo: Uma rapariga do país de Israel disse isto e Isto.  
+**4** Tendo ouvido isto, Naaman foi ter com o seu senhor, e contou-lhe o acontecido, dizendo: Uma rapariga do país de Israel disse isto e isto.  
 **5** O rei da Síria respondeu-lhe: Vai, que eu enviarei uma carta ao rei de Israel. Partindo, pois, Naaman, e levando dez talentos de prata, seis mil escudos de ouro, e dez vestes sobressalentes,  
 **6** entregou ao rei de Israel a carta concebida nestes termos: Quando receberes esta carta, saberás que eu te enviei Naaman meu servo, para o curares da sua lepra.  
 **7** O rei de Israel, lida a carta, rasgou as suas vestes e disse; Porventura sou eu Deus, que posso tirar e dar a vida, para que este me mande dizer que cure um homem da lepra? Adverti, e vereis que ele anda buscando pretextos contra mim.  
@@ -144,7 +144,7 @@
 **14** Então Naaman foi e lavou-se sete vezes no Jordão, conforme a palavra do homem de Deus, e a sua carne tornou-se como a carne dum menino muito tenro, ficando limpo.  
 **15** Voltando para o homem de Deus com toda a sua comitiva, foi, apresentou-se diante dele, e disse: Verdadeiramente conheço que não há outro Deus em toda a terra, senão o de Israel. Rogo-te que recebas do teu servo esta oferta.  
 **16** Mas ele respondeu: Viva o Senhor, em cuja presença estou, que não a aceitarei. Por mais que (Naaman) instasse, de nenhum modo condescendeu.  
-**17** Naaman disse: Seja como tu queres, mas peço-te que me permitas levar dois machos carregados da terra deste país, porque o teu servo não sacrificará mais holocaustos ou vitimas aos deuses estrangeiros, mas só ao Senhor.  
+**17** Naaman disse: Seja como tu queres, mas peço-te que me permitas levar dois machos carregados da terra deste país, porque o teu servo não sacrificará mais holocaustos ou vítimas aos deuses estrangeiros, mas só ao Senhor.  
 **18** Uma coisa há, todavia, pela qual hás-de rogar ao Senhor pelo teu servo: quando o meu senhor entrar no templo de Remon para adorar, apoiando-se no meu braço, e quando eu (para prestar tal serviço) também me prostrar no templo de Remon, enquanto ele adora, que o Senhor me perdoe esta coisa a mim, teu servo.  
 **19** Eliseu respondeu: Vai em paz. Quando Naaman se retirou e estava já a certa distância,  
 **20** Giezi, criado do homem de Deus, disse: Meu amo perdoou a este Naaman, Siro, não querendo receber nada do que ele lhe trouxera. Viva o Senhor que eu correrei atrás dele, e receberei dele alguma coisa.  
@@ -346,7 +346,7 @@
 **16** Lançaram-lhe as mãos, levaram-na aos empurrões pelo caminho da entrada dos cavalos, junto ao palácio, e ali foi morta.  
 **17** Jojada fez entre o Senhor, o rei e o povo, a aliança pela qual o povo devia ser o povo do Senhor; (fez também aliança) entre o rei e o povo.  
 **18** Todo o povo do país entrou no templo de Baal, derrubou os seus altares, fez as suas imagens em pedaços e matou Matan, sacerdote de Baal, diante do altar. Jojada pôs guardas na casa do Senhor.  
-**19** Tomou consigo os centuriões, as legiões de Cerete e de Felet, e todo o povo do pais. Conduziram o rei fora da casa do Senhor e entraram no palácio pelo caminho da porta dos escudeiros. O rei sentou-se no trono dos reis.  
+**19** Tomou consigo os centuriões, as legiões de Cerete e de Felet, e todo o povo do país. Conduziram o rei fora da casa do Senhor e entraram no palácio pelo caminho da porta dos escudeiros. O rei sentou-se no trono dos reis.  
 **20** Todo o povo da terra se alegrou, e a cidade ficou em paz. Atalia havia sido passada à espada na casa do rei.  
 **21** Joás tinha sete anos quando começou a reinar.  
 
@@ -557,7 +557,7 @@
 **11** O rei dos Assírios transportou os Israelitas para a Assíria e colocou-os em Haia e em Habor, perto do rio Gozan, e nas cidades dos Medos,  
 **12** porque eles não tinham ouvido a voz do Senhor, seu Deus, mas tinham violado a sua aliança, recusando-se a ouvir e praticar as ordenações que Moisés, servo do Senhor, lhes tinha prescrito.  
 **13** No ano décimo quarto do rei Ezequias, veio Senaquerib, rei dos Assírios, atacar todas as cidades fortes de Judá e tomou-as.  
-**14** Então Ezequias, rei de Judá, mandou mensageiros ao rei dos Assirios, a Laquis, dizendo: Eu cometi uma falta; retira-te das minhas terras, e eu sofrerei tudo o que tu me impuseres. O rei dos Assírios impôs a Ezequias, rei de Judá, (a contribuição de) trezentos talentos de prata e trinta talentos de ouro.  
+**14** Então Ezequias, rei de Judá, mandou mensageiros ao rei dos Assírios, a Laquis, dizendo: Eu cometi uma falta; retira-te das minhas terras, e eu sofrerei tudo o que tu me impuseres. O rei dos Assírios impôs a Ezequias, rei de Judá, (a contribuição de) trezentos talentos de prata e trinta talentos de ouro.  
 **15** Ezequias deu-lhe toda a prata que tinha sido encontrada na casa do Senhor e nos tesouros do rei.  
 **16** Nesta ocasião Ezequias despedaçou as meias portas do templo do Senhor e as chapas de ouro, de que ele mesmo as tinha forrado, e deu-as ao rei dos Assírios.  
 **17** O rei dos Assírios porém (faltando ao seu compromisso) enviou de Laquis o chefe das suas tropas, o chefe dos eunucos e o copeiro-mór, ao rei Ezequias com um poderoso exército contra Jerusalém; eles, pondo-se em marcha, chegaram a Jerusalém e fizeram alto junto do aqueduto da piscina superior, que está no caminho do campo do Pisoeiro,  

@@ -340,7 +340,7 @@
 **34** Vós me buscareis, e não me encontrareis; nem vós podeis vir onde eu estou."  
 **35** Os Judeus disseram, pois, entre si: "Para onde é que irá ele, que o não encontraremos? Irá, porventura, para os que se acham dispersos entre as nações, e pregará aos gentios?  
 **36** Que quer dizer esta palavra que ele nos disse: Vós me buscareis, e não me encontrareis, e onde eu estou, vós não podeis vir?"  
-**37** No ultimo dia, o maior da festa, estava Jesus em pé, e em alta voz dizia: "Se alguém tem sede, venha a mim e beba.  
+**37** No último dia, o maior da festa, estava Jesus em pé, e em alta voz dizia: "Se alguém tem sede, venha a mim e beba.  
 **38** O que crê em mim, como diz a Escritura (Is. 44, 3; Is. 55, 1; Ez. 47, 1...) do seu seio correrão rios de água viva."  
 **39** Ora ele dizia isto falando do Espírito que haviam de receber os que cressem nele; porque ainda não tinha sido dado o Espírito, por não ter sido ainda glorificado Jesus.  
 **40** Entretanto alguns daquela multidão, tendo ouvido estas palavras, diziam: "Este é verdadeiramente profeta."  

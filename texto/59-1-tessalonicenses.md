@@ -38,7 +38,7 @@
 
 ## Capítulo 3
 
-**1** Pelo que, não podendo mais sofrer (a falta de noticias vossas), preferimos ficar sós em Atenas,  
+**1** Pelo que, não podendo mais sofrer (a falta de notícias vossas), preferimos ficar sós em Atenas,  
 **2** e enviamos Timóteo, nosso irmão e ministro de Deus no Evangelho de Cristo, para vos fortalecer e confortar, na vossa fé,  
 **3** a fim de que ninguém seja abalado por estas tribulações, pois vós mesmos sabeis que para isto fomos destinados.  
 **4** Pois, quando ainda estávamos convosco, vos predizíamos que havíamos de padecer tribulações, como com efeito aconteceu e vós o sabeis.  
