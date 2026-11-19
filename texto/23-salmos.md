@@ -2597,7 +2597,7 @@
 
 ## Capítulo 123
 
-**1** Cântico das subidas De Davide. Se o Senhor não tivesse estado por nós, diga-o agora Israel,  
+**1** Cântico das subidas. De Davide. Se o Senhor não tivesse estado por nós, diga-o agora Israel,  
 **2** se o Senhor não tivesse estado por nós, quando os homens se levantaram contra nós,  
 **3** de certo nos teriam engulido vivos. Quando se acendia o seu furor contra nós,  
 **4** então a água (da desgraça) nos teria submergido; a torrente teria passado sobre nós;  
@@ -2691,8 +2691,8 @@
 
 ## Capítulo 132
 
-**1** Cântico das subidas. Eia! bendizei ao Senhor, vós, todos os servos do Senhor, vós que assistis na casa do Senhor, durante as horas noturnas.  
-**2** E como um azeite precioso derramado na cabeça, que desce sobre a barba, a barba de Aarão, que desce sobre a orla do seu vestido;  
+**1** Cântico das subidas. De Davide. Ó quão bom e quão suave para irmãos viverem juntamente.  
+**2** É como um azeite precioso derramado na cabeça, que desce sobre a barba, a barba de Aarão, que desce sobre a orla do seu vestido;  
 **3** é como o orvalho do Hermon, que desce sobre o monte Sião; o Senhor derrama ali a sua bênção, a vida para sempre.  
 
 ## Capítulo 133

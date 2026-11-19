@@ -532,9 +532,9 @@
 **21** Joab disse a um cusita: Parte e vai anunciar ao rei o que viste. Ele fez-lhe uma profunda reverência e partiu a correr.  
 **22** Aquimaas, filho de Sadoc, disse novamente a Joab: Que embaraço há para que eu não vá também correndo atrás do cusita? Joab respondeu-lhe: Por que queres tu correr, ó meu filho? Esta mensagem não te aproveitaria.  
 **23** (Aquimaas) respondeu: Seja o que for, eu correrei. Joab disse-lhe: Corre. Correndo, pois, Aquimaas por um atalho, passou adiante do cusita.  
-**24** Davide estava sentado entre as duas portas. A sentinela que estava por cima da porta, sobre a muralha, levantando os olhos, viu vir um homem correndo sozinho e gritou para advertir o rei. O rei respondeu: Se vem só, traz alguma boa nova. Entretanto, apressando-se ele e estando já próximo,  
-**25** .  
-**26** A sentinela descobriu outro homem que corria, e, gritando de cima, disse: Eu vejo lá vir correndo outro homem só. O rei disse: Também este traz alguma boa nova.  
+**24** Davide estava sentado entre as duas portas. A sentinela que estava por cima da porta, sobre a muralha, levantando os olhos, viu vir um homem correndo sozinho  
+**25** e gritou para advertir o rei. O rei respondeu: Se vem só, traz alguma boa nova. Entretanto, apressando-se ele e estando já próximo,  
+**26** a sentinela descobriu outro homem que corria, e, gritando de cima, disse: Eu vejo lá vir correndo outro homem só. O rei disse: Também este traz alguma boa nova.  
 **27** A sentinela disse: Observo que o modo de correr do primeiro me parece ser o correr de Aquimaas, filho de Sadoc. O rei disse: É um homem de bem, e vem (certamente) trazer boas novas.  
 **28** Aquimaas, gritando, disse ao rei: Vitória! E, prostrado em terra, diante do rei, e fazendo-lhe uma profunda reverência; disse: Bem-dito seja o Senhor, teu Deus, que destroçou os homens que se tinham sublevado contra o rei, meu senhor.  
 **29** O rei disse: Está vivo o meu filho Absalão? Aquimaas respondeu-lhe: Quando o teu servo Joab me enviou a ti, que (também) sou teu servo, ó rei, eu vi um grande tumulto; não sei mais nada.  

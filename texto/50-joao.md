@@ -309,7 +309,7 @@
 **3** Disseram-lhe, pois, seus irmãos: "Sai daqui e vai para a Judeia, a fim de que também os teus discípulos vejam as obras que fazes.  
 **4** Porque ninguém que deseja ser conhecido em público, faz coisa alguma em segredo. Já que fazes estas coisas, manifesta-te ao mundo."  
 **5** Nem mesmo os seus irmãos criam nele.  
-**6** Ainda não chegou o meu tempo de entrar triunfalmente em Jerusalém; vós, porém, podeis ir em qualquer ocasião à cidade santa, porque nada tendes a temer.  
+**6** Jesus disse-lhes: "Ainda não chegou o meu tempo; para vós é sempre tempo.  
 **7** O mundo não pode odiar-vos, mas odeia-me a mim, porque faço ver que as suas obras são más.  
 **8** Vós ide a essa festa; eu não vou (publicamente) a essa festa, porque não está ainda completo o meu tempo."  
 **9** Tendo dito isto, deixou-se ficar na Galileia.  

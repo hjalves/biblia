@@ -186,7 +186,7 @@
 **3** Enviei, porém, nossos irmãos, para que o elogio que fizemos de vós não se frustre, neste ponto, e que estejais preparados, como eu disse,  
 **4** não aconteça que, ao chegarem os Macedónios comigo, vos encontrem desprevenidos, e tenhamos nós (para não dizer vós) de nos envergonhar a este respeito.  
 **5** Portanto, julguei necessário rogar a estes irmãos que vão antes de mim ter convosco e que preparem a liberalidade já prometida, a fim de que esteja pronta, como liberalidade e não como avareza.  
-**6** Devem dar generosamente e com alegria.  
+**6** Digo isto: aquele que semeia pouco, também segará pouco; aquele que semeia em abundância, também segará em abundância.  
 **7** Cada um dê como propôs no seu coração, não com tristeza, nem constrangido, porque Deus ama o que dá com alegria.  
 **8** Deus é poderoso para fazer abundar em vós todos os bens, para que, tendo sempre em todas as coisas tudo o que é suficiente, abundeis em toda a obra boa,  
 **9** como está escrito: Espalhou, deu aos pobres; a sua justiça dura para sempre (Ps. 111, 9).  
