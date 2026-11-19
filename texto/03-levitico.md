@@ -931,7 +931,7 @@
 **25** Toda a avaliação se fará pelo peso do siclo do santuário. O siclo tem vinte óbolos.  
 **26** Ninguém poderá consagrar ou fazer voto dos primogénitos, que, como primogénitos, pertencem ao Senhor: seja um boi, seja uma ovelha, são do Senhor.  
 **27** Porém, se o animal é impuro, aquele que o ofereceu, o resgatará segundo a sua avaliação, e juntará a quinta parte do preço; se o não quiser resgatar, será vendido a outro pelo preço fixado por ti.  
-**28** Tudo o que é consagrado ao Senhor, seja um homem, um animal ou um campo, não se venderá, nem se poderá resgatar. Tudo o que uma vez foi consagrado, será uma das coisa santíssima (pertencente) ao Senhor.  
+**28** Tudo o que é consagrado ao Senhor, seja um homem, um animal ou um campo, não se venderá, nem se poderá resgatar. Tudo o que uma vez foi consagrado, será uma coisa santíssima (pertencente) ao Senhor.  
 **29** Toda a pessoa consagrada, que se oferece por um homem, não será resgatada, mas será posta à morte.  
 **30** Todos os dízimos da terra, ou sejam de grão, ou de frutas das árvores, são do Senhor, a ele são consagrados.  
 **31** Mas, se alguém quiser resgatar os seus dízimos, ajuntará ao seu valor uma quinta parte deles.  

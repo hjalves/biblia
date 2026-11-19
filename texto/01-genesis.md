@@ -758,7 +758,7 @@
 **24** Quando chegou o tempo de dar à luz, foram achados dois gémeos no seu ventre.  
 **25** O que saiu primeiro era ruivo e todo peludo, como uma pelica: e foi-lhe posto o nome de Esaú. Imediatamente saiu o outro, que agarrava com a mão o pé de Esaú, e por isso ela o chamou Jacob.  
 **26** Era Isaac sexagenário quando os meninos lhe nasceram.  
-**27** Tendo crescido, Esaú tomou-se perito caçador e do campo: Jacob, homem simples, habitava nas tendas.  
+**27** Tendo crescido, Esaú tornou-se perito caçador e homem do campo: Jacob, homem simples, habitava nas tendas.  
 **28** Isaac amava Esaú, porque comia das suas caçadas: Rebeca amava Jacob.  
 **29** Ora, tendo Jacob feito um cozinhado, chegou Esaú do campo, (muito) cansado,  
 **30** e disse (a Jacob): Dá-me desse cozinhado vermelho, porque estou muito cansado. Por esta razão lhe puseram o nome Edom,  
