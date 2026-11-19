@@ -53,7 +53,7 @@
 **16** conservando a palavra de vida (que vos preguei), para eu ter a glória, no dia (da segunda vinda) de Cristo, de não haver corrido nem trabalhado em vão.  
 **17** Mas, ainda que o meu sangue deva servir de libação sobre o sacrifício e a oferenda da vossa fé, alegro-me e congratulo-me com todos vós.  
 **18** E vós também alegrai-vos e congratulai-vos comigo.  
-**19** Espero, no Senhor Jesus enviar-vos brevemente Timóteo, para que eu também fique animado, recebendo noticias de vós,  
+**19** Espero, no Senhor Jesus enviar-vos brevemente Timóteo, para que eu também fique animado, recebendo notícias de vós,  
 **20** porque não tenho ninguém como ele, unido comigo em sentimentos, que se interesse por vós sinceramente:  
 **21** Com efeito, todos buscam os seus próprios interesses, e não os que são de Jesus Cristo.  
 **22** Sabeis que ele é de uma virtude provada e que, como um filho com o pai, serviu comigo o Evangelho.  

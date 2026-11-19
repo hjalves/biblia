@@ -42,11 +42,11 @@
 **38** Jesus, voltando-se para trás, e vendo que o seguiam, disse-lhes: "Que buscais vós?" Eles disseram-lhe: "Rabi (que quer dizer Mestre), onde habitas?"  
 **39** Jesus disse-lhes: "Vinde ver." Foram, viram onde habitava, e ficaram com ele aquele dia. Era então quase a hora décima.  
 **40** André, irmão de Simão Pedro, era um dos dois que tinham ouvido o que João dissera, e que tinham seguido Jesus.  
-**41** Este encontrou primeiro seu irmão Simão, e disse-lhe: "Encontramos o Messias" (que quer dizer Cristo).  
+**41** Este encontrou primeiro seu irmão Simão, e disse-lhe: "Encontrámos o Messias" (que quer dizer Cristo).  
 **42** Levou-o a Jesus. Jesus, fixando nele o olhar, disse: "Tu és Simão, filho de João, tu serás chamado Cefas, que quer dizer Pedro ou Pedra."  
 **43** No dia seguinte Jesus resolveu ir à Galileia. Encontrou Filipe, e disse-lhe: "Segue-me."  
 **44** Filipe era natural da cidade de Betsaida, pátria de André e de Pedro.  
-**45** Filipe encontrou Natanael, e disse-lhe: "Encontramos aquele de quem escreveram Moisés na lei e os profetas: Jesus de Nazaré, filho de José."  
+**45** Filipe encontrou Natanael, e disse-lhe: "Encontrámos aquele de quem escreveram Moisés na lei e os profetas: Jesus de Nazaré, filho de José."  
 **46** Natanael disse-lhe: "De Nazaré pode porventura sair coisa que seja boa?" Filipe disse-lhe: "Vem ver."  
 **47** Jesus viu Natanael, que ia ter com ele, e disse dele: "Eis um verdadeiro Israelita, em quem não há dolo."  
 **48** Natanael disse-lhe: "Donde me conheces tu?" Jesus respondeu-lhe: "Antes que Filipe te chamasse, te vi eu, quando estavas debaixo da figueira."  
@@ -340,7 +340,7 @@
 **34** Vós me buscareis, e não me encontrareis; nem vós podeis vir onde eu estou."  
 **35** Os Judeus disseram, pois, entre si: "Para onde é que irá ele, que o não encontraremos? Irá, porventura, para os que se acham dispersos entre as nações, e pregará aos gentios?  
 **36** Que quer dizer esta palavra que ele nos disse: Vós me buscareis, e não me encontrareis, e onde eu estou, vós não podeis vir?"  
-**37** No ultimo dia, o maior da festa, estava Jesus em pé, e em alta voz dizia: "Se alguém tem sede, venha a mim e beba.  
+**37** No último dia, o maior da festa, estava Jesus em pé, e em alta voz dizia: "Se alguém tem sede, venha a mim e beba.  
 **38** O que crê em mim, como diz a Escritura (Is. 44, 3; Is. 55, 1; Ez. 47, 1...) do seu seio correrão rios de água viva."  
 **39** Ora ele dizia isto falando do Espírito que haviam de receber os que cressem nele; porque ainda não tinha sido dado o Espírito, por não ter sido ainda glorificado Jesus.  
 **40** Entretanto alguns daquela multidão, tendo ouvido estas palavras, diziam: "Este é verdadeiramente profeta."  

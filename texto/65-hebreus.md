@@ -152,7 +152,7 @@
 
 ## Capítulo 8
 
-**1** O ponto capital de tudo o que acabamos de dizer é este: temos um pontífice tal, que está sentado nos céus à direita do trono da Majestade,  
+**1** O ponto capital de tudo o que acabámos de dizer é este: temos um pontífice tal, que está sentado nos céus à direita do trono da Majestade,  
 **2** ministro do santuário e do verdadeiro tabernáculo erigido pelo Senhor, e não pelo homem.  
 **3** Sendo todo o pontífice constituído para oferecer dons e vítimas, é necessário que também este tenha alguma coisa que oferecer.  
 **4** Porque, se ele estivesse sobre a terra, nem sacerdote seria, visto que os há aí (filhos da tribo de Levi) que oferecem dons, segundo a lei,  
@@ -206,7 +206,7 @@
 **5** Por isso (Jesus Cristo), entrando no mundo, diz: Não quiseste sacrifício nem oblação, mas formaste-me um corpo;  
 **6** os holocaustos e os sacrifícios pelo pecado não te agradaram.  
 **7** Então eu disse: Eis-me que venho, segundo está escrito de mim no rolo do livro, para fazer, ó Deus, a tua vontade (Ps. 39, 7-9).  
-**8** Tendo dito acima: Não quiseste nem te são agradáveis os sacrifícios, as oblações, os holocaustos, as vitimas pelo pecado — são estas as coisas que se oferecem, segundo a lei —  
+**8** Tendo dito acima: Não quiseste nem te são agradáveis os sacrifícios, as oblações, os holocaustos, as vítimas pelo pecado — são estas as coisas que se oferecem, segundo a lei —  
 **9** em seguida declara: Eis-me que venho para fazer (ó Deus) a tua vontade. Tira o primeiro estado de coisas, para estabelecer o segundo.  
 **10** Por esta vontade somos santificados mediante a oblação do corpo de Jesus Cristo feita uma vez.  
 **11** E, enquanto que todo o sacerdote se apresenta cada dia a exercer o seu ministério e a oferecer muitas vezes as mesmas hóstias, que nunca podem tirar os pecados,  
@@ -321,7 +321,7 @@
 **3** Lembrai-vos dos que estão presos (por causa da fé), como se estivésseis presos juntamente com eles, e dos aflitos, lembrando-vos de que também tendes um corpo.  
 **4** Seja por todos honrado o matrimónio, e o leito conjugal sem mácula, porque Deus julgará os impudicos e os adúlteros.  
 **5** Sejam os vossos costumes isentos de avareza, contentando-vos com o que tendes, porque ele mesmo disse: Não te deixarei, nem te abandonarei (Dt. 31, 6).  
-**6** Assim digamos confiadamente: O Senhor é o meu auxilio; não temerei; que me poderá fazer o homem? (Ps. 117, 6).  
+**6** Assim digamos confiadamente: O Senhor é o meu auxílio; não temerei; que me poderá fazer o homem? (Ps. 117, 6).  
 **7** Lembrai-vos dos vossos chefes, que vos anunciaram a palavra de Deus, e, considerando o fim da sua vida, imitai a sua fé.  
 **8** Jesus Cristo é sempre o mesmo, ontem e hoje; ele o será também por todos os séculos.  
 **9** Não vos deixeis levar por doutrinas várias e estranhas. É óptimo fortificar o coração com a graça, não com alimentos, que nada aproveitaram aos que usaram deles.  

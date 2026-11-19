@@ -2,7 +2,7 @@
 
 ## Capítulo 1
 
-**1** O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que contemplamos, o que apalparam as nossas mãos relativamente ao Verbo da vida,  
+**1** O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que contemplámos, o que apalparam as nossas mãos relativamente ao Verbo da vida,  
 **2** porque a vida se manifestou: nós a vimos, damos dela testemunho e vos anunciamos a vida eterna, que estava no Pai e nos apareceu  
 **3** isso que vimos e ouvimos, vo-lo anunciamos, para que vós também tenhais comunhão connosco, e para que a nossa comunhão seja com o Pai e com seu Filho Jesus Cristo.  
 **4** Estas coisas vos escrevemos, para que a nossa alegria seja completa.  

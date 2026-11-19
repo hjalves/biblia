@@ -337,7 +337,7 @@
 **44** Quando o teu povo sair à guerra contra o seus inimigos, indo pelo caminho, pelo qual tu o tiveres mandado, se te fizerem as suas preces com o rosto voltado para a cidade, que tu escolheste, e para a casa que edifiquei ao teu nome,  
 **45** tu também ouvirás do céu as suas orações e as suas preces, e lhes farás justiça.  
 **46** Porém, quando pecarem contra ti (porque não há homem que não peque), e tu, irado, os entregares nas mãos de seus inimigos, quando eles forem levados cativos, ou perto ou longe, para terra inimiga,  
-**47** se fizerem penitência do íntimo do seu coração, no lugar do seu cativeiro, e, convertidos, te suplicarem no seu cativeiro, desta forma: Nós pecamos, nós cometemos a iniquidade, nós procedemos impiamente  
+**47** se fizerem penitência do íntimo do seu coração, no lugar do seu cativeiro, e, convertidos, te suplicarem no seu cativeiro, desta forma: Nós pecámos, nós cometemos a iniquidade, nós procedemos impiamente  
 **48** se eles se voltarem para ti de todo o seu coração e de toda a sua alma, na terra de seus inimigos, para onde foram levados cativos, se orarem voltados para a terra que tu deste a seus pais, para a cidade que escolheste e para o templo que eu edifiquei ao teu nome,  
 **49** escuta do céu, do firmamento do teu trono, as suas orações e as suas preces, e defende a sua causa.  
 **50** Mostra-te propício ao teu povo, que pecou contra ti, e perdoa todas as iniquidades, que tiverem cometido contra ti. Inspira ternura aos que os levarem cativos, para terem compaixão deles,  
@@ -352,7 +352,7 @@
 **59** Oxalá que estas minhas palavras, com que acabo de orar ao Senhor, estejam presentes de dia e de noite diante do Senhor, nosso Deus, para que todos os dias ele faça justiça ao seu servo e ao seu povo de Israel.  
 **60** Assim todos os povos da terra saberão que ele, o Senhor, é Deus, e que não há outro fora dele.  
 **61** Que o vosso coração seja todo para o Senhor, nosso Deus a fim de andardes segundo os seus decretos e guardardes os seus mandamentos, como fazeis hoje.  
-**62** O rei e todo o Israel imolaram vitimas diante do Senhor.  
+**62** O rei e todo o Israel imolaram vítimas diante do Senhor.  
 **63** Salomão imolou, para o sacrifício pacífico que ofereceu ao Senhor, vinte e dois mil bois, e cento e vinte mil ovelhas. Assim o rei com os filhos de Israel dedicaram o templo do Senhor.  
 **64** Naquele dia o rei consagrou o meio do átrio, que estava diante da casa do Senhor, pois ofereceu ali holocaustos e sacrifícios, e as banhas das hóstias pacíficas, porque o altar de bronze, que estava diante do Senhor, era pequeno, e não podiam caber nele os holocaustos e os sacrifícios, e as banhas das hóstias pacíficas.  
 **65** Tal foi a festa que Salomão celebrou nesse tempo, e todo o Israel com ele, tendo concorrido gente em grande número desde a entrada de Emat até ao rio do Egipto, diante do Senhor, nosso Deus, durante sete dias, e (em seguida) durante outros sete dias, isto é, durante catorze dias.  
@@ -384,7 +384,7 @@
 **22** Quanto aos filhos de Israel, Salomão determinou que nenhum servisse (de escravo), mas que fossem seus homens de guerra, seus servidores, seus primeiros oficiais, capitães, comandantes dos carros de guerra e da cavalaria.  
 **23** Havia quinhentos e cinquenta homens estabelecidos sobre todas as obras de Salomão, os quais tinham o povo sujeito às suas ordens e eram os superintendentes de todas as obras determinadas.  
 **24** Veio a filha de Faraó da cidade de Davide para a casa, que lhe tinha edificado Salomão, o qual então edificou Melo.  
-**25** Oferecia Salomão, três vezes cada ano, holocaustos e vitimas pacíficas, sobre o altar que tinha levantado ao Senhor, e queimava perfumes diante do Senhor. E completou-se o templo.  
+**25** Oferecia Salomão, três vezes cada ano, holocaustos e vítimas pacíficas, sobre o altar que tinha levantado ao Senhor, e queimava perfumes diante do Senhor. E completou-se o templo.  
 **26** Equipou também o rei Salomão uma frota em Asiongaber, que é perto de Ailat, na praia do mar Vermelho, na terra da Iduméa.  
 **27** Hirão mandou nesta frota alguns dos seus servos, homens marinheiros, entendidos em náutica, juntamente com os servos de Salomão.  
 **28** Eles, tendo chegado a Ofir, tomaram lá quatrocentos e vinte talentos de ouro, que levaram ao rei Salomão.  
@@ -484,7 +484,7 @@
 **13** O rei respondeu duramente ao povo, desprezando o conselho que os anciães lhe tinham dado.  
 **14** Falou-lhes conforme o que lhe tinham aconselhado os jovens: Meu pai impôs-vos um jugo pesado, eu ainda aumentarei o peso do vosso jugo; meu pai fustigou-vos com açoutes, eu açoutar-vos-ei com escorpiões.  
 **15** E o rei não deu ouvidos ao povo, porque o Senhor tinha apartado dele a sua face, para realizar a palavra que tinha dito a Jeroboão, filho de Nabat, por meio do profeta Alas, Silonita.  
-**16** Vendo o povo que o rei o não queria ouvir, respondeu-lhe, dizendo: Que parte temos nós com (a família de) Davide? Que herança (ou proveito) com o filho de Isai? Vai, pois, para as tuas tendas, ó Israel, e tu, ó (descendente de) Davide, trata agora da tua casa. Israel retirou-se para as suas tendas (e sacudiu o jugo de Roboão).  
+**16** Vendo o povo que o rei o não queria ouvir, respondeu-lhe, dizendo: Que parte temos nós com (a família de) Davide? Que herança (ou proveito) com o filho de Isaí? Vai, pois, para as tuas tendas, ó Israel, e tu, ó (descendente de) Davide, trata agora da tua casa. Israel retirou-se para as suas tendas (e sacudiu o jugo de Roboão).  
 **17** Roboão, todavia, reinou sobre todos os filhos de Israel, que habitavam nas cidades de Judá.  
 **18** O rei Roboão enviou Adurão que era o superintendente dos tributos (para apaziguar os ânimos), mas todo o Israel o apedrejou, e ele morreu. Então o rei Roboão tomou a toda a pressa o seu carro e fugiu para Jerusalém.  
 **19** E Israel separou-se da casa de Davide, até ao dia de hoje.  
@@ -548,7 +548,7 @@
 **4** A mulher de Joroboão fez como ele lhe tinha dito. Levantando-se, partiu para Silo e foi a casa de Alas. Ele não podia ver, porque os seus olhos se tinham escurecido por causa da muita idade.  
 **5** O Senhor disse a Aias: Aí vem a mulher de Jeroboão consultar-te sobre seu filho, que está doente: tu lhe dirás isto e isto. Tendo entrado a mulher de Jeroboão, dissimulando quem era,  
 **6** Aias ouviu o ruído dos seus pés, ao entrar pela porta, e disse: Entra, mulher de Jeroboão; para que finges tu ser outra? Eu fui enviado para te dar uma triste nova.  
-**7** Vai e dize a Jeroboão: Eis o que diz o Senhor, Deus de Israel: Eu te elevei do meio do povo e te constitui chefe do meu povo de Israel;  
+**7** Vai e dize a Jeroboão: Eis o que diz o Senhor, Deus de Israel: Eu te elevei do meio do povo e te constituí chefe do meu povo de Israel;  
 **8** dividi o reino da casa de Davide e dei-to a ti, mas tu não foste como meu servo Davide, que guardou os meus mandamentos e que me seguiu de todo o seu coração, fazendo o que me era agradável;  
 **9** fizeste maiores males do que todos quantos têm havido antes de ti, e fabricaste para ti deuses estrangeiros e fundidos, para me provocares a ira, e a mim lançaste-me para trás das costas.  
 **10** Por isso eu farei cair males sobre a casa de Jeroboão, farei morrer da casa de Jeroboão todo o indivíduo do sexo masculino, escravo ou homem livre, e varrerei os restos da casa de Jeroboão, como se costuma varrer o lixo, até não ficar rasto.  

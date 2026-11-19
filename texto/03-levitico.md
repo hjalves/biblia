@@ -42,7 +42,7 @@
 ## Capítulo 3
 
 **1** Se a oferta de alguém for um sacrifício pacífico de gado graúdo, apresentará diante do Senhor um macho ou fêmea sem defeito.  
-**2** Porá a mão sobre a cabeça da sua vitima, a qual será imolada à entrada do tabernáculo da reunião, e os sacerdotes filhos de Aarão derramarão o sangue ao redor do altar.  
+**2** Porá a mão sobre a cabeça da sua vítima, a qual será imolada à entrada do tabernáculo da reunião, e os sacerdotes filhos de Aarão derramarão o sangue ao redor do altar.  
 **3** Oferecerá desta vítima pacífica, em sacrifício pelo fogo ao Senhor, a gordura que cobre as vísceras, e tudo o que há de gordura interiormente:  
 **4** os dois rins com a gordura, que cobre os lombos, e o redenho do fígado com os rins.  
 **5** Os filhos de Aarão queimarão tudo isto em holocausto sobre o altar, depois de ter posto fogo debaixo da lenha, em oblação de suavíssimo odor ao Senhor.  
@@ -70,7 +70,7 @@
 **7** Porá do mesmo sangue sobre as pontas do altar dos perfumes agradáveis ao Senhor, o qual (altar) está no tabernáculo do testemunho, e todo o resto do sangue derramá-lo-á aos pés do altar dos holocaustos à entrada do tabernáculo.  
 **8** Tirará (em seguida) a gordura do novilho (imolado) pelo pecado, não só a que cobre as vísceras, mas também toda a que está no interior  
 **9** (tirará também) os dois rins e o redenho que está sobre eles junto da região tombar, e a gordura do fígado com os rins,  
-**10** do mesmo modo que se tiram do novilho da hóstia pacifica, e queimará isso sobre o altar dos holocaustos.  
+**10** do mesmo modo que se tiram do novilho da hóstia pacífica, e queimará isso sobre o altar dos holocaustos.  
 **11** Porém, a pele e toda a carne com a cabeça e os pés e os intestinos e os excrementos,  
 **12** e o resto do corpo, lavá-los-á fora dos acampamentos, a um lugar limpo, onde se costumam deitar as cinzas, e queimá-los-á sobre um feixe de lenha; será queimado no lugar onde se costumam deitar as cinzas.  
 **13** Porém, se toda a multidão de Israel pecar involuntàriamente, por inadvertência, e se fizer alguma coisa que é contra o mandamento do Senhor,  
@@ -238,7 +238,7 @@
 **2** Toma da manada um novilho pelo pecado, e um carneiro para o holocausto, um e outro sem defeito, e oferece-os diante do Senhor.  
 **3** Dirás aos filhos de Israel: Tomai um bode pelo pecado, um novilho e um cordeiro de ano e sem defeito, para o holocausto,  
 **4** um boi e um carneiro, para sacrifício pacífico, e imolai-os diante do Senhor, oferecendo no sacrifício de cada um deles flor de farinha misturada com azeite. Com efeito, hoje o Senhor vos aparecerá,  
-**5** Levaram, pois, à entrada do tabernáculo tudo o que Moisés lhes ordenara: ai, enquanto toda a multidão estava em pé,  
+**5** Levaram, pois, à entrada do tabernáculo tudo o que Moisés lhes ordenara: aí, enquanto toda a multidão estava em pé,  
 **6** Moisés disse: Isto é o quê o Senhor mandou: Fazei-o, e a sua glória vos aparecerá.  
 **7** Depois disse a Aarão: Aproxima-te do altar, e sacrifica pelo teu pecado: oferece o holocausto, e roga por ti e pelo povo: depois de teres sacrificado a vítima pelo povo, ora por ele, como o Senhor ordenou.  
 **8** Logo Aarão, aproximando-se do altar, imolou o novilho pelo seu pecado,  
@@ -347,8 +347,8 @@
 
 **1** O Senhor falou a Moisés e a Aarão, dizendo;  
 **2** O homem, em cuja pele e carne aparecer cor diversa, ou uma pústula, ou mancha branca luzente, como chaga de lepra, será levado ao sacerdote Aarão, ou a um dos seus filhos.  
-**3** Este examinará a lepra na pele: se vir que os pelos se tornam brancos e que a parte afectada está mais funda do que o resto da pele e da carne, o sacerdote que examinar este homem, declará-lo-á impuro.  
-**4** Porém, se aparecer sobre a cútis uma cor branca luzente, e não (estiver) mais funda do que o resto da carne, e os pelos forem da cor primitiva, o sacerdote o isolará durante sete dias,  
+**3** Este examinará a lepra na pele: se vir que os pêlos se tornam brancos e que a parte afectada está mais funda do que o resto da pele e da carne, o sacerdote que examinar este homem, declará-lo-á impuro.  
+**4** Porém, se aparecer sobre a cútis uma cor branca luzente, e não (estiver) mais funda do que o resto da carne, e os pêlos forem da cor primitiva, o sacerdote o isolará durante sete dias,  
 **5** e, ao sétimo dia: o examinará; e se o mal não tiver crescido mais, nem se tiver alastrado mais além sobre a pele, isolá-lo-á novamente durante outros sete dias.  
 **6** Ao sétimo dia, examiná-lo-á: se a parte enferma for mais escura, e não se tiver alastrado sobre a pele, declará-lo-á limpo, porque é sarna: este homem lavará as suas vestes e será puro.  
 **7** Porém, se depois de ter sido visto pelo sacerdote, e declarado limpo, a mancha luzente cresceu novamente, ser-lhe-á reconduzido,  
@@ -364,13 +364,13 @@
 **17** o sacerdote o examinará e declarará que é puro.  
 **18** Mas, se na carne e na pele em que tiver aparecido uma úlcera e se tiver curado,  
 **19** e no lugar da úlcera aparecer uma cicatriz branca, ou avermelhada, será este homem levado ao sacerdote:  
-**20** se este vir o lugar da mancha mais fundo do que o resto da carne, e que os pelos se tornaram brancos, declará-lo-á impuro; porque isto é o mal da lepra, que se formou na úlcera.  
-**21** Se o pelo está da cor primitiva e a cicatriz é um pouco escura, sem estar mais funda do que a carne vizinha, o sacerdote o isolará durante sete dias.  
+**20** se este vir o lugar da mancha mais fundo do que o resto da carne, e que os pêlos se tornaram brancos, declará-lo-á impuro; porque isto é o mal da lepra, que se formou na úlcera.  
+**21** Se o pêlo está da cor primitiva e a cicatriz é um pouco escura, sem estar mais funda do que a carne vizinha, o sacerdote o isolará durante sete dias.  
 **22** Se (durante este tempo) o mal cresceu, declará-lo-á leproso;  
 **23** porém, se parou no seu lugar, é a cicatriz da úlcera, e o sacerdote o declarará puro.  
 **24** A carne, porém, e a pele que foi queimada pelo fogo, se sobre a cicatriz aparecer uma mancha branca ou avermelhada,  
 **25** o sacerdote a examinará; se (vir) que ela se tomou branca, e que o lugar dela está mais fundo do que o resto da pele, declará-lo-á impuro, porque é chaga da lepra que se formou na cicatriz.  
-**26** Porém, se a cor dos pelos não mudou e a chaga não está mais funda do que o resto da carne, e se aparece um pouco escura, isolá-lo-á durante sete dias,  
+**26** Porém, se a cor dos pêlos não mudou e a chaga não está mais funda do que o resto da carne, e se aparece um pouco escura, isolá-lo-á durante sete dias,  
 **27** e, ao sétimo dia, o examinará. Se a mancha alastrou sobre a pele, declará-lo-á impuro.  
 **28** Mas, se a cor branca permanecer no seu lugar e não for tão clara, é chaga de queimadura, e portanto será declarado puro, porque é cicatriz de queimadura.  
 **29** Um homem ou uma mulher em cuja cabeça ou barba aparecer uma chaga, serão vistos pelo sacerdote,  
@@ -380,7 +380,7 @@
 **33** este homem será rapado, menos no lugar da mancha, e será isolado durante outros sete dias.  
 **34** Se ao sétimo dia se vir que a chaga ficou no seu lugar, e não se tornou mais funda que o resto da carne, o sacerdote o declarará puro, ele lavará as suas vestes e será puro.  
 **35** Porém, se depois da sua purificação a mancha se alastrar de novo sobre a pele,  
-**36** não examinará mais se o pelo se tomou amarelado, porque evidentemente está impuro.  
+**36** não examinará mais se o pêlo se tomou amarelado, porque evidentemente está impuro.  
 **37** Mas, se a mancha perseverar (no mesmo estado), e os cabelos estiverem negros, reconheça que o homem está são, e afoutamente declare-o limpo.  
 **38** O homem ou mulher, sobre cuja pele aparecerem manchas brancas,  
 **39** o sacerdote os verá; se achar que sobre a sua pele reluz um branco escuro, saiba que não é lepra, mas uma mancha de cor branca, e que a pessoa está limpa.  
@@ -414,8 +414,8 @@
 **5** Mandará que uma das aves seja imolada sobre um vaso de barro, cheio de água viva;  
 **6** molhará a outra ave viva, o pau de cedro, o escarlate e o hissopo, no sangue da ave imolada,  
 **7** e com ele aspergirá sete vezes aquele que está para se purificar, a fim de que seja legitimamente purificado; (depois disto) soltará a ave viva no campo.  
-**8** Depois que este homem tiver lavado as suas vestes, rapará todos os pelos do corpo e lavar-se-á em água; purificado, entrará de novo nos acampamentos, sob a condição, porém, de que há-de estar durante sete dias fora da sua tenda.  
-**9** Ao sétimo dia, rapará todos os cabelos da cabeça, a barba, as sobrancelhas e todos os pelos do corpo. Lavados novamente os vestidos e o corpo,  
+**8** Depois que este homem tiver lavado as suas vestes, rapará todos os pêlos do corpo e lavar-se-á em água; purificado, entrará de novo nos acampamentos, sob a condição, porém, de que há-de estar durante sete dias fora da sua tenda.  
+**9** Ao sétimo dia, rapará todos os cabelos da cabeça, a barba, as sobrancelhas e todos os pêlos do corpo. Lavados novamente os vestidos e o corpo,  
 **10** no oitavo dia tomará dois cordeiros sem defeito, uma ovelha dum ano sem defeito, e três dízimos de flor de farinha borrifada com azeite, para o sacrifício, e separadamente um sextário de azeite.  
 **11** Depois que o sacerdote, que deve purificar aquele homem, o tiver apresentado juntamente com todas estas coisas diante do Senhor à porta do tabernáculo da reunião,  
 **12** tomará um cordeiro, e o oferecerá pelo delito com o sextário de azeite; oferecidas todas estas coisas diante do Senhor,  

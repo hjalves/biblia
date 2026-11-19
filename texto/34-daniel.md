@@ -82,17 +82,17 @@
 **2** Em seguida o rei Nabucodonosor mandou juntar os sátrapas, os prefeitos, os governadores, os conselheiros, os tesoureiros, os legistas, os juizes e todas as autoridades, das províncias, para que assitissem à dedicação da estátua, que o rei Nabucodonosor tinha levantado.  
 **3** Juntaram-se, pois, os prefeitos, os governadores, os conselheiros, os tesoureiros, os legistas, os juizes e todas as autoridades das províncias, para assistirem à dedicação da estátua que o rei Nabucodonosor tinha levantado. Estavam em pé diante da estátua que o rei Nabucodonosor tinha levantado.  
 **4** Um pregoeiro clamou com vigor: A vós, povos, nações e (gente de todas as) línguas, se vos ordena;  
-**5** No momento em que ouvirdes o som da trombeta. da flauta, da citara, da harpa, do saltério, da cornamusa e de todo o géuero de instrumentos músicos; prostrando-vos em terra, adorareis a estátua de ouro que o rei Nabucodonosor levantou.  
+**5** No momento em que ouvirdes o som da trombeta. da flauta, da cítara, da harpa, do saltério, da cornamusa e de todo o géuero de instrumentos músicos; prostrando-vos em terra, adorareis a estátua de ouro que o rei Nabucodonosor levantou.  
 **6** Se alguém não a adorar prostrado, será no mesmo, instante lançado numa fornalha incandescente.  
-**7** Portanto, logo que os povos ouviram o som da trombeta, da flauta, da citara, da arpa, do saltério, da cornamusa e de todo o género de instrumentos músicos, prostraram-se em terra todos os povos, nações e (gentes de todas as) línguas, adorando a estátua de ouro, que o rei Nabucodonosor tinha levantado.  
+**7** Portanto, logo que os povos ouviram o som da trombeta, da flauta, da cítara, da arpa, do saltério, da cornamusa e de todo o género de instrumentos músicos, prostraram-se em terra todos os povos, nações e (gentes de todas as) línguas, adorando a estátua de ouro, que o rei Nabucodonosor tinha levantado.  
 **8** No mesmo momento, aproximando-se uns homens Caldeus, acusaram os Judeus.  
 **9** Disseram ao rei Nabucodonosor: Ó rei vive eternamente!  
-**10** Tu ó rei, decretaste que todo o homem que ouvisse o som da trombeta, da flauta, da citara, da harpa, do saltério, da cornamusa e de todo o género de instrumentos músicos, se prostrasse em terra e adorasse a estátua de ouro,  
+**10** Tu ó rei, decretaste que todo o homem que ouvisse o som da trombeta, da flauta, da cítara, da harpa, do saltério, da cornamusa e de todo o género de instrumentos músicos, se prostrasse em terra e adorasse a estátua de ouro,  
 **11** e que, se alguém não a adorasse, prostrado, seria lançado numa fornalha incandescente.  
 **12** Não obstante isto, há (três) homens Judeus, que constituíste superintendentes dos negócios da província de Babilónia, Sidrac, Misac e Abdenago, os quais desprezaram, ó rei, o teu decreto; não honram os teus deuses, nem adoram a estátua de ouro que levantaste.  
 **13** Então Nabucodonosor cheio de furor e de ira, ordenou que trouxessem à sua presença Sidrac, Misac e Abdenago, que foram logo conduzidos à presença do rei.  
 **14** E o rei Nabucodonosor, tomando a palavra disse-lhes: É verdade, Sidrac, Misac e Abdenago, que não honrais os meus deuses e não adorais a estátua de ouro que erigi?  
-**15** Agora estais prontos (a obedecer-me) no momento em que ouvirdes o som da trombeta, da flauta, da citara, da harpa, do saltério, da cornamusa e de todo o género de instrumentos músicos, a prostrar-vos em terra e adorar a estátua que fiz? Se a não adorardes, no mesmo instante sereis lançados numa fornalha incandescente. E qual é o Deus que vos poderá livrar da minha mão?  
+**15** Agora estais prontos (a obedecer-me) no momento em que ouvirdes o som da trombeta, da flauta, da cítara, da harpa, do saltério, da cornamusa e de todo o género de instrumentos músicos, a prostrar-vos em terra e adorar a estátua que fiz? Se a não adorardes, no mesmo instante sereis lançados numa fornalha incandescente. E qual é o Deus que vos poderá livrar da minha mão?  
 **16** Respondendo, Sidrac, Misac e Abdenago disseram ao rei Nabucodonosor: Não há necessidade alguma de que te respondamos sobre isto,  
 **17** porque o nosso Deus, a quem adoramos, pode tirar-nos da fornalha de fogo ardente e livrar-nos ó rei, das tuas mãos.  
 **18** Porém, se ele o não quiser fazer assim, fica sabendo, ó rei, que nós não honraremos os teus deuses, nem adoraremos a estátua de ouro que erigiste.  
@@ -348,7 +348,7 @@
 **2** no primeiro ano do seu reinado, eu, Daniel, ao ler os livros (santos), considerava o número dos anos de que o Senhor tinha falado ao profeta Jeremias, que a desolação de Jerusalém devia durar: setenta anos.  
 **3** E voltei o meu rosto para o Senhor meu Deus, para lhe rogar e suplicar com jejuns, saco e cinza.  
 **4** Orei ao Senhor meu Deus e fiz-lhe esta confissão; Ah! Senhor, Deus grande e terrível, que guardas a tua aliança e a tua misericórdia para com os que te amam e observam os teus mandamentos.  
-**5** Nós pecamos, cometemos a iniquidade, procedemos impiamente, fomos rebeldes, afastámo-nos dos teus preceitos e das tuas leis.  
+**5** Nós pecámos, cometemos a iniquidade, procedemos impiamente, fomos rebeldes, afastámo-nos dos teus preceitos e das tuas leis.  
 **6** Não temos escutado os teus servos, os profetas, que falaram em teu nome aos nossos reis aos nossos príncipes, aos nossos pais e a todo o povo do país.  
 **7** Tua é, ó Senhor, a justiça; a nós, porém, não nos resta senão a confusão do nosso rosto, como sucede hoje a todos os homens de Judá, aos habitantes de Jerusalém e a todo o Israel, aos que estão perto e aos que estão longe, em todos os países, para onde os lançaste, por causa das iniquidade que cometeram contra ti.  
 **8** Para nós, Senhor, a confusão do rosto, para os nossos reis, para os nossos príncipes, e para os nossos país, pois pecámos contra ti.  
@@ -425,7 +425,7 @@
 **25** Excitará o seu poder e o seu coração contra o rei do Meio-dia com um grande exército; o rei do Meio-dia animar-se-á a sair á batalha com muitas e fortes tropas, mas elas não perseverão firmes, porque maquinarão desígnios contra ele.  
 **26** Aqueles mesmos que comiam o pão com ele, o arruinarão; o seu exército será oprimido, e um grande número dos seus cairão mortos.  
 **27** Os dois reis sòmente pensarão em fazer o mal um ao outro, e, sentados à mesma mesa, dirão palavras de mentira, mas nenhum conseguirá os seus intentos, porque o prazo (marcado por Deus) é para outro tempo.  
-**28** Voltará para o seu pais com muitas riquezas; o seu coração será hostil à santa aliança (do Senhor), fará (muitos males), e, depois, voltará para o seu pais.  
+**28** Voltará para o seu país com muitas riquezas; o seu coração será hostil à santa aliança (do Senhor), fará (muitos males), e, depois, voltará para o seu país.  
 **29** No tempo determinado, tornará a vir para o Meio-dia, mas esta última expedição não será semelhante à primeira,  
 **30** Os navios de Kittim virão contra ele, que ficará desanimado; voltará e conceberá uma grande indignação contra a aliança santa, empreenderá muitas coisas contra ela, fazendo acordo com os que a tinham abandonado.  
 **31** Virão tropas, às suas ordens, profanar o santuário, a fortaleza, farão cessar o sacrifício perpétuo e porão no templo a abominação da desolação.  
@@ -442,7 +442,7 @@
 **42** Estenderá a sua mão contra outros países, e a terra do Egipto não escapará.  
 **43** Tornar-se-á senhor dos tesouros de ouro, de prata e de tudo o que há de precioso no Egipto. Segui-lo-ão os Líbios e os Etíopes.  
 **44** Turbá-lo-ão, porém, notícias vindas do oriente e do Aquilão, e partirá com grande furor para destruir e matar muitos.  
-**45** Erguerá a sua tenda entre os mares e o ínclito e santo monte. Então chegará ao termo da sua vida, e ninguém lhe dará auxilio.  
+**45** Erguerá a sua tenda entre os mares e o ínclito e santo monte. Então chegará ao termo da sua vida, e ninguém lhe dará auxílio.  
 
 ## Capítulo 12
 
@@ -526,7 +526,7 @@
 **62** para cumprirem com a lei de Moisés: mataram-nos, sendo salvo o sangue inocente naquele dia.  
 **63** Então Helcias e sua mulher louvaram a Deus por (ter salvado) Susana, sua filha, com Joaquim, seu marido, e com todos os parentes por se não ter achado nela coisa que ofendesse a honestidade.  
 **64** E Daniel, desde aquele dia em diante, tornou-se grande diante do povo.  
-**65** O rei Astiages foi juntar-se a seu pais (no sepulcro), e Ciro, o Persa, sucedeu-lhe no reino.  
+**65** O rei Astiages foi juntar-se a seu país (no sepulcro), e Ciro, o Persa, sucedeu-lhe no reino.  
 
 ## Capítulo 14
 

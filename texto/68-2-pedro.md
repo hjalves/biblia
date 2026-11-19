@@ -38,7 +38,7 @@
 **10** principalmente aqueles que vão atrás da carne, na imunda concupiscência, e desprezam a soberania (de Cristo). Audaciosos, arrogantes, não temem blasfemar contra as glórias (anjos inferiores),  
 **11** enquanto que os anjos (superiores), maiores em fortaleza e robustez, não levantam, diante do Senhor, acusação injuriosa contra elas.  
 **12** Mas estes, como animais irracionais, naturalmente feitos para presa e para perdição, blasfemando das coisas que ignoram, perecerão da mesma morte (desses animais),  
-**13** recebendo a injustiça como paga da injustiça. Fazem consistir a sua felicidade nas delicias de cada dia; eles que são manchados e viciados, põem o seu prazer em vos enganar banqueteando-se convosco.  
+**13** recebendo a injustiça como paga da injustiça. Fazem consistir a sua felicidade nas delícias de cada dia; eles que são manchados e viciados, põem o seu prazer em vos enganar banqueteando-se convosco.  
 **14** Têm os olhos cheios de adultério e de um contínuo pecado; atraem com afago as almas inconstantes, têm o coração exercitado na cobiça, filhos da maldição!  
 **15** Deixando o caminho direito, extraviaram-se seguindo o caminho de Balaão, filho de Bosor, o qual amou a recompensa de iniquidade,  
 **16** mas foi repreendido pela sua culpa: um animal de carga, mudo, falando com voz humana, refreou a insânia do profeta.  

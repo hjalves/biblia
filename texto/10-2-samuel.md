@@ -609,7 +609,7 @@
 **16** Uma mulher prudente da cidade gritou: Ouvi, ouvi, dizei a Joab: Aproxima-te daqui, e eu te falarei.  
 **17** Tendo-se ele aproximado, disse-lhe a mulher: Tu és Joab? Ele respondeu: Sou. Ela falou-lhe assim: Ouve as palavras de tua escrava. Ele respondeu-lhe: Ouço.  
 **18** A mulher prosseguiu: Noutro tempo costumava-se dizer: Os que buscam conselho, peçam-no a Abel e assim concluíam os seus negócios.  
-**19** Eu sou uma cidade pacifica e fiel em Israel; tu queres arruinar uma cidade, que é uma mãe em Israel? Por que te afadigas tu em destruir a herança do Senhor?  
+**19** Eu sou uma cidade pacífica e fiel em Israel; tu queres arruinar uma cidade, que é uma mãe em Israel? Por que te afadigas tu em destruir a herança do Senhor?  
 **20** Joab respondeu, dizendo: Longe, longe de mim, que eu tal faça; eu não venho arruinar nem destruir.  
 **21** Não é essa a minha intenção, mas busco um homem do monte de Efraim, chamado Seba, filho de Bocri, que se levantou contra o rei Davide; entregai-nos só este, e retirar-nos-emos da cidade. A mulher disse a Joab: Agora mesmo te será lançada a sua cabeça pelo muro.  
 **22** Ela, pois, foi ter com todo o povo, falou-lhes sàbiamente; eles, cortada a cabeça de Seba, filho de Bocri, atiraram-na a Joab. Joab tocou a trombeta, e retiraram-se da cidade, cada um para as suas tendas; Joab voltou a Jerusalém, e foi ter com o rei.  

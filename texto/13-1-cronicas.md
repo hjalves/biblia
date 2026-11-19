@@ -46,7 +46,7 @@
 **42** Filhos de Eser: Balaão, Zavan, Jacan. Filhos de Disan: Hus e Aran.  
 **43** Os reis que reinaram na terra de Edom, antes que houvesse rei sobre os filhos de Israel, são estes: Bale, filho de Beor, cuja cidade chamava-se Denaba.  
 **44** Morreu Bale, e reinou em seu lugar Jobab, filho de Zaré, de Bosra.  
-**45** Depois da morte de Jobab, reinou em seu lugar Husão, do pais dos Temanitas.  
+**45** Depois da morte de Jobab, reinou em seu lugar Husão, do país dos Temanitas.  
 **46** Morreu Husão, e reinou em seu lugar Adad, filho de Badad, que derrotou os Madianitas na terra de Moab; a sua cidade chamava-se Avit.  
 **47** Depois da morte de Adad, reinou em seu lugar Semla de Masreca.  
 **48** Semla morreu, e reinou em seu lugar Saul de Roobot, que está situada junto do rio (Eufrates).  
@@ -547,7 +547,7 @@
 
 **1** Davide teve conselho com os chefes de milhar, com os centuriões e com todos os príncipes,  
 **2** e a todo o ajuntamento de Israel: Se vos parece bem e se o que vos vou propor vem do Senhor nosso Deus, mandemos chamar todos os outros nossos irmãos, por todas as províncias de Israel, bem como os sacerdotes e Levitas, que habitam nos arrabaldes das cidades, para que se reunam junto de nós,  
-**3** e reconduzamos para nós a arca do nosso Deus, já que a não buscamos no tempo de Saul.  
+**3** e reconduzamos para nós a arca do nosso Deus, já que a não buscámos no tempo de Saul.  
 **4** Todo o ajuntamento respondeu que assim se fizesse, porque a todo o povo agradara a proposta.  
 **5** Reuniu, pois, Davide todo o Israel desde o rio Sior do Egipto até à entrada de Emat, para conduzir a arca de Deus de Cariatiarim (a Jerusalém).  
 **6** Davide saiu com todos os homens de Israel para a colina de Cariatiarim, que está na tribo de Judá, para de lá trazer a arca do Senhor Deus, que está sentado sobre os querubins, diante da qual é invocado o seu nome.  
@@ -711,7 +711,7 @@
 ## Capítulo 19
 
 **1** Depois disto, faleceu Naas, rei dos Amonitas, e seu filho reinou em seu lugar.  
-**2** Davide disse: Quero mostrar o meu afecto a Hanon, filho de Naas, pois que recebi favores de seu pai. E Davide mandou mensageiros para o consolarem na morte de seu pai. Quando eles chegaram ao pais dos Amonitas, para consolarem Hanon,  
+**2** Davide disse: Quero mostrar o meu afecto a Hanon, filho de Naas, pois que recebi favores de seu pai. E Davide mandou mensageiros para o consolarem na morte de seu pai. Quando eles chegaram ao país dos Amonitas, para consolarem Hanon,  
 **3** os grandes dos Amonitas disseram a Hanon: Julgas talvez que Davide, por honrar a memória de teu pai, te mandou homens que te consolassem? Não vês que os servos vieram para explorar e examinar, e esquadrinhar o teu país?  
 **4** Hanon, então, mandou rapar a cabeça e a barba aos servos de Davide, fez-lhes retalhar as suas túnicas da cintura até aos pés, e despediu-os.  
 **5** Tendo sido avisado disto, Davide mandou (alguns dos seus homens) ao encontro deles (porque era grande o ultraje que tinham padecido), para lhes dizerem que ficassem em Jericó, até lhes crescer a barba, e que então voltassem.  
@@ -732,7 +732,7 @@
 
 ## Capítulo 20
 
-**1** Ora aconteceu que, tendo decorrido um ano, no tempo em que os reis costumam ir para a guerra, Joab juntou o exército e a flor das tropas, assolou o pais dos Amonitas e pôs cerco a Raba. Davide, porém, ficou em Jerusalém, enquanto Joab bateu Jelaba e a destruiu.  
+**1** Ora aconteceu que, tendo decorrido um ano, no tempo em que os reis costumam ir para a guerra, Joab juntou o exército e a flor das tropas, assolou o país dos Amonitas e pôs cerco a Raba. Davide, porém, ficou em Jerusalém, enquanto Joab bateu Jelaba e a destruiu.  
 **2** Davide tirou a coroa de cima da cabeça de Melcom, e encontrou nela o peso dum talento de ouro e pedras preciosíssimas, de que fez para si um diadema; levou também muitos despojos da cidade.  
 **3** Mandou sair o povo, que havia nela, e empregou-o em serrar, em afiar ferros, em serviços com machados. O mesmo fez em todas as cidades dos Amonitas. (Depois) voltou para Jerusalém com todo o seu povo.  
 **4** Depois disto, travou uma batalha em Gazer contra os Filisteus, durante a qual Sobocai de Husat matou Safai da raça dos Refaim. Os Filisteus ficaram humilhados.  

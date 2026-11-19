@@ -7,7 +7,7 @@
 **3** Voz do que clama no deserto: Preparai o caminho do Senhor, endireitai as suas veredas (Is. 40, 3).  
 **4** Apareceu João Baptista no deserto, pregando o baptismo de penitência, para remissão dos pecados.  
 **5** E ia ter com ele toda a região da Judeia e todos os de Jerusalém, e eram baptizados por ele no rio Jordão, confessando os seus pecados.  
-**6** João andava vestido de pelo de camelo, trazia uma cinta de couro em volta dos rins, alimentava-se de gafanhotos e de mel silvestre. E pregava, dizendo:  
+**6** João andava vestido de pêlo de camelo, trazia uma cinta de couro em volta dos rins, alimentava-se de gafanhotos e de mel silvestre. E pregava, dizendo:  
 **7** "Vem após de mim quem é mais forte do que eu, ao qual eu não sou digno de desatar, prostrado em terra, a correia dos sapatos.  
 **8** Eu tenho-vos baptizado em água, ele, porém, baptizar-vos-á no Espírito Santo."  
 **9** Ora aconteceu naqueles dias que Jesus veio de Nazaré da Galileia, e foi baptizado por João no Jordão.  
@@ -171,11 +171,11 @@
 **7** e clamou em alta voz: "Que tens tu comigo, Jesus, Filho de Deus Altíssimo? Eu te conjuro por Deus que me não atormentes."  
 **8** Porque Jesus dizia-lhe: "Espírito imundo sai desse homem."  
 **9** Depois perguntou-lhe: "Que nome é o teu?" Ele respondeu: "O meu nome é Legião, porque somos muitos."  
-**10** E suplicava-lhe instantemente que o não expulsasse daquele pais.  
+**10** E suplicava-lhe instantemente que o não expulsasse daquele país.  
 **11** Andava ali pastando ao redor do monte uma grande vara de porcos.  
 **12** Os espíritos imundos suplicaram-lhe: "Manda-nos para os porcos, para nos metermos neles."  
 **13** Jesus deu-lhes essa permissão. Então os espíritos imundos saíram e entraram nos porcos, e a vara, que era de cerca de dois mil, precipitou-se por um despinhadeiro no mar, onde se afogaram.  
-**14** Os que andavam apascentando fugiram e foram espalhar a noticia pela cidade e pelos campos. E o povo foi ver o que tinha sucedido.  
+**14** Os que andavam apascentando fugiram e foram espalhar a notícia pela cidade e pelos campos. E o povo foi ver o que tinha sucedido.  
 **15** Foram ter com Jesus, e viram o que tinha sido vexado do demónio sentado, vestido e são do juízo, ele, que tinha estado possesso de uma legião inteira; e tiveram medo.  
 **16** Os que tinham visto contaram-lhes o que tinha acontecido ao endemoninhado e aos porcos.  
 **17** Então começaram a rogar a Jesus que se retirasse do território deles.  

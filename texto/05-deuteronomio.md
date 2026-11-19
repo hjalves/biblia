@@ -20,7 +20,7 @@
 **16** Ao mesmo tempo, dei-lhes esta ordem: Ouvi-os, e julgai seguindo a justiça, quer se trate dum cidadão, quer dum estrangeiro.  
 **17** Nenhuma distinção haverá de pessoas; ouvireis o pequeno como o grande: não tereis aceitação de pessoa alguma, porque o juízo é de Deus. Se alguma coisa vos parecer difícil, referi-ma, e eu ouvirei.  
 **18** (Desta forma) vos ordenei tudo o que devíeis fazer,  
-**19** Tendo partido de Horeb, passamos pelo terrível e grandíssimo deserto que vistes, pelo caminho do monte do Amorreu, conforme o Senhor nosso Deus no-lo tinha mandado. Tendo chegado a Cadesbame,  
+**19** Tendo partido de Horeb, passámos pelo terrível e grandíssimo deserto que vistes, pelo caminho do monte do Amorreu, conforme o Senhor nosso Deus no-lo tinha mandado. Tendo chegado a Cadesbame,  
 **20** eu disse-vos: Chegastes ao monte do Amorreu, que o Senhor nosso Deus nos há-de dar.  
 **21** Olha a terra que o Senhor teu Deus te dá: sobe e toma posse dela, como o Senhor nosso Deus disse a teus pais: não temas, nem te atemorize nada.  
 **22** Então aproximastes-vos todos de mim, e dissestes: Enviemos homens que explorem a terra, e que nos ensinem por que caminho devemos subir, e para que cidades devemos encaminhar-nos.  
@@ -42,7 +42,7 @@
 **38** mas em teu lugar entrará Josué, filho de Nun, teu ministro: exorta-o e anima-o, e ele dividirá por sorte a terra a Israel.  
 **39** As vossas crianças, de quem dissestes que seriam levadas cativas, e os vossos filhos, que hoje (ainda) ignoram a diferença entre o bem e o mal, estes entrarão, a eles darei a terra, e a possuirão.  
 **40** Mas vós voltai para trás, e ide para o deserto pelo caminho do mar Vermelho.  
-**41** Respondestes-me: Nós pecamos contra o Senhor: subiremos e combateremos, como o Senhor nosso Deus mandou. E, quando vós armados marcháveis para o monte,  
+**41** Respondestes-me: Nós pecámos contra o Senhor: subiremos e combateremos, como o Senhor nosso Deus mandou. E, quando vós armados marcháveis para o monte,  
 **42** o Senhor disse-me: Dize-lhes: Não subais nem pelejeis, porque eu não estou convosco, para que não sucumbais diante dos vossos inimigos.  
 **43** Eu falei-vos, e não me ouvistes, mas, opondo-vos ao mandado do Senhor, inchados de soberba, subistes ao monte.  
 **44** Tendo saído então o Amorreu, que habitava sobre os montes, e indo ao vosso encontro, perseguiu-vos como as abelhas costumam perseguir, e retalhou-vos desde Seir até Horma.  
@@ -58,21 +58,21 @@
 **5** Abstende-vos, porém, de os atacar, porque eu não vos datei da terra deles nem quanto pode calcar a planta dum pé, visto eu ter dado a posse do monte Seir a Esaú.  
 **6** Comprar-lhes-eis por dinheiro o alimento que comerdes, e também lhes comprareis a água que tirardes, e que beberdes.  
 **7** O Senhor teu Deus abençoou-te em todas as obras das tuas mãos, ele cuidou da tua viagem, enquanto, caminhaste por este grande deserto. Durante quarenta anos habitou contigo, e não te faltou nada.  
-**8** Depois que passamos as terras dos nossos irmãos, filhos de Esaú, que habitavam em Seir, pelo caminho da planície de Elath e d'e Asiongaber, chegámos ao caminho que conduz ao deserto de Moab.  
+**8** Depois que passámos as terras dos nossos irmãos, filhos de Esaú, que habitavam em Seir, pelo caminho da planície de Elath e d'e Asiongaber, chegámos ao caminho que conduz ao deserto de Moab.  
 **9** Então o Senhor disse-me: Não pelejes contra os Moabitas, e não lhes faças guerra, porque eu não te darei nada da sua terra, visto que dei Ar em possessão aos filhos de Lote.  
 **10** Os Emirs foram os seus primeiros habitantes, povo grande e forte e de tal estatura que se tinham por gigantes, da linhagem dos Enacins.  
 **11** Eram consideradas refaitas, como os Enacins, mas os Moabitas chamam-nos Emins.  
 **12** Em Seir habitaram primeiro os Horreus, mas, expulsos e destruídos estes, habitaram ali os filhos de Esaú, como fez o povo de Israel na terra da sua possessão, que o Senhor lhe deu.  
 **13** Levantando-nos, então, para passar a torrente de Zared, chegámos a ela.  
-**14** Ora o tempo em que caminhamos, desde Caldesbarne até à passagem da torrente de Zared, foi de trinta e oito anos. Entretanto extinguiu-se do campo toda a geração dos homens combatentes, como o Senhor tinha jurado.  
+**14** Ora o tempo em que caminhámos, desde Caldesbarne até à passagem da torrente de Zared, foi de trinta e oito anos. Entretanto extinguiu-se do campo toda a geração dos homens combatentes, como o Senhor tinha jurado.  
 **15** A mão do Senhor foi contra eles, para os fazer perecer do meio do campo.  
 **16** Depois que todos estes combatentes morreram,  
 **17** o Senhor falou, dizendo:  
 **18** Passarás hoje os confins de Moab, a cidade de Ar;  
 **19** chegando às vizinhanças dos filhos de Amon, abstém-te de combater contra eles, nem lhes faças guerra, porque eu não te darei nada da terra dos filhos de Amon, porque a dei em possessão aos filhos de Lote.  
-**20** Este país foi reputado o pais dos gigantes; nele, em outro tempo, habitaram os gigantes, que os Amonitas chamam Zomzomins,  
+**20** Este país foi reputado o país dos gigantes; nele, em outro tempo, habitaram os gigantes, que os Amonitas chamam Zomzomins,  
 **21** povo grande e numeroso da mesma estatura que os Enacins. O Senhor os exterminou, diante dos Amonitas, e fez habitar estes em lugar daqueles.  
-**22** O Senhor fez o mesmo pelos filhos de Esaú, que habitam, em Seir, exterminando os Horreus, e dando àqueles o pais destes, o qual possuem até ao presente.  
+**22** O Senhor fez o mesmo pelos filhos de Esaú, que habitam, em Seir, exterminando os Horreus, e dando àqueles o país destes, o qual possuem até ao presente.  
 **23** Da mesma sorte os Heveus, que habitavam desde Haserim até Gaza, foram expulsos pelos Caftorins, os quais, tendo saído Caftor, os destruíram, e se estabeleceram no seu lugar.  
 **24** Levantai-vos e passai a torrente do Amon. Entrego nas tuas mãos a Seon, rei de Heseblon, Amorreu, com a sua terra: Peleja contra ele.  
 **25** Hoje começarei a meter o terror e o medo das tuas almas aos povos, que habitam debaixo de todo o céu, para que, ao ouvir o teu nome, tremam e sintam angústia, por causa de ti.  
@@ -87,7 +87,7 @@
 **34** Naquele tempo tomámos-lhe todas as suas cidades, mortos os seus habitantes, homens e mulheres e meninos, e nelas não deixámos nada.  
 **35** excepto os animais, que tocaram aos saqueadores, e os despojos das cidades, que tomámos.  
 **36** Desde Aroer, que está sobre a margem da torrente do Arnon, cidade situada no vale, até Galaad, não houve aldeia nem cidade, que escapasse às nossas mãos: todas no-las entregou o Senhor nosso Deus,  
-**37** excepto a terra dos filhos de Amon, a que não chegamos, e todas as regiões adjacentes à torrente de Jeboc, e as cidades das montanhas, e todos os lugares, que o Senhor nosso Deus nos proibiu (que tomássemos).  
+**37** excepto a terra dos filhos de Amon, a que não chegámos, e todas as regiões adjacentes à torrente de Jeboc, e as cidades das montanhas, e todos os lugares, que o Senhor nosso Deus nos proibiu (que tomássemos).  
 
 ## Capítulo 3
 
@@ -98,7 +98,7 @@
 **5** Todas as cidades estavam fortificadas com muros altíssimos, com portas e trancas. Além destas, (conquistámos) inumeráveis povoações que não tinham muros.  
 **6** Fizemos devastação, como tínhamos feito a Seon, rei de Heisebon, destruindo as cidades, os homens, as mulheres e os meninos,  
 **7** mas trazendo os gados e os despojos das cidades.  
-**8** Tomamos então o país dos dois reis Amorreus, que estavam na banda dalém do Jordão, desde a torrente do Amon até o monte Hermon,  
+**8** Tomámos então o país dos dois reis Amorreus, que estavam na banda dalém do Jordão, desde a torrente do Amon até o monte Hermon,  
 **9** o qual os Sidónios chamam Sartion, e os Amorreus Sanir;  
 **10** (conquistámos) todas as cidades, que estão situadas na campina e toda a terra de Galaad e de Basan até Selca e Edrai, cidades do reino de Og, em Basan.  
 **11** Og, rei de Basan, era o único que tinha ficado da estirpe dos gigantes. Em Rabath, (cidade) dos filhos de Amon, mostra-se o seu leito de ferro, que tem nove côvados de comprido, e quatro de largo, pela medida de um côvado de mão de homem.  
@@ -887,7 +887,7 @@
 **13** a fim de te escolher como seu povo, e ele próprio ser o teu Deus, como te disse, e como jurou a teus pais, Abraão, Isaac e Jacob.  
 **14** Não só convosco faço esta aliança, e confirmo estes juramentos,  
 **15** faço-a com todos os presentes e ausentes.  
-**16** Vós sabeis de que modo habitamos na terra do Egipto, como passamos pelo meio das nações, como, ao passá-las,  
+**16** Vós sabeis de que modo habitámos na terra do Egipto, como passámos pelo meio das nações, como, ao passá-las,  
 **17** vistes as suas abominações e torpezas isto é, os seus ídolos, o pau e a pedra, a prata e o ouro, que elas adoravam.  
 **18** Não haja entre vós homem ou mulher, família ou tribo, cujo coração esteja apartado do Senhor nosso Deus, de modo que vá servir os deuses daquelas nações; não haja entre vós raiz que produza fel e amargura.  
 **19** Que ninguém, ao ouvir as palavras deste juramento, se lisonjeie no seu coração, dizendo: Eu terei paz, embora ande na depravação do meu coração, de sorte que o que está regado pereça com o que está seco.  

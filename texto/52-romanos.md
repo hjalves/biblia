@@ -119,7 +119,7 @@
 **14** Com efeito, se os (que vêm) da lei é que são os (únicos) herdeiros, é inutil a fé, e sem efeito a promessa.  
 **15** Porque a lei produz a ira. Onde, pois, não há lei, não há trangressão.  
 **16** Por isso da fé é (que vem) a herança, a fim de que (esta) seja gratuita e certa para toda a posteridade, não sòmente para o que é da lei, mas também para o que é da fé de Abraão, que é pai de todos nós,  
-**17** segundo está escrito: Eu te constitui pai de muitas gentes (Gn. 17, 6). Ele é pai, diante de Deus, em quem acreditou, o qual dá vida aos mortos e chama à existência o que não existe.  
+**17** segundo está escrito: Eu te constituí pai de muitas gentes (Gn. 17, 6). Ele é pai, diante de Deus, em quem acreditou, o qual dá vida aos mortos e chama à existência o que não existe.  
 **18** Esperando contra toda a esperança, teve fé e tornou-se, por isso, pai de muitas gentes, segundo o que lhe foi dito: Assim será a tua descendência (Gn. 15, 5).  
 **19** E, sem vacilar na fé, não considerou nem o seu corpo amortecido, sendo já de quase cem anos, nem o seio de Sara, já sem vida (para conceber).  
 **20** Não hesitou nem teve falta de fé, perante a promessa de Deus, mas firmou-se na fé, dando glória a Deus,  

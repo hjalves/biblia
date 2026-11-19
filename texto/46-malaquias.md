@@ -7,8 +7,8 @@
 **3** e aborreci Esaú, reduzi os seus montes a uma solidão e deixei a sua herança aos chacais do deserto.  
 **4** Se a Idumeia disser: Fomos destruídos, mas voltaremos para edificar o que foi destruído — isto diz o Senhor dos exércitos: Eles edificarão, e eu destruirei; serão chamados país de impiedade, povo contra o qual se irou o Senhor para sempre.  
 **5** Os vossos olhos o verão e vós direis: Glorificado seja o Senhor, mesmo para além da terra de Israel.  
-**6** O filho honra seu pai, e o servo o seu senhor. Se eu, pois, sou vosso pai, onde está a minha honra? E se eu sou vosso Senhor, onde está o temor que se me deve? — diz o Senhor dos exércitos. A vós, sacerdotes, (é isto dirigido, a vós) que desprezais o meu nome e que dizeis; Em que desprezamos o teu nome?  
-**7** (Nisto:) Ofereceis sobre o meu altar um pão imundo. Também dizeis: Em que te profanamos? — Nisso que dizeis: A mesa do Senhor é desprezível.  
+**6** O filho honra seu pai, e o servo o seu senhor. Se eu, pois, sou vosso pai, onde está a minha honra? E se eu sou vosso Senhor, onde está o temor que se me deve? — diz o Senhor dos exércitos. A vós, sacerdotes, (é isto dirigido, a vós) que desprezais o meu nome e que dizeis; Em que desprezámos o teu nome?  
+**7** (Nisto:) Ofereceis sobre o meu altar um pão imundo. Também dizeis: Em que te profanámos? — Nisso que dizeis: A mesa do Senhor é desprezível.  
 **8** Se ofereceis um (animal) cego para ser imolado, não é isto mau? E se ofereceis um coxo e doente, não é isto mau? Oferece (isso) ao teu governador e verás se lhe agradará, se te receberá com agrado, diz o Senhor dos exércitos.  
 **9** E agora rogais a Deus que se compadeça de vós! Tudo isto foi feito por vossas mãos. (Nestas circunstâncias) receber-vos-á favoràvelmente?— diz o Senhor dos exércitos.  
 **10** Quem há entre vós que feche as portas, para que se não acenda o lume inutilmente sobre o meu altar? O meu afecto não está em vós, diz o Senhor dos exércitos, nem aceitarei oferenda alguma da vossa mão.  

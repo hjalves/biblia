@@ -307,7 +307,7 @@
 **1** O juiz sábio fará justiça ao seu povo, e o governo do homem sensato será estável.  
 **2** Qual o juiz do povo, tais os seus ministros; qual o governador da cidade, tais os seus habitantes.  
 **3** O rei pouco sensato perderá o seu povo, e as cidades povoar-se-ão pelo bom senso dos governantes.  
-**4** O domínio sobre um pais está na mão de Deus, e ele é que, a seu tempo, suscitará um governador útil.  
+**4** O domínio sobre um país está na mão de Deus, e ele é que, a seu tempo, suscitará um governador útil.  
 **5** A prosperidade do homem está na mão de Deus, e é ele que põe o sinal da sua honra sobre a fronte do escriba.  
 **6** Esquece-te de todas as injúrias que recebeste do teu próximo, e não faças nada por via de violência.  
 **7** A soberba é aborrecida por Deus e pelos homens, e toda a iniquidade das nações é execrável.  
@@ -906,8 +906,8 @@
 **10** As aves chegam-se para os seus semelhantes; assim a verdade volta para aqueles que a praticam.  
 **11** O leão está sempre à espreita da presa; assim os pecados armam laços aos que praticam a iniquidade.  
 **12** O homem santo persevera na sabedoria como o Sol; o insensato, porém, muda como a lua.  
-**13** No meio dos insensatos guarda a palavra para outro tempo; (evita-os e) permanece, antes, de continuo entre os que pensam (bem).  
-**14** A conversação dos pecadores é odiosa, e o seu riso é nas delicias do pecado.  
+**13** No meio dos insensatos guarda a palavra para outro tempo; (evita-os e) permanece, antes, de contínuo entre os que pensam (bem).  
+**14** A conversação dos pecadores é odiosa, e o seu riso é nas delícias do pecado.  
 **15** O discurso do que muito jura fará arripiar os cabelos da cabeça, e a sua irreverência fará tapar os ouvidos.  
 **16** Na bulha dos soberbos há efusão de sangue; é penoso ouvir as suas maldições.  
 **17** Aquele que descobre os segredos do amigo, perde o crédito e não encontrará mais um amigo a seu gosto.  
@@ -971,7 +971,7 @@
 **6** porém, chegando o prazo de pagar a dívida, pedem espera, dizem palavras de enfado e de murmuração, e desculpam-se com o tempo (dizendo que a rida está difícil).  
 **7** Ainda que possam pagar, porão dificuldades, depois darão dificilmente metade do capital, e dirão que se deve considerar isso como uma coisa achada.  
 **8** Se não (podem pagar), privam o credor do seu dinheiro, e, sem causa alguma, o ficarão tendo por inimigo;  
-**9** pagar-lhe-ão com injúrias e maldições, e, à mercê e beneficio recebidos, corresponderão com ultrajes.  
+**9** pagar-lhe-ão com injúrias e maldições, e, à mercê e benefício recebidos, corresponderão com ultrajes.  
 **10** Muitos deixam de emprestar, não por desumanidade, mas porque temem ser defraudados sem o merecerem.  
 **11** Apesar de tudo isto, sê magnânimo com o miserável e não o faças esperar pela esmola.  
 **12** Por causa do mandamento acode ao pobre, e não o deixes ir com as mãos vazias na sua indigência.  
@@ -1122,7 +1122,7 @@
 **13** Como o barro está nas mãos do oleiro, para lhe dar a forma e disposição que deseja,  
 **14** e para o empregar nos usos que lhe aprouver, assim o homem se encontra na mão daquele que o criou, e que lhe dará segundo o seu juízo.  
 **15** Contra o mal está o bem, e contra a morte a vida; assim também contra o homem justo está o pecador. Considera assim todas as obras do Altíssimo; achá-las-ás duas a duas, e uma oposta à outra.  
-**16** E eu fui o ultimo que despertei, e fui como o que ajunta os bagos atrás dos vindimadores.  
+**16** E eu fui o último que despertei, e fui como o que ajunta os bagos atrás dos vindimadores.  
 **17** Eu também esperei na bênção de Deus, e enchi o lagar como o que vindima.  
 **18** Olhai que eu não trabalhei só para mim, mas para todos os que buscam a instrução.  
 **19** Ouvi-me, ó grandes e todos os povos, e vós, os que presidis às assembleias, aplicai os ouvidos.  
@@ -1284,7 +1284,7 @@
 **8** (Pela sua acção) a paz de Deus estende-se sobre a face da terra.  
 **9** Filho, não te descuides na tua enfermidade, mas faze oração ao Senhor, e ele te curará.  
 **10** Aparta-te do pecado, endireita as tuas mãos, purifica o teu coração de todo o delito.  
-**11** Oferece um (incenso de) cheiro suave, uma lembrança de flor de farinha imola vitimas pingues; (depois disto) dá lugar ao médico,  
+**11** Oferece um (incenso de) cheiro suave, uma lembrança de flor de farinha imola vítimas pingues; (depois disto) dá lugar ao médico,  
 **12** pois para isso é que o Senhor o estabeleceu. E não se aparte de ti, porque te é necessária a sua assistência.  
 **13** Virá tempo em que cairás nas mãos deles,  
 **14** e eles mesmos rogarão ao Senhor que envie por meio deles o alívio e a saúde, em atenção à sua vida recta.  
@@ -1363,7 +1363,7 @@
 **1** Grande preocupação foi imposta a todos os homens, pesado jugo carrega sobre os filhos de Adão, desde o dia em que eles saem do ventre de sua mãe, até ao da sua sepultura (em que eles entram) no seio da mãe comum de todos;  
 **2** Os seus pensamentos, os temores do coração, a apreensão do que esperam e o dia em que tudo acaba, (perturbam-nos a todos),  
 **3** desde o que está sentado sobre um trono de glória, até àquele que jaz abatido na terra e na cinza;  
-**4** desde aquele que está vestido de purpura e traz coroa, até ao que se cobre de pano grosseiro. Furor, inveja, inquietação, perplexidade, temor da morte, rancor obstinado e contendas (tudo isto faz sofrer o homem).  
+**4** desde aquele que está vestido de púrpura e traz coroa, até ao que se cobre de pano grosseiro. Furor, inveja, inquietação, perplexidade, temor da morte, rancor obstinado e contendas (tudo isto faz sofrer o homem).  
 **5** Até no tempo em que repousa na cama, o sono da noite lhe perturba as ideias.  
 **6** Breve ou quase nenhum é o seu repouso, e ainda no seu mesmo sono, como sentinela que está de guarda,  
 **7** é perturbado pelas visões do seu coração, como quem foge no dia da batalha; quando se imagina salvo, desperta, e admira-se do seu vão temor.  

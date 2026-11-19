@@ -395,7 +395,7 @@
 **5** Até a cerva, depois de ter dado à luz no campo abandona a cria, por falta de erva.  
 **6** Os asnos selvagens, postos sobre as alturas, aspiram o ar, como chacais; por falta de verdura, desfalecem seus olhos.  
 **7** Se as nossas iniquidades dão testemunho contra nós, tu, Senhor, usa connosco de clemência, por amor do teu nome. Sim muitas são as nossas rebeldias, temos pecado contra ti.  
-**8** Ó esperança de Israel, seu salvador no tempo da tribulação, por que hás-de ser nesta (tua) terra como um estranho, como um viandante que sòmente para, a fim de passar a noite?  
+**8** Ó esperança de Israel, seu salvador no tempo da tribulação, por que hás-de ser nesta (tua) terra como um estranho, como um viandante que sòmente pára, a fim de passar a noite?  
 **9** Por que hás-de (ser para este povo) como um homem conturbado, ou como um homem forte que não pode salvar? Mas tu, Senhor, estás entre nós, e o teu nome é invocado sobre nós. Não nos desampares.  
 **10** Assim fala o Senhor deste povo: Gostam de correr por aqui e por ali, não deixam os seus pés em repouso. O Senhor não gosta deles; agora se vai lembrar das suas maldades e castigar os seus pecados.  
 **11** E o Senhor disse-me: Não me peças em favor deste povo.  
@@ -1211,7 +1211,7 @@
 **15** Então todos os homens que sabiam que suas mulheres sacrificavam a deuses estranhos, e todas as mulheres, de que havia ali grande multidão, e todo o povo que morava na terra do Egipto, em Faturés, responderam a Jeremias:  
 **16** Não receberemos de ti a palavra que disseste em nome do Senhor.  
 **17** Antes cumpriremos todas as promessas que fizemos de sacrificar à Rainha do céu e de lhe oferecer libações, como fazíamos nós e nossos pais, nossos reis e nossos chefes, na cidades de Judá e nas ruas de Jerusalém. Então tínhamos fartura de pão, éramos felizes, não sabíamos o que era a desgraça.  
-**18** Porém, desde aquele tempo em que cessamos de sacrificar à Rainha do céu e de lhe oferecer libações, estamos necessitados de tudo e temos sido consumidos pela espada e pela fome.  
+**18** Porém, desde aquele tempo em que cessámos de sacrificar à Rainha do céu e de lhe oferecer libações, estamos necessitados de tudo e temos sido consumidos pela espada e pela fome.  
 **19** Se sacrificávamos à Rainha do céu e lhe oferecíamos libações, porventura fazíamos-lhe nós as tortas para a honrar e oferecíamos-lhe as libações sem o consentimento dos nossos maridos?  
 **20** Então Jeremias falou a todo o povo, aos maridos, às mulheres, a todos os que lhe tinham dado esta resposta, dizendo:  
 **21** Não se lembrou o Senhor dos (infames) sacrifícios que oferecestes nas cidades de Judá e nas ruas de Jerusalém, vós e vossos pais, vossos reis e vossos chefes e o povo da terra, não chegou isto ao seu coração?  
@@ -1294,7 +1294,7 @@
 **16** Está iminente a ruína de Moab; o seu mal vem correndo com grande velocidade.  
 **17** Consolai-o todos os que estais em volta dele; todos os que sabeis o seu nome, dizei: Como se fez em pedaços um ceptro tão forte (de Moab), um ceptro tão glorioso?  
 **18** Desce da tua glória, e senta-te sobre a terra árida, ó filha moradora de Dibon, porque o devastador de Moab subiu contra ti, destruiu as tuas fortificações.  
-**19** Para no caminho e olha, ó habitante de Aroer; pergunta ao que foge e ao que escapou: Que aconteceu?  
+**19** Pára no caminho e olha, ó habitante de Aroer; pergunta ao que foge e ao que escapou: Que aconteceu?  
 **20** Confundido está Moab porque ficou vencido. Gemei e gritai, publicai em Arnon que Moab foi destruído.  
 **21** O castigo (de Deus) veio sobre a terra da planície, sobre Helon, sobre Jasa, sobre Mefaat,  
 **22** sobre Dibon, sobre Nebo, sobre Beth-Deblataim,  
@@ -1487,7 +1487,7 @@
 **1** Vinte e um anos tinha Sedecias, quando começou a reinar, e reinou onze anos em Jerusalém. Sua mãe chamava-se Amital, filha de Jeremias, de Lobna.  
 **2** Ele fez o mal aos olhos do Senhor, conforme tudo o que tinha feito Joaquim.  
 **3** Provocaram o furor do Senhor, em Jerusalém e em Judá, até que os rejeitou da sua face. Sedecias revoltou-se contra o rei de Babilónia.  
-**4** No ano nono do seu reinado, no décimo dia do décimo mês, aconteceu isto: Marchou Nabucodonosor, deportado, rei de Babilónia, com todo o seu exército, contra Jerusalém. Puseram-lhe sitio e levantaram contra ela fortificações em seu circuito.  
+**4** No ano nono do seu reinado, no décimo dia do décimo mês, aconteceu isto: Marchou Nabucodonosor, deportado, rei de Babilónia, com todo o seu exército, contra Jerusalém. Puseram-lhe sítio e levantaram contra ela fortificações em seu circuito.  
 **5** A cidade esteve cercada até ao ano undécimo do reinado de Sedecias.  
 **6** Mas, no mês quarto, aos nove do mês, apoderou-se a fome da cidade: não havia víveres para o povo da terra.  
 **7** Então abriu-se brecha na cidade, e todos os seus homens de armas fugiram da cidade de noite, pelo caminho da porta que está entre os dois muros, perto do jardim do rei, - embora os Caldeus cercassem a cidade por todos os lados - e foram-se pelo caminho que vai ter às planuras (desertas) do Jordão.  

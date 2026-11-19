@@ -312,7 +312,7 @@
 **8** Curai os enfermos, ressuscitai os mortos, limpai os leprosos, expeli os demónios. Dai de graça o que de graça recebestes.  
 **9** Não queirais trazer nas vossas cinturas nem ouro, nem prata, nem dinheiro,  
 **10** nem alforje para o caminho, nem duas túnicas, nem sandálias, nem bastão; porque o operário tem direito ao seu alimento.  
-**11** Em qualquer cidade ou aldeia, em que entrardes, informai-vos de quem há nela digno de vos receber, e ficai ai até que vos retireis.  
+**11** Em qualquer cidade ou aldeia, em que entrardes, informai-vos de quem há nela digno de vos receber, e ficai aí até que vos retireis.  
 **12** Ao entrardes na casa, saudai-a, dizendo: A paz seja nesta casa.  
 **13** Se aquela casa for digna, descerá sobre ela a vossa paz; se não for digna, a vossa paz tornará para vós.  
 **14** Se não vos receberem nem ouvirem as vossas palavras, ao sair para fora daquela casa ou cidade, sacudi o pó dos vossos pés.  

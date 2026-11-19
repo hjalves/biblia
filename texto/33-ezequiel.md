@@ -561,7 +561,7 @@
 **18** Foi-me dirigida a palavra do Senhor, nestes termos:  
 **19** Tu, filho de homem, traça dois caminhos por onde a espada do rei de Babilónia pode vir; ambos sairão dá mesma terra; no princípio de cada caminho que dá para uma cidade, põe um sinal.  
 **20** Traçarás um caminho, por onde esta espada vá atacar Rabat (capital) dos filhos de Amon, e outro por onde vá para Judá, atacar a fortaleza de Jerusalém.  
-**21** Porque o rei de Babilónia parou na encruzilhada, no princípio dos dois caminhos, procurando adivinhar por meio da mistura das setas, pela consulta aos ídolos domésticos e pelo exame do fígado (das vitimas).  
+**21** Porque o rei de Babilónia parou na encruzilhada, no princípio dos dois caminhos, procurando adivinhar por meio da mistura das setas, pela consulta aos ídolos domésticos e pelo exame do fígado (das vítimas).  
 **22** Caiu a sorte sobre Jerusalém, à direita, para dispor os aríetes, para intimar a mortandade, para levantar gritos de guerra, para pôr aríetes contra as portas, para erguer plataformas e edificar fortes.  
 **23** Aos olhos deles isso são vãos presságios, pois têm a seu favor juramentos feitos, mas ele lembrar-lhes-á a sua iniquidade e cativá-los-á.  
 **24** Portanto isto diz o Senhor Deus: Porque (me) haveis recordado a vossa iniquidade, manifestando as vossas prevaricações, patenteando os vossos pecados em todas as vossas acções, porque, digo trouxestes isso à memória, sereis castigados.  
@@ -632,7 +632,7 @@
 **20** Ardeu em amor por luxuriosos, cujas carnes são como as carnes dos jumentos, e cujo ardor como o ardor dos garanhões.  
 **21** Renovaste as maldades da tua mocidade, quando os Egípcios apertavam os teus peitos, tocavam o teu seio juvenil.  
 **22** Por isso, ó Ooliba, isto diz o Senhor Deus: Eis que vou suscitar contra ti os teus amantes, de que te aborreceste, e congregá-los-ei contra ti de todas as partes:  
-**23** os filhos de Babilónia, todos os Caldeus, os de Pecod, de Soa e de Coa, e, com eles, todos os Assirios; jovens de belo parecer, todos os governadores e chefes, capitães e cavaleiros famosos.  
+**23** os filhos de Babilónia, todos os Caldeus, os de Pecod, de Soa e de Coa, e, com eles, todos os Assírios; jovens de belo parecer, todos os governadores e chefes, capitães e cavaleiros famosos.  
 **24** Virão contra ti apetrechados de carros e de rodas, com uma multidão de povos; eles se armarão de todas as partes contra ti de couraças, de escudos e de capacetes. Dar-lhes-ei o poder de te julgar, e eles te julgarão segundo as suas leis.  
 **25** Desafogarei contra ti o meu zelo; eles tratar-te-ão com furor, cortar-te-ão (ignominiosamente) o nariz e as orelhas; o que restar de ti, retalharão à espada; cativarão os teus filhos e as tuas filhas, e o que restar de ti será devorado pelo fogo.  
 **26** Eles te despojarão dos teus vestidos, e te roubarão os adornos.  
@@ -700,7 +700,7 @@
 **6** Isto diz o Senhor Deus; Porque bateste palmas e saltaste de gozo, porque sentiste uma alegria desdenhosa pela (infelicidade da) terra de Israel,  
 **7** eis que vou estender sobre ti a minha mão, entregar-te ao saque das gentes, apagar-te do número dos povos, exterminar-te de entre as terras, aniquilar-te. Assim saberás que eu sou o Senhor.  
 **8** Isto diz O Senhor Deus; Porque Moab e Seir disseram: A casa de Judá é como todas as outras nações (nenhum privilégio tem)  
-**9** por isso eis que vou abrir o flanco de Moab, tirando-lhe as cidades, todas as suas cidades, desde as fronteiras, as mais formosas do pais, Betiesimot, Beelmeon e Cariataim.  
+**9** por isso eis que vou abrir o flanco de Moab, tirando-lhe as cidades, todas as suas cidades, desde as fronteiras, as mais formosas do país, Betiesimot, Beelmeon e Cariataim.  
 **10** Darei a posse disso, assim como da terra dos Amonitas, aos filhos do oriente, a fim de que não haja mais memória dos filhos de Amon entre as nações.  
 **11** Sobre Moab exercerei assim os meus juízos, e eles saberão que eu sou o Senhor.  
 **12** Isto diz o Senhor Deus: Porque a Idumeia exerceu vingança contra a casa de Judá, e pecou (por isso) por se vingar,  
@@ -915,7 +915,7 @@
 
 **1** Foi-me dirigida a palavra do Senhor nestes termos:  
 **2** Filho de homem, fala aos filhos do teu povo. Dir-lhes-ás; Quando eu fizer cair a espada sobre um país, se o povo desse país tomar um homem do seu seio e o constituir sentinela para vigiar sobre eles,  
-**3** e esta sentinela, vendo vir a espada sobre o pais, tocar a trombeta e avisar disto o povo,  
+**3** e esta sentinela, vendo vir a espada sobre o país, tocar a trombeta e avisar disto o povo,  
 **4** se aquele, que ouvir o som da trombeta, não tomar em conta o aviso, de forma que sobrevenha a espada e o mate, o seu sangue cairá sobre a sua cabeça:  
 **5** (porque) ouviu o som da trombeta e não tomou em conta o aviso, o seu sangue cairá sobre a sua cabeça. Quanto ao que tomou em conta o aviso, esse salvará a sua vida.  
 **6** Mas, se a sentinela vir que vem a espada e não tocar a trombeta, de forma que o povo não seja avisado, se vier a espada e tirar a vida a um deles, este tal perecerá devido à sua iniquidade, mas eu pedirei contas do seu sangue à sentinela.  
@@ -1084,7 +1084,7 @@
 **9** Avançando, irás a ela como uma tempestade e como uma nuvem, para cobrir a terra, tu e todos os teus esquadrões, muitos povos contigo.  
 **10** Isto diz o Senhor Deus; Naquele dia formarás em teu coração altivos projectos, forjarás planos malignos.  
 **11** Dirás: Irei contra uma terra que está sem muros, atacarei homens em paz, que habitam com segurança; todos eles têm habitações sem muros, sem ferrolhos nem portas.  
-**12** (Tu irás) para saquear, tomar despojos, para descarregar a tua mão sobre ruínas (agora) habitadas, sobre um povo que foi congregado do meio das nações, o qual multiplica rebanhos e bens, e habita (o pais que era considerado como) o centro (das nações) da terra.  
+**12** (Tu irás) para saquear, tomar despojos, para descarregar a tua mão sobre ruínas (agora) habitadas, sobre um povo que foi congregado do meio das nações, o qual multiplica rebanhos e bens, e habita (o país que era considerado como) o centro (das nações) da terra.  
 **13** Sabá, Dedan, os negociantes de Tarsis e todos os seus leões (ou príncipes) dir-te-ão: Porventura vens fazer pilhagem? Juntaste essa tua multidão para saquear, para levar prata e ouro, para tirar rebanhos e bens, para tomar um enorme despojo?  
 **14** Por isso tu, filho de homem, profetiza, dize a Gog: Assim fala o Senhor Deus: Porventura não saberás bem o dia em que o meu povo de Israel viverá com toda a segurança?  
 **15** Virás então do teu país, lá dos confins do aquilão, tu e muitos povos contigo, montados todos a cavalo, multidão imensa, exército poderoso.  
@@ -1169,9 +1169,9 @@
 **36** (Mediu também) as suas câmaras, as suas pilastras e o seu vestíbulo, com janelas em roda; (as medidas eram) cinquenta côvados de comprido e vinte e cinco côvados de largo.  
 **37** O seu vestíbulo olhava para o átrio exterior; nas suas pilastras havia palmas, dum lado e dó outro, e uma escada de oito degraus.  
 **38** Havia uma câmara, cuja porta ficava perto das pilastras dos pórticos; era lá que lavavam os holocaustos.  
-**39** No vestíbulo do pórtico havia duas mesas dum lado, e duas nelas do outro, para nelas se imolarem (as vitimas para) os holocaustos, pelo pecado e pelo delito.  
+**39** No vestíbulo do pórtico havia duas mesas dum lado, e duas nelas do outro, para nelas se imolarem (as vítimas para) os holocaustos, pelo pecado e pelo delito.  
 **40** No lado de fora do vestíbulo, á entrada setentrional do pórtico, havia duas mesas, e do outro lado do vestíbulo do pórtico havia também duas mesas;  
-**41** assim havia quatro mesas dum lado e quatro mesas do outro, ao todo oito mesas, sobre as quais imolavam (as vitimas).  
+**41** assim havia quatro mesas dum lado e quatro mesas do outro, ao todo oito mesas, sobre as quais imolavam (as vítimas).  
 **42** Além disso, havia mais quatro mesas para o holocausto, feitas de pedras de silharia, de côvado e meio de comprido, de côvado e meio de largo, e dum côvado de altura, para porem sobre elas os instrumentos que se empregavam na imolação das vítimas dos holocaustos e sacrifícios.  
 **43** Tinham umas bordas dum palmo, dispostas interiormente, em toda a roda; sobre as mesas punham-se as carnes dos sacrifícios.  
 **44** Fora do pórtico interior, estavam as câmaras dos cantores, no átrio interior, uma ao lado do pórtico setentrional, voltada para o sul, outra ao lado do pórtico oriental, voltada para o norte.  
@@ -1249,7 +1249,7 @@
 **12** Tal é a lei (ou norma) que se deve guardar na edificação da casa: Sobre o cume do monte, todo o espaço em roda é santíssimo. Tal é, pois, a lei da casa.  
 **13** Eis as medidas do altar, em côvados (extraordinários que têm a medida) de um côvado (vulgar) e um palmo: a base era dum côvado de altura e dum côvado de largura; o seu rebordo, por todo o circuito, era de um palmo. Eis a altura do altar:  
 **14** desde a base que estava na terra até ao primeiro rebordo havia dois côvados (de altura), e um côvado de largura; e desde o rebordo mais pequeno até ao maior havia quatro côvados, e a sua largura era dum côvado.  
-**15** A parte (do altar) reservada a cremação (das vitimas) tinha quatro côvados; daí para cima levantavam-se quatro hastes.  
+**15** A parte (do altar) reservada a cremação (das vítimas) tinha quatro côvados; daí para cima levantavam-se quatro hastes.  
 **16** A parte reservada à cremação tinha doze côvados de comprido e doze côvados de largo, em quadrado.  
 **17** E a base era de catorze côvados de comprido e de catorze côvados de largo. O rebordo em roda dele era de meio côvado, a base era dum côvado em roda; os seus degraus estavam voltados para o oriente.  
 **18** (O meu guia) disse-me: Filho de homem, assim fala o senhor Deus: Estas são as cerimónias que se devem observar a respeito do altar, quando for edificado, para que sobre ele se ofereça o holocausto e se derrame o sangue.  
@@ -1350,7 +1350,7 @@
 **21** Depois fez-me sair para o átrio exterior e levou-me à roda pelos quatro cantos do átrio; em cada um dos quatro cantos deste átrio havia um recinto.  
 **22** Estes recintos pequenos, assim dispostos pelos quatro cantos do átrio, tinham quarenta côvados de comprido e trinta de largo; todos os quatro tinham a mesma medida.  
 **23** Uma parede ao redor cercava estes quatro pequenos recintos; viam-se também cozinhas edificadas ao fundo da parede, em toda a volta.  
-**24** E disse-me: Estas são as cozinhas nas quais os ministros da casa do Senhor cozerão as vitimas oferecidas pelo povo.  
+**24** E disse-me: Estas são as cozinhas nas quais os ministros da casa do Senhor cozerão as vítimas oferecidas pelo povo.  
 
 ## Capítulo 47
 

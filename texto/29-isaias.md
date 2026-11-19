@@ -167,7 +167,7 @@
 **17** O Senhor (por intervenção do rei dos Assírios) fará vir sobre ti, sobre o teu povo e sobre a casa de teu pai, dias tais quais não foram vistos desde que Efraim se separou de Judá.  
 **18** Acontecerá, naqueles dias, que o Senhor assobiará à mosca que está no extremo dos rios do Egipto, e à abelha que está na terra da Assíria.  
 **19** Elas virão e pousarão todas nos vales e torrentes, nas cavernas dos rochedos, em todos os matos e em todas as pastagens.  
-**20** Naquele dia o Senhor, por meio duma navalha alugada na banda de além do rio (Eufrates), por intervenção do rei dos Assírios, rapará a cabeça, o pelo das pernas e a barba toda.  
+**20** Naquele dia o Senhor, por meio duma navalha alugada na banda de além do rio (Eufrates), por intervenção do rei dos Assírios, rapará a cabeça, o pêlo das pernas e a barba toda.  
 **21** Acontecerá também naquele dia que um homem criará uma vaca e duas ovelhas,  
 **22** e, pela abundância do leite, sustentar-se-á de coalhada, porque todo aquele que tiver ficado no meio da terra, comerá coalhada e mel.  
 **23** Acontecerá naquele dia que todo o lugar onde houver mil vides no valor de mil moedas de prata, se cobrirá de espinhos e abrolhos.  
@@ -1334,7 +1334,7 @@
 **10** Andamos como cegos apalpando as paredes; como se não tivéssemos olhos, vamos pelo tacto; tropeçamos em pleno meio-dia como (se estivéssemos) no crepúsculo; mergulhamos na escuridão como mortos.  
 **11** Todos rugimos como ursos e gememos como pombas; esperamos a justiça, e não aparece; a salvação, e ela está longe de nós.  
 **12** Porque as nossas iniquidades (ó Senhor) multiplicaram-se diante de ti, e os nossos pecados dão testemunho contra nós; sim, os nossos crimes nos são presentes, e conhecemos as nossas iniquidades.  
-**13** Revoltamo-nos contra o Senhor e renegámo-lo, voltamos as costas ao nosso Deus, proferimos a calúnia e a violência; concebemos e fizemos sair do nosso coração palavras de mentira.  
+**13** Revoltamo-nos contra o Senhor e renegámo-lo, voltámos as costas ao nosso Deus, proferimos a calúnia e a violência; concebemos e fizemos sair do nosso coração palavras de mentira.  
 **14** Retirou-se o direito, está longe a justiça, a verdade tropeça na praça pública, e não pode ali entrar a rectidão:  
 **15** a verdade desapareceu, e o que se retira do mal é despojado. O Senhor viu isto, e desagradou aos seus olhos que já não houvesse justiça.  
 **16** Viu que não havia homem (de bem), e ficou admirado de não haver quem interviesse (em favor de Israel). Então o seu braço o auxiliou e a sua justiça o susteve.  
@@ -1455,7 +1455,7 @@
 **16** Todo o que quiser ser abençoado sobre a terra, quererá ser abençoado pelo Deus da verdade, e o que jurar sobre a terra, jurará pelo Deus da verdade, porque foram postas em esquecimento as antigas angústias, desapareceram dos meus olhos.  
 **17** Porque vou criar novos céus e uma nova terra, e não persistirão na memória as coisas passadas, não voltarão mais ao espírito.  
 **18** Antes folgareis e exultareis para sempre naquelas coisas que vou criar porque vou fazer de Jerusalém uma cidade de júbilo, e do seu povo, um povo de alegria.  
-**19** Terei as minhas delícias em Jerusalém, e a minha alegria no meu povo; e não se ouvirá mais, ai, voz de choro nem voz de lamento.  
+**19** Terei as minhas delícias em Jerusalém, e a minha alegria no meu povo; e não se ouvirá mais, aí, voz de choro nem voz de lamento.  
 **20** Não haverá ali mais menino que viva poucos dias; nem velho que não complete os seus dias; será ainda novo o que morrer aos cem anos, e o pecador sòmente aos cem anos será amaldiçoado.  
 **21** Edificarão casas e habitarão nelas; plantarão vinhas e comerão o seu fruto.  
 **22** Não edificarão casas para outrem as habitar, nem plantarão para outrem comer (o fruto). Os dias do meu povo serão como os dias das árvores (que duram muito), e os meus eleitos usufruirão das obras das suas mãos.  

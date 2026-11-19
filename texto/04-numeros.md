@@ -253,7 +253,7 @@
 **15** e também um cesto de pães ázimos, borrifados com azeite, e tortas sem fermento untadas de azeite, cada coisa com as suas libações.  
 **16** O sacerdote as oferecerá diante do Senhor, e o fará tanto pelo pecado como em holocausto.  
 **17** O carneiro, porém, imolá-lo-á ao Senhor em sacrifício pacifico, oferecendo ao mesmo tempo o cesto dos pães ázimos e as libações, que por costume se devem.  
-**18** Então será rapado ao Nazareno o cabelo consagrado diante da porta do tabernáculo da reunião; (o sacerdote) tomará os seus cabelo e os porá no fogo, que está por baixo da vitima pacífica.  
+**18** Então será rapado ao Nazareno o cabelo consagrado diante da porta do tabernáculo da reunião; (o sacerdote) tomará os seus cabelo e os porá no fogo, que está por baixo da vítima pacífica.  
 **19** Porá nas mãos do Nazareno, depois de lhe ter sido rapada a cabeça, a espádua do carneiro cozida, uma torta ázima tirada do cesto e uma filhó ázima.  
 **20** Recebidas dele estas coisas, as elevará diante do Senhor; assim santificadas, pertencerão ao sacerdote, como também o peito, que se mandou separar, e a perna: depois disto o Nazareno pode beber vinho.  
 **21** Esta é a lei do Nazareno, quando tiver feito voto, esta a sua oferta ao Senhor no tempo da sua consagração, além daquilo que os seus meios lhe permitirem fazer. Procederá conforme o voto que tiver feito na sua mente, para tornar perfeita a sua santificação.  
@@ -403,7 +403,7 @@
 **14** Do mesmo modo o peregrino e o estrangeiro, se morarem entre vós, farão a Páscoa em honra do Senhor com as suas cerimónias e os seus ritos. O mesmo preceito será guardado entre vós, tanto pelo estrangeiro como pelo natural.  
 **15** No dia, pois, em que o tabernáculo foi erecto, a nuvem o cobriu. Da tarde, porém, até manhã estava sobre o tabernáculo como uma espécie de fogo.  
 **16** Assim acontecia continuamente: De dia cobria-o a nuvem, e de noite como que uma espécie de fogo.  
-**17** Quando se levantava a nuvem que cobria o tabernáculo, então punham-se em marcha os filhos de Israel; no lugar onde a nuvem parava, ai acampavam.  
+**17** Quando se levantava a nuvem que cobria o tabernáculo, então punham-se em marcha os filhos de Israel; no lugar onde a nuvem parava, aí acampavam.  
 **18** A ordem do Senhor partiam, e à sua ordem assentavam o tabernáculo. Todo o tempo em que a nuvem estava parada sobre o tabernáculo, permaneciam no mesmo lugar:  
 **19** se acontecia estar parada sobre ele muito tempo, os filhos de Israel estavam às ordens do Senhor, e não partiam  
 **20** durante todo o tempo em que a nuvem estava sobre o tabernáculo. Ao mandado do Senhor levantavam as tendas e ao seu mandado as desarmavam.  
@@ -539,7 +539,7 @@
 **30** Amalec habita ao meio-dia: o Heteu, o Jebuseu e o Amorreu habitam nas montanhas; o Cananeu habita junto do mar e ao longo do rio Jordão.  
 **31** Entretanto Caleb, para refrear a murmuração do povo, que começava a levantar-se contra Moisés, disse: Vamos e tomemos conta da terra, porque nós poderemos conquistá-la.  
 **32** Mas os outros, que tinham ido com ele, diziam: De nenhuma sorte podemos ir contra este povo, porque é mais forte do que nós.  
-**33** E diante dos filhos de Israel depreciaram o pais que tinham explorado, dizendo: A terra que percorremos, devora os seus habitantes: o povo que vimos, é de estatura extraordinária  
+**33** E diante dos filhos de Israel depreciaram o país que tinham explorado, dizendo: A terra que percorremos, devora os seus habitantes: o povo que vimos, é de estatura extraordinária  
 **34** Até gigantes lá vimos, filhos de Enac, da raça dos gigantes, comparados com os quais nós parecemos gafanhotos.  
 
 ## Capítulo 14
@@ -583,7 +583,7 @@
 **37** morreram, sendo feridos diante do Senhor.  
 **38** Apenas Josué, filho de Nun, e Caleb, filho de Jefone, ficaram vivos entre todos os que tinham ido explorar a terra.  
 **39** Moisés referiu todas estas palavras a todos os filhos de Israel, e o povo chorou amargamente.  
-**40** (Ao outro dia), levantando-se de madrugada, subiram ao cume do monte e disseram: Estamos prestes a ir para o lugar de que o Senhor falou, porque pecamos.  
+**40** (Ao outro dia), levantando-se de madrugada, subiram ao cume do monte e disseram: Estamos prestes a ir para o lugar de que o Senhor falou, porque pecámos.  
 **41** Moisés disse-lhes: Por que transgredis a palavra do Senhor, o que não vos redundará em bem?  
 **42** Não queirais subir, porque o Senhor não é convosco, não suceda serdes destruídos diante de vossos inimigos.  
 **43** O Amalecita e o Cananeu estão diante de vós, e vós sucumbireis sob a sua espada, porque não quisestes obedecer ao Senhor, e o Senhor não será convosco.  
@@ -595,7 +595,7 @@
 **1** O Senhor falou a Moisés, dizendo;  
 **2** Fala aos filhos de Israel, e dize-lhes: Quando entrardes na terra da vossa habitação, que eu vos hei-de dar,  
 **3** e oferecerdes ao Senhor algum holocausto ou vítima, quer em cumprimento dos vossos votos, quer de vossa livre vontade, ou fazendo queimar nas vossas solenidades, em odor de suavidade para o Senhor, bois ou ovelhas,  
-**4** todo aquele que imolar uma vitima, oferecerá em sacrifício a décima parte de efa de flor de farinha amassada com a quarta parte de um hin de azeite,  
+**4** todo aquele que imolar uma vítima, oferecerá em sacrifício a décima parte de efa de flor de farinha amassada com a quarta parte de um hin de azeite,  
 **5** e dará esta mesma medida de vinho para fazer as libações, por cada cordeiro.  
 **6** Por cada carneiro, a oblação será de duas dízimas de flor de farinha, amassada com a terça parte de um hin de azeite:  
 **7** oferecerá para as libações um terço da mesma medida de vinho em cheiro de suavidade para o Senhor.  
@@ -779,8 +779,8 @@
 **12** O Senhor disse a Moisés e a Aarão: Porque vós não me crestes para me santificardes diante dos filhos de Israel, não introduzireis estes povos na terra que eu lhes darei  
 **13** Esta é a água da contradição, onde os filhos de Israel altercaram contra o Senhor, e onde (o Senhor) foi santificado entre eles.  
 **14** Entretanto Moisés enviou de Cades embaixadores que lhe dissessem: Isto te manda dizer teu irmão Israel: Sabes todos os trabalhos que temos passado,  
-**15** como os nossos pais desceram ao Egipto, como ai habitamos muito tempo, como os Egípcios nos maltrataram a nós e a nossos pais,  
-**16** como clamamos ao Senhor, e ele nos ouviu, e enviou um anjo, que nos tirou do Egipto. Agora, encontrando-nos na cidade de Cades, que está no extremo das tuas fronteiras,  
+**15** como os nossos pais desceram ao Egipto, como aí habitámos muito tempo, como os Egípcios nos maltrataram a nós e a nossos pais,  
+**16** como clamámos ao Senhor, e ele nos ouviu, e enviou um anjo, que nos tirou do Egipto. Agora, encontrando-nos na cidade de Cades, que está no extremo das tuas fronteiras,  
 **17** suplicamos-te que nos deixes passar pelo teu país. Não iremos pelos campos nem pelas vinhas, nem beberemos das águas dos teus poços, mas iremos pela estrada pública, sem nos afastarmos nem para a direita nem para a esquerda, até que passemos as tuas fronteiras.  
 **18** Edom respondeu-lhe: Não passarás pelo meu país, de outra sorte sairei armado contra ti.  
 **19** Os filhos de Israel disseram-lhe: Nós iremos pelo caminho ordinário: se bebermos das tuas águas, nós e os nossos gados, pagaremos o que for justo: não haverá dificuldade alguma no preço, permite sòmente que passemos de corrida.  
@@ -790,7 +790,7 @@
 **23** Onde o Senhor falou a Moisés e Aarão,  
 **24** dizendo: Aarão vai juntar-se ao seu povo, porque ele não entrará na terra que eu dei aos filhos de Israel, visto que foi incrédulo às minhas palavras nas águas da Contradição.  
 **25** Toma Aarão e seu filho com ele, e leva-os ao monte Hor.  
-**26** Depois de teres despido o pai das suas vestes, revestirás com elas Eleázaro, seu filho: Aarão será reunido (a seus pais), e ai morrerá.  
+**26** Depois de teres despido o pai das suas vestes, revestirás com elas Eleázaro, seu filho: Aarão será reunido (a seus pais), e aí morrerá.  
 **27** Moisés fez como o Senhor lhe mandara, e subiram ao monte Hor, à vista de toda a multidão.  
 **28** Depois que despojou Aarão das suas vestes revestiu com elas a Eleázaro, seu filho.  
 **29** Morto Aarão no cimo do monte, desceu (Moisés) com Eleázaro.  
@@ -801,10 +801,10 @@
 **1** O rei Cananeu Arad, que habitava ao meio-dia, tendo ouvido que Israel viera pelo caminho dos exploradores, pelejou contra ele, e, ficando vencedor, levou dele despojos.  
 **2** Então Israel fez voto ao Senhor, e disse: Se tu entregares nas minhas mãos este povo, eu arruinarei as suas cidades.  
 **3** O Senhor ouviu os rogos de Israel e entregou-lhe os Cananeus, que ele matou, destruídas as suas cidades, pondo àquele lugar o nome de Horma, isto é, Anátema.  
-**4** Partiram do monte Hor pela estrada que conduz ao mar Vermelho, para rodearem o pais de Edom. O povo começou a enfastiar-se do caminho e das fadigas,  
+**4** Partiram do monte Hor pela estrada que conduz ao mar Vermelho, para rodearem o país de Edom. O povo começou a enfastiar-se do caminho e das fadigas,  
 **5** e, falando contra Deus e contra Moisés, disse: Por que nos tiraste do Egipto, para morrermos num deserto? Falta pão, não há água: a nossa alma está enfastiada deste alimento levíssimo.  
 **6** Por esta causa o Senhor enviou contra o povo serpentes ardentes, que feriram e mataram muitos.  
-**7** (Os Israelitas) foram ter com Moisés e disseram-lhe: Nós pecamos porque falamos contra o Senhor e contra ti: roga-lhe que afaste de nós as serpentes. Moisés orou pelo povo,  
+**7** (Os Israelitas) foram ter com Moisés e disseram-lhe: Nós pecamos porque falámos contra o Senhor e contra ti: roga-lhe que afaste de nós as serpentes. Moisés orou pelo povo,  
 **8** e o Senhor disse-lhe: Faze uma serpente de bronze, e põe-na por sinal: aquele que, sendo ferido, olhar para ela, viverá.  
 **9** Moisés fez, pois, uma serpente de bronze, e pô-la por sinal: os feridos que olhavam para ela, saravam.  
 **10** Os filhos de Israel, depois que partiram, foram acampar em Oboth.  
@@ -821,7 +821,7 @@
 **21** Então Israel mandou embaixadores a Seon, rei dos Amorreus, para lhe dizer:  
 **22** Suplico-te que me deixes passar pelo teu país; não declinaremos nem para os campos, nem para as vinhas, não beberemos água dos poços; iremos pela estrada real, até passarmos os teus limites.  
 **23** Ele, porém, não quis permitir que Israel passasse pelos seus territórios; antes, tendo juntado um exército, saiu-lhe ao encontro no deserto, foi a Jasa, e combateu contra ele.  
-**24** Contudo foi derrotado à ponta de espada por Israel, que conquistou o seu pais, desde o Arnon até Jeboc, e até aos filhos de Amon: porque as fronteiras dos Amonitas estavam defendidas por fortes guarnições.  
+**24** Contudo foi derrotado à ponta de espada por Israel, que conquistou o seu país, desde o Arnon até Jeboc, e até aos filhos de Amon: porque as fronteiras dos Amonitas estavam defendidas por fortes guarnições.  
 **25** Tomou Israel todas as suas cidades, habitou nas cidades dos Amorreus, isto é, em Hesebon, e nas suas aldeias.  
 **26** A cidade de Hesebon pertencia a Seon, rei dos Amorreus, que tinha feito guerra ao rei de Moab, e lhe tinha tomado toda a terra que estava no seu poder até ao Arnon.  
 **27** Por isso se diz como provérbio: Vinde a Hesebon! Edifique-se, e levante-se a cidade de Seon!  
@@ -831,7 +831,7 @@
 **31** Israel habitou no país do Amorreu.  
 **32** Moisés enviou (homens) a explorar Jazer, e (os Israelitas) tomaram as suas aldeias, e prenderam os seus habitantes,  
 **33** Depois voltaram, e subiram pelo caminho de Basan, e saiu-lhes ao encontro Og, rei de Basan, com todo o seu povo, para lhes dar batalha em Edrai.  
-**34** O Senhor disse a Moisés: Não tenhas medo dele, por que em tua mão o entrego a ele, a todo o seu povo, a todo o seu pais; farás a ele como fizeste a Seon, rei dos Amorreus, que habitava em Hesebon.  
+**34** O Senhor disse a Moisés: Não tenhas medo dele, por que em tua mão o entrego a ele, a todo o seu povo, a todo o seu país; farás a ele como fizeste a Seon, rei dos Amorreus, que habitava em Hesebon.  
 **35** (Os Israelitas) feriram, pois, também a este com seus filhos e todo o seu povo até ao extermínio, e conquistaram o seu país.  
 
 ## Capítulo 22
@@ -841,7 +841,7 @@
 **3** e que os Moabitas o temiam muito e não podiam sustentar o seu ataque,  
 **4** disse aos anciães de Madian: Este povo destruirá todos os que habitam em nossos territórios, da mesma sorte que o boi costuma roer as ervas até à raiz. Este era naquele tempo rei dos Moabitas.  
 **5** Mandou, pois, embaixadores a Balaão, filho de Beor, adivinho, que habitava sobre o rio do país dos filhos de Amon, para que o chamassem e lhe dissessem: Eis que saiu do Egipto um povo, que cobriu a face da terra, o qual está acampado contra mim.  
-**6** Vem, pois, e amaldiçoa este povo, porque ele é mais forte do que eu, a fim de ver se posso, por algum modo, batê-lo e lançá-lo fora do meu pais. Eu sei que será bendito aquele a quem tu abençoares, e maldito aquele a quem lançares maldições.  
+**6** Vem, pois, e amaldiçoa este povo, porque ele é mais forte do que eu, a fim de ver se posso, por algum modo, batê-lo e lançá-lo fora do meu país. Eu sei que será bendito aquele a quem tu abençoares, e maldito aquele a quem lançares maldições.  
 **7** Os anciães de Moab e os anciães de Madian partiram, levando nas mãos o preço da adivinhação. Tendo chegado junto de Balaão, e tendo-lhe referido todas as palavras de Balac,  
 **8** ele respondeu: Ficai aqui esta noite, e eu vos responderei tudo o que o Senhor me disser. Estando eles em casa de Balaão, veio Deus, e disse-lhe:  
 **9** Que querem estes homens, que estão junto de ti?  
@@ -903,7 +903,7 @@
 **21** Em Jacob não há iniquidade, nem em Israel injustiça. Com ele está o Senhor Seu Deus, nele se ouve a aclamação dum rei.  
 **22** Deus tirou-o do Egipto: a sua fortaleza é semelhante à do rinoceronte.  
 **23** Não há magia em Jacob, nem adivinhações em Israel. A seu tempo se dirá a Jacob e a Israel o que Deus fez.  
-**24** Eis um povo que se levanta como uma leoa, e se põe em pé como um leão; não se deitará, até que tenha devorado a presa e até que tenha bebido o sangue das suas vitimas.  
+**24** Eis um povo que se levanta como uma leoa, e se põe em pé como um leão; não se deitará, até que tenha devorado a presa e até que tenha bebido o sangue das suas vítimas.  
 **25** Balac disse a Balaão: Nem o amaldiçoes, nem o abençoes.  
 **26** Mas ele respondeu: Não te disse eu que havia de fazer tudo aquilo que o Senhor me mandasse?  
 **27** Balac disse-lhe: Vem, e levar-te-ei a outro lugar, a ver se é do agrado de Deus que tu de lá os amaldiçoes.  
@@ -1079,7 +1079,7 @@
 **21** uma dízima da dízima por cada cordeiro, isto é, por cada um dos sete cordeiros.  
 **22** (Oferecerás também) um bode pelo pecado, para obterdes a expiação dele,  
 **23** além do holocausto da manhã, que vós oferecereis sempre.  
-**24** Assim fareis em cada um dos sete dias para alimento do fogo, e em suavíssimo cheiro ao Senhor, que se exalará do holocausto e das libações de cada vitima.  
+**24** Assim fareis em cada um dos sete dias para alimento do fogo, e em suavíssimo cheiro ao Senhor, que se exalará do holocausto e das libações de cada vítima.  
 **25** No sétimo dia haverá santa assembleia, e não fareis nele obra alguma ervil.  
 **26** Também no dia das primícias, quando, completas as (sete) semanas, oferecerdes ao Senhor as novas messes, haverá santa assembleia, e não fareis nele obra alguma servil.  
 **27** Oferecereis em holocausto de suave odor, ao Senhor, dois bezerros da manada, um carneiro e sete cordeiros de um ano, sem defeito,  
@@ -1171,7 +1171,7 @@
 **17** Matai, pois, todos os varões, mesmo os de tenra idade, e degolai as mulheres que tiveram comércio com homens;  
 **18** reservai para vós as donzelas e todas as mulheres virgens.  
 **19** Permanecei fora dos acampamentos sete dias. Quem tiver morto um homem, ou tocado um morto, purificar-se-á no dia terceiro e no sétimo.  
-**20** Purificar-se-á também da presa toda a veste ou vaso, e todo o objecto feito de pele de cabra, ou de pelos, ou de madeira.  
+**20** Purificar-se-á também da presa toda a veste ou vaso, e todo o objecto feito de pele de cabra, ou de pêlos, ou de madeira.  
 **21** O sacerdote Eleázaro também falou assim aos soldados, que tinham pelejado: Este é o preceito da lei, que o Senhor deu a Moisés:  
 **22** O ouro, a prata, o cobre, o ferro, o chumbo, o estanho,  
 **23** e tudo o que pode passar pelas chamas, será purificado no fogo; porém tudo o que não pode sofrer o fogo, será purificado com água da expiação;  
@@ -1225,12 +1225,12 @@
 **14** Agora, prosseguiu Moisés, vos levantastes vós em lugar dos vossos pais, como renovos e descendência de homens pecadores, para aumentardes o furor do Senhor contra Israel.  
 **15** Se não quiserdes segui-lo, ele deixará o povo no deserto, e vós sereis a causa do extermínio de todos.  
 **16** Mas eles, aproximando-se, disseram: Edificaremos currais para as nossas ovelhas, estábulos para os nossos animais, cidades fortes para os nossos filhinhos;  
-**17** nós, porém, armados e prontos, iremos ao combate na frente dos filhos de Israel, até os introduziremos nos seus lugares. (Entretanto) as nossas crianças, e tudo o que podemos possuir, ficarão nas cidades fortificadas, por causa das ciladas dos habitantes do pais.  
+**17** nós, porém, armados e prontos, iremos ao combate na frente dos filhos de Israel, até os introduziremos nos seus lugares. (Entretanto) as nossas crianças, e tudo o que podemos possuir, ficarão nas cidades fortificadas, por causa das ciladas dos habitantes do país.  
 **18** Não voltaremos para as nossas casas, enquanto os filhos de Israel não estiverem de posse da sua herança:  
 **19** nem pretenderemos coisa alguma do lado de lá do Jordão, visto que já temos a nossa porção na sua margem oriental.  
 **20** Moisés respondeu-lhes: Se vós fazeis o que prometeis, marchai em presença do Senhor prontos para a batalha:  
 **21** todo o homem apto para a guerra passe armado o Jordão, até que o Senhor destrua os seus inimigos,  
-**22** e todo o pais lhe fique submetido; então sereis irrepreensíveis diante do Senhor e diante de Israel, e possuireis as terras que desejais, diante do Senhor.  
+**22** e todo o país lhe fique submetido; então sereis irrepreensíveis diante do Senhor e diante de Israel, e possuireis as terras que desejais, diante do Senhor.  
 **23** Mas, se não fizerdes o que dizeis, não há dúvida que pecareis contra Deus, e ficai sabendo que o vosso pecado vos há-de atingir.  
 **24** Edificai, pois, cidades para os vossos filhinhos, currais, e estábulos para as ovelhas e animais, e cumpri o que prometestes.  
 **25** Os filhos de Gad e de Ruben disseram a Moisés: Somos teus servos, teremos o que nosso Senhor manda.  

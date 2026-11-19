@@ -17,7 +17,7 @@
 **13** Atrela o corcel ao carro, habitante de Laquis! Foste origem de pecado para a filha de Sião; em ti se acharam (imitadas) as maldades de Israel.  
 **14** Por isso darás como dote (ao inimigo) Moreseth-Geth; as casas de Aczib foram uma deceção para os reis de Israel.  
 **15** Eu te mandarei um conquistador, ó habitante de Maresa; a glória de Israel estender-se-á até Odolão.  
-**16** Corta os cabelos, rapa (a cabeça) por causa dos teus filhos que eram as tuas delicias; torna-te calva como o abutre (que está na muda), porque foram levados cativos para longe de ti.  
+**16** Corta os cabelos, rapa (a cabeça) por causa dos teus filhos que eram as tuas delícias; torna-te calva como o abutre (que está na muda), porque foram levados cativos para longe de ti.  
 
 ## Capítulo 2
 
@@ -106,7 +106,7 @@
 
 **1** Ai de mim, porque me tornei como o que resta depois de colhidos os frutos no outono, como o que resta depois de feita a vindima! Não há sequer um cacho para comer; em vão deseja a minha alma alguns figos temporãos.  
 **2** Não há um santo sobre a terra, entre os homens não há um justo; todos armam traições para derramarem sangue, cada um anda à procura do seu irmão para lhe lançar laços.  
-**3** O mal é o que as suas mãos fazem bem; o príncipe exige, o juiz decide conforme o que lhe dão, o grande manifesta (descaradamente) o desejo da sua alma, e assim perturbam o pais.  
+**3** O mal é o que as suas mãos fazem bem; o príncipe exige, o juiz decide conforme o que lhe dão, o grande manifesta (descaradamente) o desejo da sua alma, e assim perturbam o país.  
 **4** O melhor dentre eles é como um tojo, o mais justo como uma sebe de espinhos. (Mas eis) o dia que viram os teus (profetas), o teu castigo chega: agora será a destruição deles.  
 **5** Não acrediteis no amigo, não confieis num íntimo; não abras a tua boca mesmo àquela que dorme no teu seio.  
 **6** Porque o filho trata o seu pai como doido, a filha levanta-se contra sua mãe, a nora contra a sua sogra, e o homem tem por inimigo os seus próprios domésticos,  

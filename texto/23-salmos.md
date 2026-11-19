@@ -131,7 +131,7 @@
 **12** Cantai ao Senhor, que habita em Sião, divulgai entre os povos as suas obras,  
 **13** porque, vingando o sangue (dos seus servos, mostrou que) se lembrou deles, não se esqueceu do clamor dos pobres.  
 **14** Tem compaixão de mim, Senhor: vê a aflição que sofro da parte dos meus inimigos, arranca-me das portas da morte,  
-**15** para que publique todos os teus louvores às portas da filha de Sião, e exulte com o teu auxilio.  
+**15** para que publique todos os teus louvores às portas da filha de Sião, e exulte com o teu auxílio.  
 **16** As gentes (que me perseguiam) caíram na fossa que cavaram, no mesmo laço, que esconderam (para me prenderem), ficou preso a seu pé.  
 **17** (Deste modo) o Senhor manifestou-se, fez justiça; nas obras das suas (próprias) mãos ficou enredado o pecador.  
 **18** Retirem-se para o túmulo os pecadores, todas as gentes que se esqueceram de Deus.  
@@ -219,7 +219,7 @@
 **8** Ponho sempre o Senhor diante de mim; pois ele está à minha direita, não vacilarei.  
 **9** Portanto alegra-se o meu coração e exulta de alegria a minha alma, e também o meu corpo descansará seguro,  
 **10** porque não abandonarás a minha alma na morada dos mortos, não permitirás que o teu santo experimente corrupção.  
-**11** Indicar-me-ás as sendas da vida (imortal), a plenitude dos gozos junto de ti, as delicias à tua direita eternamente.  
+**11** Indicar-me-ás as sendas da vida (imortal), a plenitude dos gozos junto de ti, as delícias à tua direita eternamente.  
 
 ## Capítulo 16
 
@@ -542,7 +542,7 @@
 ## Capítulo 32
 
 **1** Exultai, ó justos, no Senhor: e aos rectos (do coração) que fica bem o louvá-lo.  
-**2** Celebrai o Senhor com a citara, cantai-lhe hinos com o saltério de dez cordas.  
+**2** Celebrai o Senhor com a cítara, cantai-lhe hinos com o saltério de dez cordas.  
 **3** Cantai-lhe um cântico novo, cantai-lhe com entusiasmo ao som das trombetas.  
 **4** De facto, a palavra do Senhor é recta, e toda a sua obra é fiel.  
 **5** Ele ama a justiça e o direito: a terra está cheia da graça do Senhor.  
@@ -616,7 +616,7 @@
 **22** Tu o viste, Senhor! Não te cales, Senhor, não te apartes de mim!  
 **23** Desperta e vela em minha defesa, Deus meu e Senhor meu, (vela) pela minha causa!  
 **24** Julga-me segundo a tua justiça, Senhor, não se alegrem à minha custa, ó meu Deus!  
-**25** Não pensem em seu coração: "Ah! Eis o que desejávamos!" Nem digam: "Nós o devoramos!"  
+**25** Não pensem em seu coração: "Ah! Eis o que desejávamos!" Nem digam: "Nós o devorámos!"  
 **26** Fiquem envergonhados e confundidos todos os que se congratulam pelos meus males. Vestidos sejam de confusão e de ignomínia os que se exaltam contra mim.  
 **27** Regozijem-se e alegrem-se os que são favoráveis à minha causa, e digam sempre: "Glorificado seja o Senhor, que se interessa pela salvação do seu servo."  
 **28** A minha língua proclamará a tua justiça e o teu louvor sem cessar.  
@@ -1039,12 +1039,12 @@
 **1** Ao mestre do coro. Segundo a melodia de "Não destruas..." De Davide. Miktãm. Quando, fugindo de Saul, se escondeu numa caverna.  
 **2** Tem piedade de mim, ó Deus, tem piedade de mim, Senhor, porque a minha alma se refugia em ti, e à sombra das tuas asas me acolho, até que passe a calamidade.  
 **3** Clamo ao Deus altíssimo, ao Deus que tanto bem me tem feito.  
-**4** Envie do céu (o seu auxilio) e salve-me, cubra de opróbrio os que me perseguem; envie Deus a sua graça e a sua fidelidade.  
+**4** Envie do céu (o seu auxílio) e salve-me, cubra de opróbrio os que me perseguem; envie Deus a sua graça e a sua fidelidade.  
 **5** Estou jazendo no meio dos leões, que devoram com avidez os filhos dos homens. São lanças e setas os seus dentes, e espada afiada é a sua língua.  
 **6** Manifesta-te excelso, ó Deus, sobre os céus, e brilhe a tua glória por toda a terra.  
 **7** Armaram laços aos meus pés: deprimiram a minha alma. Cavaram diante de mim uma cova: (eles mesmos) caíam nela.  
 **8** O meu coração, ó Deus, está firme, o meu coração está firme: cantarei e entoarei salmos.  
-**9** Desperta, minha alma; despertai, saltério e citara! eu despertarei a aurora.  
+**9** Desperta, minha alma; despertai, saltério e cítara! eu despertarei a aurora.  
 **10** Louvar-te-ei entre os povos, Senhor; entoar-te-ei salmos entre as nações,  
 **11** porque a tua misericórdia é (tão) grande (que chega) até ao céu, e a tua fidelidade até às nuvens.  
 **12** Manifesta-te excelso, ó Deus, acima dos céus, e brilhe a tua glória sobre toda a terra.  
@@ -1189,7 +1189,7 @@
 **9** (pois foi ele) que deu vida à nossa alma e não permitiu que os nossos pés vacilassem.  
 **10** Porquanto nos provaste, ó Deus; com fogo nos acrisolaste, como se acrisola a prata;  
 **11** fizeste-nos cair no laço; pesada carga puseste às nossas costas;  
-**12** fizeste passar homens sobre as nossas cabeças; passamos pelo fogo e pela água; mas por fim deste-nos refrigério.  
+**12** fizeste passar homens sobre as nossas cabeças; passámos pelo fogo e pela água; mas por fim deste-nos refrigério.  
 **13** Entrarei na tua casa com holocaustos, pagar-te-ei os meus votos,  
 **14** que os meus lábios pronunciaram, que a minha boca proferiu na minha tribulação.  
 **15** Oferecer-te-ei holocaustos de ovelhas pingues com gordura de carneiros: imolarei bois com cabritos.  
@@ -1321,7 +1321,7 @@
 **19** e a tua justiça, ó Deus, que chega até aos céus, com a qual tão grandes coisas tens operado; ó Deus, quem é semelhante a ti?  
 **20** Impuseste-me tribulações numerosas e amargas: far-me-ás reviver, e dos abismos da terra outra vez me tirarás.  
 **21** Aumenta o meu prestigio, e consola-me de novo.  
-**22** Eu também celebrarei, ao som da harpa, a tua fidelidade, ó Deus, eu te cantarei salmos ao som da citara, ó santo de Israel.  
+**22** Eu também celebrarei, ao som da harpa, a tua fidelidade, ó Deus, eu te cantarei salmos ao som da cítara, ó santo de Israel.  
 **23** Ao cantar os teus louvores, regozijar-se-ão os meus lábios e a minha alma, que resgataste.  
 **24** Também a minha língua anunciará todo o dia a tua justiça, porque foram confundidos e envergonhados os que procuram fazer mal.  
 
@@ -1412,7 +1412,7 @@
 **4** Embora a terra trema, e todos os que a habitam, fui eu quem deu firmeza às suas colunas,  
 **5** Digo aos insolentes: "Não sejais insolentes", e aos ímpios: "Não levanteis a vossa fronte soberba."  
 **6** Não levanteis com insolência a vossa fronte contra o Altíssimo, não digais protérvias contra Deus.  
-**7** Certamente nem do oriente nem do ocidente, nem do deserto nem dos montes (vos virá o auxilio).  
+**7** Certamente nem do oriente nem do ocidente, nem do deserto nem dos montes (vos virá o auxílio).  
 **8** Deus é que é o juiz: a este humilha, e àquele exalta.  
 **9** Porque na mão do Senhor há um cálice, que espuma com vinho, cheio de (amarga) mistura: "dá a beber dele; sorverão até às fezes, beberão todos os ímpios da terra."  
 **10** Eu, porém, exultarei sempre, cantarei salmos ao Deus de Jacob.  
@@ -1481,7 +1481,7 @@
 **19** E falaram contra Deus. Disseram: "Porventura poderá Deus preparar uma mesa no deserto?  
 **20** Sem dúvida ele feriu a pedra, e correram águas, manaram torrentes; porventura poderá também dar pão, ou preparar carne para o seu povo?"  
 **21** Por isso o Senhor, ao ouvir isto, ardeu em ira, e um fogo se acendeu contra Jacob, e cresceu a ira contra Israel,  
-**22** porque (os israelitas) não creram em Deus, nem esperaram no seu auxilio.  
+**22** porque (os israelitas) não creram em Deus, nem esperaram no seu auxílio.  
 **23** Porém, do alto mandou às nuvens e abriu as portas do céu;  
 **24** fez chover sobre eles maná para comerem, deu-lhes um pão do céu.  
 **25** O homem comeu o pão dos fortes: enviou-lhes víveres até à saciedade.  
@@ -1576,7 +1576,7 @@
 
 **1** Ao mestre do coro. Segundo a melodia de "Os lagares..." De Asaf.  
 **2** Regozijai-vos em Deus, nosso protector, aclamai o Deus de Jacob.  
-**3** Tocai o saltério e pulsai o tímpano, a citara melodiosa e a lira.  
+**3** Tocai o saltério e pulsai o tímpano, a cítara melodiosa e a lira.  
 **4** Tocai a trombeta na neoménia, no plenilúnio, nosso dia solene,  
 **5** porque é um preceito para Israel, e uma ordem do Deus de Jacob.  
 **6** Prescreveu esta lei a José, quando saiu da terra do Egipto. Ouvi uma língua que não entendia  
@@ -1632,7 +1632,7 @@
 **3** A minha alma suspira, desfalece, desejando os átrios do Senhor; o meu coração e a minha carne exultam em Deus vivo.  
 **4** Até o pássaro encontra uma casa, e a andorinha um ninho onde possa pôr os seus filhinhos: (sejam minha casa) os teus altares, Senhor dos exércitos, rei meu, e Deus meu!  
 **5** Bem-aventurados, Senhor, os que moram na tua casa: eles te louvam sem cessar.  
-**6** Bem-aventurado o homem que de ti recebe auxilio, quando decide empreender viagens santas:  
+**6** Bem-aventurado o homem que de ti recebe auxílio, quando decide empreender viagens santas:  
 **7** ao passar por um árido vale, será (cheio de águas, para o transeunte) como um manancial, revesti-lo-á de bênçãos a primeira chuva.  
 **8** Avançarão (os peregrinos) com vigor sempre crescente, verão o Deus dos deuses em Sião.  
 **9** Senhor, Deus dos exércitos, ouve a minha oração; presta ouvidos, ó Deus de Jacob.  
@@ -1776,7 +1776,7 @@
 **6** de manhã floresce e verdeja, à tarde é cortada e seca.  
 **7** Na verdade, somos consumidos pela tua ira, e perturbados pela tua indignação.  
 **8** Puseste as nossas culpas à tua vista, os nossos pecados ocultos à luz do teu rosto.  
-**9** Todos os nossos dias transcorreram na tua ira; acabamos os nossos anos como um suspiro.  
+**9** Todos os nossos dias transcorreram na tua ira; acabámos os nossos anos como um suspiro.  
 **10** A soma dos nossos anos é setenta anos, ou, se somos robustos, oitenta; e muitos deles são trabalho e vaidade: realmente passam depressa, e voamos,  
 **11** Quem pondera o poder da tua ira, e a tua indignação, conforme o temor que te é devido?  
 **12** Ensina-nos a contar os nossos dias, para que alcancemos a sabedoria do coração.  
@@ -1909,7 +1909,7 @@
 **2** O Senhor manifestou a sua salvação; revelou a sua justiça aos olhos das gentes.  
 **3** Lembrou-se da sua bondade e da sua fidelidade em favor da casa de Israel. Todos os confins da terra viram a salvação do nosso Deus.  
 **4** Aclamai o Senhor, todas as terras, alegrai-vos, rejubilai e cantai salmos.  
-**5** Cantai salmos ao Senhor com citara, com citara e ao som do saltério.  
+**5** Cantai salmos ao Senhor com cítara, com cítara e ao som do saltério.  
 **6** com trombetas e ao som de corneta: regozijai-vos na presença do (vosso) rei, (que é o) Senhor.  
 **7** Ressoe o mar e tudo o que há nele, o mundo e os que habitam nele.  
 **8** Batam palmas os rios, ao mesmo tempo os montes se alegrem  
@@ -2190,7 +2190,7 @@
 
 **1** Cântico. Salmo. De Davide.  
 **2** O meu coração, ó Deus, está firme, o meu coração está firme; vou cantar e entoar salmos.  
-**3** Desperta, ó minha alma, despertai saltério e citara! Eu despertarei a aurora.  
+**3** Desperta, ó minha alma, despertai saltério e cítara! Eu despertarei a aurora.  
 **4** Louvar-te-ei no meio dos povos, Senhor, entoar-te-ei salmos entre as nações,  
 **5** porque a tua misericórdia é (tão) grande (que chega) até ao céu, e a tua fidelidade até às nuvens.  
 **6** Mostra-te excelso, ó Deus, sobre os céus, brilhe sobre a terra a tua glória.  
@@ -2200,7 +2200,7 @@
 **10** Moab é bacia para me lavar; poisarei o meu calçado sobre Edom, triunfarei da Filisteia."  
 **11** Quem me conduzirá à cidade fortificada? Quem me conduzirá até Edom?  
 **12** Porventura não és tu, ó Deus, que nos repeliste, que já não sais, ó Deus, à frente dos nossos exércitos?  
-**13** Dá-nos auxilio contra o inimigo, porque é vão o socorro do homem.  
+**13** Dá-nos auxílio contra o inimigo, porque é vão o socorro do homem.  
 **14** Em Deus faremos proezas, e ele calcará os nossos inimigos.  
 
 ## Capítulo 108
@@ -2418,7 +2418,7 @@
 **38** Cumpre para com o teu servo a tua promessa, que foi feita aos que te temem.  
 **39** Afasta de mim o opróbrio, que receio, porque os teus decretos são agradáveis.  
 **40** Vê como eu suspiro pelos teus preceitos; dá-me vida segundo a tua equidade.  
-**41** E venham sobre mim as tuas misericórdias, Senhor, o teu auxilio, segundo a tua promessa.  
+**41** E venham sobre mim as tuas misericórdias, Senhor, o teu auxílio, segundo a tua promessa.  
 **42** E poderei responder uma palavra aos que me insultam, porque ponho a minha esperança nas tuas palavras.  
 **43** Não tires da minha boca a palavra da verdade, porque confio nos teus decretos.  
 **44** Guardarei sempre a tua lei, pelos séculos, para sempre.  
@@ -2616,7 +2616,7 @@
 
 ## Capítulo 125
 
-**1** Cântico das subidas. Quando o Senhor fez voltar os cativos de Sião, nós ficamos como que a sonhar.  
+**1** Cântico das subidas. Quando o Senhor fez voltar os cativos de Sião, nós ficámos como que a sonhar.  
 **2** Então a nossa boca encheu-se de riso, e a nossa língua de alegria. Então se disse entre as gentes: "Coisas magníficas fez o Senhor em favor deles."  
 **3** (Sim), coisas magníficas fez o Senhor por nós: fomos cheios de júbilo.  
 **4** Muda, Senhor, a nossa sorte, como as torrentes na terra austral.  
@@ -2974,7 +2974,7 @@
 
 **1** Aleluia. Louvai o Senhor no seu santuário, louvai-o no seu augusto firmamento.  
 **2** Louvai-o por suas obras grandiosas (em vosso favor), louvai-o por sua suma majestade.  
-**3** Louvai-o ao som da trombeta, louvai-o com o saltério e a citara.  
+**3** Louvai-o ao som da trombeta, louvai-o com o saltério e a cítara.  
 **4** Louvai-o com tímpano e com dança, louvai-o com instrumentos de corda e com órgão.  
 **5** Louvai-o com címbalos sonoros, louvai-o com címbalos ressonantes:  
 **6** tudo o que respira louve o Senhor! Aleluia.

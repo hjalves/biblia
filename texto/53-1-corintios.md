@@ -250,7 +250,7 @@
 **15** Falo como a pessoas sensatas: julgai vós mesmos o que eu digo.  
 **16** Porventura o cálice de bênção, que benzemos, não é a comunhão do sangue de Cristo? E o pão, que partimos, não é a participação do corpo do Senhor?  
 **17** Visto que há um só pão, nós, embora muitos, formamos um só corpo, nós todos que participamos do mesmo pão.  
-**18** Considerai Israel, segundo a carne: os que comem das vitimas, porventura não têm parte no altar?  
+**18** Considerai Israel, segundo a carne: os que comem das vítimas, porventura não têm parte no altar?  
 **19** Mas que digo? Digo que o que foi sacrificado aos ídolos é alguma coisa? Ou que o ídolo é alguma coisa? (De modo nenhum),  
 **20** antes digo que as coisas que os gentios sacrificam, as sacrificam aos demónios e não a Deus. Ora não quero que tenhais sociedade com os demónios. Não podeis beber o cálice do Senhor e o cálice dos demónios;  
 **21** não podeis ser participantes da mesa do Senhor e da mesa dos demónios.  
@@ -362,7 +362,7 @@
 **4** O que fala uma língua (desconhecida), edifica-se a si mesmo; o que profetiza, edifica a Igreja de Deus.  
 **5** Desejo que todos vós tenhais o dom das línguas; porém, muito mais que profetizeis. De facto, é maior o que profetiza, que o que fala diversas línguas, a não ser que também as interprete, a fim de que a Igreja receba edificação.  
 **6** Assim, pois. Irmãos, se eu for ter convosco falando em diversas línguas, de que vos aproveitarei, se vos não falar com a revelação, ou com a ciência, ou com a profecia, ou com a doutrina?  
-**7** Do mesmo modo as coisas inanimadas, que dão som, como a flauta ou a citara, se não derem sons distintos, como se distinguirá o que se toca na flauta ou na citara?  
+**7** Do mesmo modo as coisas inanimadas, que dão som, como a flauta ou a cítara, se não derem sons distintos, como se distinguirá o que se toca na flauta ou na cítara?  
 **8** E, se a trombeta der um som confuso, quem se preparará para a batalha?  
 **9** Assim também vós, se, falando uma língua, não proferirdes palavras claras, como se entenderá o que dizeis? Falareis ao vento.  
 **10** Há, com efeito, muitos géneros de línguas neste mundo, e todas têm a sua expressão.  
@@ -460,7 +460,7 @@
 
 ## Capítulo 16
 
-**1** Quanto, porém, à colecta que se faz em beneficio dos santos, fazei também vós o mesmo que eu ordenei às igrejas da Galácia.  
+**1** Quanto, porém, à colecta que se faz em benefício dos santos, fazei também vós o mesmo que eu ordenei às igrejas da Galácia.  
 **2** No primeiro dia da semana, cada um de vós ponha de parte o que tiver podido poupar, para que se não faça a colecta na própria ocasião em que eu chegar.  
 **3** Quando eu estiver presente, mandarei com cartas os que vós tíverdes escolhido para levar a Jerusalém a vossa liberalidade.  
 **4** E, se a coisa merecer que eu vá também, irão comigo.  

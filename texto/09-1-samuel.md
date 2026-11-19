@@ -165,7 +165,7 @@
 **3** E Samuel falou a toda a casa de Israel, dizendo: Se vós tornais de todo o vosso coração para o Senhor, tirai do meio de vós os deuses estranhos, os Baalins e Astarot, e preparai os vossos corações para o Senhor; servi a ele só, e ele vos livrará da mão dos Filisteus.  
 **4** Os filhos de Israel lançaram, pois, fora os Baalins e Astarot, e serviram só ao Senhor.  
 **5** Samuel disse: Convocai em Masfa todo o Israel, para eu orar por vós ao Senhor.  
-**6** E juntaram-se em Masfa. Tiraram água, derramaram-na diante do Senhor, jejuaram aquele dia, dizendo: Pecamos contra o Senhor. E Samuel julgou os filhos de Israel em Masfa.  
+**6** E juntaram-se em Masfa. Tiraram água, derramaram-na diante do Senhor, jejuaram aquele dia, dizendo: Pecámos contra o Senhor. E Samuel julgou os filhos de Israel em Masfa.  
 **7** Os Filisteus ouviram dizer que os filhos de Israel se tinham juntado em Masfa, e os príncipes dos Filisteus marcharam contra Israel. Tendo sabido isto os filhos de Israel, temeram o encontro dos Filisteus.  
 **8** Disseram a Samuel: Não cesses de clamar por nós ao Senhor nosso Deus, para que nos salve da mão dos Filisteus.  
 **9** Samuel tomou um cordeiro de leite e ofereceu-o inteiro em holocausto ao Senhor. Samuel clamou ao Senhor por Israel, e o Senhor ouviu-o.  
@@ -231,7 +231,7 @@
 **24** Tomou, pois, o cozinheiro uma espádua, e a pôs diante de Saul. Samuel disse: Esta é a porção reservada para ti; põe-na diante de ti e come, porque foi reservada de propósito para ti, quando convidei o povo. E Saul comeu com Samuel naquele dia.  
 **25** Desceram do lugar alto para a cidade, e (Samuel) falou com Saul sobre o terraço; a seguir, foram-se deitar.  
 **26** Levantando-se pela manhã, ao raiar da aurora, Samuel chamou Saul sobre o terraço e disse-lhe: Levanta-te para eu te despedir. Saul levantou-se, e saíram ambos, isto é, ele e Samuel.  
-**27** Quando desciam para a parte extrema da cidade, Samuel disse a Saul: Dize ao criado que passe e vá adiante de nós; tu para um pouco, para eu te comunicar a palavra do Senhor.  
+**27** Quando desciam para a parte extrema da cidade, Samuel disse a Saul: Dize ao criado que passe e vá adiante de nós; tu pára um pouco, para eu te comunicar a palavra do Senhor.  
 
 ## Capítulo 10
 
@@ -242,7 +242,7 @@
 **5** Depois chegarás ao outeiro de Deus, onde está uma guarnição de Filisteus; quando tiveres entrado na cidade, encontrarás um grupo de profetas a descer do lugar alto, precedidos de saltérios, de tímpanos, de flautas e de cítaras, profetizando (ou cantando louvores a Deus).  
 **6** O Espírito do Senhor se apoderará de ti, tu profetizarás com eles, e ficarás mudado noutro homem.  
 **7** Quando te acontecerem todos estes sinais, faze tudo o que te ocorrer, porque o Senhor é contigo.  
-**8** Descerás primeiro que eu a Galgala; depois eu irei ter contigo, para oferecer um sacrifício e imolar vitimas pacíficas; esperarás sete dias, até que eu vá ter contigo e te declare o que deves fazer.  
+**8** Descerás primeiro que eu a Galgala; depois eu irei ter contigo, para oferecer um sacrifício e imolar vítimas pacíficas; esperarás sete dias, até que eu vá ter contigo e te declare o que deves fazer.  
 **9** Quando Saul voltou as costas, ao deixar Samuel, Deus mudou-lhe o coração em outro, e todos estes sinais aconteceram no mesmo dia.  
 **10** Quando chegaram a Gabaa, ao sobredito outeiro, um grupo de profetas veio ao seu encontro, o espírito do Senhor o arrebatou, e ele profetizou no meio deles.  
 **11** Todos os que o tinham conhecido pouco antes, vendo que ele estava com os profetas e que profetizava, disseram entre si: Que é o que aconteceu ao filho de Cis? Porventura também Saul está entre os profetas?  
@@ -365,7 +365,7 @@
 **26** O povo entrou, no bosque, viu correr o mel, mas ninguém (o) levou (com) a mão à boca, porque o povo temia (violar) o juramento (do rei).  
 **27** Todavia Jónatas não tinha ouvido o juramento que seu pai obrigou o povo a fazer e, estendendo a ponta da vara que tinha na mão, molhou-a num favo de mel, chegou a mão à boca e iluminaram-se-lhe os olhos.  
 **28** Um do povo, avisando-o, disse: Teu pai ligou o povo com um juramento, dizendo; Maldito o homem que tomar alimento. (O povo estava (já) desfalecido).  
-**29** Jónatas disse; Meu pai turbou o pais (com esse juramento); vós mesmos vistes que se me iluminaram os olhos, logo que comi um pouco deste mel.  
+**29** Jónatas disse; Meu pai turbou o país (com esse juramento); vós mesmos vistes que se me iluminaram os olhos, logo que comi um pouco deste mel.  
 **30** Ah! Se o povo tivesse comido do que encontrou da presa de seus inimigos, quanto maior não teria sido o destroço dos Filisteus!  
 **31** (Os Israelitas) bateram, naquele dia, os Filisteus desde Macmas até Ajalon. Porém o povo estava muito fatigado,  
 **32** e, lançando-se à presa, tomou ovelhas, bois e novilhos, que degolou sobre a terra e comeu com sangue.  
@@ -430,16 +430,16 @@
 
 ## Capítulo 16
 
-**1** O Senhor disse a Samuel: Até quando chorarás tu Saul, tendo-o eu rejeitado para que não reine sobre Israel? Enche de óleo o teu (vaso feito de) chifre e vem, para eu te enviar a Isai de Belém, porque dentre os seus filhos, escolhi para mim um rei.  
+**1** O Senhor disse a Samuel: Até quando chorarás tu Saul, tendo-o eu rejeitado para que não reine sobre Israel? Enche de óleo o teu (vaso feito de) chifre e vem, para eu te enviar a Isaí de Belém, porque dentre os seus filhos, escolhi para mim um rei.  
 **2** Samuel disse; Como hei-de eu ir? Saul o saberá e matar-me-á. O Senhor disse: Tomarás contigo um novilho da manada, e dirás: Eu vim para sacrificar ao Senhor.  
 **3** Convidarás Isaí para comer da vítima e eu te mostrarei o que deves fazer; ungirás aquele que eu te designar.  
 **4** Fez, pois, Samuel como o Senhor lhe disse, e foi a Belém. Os anciães da cidade foram inquietos, aos seu encontro, e disseram: É de paz a tua vinda?  
-**5** Ele respondeu: É de paz; vim para fazer um sacrifício ao Senhor; purificai-vos e vinde comigo ao sacrifício. Ele purificou Isai e seus filhos, e chamou-os ao sacrifício. Todavia Samuel chorava Saul, porque o Senhor se tinha arrependido de o ter constituído rei sobre Israel.  
+**5** Ele respondeu: É de paz; vim para fazer um sacrifício ao Senhor; purificai-vos e vinde comigo ao sacrifício. Ele purificou Isaí e seus filhos, e chamou-os ao sacrifício. Todavia Samuel chorava Saul, porque o Senhor se tinha arrependido de o ter constituído rei sobre Israel.  
 **6** Tendo eles entrado, (Samuel) viu Eliab e disse: Porventura está diante do Senhor o seu ungido?  
 **7** Mas o Senhor disse a Samuel: Não olhes para o seu vulto, nem para a altura da sua estatura, porque eu o rejeitei. Eu não julgo do homem pelo que aparece à vista: o homem vê o rosto, mas o Senhor olha para o coração.  
 **8** Isaí chamou Abinadab e apresentou-o a Samuel, o qual disse: O Senhor também não escolheu este.  
 **9** Isaí trouxe Sarna, do qual (Samuel) disse: Também a este não escolheu o Senhor.  
-**10** Isai mandou, pois, vir os seus sete filhos diante de Samuel, e Samuel disse a Isaí: A nenhum destes escolheu o Senhor.  
+**10** Isaí mandou, pois, vir os seus sete filhos diante de Samuel, e Samuel disse a Isaí: A nenhum destes escolheu o Senhor.  
 **11** Samuel disse a Isaí: Porventura não tens mais filhos? Isaí respondeu: Ainda falta um pequeno, que anda apascentando as ovelhas. Samuel disse a Isaí: Manda-o vir, porque não nos sentaremos à mesa sem que ele venha aqui.  
 **12** Mandou-o, pois, chamar e apresentou-o (a Samuel). Ele era loiro, de olhos formosos e belo aspecto. O Senhor disse: Levanta-te, unge-o, porque é esse mesmo (que eu escolhi).  
 **13** Tomou, pois, Samuel o (vaso de) chifre com o óleo, e o ungiu no meio de seus Irmãos. Daquele dia em diante comunicou-se o espírito do Senhor a Davide, e Samuel, levantando-se, partiu para Rama.  
@@ -447,7 +447,7 @@
 **15** Os servos de Saul disseram-lhe: Um espírito maligno, enviado por Deus, te atormenta.  
 **16** Se tu, nosso senhor, o mandas, os teus servos, que estão em tua presença, buscarão um homem que saiba tocar harpa, para que, quando o maligno espírito, enviado pelo Senhor, te atormentar, ele toque com sua mão, e experimentes assim algum alívio.  
 **17** Saul disse aos seus servos: Buscai-me, então, um que saiba tocar bem, e trazei-o à minha presença.  
-**18** Respondendo um dos seus criados, disse: Eu vi um dos filhos de Isai de Belém, que sabe tocar (harpa); é dotado de grande força, homem guerreiro, prudente nas palavras, de gentil presença, e o Senhor é com ele.  
+**18** Respondendo um dos seus criados, disse: Eu vi um dos filhos de Isaí de Belém, que sabe tocar (harpa); é dotado de grande força, homem guerreiro, prudente nas palavras, de gentil presença, e o Senhor é com ele.  
 **19** Mandou Saul mensageiros a Isaí, dizendo: Envia-me o teu filho Davide, que anda com os rebanhos.  
 **20** Isaí tomou um Jumento carregado de pães, um odre de vinho e um cabrito, e mandou-o a Saul por mão de seu filho Davide.  
 **21** Chegado a casa de Saul, Davide apresentou-se diante dele. Saul ganhou-lhe grande afeição e fê-lo seu escudeiro.  
@@ -562,7 +562,7 @@
 **10** Saul tentou atravessar Davide com a lança contra a parede, mas Davide desviou-se, e a lança, sem o ofender, foi cravar se na parede. Davide fugiu e salvou-se aquela noite.  
 **11** Mandou, pois, Saul os seus guardas a casa de Davide para lho terem seguro e para ser morto pela manhã. Porém Davide foi avisado por Micol, sua mulher, que lhe disse: Se te não puseres a salvo esta noite, amanhã morrerás.  
 **12** Ela fê-lo descer por uma janela, e ele fugiu e salvou-se.  
-**13** Em seguida Micol tomou uma estátua, deitou-a em cima da cama, pôs-lhe ao redor da cabeça uma pele de cabra com o pelo, e cobriu-a com a roupa.  
+**13** Em seguida Micol tomou uma estátua, deitou-a em cima da cama, pôs-lhe ao redor da cabeça uma pele de cabra com o pêlo, e cobriu-a com a roupa.  
 **14** Saul mandou guardas para prenderem Davide, mas foi-lhes respondido que estava doente.  
 **15** Saul mandou segunda vez mensageiros com ordens de ver Davide, dizendo-lhes: Trazei-mo no seu mesmo leito, para ser morto.  
 **16** Tendo chegado os mensageiros, encontraram em cima da cama a estátua que tinha em roda da cabeça uma pele de cabra.  
@@ -733,7 +733,7 @@
 **7** Ouvi dizer que os teus pastores, que viviam connosco no deserto, fazem a tosquia; nós nunca os molestámos, nem lhes faltou nunca coisa alguma no rebanho, durante todo o tempo que estiveram connosco no Carmelo.  
 **8** Pergunta-o aos teus criados, e eles to dirão. Agora, pois, achem teus servos graça diante de teus olhos, visto que viemos em tão boa ocasião: dá a teus servos e a Davide, teu filho, qualquer coisa que tiveres à mão.  
 **9** Quando os homens de Davide chegaram, disseram a Nabal todas estas coisas, da parte de Davide, e ficaram calados.  
-**10** Respondendo, porém Nabal, aos criados de Davide, disse; Quem é Davide? E quem é o filho de Isai? Hoje são numerosos os servos que fogem aos seus senhores.  
+**10** Respondendo, porém Nabal, aos criados de Davide, disse; Quem é Davide? E quem é o filho de Isaí? Hoje são numerosos os servos que fogem aos seus senhores.  
 **11** Pegarei eu no meu pão, na minha água e na carne dos animais que matei para os que tosquiam as minhas ovelhas, e dá-lo-ei a homens que não sei donde são?  
 **12** Os criados de Davide retomaram o seu caminho e, tendo chegado, contaram-lhe todas as palavras que Nabal tinha dito.  
 **13** Então Davide disse à sua gente: Cinja cada um a sua espada. E cingiram todos as suas espadas, cingindo também Davide a sua. Seguiram Davide cerca de quatrocentos homens, e ficaram duzentos com a equipagem  
@@ -799,7 +799,7 @@
 
 ## Capítulo 27
 
-**1** Davide disse no seu coração: Por fim, algum dia cairei nas mãos de Saul; não será melhor que eu fuja e me salve no pais dos Filisteus, para que Saul perca de todo as esperanças e cesse de me buscar por todas as terras de Israel? Fugirei portanto das suas mãos.  
+**1** Davide disse no seu coração: Por fim, algum dia cairei nas mãos de Saul; não será melhor que eu fuja e me salve no país dos Filisteus, para que Saul perca de todo as esperanças e cesse de me buscar por todas as terras de Israel? Fugirei portanto das suas mãos.  
 **2** Davide levantou-se, com os seus seiscentos homens, e foi para Aquis, filho de Maoque, rei de Get.  
 **3** Davide habitou com Aquis em Get, ele e os seus, cada um com sua família, e Davide com as suas duas mulheres, Aquinoão de Jezrael, e Abigail, mulher que tinha sido de Nabal do Carmelo.  
 **4** Saul foi avisado de que Davide se tinha refugiado em Get, e não cuidou mais em o buscar.  
@@ -852,7 +852,7 @@
 **8** Davide disse a Aquis: Que fiz eu, que encontraste tu no teu servo, desde o dia em que eu te apareci até este dia, para que eu não vá combater contra os inimigos do rei, meu senhor?  
 **9** Aquis, respondendo, disse a Davide: Eu sei que és bom aos meus olhos, como um anjo de Deus, mas os príncipes dos Filisteus disseram: Ele não há-de ir connosco à batalha.  
 **10** Por isso levanta-te amanhã pela manhã, tu e os servos do teu senhor, que vieram contigo; levantando-vos de noite, parti logo que principie a raiar a aurora.  
-**11** Levantou-se Davide, ainda de noite, e a sua gente, para partirem pela manhã e voltarem para o pais dos Filisteus, e os Filisteus marcharam para Jezrael.  
+**11** Levantou-se Davide, ainda de noite, e a sua gente, para partirem pela manhã e voltarem para o país dos Filisteus, e os Filisteus marcharam para Jezrael.  
 
 ## Capítulo 30
 

@@ -70,7 +70,7 @@
 **15** E acrescentou: Estende a capa com que te cobres, seguia-a com ambas as mãos. Ela estendeu-a e segurou-a, e ele deu-lhe seis medidas de cevada, que lhe pôs às costas. Ela, levando-as, entrou na cidade,  
 **16** e foi ter com sua sogra, a qual lhe disse: Que fizeste filha? (Rute) contou-lhe tudo o que o homem tinha feito por ela.  
 **17** E acrescentou: Eis aqui seis medidas de cevada que ele me deu, dizendo: Não quero que voltes vazia para tua sogra.  
-**18** Noemi disse: Espera, filha, até vermos em que para este negócio, porque aquele homem não descansará enquanto não cumprir o que prometeu.  
+**18** Noemi disse: Espera, filha, até vermos em que pára este negócio, porque aquele homem não descansará enquanto não cumprir o que prometeu.  
 
 ## Capítulo 4
 
@@ -90,12 +90,12 @@
 **14** E as mulheres disseram a Noemi: Bendito seja o Senhor, que não permitiu que te faltasse um redentor! Que o seu nome seja celebrado em Israel!  
 **15** Terás quem console a tua alma, e te sustente na velhice, porque nasceu um menino de tua nora, a qual te ama, e é para ti muito melhor do que sete filhos,  
 **16** Noemi, tomando o menino, o pôs no seu regaço, e fazia as vezes de ama e de criada.  
-**17** As mulheres suas vizinhas congratulavam-se com ela, e diziam: Nasceu um filho a Noemi! Puseram-lhe o nome de Obed. Ele foi pai de Isai, pai de David.  
+**17** As mulheres suas vizinhas congratulavam-se com ela, e diziam: Nasceu um filho a Noemi! Puseram-lhe o nome de Obed. Ele foi pai de Isaí, pai de David.  
 **18** Estas são as gerações de Farés: Farés gerou Esron,  
 **19** Esron gerou Aram, Aram gerou Aminadab,  
 **20** Aminadab gerou Naason, Naason gerou Salmon,  
 **21** Salmon gerou Booz, Booz gerou Obed,  
-**22** Obed gerou Isai, Isai gerou David.
+**22** Obed gerou Isaí, Isaí gerou David.
 
 ---
 

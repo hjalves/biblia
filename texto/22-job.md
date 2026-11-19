@@ -479,7 +479,7 @@
 **16** Por baixo as suas raízes secarão, e por cima serão cortados os seus ramos.  
 **17** Á sua memória perecerá da terra, e não será celebrado o seu nome na região.  
 **18** Será arrojado da luz para as trevas, será desterrado do mundo.  
-**19** Não terá nem descendência nem família no seu povo, nem relíquia alguma no seu pais.  
+**19** Não terá nem descendência nem família no seu povo, nem relíquia alguma no seu país.  
 **20** Os últimos pasmarão do seu dia (de ruína), e os primeiros serão invadidos pelo horror.  
 **21** Tais serão as moradas do ímpio, tal é o lugar daquele que não conhece (nem teme) a Deus.  
 
@@ -560,8 +560,8 @@
 **9** As suas casas estão seguras e em paz, a vara de Deus não os fere.  
 **10** Os seus louros são sempre fecundos, as suas vacas dão à luz e não se lhes malogram as suas crias.  
 **11** Os seus filhos saem (de casa) como manadas, os seus pequenos saltam e brincam.  
-**12** Cantam ao som do tímpano e da citara, e alegram-se ao som da flauta.  
-**13** Passam os seus dias em delicias, e num momento descem a o sepulcro.  
+**12** Cantam ao som do tímpano e da cítara, e alegram-se ao som da flauta.  
+**13** Passam os seus dias em delícias, e num momento descem a o sepulcro.  
 **14** Estes são os que disseram a Deus: Retira-te de nós, pois não queremos saber nada dos teus caminhos.  
 **15** Quem é o Omnipotente para que o sirvamos? Que nos aproveita que lhe façamos orações?  
 **16** Mas, porque não estão na sua mão os seus bens, longe esteja de mim o modo de pensar dos ímpios.  
@@ -703,7 +703,7 @@
 **8** Qual é a esperança do ímpio, quando Deus lhe arrancar a vida?  
 **9** Porventura ouvirá Deus o seu clamor, quando lhe sobrevier a tribulação?  
 **10** Poderá ele deleitar-se no Omnipotente, e invocar a Deus em todo o tempo?  
-**11** Eu vos ensinarei, com o auxilio de Deus, o que faz o Omnipotente, não vo-lo esconderei.  
+**11** Eu vos ensinarei, com o auxílio de Deus, o que faz o Omnipotente, não vo-lo esconderei.  
 **12** Mas todos vós já o sabeis; porque proferia inutilmente palavras vãs?  
 **13** Esta é a sorte do homem ímpio diante de Deus, esta a herança que os violentos receberão da Omnipotente.  
 **14** Se os teus filhos se multiplicarem, serão para a espada, e os seus netos não serão fartos de pão.  
@@ -808,7 +808,7 @@
 **28** Caminho triste, sem conforto, ponho-me a gritar no meio da multidão.  
 **29** Sou (como) irmão dos chacais e companheiro dos avestruzes.  
 **30** A minha pele está denegrida e vai caindo, e os meus ossos secaram-se pelo ardor.  
-**31** A minha citara trocou-se em pranto, e a minha lira em lamentos.  
+**31** A minha cítara trocou-se em pranto, e a minha lira em lamentos.  
 
 ## Capítulo 31
 
@@ -1023,8 +1023,8 @@
 **10** O gelo forma-se ao sopro de Deus, e depois derramam-se as águas em abundância.  
 **11** Carrega de vapores as nuvens, e as nuvens (com relâmpagos) espalham a sua luz,  
 **12** em todas as direcções, girando por onde quer que as conduz a vontade daquele que as governa, executando tudo quanto ele lhes manda sobre a face de toda a terra,  
-**13** quer para castigo do mundo, quer para seu beneficio.  
-**14** Ouve, Job, estas coisas: para e considera as maravilhas de Deus.  
+**13** quer para castigo do mundo, quer para seu benefício.  
+**14** Ouve, Job, estas coisas: pára e considera as maravilhas de Deus.  
 **15** Sabes tu porventura como ele as opera, como faz brilhar o relâmpago nas suas nuvens?  
 **16** Porventura conheces como se equilibram no ar as nuvens, e os prodígios daquele que tudo sabe?  
 **17** Como é que as tuas vestes se aquecem, quando o vento do meio-dia sopra sobre a terra?  

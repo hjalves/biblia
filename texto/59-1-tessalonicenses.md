@@ -38,7 +38,7 @@
 
 ## Capítulo 3
 
-**1** Pelo que, não podendo mais sofrer (a falta de noticias vossas), preferimos ficar sós em Atenas,  
+**1** Pelo que, não podendo mais sofrer (a falta de notícias vossas), preferimos ficar sós em Atenas,  
 **2** e enviamos Timóteo, nosso irmão e ministro de Deus no Evangelho de Cristo, para vos fortalecer e confortar, na vossa fé,  
 **3** a fim de que ninguém seja abalado por estas tribulações, pois vós mesmos sabeis que para isto fomos destinados.  
 **4** Pois, quando ainda estávamos convosco, vos predizíamos que havíamos de padecer tribulações, como com efeito aconteceu e vós o sabeis.  
@@ -59,7 +59,7 @@
 **3** Porquanto esta é a vontade de Deus, que vos santifiqueis: que eviteis a impudicícia,  
 **4** que cada um de vós saiba possuir o seu corpo em santidade e honra,  
 **5** não nas paixões desregradas, como fazem os gentios, que não conhecem a Deus,  
-**6** e que ninguém oprima ou engane o seu irmão, nesta matéria, porque o Senhor é vingador de todas estas coisas, como já vos dissemos e atestamos.  
+**6** e que ninguém oprima ou engane o seu irmão, nesta matéria, porque o Senhor é vingador de todas estas coisas, como já vos dissemos e atestámos.  
 **7** Em verdade, Deus não nos chamou para a impureza, mas para a santidade.  
 **8** Aquele, pois, que despreza isto, não despreza um homem, mas Deus, que vos dá o seu Espírito Santo.  
 **9** Pelo que diz respeito à caridade fraterna, não temos necessidade de vos escrever, porque vós mesmos aprendestes de Deus que vos deveis amar uns aos outros.  

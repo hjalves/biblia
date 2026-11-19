@@ -50,7 +50,7 @@
 **3** Deus vem de Teman, o Santo do Monte de Faran. A sua majestade cobre os céus, e a terra está cheia do seu louvor.  
 **4** O seu resplendor é como a luz; das suas mãos brotam raios; é lá que está escondida a sua fortaleza.  
 **5** A calamidade vai diante da sua face, a febre caminha sobre os seus passos.  
-**6** Para e mede a terra, olha e abala as nações; são reduzidas a pó as montanhas eternas, os outeiros antigos desfazem-se, seus caminhos de sempre.  
+**6** Pára e mede a terra, olha e abala as nações; são reduzidas a pó as montanhas eternas, os outeiros antigos desfazem-se, seus caminhos de sempre.  
 **7** Eu vi na aflição as tendas da Etiópia; os pavilhões da terra de Madian estão turbados.  
 **8** Porventura é contra os rios, Senhor, que estás irado? É contra os rios o teu furor? Ou é contra o mar a tua indignação, quando montas sobre os teus cavalos, sobre teus carros triunfantes?  
 **9** Mostra-se desnudado o teu arco; os juramentos são flechas da tua palavra. Tu fendes a terra, e dela saem torrentes.  

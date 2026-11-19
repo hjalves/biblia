@@ -30,7 +30,7 @@
 **26** Ele, posto em liberdade, foi para a terra de Hetim, fundou lá uma cidade e pôs-lhe o nome de Luza, a qual se chama assim até ao dia de hoje.  
 **27** Também Manassés não destruiu Betsa nem Tanac com as suas aldeias, nem os habitantes de Dor, de Jeblaam e de Magedo, com as suas aldeias, e o Cananeu começou a habitar com eles.  
 **28** Depois que Israel cobrou mais forças, fê-los tributários, e não os quis exterminar.  
-**29** Efraim também não exterminou o Cananeu, que habitava em Gazer e que ai continuou a habitar, no meio de Efraim.  
+**29** Efraim também não exterminou o Cananeu, que habitava em Gazer e que aí continuou a habitar, no meio de Efraim.  
 **30** Zabulon não destruiu os habitantes de Cetron e de Naalol, e o Cananeu continuou a habitar no meio dele, embora seu tributário.  
 **31** Aser também não destruiu os habitantes de Aço, de Sidónia, de Aalab, de Acazib, de Helba, de Afec e de Roob,  
 **32** antes morou no meio dos Cananeus, habitantes daquela terra, e não os exterminou.  
@@ -341,12 +341,12 @@
 **7** O Senhor, irado contra eles, entregou-os nas mãos dos Filisteus e dos filhos de Amon.  
 **8** E todos os que habitavam na outra banda do Jordão, no território dos Amorreus, que é em Galaad, foram afligidos, cruelmente oprimidos durante dezoito anos.  
 **9** Os filhos de Amon, tendo passado o Jordão, devastaram (as tribos de) Judá, de Benjamim e de Efraim, e Israel viu-se numa extrema aflição.  
-**10** Clamando ao Senhor, disseram: Nós pecamos contra ti, porque abandonamos o Senhor nosso Deus e servimos (os ídolos de) Baal.  
+**10** Clamando ao Senhor, disseram: Nós pecámos contra ti, porque abandonámos o Senhor nosso Deus e servimos (os ídolos de) Baal.  
 **11** O Senhor disse-lhes: Porventura os Egípcios, os Amorreus, os filhos de Amon, os Filisteus,  
 **12** e também os Sidónios, os Amalecitas e os Cinaneus, não vos oprimiram, e vós clamastes a mim, e eu não vos livrei das suas mãos?  
 **13** E com tudo isto vós abandonastes-me, e servistes deuses estranhos; por isso não mais vos livrarei.  
 **14** Ide e invocai os deuses que escolhestes; eles vos livrem no tempo da angústia.  
-**15** Mas os filhos de Israel disseram ao Senhor: Pecamos, faz tu de nós o que te parecer; sòmente livra-nos agora.  
+**15** Mas os filhos de Israel disseram ao Senhor: Pecámos, faz tu de nós o que te parecer; sòmente livra-nos agora.  
 **16** Dizendo estas coisas, lançaram fora de suas terras todos os ídolos dos deuses estranhos, e serviram ao Senhor Deus, que se compadeceu de suas misérias.  
 **17** Os filhos de Amon com grande algazarra acamparam em Gaad; e os filhos de Israel, congregando-se contra eles, acamparam em Masfa.  
 **18** O povo, os chefes de Galaad disseram uns para os outros: O primeiro de nós que começar a combater contra os filhos de Amon, será chefe do povo de Galaad.  
@@ -357,7 +357,7 @@
 **2** Galaad porém teve uma esposa (legítima), da qual teve filhos, os quais, depois de crescerem, lançaram fora Jefté, dizendo: Tu não podes ser herdeiro na casa do nosso pai, visto teres nascido de outra mãe (que não era mulher legítima).  
 **3** Ele, fugindo e retirando-se deles, habitou na terra de Tob; alguns homens miseráveis, que viviam de latrocínios, agregaram-se a ele, e seguiam-no como a seu capitão (contra os inimigos de Israel).  
 **4** Algum tempo depois, os filhos de Amon combatiam contra Israel.  
-**5** Enquanto os filhos de Amon faziam guerra a Israel, os anciãos de Galaad foram buscar Jefté da terra de Tob, para seu auxilio,  
+**5** Enquanto os filhos de Amon faziam guerra a Israel, os anciãos de Galaad foram buscar Jefté da terra de Tob, para seu auxílio,  
 **6** e disseram-lhe: Vem, e sê o nosso chefe, e combate contra os filhos de Amon.  
 **7** Mas ele respondeu-lhes: Não sois vós aqueles que me odiastes e que me lançastes fora da casa de meu pai? Por que vindes agora ter comigo constrangidos pela necessidade?  
 **8** Os anciães de Galaad disseram a Jefté: Por isso mesmo viemos nós agora ter contigo, para que venhas ter connosco, e combatas contra os filhos de Amon, e sejas o chefe de todos os que habitam em Galaad.  
@@ -371,7 +371,7 @@
 **16** Com efeito, quando saiu do Egipto, andou pelo deserto até ao Mar Vermelho, chegou a Cades,  
 **17** e então enviou embaixadores ao rei de Edom, dizendo-lhe: Deixa-me passar pela tua terra. Ele não quis condescender com os seus pedidos. Mandou também embaixadores ao rei de Moab, o qual também lhe não quis dar passagem. Deteve-se pois em Cades,  
 **18** e rodeou, a seguir, a terra de Edom e a terra de Moab; chegando à parte oriental da terra de Moab, acampou da outra banda de Arnom, e não quis entrar nos confins de Moab, porque Arnon é a fronteira da terra de Moab.  
-**19** Enviou, daí, Israel embaixadores a Seon, rei dos Amorreus, que habitava em Hesebon, que lhe disseram: Deixa-nos passar pelo teu pais até ao rio.  
+**19** Enviou, daí, Israel embaixadores a Seon, rei dos Amorreus, que habitava em Hesebon, que lhe disseram: Deixa-nos passar pelo teu país até ao rio.  
 **20** Porém ele, desprezando também as palavras de Israel, não o deixou passar pelo seu território, mas, tendo juntado uma inumerável multidão, saiu contra ele, em Jasa, e atacou-o.  
 **21** Todavia o Senhor entregou-o com todo o sou exército nas mãos de Israel, que o desbaratou, e conquistou toda a terra do Amorreu, que habitava naquela região,  
 **22** e todos os seus limites, desde o Arnon até Jaboc, e desde o deserto até ao Jordão.  
@@ -630,7 +630,7 @@
 **23** Antes, porém, subiram e foram chorar até a noite diante do Senhor, e consultaram-no, dizendo: Devemos continuar ainda a pelejar contra os filhos de Benjamin, nossos irmãos, ou não? O Senhor respondeu-lhes: Ide contra eles.  
 **24** Ao outro dia, tendo marchado os filhos de Israel para combater contra os filhos de Benjamim,  
 **25** os filhos de Benjamim saíram com ímpeto das portas de Gabaa ao seu encontro, e fizeram neles tão grande mortandade, que derrubaram dezoito mil guerreiros.  
-**26** Pelo que todos os filhos de Israel foram à casa de Deus e, sentados, choravam diante do Senhor; jejuaram aquele dia, até à tarde, ofereceram-lhe holocaustos e vitimas pacíficas,  
+**26** Pelo que todos os filhos de Israel foram à casa de Deus e, sentados, choravam diante do Senhor; jejuaram aquele dia, até à tarde, ofereceram-lhe holocaustos e vítimas pacíficas,  
 **27** e consultaram-no. Naquele tempo a arca da aliança de Deus estava lá,  
 **28** e Finéas, filho de Eleázaro, filho de Aarão, presidia à casa (de Deus). Consultaram pois o Senhor: Devemos ainda sair a combater contra os filhos de Benjamim, nossos irmãos, ou desistir? O Senhor disse-lhes: Saí, porque amanhã eu os entregarei nas vossas mãos.  
 **29** Os filhos de Israel puseram emboscadas à roda da cidade de Gabaa,  

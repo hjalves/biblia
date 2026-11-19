@@ -40,7 +40,7 @@
 **7** Estavam todos atónitos e admiravam-se, dizendo: "Porventura não são Galileus todos estes que falam?  
 **8** Como é que os ouvimos falar cada um de nós a nossa língua materna?  
 **9** Partos, Medos, Elamitas, os que habitam a Mesopotâmia, a Judeia, a Capadócia, o Ponto e a Ásia,  
-**10** a Frigia e a Panfília, o Egipto e várias partes da Líbia, vizinhas de Cirene, e os vindos de Roma,  
+**10** a Frígia e a Panfília, o Egipto e várias partes da Líbia, vizinhas de Cirene, e os vindos de Roma,  
 **11** tanto Judeus como prosélitos, Cretenses e Árabes, todos os ouvimos falar nas nossas línguas das maravilhas de Deus."  
 **12** Estavam todos atónitos e fora de si, dizendo uns para os outros: "Que quer isto dizer?  
 **13** Outros, porém, escarnecendo, diziam: "Estão cheios de vinho doce."  
@@ -172,7 +172,7 @@
 **20** "Ide, e, apresentando-vos no templo, pregai ao povo todas as palavras desta vida."  
 **21** Eles obedecendo a esta ordem, entraram ao amanhecer no templo e puseram-se a ensinar. Entretanto, tendo chegado o príncipe dos sacerdotes e os do seu partido, convocaram o Sinédrio e todo o Senado dos filhos de Israel, e mandaram à prisão buscar os Apóstolos, para que fossem ali trazidos.  
 **22** Tendo lá ido os guardas, não os encontraram, e voltaram a dar a notícia,  
-**23** dizendo: "Encontramos a prisão fechada cuidadosamente, e os guardas de pé diante das portas, mas, abrindo-as não encontramos ninguém dentro."  
+**23** dizendo: "Encontrámos a prisão fechada cuidadosamente, e os guardas de pé diante das portas, mas, abrindo-as não encontrámos ninguém dentro."  
 **24** Ao ouvirem tais palavras, o oficial do templo e os príncipes dos sacerdotes estavam perplexos e perguntavam entre si o que aquilo queria dizer.  
 **25** Neste momento, alguém foi dizer-lhes: "Eis que aqueles homens, que metestes na prisão, estão no templo e ensinam o povo."  
 **26** Então foi o chefe da polícia com os seus agentes e trouxe-os sem violência, porque temiam que o povo os apedrejasse.  
@@ -254,7 +254,7 @@
 **39** ele, a quem nossos pais não quiseram obedecer, antes repeliram. Voltaram-se em seus corações para o Egipto,  
 **40** dizendo a Aarão; Faze-nos deuses, que vão adiante de nós, porque esse Moisés,' que nos tirou da terra do Egipto, não sabemos o que foi feito dele (Ex. 32,t-23).  
 **41** Naqueles dias, fizeram um bezerro (de ouro) e ofereceram sacrifício ao ídolo, e alegravam-se das obras das suas mãos.  
-**42** Mas Deus afastou-se deles e abandonou-os ao culto da milícia do céu, como está escrito no livro dos profetas: Porventura oferecestes-me vós, casa de Israel, algumas vitimas e sacrifícios pelo espaço de quarenta anos no deserto?  
+**42** Mas Deus afastou-se deles e abandonou-os ao culto da milícia do céu, como está escrito no livro dos profetas: Porventura oferecestes-me vós, casa de Israel, algumas vítimas e sacrifícios pelo espaço de quarenta anos no deserto?  
 **43** Transportastes a tenda de Moloch e o astro do vosso deus Renfa, figuras que fizestes para as adorar. Pois eu vos transportarei para além de Babilónia (Am. 5,25-27).  
 **44** O tabernáculo do testemunho esteve entre os nossos pais no deserto, segundo a ordem daquele que tinha prescrito a Moisés que o construísse segundo o modelo que tinha visto.  
 **45** Nossos pais, tendo-o recebido, levaram-no sob a direcção de Josué, quando foram tomar posse da terra das nações, que Deus lançou de diante de nossos pais, até aos dias de David,  
@@ -324,7 +324,7 @@
 **3** Prosseguindo ele a sua jornada, aconteceu que, ao aproximar-se de Damasco, subitamente o cercou uma luz fulgurante vinda do céu.  
 **4** Caindo por terra, ouviu uma voz que lhe dizia: "Saulo, Saulo, por que me persegues?"  
 **5** Ele disse: "Quem és tu, Senhor?" Ele (respondeu); "Eu sou Jesus, a quem tu persegues,  
-**6** Levanta-te, entra na cidade, e ai te será dito o que deves fazer."  
+**6** Levanta-te, entra na cidade, e aí te será dito o que deves fazer."  
 **7** Aqueles que o acompanhavam, estavam estupefactos, ouvindo a voz, mas não vendo ninguém.  
 **8** Saulo levantou-se da terra e, tendo os olhos abertos, não via nada. Eles, porém, levando-o pela mão, o conduziram a Damasco.  
 **9** Esteve ali três dias sem ver, sem comer nem beber.  
@@ -427,7 +427,7 @@
 **9** Respondeu-me outra vez a voz do céu: O que Deus declarou puro, não lhe chames tu impuro.  
 **10** Isto sucedeu por três vezes; depois tudo foi retirado para o céu.  
 **11** Eis que chegaram logo três homens à casa, onde eu estava, enviados a mim de Cesareia.  
-**12** O Espírito disse-me que fosse com eles, sem hesitação alguma. Estes seis irmãos foram também comigo e entramos na casa daquele homem (que me mandou buscar).  
+**12** O Espírito disse-me que fosse com eles, sem hesitação alguma. Estes seis irmãos foram também comigo e entrámos na casa daquele homem (que me mandou buscar).  
 **13** Ele contou-nos como tinha visto na sua casa um anjo apresentar-se diante dele, dizendo: Manda a Jope chamar Simão, que tem por sobrenome Pedro,  
 **14** o qual te anunciará palavras, pelas quais serás salvo, tu e toda a tua casa.  
 **15** Tendo eu começado a falar, desceu o Espírito sobre eles, como (tinha descido) sobre nós no princípio.  
@@ -489,7 +489,7 @@
 **10** disse: "Ó (tu, que estás) cheio de todo o engano e de toda a astúcia, filho do demónio, inimigo de toda a justiça, não acabarás de perverter os caminhos rectos do Senhor?  
 **11** Pois agora eis que a mão do Senhor está sobre ti, ficarás cego, sem ver o sol durante certo tempo." Caíram logo sobre ele a obscuridade e as trevas: andando à roda, buscava quem lhe desse a mão.  
 **12** Então o procônsul, vendo este facto, creu, maravilhado com a doutrina do Senhor.  
-**13** Tendo-se feito à vela de Pafos, Paulo e os que com ele se encontravam, chegaram a Perge da Panfilia, Aqui João, apartando-se deles, voltou a Jerusalém.  
+**13** Tendo-se feito à vela de Pafos, Paulo e os que com ele se encontravam, chegaram a Perge da Panfília, Aqui João, apartando-se deles, voltou a Jerusalém.  
 **14** Eles, porém, passando além de Perge, foram a Antioquia da Pisídia, e, tendo entrado na sinagoga em dia de sábado, tomaram assento.  
 **15** Depois da leitura da lei e dos profetas, os chefes da sinagoga mandaram-lhes dizer: "Irmãos, se tendes alguma exortação a fazer ao povo, falai."  
 **16** Então Paulo, levantando-se e fazendo com a mão sinal de silêncio, disse: "Varões israelitas, e vós que temeis a Deus, ouvi:  
@@ -523,7 +523,7 @@
 **44** No sábado seguinte, concorreu quase toda a cidade a ouvir a palavra de Deus.  
 **45** Mas os Judeus, vendo aquela concorrência (de gente), encheram-se de inveja e responderam com injúrias às palavras de Paulo.  
 **46** Então Paulo e Barnabé disseram-lhes resolutamente; "Vós éreis os primeiros a quem se devia anunciar a palavra de Deus, mas, porque a rejeitais e vos julgais indignos da vida eterna, eis que nos voltamos para os gentios,  
-**47** porque assim nos ordenou o Senhor: Eu te constitui luz das nações para que sejas a salvação até à extremidade da terra (Is. 49, 6).  
+**47** porque assim nos ordenou o Senhor: Eu te constituí luz das nações para que sejas a salvação até à extremidade da terra (Is. 49, 6).  
 **48** Os gentios, ouvindo isto, alegraram-se e glorificavam a palavra do Senhor. Creram todos os que eram ordenados para a vida eterna.  
 **49** A palavra de Deus espalhava-se por toda aquela região.  
 **50** Mas os Judeus instigaram algumas mulheres devotas e nobres, assim como os principais da cidade, e suscitaram uma perseguição contra Paulo e Barnabé, que lançaram fora do seu território.  
@@ -602,7 +602,7 @@
 **38** Paulo, porém, procurava fazer-lhe ver que um homem, que se tinha separado deles na Panfília e não tinha ido com eles àquela obra, não devia ser admitido.  
 **39** E houve tal desacordo entre eles, que se separaram um do outro. Barnabé, levando consigo Marcos, embarcou para Chipre.  
 **40** Paulo, tendo escolhido Silas, partiu, recomendado pelos irmãos à graça de Deus.  
-**41** Percorreu a Síria e a Cilicia, confirmando as igrejas.  
+**41** Percorreu a Síria e a Cilícia, confirmando as igrejas.  
 
 ## Capítulo 16
 
@@ -615,7 +615,7 @@
 **7** Tendo chegado aos confins da Mísia, intentavam passar a Bitínia, mas não lho permitiu o Espírito de Jesus.  
 **8** Depois de terem atravessado a Mísia, desceram a Tróade.  
 **9** Durante a noite, Paulo teve uma visão: Apresentava-se diante dele, em pé, um homem da Macedónia, que lhe rogava: "Passa à Macedónia e ajuda-nos."  
-**10** Logo que teve esta visão, procuramos partir para a Macedónia, certificados de que Deus nos chamava a ir lá evangelizar.  
+**10** Logo que teve esta visão, procurámos partir para a Macedónia, certificados de que Deus nos chamava a ir lá evangelizar.  
 **11** Tendo-nos, pois, feito à vela de Tróade, fomos em direcção à Samotrácia, e, no dia seguinte, a Neápolis;  
 **12** daí a Filipos, que é uma colónia (romana) e principal cidade daquela parte da Macedónia. Nesta cidade nos detivemos alguns dias.  
 **13** No dia de sábado, saímos fora das portas, junto de uma ribeira, onde julgávamos haver um lugar de oração. Sentando-nos, falávamos às mulheres que tinham concorrido.  
@@ -708,7 +708,7 @@
 **20** Rogando-lhe eles que ficasse ali mais tempo, não condescendeu,  
 **21** mas despediu-se, dizendo: "Outra vez, se Deus quiser, voltarei a vós." E partiu de Éfeso.  
 **22** Desembarcando em Cesareia, subiu (a Jerusalém), aí saudou a Igreja, e foi em seguida a Antioquia.  
-**23** Tendo estado ali algum tempo, partiu, atravessando sucessivamente a terra da Galácia e a Frigia, fortalecendo todos os discípulos.  
+**23** Tendo estado ali algum tempo, partiu, atravessando sucessivamente a terra da Galácia e a Frígia, fortalecendo todos os discípulos.  
 **24** Ora tinha chegado a Éfeso um judeu, chamado Apolo, natural de Alexandria, homem eloquente, versado nas Escrituras.  
 **25** Havia sido instruído no caminho do Senhor, falava com fervor de espírito e ensinava com exactidão o que dizia respeito a Jesus, embora conhecesse sòmente o baptismo de João.  
 **26** Começou a falar com liberdade na sinagoga. Quando Priscila e Áquila o ouviram, levaram-no consigo e expuseram-lhe mais minuciosamente o caminho do Senhor.  
@@ -807,12 +807,12 @@
 **4** Tendo encontrado lá discípulos, detivemo-nos sete dias. Inspirados pelo Espírito Santo, diziam eles a Paulo que não subisse a Jerusalém.  
 **5** Passados estes sete (dias), partimos, acompanhando-nos todos com as mulheres e filhos até fora da cidade. Postos de joelhos na praia, fizemos oração.  
 **6** Em seguida, tendo-nos despedido-uns dos outros, embarcámos, e eles voltaram para suas casas.  
-**7** E nós, concluída a nossa navegação, de Tiro chegamos a Ptolemaida, onde, saudados os irmãos, nos demoramos um dia com eles.  
-**8** Tendo partido no dia seguinte, chegamos a Cesareia, e, entrando em casa de Filipe, o Evangelista, que era um dos sete (diáconos), ficamos com ele.  
+**7** E nós, concluída a nossa navegação, de Tiro chegámos a Ptolemaida, onde, saudados os irmãos, nos demorámos um dia com eles.  
+**8** Tendo partido no dia seguinte, chegamos a Cesareia, e, entrando em casa de Filipe, o Evangelista, que era um dos sete (diáconos), ficámos com ele.  
 **9** Tinha ele quatro filhas virgens que profetizavam.  
 **10** Demorando-nos ali alguns dias, chegou da Judeia um profeta chamado Agabo.  
 **11** Este veio ter connosco, tomou a cinta de Paulo, e, atando-se os pés e as mãos, disse: "Isto diz o Espírito Santo: Assim atarão os Judeus em Jerusalém ao homem a quem pertence esta cinta, e o entregarão nas mãos dos gentios."  
-**12** Quando ouvimos isto, nós e os que eram daquele lugar, rogamos-lhe que não fosse a Jerusalém.  
+**12** Quando ouvimos isto, nós e os que eram daquele lugar, rogámos-lhe que não fosse a Jerusalém.  
 **13** Então Paulo respondeu: "Que fazeis, chorando e afligindo o meu coração? Porque estou pronto não só para ser atado, mas até para morrer em Jerusalém pelo nome do Senhor Jesus."  
 **14** E, não o podendo persuadir, cessámos com as nossas instâncias, dizendo: "Seja feita a vontade do Senhor."  
 **15** Depois destes dias, tendo-nos preparado, subimos a Jerusalém.  
@@ -846,7 +846,7 @@
 
 **1** "Irmãos e pais, ouvi o que agora tenho a dizer-vos para minha defesa."  
 **2** Quando ouviram que lhes falava em língua hebraica, escutaram-no com maior atenção.  
-**3** Disse: "Eu sou judeu nascido em Tarso da Cilicia, mas educado nesta cidade, aos pés de Gamaliel, instruído, a fundo, na lei de nossos pais, cheio de zelo de Deus, como todos vós também o sois hoje.  
+**3** Disse: "Eu sou judeu nascido em Tarso da Cilícia, mas educado nesta cidade, aos pés de Gamaliel, instruído, a fundo, na lei de nossos pais, cheio de zelo de Deus, como todos vós também o sois hoje.  
 **4** Persegui de morte esta doutrina, prendendo e metendo em cárceres homens e mulheres,  
 **5** como o príncipe dos sacerdotes e todos os anciães me são testemunhas, dos quais tendo recebido cartas para os irmãos, caminhava para Damasco, com o fim de os trazer dali presos a Jerúsalem, para que fossem castigados.  
 **6** Mas aconteceu que, indo eu no caminho, encontrando-me perto de Damasco, ao meio-dia, de repente resplandeceu em volta de mim uma grande luz do céu.  
@@ -902,7 +902,7 @@
 **23** Chamando, então, dois centuriões, disse-lhes: "Tende prontos à hora terceira da noite duzentos soldados para que vão até Cesareia, e setenta cavaleiros e duzentos lanceiros.  
 **24** Aparelhai as cavalgaduras, para nelas fazer montar Paulo, a fim de o conduzir são e salvo ao presidente Félix."  
 **25** Redigiu uma carta nos seguintes termos:  
-**26** "Cláudio Lisias ao óptimo presidente Félix, saúde!  
+**26** "Cláudio Lísias ao óptimo presidente Félix, saúde!  
 **27** Este homem foi preso pelos Judeus, e estava prestes a ser morto por eles, mas, sobrevindo eu com os soldados, o livrei, tendo sabido que é cidadão romano.  
 **28** Querendo saber de que delito o acusavam, levei-o ao Sinédrio.  
 **29** Achei que era acusado por questões da lei deles, sem haver delito algum digno de morte ou prisão.  
@@ -910,7 +910,7 @@
 **31** Os soldados, pois, conforme a ordem que tinham, tomaram Paulo com eles e levaram-no de noite a Antípatro.  
 **32** No dia seguinte, deixando que os cavaleiros fossem com ele, voltaram para a fortaleza.  
 **33** Aqueles, tendo chegado a Cesareia e tendo entregado a carta ao presidente, apresentaram-lhe Paulo.  
-**34** Ele, depois de a ler e de perguntar de que província era, sabendo que era da Cilicia, disse:  
+**34** Ele, depois de a ler e de perguntar de que província era, sabendo que era da Cilícia, disse:  
 **35** "Ouvir-te-ei quando chegarem os teus acusadores." E mandou que Paulo fosse guardado no pretório (chamado) de Herodes.  
 
 ## Capítulo 24
@@ -919,7 +919,7 @@
 **2** Citado Paulo, começou Tertulo a acusá-lo, dizendo: "Pela tua autoridade é que nós gozamos de muita paz, e pelas tuas providências se têm reformado muitas coisas;  
 **3** nós o reconhecemos sempre e em todo o lugar, óptimo Félix, com toda a gratidão.  
 **4** Mas, para não te deter muito tempo, rogo-te que nos ouças um momento com a tua costumada bondade.  
-**5** Encontramos este homem pestífero que excita sedições entre todos os Judeus em todo o mundo, que é cabeça da seita dos nazarenos  
+**5** Encontrámos este homem pestífero que excita sedições entre todos os Judeus em todo o mundo, que é cabeça da seita dos nazarenos  
 **6** e que tentou até profanar o templo, de maneira que o prendemos.  
 **7** (Quisemos julgá-lo segundo a nossa lei. Mas, intervindo o tribuno Lísias, tirou-o das nossas mãos com grande violência,  
 **8** ordenando que os seus acusadores viessem comparecer diante de ti.) Tu mesmo poderás, interrogando-o, tomar conhecimento de todas estas coisas, de que o acusamos."  
@@ -1013,7 +1013,7 @@
 **1** Depois que foi decidido que seguíssemos por mar para a Itália, confiaram Paulo e outros presos a um centurião da coorte Augusta, chamado Júlio,  
 **2** Embarcámos num navio de Adramíteo, que devia fazer cabotagem ao longo dos litorais da Ásia, e levantámos ferro em companhia de Aristarco, macedónio de Tessalonica.  
 **3** No dia seguinte chegámos a Sidónia. Júlio, tratando benèvolamente Paulo, permitiu-lhe ir ter com os amigos e receber os seus cuidados.  
-**4** Feitos dali à vela costeamos (a ilha de) Chipre, por nos serem contrários os ventos.  
+**4** Feitos dali à vela costeámos (a ilha de) Chipre, por nos serem contrários os ventos.  
 **5** Depois, tendo atravessado o mar da Cilícia e da Panfília, chegámos a Mira da Lícia.  
 **6** Aí, tendo o centurião encontrado um navio de Alexandria, que navegava para Itália, fez-nos embarcar nele.  
 **7** Durante muitos dias, navegando lentamente e tendo com dificuldade chegado à vista de Gnido, porque o vento nos impedia, fomos costeando a ilha de Creta, junto a Salmone,  

@@ -62,7 +62,7 @@
 **19** pois que ele nos livrou já de grandes perigos e purificou o seu templo.  
 **20** A história de Judas Macabeu e seus irmãos, a purificação do grande templo e a dedicação do altar,  
 **21** as guerras contra Antíoco Epífanes e seu filho Eupator,  
-**22** as manifestações do céu a favor dos que pelejaram pelo judaísmo com valentia e zelo, os quais, sendo poucos, se tomaram senhores de todo o pais e puseram em fuga um grande número de bárbaros,  
+**22** as manifestações do céu a favor dos que pelejaram pelo judaísmo com valentia e zelo, os quais, sendo poucos, se tomaram senhores de todo o país e puseram em fuga um grande número de bárbaros,  
 **23** recobraram o templo famoso em todo o mundo, livraram a cidade da escravidão, restabeleceram as leis que iam ser abolidas, graças ao Senhor que lhes foi propício com evidentes provas da sua bondade,  
 **24** tudo isto, que Jasão de Cirene escreveu em cinco livros, procuramos nós resumir num só volume.  
 **25** Considerando a multidão de livros e a dificuldade que encontram os que querem aplicar-se às narrações das histórias, por causa da multidão dos sucessos,  
@@ -114,7 +114,7 @@
 **35** Heliodoro, depois de ter oferecido um sacrifício a Deus e feito grandes promessas ao que lhe tinha concedido a vida, agradeceu a Onias e voltou com as suas tropas para o rei.  
 **36** A todos testificava Heliodoro as obras do grande Deus, que ele vira com os próprios olhos.  
 **37** Tendo perguntado o rei a Heliodoro quem lhe parecia apto para ser mandado outra vez a Jerusalém, respondeu:  
-**38** Se tens algum inimigo, ou adversário da tua governação, manda-o lá, e tu o verás voltar açoutado— se escapar— porque verdadeiramente naquele sitio há uma virtude divina.  
+**38** Se tens algum inimigo, ou adversário da tua governação, manda-o lá, e tu o verás voltar açoutado— se escapar— porque verdadeiramente naquele sítio há uma virtude divina.  
 **39** Aquele que tem habitação nos céus, está vigilante e protege esse lugar, e fere e mata os que lá vão para fazer algum mal.  
 **40** Eis o que se passou a respeito de Heliodoro e da conservação do erário.  
 
@@ -126,7 +126,7 @@
 **4** considerando Onias o perigo desta discórdia, e que Apolónio, governador da Celesíria e da Fenícia, andava a incitar a malícia de Simão, foi ter com o rei,  
 **5** não como acusador dos seus compatriotas, mas como curador da utilidade comum e particular de todo o povo.  
 **6** Com efeito, via que, sem uma providência do rei, não era possível pôr as coisas em paz, nem fazer Simão desistir da sua loucura.  
-**7** Depois da morte de Seleuco, tendo recebido o reino Antioco, chamado Epífanes, procurava Jasão, irmão de Onias, usurpar-lhe o sumo sacerdócio.  
+**7** Depois da morte de Seleuco, tendo recebido o reino Antíoco, chamado Epífanes, procurava Jasão, irmão de Onias, usurpar-lhe o sumo sacerdócio.  
 **8** Foi (com este fim) ter com o rei, prometendo-lhe trezentos e sessenta talentos de prata e oitenta talentos doutras rendas;  
 **9** prometia-lhe ainda mais outros cento e cinquenta talentos, se lhe fosse dada faculdade de estabelecer um ginásio e uma efebia, e inscrever os habitantes de Jerusalém como cidadãos de Antioquia.  
 **10** O rei anuiu a esta petição. (Jasão) desde que obteve o poder começou logo a fazer passar os seus concidadãos para os costumes dos gregos.  
@@ -145,7 +145,7 @@
 **23** Depois dum intervalo de três anos, mandou Jasão a Menelau, irmão daquele Simão de que se falou acima, para levar dinheiro ao rei e tratar de negócios urgentes.  
 **24** Porém Menelau, tendo adquirido a benevolência do rei pelo modo lisonjeiro com que exagerava a grandeza do seu poder, conseguiu fazer recair nas suas mãos o sumo sacerdócio, oferecendo trezentos talentos de prata a mais do que Jasão.  
 **25** Recebidas as ordens do rei, voltou, não tendo nada que fosse, digno do sacerdócio, mas antes os instintos dum tirano cruel e a ira dum animal selvagem.  
-**26** Assim Jasão, que havia sido de seu próprio irmão suplantador, foi por sua vez suplantado e forçado a exilar-se no pais dos Amonitas.  
+**26** Assim Jasão, que havia sido de seu próprio irmão suplantador, foi por sua vez suplantado e forçado a exilar-se no país dos Amonitas.  
 **27** Desta sorte obteve Menelau o poder, mas não cuidou de mandar ao rei o dinheiro que lhe tinha prometido, ainda que Sostrato, governador da acrópole o apertasse sobre este pagamento,  
 **28** porque a ele pertencia a cobrança dos tributos. Por tal motivo ambos foram citados a comparecer diante do rei.  
 **29** Menelau deixou a substitui-lo no pontificado, Lisimaco, seu irmão; Sostrato deixou Crates, governador de Chipre.  
@@ -173,11 +173,11 @@
 
 ## Capítulo 5
 
-**1** Por este mesmo tempo preparou Antioco a segunda expedição contra o Egipto.  
+**1** Por este mesmo tempo preparou Antíoco a segunda expedição contra o Egipto.  
 **2** Aconteceu que em toda a cidade de Jerusalém, por espaço de quarenta dias, se viram homens a cavalo, correndo pelo ar, vestidos de ouro e armados de lanças, à semelhança de coortes,  
 **3** cavalos ordenados em esquadrões, ataques e cargas dum e doutro lado, movimentos de escudos, grande multidão de lanças, espadas nuas, tiros de dardos, resplendor de armaduras e ouro e de couraça de todo o género.  
 **4** Portanto todos rogavam (a Deus) que tais prodígios fossem em seu favor.  
-**5** Tendo-se espalhado o falso rumor de que Antioco morrera, Jasão, tomando consigo não menos de mil homens, acometeu de improviso a cidade. Os cidadãos concorreram de todas as partes aos muros, mas ele por fim apoderou-se da cidade, e Menelau fugiu para a cidadela.  
+**5** Tendo-se espalhado o falso rumor de que Antíoco morrera, Jasão, tomando consigo não menos de mil homens, acometeu de improviso a cidade. Os cidadãos concorreram de todas as partes aos muros, mas ele por fim apoderou-se da cidade, e Menelau fugiu para a cidadela.  
 **6** Entretanto Jasão fazia impiedosa matança dos seus próprios concidadãos, não considerando que uma vitória ganha contra os compatriotas é o maior desastre, mas agindo como se alcançasse um troféu dos seus inimigos, e não dos seus concidadãos.  
 **7** Todavia não lhe foi possível apoderar-se do poder, mas recebeu a confusão como fruto da sua perfídia e retirou-se fugitivo outra vez para a terra dos Amonitas.  
 **8** Por fim, apertado por Aretas, rei dos Árabes, fugindo de cidade em cidade, aborrecido de todos, detestado como violador das leis, execrando como carrasco da pátria e dos concidadãos, foi empurrado para o Egipto.  
@@ -194,9 +194,9 @@
 **19** Porém, Deus não escolheu o povo por amor do lugar (ou templo), mas escolheu este por amor do povo.  
 **20** Por isso também este lugar participou das desgraças do povo, bem como depois participou com ele dos bens; desamparado por causa da ira do Deus omnipotente, veio de novo a ser elevado à glória anterior, quando o soberano Senhor se reconciliou (com o seu povo).  
 **21** Tendo Antíoco tirado do templo mil e oitocentos talentos, voltou sem demora para Antioquia, deixando-se possuir dum tal excesso de soberba e elevando-se tanto no coração, que lhe parecia que podia navegar sobre a terra e caminhar sobre o mar.  
-**22** Entretanto deixou ali governadores para afligirem o povo: em Jerusalém a Filipe, originário da Frigia, mais cruel em seus costumes do que aquele mesmo que o havia estabelecido,  
+**22** Entretanto deixou ali governadores para afligirem o povo: em Jerusalém a Filipe, originário da Frígia, mais cruel em seus costumes do que aquele mesmo que o havia estabelecido,  
 **23** e em Garizim a Andronico, aos quais juntou Menelau, mais encarniçado que os outros contra os seus concidadãos.  
-**24** Mandou-lhes também Antioco o detestável Apolónio, com um exército de vinte e dois mil homens, com ordem de matar todos os adultos e de vender as mulheres e as crianças.  
+**24** Mandou-lhes também Antíoco o detestável Apolónio, com um exército de vinte e dois mil homens, com ordem de matar todos os adultos e de vender as mulheres e as crianças.  
 **25** Apolónio, logo que chegou a Jerusalém, fingindo que só buscava a paz, esteve quieto até ao santo dia de sábado; nele, quando os Judeus estavam em descanso, ordenou aos seus soldados que tomassem armas.  
 **26** Então mandou matar todos os que saíram a ver este espectáculo, e, correndo a cidade com os seus soldados, tirou a vida a grande número de pessoas.  
 **27** Entretanto Judas Macabeu, que era o décimo, retirou-se a um lugar despovoado e passava ali a vida nos montes com os seus entre as feras; apenas comiam ervas do campo, para não se mancharem.  
@@ -344,7 +344,7 @@
 **21** Quanto a mim, prostrado sem forças, no meu leito, lembro-me, com satisfação, das provas de respeito e benquerença que me haveis dado. Nesta grande doença que me surpreendeu ao voltar das regiões da Pérsia, julguei necessário cuidar da segurança de todos,  
 **22** embora não porque desespere da minha cura, pois, pelo contrário, tenho grande confiança de me restabelecer.  
 **23** (O caso é que) considerei como meu pai, quando capitaneava o seu exército nas províncias superiores, designou quem havia de reinar depois dele,  
-**24** a fim de que, se acontecesse alguma infelicidade ou se se espalhasse uma noticia funesta, não se inquietassem os que viviam nas províncias do reino, sabendo quem era o que ele tinha deixado por herdeiro do seu governo.  
+**24** a fim de que, se acontecesse alguma infelicidade ou se se espalhasse uma notícia funesta, não se inquietassem os que viviam nas províncias do reino, sabendo quem era o que ele tinha deixado por herdeiro do seu governo.  
 **25** Reflectindo, além disto, em que os monarcas confiantes e vizinhos poderosos do meu reino estão espreitando as conjunturas e aguardando as ocasiões (propicias às suas ambições), designo como rei a meu filho Antíoco, o qual eu, muitas vezes, ao passar às províncias superiores do meu reino, confiava e recomendava a muitos de vós. Escrevi-lhe a carta que abaixo se transcreve.  
 **26** Portanto vos peço e rogo que, lembrados dos benefícios recebidos de mim, em geral e em particular, guarde cada um a meu filho a lealdade devida a mim.  
 **27** Porque espero que ele se portará com moderação e com brandura, seguindo os meus conselhos, e que será humano convosco.  
@@ -368,7 +368,7 @@
 **13** foi acusado disto na presença de Eupator pelos seus favoritos. Ouvindo que o tratavam muitas vezes de traidor, por ter deixado Chipre, que o rei Filometor lhe tinha confiado, e passado para o partido de Antíoco Epífanes, e vendo que não podia mais exercer honrosamente o seu cargo, matou-se com veneno.  
 **14** Ora Górgias, tornado chefe militar destas regiões, tomava consigo tropas estrangeiras e aproveitava todas as ocasiões para molestar os Judeus.  
 **15** Por outra parte, os Idumeus, senhores de praças fortes, incomodavam os Judeus, recolhiam os que tinham sido expulsos de Jerusalém e buscavam ocasiões de fazer guerra (contra Judas).  
-**16** Entretanto os que andavam com Macabeu, tendo conjurado pelas suas orações o Senhor a que viesse em seu auxilio, atacaram as fortalezas dos Idumeus.  
+**16** Entretanto os que andavam com Macabeu, tendo conjurado pelas suas orações o Senhor a que viesse em seu auxílio, atacaram as fortalezas dos Idumeus.  
 **17** Depois de vigorosos esforços, apoderaram-se daqueles lugares, rechaçaram os que combatiam sobre os muros e mataram os que se lhes puseram diante; entre todos passaram à espada não menos de vinte mil homens.  
 **18** Nove mil homens, pelo menos, refugiaram-se em duas fortalezas, onde tinham tudo o que era necessário para bem se defenderem.  
 **19** Macabeu deixou, para as expugnar, Simão e José, assim como Zaqueu e os seus companheiros, em número suficiente, e marchou em pessoa para onde as necessidades mais urgentes da guerra o chamavam.  
@@ -399,7 +399,7 @@
 **3** sujeitar a tributo o templo, como os outros templos dos pagãos, e pôr à venda todos os anos o sumo sacerdócio,  
 **4** não fazendo reflexão alguma no poder de Deus, mas ensoberbecendo-se pela multidão da sua infantaria, pelos seus milhares de cavalos e oitenta elefantes.  
 **5** Entrando, pois, na Judeia e abeirando-se de Betsur, praça forte situada num desfiladeiro, cinco estádios distante de Jerusalém, atacou-a.  
-**6** Logo, porém, que Macabeu e os que estavam com ele souberam que Lisias atacava as fortalezas, com gemidos e lágrimas rogavam ao Senhor, acompanhados de todo o povo, que enviasse um bom anjo para salvação de Israel.  
+**6** Logo, porém, que Macabeu e os que estavam com ele souberam que Lísias atacava as fortalezas, com gemidos e lágrimas rogavam ao Senhor, acompanhados de todo o povo, que enviasse um bom anjo para salvação de Israel.  
 **7** Macabeu foi o primeiro que tomou as armas e exortou os outros a exporem-se com ele ao perigo, para darem socorro a seu irmãos.  
 **8** Quando marchavam todos juntos com ânimo resoluto, apareceu, ainda perto de Jerusalém, um homem a cavalo, que adiante deles, vestido de hábitos brancos, com armas de ouro, brandindo uma lança.  
 **9** Então bem-disseram todos ao mesmo tempo ao Senhor misericordioso e encheram-se de coragem, prontos a pelejar, não só com os homens, mas também com os animais mais ferozes e a atravessar muros de ferro.  
@@ -408,8 +408,8 @@
 **12** e puseram em fuga todos os restantes. A maior parte deles não se puderam salvar, senão feridos e sem armas; até o mesmo Lísias só por meio duma vergonhosa fuga escapou.  
 **13** Mas como ele não era insensato, considerando consigo mesmo a perda que tinha tido e reconhecendo que os Hebreus eram invencíveis, pois se escoravam no socorro de Deus Todo-Poderoso, mandou-lhes embaixadores,  
 **14** a propor a reconciliação, sob condições razoáveis, oferecendo-se a persuadir o rei a que fizesse amizade com eles.  
-**15** Anuiu Macabeu aos rogos de Lísias, atendendo em todas as coisas ao interesse do público, e o rei esteve por tudo o que Macabeu pediu em favor dos Judeus, na carta que escreveu a Lisias.  
-**16** A carta que Lisias escreveu aos Judeus era concebida nestes termos: Lísias, ao povo dos Judeus, saúde,  
+**15** Anuiu Macabeu aos rogos de Lísias, atendendo em todas as coisas ao interesse do público, e o rei esteve por tudo o que Macabeu pediu em favor dos Judeus, na carta que escreveu a Lísias.  
+**16** A carta que Lísias escreveu aos Judeus era concebida nestes termos: Lísias, ao povo dos Judeus, saúde,  
 **17** João e Absalão, que me enviastes, ao entregar-me as vossas cartas, pediram-me que cumprisse as cláusulas que nelas se continham.  
 **18** Expus ao rei tudo o que se lhe podia representar, e ele concordou naquilo que as circunstâncias permitiam,  
 **19** Se, portanto, fordes fiéis ao rei nos vossos tratados, eu também daqui em diante me empenharei em vos fazer todo o bem que puder.  
@@ -435,8 +435,8 @@
 
 ## Capítulo 12
 
-**1** Concluído este tratado, voltou Lisias para o rei, e os Judeus ocupavam-se em cultivar as terras.  
-**2** Mas aqueles que tinham ficado (no pais), (a saber), Timóteo e Apolónio, filho de Jeneu, como também Jerónimo e Demefonte, juntamente com Nicanor, governador de Chipre, não os deixavam viver em paz nem em sossego.  
+**1** Concluído este tratado, voltou Lísias para o rei, e os Judeus ocupavam-se em cultivar as terras.  
+**2** Mas aqueles que tinham ficado (no país), (a saber), Timóteo e Apolónio, filho de Jeneu, como também Jerónimo e Demefonte, juntamente com Nicanor, governador de Chipre, não os deixavam viver em paz nem em sossego.  
 **3** Entretanto os habitantes de Joje cometeram o seguinte crime: Convidaram os Judeus, com quem habitavam, a que, com suas mulheres e filhos, se metessem numa barcas que tinham preparado, como se não houvesse entre eles inimizade alguma,  
 **4** mas, na realidade, agiam em virtude duma decisão tomada em comum pela cidade. Tendo (os Judeus) condescendido com isso, como pessoas pacíficas, sem a menor suspeita, quando chegaram ao mar alto, foram afogados pelo menos duzentos.  
 **5** Judas, logo que soube desta crueldade cometida contra a gente da sua nação, mandou aos que estavam com ele (que tomassem as armas) e, depois de ter invocado a Deus, justo Juiz,  
@@ -452,7 +452,7 @@
 **15** Os de Judas, invocado o grande Senhor do mundo, que, sem aríetes nem máquinas de guerra, no tempo de Josué instantaneamente derribou Jericó, assaltaram furiosamente as muralhas.  
 **16** Quando tomaram a cidade, pela vontade do Senhor, fizeram nela uma horrorosa carnificina, de sorte que um tanque que estava ao pé, de dois estádios de largo, parecia cheio de sangue dos mortos.  
 **17** Dali caminharam setecentos e cinquenta estádios e chegaram a Caraca, onde habitavam os Judeus, chamados Tubianeus.  
-**18** Não puderam haver ás mãos Timóteo naqueles lugares, porque, como não tinha conseguido fazer ali nada, voltou para trás, deixando em certo sitio uma fortíssima guarnição.  
+**18** Não puderam haver ás mãos Timóteo naqueles lugares, porque, como não tinha conseguido fazer ali nada, voltou para trás, deixando em certo sítio uma fortíssima guarnição.  
 **19** Mas Doslteu e Sosípatro, generais de Macabeu, mataram mais de dez mil homens que Timóteo tinha deixado para guarda daquela praça.  
 **20** Entretanto Macabeu, ordenado e repartido o seu exército em coortes, deu a estes dois generais o seu comando e marchou contra Timóteo, que tinha consigo cento e vinte mil infantes, e dois mil e quinhentos cavaleiros.  
 **21** Timóteo, logo que teve conhecimento da chegada de Judas, mandou adiante as mulheres, as crianças e os seus haveres, para um lugar chamado Carnion, porque era inexpugnável e de difícil entrada, por causa dos desfiladeiros da região.  
@@ -514,7 +514,7 @@
 ## Capítulo 14
 
 **1** Passados três anos. Judas e os seus amigos souberam que Demétrio, filho de Seleuco, tinha vindo pelo porto de Tripoli com um poderoso exército e navios,  
-**2** e que se tinha feito senhor da região e dado a morte a Antioco e ao seu tutor Lisias.  
+**2** e que se tinha feito senhor da região e dado a morte a Antíoco e ao seu tutor Lísias.  
 **3** Ora um certo Alcimo, que tinha sido sumo sacerdote e que voluntàriamente se havia manchado no tempo da introdução dos costumes pagãos, considerando que nenhuma salvação havia para ele, nem acesso ao altar,  
 **4** foi ter com o rei Demétrio, no ano cento e cinquenta, oferecendo-lhe uma coroa de ouro e uma palma, com uns ramos de oliveira, como os que é costume oferecer no templo. Nesse dia, contudo, não lhe disse nada.  
 **5** Mas achou ocasião oportuna de executar o seu louco intento, quando chamado por Demétrio ao conselho, foi interrogado sobre quais as disposições e projectos dos Judeus.  
@@ -596,7 +596,7 @@
 **32** Mostrou-lhes a cabeça do infame Nicanor e a mão, que este blasfemo com insolência estendera contra a santa casa do Todo-Poderoso.  
 **33** Depois mandou também que a língua daquele ímpio Nicanor fosse cortada em pedacinhos e dada a comer às aves, e que fosse pendurada defronte do templo a mão como salário da sua loucura.  
 **34** Todos, louvaram o Senhor do céu, dizendo: Bem-dito seja aquele (Senhor) que conservou puro o seu santo templo.  
-**35** Pendurou Judas também a cabeça de Nicanor na cidadela, para que fosse um sinal manifesto do auxilio de Deus.  
+**35** Pendurou Judas também a cabeça de Nicanor na cidadela, para que fosse um sinal manifesto do auxílio de Deus.  
 **36** Finalmente todos resolveram de comum acordo que de nenhum modo se deixasse passar aquele dia, sem se fazer nele uma festa particular,  
 **37** e que esta solenidade se celebrasse no décimo terceiro dia do décimo segundo mês, chamado em língua siríaca Adar, na véspera do dia (festivo) de Mardoqueu.  
 **38** Passadas estas coisas acerca de Nicanor, e ficando os Hebreus desde aquele tempo de posse da cidade, eu também porei aqui fim à minha narração.  
