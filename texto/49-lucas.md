@@ -533,7 +533,7 @@
 **32** Igualmente um levita, chegando perto daquele lugar, e vendo-o, passou adiante.  
 **33** Um samaritano, porém, que ia de viagem, chegou perto dele, e, quando o viu, moveu-se de compaixão.  
 **34** Aproximou-se, ligou-lhe as feridas, lançando nelas azeite e vinho; e, pondo-o sobre o seu jumento, levou-o a uma estalagem, e teve cuidado dele.  
-**35** No dia seguinte tirou dois dinheiros, deu-os ao estalajadeiro, e disse-lhe: Tem cuidado dele; quanto gastares a mais, eu to satisferei quando voltar.  
+**35** No dia seguinte tirou dois dinheiros, deu-os ao estalajadeiro, e disse-lhe: Tem cuidado dele; quanto gastares a mais, eu to satisfarei quando voltar.  
 **36** Qual destes três te parece que foi o próximo daquele que caiu nas mãos dos ladrões?"  
 **37** Ele respondeu: "O que usou com ele de misericórdia." Então Jesus disse-lhe: "Vai, e faz tu o mesmo."  
 **38** Indo em viagem, entrou em uma aldeia, e uma mulher, chamada Marta, recebeu-o em sua casa.  

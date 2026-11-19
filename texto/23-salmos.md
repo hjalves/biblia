@@ -1097,7 +1097,7 @@
 **8** Deus falou no seu santuário: "Exultarei e repartirei (à minha vontade) Siquém, e medirei o vale de Sucot.  
 **9** Minha é a tua terra Galaad, minha a terra de Manassés, Efraim é o elmo da minha cabeça, Judá o meu ceptro,  
 **10** Moab é como que a bacia para me levar; poisarei o meu calçado sobre Edom, triunfarei da Filisteia."1  
-**11** Quem me conduzirà à cidade fortificada? Quem me levará até Edom?  
+**11** Quem me conduzirá à cidade fortificada? Quem me levará até Edom?  
 **12** Quem, senão tu, ó Deus, que nos repeliste, tu, que já não sais, ó Deus, à frente dos nossos exércitos?  
 **13** Dá-nos auxílio contra o inimigo, porque é vão o socorro dos homens.  
 **14** Com Deus faremos proezas, e ele calcará aos pés os nossos inimigos.  
@@ -1503,7 +1503,7 @@
 **41** E voltaram a tentar a Deus, a exacerbar o santo de Israel.  
 **42** Não se lembraram do que ele tinha feito no dia em que os libertou da mão do opressor,  
 **43** quando fez resplandecer no Egipto os seus prodígios, e as suas maravilhas no campo de Tanis,  
-**44** quando converteu em sangue os seus rios e os seus arrolos, para que não pudessem beber deles.  
+**44** quando converteu em sangue os seus rios e os seus arroios, para que não pudessem beber deles.  
 **45** Enviou contra eles moscas, que os devoraram, e rãs, que os infestaram;  
 **46** entregou as suas colheitas ao pulgão, e o fruto do seu trabalho ao gafanhoto.  
 **47** Destruiu com saraiva as suas vinhas, e os seus sicómoros com geada.  
@@ -2716,7 +2716,7 @@
 **11** Seon, rei dos Amorreus, Og, rei de Basan, e todos os reis de Canaan.  
 **12** E deu as terras deles em possessão, em possessão a Israel, seu povo.  
 **13** Senhor, o teu nome permanece eternamente; Senhor, a tua memória passa de geração em geração.  
-**14** Porque o Senhor proteje o seu povo, e tem compaixão dos seus servos.  
+**14** Porque o Senhor protege o seu povo, e tem compaixão dos seus servos.  
 **15** Os ídolos dos gentios não são mais que prata e ouro, obras das mãos dos homens:  
 **16** têm boca, e não falam: têm olhos, e não vêem;  
 **17** têm ouvidos, e não ouvem; e não há alento de vida na sua boca.  

@@ -276,7 +276,7 @@
 **6** para que guardes os mandamentos do Senhor teu Deus, andando nos seus caminhos e temendo-o.  
 **7** Agora o Senhor teu Deus vai introduzir-te numa terra boa, terra de torrentes, de fontes e de águas profundas, que brotam nos vales e nos montes,  
 **8** terra (fértil) de trigo, de cevada e de vinhas, onde nascem figueiras, romãzeiras e olivais; terra de azeite e de mel,  
-**9** onde, sem nenhuma escasses, comerás o teu pão e gozarás da abundância de todas as coisas; terra cujas pedras são ferro, de cujos montes sai o bronze.  
+**9** onde, sem nenhuma escassez, comerás o teu pão e gozarás da abundância de todas as coisas; terra cujas pedras são ferro, de cujos montes sai o bronze.  
 **10** Quando tiveres comido e estiveres saciado, darás graças ao Senhor teu Deus, pela excelente terra que te deu.  
 **11** Toma cuidado, e abstém-te de jamais esqueceres o Senhor teu Deus, de desprezar os seus preceitos, as suas leis e as suas cerimónias, que eu hoje te prescrevo,  
 **12** não suceda que, depois de teres comido e estares saciado, de teres edificado formosas casas, e morado nelas,  

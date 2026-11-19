@@ -1125,7 +1125,7 @@
 **58** Foi ter com Pilatos, e pediu-lhe o corpo de Jesus. Pilatos mandou então que lhe fosse dado o corpo.  
 **59** José, tomando o corpo, envolveu-o num lençol branco,  
 **60** e depositou-o no seu sepulcro novo, o qual tinha mandado abrir numa rocha. Depois rolou uma grande pedra para diante da boca do sepulcro, e retirou-se.  
-**61** Maria Madalena e a outra Maria estavam lá, sentadas defronte do supulcro.  
+**61** Maria Madalena e a outra Maria estavam lá, sentadas defronte do sepulcro.  
 **62** No outro dia, que é o seguinte à Preparação, os príncipes dos sacerdotes e os fariseus foram juntos ter com Pilatos,  
 **63** e disseram-lhe: "Senhor, estamos recordados que aquele impostor, quando ainda vivia, disse: Ressuscitarei depois de três dias.  
 **64** Ordena, pois, que seja guardado o sepulcro até ao terceiro dia, a fim de que não venham os seus discípulos, o furtem, e digam ao povo: Ressuscitou dos mortos. Desta sorte, o último embuste seria pior do que o primeiro."  

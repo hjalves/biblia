@@ -216,7 +216,7 @@
 **13** O povo não se voltou para quem o feria, não buscou o Senhor dos exércitos.  
 **14** O Senhor destruirá num só dia a cabeça e a cauda a Israel, a palma e o junco.  
 **15** O ancião e o homem respeitável são a cabeça; o profeta que ensina a mentira é a cauda.  
-**16** O ancião e o homem respeitável são a cabeça; o profeta que ensina a mentira é a cauda.  
+**16** Os que dirigem o povo, desencaminham-no, e os dirigidos perdem-se,  
 **17** Por esta causa, o Senhor não porá a sua alegria nos seus jovens, e não se compadecerá dos seus órfãos, nem das suas viúvas, porque todos eles são ímpios e maus, e toda a boca só profere loucuras. Apesar de tudo isto, não se acha aplacado o seu furor, mas ainda está levantada a sua mão.  
 **18** Porque a impiedade se acendeu como um fogo, que devora os abrolhos e os espinhos, que abrasa a espessura do bosque, subindo ao alto turbilhões de fumo.  
 **19** Arde a terra pela ira do Senhor dos exércitos, e o povo é pasto de chamas. O irmão não poupa o seu irmão.  
@@ -659,7 +659,7 @@
 **5** Todos ficaram confundidos à vista dum povo, que lhes não pode ser útil para nada, e que, longe de os socorrer e de lhes prestar qualquer serviço, apenas serve para sua vergonha e opróbrio.  
 **6** Oráculo contra os animais do meio-dia. Por uma terra de tribulação e angústia, donde saem o leão e a leoa, a víbora e o dragão voador, levam sobre o dorso dos jumentos as suas riquezas, sobre o dorso dos camelos os seus tesouros, a um povo que lhes não pode prestar para coisa alguma.  
 **7** Porque o Egipto debalde e em vão dará socorro; por isso lhe dei o nome de Rahab inerte.  
-**8** Agora, pois, vai gravar isto (esta profecia) sobre uma tàbuazinha, em sua presença, regista-o com cuidado num livro para que seja no futuro um testemunho eterno.  
+**8** Agora, pois, vai gravar isto (esta profecia) sobre uma tabuazinha, em sua presença, regista-o com cuidado num livro para que seja no futuro um testemunho eterno.  
 **9** Porque este povo é rebelde: são filhos mentirosos, filhos que não querem ouvir a lei de Deus.  
 **10** Dizem aos videntes: Não vejais; e aos profetas: Não nos anuncieis a verdade, falai-nos de coisas agradáveis, profetizai ilusões.  
 **11** Afastai-vos do caminho (da lei); afastai-vos de tal vereda; tirai de diante da nossa face o Santo de Israel.  
@@ -904,7 +904,7 @@
 **17** Todos os povos na sua presença são como se não existissem; ele os considera como um nada, uma coisa que não existe.  
 **18** A quem, pois, comparareis vós Deus, ou que imagem fareis dele?  
 **19** O ídolo é fundido ou esculpido pelo artista, o ourives reveste-o de ouro e adorna-o com cadeias de prata.  
-**20** O que faz uma oferta pobre, escolhe madeira incorrutível, procura um artista hábil para assentar a estátua, de modo que não dê de si.  
+**20** O que faz uma oferta pobre, escolhe madeira incorruptível, procura um artista hábil para assentar a estátua, de modo que não dê de si.  
 **21** Porventura não o sabeis vós (que é Deus)? Não o ouvistes? Não vos foi isto anunciado desde o princípio? Porventura não chegou ao nosso conhecimento (que foi ele) que estabeleceu os fundamentos da terra?  
 **22** Ele é o que está sentado sobre a redondeza da terra, cujos habitantes são (diante dele) como gafanhotos; é ele que estende os céus como um véu, e o desenrola como uma tenda para habitar.  
 **23** É ele que aniquila (e confunde) os poderosos e reduz a nada os juízes da terra.  
@@ -974,7 +974,7 @@
 **21** O Senhor tinha querido, por causa da sua justiça, publicar uma lei grande e magnífica.  
 **22** E eis este povo saqueado e devastado; foram presos todos, encerrados nos cárceres; foram entregues à pilhagem sem haver ninguém que os livre; expostos ao saque, sem que ninguém diga: Restitui.  
 **23** Quem há entre vós que ouça isto, que atenda e escute para o futuro?  
-**24** Quem entregou Jacob à pilhagem, e Israel aos devastadores? Porventura não foi o mesmo Senhor, contra o qual pecamos, não querendo seguir os seus caminhos, nem obedecer à sua lel?  
+**24** Quem entregou Jacob à pilhagem, e Israel aos devastadores? Porventura não foi o mesmo Senhor, contra o qual pecamos, não querendo seguir os seus caminhos, nem obedecer à sua lei?  
 **25** Por isso (o Senhor descarregou sobre este povo) a indignação do seu furor, as violências da guerra, a qual lançou o fogo em volta dele, sem que ele o compreendesse, e queimou-o, sem que ele notasse (que era um castigo).  
 
 ## Capítulo 43

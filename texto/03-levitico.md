@@ -561,7 +561,7 @@
 
 **1** O Senhor falou a Moisés, dizendo:  
 **2** Fala aos filhos de Israel, e dize-lhes: Eu sou o Senhor vosso Deus:  
-**3** vós não procediereis conforme os costumes do país do Egipto, em que habitastes, nem vos portareis segundo o costume da terra de Canaan, na qual eu vos hei-de introduzir, nem andareis segundo as suas leis.  
+**3** vós não procedereis conforme os costumes do país do Egipto, em que habitastes, nem vos portareis segundo o costume da terra de Canaan, na qual eu vos hei-de introduzir, nem andareis segundo as suas leis.  
 **4** Praticareis os meus mandamentos, observareis os meus preceitos, andareis neles. Eu Sou o Senhor vosso Deus.  
 **5** Guardai as minhas leis e os meus mandamentos; o homem que os observa, viverá por eles. Eu sou o Senhor.  
 **6** Nenhum homem se aproximará duma mulher, que lhe é próxima por sangue, para descobrir a sua nudez. Eu sou o Senhor.  

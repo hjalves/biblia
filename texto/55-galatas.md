@@ -139,7 +139,7 @@
 **18** Se, porém, sois guiados pelo Espírito, não estais debaixo da lei.  
 **19** Ora as obras da carne são manifestas: são a fornicação, a impureza, a luxúria,  
 **20** a idolatria, os malefícios, as inimizades, as contendas, as invejas, as iras, as rixas, as discórdias, as seitas,  
-**21** os ciúmes, a embriaguez, as glutonerias e outras coisas semelhantes, sobre as quais vos previno, como já vos disse, que os que as praticam não possuirão o reino de Deus,  
+**21** os ciúmes, a embriaguez, as glutonarias e outras coisas semelhantes, sobre as quais vos previno, como já vos disse, que os que as praticam não possuirão o reino de Deus,  
 **22** Ao contrário, o fruto do Espírito é caridade, gozo, paz, longanimidade, afabilidade, bondade, fidelidade,  
 **23** mansidão, temperança. Contra estas coisas não há Lei.  
 **24** Os que são de Cristo crucificaram a sua carne com suas paixões e concupiscências.  

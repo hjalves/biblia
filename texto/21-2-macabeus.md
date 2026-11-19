@@ -19,7 +19,7 @@
 **15** Os sacerdotes de Naneia mostraram-lhe o tesouro, tendo ele penetrado no recinto do templo com uns poucos (dos seus). (Os sacerdotes) fecharam logo o templo;  
 **16** depois que Antíoco entrou; em seguida, abrindo uma porta secreta do tecto, atiraram pedras, esmagando o chefe e os que estavam com ele; esquartejaram-nos, e, cortadas as cabeças, deitaram-nas aos que se encontravam fora.  
 **17** Em tudo seja Deus louvado, que assim entregou os Ímpios (à morte).  
-**18** Devendo nós celebrar no dia vinte e cinco do mês do Casleu a purificação do templo, entendemos que era necessário avisar-vos disso, para que também celebreis tanto a festa dos tabemáculos, como a festa do fogo que apareceu quando Neemias, depois de ter reedificado o templo e o altar, ofereceu nele os sacrifícios.  
+**18** Devendo nós celebrar no dia vinte e cinco do mês do Casleu a purificação do templo, entendemos que era necessário avisar-vos disso, para que também celebreis tanto a festa dos tabernáculos, como a festa do fogo que apareceu quando Neemias, depois de ter reedificado o templo e o altar, ofereceu nele os sacrifícios.  
 **19** Com efeito, quando nossos pais foram levados cativos para a Pérsia, os sacerdotes de então, tementes a Deus, tirando o fogo que estava sobre o altar, esconderam-no secretamente no fundo dum poço seco e guardaram-no ali, de sorte que a todos ficasse incógnito o lugar.  
 **20** Tendo-se passado muitos anos, quando Deus foi servido, Neemias, enviado (à Judeia) pelo rei da Pérsia, mandou que os descendentes daqueles sacerdotes, que tinham escondido o fogo, o fossem buscar; porém não acharam fogo, como nos disseram, mas uma água espessa.  
 **21** Então Neemias mandou que tirassem desta água e lha trouxessem. Disposta no seu lugar a matéria do sacrifício, ordenou-lhes que com a mesma água se fizessem aspersões sobre a lenha e sobre o que se achava posto em cima dela.  
@@ -80,7 +80,7 @@
 **1** Enquanto gozava a cidade santa duma paz perfeita e se observavam exactamente as leis, por causa da piedade do sumo pontífice Onias e do seu ódio a todo o mal,  
 **2** acontecia que os próprios reis consideravam o, (santo) lugar como digno de grande veneração e enriqueciam o templo com grandíssimos donativos,  
 **3** de tal sorte que até Seleuco, rei da Ásia, pagava das suas rendas toda a despesa que pertencia ao ministério dos sacrifícios.  
-**4** Porém, um tal Simão, da tribo de Benjamim, que estava constituído prefeito do templo, entrou em luta com o sumo pontífice, por causa da inspeeção do mercado público.  
+**4** Porém, um tal Simão, da tribo de Benjamim, que estava constituído prefeito do templo, entrou em luta com o sumo pontífice, por causa da inspecção do mercado público.  
 **5** Vendo que não podia vencer Onias, foi ter com Apolónio, filho de Traseias, que naquele tempo era governador da Celesíria e da Fenícia,  
 **6** e declarou-lhe que o erário de Jerusalém estava cheio de imensas somas de dinheiro, que nele se achavam incalculáveis riquezas, que não se destinavam aos gastos dos sacrifícios, e que se poderia descobrir meio de tudo isto cair em poder do rei.  
 **7** Tendo, pois, Apolónio avisado o rei das riquezas que lhe foram referidas, este mandou chamar Heliodoro, seu primeiro ministro, e enviou-o com ordem de trazer as ditas riquezas.  
@@ -456,7 +456,7 @@
 **19** Mas Doslteu e Sosípatro, generais de Macabeu, mataram mais de dez mil homens que Timóteo tinha deixado para guarda daquela praça.  
 **20** Entretanto Macabeu, ordenado e repartido o seu exército em coortes, deu a estes dois generais o seu comando e marchou contra Timóteo, que tinha consigo cento e vinte mil infantes, e dois mil e quinhentos cavaleiros.  
 **21** Timóteo, logo que teve conhecimento da chegada de Judas, mandou adiante as mulheres, as crianças e os seus haveres, para um lugar chamado Carnion, porque era inexpugnável e de difícil entrada, por causa dos desfiladeiros da região.  
-**22** Logo que apareceu a primeira coorte de Judas, ficaram os inimigos passados de medo, porque o poder de Deus, que vê todas as coisas, se lhes manifestava de forma assustadora, e tomaram a fuga desordenadamente, de sorte que mutuamente se feriam e transpassavam com as próprias espadas.  
+**22** Logo que apareceu a primeira coorte de Judas, ficaram os inimigos passados de medo, porque o poder de Deus, que vê todas as coisas, se lhes manifestava de forma assustadora, e tomaram a fuga desordenadamente, de sorte que mutuamente se feriam e traspassavam com as próprias espadas.  
 **23** Judas carregava sobre eles com grande vigor, castigando estes criminosos até fazer cair mortos no campo trinta mil homens.  
 **24** O mesmo Timóteo caiu nas mãos de Dositeu e de Sosípatro, aos quais pediu com grandes instâncias que o deixassem ir com vida, porque tinha feito prisioneiros muitos pais e muitos irmãos dos Judeus, os quais pela sua morte perderiam a esperança (de cobrar a liberdade).  
 **25** Tendo-lhes dado palavra que restituiria estes prisioneiros, sem lhes fazer mal algum, deixaram-no ir, com o fim de salvar seus irmãos.  

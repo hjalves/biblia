@@ -825,7 +825,7 @@
 **3** Farás para o seu serviço caldeirais para recolher as cinzas, tenazes, garfos e braseiros: farás de bronze todos estes instrumentos.  
 **4** (Farás) uma grelha de bronze em forma de rede, em cujos quatro cantos haverá quatro argolas de bronze,  
 **5** que colocarás sob o rebordo do altar; a grelha subirá até meio do altar.  
-**6** Farás também para o altar dois varais de pau de acácia, que revesarás de chapas de bronze,  
+**6** Farás também para o altar dois varais de pau de acácia, que revestirás de chapas de bronze,  
 **7** enfiá-los-ás pelas argolas, e ficarão de um e outro lado do altar, a fim de servirem para o transportar.  
 **8** Não o farás maciço, mas oco e côncavo por dentro, como te foi mostrado no monte.  
 **9** Farás também o átrio do tabernáculo, de cujo lado austral, que olha para o meio dia, haverá cortinas de linho fino retorcido: este lado terá cem côvados de comprimento.  

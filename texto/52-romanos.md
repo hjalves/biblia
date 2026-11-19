@@ -317,7 +317,7 @@
 **4** Mas que lhe disse Deus em resposta: Eu reservei para mim sete mil homens, que não dobraram os joelhos diante de Baal (1Rs. 19, 18).  
 **5** Do mesmo modo, ainda agora existem aqueles que foram reservados segundo a escolha da graça.  
 **6** Ora, se isto foi por graça, não foi pelas obras; doutra sorte, a graça já não é graça.  
-**7** Que (diremos) pois? (Diremos) que Israel não conseguiu o que buscava, tendo-o contudo, conseguido os escolhidos (por Deus). Quanto aos outros, foram obsecados (por sua malícia),  
+**7** Que (diremos) pois? (Diremos) que Israel não conseguiu o que buscava, tendo-o contudo, conseguido os escolhidos (por Deus). Quanto aos outros, foram obcecados (por sua malícia),  
 **8** como está escrito: Deus deu-lhes um espírito de torpor, olhos para que não vejam, e ouvidos para que não ouçam, até ao dia de hoje (Dt. 29, 3).  
 **9** E David diz: A mesa deles se lhes converta em laço, em prisão, em ocasião de queda, e isto para seu justo castigo  
 **10** Escurecidos sejam os seus olhos, para que não vejam, e esteja sempre curvado o seu dorso (Ps. 68, 23-24).  

@@ -201,7 +201,7 @@
 **20** A água elevou-se quinze côvados acima delas,  
 **21** Toda a carne que se movia sobre a terra pereceu: as aves, os animais domesticados, as feras e todos os répteis que andam de rastos sobre a terra, e todos os homens.  
 **22** Tudo o que respira e tem vida sobre a terra, tudo morreu.  
-**23** Foram exterminados todos os sere.s (vivos) que havia sobre a terra, desde o homem até às bestas, tanto os répteis como as aves do céu, tudo foi exterminado da terra: ficou sòmente Noé, e os que estavam com ele na arca.  
+**23** Foram exterminados todos os seres (vivos) que havia sobre a terra, desde o homem até às bestas, tanto os répteis como as aves do céu, tudo foi exterminado da terra: ficou sòmente Noé, e os que estavam com ele na arca.  
 **24** As águas cobriram a terra durante cento e cinquenta dias.  
 
 ## Capítulo 8
@@ -931,7 +931,7 @@
 **10** E, tendo ela concebido e dado à luz um filho,  
 **11** Lia disse: Em boa hora: por isto lhe pôs o nome de Gad.  
 **12** Zelfa deu à luz ainda outro filho.  
-**13** Lia disse: Isto é por minha dita, porque as mulheres me chamarão ditosa: por isso o chalou Aser.  
+**13** Lia disse: Isto é por minha dita, porque as mulheres me chamarão ditosa: por isso o chamou Aser.  
 **14** Ora Ruben, tendo saído ao campo no tempo da ceifa do trigo, achou umas mandrágoras e levou-as a Lia, sua mãe. Raquel disse (a Lia): Dá-me parte das mandrágoras do teu filho.  
 **15** Ela respondeu-lhe: Porventura parece-te pouco teres-me roubado o marido. Senão que também me queres levar as mandrágoras de meu filho? Raquel disse: (consinto que ele) durma esta noite contigo pelas mandrágoras de teu filho.  
 **16** Quando Jacob à tarde voltava do campo, Lia saiu-lhe ao encontro e disse-lhe: Virás comigo, porque eu te tomei pelo preço das mandrágoras de meu filho. E (Jacob) dormiu aquela noite com ela.  
@@ -1104,7 +1104,7 @@
 **21** Estes homens são pacíficos e querem habitar connosco; negociem nesta terra e cultivem-na; sendo ela espaçosa e vasta, necessita de cultivadores: receberemos por mulheres as suas filhas, e dar-lhes-emos as nossas.  
 **22** Uma só coisa faz dilatar tanto bem: é o circuncidarmos os nossos varões imitando o rito deles.  
 **23** Com isto, a sua riqueza, gados e tudo o que possuem será nosso: sòmente acedamos (ao seu desejo) e, habitando juntamente, formaremos um só povo.  
-**24** Assentiram todos, sendo circuncidados todos os vairões.  
+**24** Assentiram todos, sendo circuncidados todos os varões.  
 **25** Ao terceiro dia, quando a dor das feridas é mais violenta, os dois filhos de Jacob, Simeão e Levi, irmãos de Dina, empunhadas as espadas, entraram resolutamente na cidade, e, mortos todos os varões,  
 **26** trucidaram igualmente Hemor e Siquem, tirando sua irmã Dina da casa de Siquem.  
 **27** Tendo estes saído, os outros filhos de Jacob caíram impetuosamente sobre os mortos, e saquearam a cidade, por haver sido desonrada a irmã.  

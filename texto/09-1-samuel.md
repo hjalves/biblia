@@ -132,7 +132,7 @@
 **9** Levando-a eles de cidade em cidade, a mão do Senhor fazia grande mortandade em cada cidade; castigava, desde o menor ao maior, os homens de cada cidade, fazendo-lhes aparecer tumores. E os de Get consultaram entre si, e fizeram para seu uso assentos de peles.  
 **10** Mandaram então a arca de Deus para Acaron. Chegando a arca de Deus a Acaron, os Acaronitas clamaram, dizendo: Trouxeram-nos a arca do Deus de Israel, para ela nos matar a nós e ao nosso povo.  
 **11** Convocaram todos os príncipes dos Filisteus, os quais disseram: Devolvei a arca do Deus de Israel; que volte para o seu lugar, e não nos mate a nós e ao nosso povo.  
-**12** Todas as cidades estavam cheias de medo de morrer, e a mão de Deus fazia-se sentir extraordiniariamente pesada; as pessoas que não morriam eram feridas nas partes mais ocultas do corpo, e o alarido de cada cidade subia até ao céu.  
+**12** Todas as cidades estavam cheias de medo de morrer, e a mão de Deus fazia-se sentir extraordinàriamente pesada; as pessoas que não morriam eram feridas nas partes mais ocultas do corpo, e o alarido de cada cidade subia até ao céu.  
 
 ## Capítulo 6
 

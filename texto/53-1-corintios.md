@@ -356,7 +356,7 @@
 
 ## Capítulo 14
 
-**1** Procurai a caridade, aspirai aos dons espituais e, sobre todos, ao da profecia.  
+**1** Procurai a caridade, aspirai aos dons espirituais e, sobre todos, ao da profecia.  
 **2** A razão é que, o que fala uma língua (desconhecida), não fala aos homens, mas a Deus. Com efeito, ninguém o compreende: pelo espírito fala coisas misteriosas.  
 **3** Ao contrário, o que profetiza, fala aos homens para sua edificação, exortação e consolação.  
 **4** O que fala uma língua (desconhecida), edifica-se a si mesmo; o que profetiza, edifica a Igreja de Deus.  

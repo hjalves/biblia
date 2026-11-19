@@ -285,7 +285,7 @@
 **17** para o sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano. Esta foi a oferta de Naasson, filho de Aminadab.  
 **18** No segundo dia, Natanael, filho de Suar, chefe da tribo de Issacar, ofereceu  
 **19** um prato de prata, que pesava cento e trinta siclos, uma taça de prata de setenta siclos segundo o peso do santuário, ambos cheios de farinha borrifada com azeite para o sacrifício:  
-**20** um pequeno vaso de ouro, que pesava dez sidos, cheio de incenso:  
+**20** um pequeno vaso de ouro, que pesava dez siclos, cheio de incenso:  
 **21** um boi da manada, um carneiro e um cordeiro de um ano, para o holocausto;  
 **22** um bode pelo pecado;  
 **23** para o sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano. Esta foi a oferta de Natanael, filho de Suar.  
@@ -416,7 +416,7 @@
 **1** O Senhor falou a Moisés, dizendo:  
 **2** Faze para ti duas trombetas de prata batida ao martelo, com as quais possas convocar a multidão, quando se houver de levantar o acampamento.  
 **3** Quando fizeres soar as duas trombetas, todo o povo se juntará ao pé de ti à porta do tabernáculo da reunião.  
-**4** Se tocares uma só, virão a ti os príncipies e os chefes do povo de Israel.  
+**4** Se tocares uma só, virão a ti os príncipes e os chefes do povo de Israel.  
 **5** Se o som for estrepitoso, levantarão os acampamentos os primeiros que estão da parte do oriente.  
 **6** Ao segundo toque, porém, de igual som, levantarão as tendas, os que habitam ao meio-dia; do mesmo modo farão os outros, enquanto as trombetas fizerem sinal para a partida.  
 **7** Quando se tiver de congregar o povo, tocareis as trombetas, mas não estrepitosamente.  
@@ -1080,7 +1080,7 @@
 **22** (Oferecerás também) um bode pelo pecado, para obterdes a expiação dele,  
 **23** além do holocausto da manhã, que vós oferecereis sempre.  
 **24** Assim fareis em cada um dos sete dias para alimento do fogo, e em suavíssimo cheiro ao Senhor, que se exalará do holocausto e das libações de cada vítima.  
-**25** No sétimo dia haverá santa assembleia, e não fareis nele obra alguma ervil.  
+**25** No sétimo dia haverá santa assembleia, e não fareis nele obra alguma servil.  
 **26** Também no dia das primícias, quando, completas as (sete) semanas, oferecerdes ao Senhor as novas messes, haverá santa assembleia, e não fareis nele obra alguma servil.  
 **27** Oferecereis em holocausto de suave odor, ao Senhor, dois bezerros da manada, um carneiro e sete cordeiros de um ano, sem defeito,  
 **28** e nos sacrifícios destes (oferecereis) três dízimas de flor de farinha borrifada com azeite por cada bezerro, duas por cada carneiro,  
