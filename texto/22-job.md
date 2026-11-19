@@ -47,7 +47,7 @@
 **2** Falou assim:  
 **3** Pereça o dia em que nasci, e a noite em que se disse: Foi concebido um homem.  
 **4** Converta-se aquele dia em trevas. Deus não cuide dele do alto do céu, nem seja (esse dia) iluminado pela luz.  
-**5** Escureçam-no as trevas e a sombra da morte, cerque-o uma negra escuridão, e seja envolte em amargura.  
+**5** Escureçam-no as trevas e a sombra da morte, cerque-o uma negra escuridão, e seja envolto em amargura.  
 **6** Que as trevas se apoderem daquela noite, não seja ela contada entre os dias do ano, nem seja numerada entre os meses.  
 **7** Seja solitária aquela noite, não se ouça nela grito algum de alegria!  
 **8** Amaldiçoem-na aqueles que amaldiçoam o dia, os que sabem evocar Leviathan.  
@@ -379,7 +379,7 @@
 ## Capítulo 15
 
 **1** Então, respondendo Elifaz de Teman, disse:1  
-**2** Porventura o sábio responderá com palavras no ar, e encherá de vento o seu peito (como tu acarbas de fazer)?  
+**2** Porventura o sábio responderá com palavras no ar, e encherá de vento o seu peito (como tu acabas de fazer)?  
 **3** Porventura defende-se com palavras inúteis e com razões inconsistentes?  
 **4** Quanto é em ti, desterras o temor (de Deus), destróis a piedade de Deus devida.  
 **5** A tua iniquidade ensinou a tua língua, e tu imitas a linguagem dos blasfemadores.  
@@ -755,7 +755,7 @@
 **3** quando a sua lâmpada luzia sobre a minha cabeça, e quando eu, guiado pela sua luz, caminhava (seguro) entre as trevas!  
 **4** Como fui nos dias do meu outono, quando Deus protegia a minha casa,  
 **5** quando o Omnipotente estava comigo, e meus filhos em volta de mim;  
-**6** quando eu (por assim dizer) lavava os meus pés em leite, e quando a pedra derramava para mim arrolos de azeite;  
+**6** quando eu (por assim dizer) lavava os meus pés em leite, e quando a pedra derramava para mim arroios de azeite;  
 **7** quando eu saia até à porta da cidade, e me sentava numa cadeira na praça pública!  
 **8** Viam-me (nessa altura) os jovens e retiravam-se (reverentes); os velhos, levantando-se, punham-se de pé.  
 **9** Os príncipes cessavam de falar, e punham a mão sobre a sua boca.  
@@ -1061,17 +1061,17 @@
 **21** Deves saber, com certeza, porque então já eras nascido, tão grande é o número dos teus dias...  
 **22** Entraste porventura nos depósitos da neve, ou viste os depósitos da saraiva,  
 **23** que eu preparei para o tempo da angústia, para o dia da guerra e da batalha?  
-**24** Por que caminho se difunde a luz, e se espalha o vento (quente) do oriente sobro a terra?  
-**25** Quem abriu caminho á inundação, e rasgou estradas aos fogos tonitruantes,  
+**24** Por que caminho se difunde a luz, e se espalha o vento (quente) do oriente sobre a terra?  
+**25** Quem abriu caminho à inundação, e rasgou estradas aos fogos tonitruantes,  
 **26** para fazer chover sobre uma terra sem habitantes, sobre um deserto, onde nenhum homem mora,  
 **27** para alagar uma terra árida e desolada, e fazer germinar a erva verde?  
 **28** A chuva tem pai? Quem produziu as gotas do orvalho?  
 **29** De que seio saiu a geada, e quem gerou o gelo do céu?  
 **30** As águas endurecem-se como pedra, e a superfície do abismo (do mar) torna-se sólida.  
-**31** E’s tu porventura que fazes aparecer as constelações, a seu tempo, e girar a Ursa com os seus filhos?  
-**32** Conheces, acaso, as leis do céu, regulas a sua influência sobre a terra?  
-**33** Podes levantar a tua voz até às nuvens, e fazer vir sobre ti um dilúvio de água?  
-**34** Porventura mandarás os relâmpagos, e eles irão, dizendo-te: Aqui estamos?  
+**31** Porventura és tu que apertas os laços das Plêiades, ou poderás desapertar as cadeias de Orião?  
+**32** És tu porventura que fazes aparecer as constelações, a seu tempo, e girar a Ursa com os seus filhos?  
+**33** Conheces, acaso, as leis do céu, regulas a sua influência sobre a terra?  
+**34** Podes levantar a tua voz até às nuvens, e fazer vir sobre ti um dilúvio de água?  
 **35** Porventura mandarás os relâmpagos, e eles irão, dizendo-te: Aqui estamos?  
 **36** Quem pôs sabedoria nas nuvens, e inteligência nos meteoros?  
 **37** Quem pode contar exatamente as nuvens e inclinar as urnas do céu,  

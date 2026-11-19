@@ -782,7 +782,7 @@
 **30** Os que escaparam, fugiram para a cidade de Afec, mas as muralhas caíram sobre os vinte e sete mil homens, que tinham restado. Benadad, fugindo, entrou na cidade e retirou-se ao lugar mais secreto duma câmara.  
 **31** Os seus servos disseram-lhe: Nós temos ouvido dizer que os reis da casa de Israel são clementes; ponhamos, pois, sacos sobre os nossos rins e cordas ao nosso pescoço, e vamos ter com o rei de Israel; talvez ele nos poupe a vida.  
 **32** Cingiram-se com sacos pelos rins, puseram cordas ao pescoço e foram ter com o rei de Israel, dizendo-lhe: O teu servo Benadad diz: Concede-me, eu te peço, a vida. Ele responde: Se ainda vive, ele é meu irmão.  
-**33** Os Sírios tomaram isto por bom preságio e, tomando logo a palavra da sua boca, disseram: Benadad é teu irmão. Ele disse-lhes: Ide e trazei-mo. Veio, pois, Benadad à presença de Acab, e este mandou-o subir para o seu carro.  
+**33** Os Sírios tomaram isto por bom presságio e, tomando logo a palavra da sua boca, disseram: Benadad é teu irmão. Ele disse-lhes: Ide e trazei-mo. Veio, pois, Benadad à presença de Acab, e este mandou-o subir para o seu carro.  
 **34** Benadad disse-lhe: Eu te restituirei as cidades que meu pai tomou a teu pai; faze para ti praças em Damasco, como meu pai as fez em Samaria, e eu me retirarei de ti, depois de feita a aliança. Acab fez, pois, aliança com ele deixou-o ir livre,  
 **35** Então um dos filhos dos profetas disse da parte do Senhor a um seu companheiro: Fere-me. Porém ele não o quis ferir.  
 **36** Ele disse-lhe: Porque não quiseste ouvir a voz do Senhor, logo que te afastares de mim, um leão te matará. Mal se havia afastado um pouco dele, um leão o feriu e matou.  

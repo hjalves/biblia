@@ -188,7 +188,7 @@
 **36** Não há muito tempo apareceu Teudas, que dizia ser um grande homem, ao qual se associou um número de cerca de quatrocentos homens. Ele foi morto, e todos aqueles que o acreditavam foram dispersos e reduzidos a nada.  
 **37** Depois deste surgiu Judas, o Galileu, nos dias do recenseamento, e levou o povo após si, mas também pereceu; e foram dispersos todos os seus sequazes.  
 **38** Agora aconselho-vos a que não vos metais com estes homens e que os deixeis. Porque, se esta ideia ou esta obra vem dos homens, por si mesma se desfará;  
-**39** mas, se vem de Deus, não a podereis desfazer; assim não correie o risco de fazer oposição ao próprio Deus." Eles seguiram o seu conselho.  
+**39** mas, se vem de Deus, não a podereis desfazer; assim não correis o risco de fazer oposição ao próprio Deus." Eles seguiram o seu conselho.  
 **40** Tendo chamado os Apóstolos, depois de os terem mandado açoutar, ordenaram-lhes que não falassem mais no nome de Jesus, e soltaram-nos.  
 **41** Porém eles saíam da presença do Sinédrio, contentes por terem sido achados dignos de sofrer afrontas pelo nome (de Jesus).  
 **42** E todos os dias não cessavam de ensinar e de anunciar a boa nova de Jesus, o Cristo, no templo e pelas casas.  
@@ -621,7 +621,7 @@
 **13** No dia de sábado, saímos fora das portas, junto de uma ribeira, onde julgávamos haver um lugar de oração. Sentando-nos, falávamos às mulheres que tinham concorrido.  
 **14** Uma mulher, chamada Lidia, da cidade de Tiatira, que negociava em púrpura, temente a Deus, ouvia-nos. O Senhor abriu-lhe o coração, para atender àquelas coisas que Paulo dizia.  
 **15** Tendo sido batizada ela com sua família, fez este pedido: "Se julgais que sou fiel ao Senhor, entrai em minha casa e ficai nela." E forçou-nos a isso.  
-**16** Aconteceu que, um dia, indo nós à oração, nos veio ao encontro uma jovem, que tinha um espírito pitónico, a qual com as suas advinhações dava muito lucro a seus amos.  
+**16** Aconteceu que, um dia, indo nós à oração, nos veio ao encontro uma jovem, que tinha um espírito pitónico, a qual com as suas adivinhações dava muito lucro a seus amos.  
 **17** Ela, seguindo a Paulo e a nós, gritava, dizendo: "Estes homens são servos do Deus excelso, que vos anunciam o caminho da salvação."  
 **18** E fazia isto muitos dias. Paulo, porém, enfadado, tendo-se voltado (para ela), disse ao espírito: "Ordeno-te em nome de Jesus Cristo que saias dessa mulher" E ele, na mesma hora saiu.  
 **19** Mas, vendo seus amos que se lhe tinha acabado a esperança do lucro, pegando em Paulo e em Silas, os levaram ao foro às autoridades,  

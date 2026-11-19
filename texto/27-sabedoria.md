@@ -172,7 +172,7 @@
 **19** os ciclos dos anos e a posição das estrelas,  
 **20** a natureza dos animais e os instintos dos brutos, a força dos espíritos e os raciocínios dos homens, as variedades das plantas e as propriedades das raízes.  
 **21** (Em suma) aprendi tudo o que há escondido ou descoberto, porque a sabedoria, que tudo criou, mo ensinou.  
-**22** Efetivamente há nela um espírito inteligente, santo, único, multipllce, subtil, ágil, penetrante, imaculado, claro, impassível, amigo do bem, agudo, a quem nada pode impedir, benéfico,  
+**22** Efetivamente há nela um espírito inteligente, santo, único, multíplice, subtil, ágil, penetrante, imaculado, claro, impassível, amigo do bem, agudo, a quem nada pode impedir, benéfico,  
 **23** amigo dos homens, estável, seguro, tranquilo, que tudo pode, tudo vê, e que penetra todos os espíritos, os inteligentes, os puros, os mais subtis.  
 **24** A sabedoria é mais ágil que todo o movimento; tudo atravessa e penetra por causa da sua pureza.  
 **25** Ela é um sopro do poder de Deus, uma pura emanação da glória do Omnipotente: por isso não se pode encontrar nela a menor Impureza.  

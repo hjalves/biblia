@@ -36,7 +36,7 @@
 **32** Os filhos que Abraão teve de Cetura, sua mulher de segunda ordem, foram: Zamran, Jecsan, Madan, Madian, Jesboc e Sué. Filhos de Jecsan: Saba e Dadan. Filhos de Dadan: Assurim, Latussim e Laomim.  
 **33** Os filhos de Madian foram: Efa, Efer, Henoc, Abida e Edaa. Todos estes descenderam de Ceturn.  
 **34** Abraão gerou Isaac, que teve por filhos Esaú e Israel.  
-**35** Filhos de Esaú: Elifaz, Rauel, Jeus, lelom e Coré.  
+**35** Filhos de Esaú: Elifaz, Rauel, Jeus, Ielom e Coré.  
 **36** Filhos de Elifaz: Temau, Omar, Sef, Gatan, Cenez, Tamna, Amalec.  
 **37** Filhos de Rauel: Naat, Zara, Sama, Meza.  
 **38** Filhos de Seir: Lotan, Sobal, Sebeon, Ana, Dison, Eser, Disan.  

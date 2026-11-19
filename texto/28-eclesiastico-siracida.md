@@ -964,11 +964,11 @@
 ## Capítulo 29
 
 **1** Aquele que usa de misericórdia, empresta a juro ao seu próximo: aquele que tem a mão generosa, guarda os mandamentos.  
-**2** Cumpre a tua palavra, e trata lealmente com ele. e em todo o tempo acharás o que te é necessário.  
-**3** Muitos consideram o que se lhes emprestou como um achado, e causam desgosto àqueles que o ajudaram.  
-**4** Beijara as mãos do que lhes empresta até que tenham recebido, e com voz humilde fazem (grandes) promessas;  
-**5** porém, chegando o prazo de pagar a dívida, pedem espera, dizem palavras de enfado e de murmuração, e desculpam-se com o tempo (dizendo que a rida está difícil).  
-**6** porém, chegando o prazo de pagar a dívida, pedem espera, dizem palavras de enfado e de murmuração, e desculpam-se com o tempo (dizendo que a rida está difícil).  
+**2** Empresta ao teu próximo no tempo da sua necessidade, mas também paga-lhe o que lhe deves, no tempo marcado.  
+**3** Cumpre a tua palavra, e trata lealmente com ele, e em todo o tempo acharás o que te é necessário.  
+**4** Muitos consideram o que se lhes emprestou como um achado, e causam desgosto àqueles que o ajudaram.  
+**5** Beijam as mãos do que lhes empresta até que tenham recebido, e com voz humilde fazem (grandes) promessas;  
+**6** porém, chegando o prazo de pagar a dívida, pedem espera, dizem palavras de enfado e de murmuração, e desculpam-se com o tempo (dizendo que a vida está difícil).  
 **7** Ainda que possam pagar, porão dificuldades, depois darão dificilmente metade do capital, e dirão que se deve considerar isso como uma coisa achada.  
 **8** Se não (podem pagar), privam o credor do seu dinheiro, e, sem causa alguma, o ficarão tendo por inimigo;  
 **9** pagar-lhe-ão com injúrias e maldições, e, à mercê e benefício recebidos, corresponderão com ultrajes.  

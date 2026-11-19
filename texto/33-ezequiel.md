@@ -363,7 +363,7 @@
 **17** Pegaste nos teus belos adornos, feitos do meu ouro e da minha prata, que te tinha dado, e fizeste deles figuras humanas, às quais te prostituíste.  
 **18** Pegaste nos teus vestidos bordados e cobriste com eles os teus ídolos, diante dos quais puseste o meu azeite e os meus perfumes.  
 **19** Puseste diante deles, como oferenda de agradável odor, o pão que te dei, a flor da farinha, o azeite e o mel, com que te nutria. Eis o que foi feito, diz o Senhor Deus.  
-**20** Pegaste nos teus filhos e nas tuas filhas, que me tinhas gerado, e sacrificaste-os a esses ídolos, para seu pasto. Porventura é pequena demais a tua fomicação?  
+**20** Pegaste nos teus filhos e nas tuas filhas, que me tinhas gerado, e sacrificaste-os a esses ídolos, para seu pasto. Porventura é pequena demais a tua fornicação?  
 **21** Imolaste os meus filhos e entregaste-lhos, fazendo-os passar pelo fogo, em sua honra.  
 **22** No meio de todas as tuas abominações e prostituições, não te lembraste dos dias da tua mocidade, quando estavas nua, completamente nua, rojando-te no teu sangue.  
 **23** Depois de tanta malícia tua (ai, ai de ti! diz o Senhor Deus),  
