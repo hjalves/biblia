@@ -114,7 +114,7 @@
 **7** No reinado de Artaxerxes, Beselão, Mitridates, Tabeel e os outros, que eram do partido destes, escreveram a Artaxerxes, rei dos Persas. A carta de acusação foi traduzida em arameu e transcrita em caracteres arameus.  
 **8** Reum, governador, e Samsai, secretário, escreveram (sobre as coisas) de Jerusalém uma caria ao rei Artaxerxes, do teor seguinte:  
 **9** Reum, governador, e Samsai, secretário, com os outros seus conselheiros, os Dineus, os Afarsataqueus, os Terfaleus, os Afarseus, os Erqueus, os Babilónios, os Susanequeus, os Dievos, os Elamitas  
-**10** e todos os outros dentre os povos, que o grande e glorioso Asenafar transportou e fez morar em paz nas cidades da Samaria e nas outras províncias da banda de.além do rio, etc....  
+**10** e todos os outros dentre os povos, que o grande e glorioso Asenafar transportou e fez morar em paz nas cidades da Samaria e nas outras províncias da banda de além do rio, etc....  
 **11** Eis a cópia da carta que lhe mandaram: Ao rei Artaxerxes, os teus servos, os homens que habitam da banda de além do rio, etc.  
 **12** Saiba o rei que os Judeus, que saíram de junto de ti para nós, foram para Jerusalém, cidade rebelde e má, a qual reedificam, reconstruindo os seus muros e restaurando os seus fundamentos.  
 **13** Agora, pois, seja notório ao rei que, se esta cidade for reedificada e os seus muros restaurados, não pagarão mais os tributos, nem os impostos, nem direito de passagem, e esta perda se fará sentir no tesouro real.  
@@ -232,7 +232,7 @@
 **23** Nós, com este fim jejuámos e fizemos oração ao nosso Deus, e tudo nos sucedeu pròsperamente.  
 **24** Escolhi doze dentre os príncipes dos sacerdotes, Sarabias e Hasabias, e com eles dez de seus irmãos.  
 **25** Pesei diante deles a prata, o ouro e os vasos consagrados da casa do nosso Deus, que o rei, os seus conselheiros, os seus príncipes e todos os Israelitas, que se encontraram lá, tinham oferecido.  
-**26** Entreguei nas suas mãos o peso de seiscentos e cinquenta talentos de prata, cem vasos de prata, cem talentos de ouro.  
+**26** Entreguei nas suas mãos o peso de seiscentos e cinquenta talentos de prata, cem vasos de prata, cem talentos de ouro,  
 **27** vinte taças de ouro, que tinham o peso de mil dáricos, dois vasos dum bronze muito claro e brilhante, tão belos como ouro,  
 **28** e disse-lhes: Vós sois os santos do Senhor, e santos são os vasos, a prata e o ouro, que foram espontâneamente oferecidos ao Senhor Deus de nossos pais;  
 **29** vigiai e guardai-os, até que os peseis em Jerusalém na presença dos príncipes dos sacerdotes e dos Levitas, e dos chefes das famílias de Israel, para se conservarem no tesouro da casa do Senhor.  
@@ -250,7 +250,7 @@
 **2** porque tomaram das suas filhas, para si e para seus filhos, e misturaram a linhagem santa com os povos deste país; a mão dos príncipes e dos magistrados foi a primeira nesta transgressão  
 **3** Quando ouvi estas palavras, (cheio de dor) rasguei a minha capa e a minha túnica, arranquei os cabelos da minha cabeça e da minha barba, e sentei-me triste.  
 **4** Juntaram-se ao pé de mim todos os que temiam a palavra do Deus de Israel, por causa da transgressão daqueles que tinham voltado do cativeiro, e eu permaneci sentado triste até ao sacrifício da tarde.  
-**5** a altura do sacrifício da tarde, levantei-me da minha aflição, com a minha capa e a minha túnica rasgadas, pus-me de joelhos, estendi as minhas mãos para o Senhor e meu Deus,  
+**5** À altura do sacrifício da tarde, levantei-me da minha aflição, com a minha capa e a minha túnica rasgadas, pus-me de joelhos, estendi as minhas mãos para o Senhor e meu Deus,  
 **6** e disse: Meu Deus, estou confundido e envergonho-me de levantar a minha face para ti, porque as nossas iniquidades multiplicaram-se sobre as nossas cabeças, e os nossos delitos cresceram até ao céu.  
 **7** Desde o tempo de nossos país até hoje, temos cometido graves pecados; por nossas iniquidades temos sido abandonados, nós, os nossos reis, os nossos sacerdotes, nas mãos dos reis da terra, e entregues à espada, ao cativeiro, à rapina e à vergonha que ainda hoje cobre o nosso rosto.  
 **8** Agora por um pouco, por um momento, foram admitidos os nossos rogos pelo Senhor nosso Deus, deixando-nos algumas relíquias e dando-nos um abrigo no seu santo lugar, para fazer brilhar nossos olhos e dar-nos um pouco de vida na nossa escravidão;  

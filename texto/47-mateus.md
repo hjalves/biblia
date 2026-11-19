@@ -126,7 +126,7 @@
 **20** Porque eu vos digo que, se a vossa justiça não exceder a dos escribas e a dos fariseus, não entrareis no reino dos céus.  
 **21** Ouvistes que foi dito aos antigos: Não matarás (Ex. 20, 13...), e quem matar será submetido ao juízo do tribunal.  
 **22** Pois eu digo-vos que todo aquele que se irar contra o seu irmão, será submetido ao juízo do tribunal. E o que chamar "raca" a seu irmão será condenado pelo Sinédrio. E o que lhe chamar louco, será condenado ao fogo da geena.  
-**23** Portanto, se estás para fazer a tua oferta diante do altar, e te lembrares aí que teu irmão tem alguma coisa contra ti.  
+**23** Portanto, se estás para fazer a tua oferta diante do altar, e te lembrares aí que teu irmão tem alguma coisa contra ti,  
 **24** deixa lá a tua oferta diante do altar, e vai reconciliar-te primeiro com teu irmão, e depois vem fazer a tua oferta.  
 **25** Acomoda-te sem demora com o teu adversário, enquanto estás em caminho com ele, para que não suceda que esse adversário te entregue ao juiz, e o juiz te entregue ao seu ministro, e sejas posto em prisão.  
 **26** Em verdade te digo: Não sairás de lá antes de ter pago o último quadrante.  
@@ -464,7 +464,7 @@
 **29** Ele respondeu-lhes: Não, para que talvez não suceda que, arrancando a cizânia, arranqueis juntamente com ela o trigo.  
 **30** Deixai crescer uma e outra coisa até à ceifa, e no tempo da ceifa direi aos segadores: Colhei primeiramente a cizânia, e atai-a em molhos para a queimar; o trigo, porém, recolhei-o no meu celeiro."  
 **31** Propôs-lhes outra parábola, dizendo: O reino dos céus é semelhante a um grão de mostarda, que um homem tomou e semeou no seu campo.  
-**32** É a mais pequena,de todas as sementes, mas, depois de ter crescido, é maior que todas as hortaliças e chega a tornar-se uma árvore, de sorte que as aves do céu vêm aninhar sobre os seus ramos."  
+**32** É a mais pequena de todas as sementes, mas, depois de ter crescido, é maior que todas as hortaliças e chega a tornar-se uma árvore, de sorte que as aves do céu vêm aninhar sobre os seus ramos."  
 **33** Disse-lhes outra parábola; "O reino dos céus é semelhante ao fermento que uma mulher toma e mistura em três medidas de farinha, até que o todo fica fermentado."  
 **34** Todas estas coisas disse Jesus ao povo em parábolas; e não lhes falava sem parábolas,  
 **35** a fim de que se cumprisse o que estava anunciado pelo profeta, que diz; Abrirei em parábolas a minha boca, publicarei as coisas escondidas desde a criação (Ps. 77, 2)."  
@@ -755,10 +755,10 @@
 **9** E as multidões que o precediam, e as que iam atrás, gritavam, dizendo: "Hosana ao Filho de David! Bendito o que vem em nome do Senhor! Hosana no mais alto dos céus! "  
 **10** Quando entrou em Jerusalém, alvoroçou-se toda a cidade. Dizia-se: "Quem é este?"  
 **11** E a multidão respondia: "Este é Jesus, o profeta de Nazaré e da Galileia."  
-**12** Jesus entrou no templo de Deus, expulsou todos os que lá vendiam e compravam; e derrubou as mesas dos banqueiros e as cadeiras dos que vendiam pombas.  
+**12** Jesus entrou no templo de Deus, expulsou todos os que lá vendiam e compravam; e derrubou as mesas dos banqueiros e as cadeiras dos que vendiam pombas,  
 **13** e disse-lhes: "Está escrito: A minha casa será chamada casa de oração (Is. 56, 7): mas vós fizeste dela covil de ladrões (Je. 7, 11)."  
 **14** Aproximaram-se dele no templo cegos e coxos, e os curou.  
-**15** Quando os príncipes dos sacerdotes e os escribas viram as maravilhas operadas por ele, e os meninos gritando no templo, e dizendo: Hosana ao Filho de David! indignaram-se.  
+**15** Quando os príncipes dos sacerdotes e os escribas viram as maravilhas operadas por ele, e os meninos gritando no templo, e dizendo: Hosana ao Filho de David! indignaram-se,  
 **16** e disseram-lhe: "Ouves o que estes dizem?" E Jesus respondeu: "Sim. Nunca lestes: Da boca das crianças e meninos de peito fizestes sair um perfeito louvor? (Ps. 8, 3)."  
 **17** Tendo-os deixado, retirou-se para fora da cidade, para Betânia; e lá passou a noite.  
 **18** Pela manhã, quando voltava para a cidade, teve fome.  

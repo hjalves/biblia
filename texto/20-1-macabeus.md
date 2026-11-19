@@ -188,7 +188,7 @@
 **41** Quando os mercadores das províncias vizinhas ouviram a notícia da chegada deles, tomaram muita prata, muito ouro e criados, e foram ao acampamento, com o fim de comprarem os filhos de Israel para escravos. Os exércitos da Síria se ajuntaram a eles, como também os de outras nações.  
 **42** Então Judas e seus irmãos, vendo que os males se tinham multiplicado e que os exércitos se aproximavam das suas fronteiras, e tendo notícia das ordens que o rei tinha dado para destruir e exterminar o povo,  
 **43** disseram uns para os outros: Levantemos o nosso povo do seu abatimento e pelejemos pela nossa nação e pelo santuário.  
-**44** Fez-se a convocação de toda a gente, a fim de se prepararem para a peleja e a fim de fazerem oração (ao Senhor) e implorarem a sua misericórdia,e piedade.  
+**44** Fez-se a convocação de toda a gente, a fim de se prepararem para a peleja e a fim de fazerem oração (ao Senhor) e implorarem a sua misericórdia e piedade.  
 **45** Ora Jerusalém não estava então habitada, mas parecia um deserto: entre seus filhos nenhum havia que entrasse e saísse dela; o santuário estava pisado aos pés; os filhos dos estrangeiros ocupavam a fortaleza, a qual servia de habitação aos gentios; foi desterrada de Jacob toda a alegria, não se ouvindo já nem a flauta nem a harpa.  
 **46** Eles, pois, juntaram-se e foram para Masfa, que está defronte de Jerusalém, porque outrora havia em Masfa um lugar de oração para Israel.  
 **47** Jejuaram aquele dia, vestiram-se de cilícios, puseram cinza sobre a sua cabeça e rasgaram as suas vestes.  
@@ -343,7 +343,7 @@
 
 ## Capítulo 6
 
-**1** Entretanto o rei Antíoco percorria as províncias superiores. Ouvindo dizer que havia na Pérsia, na (província de) Elimaida, uma cidade famosa pelas suas riquezas em prata e ouro.  
+**1** Entretanto o rei Antíoco percorria as províncias superiores. Ouvindo dizer que havia na Pérsia, na (província de) Elimaida, uma cidade famosa pelas suas riquezas em prata e ouro,  
 **2** e que havia nela um templo riquíssimo, onde estavam véus de ouro, couraças, escudos, e armas, que lá havia deixado Alexandre, rei da Macedónia, filho de Filipe, que foi o primeiro que reinou na Grécia,  
 **3** marchou sobre ela e tentou tomá-la e saqueá-la, mas não pode, porque o seu desígnio chegou ao conhecimento dos habitantes da cidade.  
 **4** Estes saíram a pelejar contra ele, que fugiu de lá com grande tristeza, para voltar a Babilónia.  
@@ -379,7 +379,7 @@
 **34** Mostraram aos elefantes sumo de uva e de amoras para os incitarem à peleja.  
 **35** Distribuíram estes animais pelas falanges, pondo em volta de cada elefante mil homens armados de cotas de malha e de capacetes de bronze; quinhentos cavaleiros escolhidos tinham ordem de se conservar sempre junto de cada animal  
 **36** Estes precediam o animal para onde quer que ele fosse: para toda a parte para onde ele ia, iam eles, sem jamais se afastarem.  
-**37** Havia também sobre cada elefante uma forte torre de, madeira, bem segura e protegida,por máquinas de guerra; em cada torre iam homens valentes, que pelejavam, além do seu cornaca.  
+**37** Havia também sobre cada elefante uma forte torre de, madeira, bem segura e protegida por máquinas de guerra; em cada torre iam homens valentes, que pelejavam, além do seu cornaca.  
 **38** Foi posto o resto da cavalaria dum e doutro flanco, em dois troços, para açoutar o inimigo e proteger as falanges.  
 **39** Quando o sol brilhou sobre os escudos de ouro e de bronze, com o seu reflexo resplandeceram os montes, resplandeceram como fachos de fogo.  
 **40** Uma parte do exército do rei avançou pelo alto dos montes, e outra pelas planícies, caminhando com precaução e ordem.  
@@ -522,7 +522,7 @@
 **23** Aconteceu que, depois da morte de Judas, apareceram por todo o território de Israel homens perversos, e levantaram a cabeça todos os obreiros da Iniquidade.  
 **24** Naqueles dias sobreveio uma fome muito grande, e todo o país tomou o seu partido.  
 **25** Báquides escolheu homens ímpios e deu-lhes cargos de mando no país.  
-**26** Estes andavam em busca zelosa dos amigos de Judas e traziam-nos a Báquides, o qual se vingava deles e os ridicularizava.  
+**26** Estes andavam em busca zelosa dos amigos de Judas e traziam-nos a Báquides, o qual se vingava deles e os ridicularizava,  
 **27** levantou-se uma tão grande tribulação em Israel, que não se tinha visto outra assim desde o tempo do desaparecimento dos profetas de Israel  
 **28** Então juntaram-se todos os amigos de Judas e disseram a Jónatas:  
 **29** Desde que teu Irmão Judas morreu, não há homem semelhante a ele, que marche contra os nossos inimigos, contra Báquides e os que odeiam a nossa gente.  
@@ -671,7 +671,7 @@
 **4** Quando chegou perto de Azot, mostraram-lhe o templo de Dagon queimado, a própria cidade e os seus subúrbios demolidos, os cadáveres por terra, e, ao longo do caminho, montões (de restos) daqueles que tinham sido mortos na batalha.  
 **5** Disseram ao rei que Jónatas era quem tinha feito todos estes estragos, querendo assim torná-lo odioso, mas o rei manteve-se calado.  
 **6** Jónatas foi com grande pompa encontrar-se com o rei em Jope, Cumprimentaram-se um ao outro e passaram ali a noite.  
-**7** Jónatas acompanhou o rei até ao rio, que se chama Eleutero, e voltou para Jerusalém.  
+**7** Jónatas acompanhou o rei até ao rio, que se chama Eleutero, e voltou para Jerusalém,  
 **8** o rei Ptolomeu apoderou-se de todas as cidades do litoral até Selêucia, que está sobre o mar, e forjava maus desígnios contra Alexandre.  
 **9** Enviou embaixadores a Demétrio, que lhe dissessem: Anda, façamos aliança um com outro, e eu te darei minha filha que Alexandre tem por mulher, e reinarás no reino de teu pai.  
 **10** Efectivamente estou arrependido de lhe ter dado minha filha, visto que procurou matar-me.  

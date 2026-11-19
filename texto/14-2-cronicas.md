@@ -153,7 +153,7 @@
 **1** Quando Salomão terminou a sua oração, desceu fogo do céu e consumiu os holocaustos e as vítimas, e a majestade do Senhor encheu a casa.  
 **2** Os sacerdotes não podiam entrar no templo do Senhor, porque a majestade do Senhor tinha enchido o seu templo.  
 **3** Todos os filhos de Israel viram descer o fogo e a glória do Senhor, sobre o templo, e, prostrados com o rosto em terra sobre o pavimento, adoraram e louvaram o Senhor, dizendo: Ele é bom e a sua misericórdia é eterna.  
-**4** o rei e todo o povo imolavam vítimas diante do Senhor.  
+**4** O rei e todo o povo imolavam vítimas diante do Senhor.  
 **5** O rei Salomão ofereceu em sacrifício vinte e dois bois e cento e vinte mil carneiros. Foi assim que o rei, com todo o povo, dedicou a casa a Deus.  
 **6** Ao mesmo tempo os sacerdotes estavam aplicados às suas funções, e os Levitas, ao som dos instrumentos músicos, cantavam os hinos do Senhor, que o rei Davide tinha composto para louvar o Senhor, (repetindo): porque a sua misericórdia é eterna; cantavam os hinos de Davide ao som dos instrumentos que tocavam com as suas mãos; os sacerdotes diante deles tocavam as trombetas, e todo o Israel estava em pé.  
 **7** Salomão consagrou também o meio do átrio, que está diante do templo do Senhor, porque ali tinha ele oferecido os holocaustos e a gordura das vítimas pacíficas, pois o altar de bronze, que ele tinha feito, não podia bastar para os holocaustos e sacrifícios e gordura.  
@@ -664,7 +664,7 @@
 **9** Achava-se então lá um profeta do Senhor, chamado Obed, o qual, saindo ao encontro do exército que ia para Samaria, lhes disse: Vós vedes que o Senhor Deus de vossos pais, irado contra Judá, vo-los entregou nas mãos, e vós os malastes ferozmente, de sorte que a vossa crueldade chegou até ao céu.  
 **10** Além disto, quereis ainda sujeitar os filhos de Judá e de Jerusalém, para serem escravos e escravas. Porventura não tendes, também vós, ofensas contra o Senhor vosso Deus?  
 **11** Ouvi o meu conselho: reconduzi os cativos que trouxestes dentre os vossos irmãos, porque um grande furor do Senhor está iminente sobre vós.  
-**12** Então, alguns dos chefes dos filhos de Efraim, a saber, Azarias, filho de Joanan, Baraquias, filho de Mosolamot, Ezequias, filho de Selum, e Amasa, filho de Adali, puseram-se diante dos que voltavam da batalha.  
+**12** Então, alguns dos chefes dos filhos de Efraim, a saber, Azarias, filho de Joanan, Baraquias, filho de Mosolamot, Ezequias, filho de Selum, e Amasa, filho de Adali, puseram-se diante dos que voltavam da batalha,  
 **13** e disseram-lhes: Não introduzais aqui os cativos, não suceda que pequemos contra o Senhor. Por que quereis vós aumentar o número dos nossos pecados e cumular a medida dos antigos delitos? Já somos demasiado culpados, e a ira do furor do Senhor está iminente sobre Israel.  
 **14** Então aqueles homens guerreiros deixaram a presa e tudo o que tinham tomado, diante dos chefes e de toda a multidão.  
 **15** Os homens, de que falámos acima, pararam e, pegando nos cativos, vestiram, com os despojos, todos os que estavam nus, e, depois de os vestirem e calçarem, de os refazerem com comida e bebida, de os ungirem e cuidarem deles, puseram sobre jumentos a todos os que não podiam andar e eram fracos do corpo, e levaram-nos a Jericó, cidade das Palmeiras, a seus irmãos. Depois voltaram para Samaria.  
@@ -920,7 +920,7 @@
 **12** Fez o mal diante dos olhos do Senhor seu Deus, e não respeitou a pessoa do profeta Jeremias, que lhe falava da parte do Senhor.  
 **13** Sublevou-se também contra o rei Nabucodonosor, a quem tinha dado juramento (de fidelidade) em nome de Deus; endureceu a sua cerviz e o seu coração para não se converter ao Senhor Deus de Israel.  
 **14** Também todos os príncipes dos sacerdotes e o povo se entregaram a todas as abominações dos gentios e profanaram a casa do Senhor, que ele tinha santificado para si em Jerusalém.  
-**15** o Senhor Deus de seus pais dirigia-lhes frequentemente a sua palavra por meio dos seus enviados, admoestando-os constantemente, porque queria perdoar ao seu povo e à sua casa,  
+**15** O Senhor Deus de seus pais dirigia-lhes frequentemente a sua palavra por meio dos seus enviados, admoestando-os constantemente, porque queria perdoar ao seu povo e à sua casa,  
 **16** mas eles zombavam dos enviados de Deus, desprezavam as suas palavras, escarneciam dos seus profetas, até que o furor do Senhor se levantou contra o seu povo, e não houve mais remédio.  
 **17** Então Deus fez vir contra eles o rei dos Caldeus, que degolou seus filhos na casa do seu santuário, não tendo piedade nem do jovem, nem da donzela, nem do velho, nem do decrépito. Deus entregou-lhos todos nas suas mãos.  
 **18** Nabucodonosor levou para Babilónia todos os vasos da casa do Senhor, tanto os grandes como os pequenos, os tesouros do templo, os do rei e dos príncipes.  

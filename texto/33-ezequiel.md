@@ -297,7 +297,7 @@
 **14** Destruirei a muralha que vós rebocastes com o barro, arrasá-la-ei, descobrir-se-ão os seus fundamentos, e ela cairá; e o que a rebocou será destruído com ela. Assim sabereis que eu sou o Senhor.  
 **15** E satisfarei a minha indignação contra a muralha e contra aqueles que a rebocaram com barro, e vos direi então: Já não existe a muralha, nem existem os que a rebocaram,  
 **16** esses profetas de Israel que profetizavam sobre Jerusalém, e que tinham acerca dela visões de paz, quando tal paz não havia, diz o Senhor Deus.  
-**17** Tu, filho de homem, volta o teu rosto contra as filhas do teu povo, que se põem a profetizar por sua cabeça, e profetiza contra elas.  
+**17** Tu, filho de homem, volta o teu rosto contra as filhas do teu povo, que se põem a profetizar por sua cabeça, e profetiza contra elas,  
 **18** dizendo-lhes: Isto diz o Senhor Deus: Ai daqueles que cosem ligaduras para todas as junturas das mãos e que fabricam véus para as cabeças das pessoas de todas as estaturas, a fim de lhes apanharem as almas! Acaso pretendeis atentar contra a vida do meu povo e poupar a vossa própria vida?  
 **19** Vós profanais-me diante do meu povo por um punhado de cevada e por um pedaço de pão, matando as almas que não deviam morrer, e prometendo a vida às que não deviam viver, mentindo ao meu povo, que acredita nestas mentiras.  
 **20** Por cuja causa isto diz o Senhor Deus: Eis que vou contra as vossas ligaduras, com que apanhais as almas como a pássaros; arrancá-las-ei dos vossos braços e deixarei fugir as almas que vós apanhastes, como a pássaros.  
@@ -310,7 +310,7 @@
 **1** Vieram ter comigo alguns dos anciães de Israel e sentaram-se diante de mim.  
 **2** Então foi-me dirigida a palavra do Senhor, nestes termos:  
 **3** Filho de homem, essas pessoas instalaram os seus ídolos nos seus corações, e põem incessantemente o escândalo da sua iniquidade diante da sua face: acaso deverei permitir que me consultem?  
-**4** Por isso fala-lhes e dize-lhes: Assim fala o Senhor Deus: Se qualquer da casa de Israel, que tiver posto ídolos no seu coração e colocado o escândalo da sua iniquidade diante de seus olhos, for ter com algum profeta (para me interrogar per meio dele), eu mesmo, o Senhor, lhe responderei segundo a multidão dos seus ídolos.  
+**4** Por isso fala-lhes e dize-lhes: Assim fala o Senhor Deus: Se qualquer da casa de Israel, que tiver posto ídolos no seu coração e colocado o escândalo da sua iniquidade diante de seus olhos, for ter com algum profeta (para me interrogar per meio dele), eu mesmo, o Senhor, lhe responderei segundo a multidão dos seus ídolos,  
 **5** a fim de apanhar a casa de Israel pelo seu próprio coração, ela que se retirou de mim por causa de todos os seus ídolos.  
 **6** Por isso dize à casa de Israel: Assim fala o Senhor Deus: Convertei-vos, retirai-vos dos vossos ídolos, afastai o vosso rosto de todas as vossas abominações.  
 **7** Com efeito, se um homem da casa de Israel, ou um estrangeiro estabelecido em Israel, se afastar de mim e puser ídolos no seu coração, e colocar o escândalo da sua iniquidade diante dos seus olhos, e for, depois, ter com algum profeta para me interrogar por meio dele, eu, o Senhor, lhes responderei por mim mesmo (castigando-o);  
@@ -327,7 +327,7 @@
 **18** se estes três homens se acharem no meio dela, (juro) pela minha vida, diz o Senhor Deus, que eles não livrarão nem os seus filhos, nem as suas filhas: só eles serão livres.  
 **19** Ou se eu enviar a peste contra essa terra, e saciar a minha indignação sobre ela no sangue, exterminando os homens e os animais,  
 **20** se Noé, Daniel e Job se acharem no meio dela, (juro) pela minha vida, diz o Senhor Deus, que não livrarão nem os seus filhos, nem as suas filhas; só eles se salvarão pela sua própria justiça.  
-**21** Assim fala o Senhor Deus; Se eu enviar contra Jerusalém os meus quatro terríveis flagelos, a espada e a fome, os animais ferozes e a peste para lhe matar os homens e o gado.  
+**21** Assim fala o Senhor Deus; Se eu enviar contra Jerusalém os meus quatro terríveis flagelos, a espada e a fome, os animais ferozes e a peste para lhe matar os homens e o gado,  
 **22** ficarão nela todavia alguns que se salvarão, que escaparão, filhos e filhas. Eis que eles virão ter convosco (aqui a Babilónia) e vós vereis o seu (mau) proceder e as suas obras, e consolar-vos-eis do mal que fiz vir sobre Jerusalém, de todas as calamidades que sobre ela descarreguei.  
 **23** Eles vos consolarão, quando virdes o seu (mau) proceder e as suas obras; reconhecereis que não foi sem um justo motivo que eu fiz nela tudo o que fiz oráculo do Senhor Iavé.  
 
@@ -354,7 +354,7 @@
 **8** Passei junto de ti, e vi-te: era (chegado) o teu tempo, o tempo dos amores (ou da puberdade). Estendi sobre ti o meu manto e cobri a tua nudez; jurei-te (fidelidade), fiz aliança contigo, diz o Senhor Deus, e tu ficaste sendo minha.  
 **9** Lavei-te com água, limpei-te do teu sangue e ungi-te com óleo.  
 **10** Vesti-te de roupas bordadas, dei-te calçado de couro fino, cingi-te de linho e cobri-te de seda  
-**11** Ornei-te de preciosos enfeites, pus-te braceletes nas mãos, um colar ao pescoço.  
+**11** Ornei-te de preciosos enfeites, pus-te braceletes nas mãos, um colar ao pescoço,  
 **12** uma argola no nariz, arrecadas nas orelhas, e um formoso diadema na cabeça.  
 **13** Foste enfeitada de ouro e prata, vestida de linho fino, de seda e de roupas bordadas; nutriste-te da flor da farinha, de mel e de azeite; tornaste-te mui formosa e chegaste a ser rainha.  
 **14** O teu renome espalhou-se entre as nações, por causa da tua formosura, porque era perfeita, graças ao esplendor de que eu te havia revestido, diz o Senhor Deus.  
@@ -412,7 +412,7 @@
 
 **1** Foi-me dirigida a palavra do Senhor, nestes termos:  
 **2** Filho de homem, propõe um enigma, conta uma parábola à casa de Israel.  
-**3** Dir-lhe-ás; Assim fala o Senhor Deus: uma grande águia, de grandes asas, de enorme envergadura coberta de penas multicolores, veio ao Líbano e levou o cimo do cedro.  
+**3** Dir-lhe-ás; Assim fala o Senhor Deus: uma grande águia, de grandes asas, de enorme envergadura coberta de penas multicolores, veio ao Líbano e levou o cimo do cedro,  
 **4** arrancou as últimas pontas dos seus ramos, transportou-as à terra de Canaan e pô-las numa cidade de negociantes (que é Babilónia).  
 **5** Depois tomou um rebento de planta daquele país e pô-lo num terreno preparado, plantou-o como um salgueiro, junto de águas abundantes.  
 **6** Depois de ter brotado, cresceu e tornou-se uma videira extensa, porém de pouca altura, cujos ramos olhavam para a águia, e cujas raízes estavam debaixo dela. Tornou-se uma cepa, lançou sarmentos e produziu renovos.  
@@ -611,7 +611,7 @@
 ## Capítulo 23
 
 **1** Foi-me dirigida a palavra do Senhor, nestes termos:  
-**2** Filho de homem, havia duas mulheres, filhas da mesma mãe.  
+**2** Filho de homem, havia duas mulheres, filhas da mesma mãe,  
 **3** as quais se prostituíram no Egipto, prostituíram-se na sua mocidade (como povo). Aí lhes apertaram os peitos lhes apalparam o seio virginal.  
 **4** A mais velha chama-se Oola, e a sua irmã Ooliba. Desposei-me com elas, e deram à luz filhos e filhas. No tocante a seus nomes. Oola é a Samaria, e Ooliba é Jerusalém.  
 **5** Oola foi-me infiel e apaixonou-se pelos seus amantes os Assírios, seus vizinhos,  
@@ -623,7 +623,7 @@
 **11** Tendo visto isto, sua irmã Ooliba enlouqueceu de paixão ainda mais do que ela, e as suas prostituições excederam as de sua irmã.  
 **12** Prendeu-se de paixão aos Assírios, governadores e chefes, seus vizinhos, magnificamente vestidos, cavaleiros montados nos seus cavalos, todos jovens de belo parecer.  
 **13** Vi que também se manchava, que ambas seguiam o mesmo caminho,  
-**14** (Mas Ooliba) foi aumentando sempre a sua luxúria, mais que a outra: tendo visto uns homens pintados na parede, umas imagens dos Caldeus pintadas a mínio.  
+**14** (Mas Ooliba) foi aumentando sempre a sua luxúria, mais que a outra: tendo visto uns homens pintados na parede, umas imagens dos Caldeus pintadas a mínio,  
 **15** os quais tinham os rins cingidos de talabartes, e tiaras em suas cabeças, parecendo todos oficiais de guerra, dando ares de grandes senhores, representações de filhos de Babilónia, do país dos Caldeus, onde tinham nascido,  
 **16** logo ao primeiro olhar concebeu por eles uma paixão louca, e mandou-lhes embaixadores à Caldeia.  
 **17** E, tendo vindo ter com ela os filhos de Babilónia, ao leito dos seus amores, mancharam-na com as suas ignomínias, e ela foi por eles corrompida e, ficou farta deles.  
@@ -808,7 +808,7 @@
 **2** Filho de homem, volta o teu rosto contra Faraó, rei do Egipto, e profetiza contra ele e contra o Egipto.  
 **3** Fala e dize: Isto diz o Senhor Deus; Eis que venho contra ti, ó Faraó, rei do Egipto, crocodilo enorme, que te deitas no meio dos teus rios e que dizes: O rio (Nilo), é meu, fui eu que o fiz.  
 **4** Pôr-te-ei um freio nos queixos, colarei os peixes dos teus rios às tuas escamas, e te tirarei do meio dos teus rios, assim como todos os peixes dos teus rios, pegados às tuas escamas.  
-**5** Lançar-te-ei para o deserto com todos os peixes do teu rio; cairás sobre a face da terra, e não te recolherão nem sepultarão; dar-te-ei por pasto aos animais da terra e às aves do céu.  
+**5** Lançar-te-ei para o deserto com todos os peixes do teu rio; cairás sobre a face da terra, e não te recolherão nem sepultarão; dar-te-ei por pasto aos animais da terra e às aves do céu,  
 **6** e todos os habitantes do Egipto saberão que eu sou o Senhor, porque tu foste para a casa de Israel um apoio (frágil) de cana.  
 **7** Quando eles te tomaram na mão, quebraste, e lhes rasgaste todo o ombro; quando eles se apoiaram sobre ti, tu te partiste em pedaços e fizeste vacilar todos os seus rins.  
 **8** Portanto isto diz o Senhor Deus: Vou fazer cair a espada sobre ti e exterminar do teu seio os homens e os animais.  
@@ -1013,7 +1013,7 @@
 **10** Multiplicarei em vós os homens, toda a casa de Israel; as cidades serão habitadas, e os lugares arruinados serão reconstruídos.  
 **11** Multiplicarei em vós homens e animais; eles serão numerosos e fecundos; farei que sejais habitados como dantes, dar-vos-ei bens ainda maiores que os que tivestes no princípio, e sabereis que eu sou o Senhor.  
 **12** Sobre vós farei vir homens, (que constituam) o meu povo de Israel, e eles vos possuirão como sua herança; sereis a sua herança e não os privareis mais dos seus filhos.  
-**13** Assim fala o Senhor Deus: Já que dizem de vós que sois uma terra que devora homens e que mata os seus filhos.  
+**13** Assim fala o Senhor Deus: Já que dizem de vós que sois uma terra que devora homens e que mata os seus filhos,  
 **14** por isso (ó Israel) tu não devorarás mais homens nem matarás mais teus filhos, diz o Senhor Deus.  
 **15** Farei que se não ouçam mais em ti os insultos das nações, e não levarás mais sobre ti o opróbrio dos povos, nem perderás mais a tua gente, diz o Senhor Deus.  
 **16** Foi-me dirigida a palavra do Senhor, nestes termos:  

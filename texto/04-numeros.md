@@ -48,7 +48,7 @@
 **44** Estes são os que foram contados por Moisés e Aarão, e pelos doze príncipes de Israel, um por cada tribo.  
 **45** Todo o número dos filhos de Israel, segundo as suas casas e famílias, dos vinte anos para cima, de todos os que podiam ir à guerra, foi  
 **46** seiscentos e três mil quinhentos e cinquenta homens.  
-**47** Os Levitas, porém, não foram contados com eles, na tribo das suas famílias.  
+**47** Os Levitas, porém, não foram contados com eles, na tribo das suas famílias,  
 **48** porque o Senhor falou a Moisés, dizendo:  
 **49** Não contes a tribo de Levi, nem porás a soma deles com os filhos de Israel.  
 **50** Incumbe-os de cuidarem do tabernáculo do testemunho e de todos os seus vasos, e de tudo o que pertence às cerimónias. Eles levarão o tabernáculo e todos os utensílios, empregar-se-ão no ministério e acamparão em volta do tabernáculo.  
@@ -231,7 +231,7 @@
 **27** Depois que ela as tiver bebido, se está culpada, se, desprezado o marido, pecou por adultério, penetrá-la-ão as águas da maldição, farão inchar o seu ventre, emagrecerão os seus flancos, e aquela mulher será objecto de maldição no meio do seu povo.  
 **28** Se, porém, não está manchada, não sofrerá mal algum, e terá filhos.  
 **29** Esta é a lei dos zelos. Se uma mulher se retirar de seu marido, e se manchar,  
-**30** e o marido, possuído do espírito de zelos, a apresentar diante do Senhor, e o sacerdote fizer com ela tudo o que fica escrito.  
+**30** e o marido, possuído do espírito de zelos, a apresentar diante do Senhor, e o sacerdote fizer com ela tudo o que fica escrito,  
 **31** o marido será sem culpa, e a mulher pagará a sua maldade.  
 
 ## Capítulo 6
@@ -246,7 +246,7 @@
 **8** Durante todos os dias da sua separação será santo para o Senhor.  
 **9** Se alguém morrer subitamente diante dele, ficará manchada a consagração da sua cabeça, a qual rapará logo no mesmo dia da sua purificação, bem como no sétimo dia.  
 **10** No oitavo dia, porém, oferecerá ao sacerdote, à entrada do tabernáculo da reunião, duas rolas ou dois pombos.  
-**11** O sacerdote imolará um pelo pecado, e outro em holocausto, e rogará por ele, porque pecou, manchando-se com a presença do morto; santificará naquele dia a sua cabeça.  
+**11** O sacerdote imolará um pelo pecado, e outro em holocausto, e rogará por ele, porque pecou, manchando-se com a presença do morto; santificará naquele dia a sua cabeça,  
 **12** e consagrará ao Senhor os dias da sua separação, oferecendo um cordeiro de um ano pelo pecado, mas de sorte que os dias precedentes sejam perdidos, visto que a sua santificação foi manchada.  
 **13** Esta é a lei da consagração. Completos que forem os dias, a que por voto se tinha obrigado, (o sacerdote) conduzi-lo-á à entrada do tabernáculo da reunião,  
 **14** para fazer ao Senhor a sua oferta, (que será) um cordeiro de um ano sem defeito em holocausto, uma ovelha de um ano sem defeito pelo pecado, um carneiro sem mancha para o sacrifício pacífico,  
@@ -296,7 +296,7 @@
 **28** um bode pelo pecado;  
 **29** para o sacrifico pacífico, dois bois, cinco carneiros, cinco bodes, cindo cordeiros de um ano. Esta foi a oferta de Eliab, filho de Helon,  
 **30** Ao quarto dia Elisur, filho de Sedeur, e príncipe dos filhos de Ruben,  
-**31** ofereceu um prato de prata, que pesava cento e trinta siclos, uma taça de prata, que tinha setenta siclos pelo peso do santuário, ambos cheias de flor de farinha borrifada com azeite para o sacrifício.  
+**31** ofereceu um prato de prata, que pesava cento e trinta siclos, uma taça de prata, que tinha setenta siclos pelo peso do santuário, ambos cheias de flor de farinha borrifada com azeite para o sacrifício,  
 **32** um pequeno vaso de ouro do peso de dez siclos, cheio de incenso;  
 **33** um boi da manada, um carneiro e um cordeiro de um ano, para o holocausto;  
 **34** um bode pelo pecado;  
@@ -350,7 +350,7 @@
 **82** um bode pelo pecado;  
 **83** para o sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano. Esta foi a oferta de Aira, filho de Enan.  
 **84** As coisas, pois, oferecidas pelos príncipes de Israel, na dedicação do altar, no dia em que foi consagrado, foram estas; doze pratos de prata, doze taças de prata, doze pequenos vasos de ouro,  
-**85** pesando cada prato cento e trinta siclos, e cada taça setenta, de sorte que todos os vasos de prata juntos pesavam dois mil e quatrocentos siclos, pelo peso do santuário.  
+**85** pesando cada prato cento e trinta siclos, e cada taça setenta, de sorte que todos os vasos de prata juntos pesavam dois mil e quatrocentos siclos, pelo peso do santuário,  
 **86** os doze pequenos vasos de ouro cheios de incenso, de dez siclos cada um, pelo peso do santuário, pesavam todos juntos cento e vinte siclos de ouro.  
 **87** Total dos animais para o holocausto: Doze bois da manada, doze carneiros, doze cordeiros de um ano com as suas libações, doze bodes pelo pecado.  
 **88** Total dos animais para o sacrifício pacífico: vinte e quatro bois, sessenta carneiros, setenta bodes, sessenta cordeiros de um ano. Estes coisas foram oferecidas na dedicação do altar, quando foi ungido.  
@@ -858,7 +858,7 @@
 **20** Veio, pois, Deus a Balaão de noite, e disse-lhe: Se estes homens te vierem chamar, levanta-te e vai com eles, mas com a condição de que faças o que eu te mandar.  
 **21** Balaão levantou-se de manhã, e, aparelhada a sua jumenta, partiu com eles.  
 **22** Porém, Deus irou-se, e o anjo do Senhor pôs-se no caminho diante de Balaão, que ia montado na jumenta, e levava consigo dois criados.  
-**23** A jumenta, vendo o anjo que estava no caminho com uma espada desembainhada, afastou-se do caminho e seguiu pelo campo. Como Balaão a fustigasse e a quisesse fazer voltar à estrada.  
+**23** A jumenta, vendo o anjo que estava no caminho com uma espada desembainhada, afastou-se do caminho e seguiu pelo campo. Como Balaão a fustigasse e a quisesse fazer voltar à estrada,  
 **24** o anjo pôs-se numa azinhaga estreita entre dois muros, com que estavam cercadas as vinhas.  
 **25** A jumenta, vendo-o, coseu-se com a parede, e apertou contra ela o pé de Balaão, que a voltou a fustigar.  
 **26** O anjo, passando a um lugar (ainda mais) apertado, onde não era possível desviar-se nem para a direita nem para a esquerda, parou diante.  
@@ -1025,7 +1025,7 @@
 **61** dos quais Nadab e Abiu morreram, por terem oferecido um fogo estranho diante do Senhor.  
 **62** Todos os recenseados foram vinte e três mil homens de um mês para cima, porque não foram contados entre os filhos de Israel, nem lhes foi dada herança com os outros.  
 **63** Este é o número dos filhos de Israel, que foram recenseados por Moisés e pelo sacerdote Eleázaro nas planícies de Moab, ao longo do Jordão, defronte de Jericó.  
-**64** Entre eles não se achou nenhum daqueles que tinham sido recenseados antes por Moisés e Aarão no deserto do Sinai.  
+**64** Entre eles não se achou nenhum daqueles que tinham sido recenseados antes por Moisés e Aarão no deserto do Sinai,  
 **65** porque o Senhor tinha predito que todos eles morreriam no deserto. Não ficou nenhum deles, excepto Caleb, filho de Jefone, e Josué, filho de Nun.  
 
 ## Capítulo 27
@@ -1092,7 +1092,7 @@
 
 **1** No primeiro dia do sétimo mês haverá santa assembleia, e não fareis nele obra alguma servil, porque é o dia do som e das trombetas  
 **2** Oferecereis em holocausto de suave odor ao Senhor um bezerro da manada, um carneiro, e sete cordeiros de um ano, sem defeito;  
-**3** nos seus sacrifícios três dízimas de flor de farinha amassada com azeite por cada um dos bezerros, duas dizimas pelo carneiro.  
+**3** nos seus sacrifícios três dízimas de flor de farinha amassada com azeite por cada um dos bezerros, duas dizimas pelo carneiro,  
 **4** uma dizima por cada cordeiro, isto é, por cada um dos sete cordeiros.  
 **5** (Oferecereis também) um bode pelo pecado, que é pela expiação do povo,  
 **6** além do holocausto do mês com os suas oblações, do holocausto perpétuo com as libações costumadas, segundo o que está prescrito.  
@@ -1357,7 +1357,7 @@
 **10** Fala aos filhos de Israel e dize-lhes: Quando, passado o Jordão, tiverdes entrado na terra de Canaan,  
 **11** determinai que cidades devem ser para refúgio dos fugitivos, que involuntàriamente derramarem sangue.  
 **12** Quando o fugitivo se tiver refugiado nelas, o vingador do sangue não poderá matá-lo, enquanto se não apresentar diante da assembleia, enquanto não for julgada a sua causa.  
-**13** Dessas cidades que se devem destinar a refúgio.  
+**13** Dessas cidades que se devem destinar a refúgio,  
 **14** três serão do lado de lá do Jordão, e três na terra de Canaan,  
 **15** e (serão) tanto para os filhos de Israel, como para os estrangeiros e peregrinos, a fim de que a elas se acolha aquele que involuntàriamente tiver derramado sangue.  
 **16** Se alguém ferir com ferro, e o ferido morrer, (o agressor) é réu de homicídio, também ele morrerá.  

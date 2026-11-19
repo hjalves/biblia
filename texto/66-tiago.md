@@ -55,7 +55,7 @@
 **21** Abraão, nosso pai, não foi ele justificado pelas obras, oferecendo seu filho Isaac sobre o altar?  
 **22** Tu vês que a fé cooperava com as suas obras e que a sua fé foi consumada por meio das obras.  
 **23** E cumpriu-se a Escritura que diz: Abraão creu em Deus e isso lhe foi imputado como justiça (Gn. 15, 6) e foi chamado amigo de Deus.  
-**24** vedes, pois, que o homem é justificado pelas obras e não pela fé sòmente.  
+**24** Vedes, pois, que o homem é justificado pelas obras e não pela fé sòmente.  
 **25** Do mesmo modo também Raab, a meretriz, não foi justificada pelas obras, recebendo os mensageiros (enviados por Josué) e fazendo-os sair por outro caminho?  
 **26** Assim como o corpo sem espírito é morto, assim também a fé sem obras é morta.  
 

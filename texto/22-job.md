@@ -210,7 +210,7 @@
 
 **1** Respondendo Job, disse:  
 **2** Eu sei verdadeiramente que é assim, que o homem comparado com Deus não é justo.  
-**3** quisesse disputar com Deus, não lhe poderia responder por mil coisas uma só.  
+**3** Se quisesse disputar com Deus, não lhe poderia responder por mil coisas uma só.  
 **4** Deus é sábio de coração, e forte em poder; quem lhe resistiu e ficou em paz?  
 **5** Ele transporta os montes, sem que eles o saibam, revolve-os na sua ira.  
 **6** Ele sacode a terra do seu lugar, e as suas colunas são abaladas.  
@@ -401,7 +401,7 @@
 **21** Um estrondo de terror está sempre em seus ouvidos, e, mesmo quando há paz, receia o assalto do devastador  
 **22** Não crê que se possa voltar das trevas à luz, vendo a espada de todos os lados,  
 **23** Anda errante à busca de pão; julga que o dia das trevas está preparado, a seu lado.  
-**24** tribulação o aterra, e a angústia o cerca, como a um rei que se prepara para a batalha,  
+**24** A tribulação o aterra, e a angústia o cerca, como a um rei que se prepara para a batalha,  
 **25** porque estendeu a sua mão contra Deus, e se fez forte contra o Omnipotente.  
 **26** Correu contra ele, de cabeça altiva, e armou-se duma soberba inflexível.  
 **27** A gordura cobriu o seu rosto, e a enxúndia pende-lhe das ilhargas.  

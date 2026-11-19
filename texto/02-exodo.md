@@ -805,7 +805,7 @@
 **23** e, além desta, mais duas, que se levantem nos ângulos do fundo do tabernáculo.  
 **24** (Estas tábuas) estarão unidas desde baixo até cima, e todas encaixadas umas nas outra. A mesma união se observará com as duas tábuas que devem ser postas nos ângulos.  
 **25** Serão oito tábuas ao todo com dezasseis bases de prata, contando-se duas bases para cada tábua.  
-**26** Farás também uns barrotes de pau de acácia, cinco para conter as tábuas dum lado do tabernáculo.  
+**26** Farás também uns barrotes de pau de acácia, cinco para conter as tábuas dum lado do tabernáculo,  
 **27** e outros cinco para o outro lado, e outros tantos para o lado ocidental,  
 **28** os quais serão aplicados pelo meio das tábuas duma extremidade à outra.  
 **29** Revestirás de ouro as próprias tábuas, e pôr-lhes-ás umas argolas de ouro, pelas quais passem os barrotes, que hão-de segurar as tábuas, e revestirás de ouro os barrotes.  
@@ -916,7 +916,7 @@
 **24** porás todas estas coisas sobre as mãos de Aarão e de seus filhos, e agitá-la-ás, elevando-as diante do Senhor.  
 **25** Depois receberás todas estas coisas das suas mãos, e queimá-las-ás sobre o altar em holocausto, para cheiro suavíssimo diante do Senhor, porque é a sua oblação.  
 **26** Tomarás também o peito do carneiro imolado para a sagração de Aarão, e agitá-lo-ás, elevando-o diante do Senhor: esta será a tua parte.  
-**27** Santificarás também o peito consagrado e a espádua que separaste do carneiro.  
+**27** Santificarás também o peito consagrado e a espádua que separaste do carneiro  
 **28** imolado para a sagração de Aarão e de seus filhos: estas serão as porções de Aarão e de seus filhos por um direito perpétuo entre os filhos de Israel, porque são as primícias e as primeiras partes das vítimas pacíficas, que eles oferecem ao Senhor.  
 **29** As vestes santas de que Aarão usar, tê-las-ão seus filhos depois dele, para que, vestidos com elas, sejam ungidos, e as suas mãos sejam consagradas.  
 **30** Durante sete dias usará delas aquele de seus filhos que for constituído pontífice em seu lugar, e que entrar no tabernáculo do testemunho para ministrar no santuário.  
@@ -981,7 +981,7 @@
 ## Capítulo 31
 
 **1** O Senhor falou a Moisés, dizendo;  
-**2** Sabe que chamei pelo (seu) nome a Beseleel, filho de Uri, filho de Hur da tribo de Judá.  
+**2** Sabe que chamei pelo (seu) nome a Beseleel, filho de Uri, filho de Hur da tribo de Judá,  
 **3** e o enchi do espírito de Deus, de sabedoria, de inteligência e de ciência, para toda a qualidade de obras,  
 **4** para inventar tudo o que se pode fazer com o ouro, com a prata, com o cobre,  
 **5** com o mármore, com as pedras preciosas e com as diversas madeiras.  
@@ -1250,7 +1250,7 @@
 
 **1** Depois fez de púrpura violácea, púrpura escarlate e carmesim e de linho fino, as vestes com que devia ser revestido Aarão, quando ministrava no santuário, como o Senhor ordenou a Moisés.  
 **2** Fez, pois, o éfode de ouro, de púrpura violácea e escarlate e carmesim e de linho fino retorcido,  
-**3** obra tecida de várias cores: cortou folhas de ouro, e reduziu-as a fios para poderem entrelaçar-se com a trama das cores acima ditas.  
+**3** obra tecida de várias cores: cortou folhas de ouro, e reduziu-as a fios para poderem entrelaçar-se com a trama das cores acima ditas,  
 **4** e ( fez) duas ourelas ligadas entre si em um e outro lado das extremidades (do éfode),  
 **5** e (fez) o cíngulo das mesmas cores, conforme o Senhor tenha ordenado a Moisés.  
 **6** Preparou também duas pedras de ónix medidas em duas cápsulas de ouro, e onde gravou segundo a arte dos lapidários os nomes dos filhos de Israel:  

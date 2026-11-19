@@ -213,7 +213,7 @@
 **16** Adornei a minha cama com cobertas, cobri-a com colchas bordadas de linho do Egipto;  
 **17** perfumei a minha câmara de mirra, de aloés e de cinamomo.  
 **18** Vem, embriaguemo-nos de amor, gozemos as delícias da sensualidade até que amanheça o dia,  
-**19** porque o meu marido não está em casa; foi fazer uma jornada muito longa.  
+**19** porque o meu marido não está em casa; foi fazer uma jornada muito longa,  
 **20** levou consigo a bolsa cheia de dinheiro; lá para o dia da lua cheia é que voltará a sua casa.  
 **21** Meteu-o assim na rede com as suas muitas palavras, arrastou-o com as lisonjas dos seus lábios.  
 **22** Ele segue-a logo, como um boi que é levado para o açougue, como um veado colhido no laço,  
@@ -397,7 +397,7 @@
 **10** Entre os soberbos há sempre contendas; porém aqueles que fazem tudo com conselho regem-se pela sabedoria.  
 **11** Os bens que se ajuntam muito depressa, desaparecem, mas os que se colhem à mão, pouco a pouco, multiplicar-se-ão.  
 **12** A esperança, que se retarda, aflige a alma; o (bom) desejo que se satisfaz, é uma árvore da vida.  
-**13** Aquele que despreza uma coisa (que a lei manda) perecerá; o que teme o preceito, será recompensado.  
+**13** Aquele que despreza uma coisa (que a lei manda) perecerá; o que teme o preceito, será recompensado,  
 **14** o ensinamento do sábio é uma fonte de vida, para evitar os laços da morte.  
 **15** Uma inteligência sã grangeia favor, mas o caminho dos pérfidos é áspero.  
 **16** O homem prudente tudo faz com conselho, mas o insensato descobre a sua loucura.  
@@ -569,7 +569,7 @@
 **13** Aquele que responde antes de ouvir, mostra ser um insensato e digno de confusão.  
 **14** O espírito do homem sustenta-o nos seus sofrimentos; mas quem poderá levantar um espírito abatido?  
 **15** O coração prudente possuirá a ciência; e o ouvido dos sábios busca a doutrina.  
-**16** Os presentes que um homem dá, abrem-lhe um dilatado caminho,e dão-lhe lugar diante dos grandes.  
+**16** Os presentes que um homem dá, abrem-lhe um dilatado caminho, e dão-lhe lugar diante dos grandes.  
 **17** Parece ter razão o que expõe primeiro a sua causa; vem depois a parte adversa, e então se examina a fundo a questão.  
 **18** A sorte apazigua as contendas, e decide entre os próprios poderosos.  
 **19** O irmão, que é ajudado por seu irmão, é como uma cidade forte, e as suas decisões são como os ferrolhos das cidades.  

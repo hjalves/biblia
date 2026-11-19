@@ -154,7 +154,7 @@
 **4** E vós, pais, não provoqueis à ira os vossos filhos (tratando-os com excessiva severidade), mas educai-os na disciplina e nas instruções do Senhor.  
 **5** Servos, obedecei a vossos senhores segundo a carne, com temor e reverência, na sinceridade do vosso coração, como a Cristo,  
 **6** não os servindo só quando sob as suas vistas, como por agradar aos homens, mas como servos de Cristo, fazendo do bom coração a vontade de Deus,  
-**7** servindo-os com boa vontade, como se servísseis o Senhor e não os homens.  
+**7** servindo-os com boa vontade, como se servísseis o Senhor e não os homens,  
 **8** sabendo que cada um receberá do Senhor a paga do bem que tiver feito, quer seja escravo quer livre.  
 **9** E vós, senhores, fazei o mesmo com eles, pondo de parte as ameaças, sabendo que o Senhor, tanto deles como vosso, está nos céus, e que não faz aceção de pessoas.  
 **10** De resto, irmãos, fortalecei-vos no Senhor, no seu poder soberano.  

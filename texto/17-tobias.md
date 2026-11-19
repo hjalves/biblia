@@ -176,7 +176,7 @@
 **8** Ana, sua mulher, e Sara, sua filha, derramavam lágrimas.  
 **9** Depois que falaram, mandou Raguel matar um carneiro e preparar um banquete. Quando ele os rogava que se pusessem à mesa,  
 **10** Tobias disse: Eu não comerei nem beberei aqui hoje, antes que tu me não despaches a minha petição, prometendo dar-me Sara, tua filha.  
-**11** Ouvindo isto, Raguel assustou-se, sabendo o que tinha acontecido aos sete maridos que se tinham aproximado dela, e começou a temer que sucedesse também o mesmo a este. Como vacilasse e não desse resposta alguma à petição de Tobias.  
+**11** Ouvindo isto, Raguel assustou-se, sabendo o que tinha acontecido aos sete maridos que se tinham aproximado dela, e começou a temer que sucedesse também o mesmo a este. Como vacilasse e não desse resposta alguma à petição de Tobias,  
 **12** o anjo disse-lhe: Não temas dar tua filha a este jovem, porque a este, que é temente a Deus, é devida a tua filha como esposa. Por isso nenhum outro a pode ter.  
 **13** Então Raguel respondeu: Não duvido que Deus aceitasse em sua presença as minhas orações e as minhas lágrimas.  
 **14** Creio que ele fez que viésseis ter comigo, para que está filha se desposasse com um da sua parentela, segundo a lei de Moisés, Portanto não duvides que eu ta darei.  

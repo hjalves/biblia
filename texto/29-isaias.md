@@ -48,7 +48,7 @@
 **10** Mete-te entre as rochas (ó povo infiel), esconde-te debaixo da terra da aterradora presença do Senhor, da glória de sua majestade.  
 **11** Os olhos altivos do homem serão humilhados, o orgulho humano será abatido, e só o Senhor será exaltado naquele dia.  
 **12** Porque o dia do Senhor dos exércitos será contra todos os soberbos e altivos, contra todos os arrogantes, para os humilhar:  
-**13** contra todos os cedros do Líbano, altos e levantados, contra todos os carvalhos de Basan.  
+**13** contra todos os cedros do Líbano, altos e levantados, contra todos os carvalhos de Basan,  
 **14** contra todas as altas montanhas, contra todos os outeiros elevados,  
 **15** contra toda a torre eminente, contra todo o muro fortificado,  
 **16** contra todas as naus de Tarsis e contra tudo o que é belo (agradável) à vista.  
@@ -479,7 +479,7 @@
 **14** Foi revelada esta voz do Senhor dos exércitos aos meus ouvidos: Não, não vos será perdoada esta iniquidade até que morrais, diz o Senhor Deus dos exércitos.  
 **15** Estas coisas diz o Senhor Deus dos exércitos: intendente Sobna, prefeito do palácio;  
 **16** Que fazes tu aqui, ou quem representas aqui, tu, que preparas aqui um sepulcro, que cavas um sepulcro em lugar elevado, que abres um domicílio na rocha?  
-**17** Eis que o Senhor te arremessará com força.  
+**17** Eis que o Senhor te arremessará com força,  
 **18** te fará girar, te fará rolar, como uma bola, num campo largo e espaçoso. Aí morrerás, aí estarão os teus magníficos carros, ó desonra da casa do teu Senhor.  
 **19** Eu te deitarei fora de teu posto, te deporei do teu ministério.  
 **20** Naquele dia chamarei o meu servo Eliacim, filho de Helcias, (para te substituir),  
@@ -1135,7 +1135,7 @@
 **5** E agora o Senhor, que me formou desde o ventre materno para (ser) seu servo, diz-me que lhe reconduza Jacob, que lhe congregue Israel. Sou glorificado aos olhos do Senhor, e o meu Deus é a minha fortaleza.  
 **6** Ele disse-me: É pouco que sejas meu servo para restaurar as tribos de Jacob, reconduzir os que escaparam de Israel. Vou fazer de ti luz das gentes, a fim de que chegue a minha salvação até à última extremidade da terra.  
 **7** Eis o que diz o Senhor, o Redentor, o Santo de Israel, ao homem desprezado e abominado pelo povo, ao escravo dos tiranos: Reis te verão e se levantarão, príncipes se prostrarão, por causa do Senhor que é fiel (em cumprir as suas promessas), do Santo de Israel que te escolheu.  
-**8** Eis o que diz o Senhor: Eu ouvi-to no tempo da graça, auxiliei-te no dia da salvação: conservei-te e constituí-te aliança do povo, para restaurares a terra e repartires as heranças devastadas.  
+**8** Eis o que diz o Senhor: Eu ouvi-to no tempo da graça, auxiliei-te no dia da salvação: conservei-te e constituí-te aliança do povo, para restaurares a terra e repartires as heranças devastadas,  
 **9** para dizeres aos que estão em cadeias: Saí - e aos que estão nas trevas: Vinde à luz. Ao longo dos caminhos encontrarão com que se alimentar, e em todas as planícies haverá que comer para eles.  
 **10** Não padecerão fome, não terão sede, e não serão molestados pelo vento ardente nem pelo sol, porque o que tem compaixão deles os governará e os levará a beber às fontes das águas.  
 **11** Reduzirei a caminho todos os meus montes, e as minhas veredas serão alteadas.  

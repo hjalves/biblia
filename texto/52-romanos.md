@@ -471,7 +471,7 @@
 **16** Saudai-vos uns aos outros, em ósculo santo. Todas as igrejas de Cristo vos saúdam.  
 **17** Rogo-vos, Irmãos, que vos acauteleis daqueles que causam dissensões e escândalos contra a doutrina que aprendestes, e apartai-vos deles,  
 **18** porque esses tais não servem a Cristo Senhor Nosso, mas ao seu ventre, e, com palavras doces e com adulações, enganam os corações dos simples.  
-**19** Porquanto a vossa obediência em toda a parte se tornou notória. Alegro-me, pois, em,vós, mas quero que sejais sábios no bem e simples no mal.  
+**19** Porquanto a vossa obediência em toda a parte se tornou notória. Alegro-me, pois, em vós, mas quero que sejais sábios no bem e simples no mal.  
 **20** O Deus de paz esmagará logo a Satanás debaixo de vossos pés. A graça de Nosso Senhor Jesus Cristo seja convosco.  
 **21** Saúda-vos Timóteo, meu cooperador, e Lúcio, Jason e Sosipatro, meus parentes.  
 **22** Eu, Tércio, que escrevi esta carta, saúdo-vos no Senhor,  
