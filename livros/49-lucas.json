@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -396,7 +396,7 @@
     },
     {
      "n": 14,
-     "texto": "\"Glória a Deus no mais alto dos céus, e paz na terra aos homens, objeto da boa vontade (de Deus).\""
+     "texto": "\"Glória a Deus no mais alto dos céus, e paz na terra aos homens, objecto da boa vontade (de Deus).\""
     },
     {
      "n": 15,
@@ -565,7 +565,7 @@
     },
     {
      "n": 3,
-     "texto": "E ele foi por toda a terra do Jordão, pregando o batismo de penitência para remissão dos pecados,"
+     "texto": "E ele foi por toda a terra do Jordão, pregando o baptismo de penitência para remissão dos pecados,"
     },
     {
      "n": 4,
@@ -581,7 +581,7 @@
     },
     {
      "n": 7,
-     "texto": "Dizia pois (João) às multidões, que vinham para ser por ele batizadas: \"Raça de víboras, quem vos ensinou a fugir da ira que vos ameaça?"
+     "texto": "Dizia pois (João) às multidões, que vinham para ser por ele baptizadas: \"Raça de víboras, quem vos ensinou a fugir da ira que vos ameaça?"
     },
     {
      "n": 8,
@@ -601,7 +601,7 @@
     },
     {
      "n": 12,
-     "texto": "Foram também publicanos, para serem batizados, e disseram-lhe: \"Mestre, que devemos nós fazer?\""
+     "texto": "Foram também publicanos, para serem baptizados, e disseram-lhe: \"Mestre, que devemos nós fazer?\""
     },
     {
      "n": 13,
@@ -617,7 +617,7 @@
     },
     {
      "n": 16,
-     "texto": "João respondeu, dizendo a todos; \"Eu na verdade batizo-vos em água, mas virá um mais forte do que eu, a quem não sou digno de desatar a correia dos seus sapatos; ele vos batizará no Espírito Santo e no fogo;"
+     "texto": "João respondeu, dizendo a todos; \"Eu na verdade baptizo-vos em água, mas virá um mais forte do que eu, a quem não sou digno de desatar a correia dos seus sapatos; ele vos baptizará no Espírito Santo e no fogo;"
     },
     {
      "n": 17,
@@ -637,11 +637,11 @@
     },
     {
      "n": 21,
-     "texto": "Ora aconteceu que, recebendo o batismo todo o povo, batizado também Jesus, e estando em oração, abriu-se o céu,"
+     "texto": "Ora aconteceu que, recebendo o baptismo todo o povo, baptizado também Jesus, e estando em oração, abriu-se o céu,"
     },
     {
      "n": 22,
-     "texto": "e desceu sobre ele o Espírito Santo em forma corpórea como uma pomba. E ouviu-se do céu esta voz: \"Tu és o meu Filho dileto; em ti pus as minhas complacências.\""
+     "texto": "e desceu sobre ele o Espírito Santo em forma corpórea como uma pomba. E ouviu-se do céu esta voz: \"Tu és o meu Filho dilecto; em ti pus as minhas complacências.\""
     },
     {
      "n": 23,
@@ -1277,7 +1277,7 @@
     },
     {
      "n": 6,
-     "texto": "Jesus foi com eles. Quando estava já perto da casa, o centurião mandou-lhe amigos a dizer: Senhor, não te incomodes, porque eu não sou digno que entres sob o meu teto."
+     "texto": "Jesus foi com eles. Quando estava já perto da casa, o centurião mandou-lhe amigos a dizer: Senhor, não te incomodes, porque eu não sou digno que entres sob o meu tecto."
     },
     {
      "n": 7,
@@ -1333,7 +1333,7 @@
     },
     {
      "n": 20,
-     "texto": "Tendo ido ter com ele, disseram-lhe: João Batista enviou-nos a ti, para te perguntar: \"És tu o que há-de vir, ou devemos esperar outro?\""
+     "texto": "Tendo ido ter com ele, disseram-lhe: João Baptista enviou-nos a ti, para te perguntar: \"És tu o que há-de vir, ou devemos esperar outro?\""
     },
     {
      "n": 21,
@@ -1341,7 +1341,7 @@
     },
     {
      "n": 22,
-     "texto": "Depois respondeu-lhes: \"Ide referir a João o que vistes e ouvistes: Os cegos veem, os coxos andam, os leprosos são limpos, os surdos ouvem, os mortos ressuscitam, aos pobres é anunciado o Evangelho;"
+     "texto": "Depois respondeu-lhes: \"Ide referir a João o que vistes e ouvistes: Os cegos vêem, os coxos andam, os leprosos são limpos, os surdos ouvem, os mortos ressuscitam, aos pobres é anunciado o Evangelho;"
     },
     {
      "n": 23,
@@ -1365,15 +1365,15 @@
     },
     {
      "n": 28,
-     "texto": "Porque eu vos digo: Entre os nascidos das mulheres, não há maior profeta que João Batista; porém, o que é menor do reino de Deus é maior do que ele.\""
+     "texto": "Porque eu vos digo: Entre os nascidos das mulheres, não há maior profeta que João Baptista; porém, o que é menor do reino de Deus é maior do que ele.\""
     },
     {
      "n": 29,
-     "texto": "Todo o povo que o ouviu, mesmo os publicanos, deram glória a Deus, recebendo o batismo de João."
+     "texto": "Todo o povo que o ouviu, mesmo os publicanos, deram glória a Deus, recebendo o baptismo de João."
     },
     {
      "n": 30,
-     "texto": "Os fariseus, porém, e os doutores da lei frustraram o desígnio de Deus a respeito deles, não se fazendo batizar por ele."
+     "texto": "Os fariseus, porém, e os doutores da lei frustraram o desígnio de Deus a respeito deles, não se fazendo baptizar por ele."
     },
     {
      "n": 31,
@@ -1385,7 +1385,7 @@
     },
     {
      "n": 33,
-     "texto": "Porque veio João Batista, que não come pão, nem bebe vinho, e dizeis: Está possesso do demónio."
+     "texto": "Porque veio João Baptista, que não come pão, nem bebe vinho, e dizeis: Está possesso do demónio."
     },
     {
      "n": 34,
@@ -1510,7 +1510,7 @@
     },
     {
      "n": 13,
-     "texto": "Aqueles (em que se semeia) sobre pedregulho, são os que recebem com gosto a palavra, quando a ouvem, mas não têm raízes; até certo ponto creem, mas, no tempo da tentação, voltam atrás."
+     "texto": "Aqueles (em que se semeia) sobre pedregulho, são os que recebem com gosto a palavra, quando a ouvem, mas não têm raízes; até certo ponto crêem, mas, no tempo da tentação, voltam atrás."
     },
     {
      "n": 14,
@@ -1518,7 +1518,7 @@
     },
     {
      "n": 15,
-     "texto": "Enfim, a que caiu em boa terra, representa aqueles que, ouvindo a palavra com coração reto e bom, a retêm e dão fruto por sua perseverança."
+     "texto": "Enfim, a que caiu em boa terra, representa aqueles que, ouvindo a palavra com coração recto e bom, a retêm e dão fruto por sua perseverança."
     },
     {
      "n": 16,
@@ -1658,7 +1658,7 @@
     },
     {
      "n": 50,
-     "texto": "Jesus, tendo ouvido estas palavras, disse ao pai da menina: \"Não temas, crê somente e ela será salva.\""
+     "texto": "Jesus, tendo ouvido estas palavras, disse ao pai da menina: \"Não temas, crê sòmente e ela será salva.\""
     },
     {
      "n": 51,
@@ -1763,7 +1763,7 @@
     },
     {
      "n": 19,
-     "texto": "Responderam e disseram: \"Uns dizem que João Batista, outros que Elias, outros que ressuscitou um dos antigos profetas.\""
+     "texto": "Responderam e disseram: \"Uns dizem que João Baptista, outros que Elias, outros que ressuscitou um dos antigos profetas.\""
     },
     {
      "n": 20,
@@ -1827,7 +1827,7 @@
     },
     {
      "n": 35,
-     "texto": "Então saiu uma voz da nuvem, dizendo: \"Este é o meu filho dileto, ouvi-o.\""
+     "texto": "Então saiu uma voz da nuvem, dizendo: \"Este é o meu filho dilecto, ouvi-o.\""
     },
     {
      "n": 36,
@@ -2032,7 +2032,7 @@
     },
     {
      "n": 23,
-     "texto": "Depois, tendo-se voltado para seus discípulos, disse: \"Ditosos os olhos que veem o que vós vedes."
+     "texto": "Depois, tendo-se voltado para seus discípulos, disse: \"Ditosos os olhos que vêem o que vós vedes."
     },
     {
      "n": 24,
@@ -2289,7 +2289,7 @@
     },
     {
      "n": 44,
-     "texto": "Ai de vós, porque sois como os sepulcros que não se veem, e sobre os quais se anda sem saber!\""
+     "texto": "Ai de vós, porque sois como os sepulcros que não se vêem, e sobre os quais se anda sem saber!\""
     },
     {
      "n": 45,
@@ -2534,7 +2534,7 @@
     },
     {
      "n": 50,
-     "texto": "Eu tenho de receber um batismo; e quão grande é a minha ansiedade, até que ele se conclua!"
+     "texto": "Eu tenho de receber um baptismo; e quão grande é a minha ansiedade, até que ele se conclua!"
     },
     {
      "n": 51,
@@ -2558,7 +2558,7 @@
     },
     {
      "n": 56,
-     "texto": "Hipócritas, sabeis distinguir os aspetos da terra e do céu; como, pois, não sabeis reconhecer o tempo presente?"
+     "texto": "Hipócritas, sabeis distinguir os aspectos da terra e do céu; como, pois, não sabeis reconhecer o tempo presente?"
     },
     {
      "n": 57,
@@ -2643,7 +2643,7 @@
     },
     {
      "n": 17,
-     "texto": "Dizendo estas coisas, envergonhavam-se todos os seus adversários, e alegrava-se todo o povo de todas as ações que gloriosamente eram praticadas por ele."
+     "texto": "Dizendo estas coisas, envergonhavam-se todos os seus adversários, e alegrava-se todo o povo de todas as acções que gloriosamente eram praticadas por ele."
     },
     {
      "n": 18,
@@ -3674,7 +3674,7 @@
     },
     {
      "n": 4,
-     "texto": "O batismo de João era do céu ou dos homens?\""
+     "texto": "O baptismo de João era do céu ou dos homens?\""
     },
     {
      "n": 5,
@@ -3742,7 +3742,7 @@
     },
     {
      "n": 21,
-     "texto": "Estes interrogaram-no, dizendo: \"Mestre, sabemos que falas e ensinas retamente, que não fazes aceção de pessoas, mas que ensinas o caminho de Deus com verdade."
+     "texto": "Estes interrogaram-no, dizendo: \"Mestre, sabemos que falas e ensinas rectamente, que não fazes aceção de pessoas, mas que ensinas o caminho de Deus com verdade."
     },
     {
      "n": 22,
@@ -4461,7 +4461,7 @@
     },
     {
      "n": 41,
-     "texto": "Nós estamos na verdade justamente, porque recebemos o castigo que merecem as nossas ações, mas este não fez nenhum mal."
+     "texto": "Nós estamos na verdade justamente, porque recebemos o castigo que merecem as nossas acções, mas este não fez nenhum mal."
     },
     {
      "n": 42,
@@ -4489,7 +4489,7 @@
     },
     {
      "n": 48,
-     "texto": "E toda a multidão que assistia a este espetáculo, e via o que sucedia, retirava-se, batendo no peito."
+     "texto": "E toda a multidão que assistia a este espectáculo, e via o que sucedia, retirava-se, batendo no peito."
     },
     {
      "n": 49,
@@ -4501,7 +4501,7 @@
     },
     {
      "n": 51,
-     "texto": "que não tinha concordado com a determinação dos outros, nem com os seus atos, oriundo de Arimateia, cidade da Judeia, que também esperava o reino de Deus,"
+     "texto": "que não tinha concordado com a determinação dos outros, nem com os seus actos, oriundo de Arimateia, cidade da Judeia, que também esperava o reino de Deus,"
     },
     {
      "n": 52,

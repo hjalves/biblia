@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -35,7 +35,7 @@
     },
     {
      "n": 5,
-     "texto": "porque João, na verdade, batizou em água, mas vós sereis batizados no Espírito Santo, daqui a poucos dias.\""
+     "texto": "porque João, na verdade, baptizou em água, mas vós sereis baptizados no Espírito Santo, daqui a poucos dias.\""
     },
     {
      "n": 6,
@@ -71,7 +71,7 @@
     },
     {
      "n": 14,
-     "texto": "Todos estes perseveravam unanimemente em oração, com as mulheres e com Maria, Mãe de Jesus, e com os irmãos dele."
+     "texto": "Todos estes perseveravam unânimemente em oração, com as mulheres e com Maria, Mãe de Jesus, e com os irmãos dele."
     },
     {
      "n": 15,
@@ -103,7 +103,7 @@
     },
     {
      "n": 22,
-     "texto": "desde o batismo de João até ao dia em que foi arrebatado (ao céu) dentre nós, um deles seja constituído testemunha connosco da sua ressurreição."
+     "texto": "desde o baptismo de João até ao dia em que foi arrebatado (ao céu) dentre nós, um deles seja constituído testemunha connosco da sua ressurreição."
     },
     {
      "n": 23,
@@ -164,7 +164,7 @@
     },
     {
      "n": 10,
-     "texto": "a Frigia e a Panfília, o Egito e várias partes da Líbia, vizinhas de Cirene, e os vindos de Roma,"
+     "texto": "a Frigia e a Panfília, o Egipto e várias partes da Líbia, vizinhas de Cirene, e os vindos de Roma,"
     },
     {
      "n": 11,
@@ -248,7 +248,7 @@
     },
     {
      "n": 31,
-     "texto": "profeticamente falou da ressurreição de Cristo, dizendo que não seria deixado na habitação dos mortos, nem a sua carne sujeita à corrupção."
+     "texto": "profèticamente falou da ressurreição de Cristo, dizendo que não seria deixado na habitação dos mortos, nem a sua carne sujeita à corrupção."
     },
     {
      "n": 32,
@@ -276,7 +276,7 @@
     },
     {
      "n": 38,
-     "texto": "Pedro disse-lhes: \"Fazei penitência, e cada um de vós seja batizado, em nome de Jesus Cristo, para remissão de vossos pecados; e recebereis, então, dom do Espírito Santo."
+     "texto": "Pedro disse-lhes: \"Fazei penitência, e cada um de vós seja baptizado, em nome de Jesus Cristo, para remissão de vossos pecados; e recebereis, então, dom do Espírito Santo."
     },
     {
      "n": 39,
@@ -288,11 +288,11 @@
     },
     {
      "n": 41,
-     "texto": "Os que receberam a sua palavra foram batizados; e ficaram agregadas a eles, naquele dia, cerca de três mil pessoas."
+     "texto": "Os que receberam a sua palavra foram baptizados; e ficaram agregadas a eles, naquele dia, cerca de três mil pessoas."
     },
     {
      "n": 42,
-     "texto": "Perseveravam na doutrina dos Apóstolos, nas reuniões comuns, na fração do pão e nas orações."
+     "texto": "Perseveravam na doutrina dos Apóstolos, nas reuniões comuns, na fracção do pão e nas orações."
     },
     {
      "n": 43,
@@ -526,7 +526,7 @@
     },
     {
      "n": 25,
-     "texto": "que, mediante o Espírito Santo, pela boca do nosso pai David, teu servo, disseste: Por que se agitaram as gentes, e os povos fizeram vãos projetos?"
+     "texto": "que, mediante o Espírito Santo, pela boca do nosso pai David, teu servo, disseste: Por que se agitaram as gentes, e os povos fizeram vãos projectos?"
     },
     {
      "n": 26,
@@ -627,7 +627,7 @@
     },
     {
      "n": 12,
-     "texto": "Entretanto eram feitos pelas mãos dos Apóstolos muitos milagres e prodígios entre o povo. Reuniam-se todos unanimemente no pórtico de Salomão."
+     "texto": "Entretanto eram feitos pelas mãos dos Apóstolos muitos milagres e prodígios entre o povo. Reuniam-se todos unânimemente no pórtico de Salomão."
     },
     {
      "n": 13,
@@ -853,19 +853,19 @@
     },
     {
      "n": 9,
-     "texto": "Os patriarcas, invejosos de José, venderam-no para ser levado ao Egito, mas Deus estava com ele."
+     "texto": "Os patriarcas, invejosos de José, venderam-no para ser levado ao Egipto, mas Deus estava com ele."
     },
     {
      "n": 10,
-     "texto": "Livrou-o de todas as suas atribulações, deu-lhe graça e sabedoria diante de Faraó, rei do Egito, o qual o fez governador do Egito e de toda a sua casa."
+     "texto": "Livrou-o de todas as suas atribulações, deu-lhe graça e sabedoria diante de Faraó, rei do Egipto, o qual o fez governador do Egipto e de toda a sua casa."
     },
     {
      "n": 11,
-     "texto": "Veio depois a fome por toda a terra do Egito e de Canaan, e uma grande tribulação, e os nossos pais não achavam que comer."
+     "texto": "Veio depois a fome por toda a terra do Egipto e de Canaan, e uma grande tribulação, e os nossos pais não achavam que comer."
     },
     {
      "n": 12,
-     "texto": "Tendo Jacob ouvido dizer que havia trigo no Egito, enviou (lá) nossos pais uma primeira vez;"
+     "texto": "Tendo Jacob ouvido dizer que havia trigo no Egipto, enviou (lá) nossos pais uma primeira vez;"
     },
     {
      "n": 13,
@@ -877,7 +877,7 @@
     },
     {
      "n": 15,
-     "texto": "Jacob desceu ao Egito, onde morreu com nossos pais."
+     "texto": "Jacob desceu ao Egipto, onde morreu com nossos pais."
     },
     {
      "n": 16,
@@ -885,11 +885,11 @@
     },
     {
      "n": 17,
-     "texto": "Mas, aproximando-se o tempo do cumprimento da promessa que Deus tinha feito com juramento a Abraão, o povo cresceu e multiplicou-se no Egito,"
+     "texto": "Mas, aproximando-se o tempo do cumprimento da promessa que Deus tinha feito com juramento a Abraão, o povo cresceu e multiplicou-se no Egipto,"
     },
     {
      "n": 18,
-     "texto": "até que apareceu outro rei no Egito, que não tinha conhecimento de José."
+     "texto": "até que apareceu outro rei no Egipto, que não tinha conhecimento de José."
     },
     {
      "n": 19,
@@ -953,7 +953,7 @@
     },
     {
      "n": 34,
-     "texto": "Eu vi e considerei a aflição do meu povo, que reside no Egito, ouvi os seus gemidos e desci a livrá-lo. Vem, pois, agora, e enviar-te-ei ao Egito."
+     "texto": "Eu vi e considerei a aflição do meu povo, que reside no Egipto, ouvi os seus gemidos e desci a livrá-lo. Vem, pois, agora, e enviar-te-ei ao Egipto."
     },
     {
      "n": 35,
@@ -961,7 +961,7 @@
     },
     {
      "n": 36,
-     "texto": "Ele os fez sair, operando prodígios e milagres na terra do Egito, no mar Vermelho e no deserto, durante quarenta anos."
+     "texto": "Ele os fez sair, operando prodígios e milagres na terra do Egipto, no mar Vermelho e no deserto, durante quarenta anos."
     },
     {
      "n": 37,
@@ -973,11 +973,11 @@
     },
     {
      "n": 39,
-     "texto": "ele, a quem nossos pais não quiseram obedecer, antes repeliram. Voltaram-se em seus corações para o Egito,"
+     "texto": "ele, a quem nossos pais não quiseram obedecer, antes repeliram. Voltaram-se em seus corações para o Egipto,"
     },
     {
      "n": 40,
-     "texto": "dizendo a Aarão; Faze-nos deuses, que vão adiante de nós, porque esse Moisés,' que nos tirou da terra do Egito, não sabemos o que foi feito dele (Ex. 32,t-23)."
+     "texto": "dizendo a Aarão; Faze-nos deuses, que vão adiante de nós, porque esse Moisés,' que nos tirou da terra do Egipto, não sabemos o que foi feito dele (Ex. 32,t-23)."
     },
     {
      "n": 41,
@@ -997,7 +997,7 @@
     },
     {
      "n": 45,
-     "texto": "Nossos pais, tendo-o recebido, levaram-no sob a direção de Josué, quando foram tomar posse da terra das nações, que Deus lançou de diante de nossos pais, até aos dias de David,"
+     "texto": "Nossos pais, tendo-o recebido, levaram-no sob a direcção de Josué, quando foram tomar posse da terra das nações, que Deus lançou de diante de nossos pais, até aos dias de David,"
     },
     {
      "n": 46,
@@ -1066,7 +1066,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Saulo aprovava a morte de Estêvão. Naquele dia levantou-se uma grande perseguição contra a Igreja que estava em Jerusalém, e todos se dispersaram pelas províncias da Judeia e da Samaria, exceto os Apóstolos."
+     "texto": "Saulo aprovava a morte de Estêvão. Naquele dia levantou-se uma grande perseguição contra a Igreja que estava em Jerusalém, e todos se dispersaram pelas províncias da Judeia e da Samaria, excepto os Apóstolos."
     },
     {
      "n": 2,
@@ -1086,7 +1086,7 @@
     },
     {
      "n": 6,
-     "texto": "As multidões estavam unanimemente atentas ao que Filipe dizia, ouvindo-o e vendo os milagres que fazia."
+     "texto": "As multidões estavam unânimemente atentas ao que Filipe dizia, ouvindo-o e vendo os milagres que fazia."
     },
     {
      "n": 7,
@@ -1110,11 +1110,11 @@
     },
     {
      "n": 12,
-     "texto": "Porém, depois que creram em Filipe, que lhes anunciava o reino de Deus e o nome de Jesus Cristo, iam-se batizando homens e mulheres."
+     "texto": "Porém, depois que creram em Filipe, que lhes anunciava o reino de Deus e o nome de Jesus Cristo, iam-se baptizando homens e mulheres."
     },
     {
      "n": 13,
-     "texto": "Creu também o mesmo Simão, e, tendo-se batizado, ligou-se a Filipe, deslumbrado pelos prodígios e grandes milagres que se faziam."
+     "texto": "Creu também o mesmo Simão, e, tendo-se baptizado, ligou-se a Filipe, deslumbrado pelos prodígios e grandes milagres que se faziam."
     },
     {
      "n": 14,
@@ -1126,7 +1126,7 @@
     },
     {
      "n": 16,
-     "texto": "porque ele ainda não tinha descido sobre nenhum deles, mas somente tinham sido batizados em nome do Senhor Jesus."
+     "texto": "porque ele ainda não tinha descido sobre nenhum deles, mas sòmente tinham sido baptizados em nome do Senhor Jesus."
     },
     {
      "n": 17,
@@ -1146,7 +1146,7 @@
     },
     {
      "n": 21,
-     "texto": "Tu não tens parte nem gerência neste ministério, porque o teu coração não é reto diante de Deus."
+     "texto": "Tu não tens parte nem gerência neste ministério, porque o teu coração não é recto diante de Deus."
     },
     {
      "n": 22,
@@ -1206,7 +1206,7 @@
     },
     {
      "n": 36,
-     "texto": "Ora, continuando eles o seu caminho, encontraram água. O eunuco disse: \"Eis água; que motivo me impede de ser batizado?\""
+     "texto": "Ora, continuando eles o seu caminho, encontraram água. O eunuco disse: \"Eis água; que motivo me impede de ser baptizado?\""
     },
     {
      "n": 37,
@@ -1214,7 +1214,7 @@
     },
     {
      "n": 38,
-     "texto": "Mandou parar o carro, e desceram os dois à água, Filipe e o eunuco, e Filipe o batizou."
+     "texto": "Mandou parar o carro, e desceram os dois à água, Filipe e o eunuco, e Filipe o baptizou."
     },
     {
      "n": 39,
@@ -1299,7 +1299,7 @@
     },
     {
      "n": 18,
-     "texto": "Imediatamente, lhe caíram dos olhos umas como escamas, recuperou a vista, levantou-se e foi batizado."
+     "texto": "Imediatamente, lhe caíram dos olhos umas como escamas, recuperou a vista, levantou-se e foi baptizado."
     },
     {
      "n": 19,
@@ -1448,7 +1448,7 @@
     },
     {
      "n": 11,
-     "texto": "viu o céu aberto, e descer um objeto, semelhante a um grande lençol, suspenso pelos quatro cantos, que baixava para a terra,"
+     "texto": "viu o céu aberto, e descer um objecto, semelhante a um grande lençol, suspenso pelos quatro cantos, que baixava para a terra,"
     },
     {
      "n": 12,
@@ -1468,7 +1468,7 @@
     },
     {
      "n": 16,
-     "texto": "Isto repetiu-se três vezes, e logo o objeto foi retirado para o céu."
+     "texto": "Isto repetiu-se três vezes, e logo o objecto foi retirado para o céu."
     },
     {
      "n": 17,
@@ -1552,7 +1552,7 @@
     },
     {
      "n": 37,
-     "texto": "Sabeis o que aconteceu por toda a Judeia, começando pela Galileia, depois do batismo que João pregou:"
+     "texto": "Sabeis o que aconteceu por toda a Judeia, começando pela Galileia, depois do baptismo que João pregou:"
     },
     {
      "n": 38,
@@ -1592,11 +1592,11 @@
     },
     {
      "n": 47,
-     "texto": "\"Porventura pode alguém recusar a água do batismo àqueles que receberam o Espírito Santo como nós?\""
+     "texto": "\"Porventura pode alguém recusar a água do baptismo àqueles que receberam o Espírito Santo como nós?\""
     },
     {
      "n": 48,
-     "texto": "E mandou que fossem batizados em nome de Jesus Cristo. Então rogaram-lhe que ficasse alguns dias com eles."
+     "texto": "E mandou que fossem baptizados em nome de Jesus Cristo. Então rogaram-lhe que ficasse alguns dias com eles."
     }
    ]
   },
@@ -1621,7 +1621,7 @@
     },
     {
      "n": 5,
-     "texto": "\"Eu estava orando na cidade de Jope, quando tive, em êxtase, esta visão: Descia uma espécie de objeto, como um grande lençol, o qual, suspenso pelas quatro pontas, baixava do céu, e veio até mim."
+     "texto": "\"Eu estava orando na cidade de Jope, quando tive, em êxtase, esta visão: Descia uma espécie de objecto, como um grande lençol, o qual, suspenso pelas quatro pontas, baixava do céu, e veio até mim."
     },
     {
      "n": 6,
@@ -1665,7 +1665,7 @@
     },
     {
      "n": 16,
-     "texto": "Lembrei-me então da palavra do Senhor, que ele havia proferido: João batizou em água, mas vós sereis batizados no Espírito Santo."
+     "texto": "Lembrei-me então da palavra do Senhor, que ele havia proferido: João baptizou em água, mas vós sereis baptizados no Espírito Santo."
     },
     {
      "n": 17,
@@ -1721,7 +1721,7 @@
     },
     {
      "n": 30,
-     "texto": "o que eles efetivamente fizeram, enviando-o aos anciães, por mãos de Barnabé e de Saulo."
+     "texto": "o que eles efectivamente fizeram, enviando-o aos anciães, por mãos de Barnabé e de Saulo."
     }
    ]
   },
@@ -1871,7 +1871,7 @@
     },
     {
      "n": 10,
-     "texto": "disse: \"Ó (tu, que estás) cheio de todo o engano e de toda a astúcia, filho do demónio, inimigo de toda a justiça, não acabarás de perverter os caminhos retos do Senhor?"
+     "texto": "disse: \"Ó (tu, que estás) cheio de todo o engano e de toda a astúcia, filho do demónio, inimigo de toda a justiça, não acabarás de perverter os caminhos rectos do Senhor?"
     },
     {
      "n": 11,
@@ -1899,7 +1899,7 @@
     },
     {
      "n": 17,
-     "texto": "O Deus deste povo de Israel escolheu nossos pais e exaltou este povo, enquanto eram estrangeiros na terra do Egito, de onde os tirou com o poder do seu braço."
+     "texto": "O Deus deste povo de Israel escolheu nossos pais e exaltou este povo, enquanto eram estrangeiros na terra do Egipto, de onde os tirou com o poder do seu braço."
     },
     {
      "n": 18,
@@ -1927,7 +1927,7 @@
     },
     {
      "n": 24,
-     "texto": "tendo João pregado, antes da sua vinda, o batismo da penitência a todo o povo de Israel."
+     "texto": "tendo João pregado, antes da sua vinda, o baptismo da penitência a todo o povo de Israel."
     },
     {
      "n": 25,
@@ -1939,7 +1939,7 @@
     },
     {
      "n": 27,
-     "texto": "Efetivamente, os habitantes de Jerusalém e os seus chefes, não conhecendo Jesus nem as vozes dos profetas que cada sábado se leem, condenando-o, as cumpriram."
+     "texto": "Efectivamente, os habitantes de Jerusalém e os seus chefes, não conhecendo Jesus nem as vozes dos profetas que cada sábado se lêem, condenando-o, as cumpriram."
     },
     {
      "n": 28,
@@ -2370,7 +2370,7 @@
     },
     {
      "n": 11,
-     "texto": "Tendo-nos, pois, feito à vela de Tróade, fomos em direção à Samotrácia, e, no dia seguinte, a Neápolis;"
+     "texto": "Tendo-nos, pois, feito à vela de Tróade, fomos em direcção à Samotrácia, e, no dia seguinte, a Neápolis;"
     },
     {
      "n": 12,
@@ -2386,7 +2386,7 @@
     },
     {
      "n": 15,
-     "texto": "Tendo sido batizada ela com sua família, fez este pedido: \"Se julgais que sou fiel ao Senhor, entrai em minha casa e ficai nela.\" E forçou-nos a isso."
+     "texto": "Tendo sido baptizada ela com sua família, fez este pedido: \"Se julgais que sou fiel ao Senhor, entrai em minha casa e ficai nela.\" E forçou-nos a isso."
     },
     {
      "n": 16,
@@ -2458,7 +2458,7 @@
     },
     {
      "n": 33,
-     "texto": "Então, tomando cuidado deles naquela mesma hora da noite, lavou-lhes as chagas, e, imediatamente foi batizado com toda a sua família."
+     "texto": "Então, tomando cuidado deles naquela mesma hora da noite, lavou-lhes as chagas, e, imediatamente foi baptizado com toda a sua família."
     },
     {
      "n": 34,
@@ -2664,7 +2664,7 @@
     },
     {
      "n": 8,
-     "texto": "Crispo, chefe da sinagoga, creu no Senhor com toda a sua família, e muitos dos coríntios, ouvindo-o, acreditavam e eram batizados."
+     "texto": "Crispo, chefe da sinagoga, creu no Senhor com toda a sua família, e muitos dos coríntios, ouvindo-o, acreditavam e eram baptizados."
     },
     {
      "n": 9,
@@ -2732,7 +2732,7 @@
     },
     {
      "n": 25,
-     "texto": "Havia sido instruído no caminho do Senhor, falava com fervor de espírito e ensinava com exatidão o que dizia respeito a Jesus, embora conhecesse somente o batismo de João."
+     "texto": "Havia sido instruído no caminho do Senhor, falava com fervor de espírito e ensinava com exactidão o que dizia respeito a Jesus, embora conhecesse sòmente o baptismo de João."
     },
     {
      "n": 26,
@@ -2761,15 +2761,15 @@
     },
     {
      "n": 3,
-     "texto": "Ele replicou: \"Em que batismo, pois, fostes batizados?\" Responderam: \"No batismo de João.\""
+     "texto": "Ele replicou: \"Em que baptismo, pois, fostes baptizados?\" Responderam: \"No baptismo de João.\""
     },
     {
      "n": 4,
-     "texto": "Então disse Paulo: \"João batizou o povo com batismo de penitência, dizendo que cressem naquele que havia de vir depois dele, isto é, em Jesus.\""
+     "texto": "Então disse Paulo: \"João baptizou o povo com baptismo de penitência, dizendo que cressem naquele que havia de vir depois dele, isto é, em Jesus.\""
     },
     {
      "n": 5,
-     "texto": "Ouvindo isto, foram batizados em nome do Senhor Jesus."
+     "texto": "Ouvindo isto, foram baptizados em nome do Senhor Jesus."
     },
     {
      "n": 6,
@@ -2833,7 +2833,7 @@
     },
     {
      "n": 21,
-     "texto": "Concluídas estas coisas, Paulo concebeu o projeto de ir a Jerusalém, atravessando a Macedónia e a Acaia, dizendo: \"Depois de ir lá, é necessário que veja também Roma.\""
+     "texto": "Concluídas estas coisas, Paulo concebeu o projecto de ir a Jerusalém, atravessando a Macedónia e a Acaia, dizendo: \"Depois de ir lá, é necessário que veja também Roma.\""
     },
     {
      "n": 22,
@@ -2942,7 +2942,7 @@
     },
     {
      "n": 7,
-     "texto": "No primeiro dia da semana, tendo-nos reunido para a fração do pão, Paulo que devia partir no dia seguinte, falava com eles. Prolongou o discurso até à meia-noite."
+     "texto": "No primeiro dia da semana, tendo-nos reunido para a fracção do pão, Paulo que devia partir no dia seguinte, falava com eles. Prolongou o discurso até à meia-noite."
     },
     {
      "n": 8,
@@ -3075,7 +3075,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Tendo-nos feito à vela, depois que nos separámos deles, fomos diretamente a Cós; no dia seguinte, a Rodes, e dali a Pátara."
+     "texto": "Tendo-nos feito à vela, depois que nos separámos deles, fomos directamente a Cós; no dia seguinte, a Rodes, e dali a Pátara."
     },
     {
      "n": 2,
@@ -3300,7 +3300,7 @@
     },
     {
      "n": 16,
-     "texto": "Agora que esperas tu? Levanta-te, recebe o batismo e lava os teus pecados, invocando o seu nome."
+     "texto": "Agora que esperas tu? Levanta-te, recebe o baptismo e lava os teus pecados, invocando o seu nome."
     },
     {
      "n": 17,
@@ -3356,7 +3356,7 @@
     },
     {
      "n": 30,
-     "texto": "No dia seguinte, querendo saber com mais exatidão a causa que tinham os Judeus para o acusar, mandou soltá-lo e ordenou que se juntassem os chefes dos sacerdotes e todo o Sinédrio, e, trazendo Paulo, colocou-o diante deles."
+     "texto": "No dia seguinte, querendo saber com mais exactidão a causa que tinham os Judeus para o acusar, mandou soltá-lo e ordenou que se juntassem os chefes dos sacerdotes e todo o Sinédrio, e, trazendo Paulo, colocou-o diante deles."
     }
    ]
   },
@@ -3381,7 +3381,7 @@
     },
     {
      "n": 5,
-     "texto": "Paulo respondeu: \"Eu não sabia, irmãos, que é o príncipe dos sacerdotes. Efetivamente está escrito: Não dirás mal do príncipe do teu povo (Ex. 22,28).\""
+     "texto": "Paulo respondeu: \"Eu não sabia, irmãos, que é o príncipe dos sacerdotes. Efectivamente está escrito: Não dirás mal do príncipe do teu povo (Ex. 22,28).\""
     },
     {
      "n": 6,
@@ -3465,7 +3465,7 @@
     },
     {
      "n": 26,
-     "texto": "\"Cláudio Lisias ao ótimo presidente Félix, saúde!"
+     "texto": "\"Cláudio Lisias ao óptimo presidente Félix, saúde!"
     },
     {
      "n": 27,
@@ -3518,7 +3518,7 @@
     },
     {
      "n": 3,
-     "texto": "nós o reconhecemos sempre e em todo o lugar, ótimo Félix, com toda a gratidão."
+     "texto": "nós o reconhecemos sempre e em todo o lugar, óptimo Félix, com toda a gratidão."
     },
     {
      "n": 4,
@@ -3550,7 +3550,7 @@
     },
     {
      "n": 11,
-     "texto": "Podes certificar-te facilmente que não há mais de doze dias que cheguei a Jerusalém para fazer a minha adoração."
+     "texto": "Podes certificar-te fàcilmente que não há mais de doze dias que cheguei a Jerusalém para fazer a minha adoração."
     },
     {
      "n": 12,
@@ -3832,7 +3832,7 @@
     },
     {
      "n": 25,
-     "texto": "Paulo respondeu: \"Eu não estou louco, ó ótimo Festo, mas digo palavras de verdade e de sabedoria."
+     "texto": "Paulo respondeu: \"Eu não estou louco, ó óptimo Festo, mas digo palavras de verdade e de sabedoria."
     },
     {
      "n": 26,
@@ -3848,7 +3848,7 @@
     },
     {
      "n": 29,
-     "texto": "Paulo disse-lhe: \"Prouvera a Deus que, por pouco ou por muito, não somente tu, mas também todos quantos me ouvem, se fizessem hoje tais como eu sou, menos estes grilhões."
+     "texto": "Paulo disse-lhe: \"Prouvera a Deus que, por pouco ou por muito, não sòmente tu, mas também todos quantos me ouvem, se fizessem hoje tais como eu sou, menos estes grilhões."
     },
     {
      "n": 30,
@@ -3877,7 +3877,7 @@
     },
     {
      "n": 3,
-     "texto": "No dia seguinte chegámos a Sidónia. Júlio, tratando benevolamente Paulo, permitiu-lhe ir ter com os amigos e receber os seus cuidados."
+     "texto": "No dia seguinte chegámos a Sidónia. Júlio, tratando benèvolamente Paulo, permitiu-lhe ir ter com os amigos e receber os seus cuidados."
     },
     {
      "n": 4,
@@ -3905,7 +3905,7 @@
     },
     {
      "n": 10,
-     "texto": "dizendo-lhes: \"Amigos, vejo que a navegação começa a ser perigosa e com muito dano, não somente da carga e do navio, mas também das nossas vidas.\""
+     "texto": "dizendo-lhes: \"Amigos, vejo que a navegação começa a ser perigosa e com muito dano, não sòmente da carga e do navio, mas também das nossas vidas.\""
     },
     {
      "n": 11,
@@ -3953,7 +3953,7 @@
     },
     {
      "n": 22,
-     "texto": "Mas agora exorto-vos a que tenhais coragem, porque nenhum de vós perderá a vida, mas somente o navio será destruído."
+     "texto": "Mas agora exorto-vos a que tenhais coragem, porque nenhum de vós perderá a vida, mas sòmente o navio será destruído."
     },
     {
      "n": 23,

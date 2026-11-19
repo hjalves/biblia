@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -31,7 +31,7 @@
     },
     {
      "n": 4,
-     "texto": "Embora fosse o mais jovem de todos os da tribo de Neftali, nada praticava de pueril em suas ações."
+     "texto": "Embora fosse o mais jovem de todos os da tribo de Neftali, nada praticava de pueril em suas acções."
     },
     {
      "n": 5,
@@ -91,7 +91,7 @@
     },
     {
      "n": 19,
-     "texto": "Tobias ia visitar diariamente todos os da sua parentela, consolava-os, e distribuía por cada um, dos seus bens, segundo as suas posses."
+     "texto": "Tobias ia visitar diàriamente todos os da sua parentela, consolava-os, e distribuía por cada um, dos seus bens, segundo as suas posses."
     },
     {
      "n": 20,
@@ -233,7 +233,7 @@
     },
     {
      "n": 4,
-     "texto": "Porque não obedecemos aos teus preceitos, por isso fomos entregues ao saque, ao cativeiro e à morte, e tornamo-nos objeto de riso e opróbrio para todas as nações, por entre as quais nos espalhaste."
+     "texto": "Porque não obedecemos aos teus preceitos, por isso fomos entregues ao saque, ao cativeiro e à morte, e tornamo-nos objecto de riso e opróbrio para todas as nações, por entre as quais nos espalhaste."
     },
     {
      "n": 5,
@@ -317,7 +317,7 @@
     },
     {
      "n": 25,
-     "texto": "Rafael, santo anjo do Senhor, foi enviado para curar Tobias e Sara, cujas orações tinham sido apresentadas simultaneamente diante do Senhor."
+     "texto": "Rafael, santo anjo do Senhor, foi enviado para curar Tobias e Sara, cujas orações tinham sido apresentadas simultâneamente diante do Senhor."
     }
    ]
   },
@@ -402,7 +402,7 @@
     },
     {
      "n": 20,
-     "texto": "Bendiz a Deus em todo o tempo, pede-lhe que dirija os teus caminhos e que todos os teus projetos se firmem nele."
+     "texto": "Bendiz a Deus em todo o tempo, pede-lhe que dirija os teus caminhos e que todos os teus projectos se firmem nele."
     },
     {
      "n": 21,
@@ -439,7 +439,7 @@
     },
     {
      "n": 5,
-     "texto": "Mal havia Tobias saído (de casa), logo encontrou um jovem de belo aspeto, que estava cingido e como prestes a caminhar."
+     "texto": "Mal havia Tobias saído (de casa), logo encontrou um jovem de belo aspecto, que estava cingido e como prestes a caminhar."
     },
     {
      "n": 6,
@@ -726,7 +726,7 @@
     },
     {
      "n": 3,
-     "texto": "Nessa altura, o anjo Rafael pegou no demónio e ligou-o no deserto do alto Egito."
+     "texto": "Nessa altura, o anjo Rafael pegou no demónio e ligou-o no deserto do alto Egipto."
     },
     {
      "n": 4,
@@ -851,7 +851,7 @@
     },
     {
      "n": 9,
-     "texto": "dizendo: O Deus de Israel te abençoe, porque és filho dum homem ótimo, justo, temente a Deus e esmoler;"
+     "texto": "dizendo: O Deus de Israel te abençoe, porque és filho dum homem óptimo, justo, temente a Deus e esmoler;"
     },
     {
      "n": 10,
@@ -1248,7 +1248,7 @@
     },
     {
      "n": 11,
-     "texto": "recomendai a vossos filhos que façam obras de justiça e deem esmolas, que se lembrem de Deus e que o bendigam em todo o tempo, em verdade, e com todas as suas forças."
+     "texto": "recomendai a vossos filhos que façam obras de justiça e dêem esmolas, que se lembrem de Deus e que o bendigam em todo o tempo, em verdade, e com todas as suas forças."
     },
     {
      "n": 12,

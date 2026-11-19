@@ -24,7 +24,7 @@
 **3** Fala a Zorobabel, filho de Salatiel, governador de Judá, e a Josué, sumo sacerdote, filho de Josedec, e ao resto do povo, assim:  
 **4** Quem há dentre os que ficaram de vós, que visse esta casa na sua primeira glória? E em que estado a vedes vós agora? Não parece ela a vossos olhos como uma coisa de nada (comparada com o que foi)?  
 **5** Todavia ó Zorobabel, cobra força, diz o Senhor; cobra força, ó Josué, sumo sacerdote, filho de Josedec; cobra força, povo inteiro do país, diz o Senhor dos exércitos! Mãos à obra, porque eu sou convosco, diz o Senhor dos exércitos.  
-**6** Há o pacto que fiz convosco, quando saístes da terra do Egito; o meu espírito estará no meio de vós. Não temais!  
+**6** Há o pacto que fiz convosco, quando saístes da terra do Egipto; o meu espírito estará no meio de vós. Não temais!  
 **7** Porque isto diz o Senhor dos exércitos: Ainda um pouco, e eu comoverei o céu e a terra, os mares e os continentes.  
 **8** Abalarei todas as nações, afluirão riquezas de todos os povos, e encherei de glória esta casa, diz o Senhor dos exércitos.  
 **9** Minha é a prata, meu o ouro, diz o Senhor dos exércitos.  
@@ -34,7 +34,7 @@
 **13** Se um homem trouxer na orla do seu vestido um pedaço de carne santificada e tocar com ele no pão, ou nas iguarias, ou no vinho, ou no azeite, ou em qualquer outra coisa de comer, porventura ficará santificada tal coisa? Respondendo os sacerdotes disseram: Não.  
 **14** Ageu prosseguiu: Se um homem, manchado por ter tocado num cadáver, tocar alguma de todas estas coisas, porventura ficará ela por Isso contaminada? Os sacerdotes, respondendo, disseram: Ficará contaminada.  
 **15** Então Ageu retomou a palavra e disse: Assim é este povo, assim é esta gente diante da minha face, diz o Senhor, e assim são também todas as obras das suas mãos: tudo o que me oferecem neste lugar está manchado.  
-**16** Agora refleti nos vossos corações sobre o que tem acontecido desde este dia para trás, antes que se lançasse pedra sobre pedra no templo do Senhor.  
+**16** Agora reflecti nos vossos corações sobre o que tem acontecido desde este dia para trás, antes que se lançasse pedra sobre pedra no templo do Senhor.  
 **17** Quando vos aproximáveis dum montão de trigo (que parecia) de vinte medidas, só tinha dez; quando íeis à cuba para tirar cinquenta medidas, não tiráveis mais de vinte.  
 **18** Eu vos feri com um vento abrasador, e (feri) com ferrugem e saraiva todas as obras das vossas mãos; todavia não houve entre vós quem se voltasse para mim, diz o Senhor.  
 **19** Gravai nos vossos corações o que há-de suceder desde este dia para futuro, desde este dia vinte e quatro do nono mês, desde este dia, em que foram lançados os alicerces do templo do Senhor; gravai-o no vosso coração.  
@@ -42,7 +42,7 @@
 **21** Aos vinte e quatro dias do mês, foi dirigida pela segunda vez a palavra do Senhor a Ageu, a qual dizia:  
 **22** Fala a Zorobabel, governador de Judá, nestes termos: Abalarei o céu e a terra,  
 **23** farei cair o trono dos reinos, quebrarei a fortaleza dos reinos das gentes; destruirei os carros (de guerra) e os que vão sobre eles; os cavalos e os seus cavaleiros cairão (mortos); cada um será passado pela espada do seu Irmão.  
-**24** Naquele dia, diz o Senhor dos exércitos, eu te tomarei (debaixo da minha proteção) ó Zorobabel, meu servo, filho de Salatiel, diz o Senhor, e te guardarei como um sinete, porque te escolhi, diz o Senhor dos exércitos.
+**24** Naquele dia, diz o Senhor dos exércitos, eu te tomarei (debaixo da minha protecção) ó Zorobabel, meu servo, filho de Salatiel, diz o Senhor, e te guardarei como um sinete, porque te escolhi, diz o Senhor dos exércitos.
 
 ---
 

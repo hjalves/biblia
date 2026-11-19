@@ -5,12 +5,12 @@
 **1** Judas, servo de Jesus Cristo e irmão de Tiago, aos eleitos, amados por Deus Pai e guardados por Jesus Cristo.  
 **2** A misericórdia, a paz e a caridade vos sejam dadas abundantemente.  
 **3** Caríssimos, desejando eu com toda a solicitude escrever-vos acerca da nossa comum salvação, tive necessidade de o fazer, para vos exortar a combater pela fé, que foi dada aos santos, uma vez por todas.  
-**4** Efetivamente, introduziram-se entre vós certos homens ímpios (dos quais está escrito há muito tempo que viriam a cair nesta condenação), os quais trocam a graça do nosso Deus em luxúria, e negam a Jesus Cristo, nosso único Dominador e Senhor.  
-**5** Ora eu quero recordar-vos, embora já saibais tudo, que Jesus, salvando o povo da terra do Egito, destruiu depois aqueles que não creram;  
+**4** Efectivamente, introduziram-se entre vós certos homens ímpios (dos quais está escrito há muito tempo que viriam a cair nesta condenação), os quais trocam a graça do nosso Deus em luxúria, e negam a Jesus Cristo, nosso único Dominador e Senhor.  
+**5** Ora eu quero recordar-vos, embora já saibais tudo, que Jesus, salvando o povo da terra do Egipto, destruiu depois aqueles que não creram;  
 **6** e os anjos, que não conservaram o seu principado, mas abandonaram o seu domicílio, os reteve com cadeias eternas, nas trevas, para o juízo do grande dia.  
 **7** Assim Sodoma, Gomorra e as cidades circunvizinhas, que com elas se entregaram à luxúria e se abandonaram aos vícios contra a natureza, foram postas por escarmento, sofrendo a pena do fogo eterno.  
 **8** Da mesma maneira também estes, no seu delírio, contaminam a sua carne, desprezam a Dominação (de Cristo) e insultam as glórias.  
-**9** Quando o Arcanjo Miguel, disputando com o demónio, altercava sobre o corpo de Moisés, não se atreveu a proferir contra ele uma acusação injuriosa, mas disse (somente): Reprima-te o Senhor.  
+**9** Quando o Arcanjo Miguel, disputando com o demónio, altercava sobre o corpo de Moisés, não se atreveu a proferir contra ele uma acusação injuriosa, mas disse (sòmente): Reprima-te o Senhor.  
 **10** Estes, porém, blasfemam de todas as coisas que ignoram, e perdem-se como animais sem razão, em todas aquelas coisas que conhecem naturalmente.  
 **11** Ai deles, porque andaram pelo caminho de Caim, e, por (causa de um aviltante) lucro, precipitaram-se no erro de Balaão e pereceram na rebelião de Coré.  
 **12** Eles são as máculas dos vossos festins, em que se banqueteiam sem respeito, apascentando-se a si mesmos, nuvens sem água, que os ventos levam de uma parte para a outra, árvores de fim de outono, sem fruto, duas vezes mortas, desarraigadas,  

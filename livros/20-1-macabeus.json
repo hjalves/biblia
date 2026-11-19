@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -83,23 +83,23 @@
     },
     {
      "n": 17,
-     "texto": "Quando lhe pareceu bem consolidado o seu reino (da Síria), Antíoco começou a querer reinar no país do Egito, para ser soberano dos dois reinos."
+     "texto": "Quando lhe pareceu bem consolidado o seu reino (da Síria), Antíoco começou a querer reinar no país do Egipto, para ser soberano dos dois reinos."
     },
     {
      "n": 18,
-     "texto": "(Com este desígnio) entrou no Egito à frente dum poderoso exército, com carros, elefantes, cavalaria e grande número de navios."
+     "texto": "(Com este desígnio) entrou no Egipto à frente dum poderoso exército, com carros, elefantes, cavalaria e grande número de navios."
     },
     {
      "n": 19,
-     "texto": "Fez guerra a Ptolomeu, rei do Egito, e Ptolomeu, tomado de medo diante dele, fugiu, caindo feridos muitos (dos seus)."
+     "texto": "Fez guerra a Ptolomeu, rei do Egipto, e Ptolomeu, tomado de medo diante dele, fugiu, caindo feridos muitos (dos seus)."
     },
     {
      "n": 20,
-     "texto": "Antíoco tomou as cidades fortes da terra do Egito e levou os seus despojos."
+     "texto": "Antíoco tomou as cidades fortes da terra do Egipto e levou os seus despojos."
     },
     {
      "n": 21,
-     "texto": "Depois de ter vencido o Egito, no ano cento e quarenta e três, Antíoco voltou e marchou contra Israel:"
+     "texto": "Depois de ter vencido o Egipto, no ano cento e quarenta e três, Antíoco voltou e marchou contra Israel:"
     },
     {
      "n": 22,
@@ -227,7 +227,7 @@
     },
     {
      "n": 53,
-     "texto": "Publicou todas estas ordens em todo o seu reino e nomeou inspetores sobre, todo o povo."
+     "texto": "Publicou todas estas ordens em todo o seu reino e nomeou inspectores sobre, todo o povo."
     },
     {
      "n": 54,
@@ -500,7 +500,7 @@
     },
     {
      "n": 53,
-     "texto": "José guardou os mandamentos (de Deus) no tempo da sua angústia, e veio a ser o Senhor do Egito."
+     "texto": "José guardou os mandamentos (de Deus) no tempo da sua angústia, e veio a ser o Senhor do Egipto."
     },
     {
      "n": 54,
@@ -589,7 +589,7 @@
     },
     {
      "n": 4,
-     "texto": "Tornou-se semelhante a um leão nas suas ações, a um leãozinho que ruge sobre a presa."
+     "texto": "Tornou-se semelhante a um leão nas suas acções, a um leãozinho que ruge sobre a presa."
     },
     {
      "n": 5,
@@ -597,7 +597,7 @@
     },
     {
      "n": 6,
-     "texto": "Os seus inimigos retiraram-se pelo temor que lhe tinham, todos os obreiros da iniquidade se turbaram, e a sua mão conduziu prosperamente a salvação (do povo)."
+     "texto": "Os seus inimigos retiraram-se pelo temor que lhe tinham, todos os obreiros da iniquidade se turbaram, e a sua mão conduziu pròsperamente a salvação (do povo)."
     },
     {
      "n": 7,
@@ -701,7 +701,7 @@
     },
     {
      "n": 32,
-     "texto": "Deixou Lísias, homem nobre da família real, para que tivesse cuidado dos negócios do reino, desde o rio Eufrates até aos confins do Egito,"
+     "texto": "Deixou Lísias, homem nobre da família real, para que tivesse cuidado dos negócios do reino, desde o rio Eufrates até aos confins do Egipto,"
     },
     {
      "n": 33,
@@ -1042,7 +1042,7 @@
     },
     {
      "n": 56,
-     "texto": "Celebraram a dedicação do altar, durante oito dias, ofereceram holocaustos, com alegria e sacrifícios de ação de graças e de louvor."
+     "texto": "Celebraram a dedicação do altar, durante oito dias, ofereceram holocaustos, com alegria e sacrifícios de acção de graças e de louvor."
     },
     {
      "n": 57,
@@ -1179,7 +1179,7 @@
     },
     {
      "n": 28,
-     "texto": "Então Judas com o seu exército, mudando de direção, marchou imediatamente pelo caminho do deserto de Bosor e tomou a cidade; mandou passar ao fio da espada todos os varões, tomou todos os despojos e pôs fogo a cidade."
+     "texto": "Então Judas com o seu exército, mudando de direcção, marchou imediatamente pelo caminho do deserto de Bosor e tomou a cidade; mandou passar ao fio da espada todos os varões, tomou todos os despojos e pôs fogo a cidade."
     },
     {
      "n": 29,
@@ -1199,7 +1199,7 @@
     },
     {
      "n": 33,
-     "texto": "Marchou em três corpos sobre a retaguarda do inimigo. Ao mesmo tempo tocaram as trombetas e levantaram gritos a Deus, dirigindo-lhe as suas orações."
+     "texto": "Marchou em três corpos sobre a rectaguarda do inimigo. Ao mesmo tempo tocaram as trombetas e levantaram gritos a Deus, dirigindo-lhe as suas orações."
     },
     {
      "n": 34,
@@ -1279,11 +1279,11 @@
     },
     {
      "n": 53,
-     "texto": "Judas ia na retaguarda reunindo os atrasados e animando o povo por todo o caminho, até que chegassem ao país de Judá."
+     "texto": "Judas ia na rectaguarda reunindo os atrasados e animando o povo por todo o caminho, até que chegassem ao país de Judá."
     },
     {
      "n": 54,
-     "texto": "Subiram ao monte Sião com alegria e regozijo e ofereceram holocaustos em ação de graças, por terem voltado em paz, sem que nenhum deles tivesse perecido."
+     "texto": "Subiram ao monte Sião com alegria e regozijo e ofereceram holocaustos em acção de graças, por terem voltado em paz, sem que nenhum deles tivesse perecido."
     },
     {
      "n": 55,
@@ -1444,7 +1444,7 @@
     },
     {
      "n": 25,
-     "texto": "Estenderam as suas mãos não somente sobre nós, mas ainda sobre todas as regiões vizinhas."
+     "texto": "Estenderam as suas mãos não sòmente sobre nós, mas ainda sobre todas as regiões vizinhas."
     },
     {
      "n": 26,
@@ -1717,7 +1717,7 @@
     },
     {
      "n": 29,
-     "texto": "Depois foi ter com Judas, e uns e outros se saudaram amigavelmente, mas os inimigos estavam preparados para prender Judas."
+     "texto": "Depois foi ter com Judas, e uns e outros se saudaram amigàvelmente, mas os inimigos estavam preparados para prender Judas."
     },
     {
      "n": 30,
@@ -2223,7 +2223,7 @@
     },
     {
      "n": 71,
-     "texto": "Báquides recebeu-os favoravelmente e consentiu no que Jónatas queria, jurando que em todos os dias da sua vida lhe não faria mal algum."
+     "texto": "Báquides recebeu-os favoràvelmente e consentiu no que Jónatas queria, jurando que em todos os dias da sua vida lhe não faria mal algum."
     },
     {
      "n": 72,
@@ -2292,7 +2292,7 @@
     },
     {
      "n": 14,
-     "texto": "Ficaram somente em Betsur alguns daqueles que tinham abandonado a lei e os preceitos de Deus, porque esta cidade lhes servia de refúgio."
+     "texto": "Ficaram sòmente em Betsur alguns daqueles que tinham abandonado a lei e os preceitos de Deus, porque esta cidade lhes servia de refúgio."
     },
     {
      "n": 15,
@@ -2440,7 +2440,7 @@
     },
     {
      "n": 51,
-     "texto": "Depois destas coisas, Alexandre enviou embaixadores a Ptolomeu, rei do Egito, encarregados de lhe dizer o seguinte;"
+     "texto": "Depois destas coisas, Alexandre enviou embaixadores a Ptolomeu, rei do Egipto, encarregados de lhe dizer o seguinte;"
     },
     {
      "n": 52,
@@ -2464,7 +2464,7 @@
     },
     {
      "n": 57,
-     "texto": "Saiu, pois, Ptolomeu do Egito, com sua filha Cleópatra, e foi a Ptolemaida, no ano cento e sessenta e dois."
+     "texto": "Saiu, pois, Ptolomeu do Egipto, com sua filha Cleópatra, e foi a Ptolemaida, no ano cento e sessenta e dois."
     },
     {
      "n": 58,
@@ -2516,7 +2516,7 @@
     },
     {
      "n": 70,
-     "texto": "a dizer: Tu és o único que nos resistes, e, por isso, estou feito um objeto de riso e de opróbrio. Como poderás aguentar-te contra nós nas montanhas?"
+     "texto": "a dizer: Tu és o único que nos resistes, e, por isso, estou feito um objecto de riso e de opróbrio. Como poderás aguentar-te contra nós nas montanhas?"
     },
     {
      "n": 71,
@@ -2601,7 +2601,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Depois disto, o rei do Egito ajuntou um exército inumerável, como a areia que está sobre a praia do mar, e um grande número de naus, procurando apoderar-se do reino de Alexandre por astúcia e juntá-lo ao seu reino."
+     "texto": "Depois disto, o rei do Egipto ajuntou um exército inumerável, como a areia que está sobre a praia do mar, e um grande número de naus, procurando apoderar-se do reino de Alexandre por astúcia e juntá-lo ao seu reino."
     },
     {
      "n": 2,
@@ -2637,7 +2637,7 @@
     },
     {
      "n": 10,
-     "texto": "Efetivamente estou arrependido de lhe ter dado minha filha, visto que procurou matar-me."
+     "texto": "Efectivamente estou arrependido de lhe ter dado minha filha, visto que procurou matar-me."
     },
     {
      "n": 11,
@@ -2649,7 +2649,7 @@
     },
     {
      "n": 13,
-     "texto": "Ptolomeu entrou em Antioquia e pôs na sua cabeça dois diademas: um do Egito e outro da Ásia."
+     "texto": "Ptolomeu entrou em Antioquia e pôs na sua cabeça dois diademas: um do Egipto e outro da Ásia."
     },
     {
      "n": 14,
@@ -2661,7 +2661,7 @@
     },
     {
      "n": 16,
-     "texto": "Alexandre fugiu para a Arábia, a ver se achava ali alguma proteção. E o rei Ptolomeu triunfou."
+     "texto": "Alexandre fugiu para a Arábia, a ver se achava ali alguma protecção. E o rei Ptolomeu triunfou."
     },
     {
      "n": 17,
@@ -2749,7 +2749,7 @@
     },
     {
      "n": 38,
-     "texto": "O rei Demétrio; vendo que a terra estava sossegada diante dele e que nada lhe resistia, licenciou todo o seu exército, mandando cada um para sua casa, exceto as tropas estrangeiras, que tinha levantado nas ilhas das nações. Isto excitou contra ele o ódio de todas as tropas, que tinham servido a seus pais."
+     "texto": "O rei Demétrio; vendo que a terra estava sossegada diante dele e que nada lhe resistia, licenciou todo o seu exército, mandando cada um para sua casa, excepto as tropas estrangeiras, que tinha levantado nas ilhas das nações. Isto excitou contra ele o ódio de todas as tropas, que tinham servido a seus pais."
     },
     {
      "n": 39,
@@ -2833,7 +2833,7 @@
     },
     {
      "n": 59,
-     "texto": "A seu irmão Simão nomeou-o governador das terras que vão desde a Escada de Tiro até à fronteira do Egito."
+     "texto": "A seu irmão Simão nomeou-o governador das terras que vão desde a Escada de Tiro até à fronteira do Egipto."
     },
     {
      "n": 60,
@@ -2930,7 +2930,7 @@
     },
     {
      "n": 8,
-     "texto": "Onias acolheu com grande honra o mensageiro enviado e recebeu (favoravelmente) as cartas onde se falava de aliança e amizade."
+     "texto": "Onias acolheu com grande honra o mensageiro enviado e recebeu (favoràvelmente) as cartas onde se falava de aliança e amizade."
     },
     {
      "n": 9,
@@ -3086,7 +3086,7 @@
     },
     {
      "n": 47,
-     "texto": "Reteve consigo (somente) três mil homens, dos quais mandou (ainda) dois mil para a Galileia; (só) mil foram com ele."
+     "texto": "Reteve consigo (sòmente) três mil homens, dos quais mandou (ainda) dois mil para a Galileia; (só) mil foram com ele."
     },
     {
      "n": 48,
@@ -3307,7 +3307,7 @@
     },
     {
      "n": 47,
-     "texto": "Movido Simão de piedade, não os combateu mais; contudo lançou-os fora da cidade, purificou as casas em que havia ídolos, e então é que entrou nela, entre hinos de louvor e cânticos de ação de graças."
+     "texto": "Movido Simão de piedade, não os combateu mais; contudo lançou-os fora da cidade, purificou as casas em que havia ídolos, e então é que entrou nela, entre hinos de louvor e cânticos de acção de graças."
     },
     {
      "n": 48,
@@ -3360,7 +3360,7 @@
     },
     {
      "n": 5,
-     "texto": "Além de todas as outras ações gloriosas que fez, tomou Jope para lhe servir de porto de saída para as ilhas do mar."
+     "texto": "Além de todas as outras acções gloriosas que fez, tomou Jope para lhe servir de porto de saída para as ilhas do mar."
     },
     {
      "n": 6,
@@ -3617,7 +3617,7 @@
     },
     {
      "n": 19,
-     "texto": "Aprouve-nos escrever aos reis e aos povos que lhes não façam mal nenhum, que não lhes movam guerra, nem às suas cidades, nem à sua terra, e que não deem socorro aos que combaterem contra eles."
+     "texto": "Aprouve-nos escrever aos reis e aos povos que lhes não façam mal nenhum, que não lhes movam guerra, nem às suas cidades, nem à sua terra, e que não dêem socorro aos que combaterem contra eles."
     },
     {
      "n": 20,
@@ -3802,7 +3802,7 @@
     },
     {
      "n": 23,
-     "texto": "O resto dos atos de João, das suas guerras, das empresas em que valorosamente se portou, da reedificação dos muros que construiu e de todas as suas ações,"
+     "texto": "O resto dos actos de João, das suas guerras, das empresas em que valorosamente se portou, da reedificação dos muros que construiu e de todas as suas acções,"
     },
     {
      "n": 24,

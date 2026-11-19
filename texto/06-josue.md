@@ -18,7 +18,7 @@
 **14** Vossas mulheres, filhos e animais, ficarão na terra, que Moisés vos deu àquem do Jordão, mas vós todos os que sois (mais) valentes passai armados à frente de vossos irmãos, e pelejai por eles  
 **15** até que o Senhor dê descanso a vossos irmãos, como o deu a vós, e também eles possuam a terra, que o Senhor vosso Deus lhes dá; depois voltareis para a terra que possuís, (para a terra ) que Moisés, servo do Senhor, vos deu àquem do Jordão, para o nascente, e habitareis nela.  
 **16** Eles, respondendo a Josué, disseram: Nós faremos tudo o que nos ordenaste; iremos para onde quer que nos mandares.  
-**17** Assim como em tudo obedecemos a Moisés, assim obedeceremos também a ti; somente (desejamos) que o Senhor teu Deus seja contigo, como foi com Moisés.  
+**17** Assim como em tudo obedecemos a Moisés, assim obedeceremos também a ti; sòmente (desejamos) que o Senhor teu Deus seja contigo, como foi com Moisés.  
 **18** Aquele que contradisser as tuas palavras, que não obedecer a tudo o que lhe mandares, seja morto. Tu (da tua parte) tem ânimo, opera varonilmente (que nós te seguiremos).  
 
 ## Capítulo 2
@@ -32,7 +32,7 @@
 **7** Os que haviam sido enviados, foram atrás deles pelo caminho que conduz ao vau do Jordão, e, logo que saíram, foi fechada a porta (da cidade).  
 **8** Ainda os homens, que estavam escondidos, não tinham adormecido, quando a mulher subiu junto deles e lhes disse:  
 **9** Eu sei que o Senhor vos entregou este país; o terror de vós apoderou-se de nós, e todos os habitantes do pais desanimaram,  
-**10** pois soubemos que o Senhor secou as águas do Mar Vermelho à vossa entrada, quando saístes do Egito, e (soubemos) o que fizestes aos dois reis dos Amorreus, que estavam da banda de além do Jordão, Seon e Og, os quais matastes.  
+**10** pois soubemos que o Senhor secou as águas do Mar Vermelho à vossa entrada, quando saístes do Egipto, e (soubemos) o que fizestes aos dois reis dos Amorreus, que estavam da banda de além do Jordão, Seon e Og, os quais matastes.  
 **11** Quando ouvimos isto, tivemos grande medo, o nosso coração desmaiou e não ficou alento em nós à vossa aproximação; porque o Senhor vosso Deus é o (mesmo) Deus (que reina ) lá em cima no céu, e cá em baixo na terra.  
 **12** Agora pois jurai-me pelo Senhor, que, assim como eu usei de misericórdia convosco, assim usareis com a casa de meu pai, e dai-me um sinal seguro  
 **13** de que salvareis meu pai e minha mãe, meus irmãos e minhas irmãs, assim como tudo o que lhes pertence, e livrareis as nossas vidas da morte.  
@@ -100,12 +100,12 @@
 **1** Quando todos os reis dos Amorreus, que habitavam na outra banda do Jordão, ao ocidente, e todos os reis de Canaan, que possuíam os lugares vizinhos do Mar Grande, ouviram dizer que o Senhor tinha secado a corrente do Jordão diante dos filhos de Israel, até que passassem, enfraqueceu-se-lhes o coração, não ficou neles alento, temendo a entrada dos filhos de Israel.  
 **2** Então o Senhor disse a Josué: Faze facas de pedra, e restabelece novamente a circuncisão entre os filhos de Israel.  
 **3** Josué, fazendo o que o Senhor lhe mandara, circuncidou os filhos de Israel sobre o outeiro (chamado por isso) da Circuncisão.  
-**4** A causa desta circuncisão é a seguinte: Todos os varões dentre o povo, que tinham saído do Egito, todos os homens de guerra tinham morrido no deserto durante os larguíssimos rodeios do caminho,  
+**4** A causa desta circuncisão é a seguinte: Todos os varões dentre o povo, que tinham saído do Egipto, todos os homens de guerra tinham morrido no deserto durante os larguíssimos rodeios do caminho,  
 **5** e todos estes tinham sido circuncidados. Porém o povo que nasceu no deserto,  
 **6** durante os quarenta anos de marcha por aquela vastíssima solidão, permaneceu incircunciso, até que morreram aqueles que não tinham obedecido à voz do Senhor, e aos quais ele antes tinha jurado que lhes não mostraria a terra que manava leite e mel.  
 **7** Os filhos destes foram postos (pelo Senhor) no lugar de seus pais, o circuncidou-os Josué, porque estavam incircuncisos, visto que ninguém os tinha circuncidado no caminho.  
 **8** Depois que foram todos circuncidados, permaneceram acampados no mesmo lugar, até sararem.  
-**9** O Senhor disse a Josué: Hoje tirei de cima de vós o opróbrio do Egito. E foi dado àquele lugar o nome de Galgala até ao dia de hoje.  
+**9** O Senhor disse a Josué: Hoje tirei de cima de vós o opróbrio do Egipto. E foi dado àquele lugar o nome de Galgala até ao dia de hoje.  
 **10** Os filhos de Israel permaneceram em Galgala, onde celebraram a Páscoa, no dia catorze do mês, pela tarde, na planície de Jericó;  
 **11** ao outro dia comeram dos frutos da terra, pães ázimos, e trigo tostado naquele mesmo dia.  
 **12** O maná cessou, depois que comeram dos frutos da terra, e os filhos de Israel não usaram mais deste alimento, mas comeram dos frutos que a terra de Canaan tinha dado naquele ano.  
@@ -221,7 +221,7 @@
 **6** Foram ter com Josué, que então se encontrava no acampamento de Galgala, e disseram a ele e a todo o Israel: Nós viemos de uma terra muito distante, com o desejo de fazer pazes convosco. Os homens de Israel responderam-lhes:  
 **7** Não sereis vós talvez moradores na terra, que nos é devida por sorte? como poderemos (em tal caso) fazer aliança convosco?  
 **8** Mas eles disseram a Josué: Nós somos teus servos. Aos quais Josué disse: Quem sois vós? donde viestes?  
-**9** Eles responderam: Os teus servos vieram de uma terra muito distante em nome do Senhor teu Deus, porque ouvimos a fama do seu poder, tudo o que fez no Egito,  
+**9** Eles responderam: Os teus servos vieram de uma terra muito distante em nome do Senhor teu Deus, porque ouvimos a fama do seu poder, tudo o que fez no Egipto,  
 **10** e (como tratou) os dois reis dos Amorreus, que estavam da outra banda do Jordão, Seon rei de Hesebon, e Og rei de Basan, que estava em Astarot.  
 **11** Os nossos anciães e todos os habitantes da nossa terra disseram-nos: Tomai provisões para uma tão longa jornada, ide ao seu encontro e dizei-lhes: Nós somos vossos servos, fazei aliança connosco.  
 **12** Eis os pães, que tomamos quentes quando partimos de nossas casas para vir ter convosco, agora estão secos e desfeitos por demasiadamente antigos.  
@@ -301,16 +301,16 @@
 **10** Voltando logo, tomou Asor e matou à espada o seu rei. Asor antigamente tinha o principado sobre todos estes reinos.  
 **11** Passou à espada toda a gente que ali morava; não deixou ser vivo algum, mas devastou tudo até ao extermínio e destruiu com um incêndio a própria cidade.  
 **12** Tomou, feriu e devastou as cidades circunvizinhas, e os seus reis, como lhe tinha ordenado Moisés, servo do Senhor.  
-**13** Israel queimou todas as outras cidades, exceto as que estavam situadas nas colinas e nos lugares elevados; (destas) somente Asor, cidade fortíssima, foi consumida pelo fogo.  
+**13** Israel queimou todas as outras cidades, excepto as que estavam situadas nas colinas e nos lugares elevados; (destas) sòmente Asor, cidade fortíssima, foi consumida pelo fogo.  
 **14** Os filhos de Israel, depois de matarem todos os homens, repartiram entre si todos os despojos destas cidades e os gados.  
 **15** Como o Senhor tinha ordenado a Moisés seu servo, assim Moisés ordenou a Josué, e este cumpriu tudo; não omitiu nem uma só palavra de todos os mandamentos, que o Senhor tinha dado a Moisés.  
 **16** Conquistou, assim, Josué todo o país montanhoso e meridional, a terra de Gosen, a planície, a parte ocidental, o monte de Israel, as suas campinas,  
 **17** e a parte do monte que sobe para a banda de Seir até Baalgad sobre a planície do Líbano, na falda do monte Hermon; tomou todos os seus reis, feriu-os e matou-os.  
 **18** Durante muito tempo Josué combateu contra estes reis.  
-**19** Não houve cidade que se rendesse (espontaneamente) aos filhos de Israel, exceto o Heveu, que habitava em Gabaon; todas as outras as tomaram à força de armas.  
+**19** Não houve cidade que se rendesse (espontâneamente) aos filhos de Israel, excepto o Heveu, que habitava em Gabaon; todas as outras as tomaram à força de armas.  
 **20** Era desígnio do Senhor que os seus corações se endurecessem, e que combatessem contra Israel, para que Israel os derrotasse, sem compaixão, e os destruísse, como o Senhor o tinha ordenado a Moisés.  
 **21** Naquele tempo Josué acometeu e matou os Enacins (gigantes) das montanhas de Hebron, de Dabir, de Anab, de todas as montanhas de Judá e de Israel, e destruiu as suas cidades.  
-**22** Não deixou um só da raça dos Enacins na terra dos filhos de Israel, exceto somente os que ficaram nas cidades de Gaza, de Get e de Azoto.  
+**22** Não deixou um só da raça dos Enacins na terra dos filhos de Israel, excepto sòmente os que ficaram nas cidades de Gaza, de Get e de Azoto.  
 **23** Conquistou pois Josué todo o país, conforme o Senhor tinha dito a Moisés, e entregou a sua posse aos filhos de Israel por porções segundo as suas tribos. E cessou a guerra no país.  
 
 ## Capítulo 12
@@ -344,7 +344,7 @@
 
 **1** Josué estava velho, avançado em anos, e o Senhor disse-lhe: Tu estás velho, de muita idade, e resta um dilatadíssimo espaço de terra, que ainda não foi repartido por sorte (nem conquistado),  
 **2** a saber: o território dos Filisteus, toda a terra de Gessuri,  
-**3** desde o rio turvo, que rega o Egito, até aos confins de Acaron, para o norte, que deve ser reputada terra de Canaan; os (territórios pertencentes aos) cinco príncipes dos Filisteus: o de Gaza, o de Azoto, o de Ascalon, o de Get e o de Acaron;  
+**3** desde o rio turvo, que rega o Egipto, até aos confins de Acaron, para o norte, que deve ser reputada terra de Canaan; os (territórios pertencentes aos) cinco príncipes dos Filisteus: o de Gaza, o de Azoto, o de Ascalon, o de Get e o de Acaron;  
 **4** os Heveus, ao meio-dia; toda a terra de Canaan, e Maara dos Sidónios, até Afeca e aos confins do Amorreu;  
 **5** a terra dos Gebalitas e todo o território do Líbano, a oriente, desde Baalad na raiz do monte Hermon, até à entrada de Hamath;  
 **6** a terra, daqueles que habitam na Montanha, desde o Líbano até às águas de Maserefot, todos os Sidónios. Sou eu que os hei-de exterminar, diante dos filhos de Israel. Entre pois (todo este terreno) na parte da herança de Israel, como eu te ordenei.  
@@ -399,7 +399,7 @@
 **1** A parte que tocou por sorte aos filhos de Judá, segundo as suas famílias, foi esta: Desde a fronteira de Edom, até ao deserto de Sin, para o meio-dia, e até à extremidade da região meridional (de Canaan).  
 **2** A sua fronteira meridional ia desde a ponta do Mar de Sal, da língua que ele forma para o meio-dia,  
 **3** e estendia-se para a subida do Escorpião, passava a Sina, subia para Cadesliarne, passava em Esron, subindo para Adar e dando volta a Carcaa,  
-**4** e, passando dali para Asrnona, chegava até à torrente do Egito e terminava no Mar Grande. Estes os seus limites, pelo lado do meio-dia.  
+**4** e, passando dali para Asrnona, chegava até à torrente do Egipto e terminava no Mar Grande. Estes os seus limites, pelo lado do meio-dia.  
 **5** Pela parte do oriente, a fronteira foi o Mar do Sal, até à extremidade do Jordão. Pela parte do norte, a fronteira ia desde a língua que o mar forma até até ao mesmo rio Jordão,  
 **6** e subia a Bet Hagla, passava ao norte de Bet Araba, subindo à Pedra de Boen, filho de Ruben,  
 **7** seguia até aos confins de Debera, desde o vale de Acor para o norte, olhando para Galgala, que está defronte da subida de Adomim, pela parte austral da torrente; (depois) passava as águas, que se chamam fonte do Sol, e terminava na fonte de Rogel;  
@@ -408,7 +408,7 @@
 **10** de Baala dava volta para o ocidente até ao monte Seir, e ladeava o monte Jarim ao norte para a banda de Queslon; descia a Betsames, passava por Tamna  
 **11** até o lado setentrional de Acaron; declinava para Secrona e passava o monte Baala; estendia-se até Jebneel e terminava, pelo lado ocidental, no Mar Grande.  
 **12** Estes são, por todos os lados, os limites dos filhos de Judá segundo as suas famílias.  
-**13** A Caleb, filho de Jefone, se havia dado uma parte, no meio dos filhos de Israel, consoante o Senhor mandara a Josué, a saber, a cidade de Arbe, pai de Enac, que é (atualmente chamada) Hebron.  
+**13** A Caleb, filho de Jefone, se havia dado uma parte, no meio dos filhos de Israel, consoante o Senhor mandara a Josué, a saber, a cidade de Arbe, pai de Enac, que é (actualmente chamada) Hebron.  
 **14** Caleb exterminou dela os três filhos de Enac: Sesai, Aiman e Tolmaí, da raça de Enac.  
 **15** Subindo dali, marchou para os habitantes de Dabir, que antes se chamava Cariat-Sefer, isto é, cidade das letras.  
 **16** E Caleb disse: Eu darei minha filha Axa por mulher àquele que assaltar e tomar Cariat-Sefer.  
@@ -442,7 +442,7 @@
 **44** Ceila, Aezib, Maresa: nove cidades com as suas aldeias.  
 **45** Acaron com as suas aldeias e lugarejos.  
 **46** De Acaron até ao mar: todo o país que olha para a banda de Azoto e suas aldeias;  
-**47** Azoto com as suas aldeias e lugarejos; Gaza com as suas aldeias e lugarejos, até à torrente do Egito e ao Mar Grande, que é o seu limite.  
+**47** Azoto com as suas aldeias e lugarejos; Gaza com as suas aldeias e lugarejos, até à torrente do Egipto e ao Mar Grande, que é o seu limite.  
 **48** Nos montes: Samir, Jeter, Socot,  
 **49** Dana, Cariatsena, que é Dabir,  
 **50** Anab, Istemo, Anim,  
@@ -477,7 +477,7 @@
 
 **1** Esta é a parte que tocou por sorte à tribo de Manassés, porque foi o primogénito de José. Maquir, primogénito de Manassés e pai de Galaad, que foi um homem guerreiro, possuiu o país de Galaad e de Basan;  
 **2** também foi dado (um pedaço de terra) aos restantes filhos de Manassés, segundo as suas famílias, aos filhos de Abiezer, aos filhos de Helec, aos filhos de Esriel, aos filhos de Sequem, aos filhos de Hefer, aos filhos de Semida: estes são os filhos varões de Manassés, filho de José, segundo as suas famílias.  
-**3** Salfaad filho de Hefer, filho de Galaad, filho de Maquir, filho de Manassés, não teve filhos, mas somente filhas, cujos nomes são estes: Maala, Noa, Hegla, Melca, e Tersa.  
+**3** Salfaad filho de Hefer, filho de Galaad, filho de Maquir, filho de Manassés, não teve filhos, mas sòmente filhas, cujos nomes são estes: Maala, Noa, Hegla, Melca, e Tersa.  
 **4** Estas apresentaram-se diante do sacerdote Eleázaro e diante de Josué, filho de Nun, e diante dos príncipes, dizendo: O Senhor ordenou por meio de Moisés que nos fosse dada uma herança no meio de nossos irmãos. (Josué) deu-lhes uma possessão no meio dos irmãos de seu pai, conforme a ordem do Senhor.  
 **5** Tocaram a Manassés dez partes, além da terra de Galaad e de Basan, na outra banda do Jordão.  
 **6** As (cinco) filhas de Manassés possuíram a sua herança no meio dos filhos desta tribo. A terra de Galaad coube em sorte aos outros filhos de Manassés.  
@@ -602,7 +602,7 @@
 **8** Os filhos de Israel deram estas cidades e os seus arrabaldes aos Levitas, como o Senhor tinha mandado por meio de Moisés, distribuindo-as a cada um por sorte.  
 **9** Josué deu as cidades das tribos dos filhos de Judá e de Simeão, cujos nomes são (isto é, vão ser apontados):  
 **10** aos filhos de Aarão da família de Caat, da linhagem de Levi (pois que a eles saiu a primeira sorte),  
-**11** Cariatarbe, (cidade) do pai de Enac, que (atualmente) se chama Hebron, sobre o monte de Judá, com os seus arrabaldes em roda.  
+**11** Cariatarbe, (cidade) do pai de Enac, que (actualmente) se chama Hebron, sobre o monte de Judá, com os seus arrabaldes em roda.  
 **12** Os seus campos e aldeias tinha-os dado (Josué), por herança, a Caleb, filho de Jefone.  
 **13** Deu, pois, aos filhos do sacerdote Aarão, Hebron, cidade de refúgio, com os seus arrabaldes, Lobna com os seus arrabaldes,  
 **14** Jeter, Estemo,  
@@ -642,7 +642,7 @@
 **2** e disse-lhes: Vós fizestes tudo o que Moisés, servo do Senhor, vos ordenou; também a mim me tendes obedecido em tudo,  
 **3** e durante um tão largo tempo até ao dia de hoje não abandonastes os vossos irmãos, observando o mandamento do Senhor vosso Deus.  
 **4** Agora, visto que o Senhor vosso Deus deu repouso e paz aos vossos irmãos, como lho tinha prometido, voltai e ide para as vossas tendas, para a terra que vos pertence, terra que Moisés, servo do Senhor, vos deu da outra banda do Jordão.  
-**5** Só vos imponho de que cumprais exatamente o mandamento e a lei que Moisés, servo do Senhor, vos prescreveu, (isto é) que ameis o Senhor vosso Deus, andeis em todos os seus caminhos, observeis os seus mandamentos, estejais unidos a ele, e o sirvais de todo o coração e de toda a vossa alma.  
+**5** Só vos imponho de que cumprais exactamente o mandamento e a lei que Moisés, servo do Senhor, vos prescreveu, (isto é) que ameis o Senhor vosso Deus, andeis em todos os seus caminhos, observeis os seus mandamentos, estejais unidos a ele, e o sirvais de todo o coração e de toda a vossa alma.  
 **6** Depois deu-lhes Josué a benção e os despediu. Eles voltaram para as suas tendas.  
 **7** Ora Moisés tinha dado à meia tribo de Manassés uma possessão em Basan; por isso Josué deu, à outra meia, uma parte entre os outros seus irmãos, na banda de aquém do Jordão, para o ocidente. Reenviando-os para as suas tendas e, tendo-os abençoado,  
 **8** disse-lhes: Vós voltais para vossas casas com muitas riquezas, rebanhos numerosos, com prata e ouro, bronze e ferro, e vestidos de toda a qualidade; reparti com vossos irmãos a presa dos inimigos.  
@@ -680,12 +680,12 @@
 **3** e vós vedes tudo o que o Senhor vosso Deus fez a todas as nações circunvizinhas, e como ele mesmo combateu por vós;  
 **4** vedes que reparti entre vós por sorte toda a terra, desde a parte oriental do Jordão até ao Mar Grande, e, posto que restem ainda muitas nações (a vencer),  
 **5** O Senhor vosso Deus as exterminará e as tirará da vossa vista, e vós possuireis o país, como ele vos prometeu.  
-**6** Somente é preciso que sejais fortes e solícitos em observar todas as coisas que estão escritas no livro da lei de Moisés; não vos desvieis delas, nem para a direita, nem para a esquerda.  
+**6** Sòmente é preciso que sejais fortes e solícitos em observar todas as coisas que estão escritas no livro da lei de Moisés; não vos desvieis delas, nem para a direita, nem para a esquerda.  
 **7** Não vos mistureis com esses povos que ficaram entre vós, não jureis pelo nome dos seus deuses, nem os sirvais, nem os adoreis,  
 **8** mas permanecei unidos ao Senhor vosso Deus, como tendes feito até este dia.  
 **9** Então o Senhor vosso Deus exterminará à vossa vista nações grandes e fortíssimas, e ninguém vos poderá resistir.  
 **10** Um só de vós porá em fuga mil homens dos inimigos, porque o Senhor vosso Deus combaterá por vós, como prometeu.  
-**11** Somente tende grandíssimo cuidado em amar o Senhor vosso Deus.  
+**11** Sòmente tende grandíssimo cuidado em amar o Senhor vosso Deus.  
 **12** Se quiserdes seguir os erros destes povos, que habitam entre vós, e contrair com eles matrimónios, e estabelecer amizades,  
 **13** sabei desde já que o Senhor vosso Deus não os exterminará diante de vós, mas serão para vós uma cova e um laço, um aguilhão nos vossos flancos, e espinhos nos vossos olhos, até que vos tire e vos extermine desta terra excelente que vos deu.  
 **14** Eis que hoje entro no caminho de toda a terra. Reconhecei de todo o vosso coração que de todas as palavras que o Senhor prometeu cumprir em vosso favor nem uma só ficou sem efeito.  
@@ -697,20 +697,20 @@
 **1** Finalmente Josué reuniu todas as tribos de Israel em Siquém, chamou os anciães, os chefes, os juízes e os oficiais, e eles apresentaram-se diante do Senhor,  
 **2** Ele falou assim ao povo: Isto diz o Senhor Deus de Israel: Vossos pais, Taré, pai de Abraão e pai de Nacor, habitaram desde o princípio na banda de além do rio, e serviram a deuses estranhos.  
 **3** Eu tirei pois vosso pai Abraão dos confins da Mesopotâmia, conduzi-o à terra de Canaan e multipliquei a sua descendência,  
-**4** dando-lhe Isaac. A este dei Jacob e Esaú. A Esaú dei em possessão o monte de Seir; Jacob, porém, e seus filhos desceram ao Egito.  
-**5** Depois mandei Moisés e Aarão, e feri o Egito com muitos milagres e prodígios.  
-**6** Fiz sair vossos pais do Egito, e chegastes ao mar. Os Egípcios perseguiram os vossos pais com carros e cavalaria até ao mar Vermelho.  
-**7** Os filhos de Israel porém clamaram ao Senhor, o qual pôs trevas entre vós e os Egípcios, e fez vir o mar sobre eles, que os cobriu. Os vossos olhos viram todas as coisas que eu fiz no Egito, e vós habitastes no deserto durante muito tempo.  
+**4** dando-lhe Isaac. A este dei Jacob e Esaú. A Esaú dei em possessão o monte de Seir; Jacob, porém, e seus filhos desceram ao Egipto.  
+**5** Depois mandei Moisés e Aarão, e feri o Egipto com muitos milagres e prodígios.  
+**6** Fiz sair vossos pais do Egipto, e chegastes ao mar. Os Egípcios perseguiram os vossos pais com carros e cavalaria até ao mar Vermelho.  
+**7** Os filhos de Israel porém clamaram ao Senhor, o qual pôs trevas entre vós e os Egípcios, e fez vir o mar sobre eles, que os cobriu. Os vossos olhos viram todas as coisas que eu fiz no Egipto, e vós habitastes no deserto durante muito tempo.  
 **8** Introduzi-vos na terra do Amorreu, que habitava na banda de além do Jordão. Quando combatiam contra vós, eu os entregava nas vossas mãos, vós tomastes posse do seu país, e eu os destruí diante de vós.  
 **9** Levantou-se Balac, filho de Sefor, rei de Moab, e combateu contra Israel. Mandou chamar Balaão, filho de Beor, para que vos amaldiçoasse,  
 **10** mas eu não o quis ouvir, antes pelo contrário por meio dele vos abençoei, e vos livrei da sua mão.  
 **11** Passastes o Jordão e chegastes a Jericó. Combateram contra vós os homens desta cidade, o Amorreu, o Ferezeu, o Cananeu, o Heteu, o Gergeseu, o Heveu e o Jebuseu, e eu os entreguei nas vossas mãos.  
 **12** Mandei adiante de vós vespas, que os expulsaram das suas terras (assim como) os dois reis dos Amorreus. Não foi a tua espada, (não foi) o teu arco (que te deu tal vitória).  
 **13** Dei-vos uma terra que não lavrastes, cidades que não edificastes, para habitardes nelas, vinhas e olivais, que não plantastes.  
-**14** Agora pois temei ao Senhor e servi-o com um coração perfeito e sinceríssimo; tirai (do meio de vós) os deuses, a que vossos pais serviram na Mesopotâmia e no Egito, e servi ao Senhor.  
+**14** Agora pois temei ao Senhor e servi-o com um coração perfeito e sinceríssimo; tirai (do meio de vós) os deuses, a que vossos pais serviram na Mesopotâmia e no Egipto, e servi ao Senhor.  
 **15** Porém, se vos parece mal servir ao Senhor, é-vos permitida a opção; escolhei hoje o que vos agrada, e a quem principalmente deveis servir: se aos deuses, a quem serviram os vossos pais na Mesopotâmia, se aos deuses dos Amorreus, em cuja terra habitais, que eu e minha casa havemos de servir ao Senhor.  
 **16** O povo, respondendo, disse: Longe de nós que abandonemos o Senhor, e sirvamos a deuses estranhos.  
-**17** O Senhor nosso Deus, ele mesmo, nos tirou a nós e a nossos pais da terra do Egito, da casa da escravidão, fez à nossa vista grandes prodígios e guardou-nos por entre todos os povos; pelos quais passamos.  
+**17** O Senhor nosso Deus, ele mesmo, nos tirou a nós e a nossos pais da terra do Egipto, da casa da escravidão, fez à nossa vista grandes prodígios e guardou-nos por entre todos os povos; pelos quais passamos.  
 **18** Expulsou todas as nações, o Amorreu, habitante da terra em que entramos. Nós pois serviremos ao Senhor, porque ele é o nosso Deus.  
 **19** Josué disse ao povo: Vós não podereis servir ao Senhor, porque ele é um Deus santo, fortemente zeloso, não perdoará as vossas maldades e pecados.  
 **20** Se abandonardes o Senhor e servirdes a deuses estranhos, ele se voltará contra vós e vos destruirá, depois de vos ter feito bem.  
@@ -725,7 +725,7 @@
 **29** Depois disto morreu Josué, filho de Nun, servo do Senhor, com cento e dez anos.  
 **30** Sepultaram-no nos confins da sua possessão, em Tamnat Saraa, que está situada sobre o monte de Efraim, para a parte setentrional do monte Gaas.  
 **31** Israel serviu ao Senhor, durante todo o tempo da vida de Josué e dos anciães, que viveram muito tempo depois de Josué, e que sabiam todas as obras que o Senhor tinha feito em (favor de) Israel.  
-**32** Os ossos de José, que os filhos de Israel tinham trazido do Egito, foram sepultados em Siquem, na parte do campo, que Jacob tinha comprado aos filhos de Hemor, pai de Siquem, por cem cordeiros, e que foi depois propriedade dos filhos de José.  
+**32** Os ossos de José, que os filhos de Israel tinham trazido do Egipto, foram sepultados em Siquem, na parte do campo, que Jacob tinha comprado aos filhos de Hemor, pai de Siquem, por cem cordeiros, e que foi depois propriedade dos filhos de José.  
 **33** Morreu também Eleázaro, filho de Aarão, e sepultaram-no em Gabaat, (cidade) de Finéas, seu filho, que lhe tinha sido dada sobre o monte de Efraim.
 
 ---

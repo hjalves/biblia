@@ -17,7 +17,7 @@
 **13** consultou os sábios, que andavam sempre junto dele, conforme o uso de todos os reis, e por cujo conselho fazia todas as coisas, pois conheciam as leis e costumes dos maiores.  
 **14** (Os primeiros e os mais próximos eram Carasna, Setar, Admata, Tarsis, Mares, Marsana e Mamucan, que eram os sete principais dos Persas e dos Medos, que nunca perdiam o rei de vista e que costumavam ser os primeiros que se sentavam junto dele).  
 **15** (Perguntou-lhes, pois, o rei) a que pena estava sujeita a rainha Vasti, por não ter obedecido à ordem que o rei Assuero lhe tinha intimado por meio dos eunucos.  
-**16** Mamucan respondeu em presença do rei e dos grandes: A rainha Vasti não somente ofendeu o rei, mas também todos os povos e todos os príncipes que há por todas as províncias do rei Assuero.  
+**16** Mamucan respondeu em presença do rei e dos grandes: A rainha Vasti não sòmente ofendeu o rei, mas também todos os povos e todos os príncipes que há por todas as províncias do rei Assuero.  
 **17** Com efeito, o que a rainha fez chegará ao conhecimento de todas as mulheres, as quais serão assim levadas a desprezar os seus maridos e dirão: O rei Assuero mandou ir a rainha Vasti à sua presença, mas ela não foi.  
 **18** De hoje em diante, as princesas da Pérsia e da Média, conhecendo o que a rainha fez, citarão isso mesmo a todos os grandes do rei, donde resultará muito desprezo e cólera.  
 **19** Se é, pois, do teu agrado, publique-se por tua ordem um edito, e escreva-se conforme a lei dos Persas e Medos, (a qual não é permitido violar) que a rainha Vasti não torne a entrar jamais à presença do rei, e que a sua dignidade de rainha seja recebida por outra mais digna do que ela.  
@@ -33,7 +33,7 @@
 **4** Aquela que entre todas mais agradar aos olhos do rei, essa será rainha em lugar de Vasti. Agradou este parecer ao rei, e mandou-lhes que fizessem conforme tinham aconselhado.  
 **5** Havia na cidade de Susa um homem judeu, chamado Mardoqueu, filho de Jair, filho de Semei, filho de Cis, da linhagem de Benjamim  
 **6** o qual linha sido deportado de Jerusalém naquele tempo em que Nabucodonosor, rei de Babilónia, tinha feito levar para esta cidade a Jeconias, rei de Judá.  
-**7** Tinha ele criado Edissa, filha de seu irmão, chamada por outro nome Ester, órfã de pai e mãe; era em extremo formosa e de aspeto gracioso. Depois do falecimento de seu pai e sua mãe, Mardoqueu tínha-a adotado por filha.  
+**7** Tinha ele criado Edissa, filha de seu irmão, chamada por outro nome Ester, órfã de pai e mãe; era em extremo formosa e de aspecto gracioso. Depois do falecimento de seu pai e sua mãe, Mardoqueu tínha-a adoptado por filha.  
 **8** Tendo-se, pois, publicado por toda a parte o mandato do rei, e levando-se a Susa, segundo a sua ordem, muitas donzelas formosíssimas, que eram entregues ao eunuco Egeu, levaram-lhe também Ester entre as outras donzelas, para ser guardada com as mulheres.  
 **9** Ela agradou-lhe e achou graça aos seus olhos. Ele apressou-se a dar-lhe o necessário ao seu adorno e subsistência, assim como sete donzelas das de melhor parecer da casa do rei (para a servirem), e mandou-a com elas para o melhor aposento da casa das mulheres,  
 **10** Ester não lhe quis descobrir de que terra, nem de que nação era, porque Mardoqueu tinha-lhe ordenado que guardasse nisso um grande segredo.  
@@ -41,7 +41,7 @@
 **12** Quando chegava o tempo em que cada uma das donzelas, pela sua ordem, devia ser apresentada ao rei, depois de concluídas todas as coisas que correspondiam ao seu adorno, tinham-se passado doze meses, porquanto durante seis meses se ungiam com óleo de mirra, e durante outros seis usavam de certos unguentos e aromas.  
 **13** No momento de se apresentar ao rei, davam-lhe tudo quanto pedia, ao passar da habitação das mulheres à câmara do rei.  
 **14** Á que tinha entrado à noite saia pela manhã, e dali era levada a uma outra habitação, que estava ao cuidado do eunuco Susagaz, que tinha a guarda das mulheres secundárias do rei, e não tinha a permissão de voltar de novo ao rei, a não ser que o rei a quisesse e, por seu nome, a mandasse vir.  
-**15** Passado, pois, um certo tempo, estava já próximo o dia em que devia ser apresentada ao rei Ester, filha de Abiail, tio de Mardoqueu, a qual este tinha adotado por filha. Ela não pediu nada, além do que lhe foi entregue pelo eunuco Egeu, que tinha a guarda das donzelas; mas Ester agradou aos olhos de todos os que a viram.  
+**15** Passado, pois, um certo tempo, estava já próximo o dia em que devia ser apresentada ao rei Ester, filha de Abiail, tio de Mardoqueu, a qual este tinha adoptado por filha. Ela não pediu nada, além do que lhe foi entregue pelo eunuco Egeu, que tinha a guarda das donzelas; mas Ester agradou aos olhos de todos os que a viram.  
 **16** Foi, pois, levada à câmara do rei Assuero no décimo mês, chamado Tebet, no sétimo ano do seu reinado.  
 **17** O rei amou-a mais do que a todas as outras mulheres, e ela achou graça e favor diante dele, mais que todas as mulheres; pôs-lhe sobre a cabeça a coroa real e constituiu-a rainha no lugar de Vasti.  
 **18** E ordenou que se preparasse um banquete, magnificentíssimo para todos os seus príncipes e servidores, um banquete em honra de Ester. Concedeu alivio (de alguns tributos) a todas as províncias, e fez donativos dignos da magnificência dum tão grande príncipe.  
@@ -54,7 +54,7 @@
 ## Capítulo 3
 
 **1** Depois destes acontecimentos, o rei Assuero exaltou Aman, filho de Amadati, que era da linhagem de Agag, e pôs o seu assento sobre todos os grandes que o cercavam.  
-**2** Todos os servos do rei, que estavam à porta do palácio dobravam os joelhos, prostravam-se diante de Aman, porque assim lhes tinha mandado o imperador; só Mardoqueu não dobrava os joelhos nem se prostrava diante dele, (por considerar isto um ato de idolatria).  
+**2** Todos os servos do rei, que estavam à porta do palácio dobravam os joelhos, prostravam-se diante de Aman, porque assim lhes tinha mandado o imperador; só Mardoqueu não dobrava os joelhos nem se prostrava diante dele, (por considerar isto um acto de idolatria).  
 **3** Os servos do rei, que guardavam as portas do palácio, disseram-lhe: Por que não cumpres as ordens do rei como os outros?  
 **4** Depois de lhe dizerem isto muitas vezes, vendo que não os queria ouvir, referiram-no a Aman, querendo saber se ele persistiria nesta resolução, porque lhes tinham dito que era judeu.  
 **5** Aman, ao ver que Mardoqueu não dobrava os joelhos nem se prostrava diante dele, concebeu grande ira;  
@@ -81,7 +81,7 @@
 **8** Deu-lhe, lambem, uma cópia do edito, que estava afixado em Susa, respeitante à sua exterminação, para a mostrar à rainha, e para a exortar a que fosse apresentar-se ao rei e intercedesse pelo seu povo.  
 **9** Atac veio referir a Ester tudo o que Mardoqueu lhe tinha dito.  
 **10** Ela ordenou-lhe que dissesse a Mardoqueu:  
-**11** Todos os servos do rei e todas as províncias que estão debaixo do seu domínio sabem que se alguém, homem ou mulher, entrar, sem ser chamado, na câmara do rei, no mesmo ponto, sem remissão alguma, é morto, exceto se o rei estender para ele o seu cetro de ouro, em sinal de clemência, e lhe salvar assim a vida. Como poderei eu, pois, ir ter com o rei, quando há já trinta dias que ele me não chama para junto de si?  
+**11** Todos os servos do rei e todas as províncias que estão debaixo do seu domínio sabem que se alguém, homem ou mulher, entrar, sem ser chamado, na câmara do rei, no mesmo ponto, sem remissão alguma, é morto, excepto se o rei estender para ele o seu ceptro de ouro, em sinal de clemência, e lhe salvar assim a vida. Como poderei eu, pois, ir ter com o rei, quando há já trinta dias que ele me não chama para junto de si?  
 **12** Mardoqueu, tendo ouvido isto,  
 **13** mandou novamente dizer a Ester; Não te persuadas que, por estares na casa do rei, escaparás à morte, tu só, entre todos os Judeus;  
 **14** com efeito, se tu agora te calares, por outro caminho se salvarão os Judeus, mas tu e a casa de teu pai perecereis. E quem sabe se porventura foste elevada a rainha, para que estivesses pronta em tal conjuntura?  
@@ -92,7 +92,7 @@
 ## Capítulo 5
 
 **1** Ao terceiro dia Ester tomou os vestidos reais e apresentou-se no átrio interior do palácio real, defronte da câmara do rei. Ele estava sentado sobre o seu trono, na sala do conselho real, voltado para a porta do palácio.  
-**2** Tendo visto a rainha Ester de pé, olhou-a com agrado e estendeu para ela o cetro de ouro, que tinha na mão. Ester, aproximando-se, beijou a ponta do cetro.  
+**2** Tendo visto a rainha Ester de pé, olhou-a com agrado e estendeu para ela o ceptro de ouro, que tinha na mão. Ester, aproximando-se, beijou a ponta do ceptro.  
 **3** O rei disse-lhe: Que queres tu, rainha Ester? Que petição é a tua? Ainda que me peças metade do reino, te será dada.  
 **4** Ela respondeu: Se agrada ao rei, suplico que venhas hoje, juntamente com Aman, a um banquete que tenho preparado.  
 **5** O rei, sem mais demora, disse: Chamai depressa Aman para que obedeça à vontade de Ester. O rei e Aman foram, pois, ao banquete que a rainha lhes tinha preparado.  
@@ -141,7 +141,7 @@
 **1** No mesmo dia doou o rei Assuero à rainha Ester a casa de Aman, inimigo dos Judeus, e Mardoqueu foi apresentado ao rei, porque Ester lhe tinha confessado que ele era seu tio paterno.  
 **2** O rei tomou o anel, que tinha mandado tirar a Aman, e deu-o a Mardoqueu. Ester estabeleceu Mardoqueu sobre a casa de Aman.  
 **3** Não contente com isto, ela lançou-se aos pés do rei, e com lágrimas suplicou-lhe que frustrasse o mau desígnio de Aman, filho de Agag, as iníquas maquinações, que tinha urdido contra os Judeus.  
-**4** O rei, segundo o costume, estendeu para ela com a sua mão, o cetro de ouro, o que era sinal de clemência; levantando-se ela, pôs-se em pé diante do rei  
+**4** O rei, segundo o costume, estendeu para ela com a sua mão, o ceptro de ouro, o que era sinal de clemência; levantando-se ela, pôs-se em pé diante do rei  
 **5** e disse: Se assim apraz ao rei, se encontrei graça aos seus olhos, e não lhe parece ser injusto o meu pedido, suplico que, com novas cartas, sejam revogadas as primeiras de Aman, perseguidor e inimigo dos Judeus, com as quais mandava que fossem estes exterminados em todas as províncias do rei.  
 **6** Pois, como poderei eu suportar a matança, o extermínio do meu povo?  
 **7** O rei Assuero respondeu à rainha Ester e ao judeu Mardoqueu: Eu doei a Ester a casa de Aman, e a ele mandei-o crucificar, porque se atreveu a estender a sua mão contra os Judeus.  
@@ -181,8 +181,8 @@
 **21** a fim de que o dia catorze e o dia quinze do mês de Adar fossem para eles dias de festa, celebrados, todos os anos, com honras solenes,  
 **22** porque nestes dias se vingaram os Judeus dos seus inimigos, e o seu luto e tristeza converteram-se em festa e alegria. Assim estes dias deviam ser de banquete e de regozijo, e neles deviam mandar uns aos outros porções das suas iguarias e distribuir donativos aos pobres.  
 **23** Os Judeus admitiram entre os seus ritos solenes tudo o que começaram a fazer naquele tempo, e que Mardoqueu na sua carta lhes ordenou que fizessem.  
-**24** Com efeito, Aman, filho de Amadati, da linhagem de Agag, inimigo e adversário dos Judeus, formara contra eles o mau projeto de os matar e de os extinguir, e lançara sobre isto o Pur, que significa sorte.  
-**25** Porém, tendo-se apresentado Ester ao rei, este ordenou, por escrito, que caísse sobre a cabeça do seu autor, o projeto perverso que Aman formara contra os Judeus, e que ele (Aman) e seus filhos fossem crucificados.  
+**24** Com efeito, Aman, filho de Amadati, da linhagem de Agag, inimigo e adversário dos Judeus, formara contra eles o mau projecto de os matar e de os extinguir, e lançara sobre isto o Pur, que significa sorte.  
+**25** Porém, tendo-se apresentado Ester ao rei, este ordenou, por escrito, que caísse sobre a cabeça do seu autor, o projecto perverso que Aman formara contra os Judeus, e que ele (Aman) e seus filhos fossem crucificados.  
 **26** Desde aquele tempo, estes dias foram chamados Purim, isto é, das sortes, porque o Pur, ou a sorte, foi lançada na urna. Todas as coisas que aconteceram estão contidas no volume desta carta, isto é, deste livro.  
 **27** Em memória do que sofreram e da (feliz) mudança que depois houve, os Judeus obrigaram-se por si e pelos seus descendentes, e por todos os que quiseram agregar-se à sua religião, que a nenhum fosse licito passar sem solenidade estes dois dias que são indicados neste escrito, e se observam, em tempos determinados, pelos anos sucessivos.  
 **28** Estes são dias que nunca serão esquecidos, e os quais todas as províncias de geração em geração celebrarão por toda a terra; não há cidade alguma onde os dias de Purim, isto é, das sortes, não sejam solenizados pelos Judeus e pela sua descendência, que está obrigada a estas cerimónias.  
@@ -205,7 +205,7 @@
 **10** Ordenou que houvesse duas sortes, uma para o povo de Deus e outra para todas as gentes.  
 **11** As duas sortes saíram na hora, no tempo e no dia marcados por Deus para todas as nações.  
 **12** O Senhor lembrou-se do seu povo, teve compaixão da sua herança.  
-**13** Estes dias do mês de Adar, o décimo quarto e o décimo quinto, serão celebrados com toda a devoção e júbilo do povo, que se congregará em um ajuntamento, perpetuamente, em todas as gerações do povo de Israel.  
+**13** Estes dias do mês de Adar, o décimo quarto e o décimo quinto, serão celebrados com toda a devoção e júbilo do povo, que se congregará em um ajuntamento, perpètuamente, em todas as gerações do povo de Israel.  
 
 ## Capítulo 11
 
@@ -225,7 +225,7 @@
 ## Capítulo 12
 
 **1** Mardoqueu estava então na corte do rei com Ragata e Tara, eunucos do rei, os quais eram porteiros do palácio.  
-**2** Tendo entendido os seus pensamentos e reconhecido exatamente os seus desígnios, descobriu que intentavam pôr a mão na pessoa do rei Artaxerxes; avisou disso o rei,  
+**2** Tendo entendido os seus pensamentos e reconhecido exactamente os seus desígnios, descobriu que intentavam pôr a mão na pessoa do rei Artaxerxes; avisou disso o rei,  
 **3** o qual, feito o processo de ambos, e tendo eles confessado, ordenou que fossem supliciados.  
 **4** O rei mandou escrever nas Crónicas o que se tinha passado, e Mardoqueu também o pôs por escrito para conservar a sua memória,  
 **5** O rei deu-lhe um lugar no palácio e mandou-lhe presentes pela denúncia.  
@@ -248,7 +248,7 @@
 **13** Com efeito, para salvar Israel, pronto estaria a beijar com gosto os vestígios dos seus pés.  
 **14** Se fiz isso, foi porque temi trasladar para um homem a honra devida ao meu Deus; jamais adoraria alguém, que não fosse o meu Deus.  
 **15** Agora tu, ó Senhor Rei, Deus de Abraão, tem misericórdia do teu povo, porque os nossos inimigos querem acabar, destruir a tua herança.  
-**16** Não desprezes a tua porção, que para ti resgataste do Egito.  
+**16** Não desprezes a tua porção, que para ti resgataste do Egipto.  
 **17** Ouve os meus rogos, mostra-te propício à tua parte e herança, e muda o nosso pranto em gozo, para que, vivendo, louvemos, Senhor, o teu nome, e não feches a boca dos que te louvam.  
 **18** Todo o Israel clamou do mesmo modo ao Senhor, orando com um mesmo coração, porque a morte estava diante dos seus olhos.  
 
@@ -263,8 +263,8 @@
 **7** porque adorámos os seus deuses. Justo és, ó Senhor.  
 **8** Mas agora não se contentam com oprimir-nos com uma duríssima escravidão, senão que, atribuindo ao poder dos seus ídolos a força das suas mãos,  
 **9** pretendem transtornar as tuas promessas, destruir a tua herança, fechar as bocas dos que te louvam e extinguir a glória do teu templo e do teu altar,  
-**10** a fim de abrir as bocas dos gentios e louvar o poder dos seus ídolos e celebrar perpetuamente um rei de carne.  
-**11** Não entregues, Senhor, o teu cetro àqueles que não são nada, para que não escarneçam da nossa ruína, mas volta contra eles os seus desígnios e destrói aquele que começou a ser cruel contra nós.  
+**10** a fim de abrir as bocas dos gentios e louvar o poder dos seus ídolos e celebrar perpètuamente um rei de carne.  
+**11** Não entregues, Senhor, o teu ceptro àqueles que não são nada, para que não escarneçam da nossa ruína, mas volta contra eles os seus desígnios e destrói aquele que começou a ser cruel contra nós.  
 **12** Lembra-te de nós, Senhor, mostra-nos a tua face no tempo da nossa tribulação, e dá-me força. Senhor, rei dos deuses e Dominador de todas as potestades;  
 **13** põe na minha boca palavras próprias na presença do leão (Assuero), e muda o seu coração de modo que aborreça o nosso inimigo, a fim de que pereça ele e os outros que estão de acordo com ele.  
 **14** Livra-nos com a tua mão. Socorre-me, que não tenho outro auxilio, senão a ti. Senhor, que conheces todas as coisas,  
@@ -284,13 +284,13 @@
 **6** la-se apoiando sobre uma delas, como se, por debilidade, não pudesse suster o seu corpo delicado.  
 **7** A outra criada ia atrás da sua senhora, segurando a extremidade das suas longas vestes.  
 **8** (Ester) com a cor de rosa em seu rosto e com os olhos graciosos e brilhantes, ocultava a tristeza do seu coração, penetrado de um vivo temor.  
-**9** Tendo passado, uma por uma, todas as portas, pôs-se diante do rei. Assuero estava sentado sobre o sólio real, vestido de manto real, resplandecendo com o ouro e pedras preciosas, e o seu aspeto era terrível.  
+**9** Tendo passado, uma por uma, todas as portas, pôs-se diante do rei. Assuero estava sentado sobre o sólio real, vestido de manto real, resplandecendo com o ouro e pedras preciosas, e o seu aspecto era terrível.  
 **10** Tendo ele levantado o rosto e manifestado em seus olhos cintilantes o furor do seu peito, a rainha desmaiou, e, trocando-se a sua cor em palidez, deixou cair a sua cabeça vacilante sobre a criada.  
-**11** Então Deus amansou o coração do rei, o qual, apressado e inquieto, desceu rapidamente do trono, e, sustendo-a com seus braços até que voltou a si, a animava com estas palavras:  
+**11** Então Deus amansou o coração do rei, o qual, apressado e inquieto, desceu ràpidamente do trono, e, sustendo-a com seus braços até que voltou a si, a animava com estas palavras:  
 **12** Que tens, Ester? Eu sou teu irmão, não temas.  
 **13** Não morrerás, porque esta lei não foi feita para ti, mas só para todos os outros.  
-**14** Aproxima-te, pois, e toca o cetro.  
-**15** Como ela não falasse, tomou o cetro de ouro, pôs-lho sobre o seu colo, beijou-a e disse; Por que não me falas?  
+**14** Aproxima-te, pois, e toca o ceptro.  
+**15** Como ela não falasse, tomou o ceptro de ouro, pôs-lho sobre o seu colo, beijou-a e disse; Por que não me falas?  
 **16** Ela respondeu-lhe: Eu vi-te, senhor, como um anjo de Deus, e o meu coração turbou-se com o temor da tua majestade,  
 **17** porque tu, senhor, és digno de admiração, e o teu rosto cheio de graças.  
 **18** Estando ainda a falar, desfaleceu de novo e ficou sem sentidos.  
@@ -302,7 +302,7 @@
 **2** Muitos têm abusado da bondade dos príncipes, das honras que deles têm recebido, para se ensoberbecerem.  
 **3** Não só procuram oprimir os vassalos dos reis, senão que, mal satisfeitos com a glória que receberam, armam traições contra os mesmos que lha deram.  
 **4** E não se contentam com ser ingratos aos benefícios e com violar em si mesmos os direitos da humanidade, mas presumem também poder escapar ao juízo de Deus, que tudo vê.  
-**5** Chegam a tal grau de loucura, que, com os artifícios da mentira, procuram arruinar aqueles que cumprem com exatidão os cargos, que lhes foram confiados, e que procedem em tudo de sorte que se tornam dignos do aplauso comum,  
+**5** Chegam a tal grau de loucura, que, com os artifícios da mentira, procuram arruinar aqueles que cumprem com exactidão os cargos, que lhes foram confiados, e que procedem em tudo de sorte que se tornam dignos do aplauso comum,  
 **6** enganando com cautelosa sagacidade os ouvidos sinceros dos príncipes, inclinados a ter os outros em bom apreço.  
 **7** Comprova-se não só com as histórias antigas, mas também com o que acontece todos os dias, de que modo as boas inclinações dos reis, se pervertem pelas más sugestões de alguns.  
 **8** Por isso é preciso providenciar à paz de todas as províncias.  

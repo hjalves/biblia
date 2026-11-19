@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -31,7 +31,7 @@
     },
     {
      "n": 4,
-     "texto": "Todos aqueles que ainda restam (de Judá), em qualquer lugar onde habitem, sejam ajudados pelas populações desse lugar com prata, com ouro, com (outros) bens e com gados, com dons voluntariamente oferecidos para o templo de Deus, que está em Jerusalém."
+     "texto": "Todos aqueles que ainda restam (de Judá), em qualquer lugar onde habitem, sejam ajudados pelas populações desse lugar com prata, com ouro, com (outros) bens e com gados, com dons voluntàriamente oferecidos para o templo de Deus, que está em Jerusalém."
     },
     {
      "n": 5,
@@ -39,7 +39,7 @@
     },
     {
      "n": 6,
-     "texto": "Todos os que moravam perto deles ajudaram-nos, pondo em suas mãos objetos de prata e de ouro, utensílios, gados e coisas preciosas, além daquilo que tinham oferecido voluntariamente."
+     "texto": "Todos os que moravam perto deles ajudaram-nos, pondo em suas mãos objectos de prata e de ouro, utensílios, gados e coisas preciosas, além daquilo que tinham oferecido voluntàriamente."
     },
     {
      "n": 7,
@@ -385,7 +385,7 @@
     },
     {
      "n": 9,
-     "texto": "Josué, com seus filhos e seus irmãos, Cedmiel e seus filhos, filhos de Judá, dispuseram-se unanimemente a dirigir os que trabalhavam no templo de Deus; igualmente (se dispuseram) os filhos de Henadad, com seus filhos e irmãos, Levitas."
+     "texto": "Josué, com seus filhos e seus irmãos, Cedmiel e seus filhos, filhos de Judá, dispuseram-se unânimemente a dirigir os que trabalhavam no templo de Deus; igualmente (se dispuseram) os filhos de Henadad, com seus filhos e irmãos, Levitas."
     },
     {
      "n": 10,
@@ -418,7 +418,7 @@
     },
     {
      "n": 3,
-     "texto": "Zorobabel, Josué e os outros chefes das famílias de Israel responderam-lhes: Não convém a vós e a nós edificar juntamente a casa ao nosso Deus; nós, sozinhos, a edificaremos ao Senhor nosso Deus, como Ciro, rei dos Persas, no-lo ordenou."
+     "texto": "Zorobabel, Josué e os outros chefes das famílias de Israel responderam-lhes: Não convém a vós e a nós edificar juntamente a casa ao nosso Deus; nós, sòzinhos, a edificaremos ao Senhor nosso Deus, como Ciro, rei dos Persas, no-lo ordenou."
     },
     {
      "n": 4,
@@ -426,7 +426,7 @@
     },
     {
      "n": 5,
-     "texto": "(Os inimigos de Judá) subornaram alguns conselheiros (do rei), para destruírem o seu projeto. Isto durou todo o tempo de Ciro, rei dos Persas, até ao reinado de Dario, rei dos Persas."
+     "texto": "(Os inimigos de Judá) subornaram alguns conselheiros (do rei), para destruírem o seu projecto. Isto durou todo o tempo de Ciro, rei dos Persas, até ao reinado de Dario, rei dos Persas."
     },
     {
      "n": 6,
@@ -527,7 +527,7 @@
     },
     {
      "n": 5,
-     "texto": "Mas Deus olhou favoravelmente para os anciãos dos Judeus, e não se impôs a cessação dos trabalhos, até que se expusesse este assunto a Dario e que se recebesse carta sobre ele."
+     "texto": "Mas Deus olhou favoràvelmente para os anciãos dos Judeus, e não se impôs a cessação dos trabalhos, até que se expusesse este assunto a Dario e que se recebesse carta sobre ele."
     },
     {
      "n": 6,
@@ -616,7 +616,7 @@
     },
     {
      "n": 9,
-     "texto": "Sendo necessário, deem-se-lhes, sem falta, todos os dias novilhos, cordeiros e cabritos, para se oferecerem em holocausto ao Deus do céu, e trigo, sal, vinho e azeite, conforme o regulamento dos sacerdotes que assistem em Jerusalém, para que"
+     "texto": "Sendo necessário, dêem-se-lhes, sem falta, todos os dias novilhos, cordeiros e cabritos, para se oferecerem em holocausto ao Deus do céu, e trigo, sal, vinho e azeite, conforme o regulamento dos sacerdotes que assistem em Jerusalém, para que"
     },
     {
      "n": 10,
@@ -713,7 +713,7 @@
     },
     {
      "n": 10,
-     "texto": "Esdras tinha efetivamente preparado o seu coração para buscar a lei do Senhor e para cumprir e ensinar em Israel os seus preceitos e as suas ordenações."
+     "texto": "Esdras tinha efectivamente preparado o seu coração para buscar a lei do Senhor e para cumprir e ensinar em Israel os seus preceitos e as suas ordenações."
     },
     {
      "n": 11,
@@ -733,11 +733,11 @@
     },
     {
      "n": 15,
-     "texto": "e a levar a prata e o ouro, que o rei e os seus conselheiros ofereceram espontaneamente ao Deus de Israel, cujo tabernáculo está em Jerusalém."
+     "texto": "e a levar a prata e o ouro, que o rei e os seus conselheiros ofereceram espontâneamente ao Deus de Israel, cujo tabernáculo está em Jerusalém."
     },
     {
      "n": 16,
-     "texto": "Toda a prata e o ouro, que encontrares em toda a província de Babilónia e que o povo quiser oferecer, e tudo o que os sacerdotes espontaneamente oferecerem à casa do seu Deus, que está em Jerusalém,"
+     "texto": "Toda a prata e o ouro, que encontrares em toda a província de Babilónia e que o povo quiser oferecer, e tudo o que os sacerdotes espontâneamente oferecerem à casa do seu Deus, que está em Jerusalém,"
     },
     {
      "n": 17,
@@ -777,7 +777,7 @@
     },
     {
      "n": 26,
-     "texto": "\"Todo o que não observar exatamente a lei do teu Deus e a ordem do rei, será condenado ou à morte ou a desterro, ou a alguma multa sobre os seus bens, ou à prisão.\""
+     "texto": "\"Todo o que não observar exactamente a lei do teu Deus e a ordem do rei, será condenado ou à morte ou a desterro, ou a alguma multa sobre os seus bens, ou à prisão.\""
     },
     {
      "n": 27,
@@ -878,7 +878,7 @@
     },
     {
      "n": 23,
-     "texto": "Nós, com este fim jejuámos e fizemos oração ao nosso Deus, e tudo nos sucedeu prosperamente."
+     "texto": "Nós, com este fim jejuámos e fizemos oração ao nosso Deus, e tudo nos sucedeu pròsperamente."
     },
     {
      "n": 24,
@@ -898,7 +898,7 @@
     },
     {
      "n": 28,
-     "texto": "e disse-lhes: Vós sois os santos do Senhor, e santos são os vasos, a prata e o ouro, que foram espontaneamente oferecidos ao Senhor Deus de nossos pais;"
+     "texto": "e disse-lhes: Vós sois os santos do Senhor, e santos são os vasos, a prata e o ouro, que foram espontâneamente oferecidos ao Senhor Deus de nossos pais;"
     },
     {
      "n": 29,

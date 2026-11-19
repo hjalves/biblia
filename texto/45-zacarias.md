@@ -5,7 +5,7 @@
 **1** No oitavo mês, no segundo ano do reinado de Dario, foi dirigida ao profeta Zacarias, filho de Baraquias, filho de Ado, a palavra do Senhor, nestes termos:  
 **2** O Senhor irou-se em extremo contra vossos pais.  
 **3** Tu dirás (a estes seus filhos): Assim fala o Senhor dos exércitos: Voltai outra vez a mim, diz o Senhor dos exércitos, e eu voltarei de novo a vós, diz o Senhor dos exércitos.  
-**4** Não sejais como vossos pais, aos quais os profetas que vos precederam lançaram este apelo: Isto diz o Senhor dos exércitos: Convertei-vos dos vossos maus caminhos, das vossas malvadas ações. Eles não me ouviram, não me deram atenção, diz o Senhor.  
+**4** Não sejais como vossos pais, aos quais os profetas que vos precederam lançaram este apelo: Isto diz o Senhor dos exércitos: Convertei-vos dos vossos maus caminhos, das vossas malvadas acções. Eles não me ouviram, não me deram atenção, diz o Senhor.  
 **5** Onde estão já vossos pais? E porventura vivem os profetas eternamente?  
 **6** Mas as minhas palavras e as minhas ordens dadas aos meus servos, os profetas, acaso não atingiram vossos pais? (Sim, e de tal forma que) eles então se converteram, dizendo: Como o Senhor dos exércitos fez tenção de nos tratar, segundo os nossos caminhos e segundo as nossas obras, assim de facto nos tratou.  
 **7** No segundo ano do reinado de Dario, aos vinte e quatro dias do mês undécimo, que é o mês (chamado) de Sabat, foi dirigida ao profeta Zacarias, filho de Baraquias, filho de Ado, a palavra do Senhor, nestes termos:  
@@ -16,7 +16,7 @@
 **12** O anjo do Senhor disse: Senhor dos exércitos, até quando diferirás tu o compadecer-te de Jerusalém e das cidades de Judá, contra as quais estás irritado, há setenta anos?  
 **13** Neste ponto o Senhor, dirigindo-se ao anjo que falava comigo, disse-lhe boas palavras, palavras de consolação.  
 **14** E o anjo que falava comigo disse-me: Proclama o seguinte: Isto diz o Senhor dos exércitos: Eu sinto um grande zelo por Jerusalém e por Sião,  
-**15** e estou sumamente irritado contra estas nações que vivem satisfeitas, porque eu somente estava um pouco agastado (contra Israel), mas elas excederam a medida (do castigo que eu planeava).  
+**15** e estou sumamente irritado contra estas nações que vivem satisfeitas, porque eu sòmente estava um pouco agastado (contra Israel), mas elas excederam a medida (do castigo que eu planeava).  
 **16** Portanto isto diz o Senhor: Volto novamente para Jerusalém com entranhas de misericórdia; a minha casa será nela reedificada, diz o Senhor dos exércitos, e o cordel será estendido sobre Jerusalém (para a reconstruir).  
 **17** Proclama ainda o seguinte: Assim fala o Senhor dos exércitos: As minhas cidades ainda hão-de ser Cheias de bens; o Senhor ainda consolará Sião, ainda escolherá Jerusalém.  
 **18** Em seguida levantei os meus olhos, pus-me a olhar e vi quatro hastes.  
@@ -31,7 +31,7 @@
 **3** E eis que apareceu o anjo que falava comigo, e outro anjo veio-lhe ao encontro  
 **4** e disse-lhe: Corre, fala a este jovem assim: Jerusalém será habitada sem muros, por causa da multidão de homens e de animais que haverá no meio dela.  
 **5** Eu mesmo, diz o Senhor, serei para ela um muro de fogo, que a cercará, serei no meio dela a sua glória.  
-**6** De pé! De pé! Fugi da terra do aquilão, diz o Senhor, porque eu vos espalhei para os quatro ventos do céu, diz o Senhor, (somente para vos castigar).  
+**6** De pé! De pé! Fugi da terra do aquilão, diz o Senhor, porque eu vos espalhei para os quatro ventos do céu, diz o Senhor, (sòmente para vos castigar).  
 **7** Salva-te ó Sião, que habitas na cidade de Babilónia!  
 **8** Porque isto diz o Senhor dos exércitos: Para glória me enviou o Senhor contra as nações que vos despojaram: aquele que tocar em vós, toca na menina dos seus olhos.  
 **9** Eis que vou levantar a minha mão contra estes povos, e eles virão a ser presa daqueles que eram seus escravos; assim conhecereis que o Senhor dos exércitos é que me enviou.  
@@ -176,8 +176,8 @@
 **7** (Os de) Efraim serão como heróis, e o seu coração se alegrará como (com) o vinho; os seus filhos os verão e se alegrarão, e o seu coração exultará no Senhor.  
 **8** Eu lhes assobiarei e os congregarei, porque os resgatei; multiplicá-los-ei, como antes se tinham multiplicado.  
 **9** Semeá-los-ei por entre os povos, e eles de longe se recordarão de mim; instruirão seus filhos, e tomarão a vir.  
-**10** Reconduzi-los-ei da terra do Egito, congregá-los-ei da Assíria, introduzi-los-ei na terra de Galaad e no Líbano, e não se achará lá lugar (bastante) para eles (por serem numerosos).  
-**11** Israel passará o mar, do Egito, (o Senhor) ferirá as ondas do mar, todas as profundidades do Nilo ficarão descobertas. A soberba de Assur será humilhada, e o cetro do Egito será tirado.  
+**10** Reconduzi-los-ei da terra do Egipto, congregá-los-ei da Assíria, introduzi-los-ei na terra de Galaad e no Líbano, e não se achará lá lugar (bastante) para eles (por serem numerosos).  
+**11** Israel passará o mar, do Egipto, (o Senhor) ferirá as ondas do mar, todas as profundidades do Nilo ficarão descobertas. A soberba de Assur será humilhada, e o ceptro do Egipto será tirado.  
 
 ## Capítulo 11
 
@@ -221,7 +221,7 @@
 **1** Naquele dia haverá uma fonte aberta para a casa de Davide e para os habitantes de Jerusalém, para se lavarem as manchas do pecado e da impureza.  
 **2** Naquele dia, diz o Senhor dos exércitos, exterminarei do pais (até) os nomes dos ídolos, de forma que deles não haverá mais memória; tirarei dele os falsos profetas e o espírito de impureza.  
 **3** Se alguém intentar ainda inculcar-se por profeta, seu pai e sua mãe, que os geraram, lhe dirão: Tu não viverás, pois que disseste mentira em nome do Senhor.— E seu pai e sua mãe, que o geraram, o traspassarão, quando se tiver metido a profetizar.  
-**4** Naquele dia serão confundidos os (falsos) profetas, cada um pela sua visão, quando profetizarem; não mais se cobrirão (hipocritamente) com o manto de pelos para mentirem,  
+**4** Naquele dia serão confundidos os (falsos) profetas, cada um pela sua visão, quando profetizarem; não mais se cobrirão (hipòcritamente) com o manto de pelos para mentirem,  
 **5** mas (cada um deles) dirá: Eu não sou profeta, sou um agricultor, emprego em que me ocupo desde a minha mocidade.  
 **6** Se alguém lhe disser: Que ferimentos São esses entres os teus braços? — responderá: Recebi estes ferimentos na casa dos meus amigos.  
 **7** Ó gládio, levanta-te contra o meu pastor, contra o homem da minha intimidade, diz o Senhor dos exércitos! Fere o pastor, e serão dispersas as ovelhas; voltarei a minha mão mesmo contra os pequeninos.  
@@ -236,7 +236,7 @@
 **4** Nesse dia os seus pés pausarão sobre o monte das Oliveiras, que está defronte de Jerusalém para o oriente, e o monte das Oliveiras dividir-se-á em dois pelo meio, ao oriente e ao ocidente, formando uma muito grande abertura: uma metade do monte se separará para o setentrião, e a outra metade para o meio-dia.  
 **5** Fugireis para o vale das minhas montanhas, porque o vale das montanhas chegará até Asai; fugireis como fugistes do terramoto nos dias de Ozias, rei de Judá. E virá o Senhor meu Deus, com todos os santos (para punir os inimigos do seu povo).  
 **6** E naquele dia não haverá luz, nem frio nem gelo.  
-**7** Será um dia contínuo, conhecido (somente) do Senhor, sem alternativas de dia e de noite: pela tarde não cessará a luz.  
+**7** Será um dia contínuo, conhecido (sòmente) do Senhor, sem alternativas de dia e de noite: pela tarde não cessará a luz.  
 **8** Nesse dia sairão de Jerusalém águas vivas, metade das quais correrá para o mar do oriente, e a outra metade para o mar do ocidente; correrão durante o estio e durante o inverno.  
 **9** E o Senhor será o rei de toda a terra; naquele dia, Iavé será o único e o seu nome será único.  
 **10** Toda a terra (de Judá) será transformada numa planície, desde Gabaa até Rimmon, ao meio-dia de Jerusalém. (Jerusalém) será exaltada e ocupará o seu lugar, desde a porta de Benjamim até ao sítio da antiga porta, até à porta do Ângulo, e desde a torre de Hananeel até aos lagares do rei.  
@@ -247,8 +247,8 @@
 **15** Os cavalos, os machos, os camelos, os asnos e todos os animais que se acharem naqueles arraiais, sofrerão a mesma ruína.  
 **16** Todos os que restarem de todas as nações que vierem contra Jerusalém, irão (a ela) todos os anos adorar o Rei, Senhor dos exércitos, e celebrar a festa dos tabernáculos.  
 **17** Qualquer das famílias da terra, que não for a Jerusalém adorar o Rei, Senhor dos exércitos, não receberá chuva.  
-**18** Se a família do Egito não subir nem vier, não cairá sobre ela (a chuva), mas será ferida da ruína, com que o Senhor atingirá todas as nações que não subirem a celebrar a festa dos tabernáculos.  
-**19** Este será o (castigo do) pecado do Egito, este o (castigo do) pecado de todas as nações que não subirem para celebrar a festa dos tabernáculos.  
+**18** Se a família do Egipto não subir nem vier, não cairá sobre ela (a chuva), mas será ferida da ruína, com que o Senhor atingirá todas as nações que não subirem a celebrar a festa dos tabernáculos.  
+**19** Este será o (castigo do) pecado do Egipto, este o (castigo do) pecado de todas as nações que não subirem para celebrar a festa dos tabernáculos.  
 **20** Naquele dia se verá (escrito) nas campainhas dos cavalos: Consagrado ao Senhor. As marmitas na casa do Senhor serão como vasos de aspersão diante do altar.  
 **21** Todas as caldeiras que houver em Jerusalém e em Judá serão consagradas ao Senhor dos exércitos; virão todos os sacrificadores e se servirão delas para nelas cozerem (as carnes consagradas); naquele dia não tornará mais a haver mercador na casa do Senhor dos exércitos.
 

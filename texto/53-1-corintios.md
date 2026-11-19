@@ -14,12 +14,12 @@
 **10** Ora, rogo-vos, Irmãos, pelo nome de Nosso Senhor Jesus Cristo, que digais todos o mesmo e que entre vós não haja discórdias, mas vivei em perfeita harmonia no mesmo espírito e no mesmo parecer.  
 **11** Porque a vosso respeito, Irmãos meus, me foi referido pelos (da casa) de Cloé, que há contendas entre vós.  
 **12** E digo isto, porque cada um de vós diz: "Eu sou de Paulo! Eu de Apolo! Eu de Cefas! Eu de Cristo."  
-**13** Está dividido Cristo? Porventura Paulo foi crucificado por vós? Ou fostes batizados em nome de Paulo?  
-**14** Dou graças a Deus, porque não batizei nenhum de vós, senão Crispo e Caio,  
-**15** para que ninguém diga que fostes batizados em meu nome.  
-**16** Batizei também a família de Estéfanas. De resto não sei se batizei mais alguém.  
-**17** Com efeito Cristo não me enviou a batizar, mas a pregar o Evangelho, não com a sabedoria das palavras, para que não se torne inútil a Cruz de Cristo.  
-**18** Efetivamente, a palavra da cruz é uma loucura para os que se perdem, mas, para os que se salvam, isto é, para nós, é a virtude de Deus.  
+**13** Está dividido Cristo? Porventura Paulo foi crucificado por vós? Ou fostes baptizados em nome de Paulo?  
+**14** Dou graças a Deus, porque não baptizei nenhum de vós, senão Crispo e Caio,  
+**15** para que ninguém diga que fostes baptizados em meu nome.  
+**16** Baptizei também a família de Estéfanas. De resto não sei se baptizei mais alguém.  
+**17** Com efeito Cristo não me enviou a baptizar, mas a pregar o Evangelho, não com a sabedoria das palavras, para que não se torne inútil a Cruz de Cristo.  
+**18** Efectivamente, a palavra da cruz é uma loucura para os que se perdem, mas, para os que se salvam, isto é, para nós, é a virtude de Deus.  
 **19** Porque está escrito: Destruirei a sabedoria dos sábios e reprovarei a prudência dos prudentes (Is. 29, 14).  
 **20** Onde está o sábio? Onde o homem instruído? Onde o disputador deste mundo? Porventura não convenceu Deus de loucura a sabedoria deste mundo?  
 **21** De facto, como ante a sabedoria de Deus o mundo não conheceu a Deus por meio da sabedoria, aprouve a Deus salvar os crentes por meio da loucura da pregação.  
@@ -63,8 +63,8 @@
 **6** Eu plantei. Apolo regou, mas Deus é que deu o crescimento.  
 **7** De modo que não é nada nem o que planta, nem o que rega, mas Deus, que dá o crescimento.  
 **8** Uma mesma coisa é o que planta e o que rega; cada um receberá a sua recompensa segundo o seu trabalho.  
-**9** Efetivamente, somos cooperadores de Deus. Vós sois cultura de Deus, sois edifício de Deus.  
-**10** Segundo a graça de Deus que me foi dada, lancei (entre vós) o fundamento (da fé), como sábio arquiteto, mas outro edifica sobre ele. Veja cada um como edifica sobre ele.  
+**9** Efectivamente, somos cooperadores de Deus. Vós sois cultura de Deus, sois edifício de Deus.  
+**10** Segundo a graça de Deus que me foi dada, lancei (entre vós) o fundamento (da fé), como sábio arquitecto, mas outro edifica sobre ele. Veja cada um como edifica sobre ele.  
 **11** Porque ninguém pode pôr outro fundamento, senão o que foi posto, isto é, Jesus Cristo.  
 **12** Se alguém edifica sobre este fundamento com ouro, prata, pedras preciosas, madeira, feno, palha,  
 **13** manifestada será a obra de cada um, pois o dia do Senhor a fará conhecer, visto que será revelado no fogo, e o fogo provará qual seja a obra de cada um.  
@@ -89,7 +89,7 @@
 **6** Ora, Irmãos, fiz aplicação destas coisas a mim e a Apolo, por causa de vós, para que aprendais em nós a não ir além do que está escrito, e não vos ensoberbeçais, tomando o partido de um contra o outro.  
 **7** Porque, quem é que te distingue (declarando-te superior aos outros)? Que tens tu, que não recebesses? E, se o recebeste, porque te glorias, como se o não tiveras recebido?  
 **8** Vós já estais saciados, já estais ricos, reinais sem nós; e queira Deus que reineis, para também reinarmos convosco.  
-**9** Em verdade, entendo que Deus nos expôs a nós, Apóstolos, como dos últimos (dos homens), como destinados à morte (pelo martírio), porque (nos anfiteatros) somos dados em espetáculo ao mundo, aos anjos e aos homens.  
+**9** Em verdade, entendo que Deus nos expôs a nós, Apóstolos, como dos últimos (dos homens), como destinados à morte (pelo martírio), porque (nos anfiteatros) somos dados em espectáculo ao mundo, aos anjos e aos homens.  
 **10** Nós somos néscios por Cristo, e vós sábios em Cristo; nós fracos, e vós fortes; vós nobres, e nós desprezíveis.  
 **11** Até esta hora, sofremos a fome e a sede, estamos nus, somos esbofeteados, não temos morada certa  
 **12** e cansamo-nos a trabalhar por nossas próprias mãos; amaldiçoam-nos, e bendizemos; perseguem-nos, e sofremos (com paciência);  
@@ -100,7 +100,7 @@
 **17** Por isso vos enviei Timóteo, que é meu filho caríssimo e fiel no Senhor, o qual vos lembrará os meus caminhos, que são em Jesus Cristo, como eu ensino por toda a parte em todas as igrejas.  
 **18** Alguns andam inchados (de orgulho) como se eu não estivesse para ir ter convosco.  
 **19** Mas brevemente irei ter convosco, se o Senhor quiser, e examinarei, não as palavras dos que andam inchados, mas o seu poder.  
-**20** Com efeito, o reino de Deus não consiste em palavras, mas em atos.  
+**20** Com efeito, o reino de Deus não consiste em palavras, mas em actos.  
 **21** Que quereis? Que eu vá ter convosco com vara, ou com amor e espírito de mansidão?  
 
 ## Capítulo 5
@@ -160,7 +160,7 @@
 **14** porque o marido não cristão é santificado pela mulher (cristã), e a mulher não cristã é santificada pelo marido cristão. Doutra sorte os vossos filhos seriam impuros, enquanto que agora são santos.  
 **15** Porém, se a parte não cristã se separa, separe-se. Neste caso, já o irmão ou irmã não estão mais ligados: Deus vos chamou à paz.  
 **16** Porque, sabes tu, ó mulher, se salvarás (ou converterás) teu marido (infiel)? Ou sabes tu, ó marido, se salvarás tua mulher?  
-**17** Somente cada um proceda conforme o Senhor lhe deu, e cada um conforme Deus o chamou (à fé): é assim que eu ordeno em todas as igrejas.  
+**17** Sòmente cada um proceda conforme o Senhor lhe deu, e cada um conforme Deus o chamou (à fé): é assim que eu ordeno em todas as igrejas.  
 **18** É chamado algum, sendo circuncidado? Não procure parecer incircuncidado. É chamado algum incircuncidado? Não se circuncide.  
 **19** A circuncisão nada vale, e a incircuncisão nada vale, mas a observância dos mandamentos de Deus é que vale.  
 **20** Cada um permaneça no estado em que se encontrava quando foi chamado.  
@@ -234,7 +234,7 @@
 ## Capítulo 10
 
 **1** Não quero, pois, Irmãos, que ignoreis que nossos pais estiveram todos debaixo da nuvem, que todos passaram o mar,  
-**2** todos foram batizados em Moisés, na nuvem e no mar,  
+**2** todos foram baptizados em Moisés, na nuvem e no mar,  
 **3** todos comeram do mesmo alimento espiritual,  
 **4** e todos beberam da mesma bebida espiritual (pois bebiam da pedra espiritual que os seguia, pedra que era Cristo).  
 **5** Mas de muitos deles Deus não se agradou, pelo que foram prostrados no deserto.  
@@ -318,11 +318,11 @@
 **10** a outro, o dom de operar milagres; a outro, a profecia; a outro, o discernimento dos espíritos; a outro, a variedade de línguas; a outro, a interpretação das línguas.  
 **11** Mas todas estas coisas as opera um só e o mesmo Espírito, repartindo a cada um como quer.  
 **12** Do mesmo modo que o corpo é um e tem muitos membros, mas todos os membros do corpo, embora sejam muitos, são contudo um só corpo, assim é também Cristo.  
-**13** Com efeito, num mesmo Espírito fomos batizados todos nós, para sermos um só corpo, quer sejamos Judeus ou Gregos, servos ou livres, e todos temos bebido de um só Espírito.  
-**14** Efetivamente, também o corpo não é um membro, mas muitos.  
+**13** Com efeito, num mesmo Espírito fomos baptizados todos nós, para sermos um só corpo, quer sejamos Judeus ou Gregos, servos ou livres, e todos temos bebido de um só Espírito.  
+**14** Efectivamente, também o corpo não é um membro, mas muitos.  
 **15** Se o pé disser: "Porque não sou mão, não sou do corpo" — acaso deixa ele, por isso, de ser do corpo?  
 **16** E se a orelha disser: "Visto que não sou olho, não sou do corpo" — porventura deixa ela, por isso, de ser do corpo?  
-**17** Se o corpo fosse todo olhos, onde estaria o ouvido? Se fosse todo ouvido, onde estaria o olfato?  
+**17** Se o corpo fosse todo olhos, onde estaria o ouvido? Se fosse todo ouvido, onde estaria o olfacto?  
 **18** Deus, porém, pôs os membros no corpo, cada um deles como quis.  
 **19** Se todos os membros fossem um só membro, onde (estaria) o corpo?  
 **20** Mas a verdade é que são muitos os membros, e um só o corpo.  
@@ -371,8 +371,8 @@
 **13** Por isso, o que fala uma língua desconhecida, peça o dom de a interpretar.  
 **14** Se eu orar numa língua (desconhecida, verdade é que) o meu espírito ora, mas o meu entendimento fica sem fruto.  
 **15** Que hei-de, pois, fazer? Orarei com o espírito, orarei também com a inteligência. Cantarei com o espírito, cantarei também com a inteligência.  
-**16** Mas, se deres graças com o espírito, o que ocupa o lugar do simples povo como responderá Amen à tua ação de graças, não entendendo o que dizes?  
-**17** Verdade é que tu dás bem a ação de graças, mas o outro não é edificado.  
+**16** Mas, se deres graças com o espírito, o que ocupa o lugar do simples povo como responderá Amen à tua acção de graças, não entendendo o que dizes?  
+**17** Verdade é que tu dás bem a acção de graças, mas o outro não é edificado.  
 **18** Dou graças ao meu Deus, porque falo em línguas mais que todos vós.  
 **19** Mas na Igreja eu antes quero dizer cinco palavras, de modo a ser compreendido para instruir também os outros, do que dez mil palavras em línguas.  
 **20** Irmãos, não sejais crianças no julgar. Em malícia sede pequeninos, mas no julgar sede homens maduros.  
@@ -400,14 +400,14 @@
 ## Capítulo 15
 
 **1** Declaro-vos, Irmãos, o Evangelho que vos preguei, o qual recebestes, no qual perseverais,  
-**2** pelo qual sereis também salvos, se o conservais como vo-lo preguei, exceto se tiverdes crido em vão.  
+**2** pelo qual sereis também salvos, se o conservais como vo-lo preguei, excepto se tiverdes crido em vão.  
 **3** Porque, antes de tudo, ensinei-vos o que eu mesmo aprendi: que Cristo morreu por nossos pecados, segundo as Escrituras,  
 **4** que foi sepultado e ressuscitou ao terceiro dia, segundo as mesmas Escrituras;  
 **5** que foi visto por Cefas e depois pelos onze;  
 **6** que, a seguir, foi visto por mais de quinhentos irmãos, por uma só vez, dos quais ainda hoje vive a maior parte, e alguns já morreram;  
 **7** que, depois, foi visto por Tiago e, em seguida, por todos os Apóstolos;  
 **8** que, por último, depois de todos, foi também visto por mim, como por um aborto.  
-**9** Efetivamente, sou o mínimo dos Apóstolos, que não sou digno de ser chamado Apóstolo, porque persegui a Igreja de Deus.  
+**9** Efectivamente, sou o mínimo dos Apóstolos, que não sou digno de ser chamado Apóstolo, porque persegui a Igreja de Deus.  
 **10** Mas, pela graça de Deus, sou o que sou, e a sua graça, que está em mim, não foi vã, antes tenho trabalhado mais que todos eles; não eu, porém, mas a graça de Deus, que está comigo.  
 **11** Portanto, seja eu, ou sejam eles, assim pregamos, e assim crestes.  
 **12** Ora, se se prega que Cristo ressuscitou dos mortos, como dizem alguns, entre vós, que não há ressurreição dos mortos?  
@@ -417,7 +417,7 @@
 **16** Verdadeiramente, se os mortos não ressuscitam, também Cristo não ressuscitou.  
 **17** E, se Cristo não ressuscitou, é vã a vossa fé, porque ainda permaneceis nos vossos pecados.  
 **18** Também, por conseguinte, os que adormeceram em Cristo, pereceram.  
-**19** Se somente nesta vida esperamos em Cristo, somos os mais miseráveis de todos os homens.  
+**19** Se sòmente nesta vida esperamos em Cristo, somos os mais miseráveis de todos os homens.  
 **20** Mas Cristo ressuscitou dos mortos, sendo ele as primícias dos que dormem,  
 **21** porque, assim como a morte veio por um homem, também por um homem vem a ressurreição dos mortos.  
 **22** Assim como todos morrem em Adão, assim também todos serão vivificados em Cristo.  
@@ -425,9 +425,9 @@
 **24** Depois será o fim, quando (Cristo) tiver entregado o reino a Deus Pai, quando tiver destruído todo o principado, dominação e poder.  
 **25** Porque é necessário que ele reine, até que ponha todos os inimigos debaixo de seus pés (Ps. 109, 1).  
 **26** Ora o último inimigo a ser destruído será a morte: porque (Deus) todas as coisas sujeitou debaixo dos pés dele. Mas quando se diz:  
-**27** Tudo está submetido, — excetua-se sem dúvida aquele que lhe submeteu todas as coisas.  
+**27** Tudo está submetido, — exceptua-se sem dúvida aquele que lhe submeteu todas as coisas.  
 **28** E, quando tudo lhe estiver sujeito, então ainda o mesmo Filho estará sujeito aquele que sujeitou a ele todas as coisas, a fim de que Deus seja tudo em todas as coisas.  
-**29** Doutra sorte, que farão os que se batizam pelos mortos, se absolutamente os mortos não ressuscitam? Por que se batizam por eles?  
+**29** Doutra sorte, que farão os que se baptizam pelos mortos, se absolutamente os mortos não ressuscitam? Por que se baptizam por eles?  
 **30** Por que nos expomos também nós a perigos, a toda a hora?  
 **31** Todos os dias, Irmãos, morro (juro-o) pela glória que tenho de vós em Jesus Cristo Nosso Senhor.  
 **32** Se foi com vistas humanas que batalhei com as feras em Éfeso, que me aproveita isso? Se os mortos não ressuscitam, "comamos e bebamos, porque amanhã morreremos" (Is. 22, 13).  
@@ -460,15 +460,15 @@
 
 ## Capítulo 16
 
-**1** Quanto, porém, à coleta que se faz em beneficio dos santos, fazei também vós o mesmo que eu ordenei às igrejas da Galácia.  
-**2** No primeiro dia da semana, cada um de vós ponha de parte o que tiver podido poupar, para que se não faça a coleta na própria ocasião em que eu chegar.  
+**1** Quanto, porém, à colecta que se faz em beneficio dos santos, fazei também vós o mesmo que eu ordenei às igrejas da Galácia.  
+**2** No primeiro dia da semana, cada um de vós ponha de parte o que tiver podido poupar, para que se não faça a colecta na própria ocasião em que eu chegar.  
 **3** Quando eu estiver presente, mandarei com cartas os que vós tíverdes escolhido para levar a Jerusalém a vossa liberalidade.  
 **4** E, se a coisa merecer que eu vá também, irão comigo.  
 **5** Ora irei ter convosco, quando tiver passado pela Macedónia, porque tenho de atravessar a Macedónia.  
 **6** Talvez ficarei convosco e passarei também o inverno, para que me acompanheis aonde eu tiver de ir.  
 **7** Não quero agora ver-vos só de passagem, mas espero demorar-me algum tempo convosco, se o Senhor o permitir.  
 **8** Todavia ficarei em Éfeso até ao Pentecostes.  
-**9** Em verdade, se me abriu uma porta grande à minha atividade, e os adversários são muitos.  
+**9** Em verdade, se me abriu uma porta grande à minha actividade, e os adversários são muitos.  
 **10** Se Timóteo for ter convosco, procurai que esteja sem temor entre vós, porque trabalha na obra do Senhor, como eu próprio.  
 **11** Portanto, nenhum o despreze, mas acompanhai-o em paz, para que venha ter comigo, porque o espero com os irmãos.  
 **12** Quanto ao irmão Apolo, faço-vos saber que lhe roguei muito que fosse ter convosco com os irmãos, mas não quis absolutamente ir agora; irá, porém, quando tiver oportunidade.  

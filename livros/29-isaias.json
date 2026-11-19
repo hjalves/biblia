@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -79,7 +79,7 @@
     },
     {
      "n": 16,
-     "texto": "Lavai-vos, purificai-vos, tirai de diante dos meus olhos a malícia das vossas ações; cessai de fazer o mal,"
+     "texto": "Lavai-vos, purificai-vos, tirai de diante dos meus olhos a malícia das vossas acções; cessai de fazer o mal,"
     },
     {
      "n": 17,
@@ -99,7 +99,7 @@
     },
     {
      "n": 21,
-     "texto": "Como se tornou uma prostituta a cidade fiel, cheia de retidão? Outrora habitou nela a justiça, mas agora habitam os homicidas."
+     "texto": "Como se tornou uma prostituta a cidade fiel, cheia de rectidão? Outrora habitou nela a justiça, mas agora habitam os homicidas."
     },
     {
      "n": 22,
@@ -123,7 +123,7 @@
     },
     {
      "n": 27,
-     "texto": "Sião será resgatada pela retidão, e os seus convertidos pela justiça."
+     "texto": "Sião será resgatada pela rectidão, e os seus convertidos pela justiça."
     },
     {
      "n": 28,
@@ -273,7 +273,7 @@
     },
     {
      "n": 9,
-     "texto": "O próprio aspeto do seu semblante depõe contra eles, pois fizeram, como os de Sodoma, pública ostentação do seu pecado, em vez de-o encobrirem. Desgraçados deles, que são os causadores da própria ruína!"
+     "texto": "O próprio aspecto do seu semblante depõe contra eles, pois fizeram, como os de Sodoma, pública ostentação do seu pecado, em vez de-o encobrirem. Desgraçados deles, que são os causadores da própria ruína!"
     },
     {
      "n": 10,
@@ -281,7 +281,7 @@
     },
     {
      "n": 11,
-     "texto": "Ai do ímpio maléfico! A desgraça será sobre ele, segundo merecem as suas ações."
+     "texto": "Ai do ímpio maléfico! A desgraça será sobre ele, segundo merecem as suas acções."
     },
     {
      "n": 12,
@@ -403,7 +403,7 @@
     },
     {
      "n": 7,
-     "texto": "A vinha do Senhor dos exércitos é a casa de Israel, e os homens de Judá a planta, na qual ele tinha as suas delícias. Esperava que praticassem a retidão e eis que só há sangue derramado; que praticassem a justiça, e eis que somente se ouvem clamor (dos oprimidos)."
+     "texto": "A vinha do Senhor dos exércitos é a casa de Israel, e os homens de Judá a planta, na qual ele tinha as suas delícias. Esperava que praticassem a rectidão e eis que só há sangue derramado; que praticassem a justiça, e eis que sòmente se ouvem clamor (dos oprimidos)."
     },
     {
      "n": 8,
@@ -439,7 +439,7 @@
     },
     {
      "n": 16,
-     "texto": "E o Senhor dos exércitos será exaltado (pela retidão) no juízo, e o santo Deus surgirá como tal pela (administração da sua) justiça."
+     "texto": "E o Senhor dos exércitos será exaltado (pela rectidão) no juízo, e o santo Deus surgirá como tal pela (administração da sua) justiça."
     },
     {
      "n": 17,
@@ -633,7 +633,7 @@
     },
     {
      "n": 19,
-     "texto": "Acontecerá, naqueles dias, que o Senhor assobiará à mosca que está no extremo dos rios do Egito, e à abelha que está na terra da Assíria."
+     "texto": "Acontecerá, naqueles dias, que o Senhor assobiará à mosca que está no extremo dos rios do Egipto, e à abelha que está na terra da Assíria."
     },
     {
      "n": 20,
@@ -771,7 +771,7 @@
     },
     {
      "n": 4,
-     "texto": "Tu quebraste o pesado jugo que oprimia, a vara que lhe rasgava as espáduas, o bastão do seu exator, como o fizeste na jornada de Madian."
+     "texto": "Tu quebraste o pesado jugo que oprimia, a vara que lhe rasgava as espáduas, o bastão do seu exactor, como o fizeste na jornada de Madian."
     },
     {
      "n": 5,
@@ -872,7 +872,7 @@
     },
     {
      "n": 7,
-     "texto": "Mas ele não o julga desta maneira, nem o seu coração o pensa assim; somente deseja destruir, exterminar numerosas nações."
+     "texto": "Mas ele não o julga desta maneira, nem o seu coração o pensa assim; sòmente deseja destruir, exterminar numerosas nações."
     },
     {
      "n": 8,
@@ -940,7 +940,7 @@
     },
     {
      "n": 24,
-     "texto": "Portanto isto diz o Senhor Deus dos exércitos: Povo meu, que habitas em Sião, não temas Assur quando ele te ferir com a sua vara, quando levantar o seu bastão para o descarregar sobre ti, como (outrora) o Egito."
+     "texto": "Portanto isto diz o Senhor Deus dos exércitos: Povo meu, que habitas em Sião, não temas Assur quando ele te ferir com a sua vara, quando levantar o seu bastão para o descarregar sobre ti, como (outrora) o Egipto."
     },
     {
      "n": 25,
@@ -948,7 +948,7 @@
     },
     {
      "n": 26,
-     "texto": "O Senhor dos exércitos levantará o flagelo contra ele, como quando feriu Madian, no penhasco de Oreb, e como quando levantou a sua vara sobre o mar (vermelho); levanta-la-á (de novo) como no Egito."
+     "texto": "O Senhor dos exércitos levantará o flagelo contra ele, como quando feriu Madian, no penhasco de Oreb, e como quando levantou a sua vara sobre o mar (vermelho); levanta-la-á (de novo) como no Egipto."
     },
     {
      "n": 27,
@@ -997,7 +997,7 @@
     },
     {
      "n": 3,
-     "texto": "E ele respirará o temor do Senhor. Não julgará pelo que se manifesta exteriormente à vista, nem decidirá somente pelo que ouve dizer."
+     "texto": "E ele respirará o temor do Senhor. Não julgará pelo que se manifesta exteriormente à vista, nem decidirá sòmente pelo que ouve dizer."
     },
     {
      "n": 4,
@@ -1029,7 +1029,7 @@
     },
     {
      "n": 11,
-     "texto": "Acontecerá isto naquele dia: Estenderá segunda vez o Senhor a sua mão para resgatar o resto do seu povo, que tiver escapado (ao furor) dos Assírios, do Egito, de Patros, da Etiópia, de Elão, de Senaar, de Hamat e das ilhas do mar."
+     "texto": "Acontecerá isto naquele dia: Estenderá segunda vez o Senhor a sua mão para resgatar o resto do seu povo, que tiver escapado (ao furor) dos Assírios, do Egipto, de Patros, da Etiópia, de Elão, de Senaar, de Hamat e das ilhas do mar."
     },
     {
      "n": 12,
@@ -1041,15 +1041,15 @@
     },
     {
      "n": 14,
-     "texto": "Voarão (juntos), pelo ocidente, sobre os ombros dos Filisteus, e saquearão os filhos do Oriente; a Idumeia e Moab serão rapidamente presa das suas mãos, e os filhos de Amon lhes prestarão obediência."
+     "texto": "Voarão (juntos), pelo ocidente, sobre os ombros dos Filisteus, e saquearão os filhos do Oriente; a Idumeia e Moab serão ràpidamente presa das suas mãos, e os filhos de Amon lhes prestarão obediência."
     },
     {
      "n": 15,
-     "texto": "O Senhor secará a língua do mar do Egito, levantará a sua mão sobre o rio, na fortaleza do seu sopro, feri-lo-á (dividindo-o) em sete canais, de sorte que por ele se possa passar com calçado."
+     "texto": "O Senhor secará a língua do mar do Egipto, levantará a sua mão sobre o rio, na fortaleza do seu sopro, feri-lo-á (dividindo-o) em sete canais, de sorte que por ele se possa passar com calçado."
     },
     {
      "n": 16,
-     "texto": "(Assim) haverá um caminho para o resto do meu povo, que escapar dos Assírios, como o houve para Israel naquele dia em que saiu da terra do Egito."
+     "texto": "(Assim) haverá um caminho para o resto do meu povo, que escapar dos Assírios, como o houve para Israel naquele dia em que saiu da terra do Egipto."
     }
    ]
   },
@@ -1091,7 +1091,7 @@
     },
     {
      "n": 3,
-     "texto": "Eu dei ordens aos que consagrei (para esta obra), chamei os meus dos seus valentes para (pôr em ação) a minha ira, eles que exultam com a minha glória."
+     "texto": "Eu dei ordens aos que consagrei (para esta obra), chamei os meus dos seus valentes para (pôr em acção) a minha ira, eles que exultam com a minha glória."
     },
     {
      "n": 4,
@@ -1180,7 +1180,7 @@
     },
     {
      "n": 2,
-     "texto": "Tomá-los-ão (amigavelmente) os povos, e conduzi-los-ão ao seu país. Possuí-los-á a casa de Israel na terra do Senhor como servos e como servas. Farão cativos aqueles que os tinham cativado, e sujeitarão os seus opressores."
+     "texto": "Tomá-los-ão (amigàvelmente) os povos, e conduzi-los-ão ao seu país. Possuí-los-á a casa de Israel na terra do Senhor como servos e como servas. Farão cativos aqueles que os tinham cativado, e sujeitarão os seus opressores."
     },
     {
      "n": 3,
@@ -1317,7 +1317,7 @@
     },
     {
      "n": 3,
-     "texto": "Andam pelas suas ruas vestidos de saco; sobre os seus telhados e nas suas praças, somente se ouvem lamentos acompanhados de lágrimas."
+     "texto": "Andam pelas suas ruas vestidos de saco; sobre os seus telhados e nas suas praças, sòmente se ouvem lamentos acompanhados de lágrimas."
     },
     {
      "n": 4,
@@ -1431,7 +1431,7 @@
     },
     {
      "n": 6,
-     "texto": "Restará um rabisco, como quando se vareja uma oliveira, da qual somente ficam, nas pontas altas, duas ou três azeitonas, ou quatro ou cinco nos ramos frutíferos, diz o Senhor Deus de Israel."
+     "texto": "Restará um rabisco, como quando se vareja uma oliveira, da qual sòmente ficam, nas pontas altas, duas ou três azeitonas, ou quatro ou cinco nos ramos frutíferos, diz o Senhor Deus de Israel."
     },
     {
      "n": 7,
@@ -1505,7 +1505,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Oráculo sobre o Egito. Eis que o Senhor, levado sobre uma nuvem veloz, entra no Egito: os ídolos do Egito comovem-se diante da sua face, o coração do Egito mirra-se em seu peito."
+     "texto": "Oráculo sobre o Egipto. Eis que o Senhor, levado sobre uma nuvem veloz, entra no Egipto: os ídolos do Egipto comovem-se diante da sua face, o coração do Egipto mirra-se em seu peito."
     },
     {
      "n": 2,
@@ -1513,11 +1513,11 @@
     },
     {
      "n": 3,
-     "texto": "O espírito do Egito dissipar-se-á dentro dele, e eu aniquilarei o seu conselho: eles consultarão os seus ídolos e os seus feiticeiros, os seus evocadores dos mortos e os seus adivinhos."
+     "texto": "O espírito do Egipto dissipar-se-á dentro dele, e eu aniquilarei o seu conselho: eles consultarão os seus ídolos e os seus feiticeiros, os seus evocadores dos mortos e os seus adivinhos."
     },
     {
      "n": 4,
-     "texto": "Entregarei o Egito na mão dum senhor cruel, e um rei temível os dominará, diz o Senhor Deus dos exércitos."
+     "texto": "Entregarei o Egipto na mão dum senhor cruel, e um rei temível os dominará, diz o Senhor Deus dos exércitos."
     },
     {
      "n": 5,
@@ -1525,7 +1525,7 @@
     },
     {
      "n": 6,
-     "texto": "As ribeiras se esgotarão, os canais do Egito diminuirão e secarão. As canas e os juncos murcharão."
+     "texto": "As ribeiras se esgotarão, os canais do Egipto diminuirão e secarão. As canas e os juncos murcharão."
     },
     {
      "n": 7,
@@ -1549,19 +1549,19 @@
     },
     {
      "n": 12,
-     "texto": "— Onde estão agora os teus sábios? Eles te anunciem e apontem o que o Senhor dos exércitos tem resolvido sobre o Egito."
+     "texto": "— Onde estão agora os teus sábios? Eles te anunciem e apontem o que o Senhor dos exércitos tem resolvido sobre o Egipto."
     },
     {
      "n": 13,
-     "texto": "Loucos se tornaram os príncipes de Tanis, estão iludidos os príncipes de Mênfis; os chefes das tribos desencaminham o Egito."
+     "texto": "Loucos se tornaram os príncipes de Tanis, estão iludidos os príncipes de Mênfis; os chefes das tribos desencaminham o Egipto."
     },
     {
      "n": 14,
-     "texto": "O Senhor difundiu no meio dele um espírito de vertigem; eles fizeram errar o Egito em todas as suas obras, como erra o homem embriagado e que vomita,"
+     "texto": "O Senhor difundiu no meio dele um espírito de vertigem; eles fizeram errar o Egipto em todas as suas obras, como erra o homem embriagado e que vomita,"
     },
     {
      "n": 15,
-     "texto": "O Egito está incapaz de conduzir a bom termo o que devem fazer a cabeça e a cauda, a palma e o junco."
+     "texto": "O Egipto está incapaz de conduzir a bom termo o que devem fazer a cabeça e a cauda, a palma e o junco."
     },
     {
      "n": 16,
@@ -1569,39 +1569,39 @@
     },
     {
      "n": 17,
-     "texto": "E tornar-se-á o terror do Egito a terra de Judá; todo o que se lembrar dela, encher-se-á de pavor, à vista dos desígnios do Senhor dos exércitos, formados contra o Egito."
+     "texto": "E tornar-se-á o terror do Egipto a terra de Judá; todo o que se lembrar dela, encher-se-á de pavor, à vista dos desígnios do Senhor dos exércitos, formados contra o Egipto."
     },
     {
      "n": 18,
-     "texto": "Naquele dia haverá cinco cidades na terra do Egito, que falarão a língua de Canaan e que jurarão pelo Senhor dos exércitos: Uma delas será chamada a Cidade do Sol."
+     "texto": "Naquele dia haverá cinco cidades na terra do Egipto, que falarão a língua de Canaan e que jurarão pelo Senhor dos exércitos: Uma delas será chamada a Cidade do Sol."
     },
     {
      "n": 19,
-     "texto": "Naquele dia haverá um altar do Senhor no meio da terra do Egito, e um monumento ao Senhor junto da sua fronteira."
+     "texto": "Naquele dia haverá um altar do Senhor no meio da terra do Egipto, e um monumento ao Senhor junto da sua fronteira."
     },
     {
      "n": 20,
-     "texto": "Isto servirá de sinal e de testemunho ao Senhor dos exércitos na terra do Egito; quando clamarem ao Senhor, à vista daqueles que os atribulam, ele lhes enviará um salvador e um defensor que os livre."
+     "texto": "Isto servirá de sinal e de testemunho ao Senhor dos exércitos na terra do Egipto; quando clamarem ao Senhor, à vista daqueles que os atribulam, ele lhes enviará um salvador e um defensor que os livre."
     },
     {
      "n": 21,
-     "texto": "O Senhor será conhecido pelo Egito, e os Egípcios conhecerão o Senhor naquele dia, honrá-lo-ão com hóstias e ofertas, farão ao Senhor votos e cumpri-los-ão."
+     "texto": "O Senhor será conhecido pelo Egipto, e os Egípcios conhecerão o Senhor naquele dia, honrá-lo-ão com hóstias e ofertas, farão ao Senhor votos e cumpri-los-ão."
     },
     {
      "n": 22,
-     "texto": "O Senhor ferirá o Egito com uma chaga e curá-la-á, e eles voltar-se-ão para o Senhor, que se lhes mostrará aplacado e os sarará."
+     "texto": "O Senhor ferirá o Egipto com uma chaga e curá-la-á, e eles voltar-se-ão para o Senhor, que se lhes mostrará aplacado e os sarará."
     },
     {
      "n": 23,
-     "texto": "Naquele dia haverá um caminho do Egito para a Assíria: os Assírios entrarão no Egito, e os Egípcios na Assíria, e os Egípcios com os Assírios servirão (o Senhor)."
+     "texto": "Naquele dia haverá um caminho do Egipto para a Assíria: os Assírios entrarão no Egipto, e os Egípcios na Assíria, e os Egípcios com os Assírios servirão (o Senhor)."
     },
     {
      "n": 24,
-     "texto": "Naquele dia Israel unir-se-á, como terceiro, ao Egito e à Assíria, para ser uma bênção no meio da terra."
+     "texto": "Naquele dia Israel unir-se-á, como terceiro, ao Egipto e à Assíria, para ser uma bênção no meio da terra."
     },
     {
      "n": 25,
-     "texto": "O Senhor dos exércitos abençoá-los-á, dizendo: Bem-aventurados sejam o meu povo do Egito, o Assírio, obra de minhas mãos, e Israel, minha herança!"
+     "texto": "O Senhor dos exércitos abençoá-los-á, dizendo: Bem-aventurados sejam o meu povo do Egipto, o Assírio, obra de minhas mãos, e Israel, minha herança!"
     }
    ]
   },
@@ -1618,15 +1618,15 @@
     },
     {
      "n": 3,
-     "texto": "E o Senhor disse: Assim como o meu servo Isaías andou três anos nu e descalço, para ser um sinal e um prognóstico para o Egito e a Etiópia,"
+     "texto": "E o Senhor disse: Assim como o meu servo Isaías andou três anos nu e descalço, para ser um sinal e um prognóstico para o Egipto e a Etiópia,"
     },
     {
      "n": 4,
-     "texto": "assim o rei dos Assírios levará os cativos do Egito e os deportados da Etiópia, moços e velhos, nus e descalços, com os dorsos descobertos, para ignomínia do Egito."
+     "texto": "assim o rei dos Assírios levará os cativos do Egipto e os deportados da Etiópia, moços e velhos, nus e descalços, com os dorsos descobertos, para ignomínia do Egipto."
     },
     {
      "n": 5,
-     "texto": "Então temerão e se envergonharão os que tinham posto a sua esperança na Etiópia, e a sua glória no Egito."
+     "texto": "Então temerão e se envergonharão os que tinham posto a sua esperança na Etiópia, e a sua glória no Egipto."
     },
     {
      "n": 6,
@@ -1833,7 +1833,7 @@
     },
     {
      "n": 5,
-     "texto": "Quando se ouvir esta notícia do Egito, tremerão (os homens), ao ter conhecimento (da ruína) de Tiro."
+     "texto": "Quando se ouvir esta notícia do Egipto, tremerão (os homens), ao ter conhecimento (da ruína) de Tiro."
     },
     {
      "n": 6,
@@ -2080,11 +2080,11 @@
     },
     {
      "n": 10,
-     "texto": "Se se faz mercê ao ímpio, ele não aprende a justiça; na terra da retidão, pratica a iniquidade, e (por isso) não vê a glória do Senhor."
+     "texto": "Se se faz mercê ao ímpio, ele não aprende a justiça; na terra da rectidão, pratica a iniquidade, e (por isso) não vê a glória do Senhor."
     },
     {
      "n": 11,
-     "texto": "Senhor, a tua mão está levantada, mas eles não a veem. Vejam o teu zelo pelo teu povo e sejam confundidos; que o fogo devore os teus inimigos."
+     "texto": "Senhor, a tua mão está levantada, mas eles não a vêem. Vejam o teu zelo pelo teu povo e sejam confundidos; que o fogo devore os teus inimigos."
     },
     {
      "n": 12,
@@ -2092,7 +2092,7 @@
     },
     {
      "n": 13,
-     "texto": "Senhor, Deus nosso, outros amos diferentes de ti nos dominaram, mas, por tua graça, recordar-nos-emos somente do teu nome."
+     "texto": "Senhor, Deus nosso, outros amos diferentes de ti nos dominaram, mas, por tua graça, recordar-nos-emos sòmente do teu nome."
     },
     {
      "n": 14,
@@ -2145,7 +2145,7 @@
     },
     {
      "n": 4,
-     "texto": "Não tenho indignação (contra ela). Quem me dará silvas e espinhos para combater? Marcharei contra eles, queimá-los-ei todos juntos, a não ser que se ponham debaixo da minha proteção, que façam a paz comigo, que façam comigo a paz."
+     "texto": "Não tenho indignação (contra ela). Quem me dará silvas e espinhos para combater? Marcharei contra eles, queimá-los-ei todos juntos, a não ser que se ponham debaixo da minha protecção, que façam a paz comigo, que façam comigo a paz."
     },
     {
      "n": 5,
@@ -2173,11 +2173,11 @@
     },
     {
      "n": 11,
-     "texto": "E acontecerá que naquele dia o Senhor sacudirá o trigo desde o leito do rio (Eufrates) até à torrente do Egito; e vós, filhos de Israel, sereis congregados, um a um."
+     "texto": "E acontecerá que naquele dia o Senhor sacudirá o trigo desde o leito do rio (Eufrates) até à torrente do Egipto; e vós, filhos de Israel, sereis congregados, um a um."
     },
     {
      "n": 12,
-     "texto": "Também acontecerá que naquele dia soará uma grande trombeta e virão os que tinham ficado perdidos na terra dos Assírios, e os que se achavam desterrados na terra do Egito, e adorarão o Senhor no monte santo, em Jerusalém."
+     "texto": "Também acontecerá que naquele dia soará uma grande trombeta e virão os que tinham ficado perdidos na terra dos Assírios, e os que se achavam desterrados na terra do Egipto, e adorarão o Senhor no monte santo, em Jerusalém."
     }
    ]
   },
@@ -2282,7 +2282,7 @@
     },
     {
      "n": 25,
-     "texto": "Porventura, depois de ter aplanado a superfície dela, não semeará a nigela, não espalhará os cominhos, não lançará o trigo, em filas, a cevada e a espelta nos seus respetivos lugares?"
+     "texto": "Porventura, depois de ter aplanado a superfície dela, não semeará a nigela, não espalhará os cominhos, não lançará o trigo, em filas, a cevada e a espelta nos seus respectivos lugares?"
     },
     {
      "n": 26,
@@ -2294,7 +2294,7 @@
     },
     {
      "n": 28,
-     "texto": "Calca-se o trigo (na debulha) mas não se bate interminavelmente; passa-se sobre ele a roda do carro com os cavalos, mas não se esmaga."
+     "texto": "Calca-se o trigo (na debulha) mas não se bate interminàvelmente; passa-se sobre ele a roda do carro com os cavalos, mas não se esmaga."
     },
     {
      "n": 29,
@@ -2319,7 +2319,7 @@
     },
     {
      "n": 4,
-     "texto": "Serás humilhada; falarás da terra (em que estarás abatida), e do chão será ouvida a tua voz abafada; será como dum espetro a tua voz saindo da terra, e do pó murmurarás as tuas palavras."
+     "texto": "Serás humilhada; falarás da terra (em que estarás abatida), e do chão será ouvida a tua voz abafada; será como dum espectro a tua voz saindo da terra, e do pó murmurarás as tuas palavras."
     },
     {
      "n": 5,
@@ -2331,7 +2331,7 @@
     },
     {
      "n": 7,
-     "texto": "Como se dissipa um sonho, uma visão noturna, assim se dissipará a multidão de todas as nações que tomam armas contra Ariel, que a combatem, que a sitiam apertadamente."
+     "texto": "Como se dissipa um sonho, uma visão nocturna, assim se dissipará a multidão de todas as nações que tomam armas contra Ariel, que a combatem, que a sitiam apertadamente."
     },
     {
      "n": 8,
@@ -2408,15 +2408,15 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Ai de vós, filhos rebeldes, diz o Senhor, que formais projetos sem contar comigo, que estabeleceis alianças sem o meu espírito, acumulando assim pecados sobre pecados;"
+     "texto": "Ai de vós, filhos rebeldes, diz o Senhor, que formais projectos sem contar comigo, que estabeleceis alianças sem o meu espírito, acumulando assim pecados sobre pecados;"
     },
     {
      "n": 2,
-     "texto": "que estais postos a caminho para descer ao Egito, e não consultastes a minha vontade, esperando encontrar refúgio na proteção de Faraó, abrigo na sombra (ou proteção) do Egito!"
+     "texto": "que estais postos a caminho para descer ao Egipto, e não consultastes a minha vontade, esperando encontrar refúgio na protecção de Faraó, abrigo na sombra (ou protecção) do Egipto!"
     },
     {
      "n": 3,
-     "texto": "Porém a proteção de Faraó será a vossa vergonha, e o refúgio na sombra do Egito a vossa ignomínia."
+     "texto": "Porém a protecção de Faraó será a vossa vergonha, e o refúgio na sombra do Egipto a vossa ignomínia."
     },
     {
      "n": 4,
@@ -2432,7 +2432,7 @@
     },
     {
      "n": 7,
-     "texto": "Porque o Egito debalde e em vão dará socorro; por isso lhe dei o nome de Rahab inerte."
+     "texto": "Porque o Egipto debalde e em vão dará socorro; por isso lhe dei o nome de Rahab inerte."
     },
     {
      "n": 8,
@@ -2545,7 +2545,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Ai dos que descem ao Egito a buscar socorro, esperando nos (seus) cavalos, tendo confiança nos seus carros, porque são muitos, e nos cavaleiros, porque são valentes, em vez de lançarem os olhos para o Santo de Israel e buscarem o Senhor!"
+     "texto": "Ai dos que descem ao Egipto a buscar socorro, esperando nos (seus) cavalos, tendo confiança nos seus carros, porque são muitos, e nos cavaleiros, porque são valentes, em vez de lançarem os olhos para o Santo de Israel e buscarem o Senhor!"
     },
     {
      "n": 2,
@@ -2553,7 +2553,7 @@
     },
     {
      "n": 3,
-     "texto": "O Egito é um homem, e não um Deus; os seus cavalos são carne, e não espírito. Quando o Senhor estender a sua mão, cambaleará o auxiliador, cairá o auxiliado, e todos juntamente perecerão."
+     "texto": "O Egipto é um homem, e não um Deus; os seus cavalos são carne, e não espírito. Quando o Senhor estender a sua mão, cambaleará o auxiliador, cairá o auxiliado, e todos juntamente perecerão."
     },
     {
      "n": 4,
@@ -2586,7 +2586,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Eis que um rei (de Judá) reinará com justiça, e os príncipes governarão com retidão."
+     "texto": "Eis que um rei (de Judá) reinará com justiça, e os príncipes governarão com rectidão."
     },
     {
      "n": 2,
@@ -2594,7 +2594,7 @@
     },
     {
      "n": 3,
-     "texto": "Não se ofuscarão os olhos dos que veem, e os ouvidos dos que ouvem escutarão atentamente."
+     "texto": "Não se ofuscarão os olhos dos que vêem, e os ouvidos dos que ouvem escutarão atentamente."
     },
     {
      "n": 4,
@@ -2646,7 +2646,7 @@
     },
     {
      "n": 16,
-     "texto": "(Então) habitará no deserto a retidão e a justiça terá o seu assento no vergel."
+     "texto": "(Então) habitará no deserto a rectidão e a justiça terá o seu assento no vergel."
     },
     {
      "n": 17,
@@ -2687,7 +2687,7 @@
     },
     {
      "n": 5,
-     "texto": "O Senhor é grande porque habita no alto; enche Sião de retidão e de justiça."
+     "texto": "O Senhor é grande porque habita no alto; enche Sião de rectidão e de justiça."
     },
     {
      "n": 6,
@@ -2824,7 +2824,7 @@
     },
     {
      "n": 14,
-     "texto": "Cães e gatos selvagens aí se encontrarão, e os sátiros chamarão uns pelos outros; aí fará a sua morada o espetro das noites, aí encontrará o seu repouso."
+     "texto": "Cães e gatos selvagens aí se encontrarão, e os sátiros chamarão uns pelos outros; aí fará a sua morada o espectro das noites, aí encontrará o seu repouso."
     },
     {
      "n": 15,
@@ -2910,11 +2910,11 @@
     },
     {
      "n": 6,
-     "texto": "Vejo que te apoias no Egito, essa cana rachada, a qual, se nela se firmar um homem, se lhe meterá pela mão, e a traspassará; assim é Faraó, rei do Egito, para todos os que confiam nele."
+     "texto": "Vejo que te apoias no Egipto, essa cana rachada, a qual, se nela se firmar um homem, se lhe meterá pela mão, e a traspassará; assim é Faraó, rei do Egipto, para todos os que confiam nele."
     },
     {
      "n": 7,
-     "texto": "Responder-me-eis possivelmente: Nós confiamos no Senhor nosso Deus. Mas, porventura, não é este aquele mesmo, cujos altos e altares destruiu Ezequias, dizendo a Judá e a Jerusalém; (Somente) diante deste altar adorareis?"
+     "texto": "Responder-me-eis possivelmente: Nós confiamos no Senhor nosso Deus. Mas, porventura, não é este aquele mesmo, cujos altos e altares destruiu Ezequias, dizendo a Judá e a Jerusalém; (Sòmente) diante deste altar adorareis?"
     },
     {
      "n": 8,
@@ -2922,7 +2922,7 @@
     },
     {
      "n": 9,
-     "texto": "Como poderás fazer frente a um só chefe, tomado entre os menores servos do meu amo? Todavia confias no Egito, nos seus carros de guerra e nos seus cavaleiros."
+     "texto": "Como poderás fazer frente a um só chefe, tomado entre os menores servos do meu amo? Todavia confias no Egipto, nos seus carros de guerra e nos seus cavaleiros."
     },
     {
      "n": 10,
@@ -2946,7 +2946,7 @@
     },
     {
      "n": 15,
-     "texto": "E não vos infunda Ezequias confiança no Senhor, dizendo: O Senhor indubitavelmente nos há-de livrar; esta cidade não há-de ser entregue na mão do rei dos Assírios."
+     "texto": "E não vos infunda Ezequias confiança no Senhor, dizendo: O Senhor indubitàvelmente nos há-de livrar; esta cidade não há-de ser entregue na mão do rei dos Assírios."
     },
     {
      "n": 16,
@@ -3079,11 +3079,11 @@
     },
     {
      "n": 25,
-     "texto": "Eu cavei e bebi as suas águas, e sequei com a planta dos meus pés todos os rios do Egito."
+     "texto": "Eu cavei e bebi as suas águas, e sequei com a planta dos meus pés todos os rios do Egipto."
     },
     {
      "n": 26,
-     "texto": "Porventura não ouviste dizer o que, desde há muito tenho feito e que desde os tempos antigos planeei? Desde os dias antigos formei este projeto, e agora o executo. Assim aconteceu que arruinaste cidades fortificadas, cujos"
+     "texto": "Porventura não ouviste dizer o que, desde há muito tenho feito e que desde os tempos antigos planeei? Desde os dias antigos formei este projecto, e agora o executo. Assim aconteceu que arruinaste cidades fortificadas, cujos"
     },
     {
      "n": 27,
@@ -3099,7 +3099,7 @@
     },
     {
      "n": 30,
-     "texto": "Tu, porém, (ó Ezequias) terás isto por sinal: Comer-se-á este ano do que nasce espontaneamente, e no segundo ano do que crescer sem sementeira; porém no terceiro ano semeareis e segareis, plantareis vinhas e comereis o fruto delas."
+     "texto": "Tu, porém, (ó Ezequias) terás isto por sinal: Comer-se-á este ano do que nasce espontâneamente, e no segundo ano do que crescer sem sementeira; porém no terceiro ano semeareis e segareis, plantareis vinhas e comereis o fruto delas."
     },
     {
      "n": 31,
@@ -3415,7 +3415,7 @@
     },
     {
      "n": 5,
-     "texto": "As ilhas veem e tremem, as extremidades da terra pasmam; aproximam-se e vêm."
+     "texto": "As ilhas vêem e tremem, as extremidades da terra pasmam; aproximam-se e vêm."
     },
     {
      "n": 6,
@@ -3633,7 +3633,7 @@
     },
     {
      "n": 3,
-     "texto": "Porque eu sou o Senhor teu Deus, o Santo de Israel, teu Salvador; eu dei por teu resgate o Egito, a Etiópia e Sabá."
+     "texto": "Porque eu sou o Senhor teu Deus, o Santo de Israel, teu Salvador; eu dei por teu resgate o Egipto, a Etiópia e Sabá."
     },
     {
      "n": 4,
@@ -3685,7 +3685,7 @@
     },
     {
      "n": 16,
-     "texto": "Eis o que diz o Senhor, o qual (quando saístes do Egito) vos abriu um caminho pelo meio do mar, uma vereda por entre as torrentes das águas;"
+     "texto": "Eis o que diz o Senhor, o qual (quando saístes do Egipto) vos abriu um caminho pelo meio do mar, uma vereda por entre as torrentes das águas;"
     },
     {
      "n": 17,
@@ -3774,7 +3774,7 @@
     },
     {
      "n": 9,
-     "texto": "Todos os fabricantes de ídolos são nada, as suas obras tão prezadas para nada servem; as suas testemunhas, para sua confusão, não veem, nem entendem."
+     "texto": "Todos os fabricantes de ídolos são nada, as suas obras tão prezadas para nada servem; as suas testemunhas, para sua confusão, não vêem, nem entendem."
     },
     {
      "n": 10,
@@ -3814,7 +3814,7 @@
     },
     {
      "n": 19,
-     "texto": "Não refletem, não consideram, não têm o bom senso de dizer: Eu queimei no fogo metade desta madeira, cozi pães sobre as suas brasas, cozi carnes e comi-as, e então do seu resto hei-de fazer um miserável ídolo? Hei-de prostrar-me diante de um tronco de árvore?"
+     "texto": "Não reflectem, não consideram, não têm o bom senso de dizer: Eu queimei no fogo metade desta madeira, cozi pães sobre as suas brasas, cozi carnes e comi-as, e então do seu resto hei-de fazer um miserável ídolo? Hei-de prostrar-me diante de um tronco de árvore?"
     },
     {
      "n": 20,
@@ -3911,7 +3911,7 @@
     },
     {
      "n": 14,
-     "texto": "Eis o que diz o Senhor: O trabalho do Egito, o tráfico da Etiópia e os de Sabaim, homens de grande estatura, passarão para ti, serão teus. Caminharão atrás pagãos, de ti, irão com algemas nas mãos, adorar-te-ão e far-te-ão as suas súplicas, dizendo: Só em ti está Deus, e fora de ti não há Deus."
+     "texto": "Eis o que diz o Senhor: O trabalho do Egipto, o tráfico da Etiópia e os de Sabaim, homens de grande estatura, passarão para ti, serão teus. Caminharão atrás pagãos, de ti, irão com algemas nas mãos, adorar-te-ão e far-te-ão as suas súplicas, dizendo: Só em ti está Deus, e fora de ti não há Deus."
     },
     {
      "n": 15,
@@ -3931,7 +3931,7 @@
     },
     {
      "n": 19,
-     "texto": "Não tenho falado às ocultas nalgum lugar tenebroso da terra. Não disse à linhagem de Jacob: Buscai-me em vão. Eu sou o Senhor, que falo a verdade, que anuncio o que é reto."
+     "texto": "Não tenho falado às ocultas nalgum lugar tenebroso da terra. Não disse à linhagem de Jacob: Buscai-me em vão. Eu sou o Senhor, que falo a verdade, que anuncio o que é recto."
     },
     {
      "n": 20,
@@ -4098,7 +4098,7 @@
     },
     {
      "n": 3,
-     "texto": "Anunciei-vos com muita antecedência as coisas passadas; saíram da minha boca, eu as publiquei: de repente as pus por obra, e elas efetuaram-se."
+     "texto": "Anunciei-vos com muita antecedência as coisas passadas; saíram da minha boca, eu as publiquei: de repente as pus por obra, e elas efectuaram-se."
     },
     {
      "n": 4,
@@ -4312,7 +4312,7 @@
     },
     {
      "n": 7,
-     "texto": "O Senhor Deus é o meu protetor, por isso não me senti confundido, por isso tornei a minha face como uma pedra duríssima sabendo que não ficaria envergonhado."
+     "texto": "O Senhor Deus é o meu protector, por isso não me senti confundido, por isso tornei a minha face como uma pedra duríssima sabendo que não ficaria envergonhado."
     },
     {
      "n": 8,
@@ -4320,7 +4320,7 @@
     },
     {
      "n": 9,
-     "texto": "O Senhor Deus é o meu protetor; quem há que me condene? Serão todos consumidos como um vestido: a traça os comerá."
+     "texto": "O Senhor Deus é o meu protector; quem há que me condene? Serão todos consumidos como um vestido: a traça os comerá."
     },
     {
      "n": 10,
@@ -4345,7 +4345,7 @@
     },
     {
      "n": 3,
-     "texto": "O Senhor consolará, pois, Sião, consolará todas as suas ruínas, transformará o seu deserto num lugar de delícias e a sua solidão num jardim do Senhor. Aí haverá gozo e alegria, ação de graças, cânticos de louvor."
+     "texto": "O Senhor consolará, pois, Sião, consolará todas as suas ruínas, transformará o seu deserto num lugar de delícias e a sua solidão num jardim do Senhor. Aí haverá gozo e alegria, acção de graças, cânticos de louvor."
     },
     {
      "n": 4,
@@ -4446,7 +4446,7 @@
     },
     {
      "n": 4,
-     "texto": "Porque eis o que diz o Senhor Deus: O meu povo desceu outrora ao Egito, para habitar ali como estrangeiro; depois Assur o oprimiu sem causa."
+     "texto": "Porque eis o que diz o Senhor Deus: O meu povo desceu outrora ao Egipto, para habitar ali como estrangeiro; depois Assur o oprimiu sem causa."
     },
     {
      "n": 5,
@@ -4462,7 +4462,7 @@
     },
     {
      "n": 8,
-     "texto": "A voz das tuas sentinelas! Elas levantam a voz, juntamente cantam de alegria porque veem com os seus próprios olhos como o Senhor volta a Sião."
+     "texto": "A voz das tuas sentinelas! Elas levantam a voz, juntamente cantam de alegria porque vêem com os seus próprios olhos como o Senhor volta a Sião."
     },
     {
      "n": 9,
@@ -4478,7 +4478,7 @@
     },
     {
      "n": 12,
-     "texto": "Não saireis tumultuàriamente, em fuga precipitada, porque o Senhor irá adiante de vós, e o Deus de Israel à vossa retaguarda."
+     "texto": "Não saireis tumultuàriamente, em fuga precipitada, porque o Senhor irá adiante de vós, e o Deus de Israel à vossa rectaguarda."
     },
     {
      "n": 13,
@@ -4503,7 +4503,7 @@
     },
     {
      "n": 2,
-     "texto": "Subiu como um pobre arbusto diante dele, como um rebento que sai de terra sequiosa; não tinha graça nem beleza para atrair o nosso olhar, o seu aspeto não excitava o nosso amor."
+     "texto": "Subiu como um pobre arbusto diante dele, como um rebento que sai de terra sequiosa; não tinha graça nem beleza para atrair o nosso olhar, o seu aspecto não excitava o nosso amor."
     },
     {
      "n": 3,
@@ -4807,7 +4807,7 @@
     },
     {
      "n": 19,
-     "texto": "Farei brotar a ação de graças nos lábios dos aflitos. Paz, paz para aquele que está longe e para o que está perto, diz o Senhor, e sará-lo-ei."
+     "texto": "Farei brotar a acção de graças nos lábios dos aflitos. Paz, paz para aquele que está longe e para o que está perto, diz o Senhor, e sará-lo-ei."
     },
     {
      "n": 20,
@@ -4864,7 +4864,7 @@
     },
     {
      "n": 11,
-     "texto": "O Senhor te guiará perpetuamente, saciará a tua alma no deserto, dará vigor aos teus ossos, e serás como um jardim bem regado, como uma fonte cujas águas nunca faltarão."
+     "texto": "O Senhor te guiará perpètuamente, saciará a tua alma no deserto, dará vigor aos teus ossos, e serás como um jardim bem regado, como uma fonte cujas águas nunca faltarão."
     },
     {
      "n": 12,
@@ -4917,7 +4917,7 @@
     },
     {
      "n": 9,
-     "texto": "Por essa causa se afastou de nós o juízo (reto), e não nos alcança a justiça. Esperávamos a luz, e eis as trevas: a claridade, e andamos às escuras."
+     "texto": "Por essa causa se afastou de nós o juízo (recto), e não nos alcança a justiça. Esperávamos a luz, e eis as trevas: a claridade, e andamos às escuras."
     },
     {
      "n": 10,
@@ -4937,7 +4937,7 @@
     },
     {
      "n": 14,
-     "texto": "Retirou-se o direito, está longe a justiça, a verdade tropeça na praça pública, e não pode ali entrar a retidão:"
+     "texto": "Retirou-se o direito, está longe a justiça, a verdade tropeça na praça pública, e não pode ali entrar a rectidão:"
     },
     {
      "n": 15,
@@ -5103,7 +5103,7 @@
     },
     {
      "n": 10,
-     "texto": "Regozijar-me-ei sobremaneira no Senhor, e a minha alma exultará no meu Deus, porque me revestiu com a roupagem da salvação e me cobriu com o manto da justiça, como esposo aformoseado com uma coroa, como esposa ornada com as suas joias."
+     "texto": "Regozijar-me-ei sobremaneira no Senhor, e a minha alma exultará no meu Deus, porque me revestiu com a roupagem da salvação e me cobriu com o manto da justiça, como esposo aformoseado com uma coroa, como esposa ornada com as suas jóias."
     },
     {
      "n": 11,
@@ -5177,7 +5177,7 @@
     },
     {
      "n": 3,
-     "texto": "Eu pisei sozinho no lagar, e nenhum homem dentre os povos estava comigo; eu os pisei no meu furor, pisei-os na minha ira; o seu sangue salpicou as minhas vestes, com ele manchei todas as minhas roupas."
+     "texto": "Eu pisei sòzinho no lagar, e nenhum homem dentre os povos estava comigo; eu os pisei no meu furor, pisei-os na minha ira; o seu sangue salpicou as minhas vestes, com ele manchei todas as minhas roupas."
     },
     {
      "n": 4,
@@ -5379,7 +5379,7 @@
     },
     {
      "n": 20,
-     "texto": "Não haverá ali mais menino que viva poucos dias; nem velho que não complete os seus dias; será ainda novo o que morrer aos cem anos, e o pecador somente aos cem anos será amaldiçoado."
+     "texto": "Não haverá ali mais menino que viva poucos dias; nem velho que não complete os seus dias; será ainda novo o que morrer aos cem anos, e o pecador sòmente aos cem anos será amaldiçoado."
     },
     {
      "n": 21,
@@ -5500,7 +5500,7 @@
     },
     {
      "n": 24,
-     "texto": "Quando saírem, verão os cadáveres dos homens que prevaricaram contra mim: o seu verme não morrerá e o seu fogo não se extinguirá, e a sua vista será um objeto de horror para todo o mundo."
+     "texto": "Quando saírem, verão os cadáveres dos homens que prevaricaram contra mim: o seu verme não morrerá e o seu fogo não se extinguirá, e a sua vista será um objecto de horror para todo o mundo."
     }
    ]
   }

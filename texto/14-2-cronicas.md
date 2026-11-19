@@ -17,17 +17,17 @@
 **13** Salomão, pois, voltou do alto de Gabaon de diante do tabernáculo da aliança para Jerusalém, e reinou sobre Israel.  
 **14** Juntou um grande número de carros e de cavaleiros teve: mil e quatrocentos carros e doze mil cavaleiros, e mandou-os estar nas cidades destinadas aos carros e em Jerusalém junto ao rei.  
 **15** O rei fez com que a prata e o ouro fossem em Jerusalém tão comuns como as pedras, e os cedros tão numerosos como os sicómoros, que nascem nos campos.  
-**16** Eram-lhe trazidos cavalos do Egito e de Coa pelos negociantes do rei, que iam e os compravam por preço determinado:  
+**16** Eram-lhe trazidos cavalos do Egipto e de Coa pelos negociantes do rei, que iam e os compravam por preço determinado:  
 **17** um tiro de quatro cavalos por seiscentos siclos de prata; e um cavalo por cento e cinquenta. Assim se fazia a compra também para todos os reis dos Heteus e da Síria.  
 
 ## Capítulo 2
 
 **1** Resolveu Salomão edificar uma casa ao nome do Senhor, e um palácio para si.  
-**2** Para este fim, destinou setenta mil homens, que, às costas, acarretassem os materiais, oitenta mil para cortar pedra nos montes, e três mil e seiscentos para seus inspetores.  
+**2** Para este fim, destinou setenta mil homens, que, às costas, acarretassem os materiais, oitenta mil para cortar pedra nos montes, e três mil e seiscentos para seus inspectores.  
 **3** Mandou dizer a Hirão, rei de Tiro: Do mesmo modo que fizeste com Davide, meu pai, a quem enviaste madeira de cedro, a fim de edificar para si o palácio em que ele habitou,  
-**4** faze o mesmo comigo para que eu edifique uma casa ao nome do Senhor meu Deus, e a consagre para queimar o incenso na sua presença, espalhar o fumo dos aromas, ter sempre expostos os pães da proposição, oferecer os holocaustos da manhã e da tarde, nos sábados, neoménias e solenidades do Senhor nosso Deus, perpetuamente, como foi ordenado a Israel.  
+**4** faze o mesmo comigo para que eu edifique uma casa ao nome do Senhor meu Deus, e a consagre para queimar o incenso na sua presença, espalhar o fumo dos aromas, ter sempre expostos os pães da proposição, oferecer os holocaustos da manhã e da tarde, nos sábados, neoménias e solenidades do Senhor nosso Deus, perpètuamente, como foi ordenado a Israel.  
 **5** A casa que eu pretendo edificar, deve ser grande, visto que o nosso Deus é grande sobre todos os deuses.  
-**6** Quem poderá ser capaz de lhe edificar uma casa digna dele, se o céu e os céus dos céus o não podem conter? Quem sou eu que possa edificar-lhe uma casa? Mas (faço-o) somente para que se queime incenso na sua presença.  
+**6** Quem poderá ser capaz de lhe edificar uma casa digna dele, se o céu e os céus dos céus o não podem conter? Quem sou eu que possa edificar-lhe uma casa? Mas (faço-o) sòmente para que se queime incenso na sua presença.  
 **7** Envia-me, pois, um homem hábil, que saiba trabalhar em ouro e em prata, em bronze e em ferro, em obras de púrpura, de escarlate e de jacinto, e que saiba esculpir entalhes (a fim de que trabalhe) com os oficiais que eu tenho junto de mim na Judeia e em Jerusalém, os quais David e meu pai tinha escolhido.  
 **8** Manda-me também madeira de cedro, cipreste e sândalo, porque sei que os teus servos são hábeis em cortar madeiras do Líbano, e os meus servos trabalharão com os teus,  
 **9** para que se aparelhem madeiras em grande quantidade. Com efeito, a casa, que eu desejo edificar, deve ser muito grandiosa e magnífica.  
@@ -38,7 +38,7 @@
 **14** filho duma mulher das filhas de Dan, cujo pai foi Tírio, que sabe trabalhar em ouro e em prata, em bronze e em ferro, em mármore, em madeira, em púrpura, em jacinto, em linho fino, em escarlate, que sabe lavrar todo o género de figuras e inventar engenhosamente tudo o que é necessário para qualquer trabalho; ele trabalhará com os teus artistas e com os artistas do teu pai Davide, meu senhor.  
 **15** Nós mandaremos cortar no Líbano as madeiras de que tiveres necessidade, e faremos pôr jangadas para irem por mar até Jope, donde tu as mandarás transportar a Jerusalém.  
 **16** Salomão, pois, mandou tomar nota de todos os estrangeiros, que havia na terra, de Israel, depois do recenseamento que tinha mandado fazer Davide, seu pai, e achou-se que eram cento e cinquenta e três mil e seiscentos.  
-**17** Destes escolheu setenta mil, que levassem as cargas às costas, oitenta mil que cortassem pedras nos montes, e três mil e seiscentos para inspetores dos trabalhos desta gente.  
+**17** Destes escolheu setenta mil, que levassem as cargas às costas, oitenta mil que cortassem pedras nos montes, e três mil e seiscentos para inspectores dos trabalhos desta gente.  
 
 ## Capítulo 3
 
@@ -96,9 +96,9 @@
 **7** Os sacerdotes puseram a arca da aliança do Senhor no seu lugar, isto é, no santuário do templo, no Santo dos Santos, debaixo das asas dos querubins,  
 **8** de modo que os querubins estendiam as suas asas sobre o lugar em que a arca estava posta, e cobriam a mesma arca e os seus varais.  
 **9** Estes eram bastante compridos para que as suas extremidades pudessem ser vistas de diante do santuário; mas, se alguém estava um tanto fora, já não os podia ver. Ali tem estado a arca até ao dia de hoje.  
-**10** Na arca não havia outra coisa além das duas tábuas que Moisés ali tinha posto em Horeb, quando o Senhor deu a lei aos filhos de Israel, na sua saída do Egito.  
+**10** Na arca não havia outra coisa além das duas tábuas que Moisés ali tinha posto em Horeb, quando o Senhor deu a lei aos filhos de Israel, na sua saída do Egipto.  
 **11** Logo que os sacerdotes saíram do santuário, (porque todos os sacerdotes que puderam achar-se ali, se purificaram, visto que naquele tempo ainda não estavam distribuídos entre eles os turnos e ordem dos ministérios),  
-**12** tanto os Levitas como os cantores, isto é, os que estavam debaixo da direção de Asaf, e os que estavam debaixo da direção de Heman e de Iditun, seus filhos e irmãos, revestidos de vestes de linho fino, tocavam címbalos, cítaras e harpas, postos em pé, do lado oriental do altar, acompanhados de cento e vinte sacerdotes, que tocavam trombetas.  
+**12** tanto os Levitas como os cantores, isto é, os que estavam debaixo da direcção de Asaf, e os que estavam debaixo da direcção de Heman e de Iditun, seus filhos e irmãos, revestidos de vestes de linho fino, tocavam címbalos, cítaras e harpas, postos em pé, do lado oriental do altar, acompanhados de cento e vinte sacerdotes, que tocavam trombetas.  
 **13** Quando, nesse momento, todos formavam um concerto com as trombetas, as vozes, os címbalos e outros instrumentos músicos, quando louvavam ao Senhor, dizendo: bem-dizei o Senhor, porque é bom e porque a sua misericórdia, é eterna — encheu-se a casa de Deus de uma nuvem,  
 **14** e os sacerdotes não podiam estar (ali), nem exercer as suas funções, por causa da nuvem, pois a glória do Senhor tinha enchido a casa de Deus.  
 
@@ -108,7 +108,7 @@
 **2** Eu edifiquei uma casa ao seu nome, para que habite nela para sempre.  
 **3** Depois o rei voltou o seu rosto e abençoou toda a multidão de Israel (porque toda a gente estava de pé, atenta) e disse:  
 **4** Bem-dito seja o Senhor, Deus de Israel, que cumpriu o que prometeu a Davide, meu pai, dizendo:  
-**5** Desde o dia em que eu fiz sair o meu povo da terra do Egito, não escolhi cidade alguma entre todos as tribos de Israel, para nela se levantar uma casa ao meu nome, nem escolhi homem algum para ser chefe do meu povo de Israel;  
+**5** Desde o dia em que eu fiz sair o meu povo da terra do Egipto, não escolhi cidade alguma entre todos as tribos de Israel, para nela se levantar uma casa ao meu nome, nem escolhi homem algum para ser chefe do meu povo de Israel;  
 **6** mas escolhi Jerusalém, para nela se honrar o meu nome, e escolhi Davide, para o constituir sobre o meu povo de Israel.  
 **7** Meu pai Davide desejou edificar uma casa ao nome do Senhor Deus de Israel,  
 **8** mas o Senhor disse-lhe: Já que tu tiveste vontade de edificar uma casa ao meu nome, (digo-te que) certamente fizeste bem em ter tal vontade;  
@@ -156,7 +156,7 @@
 **5** O rei Salomão ofereceu em sacrifício vinte e dois bois e cento e vinte mil carneiros. Foi assim que o rei, com todo o povo, dedicou a casa a Deus.  
 **6** Ao mesmo tempo os sacerdotes estavam aplicados às suas funções, e os Levitas, ao som dos instrumentos músicos, cantavam os hinos do Senhor, que o rei Davide tinha composto para louvar o Senhor, (repetindo): porque a sua misericórdia é eterna; cantavam os hinos de Davide ao som dos instrumentos que tocavam com as suas mãos; os sacerdotes diante deles tocavam as trombetas, e todo o Israel estava em pé.  
 **7** Salomão consagrou também o meio do átrio, que está diante do templo do Senhor, porque ali tinha ele oferecido os holocaustos e a gordura das vítimas pacíficas, pois o altar de bronze, que ele tinha feito, não podia bastar para os holocaustos e sacrifícios e gordura.  
-**8** Salomão celebrou então a festa solene (dos tabernáculos) durante (outros) sete dias, e todo o Israel com ele, sendo muito grande o ajuntamento, desde a entrada de Emat até à torrente do Egito.  
+**8** Salomão celebrou então a festa solene (dos tabernáculos) durante (outros) sete dias, e todo o Israel com ele, sendo muito grande o ajuntamento, desde a entrada de Emat até à torrente do Egipto.  
 **9** Ao oitavo dia, fez uma reunião solene, porque tinha feito a dedicação do altar nos sete dias, e celebrado a solenidade dos tabernáculos durante (outros) sete dias.  
 **10** Por fim, no dia vigésimo terceiro do sétimo mês, despediu o povo para as suas tendas cheio de alegria e de contentamento pelas graças que o Senhor tinha feito a Davide, a Salomão e ao povo de Israel.  
 **11** Terminou Salomão a casa do Senhor, o palácio real e tudo o que dentro em seu coração tinha determinado fazer na casa do Senhor e no seu próprio palácio, e foi bem sucedido.  
@@ -168,9 +168,9 @@
 **17** Quanto a ti, se andares na minha presença, como andou Davide, teu pai, se procederes em tudo conforme as ordens que te tenho dado, guardares os meus preceitos e leis,  
 **18** eu conservarei o trono do teu reino, como o prometi a Davide, teu pai, quando disse: Não faltará varão da tua linhagem, que reine em Israel.  
 **19** Mas, se vos desviardes (de mim) e deixardes as leis e os mandamentos que vos propus, para servirdes os deuses estranhos e os adorardes,  
-**20** eu vos arrancarei da terra, que vos dei, lançarei para longe da minha presença este templo, que consagrei ao meu nome, e o farei objeto do sarcasmo e escárneo de todos os povos.  
+**20** eu vos arrancarei da terra, que vos dei, lançarei para longe da minha presença este templo, que consagrei ao meu nome, e o farei objecto do sarcasmo e escárneo de todos os povos.  
 **21** Este templo, por muito ilustre que haja sido, causará espanto a todos os que passarem, os quais dirão: Por que motivo tratou o Senhor assim esta terra e este templo?  
-**22** Responder-lhes-ão: Porque deixaram o Senhor Deus de seus pais, que os tinha tirado da terra do Egito, e porque tomaram deuses estranhos e os adoraram e reverenciaram; por isso vieram sobre eles todos estes males.  
+**22** Responder-lhes-ão: Porque deixaram o Senhor Deus de seus pais, que os tinha tirado da terra do Egipto, e porque tomaram deuses estranhos e os adoraram e reverenciaram; por isso vieram sobre eles todos estes males.  
 
 ## Capítulo 8
 
@@ -183,7 +183,7 @@
 **7** A todos os que tinham ficado dos Heteus, dos Amorreus, dos Ferezeus, dos Heveus e dos Jebuseus, que não eram da linhagem de Israel,  
 **8** - descendentes daqueles que as filhas de Israel tinham deixado com vida - Salomão a todos impôs a condição de trabalhadores, (escravos) em que ainda hoje se encontram.  
 **9** Porém, dos filhos de Israel não lançou mão para trabalharem, como escravos, nas obras do rei: estes eram homens de guerra, primeiros oficiais e comandantes dos seus carros e da sua cavalaria.  
-**10** Todos os chefes dos inspetores do rei Salomão chegavam ao número de duzentos e cinquenta, os quais exerciam vigilância sobre o povo.  
+**10** Todos os chefes dos inspectores do rei Salomão chegavam ao número de duzentos e cinquenta, os quais exerciam vigilância sobre o povo.  
 **11** Salomão mudou a filha de Faraó da cidade de Davide para a casa que lhe tinha edificado, porque, disse: Não habitará minha mulher na casa de Davide, rei de Israel, porquanto foi santificada, quando entrou nela a arca do Senhor.  
 **12** Então Salomão ofereceu holocaustos ao Senhor sobre o altar do Senhor, que tinha levantado diante do pórtico,  
 **13** com o fim de se oferecerem nele todos os dias sacrifícios, conforme a ordenação de Moisés, e nos sábados, nas Neoménias e nos dias de festa, três vezes no ano, a saber: na festa dos ázimos, na festa das semanas e na festa dos tabernáculos.  
@@ -220,17 +220,17 @@
 **23** Todos os reis da terra desejavam ver o rosto de Salomão, para ouvirem a sabedoria de que Deus tinha dotado o seu coração,  
 **24** e presenteavam-no todos os anos com vasos de prata e de ouro, vestes, armas, aromas, cavalos e machos.  
 **25** Teve também Salomão quarenta mil cavalos nas suas cavalariças, doze mil coches, doze mil cavaleiros, e colocou-os nas cidades destinadas para os carros, e em Jerusalém, onde estava o rei.  
-**26** Exerceu também o seu poder sobre todos os reis que havia desde o rio Eufrates, até à terra dos Filisteus e até às fronteiras do Egito.  
+**26** Exerceu também o seu poder sobre todos os reis que havia desde o rio Eufrates, até à terra dos Filisteus e até às fronteiras do Egipto.  
 **27** Fez que em Jerusalém fosse tão comum a prata como as pedras, e que houvesse tanta multidão de cedros como são os sicómoros que nascem nos campos.  
-**28** Eram-lhe trazidos cavalos do Egito e de todos os países.  
-**29** O resto das ações de Salomão, tanto as primeiras como as últimas, estão escritas nos livros do profeta Natan, nos livros de Aias de Silo, e nas profecias de Ado, que profetizou contra Jeroboão, filho de Nabat.  
+**28** Eram-lhe trazidos cavalos do Egipto e de todos os países.  
+**29** O resto das acções de Salomão, tanto as primeiras como as últimas, estão escritas nos livros do profeta Natan, nos livros de Aias de Silo, e nas profecias de Ado, que profetizou contra Jeroboão, filho de Nabat.  
 **30** Salomão reinou em Jerusalém sobre todo o Israel durante quarenta anos.  
 **31** Adormeceu com seus pais, e foi sepultado na cidade de Davide. Roboão, seu filho, reinou em seu lugar.  
 
 ## Capítulo 10
 
 **1** Partiu Roboão para Siquém, porque todo o Israel se tinha juntado lá para o constituir rei.  
-**2** Tendo ouvido isto Jeroboão, filho de Nabat, que estava no Egito (pois tinha fugido para lá da presença de Salomão), voltou logo,  
+**2** Tendo ouvido isto Jeroboão, filho de Nabat, que estava no Egipto (pois tinha fugido para lá da presença de Salomão), voltou logo,  
 **3** pois o mandaram chamar. Então ele e todo o Israel foram e falaram a Roboão desta maneira:  
 **4** Teu pai oprimiu-nos com um jugo duríssimo; tu trata-nos com mais brandura do que teu pai, que nos impôs uma grave servidão, alivia-nos um pouco a carga, e nós seremos teus servos.  
 **5** Ele disse-lhes: Tornai a vir daqui a três dias. Depois que o povo se retirou,  
@@ -245,7 +245,7 @@
 **14** segundo o conselho dos jovens: Meu pai pôs-vos um jugo pesado, mas eu o farei mais pesado; meu pai castigou-vos com açoutes, eu castigar-vos-ei com escorpiões.  
 **15** O rei não condescendeu com as súplicas do povo, porque era da vontade de Deus que se cumprisse a palavra que tinha dito a Jeroboão, filho de Nabat, por meio de Aías Silonita.  
 **16** Então todo o povo, ao ouvir tão dura resposta do rei disse-lhe assim: Não temos parte com Davide, nem herança com o filho de Isaí. Volta, Israel, para as tuas tendas, e tu, Davide, governa a tua casa.  
-**17** Roboão ficou reinando (somente) sobre os filhos de Israel, que habitavam nas cidades de Judá.  
+**17** Roboão ficou reinando (sòmente) sobre os filhos de Israel, que habitavam nas cidades de Judá.  
 **18** Então o rei Roboão enviou Adurão, que era superintendente dos tributos, mas os filhos de Israel apedrejaram-no, e ele morreu. Em vista disto o rei Roboão montou apressadamente no seu carro e fugiu para Jerusalém.  
 **19** Assim Israel separou-se da casa de Davide até ao dia de hoje.  
 
@@ -267,31 +267,31 @@
 **14** deixando as suas terras e as suas propriedades, para irem habitar em Judá e Jerusalém, porque Jeroboão e seus filhos os tinham expulsado, a fim de não exercerem o sacerdócio do Senhor.  
 **15** Jeroboão constituiu para si sacerdotes dos lugares altos, para culto dos bodes e touros (ídolos) que ele tinha mandado fazer.  
 **16** Também de todas as tribos de Israel, todos aqueles que tinham resolvido em seu coração seguir o Senhor Deus de Israel, foram a Jerusalém, a fim de imolarem as suas vítimas na presença do Senhor Deus de seus pais.  
-**17** Fortificaram o reino de Judá e consolidaram (no trono) a Roboão, filho de Salomão, durante três anos, porque somente três anos andaram no caminho de Davide e de Salomão.  
+**17** Fortificaram o reino de Judá e consolidaram (no trono) a Roboão, filho de Salomão, durante três anos, porque sòmente três anos andaram no caminho de Davide e de Salomão.  
 **18** Roboão casou com Maalat, filha de Jerimot, filho de Davide, e também com Abiail, filha de Eliab, filho de Isaí,  
 **19** a qual lhe deu à luz Jeús, Somarias e Zoom.  
 **20** Depois desta tomou também por mulher a Maaca, filha de Absalão, da qual teve Abia, Etai, Ziza e Salomit.  
 **21** Roboão amou Maaca, filha de Absalão, mais que todas as mulheres, principais e secundárias. Ele teve dezoito esposas e sessenta mulheres de segunda ordem, e teve vinte e oito filhos e sessenta filhas.  
 **22** Constituiu Abia, filho de Maaca, cabeça e príncipe sobre todos os seus irmãos, porque tinha o desígnio de o fazer rei.  
-**23** Dispersou, habilmente, todos os filhos pelos territórios de Judá e de Benjamim, pelas suas cidades muradas, deu-lhes alimentos em grande abundância e arranjou-lhes muitas mulheres.  
+**23** Dispersou, hàbilmente, todos os filhos pelos territórios de Judá e de Benjamim, pelas suas cidades muradas, deu-lhes alimentos em grande abundância e arranjou-lhes muitas mulheres.  
 
 ## Capítulo 12
 
 **1** Quando o reino de Roboão estava bem estabelecido e consolidado, ele abandonou a lei do Senhor, e com ele todo o Israel.  
-**2** No quinto ano do reinado de Roboão, Sesac, rei do Egito, marchou contra Jerusalém (porque (os Israelitas) tinham pecado contra o Senhor),  
-**3** com mil e duzentos carros de guerra e sessenta mil cavaleiros. Era inumerável a multidão, que com ele tinha vindo do Egito, de Líbios, Suquitas e Etíopes.  
+**2** No quinto ano do reinado de Roboão, Sesac, rei do Egipto, marchou contra Jerusalém (porque (os Israelitas) tinham pecado contra o Senhor),  
+**3** com mil e duzentos carros de guerra e sessenta mil cavaleiros. Era inumerável a multidão, que com ele tinha vindo do Egipto, de Líbios, Suquitas e Etíopes.  
 **4** Apoderou-se das praças mais fortes de Judá e chegou até Jerusalém.  
 **5** O profeta Semeias foi ter com Roboão e com os príncipes de Judá, que se tinham juntado em Jerusalém, fugindo de Sesac, e disse-lhes: Eis o que diz o Senhor: Vós desamparastes-me, e eu vos desamparei também nas mãos de Sesac.  
 **6** Consternados, os príncipes de Israel e o rei disseram: O Senhor é justo.  
 **7** Vendo o Senhor que se tinham humilhado, falou a Semeias, nestes termos: Visto que eles se humilharam, não os perderei; dar-lhes-ei algum auxílio, e não farei cair o meu furor sobre Jerusalém por mão de Sesac.  
 **8** Todavia ficar-lhão sujeitos, para conhecerem a diferença que há entre o servir-me a mim, e o servir os reis da terra.  
-**9** Sesac, rei do Egito, retirou-se de Jerusalém, depois de ter tirado os tesouros da casa do Senhor e do palácio do rei: levou tudo consigo, inclusivamente os escudos de ouro que Salomão tinha mandado fazer.  
+**9** Sesac, rei do Egipto, retirou-se de Jerusalém, depois de ter tirado os tesouros da casa do Senhor e do palácio do rei: levou tudo consigo, inclusivamente os escudos de ouro que Salomão tinha mandado fazer.  
 **10** Para os substituir, o rei Roboão mandou fazer outros de bronze, e entregou-os aos capitães dos escudeiros, que guardavam o átrio do palácio.  
 **11** Quando o rei entrava na casa do Senhor, vinham os escudeiros e tomavam-nos; depois tornavam-nos a levar para o quartel da guarda.  
 **12** Porque se tinham humilhado, apartou-se deles a ira do Senhor; não foram inteiramente destruídos, porque ainda se acharam obras boas em Judá.  
 **13** O rei Roboão fortificou-se, pois, em Jerusalém, e reinou. Tinha quarenta e um anos quando começou a reinar, e reinou dezassete anos em Jerusalém, cidade que o Senhor tinha escolhido entre todas as das tribos de Israel, para nela estabelecer o seu nome. Sua mãe chamava-se Naama, Amonita.  
 **14** Ele fez o mal, não dispondo o seu coração para buscar o Senhor.  
-**15** As ações de Roboão, assim as primeiras como as últimas, estão escritas nos livros do profeta Semeias e de Ado, o vidente, com exatidão. Roboão e Jeroboão tiveram guerra entre si durante todos os seus dias.  
+**15** As acções de Roboão, assim as primeiras como as últimas, estão escritas nos livros do profeta Semeias e de Ado, o vidente, com exactidão. Roboão e Jeroboão tiveram guerra entre si durante todos os seus dias.  
 **16** Roboão adormeceu com seus pais, e foi sepultado na cidade de Davide. Seu filho Abia reinou em seu lugar.  
 
 ## Capítulo 13
@@ -317,7 +317,7 @@
 **19** Abia foi perseguindo Jeroboão, que fugia, e tomou-lhe várias cidades: Betel com as suas dependências, Jesana com as suas dependências, e Efron com as suas dependências.  
 **20** Jeroboão não pôde mais resistir durante o reinado de Abia; o Senhor feriu Jeroboão, e ele morreu.  
 **21** Abia, firmado o seu reino, tomou catorze mulheres e teve vinte e dois filhos e dezasseis filhas.  
-**22** O resto das ações de Abia, e dos seus costumes e feitos, está escrito com toda a exatidão no livro do profeta Ado.  
+**22** O resto das acções de Abia, e dos seus costumes e feitos, está escrito com toda a exactidão no livro do profeta Ado.  
 
 ## Capítulo 14
 
@@ -371,7 +371,7 @@
 **8** Porventura não constituíam os Etíopes e os Líbios um grande exército, com numerosos carros e cavaleiros? Entretanto, quando tu confiaste no Senhor, ele tos entregou nas mãos.  
 **9** Os olhos do Senhor contemplam toda a terra e inspiram força aos que confiam nele com um coração perfeito. Tu procedeste loucamente; por isso desde agora se levantarão guerras contra ti.  
 **10** Asa, irado contra o vidente, mandou-o encarcerar, porque se tinha irritado muito por isto (que o profeta lhe tinha dito); nesta ocasião Asa oprimiu também alguns do povo (que eram partidários do profeta).  
-**11** Quanto às ações de Asa, desde as primeiras até às últimas, estão escritas no livro dos reis de Judá e de Israel.  
+**11** Quanto às acções de Asa, desde as primeiras até às últimas, estão escritas no livro dos reis de Judá e de Israel.  
 **12** Mas confiou antes... Asa não é censurado por ter recorrido aos médicos, mas por ter confiado mais neles do que em Deus.  
 **13** No ano trinta e nove do seu reinado. Asa adoeceu duma veementíssima dor nos pés; todavia, mesmo na sua enfermidade, não recorreu ao Senhor, mas confiou antes nos médicos.  
 **14** Adormeceu com seus pais; morreu no ano quarenta e um do seu reinado.  
@@ -430,7 +430,7 @@
 **27** Miqueias respondeu: Se tu voltares em paz, não falou o Senhor pela minha boca. E acrescentou: Ouvi isto, povos todos.  
 **28** O rei de Israel, pois, e Josafat, rei de Judá, marcharam contra Ramot de Galaad.  
 **29** O rei de Israel disse para Josafat: Eu mudarei de trajo, e assim irei combater, mas tu vem com as tuas vestes. O rei de Israel, mudado o trajo, foi para o combate.  
-**30** Ora o rei da Síria tinha dado aos comandantes da sua cavalaria a ordem seguinte: Não pelejeis contra pequeno nem contra grande, mas somente contra o rei de Israel.  
+**30** Ora o rei da Síria tinha dado aos comandantes da sua cavalaria a ordem seguinte: Não pelejeis contra pequeno nem contra grande, mas sòmente contra o rei de Israel.  
 **31** Por isso, quando os comandantes da cavalaria viram Josafat, disseram: Este é o rei de Israel. E cercaram-no, carregando sobre ele; porém ele soltou o seu grito (de guerra) e o Senhor o socorreu, desviando os sírios da sua pessoa.  
 **32** Então, tendo visto os capitães da cavalaria que este não era o rei de Israel, deixaram-no.  
 **33** Entretanto aconteceu que um homem do povo atirou à toa uma flecha, e feriu com ela o rei de Israel por entre as junturas da armadura, pelo que ele disse ao seu cocheiro: Volta de rédea e tira-me do combate, porque estou ferido.  
@@ -461,7 +461,7 @@
 **7** Porventura tu, ó Deus nosso, não desbarataste todos os habitantes desta terra, diante do teu povo de Israel, e não a deste para sempre aos descendentes de Abraão, teu amigo?  
 **8** Eles habitaram nela e nela erigiram um santuário ao teu nome, dizendo:  
 **9** Se vierem sobre nós os males, a espada do juízo, a peste e a fome, nós nos apresentaremos diante de ti nesta casa, onde o teu nome foi invocado, nós clamaremos a ti em nossas aflições, e tu nos ouvirás, tu nos salvarás.  
-**10** Agora, eis que os filhos de Amon, de Moab e os da montanha de Seir, pelas terras dos quais não permitiste a Israel que passasse, quando saía do Egito, (povos) de que se desviou, sem os destruir,  
+**10** Agora, eis que os filhos de Amon, de Moab e os da montanha de Seir, pelas terras dos quais não permitiste a Israel que passasse, quando saía do Egipto, (povos) de que se desviou, sem os destruir,  
 **11** eis que eles nos recompensam, pretendendo lançar-nos fora da possessão que nos deste.  
 **12** Ó Deus nosso, não castigarás estes povos? Em nós certamente não há tantas forças que possamos resistir a esta multidão que vem sobre nós. Mas, como não sabemos o que devemos fazer, por isso não nos fica outro recurso senão voltar para ti os nossos olhos.  
 **13** Todo o Judá estava em pé diante do Senhor, com as suas crianças, mulheres e filhos.  
@@ -485,7 +485,7 @@
 **31** Reinou Josafat sobre Judá. Tinha trinta e cinco anos quando começou a reinar, e reinou vinte e cinco anos em Jerusalém. Sua mãe chamava-se Azuba, filha de Selai.  
 **32** Andou pelos caminhos de seu pai Asa, não se afastou deles, fazendo o que era agradável aos olhos do Senhor.  
 **33** Não destruiu contudo os lugares altos, e o povo não tinha ainda convertido bem o seu coração para o Senhor Deus de seus país.  
-**34** O resto das ações de Josafat, assim as primeiras como as últimas, está escrito na história de Jeú, filho de Hanani, que as inseriu nos livros dos reis de Israel.  
+**34** O resto das acções de Josafat, assim as primeiras como as últimas, está escrito na história de Jeú, filho de Hanani, que as inseriu nos livros dos reis de Israel.  
 **35** Depois disto Josafat, rei de Judá, contraiu amizade com Ocozias, rei de Israel, cujas obras foram impiíssimas.  
 **36** Uniu-se com ele para construir navios, que fossem a Tarsis, e construíram uma armada em Asiongaber.  
 **37** Eliezer, porém, filho de Dodau de Maresa, profetizou a Josafat, dizendo: Visto que fizeste aliança com Ocozias, o Senhor destruiu a tua obra. Com efeito, despedaçaram-se as naus, e não puderam ir a Tarsis.  
@@ -511,7 +511,7 @@
 **17** os quais entraram na terra de Judá, assolaram-na, saquearam tudo o que encontraram no palácio do rei, e, além disso (levaram) os seus filhos e mulheres, de sorte que não lhe ficou filho algum, senão Joacaz, que era o mais novo de todos.  
 **18** Por sobre tudo isto, o Senhor feriu-o com uma doença incurável nas entranhas.  
 **19** Sucedendo-se os dias uns aos outros, completou-se o período de dois anos; ele, consumido lentamente com a podridão, lançando fora até as suas entranhas, morreu em meio do mais acerbo sofrimento. O povo não lhe fez as exéquias queimando-lhe perfumes, segundo o costume, como tinha feito a seus antecessores.  
-**20** Jorão tinha trinta e dois anos quando começou a reinar, e reinou oito anos em Jerusalém. Não andou com retidão. Sepultaram-no na cidade de Davide, mas não no sepulcro dos reis.  
+**20** Jorão tinha trinta e dois anos quando começou a reinar, e reinou oito anos em Jerusalém. Não andou com rectidão. Sepultaram-no na cidade de Davide, mas não no sepulcro dos reis.  
 
 ## Capítulo 22
 
@@ -535,7 +535,7 @@
 **3** Toda esta multidão fez liga com o rei na casa de Deus. Jojada disse-lhes: Eis aqui o filho do rei, que deve reinar, segundo aquilo que o Senhor disse a favor dos descendentes de Davide.  
 **4** Eis o que deveis fazer:  
 **5** A terça parte de vós, sacerdotes, Levitas e porteiros, que entrais de serviço no templo, ao sábado, estará às portas; a outra terça parte colocar-se-á junto ao palácio do rei; a outra terça à porta, que se chama do Fundamento. Todo o resto do povo estará nos átrios da casa do Senhor.  
-**6** Nenhum outro entre na casa do Senhor, senão os sacerdotes e os Levitas que estão de serviço; entrem somente estes, porque estão santificados; todo o resto do povo esteja guardando a porta da casa do Senhor.  
+**6** Nenhum outro entre na casa do Senhor, senão os sacerdotes e os Levitas que estão de serviço; entrem sòmente estes, porque estão santificados; todo o resto do povo esteja guardando a porta da casa do Senhor.  
 **7** Os Levitas rodearão o rei, tendo cada um as suas armas; se algum outro entrar no templo, seja morto. Acompanhareis o rei, quando ele entrar ou quando sair.  
 **8** Os Levitas, pois, e todo o Judá executaram tudo o que o pontífice Jojada lhes tinha ordenado. Cada um tomou os que tinha às suas ordens, aqueles que entravam, tanto os que principiavam como os que acabavam o serviço, ao sábado, porque o pontífice Jojada não tinha dispensado nenhuma das turmas, que costumavam suceder umas às outras todas as semanas.  
 **9** O sacerdote Jojada deu aos centuriões as lanças e os escudos, tanto os grandes como os pequenos, do rei Davide, os quais ele tinha consagrado na casa do Senhor.  
@@ -565,7 +565,7 @@
 **9** Depois publicou-se em Judá e em Jerusalém a contribuição que Moisés, servo de Deus, tinha imposto a todo o Israel no deserto.  
 **10** Alegraram-se todos os príncipes e todo o povo, e, concorrendo, lançaram na caixa do Senhor dinheiro, e lançaram tanto que ficou cheia.  
 **11** Chegado o tempo de levar este cofre à presença do rei por mãos dos Levitas (quando eles viam que havia muito dinheiro), o escrivão do rei entrava com aquele que o sumo pontífice tinha, designado, e despejavam o dinheiro que havia no cofre; depois tornavam a levar o cofre para o seu lugar. Assim o faziam todas as vezes. Com isto se recolheu uma imensa quantia de dinheiro,  
-**12** que o rei e Jojada deram aos inspetores das obras da casa do Senhor, os quais pagavam com ele aos canteiros e carpinteiros para se reparar a casa do Senhor, assim como aos que trabalhavam em ferro e em bronze, para se segurar o que ameaçava ruína.  
+**12** que o rei e Jojada deram aos inspectores das obras da casa do Senhor, os quais pagavam com ele aos canteiros e carpinteiros para se reparar a casa do Senhor, assim como aos que trabalhavam em ferro e em bronze, para se segurar o que ameaçava ruína.  
 **13** Estes operários trabalhavam com muito esmero; por suas mãos repararam as fendas das paredes, restituíram a casa do Senhor ao seu antigo estado e fizeram com que ficasse firme.  
 **14** Depois que concluíram todas as obras, levaram ao rei e a Jojada o remanescente do dinheiro. Com ele foram feitos os vasos para o ministério do templo e para os holocaustos, e copos e outros vasos de ouro e prata. Foram oferecidos continuamente holocaustos na casa do Senhor, durante toda a vida de Jojada.  
 **15** Jojada, envelhecido, cheio de dias, morreu, tendo de idade cento e trinta anos.  
@@ -609,7 +609,7 @@
 **23** Joás, rei de Israel, aprisionou Amasias, rei de Judá, filho de Joás, filho de Joacaz, em Betsames, e levou-o a Jerusalém, onde derribou o muro da cidade, desde a porta de Efraim até à porta do ângulo, por espaço de quatrocentos côvados.  
 **24** Levou para Samaria todo o ouro e prata e todos os vasos que encontrou na casa de Deus, na de Obededom e nos tesouros da casa real; (levou) também os filhos dos príncipes, no seu regresso a Samaria.  
 **25** Amasias, filho do rei Joás, rei de Judá. viveu quinze anos, depois da morte de Joás, filho de Joacaz, rei de Israel.  
-**26** O resto das ações de Amasias, tanto as primeiras como as últimas, estão escritas no livro dos reis de Judá e de Israel.  
+**26** O resto das acções de Amasias, tanto as primeiras como as últimas, estão escritas no livro dos reis de Judá e de Israel.  
 **27** Depois que este príncipe abandonou o Senhor, armaram uma conjuração contra ele em Jerusalém. Fugiu para Laquis, mas (os conspiradores) mandaram homens, e estes o mataram lá.  
 **28** Trazendo-o sobre cavalos, enterraram-no com os seus maiores na cidade de David.  
 
@@ -618,11 +618,11 @@
 **1** Todo o povo de Judá constituiu rei a Ozias, que tinha a idade de dezasseis anos, em lugar de Amasias, seu pai.  
 **2** Ele reedificou Ailat e restituiu-a ao domínio de Judá, depois que o rei (Amasias) adormeceu com seus pais.  
 **3** Tinha Ozias dezasseis anos, quando começou a reinar, e reinou cinquenta e dois em Jerusalém. Sua mãe chamava-se Jequelia, de Jerusalém.  
-**4** Fez o que era reto aos olhos do Senhor, conforme tudo o que tinha feito Amasias, seu pai.  
+**4** Fez o que era recto aos olhos do Senhor, conforme tudo o que tinha feito Amasias, seu pai.  
 **5** Buscou o Senhor enquanto viveu Zacarias, homem inteligente e profeta de Deus; como ele buscava o Senhor, o Senhor o dirigiu em tudo.  
 **6** Pôs-se em campanha contra os Filisteus, e destruiu os muros de Get, de Jabnia e os de Azoto; edificou também praças fortes em Azoto e nas terras dos Filisteus.  
 **7** Deus ajudou-o contra os Filisteus, contra os Árabes, que habitavam em Gurbaal, e contra os Amonitas.  
-**8** Os Amonitas pagavam tributos a Ozias. A sua reputação difundiu-se até à entrada do Egito, por causa das suas frequentes vitórias.  
+**8** Os Amonitas pagavam tributos a Ozias. A sua reputação difundiu-se até à entrada do Egipto, por causa das suas frequentes vitórias.  
 **9** Ozias levantou torres em Jerusalém sobre a porta do ângulo, sobre a porta do vale e outras, no mesmo lado do muro, e fortificou-as.  
 **10** Edificou também torres, no deserto, e mandou abrir muitas cisternas, porque tinha muito gado, assim nos campos, como pela vastidão do deserto; tinha também vinhas e vinhateiros nos montes e no Carmelo, porque era homem afeiçoado à agricultura.  
 **11** O exército dos seus guerreiros, que saiam à campanha, contados segundo o recenseamento feito por Jeiel, secretário, e Maasias, comissário, sob o comando de Hanamias, que era um dos generais do rei.  
@@ -632,28 +632,28 @@
 **15** Mandou fazer em Jerusalém várias espécies de máquinas, as quais mandou pôr nas torres e nos cantos das muralhas, para disparar flechas e grossas pedras. A fama do seu nome espalhou-se até muito longe, porque o Senhor o auxiliava e o fortalecia.  
 **16** Mas, ao ver-se poderoso, o seu coração elevou-se de soberba para sua ruína. Pecou contra o Senhor seu Deus, entrando no templo do Senhor para oferecer incenso sobre o altar dos perfumes.  
 **17** Logo após ele, entrou o pontífice Azarias com oitenta sacerdotes do Senhor, homens corajosos,  
-**18** que se opuseram ao rei, dizendo: Não pertence a ti, Ozias, queimar incenso ao Senhor, mas aos sacerdotes, isto é, aos filhos de Aarão, que foram consagrados para este ministério; sai do santuário, não queiras fazer este desprezo, porque esta ação não será gloriosa para ti diante do Senhor Deus.  
+**18** que se opuseram ao rei, dizendo: Não pertence a ti, Ozias, queimar incenso ao Senhor, mas aos sacerdotes, isto é, aos filhos de Aarão, que foram consagrados para este ministério; sai do santuário, não queiras fazer este desprezo, porque esta acção não será gloriosa para ti diante do Senhor Deus.  
 **19** Então Ozias, irado, tendo na mão o turíbulo para oferecer incenso, ameaçou os sacerdotes. Imediatamente apareceu-lhe lepra na fronte em presença dos sacerdotes, no templo do Senhor, junto ao altar dos perfumes.  
 **20** Tendo o pontífice Azarias e todos os outros sacerdotes posto os olhos nele, viram a lepra na sua fronte e, sem mais demora, o lançaram fora. Ele mesmo, cheio de medo, apressou-se a sair, porque tinha sentido logo a praga com que o Senhor o tinha ferido.  
 **21** O rei Ozias foi, pois, leproso até ao dia da sua morte; habitou numa casa separada, cheio de lepra, por causa da qual tinha sido lançado fora da casa do Senhor. Joatão, seu filho, governava a casa do rei e administrava justiça ao povo.  
-**22** O resto das ações de Ozias, assim as primeiras como as últimas, foi escrito pelo profeta Isaías, filho de Amós.  
+**22** O resto das acções de Ozias, assim as primeiras como as últimas, foi escrito pelo profeta Isaías, filho de Amós.  
 **23** Ozias adormeceu com seus pais, e foi enterrado no campo dos sepulcros reais, porque era leproso. Seu filho Joatão reinou em seu lugar.  
 
 ## Capítulo 27
 
 **1** Joatão tinha vinte e cinco anos, quando começou a reinar, e reinou dezasseis anos em Jerusalém. Sua mãe chamava-se Jerusa, filha de Sadoc.  
-**2** Ele fez o que era reto diante do Senhor, seguindo tudo o que tinha feito Ozias, seu pai, exceto que não entrou no templo do Senhor. Todavia o povo continuou a delinquir.  
+**2** Ele fez o que era recto diante do Senhor, seguindo tudo o que tinha feito Ozias, seu pai, excepto que não entrou no templo do Senhor. Todavia o povo continuou a delinquir.  
 **3** Edificou a porta superior da casa do Senhor e mandou fazer muitas obras sobre o muro de Ofel.  
 **4** Mandou também fundar cidades nos montes de Judá, e castelos e torres nos bosques.  
 **5** Fez guerra ao rei dos Amonitas e venceu-os; por esse tempo deram-lhe os filhos de Amon cem talentos de prata, dez mil coros de trigo e outros tantos de cevada; isto mesmo lhe deram os filhos de Amon no segundo e terceiro ano.  
 **6** Joatão tornou-se poderoso, porque se conduzia firmemente nos caminhos do Senhor seu Deus.  
-**7** O resto das ações de Joatão, todas as suas guerras e empresas, tudo está escrito no livro dos reis de Israel e de Judá.  
+**7** O resto das acções de Joatão, todas as suas guerras e empresas, tudo está escrito no livro dos reis de Israel e de Judá.  
 **8** Tinha vinte e cinco anos, quando começou a reinar, e reinou dezasseis anos em Jerusalém.  
 **9** Joatão adormeceu com seus pais, e sepultaram-no na cidade de David. Seu filho Acaz reinou em lugar dele.  
 
 ## Capítulo 28
 
-**1** Acaz tinha vinte anos, quando começou a reinar, e reinou dezasseis anos em Jerusalém. Não fez o que era reto na presença do Senhor, como David, seu pai,  
+**1** Acaz tinha vinte anos, quando começou a reinar, e reinou dezasseis anos em Jerusalém. Não fez o que era recto na presença do Senhor, como David, seu pai,  
 **2** mas andou pelos caminhos dos reis de Israel, chegando até a mandar fundir estátuas a Baal.  
 **3** Ele foi o que ofereceu incenso, no vale de Benemon, e o que fez passar seus filhos pelo fogo, segundo o rito das nações que o Senhor destruiu á chegada dos filhos de Israel.  
 **4** Sacrificava e queimava perfumes nos lugares altos, nos outeiros e debaixo de todas as árvores frondosas.  
@@ -678,7 +678,7 @@
 **23** imolou vítimas aos deuses de Damasco, que o tinham ferido, e disse: Visto que os deuses dos reis da Síria dão socorro a estes, eu os aplacarei com sacrifícios, e eles me assistirão. Pelo contrário, eles foram a sua ruína e de todo o Israel.  
 **24** Acaz, tendo tomado e feito em pedaços todos os vasos da casa de Deus, fechou as portas do templo de Deus e mandou levantar altares para si em todas as praças de Jerusalém.  
 **25** Levantou também altares em todas as cidades de Judá para queimar incenso e provocou a ira do Senhor Deus de seus pais.  
-**26** O resto de suas ações e de todas as suas obras, desde o princípio até ao fim, está escrito no livro dos reis de Judá e de Israel.  
+**26** O resto de suas acções e de todas as suas obras, desde o princípio até ao fim, está escrito no livro dos reis de Judá e de Israel.  
 **27** Acaz adormeceu com seus pais, e sepultaram-no na cidade de Jerusalém, mas não o puseram nos sepulcros dos reis de Israel. Seu filho Ezequias reinou em seu lugar.  
 
 ## Capítulo 29
@@ -765,18 +765,18 @@
 **11** Mandou, então, Ezequias que se preparassem celeiros na casa do Senhor. Tendo-se feito isto,  
 **12** recolheram dentro, fielmente, tanto as primícias como os dízimos, e tudo o que tinham oferecido por voto. Foi constituído superintendente disto o Levita Conenias, e Semei, seu irmão, em segundo lugar;  
 **13** depois deste, (estavam) Jaiel, Azarias, Naat, Asael, Jerimot, Jozabad, Eliel, Jesmaquias, Maat e Banaias, que foram subordinados a Conenias e a Semei, seu irmão, por ordem do rei Ezequias e de Azarias, pontífice da casa de Deus.  
-**14** Coré, filho de Jena Levita, que era guarda da porta oriental, estava encarregado dos dons que voluntariamente se ofereciam ao Senhor, e das primícias e das coisas consagradas ao Santo dos Santos.  
-**15** Sob a sua direção estavam Eden, Benjamim, Jesué, Semeias, Amarias e Sequenias, nas cidades dos sacerdotes, para distribuírem fielmente aos seus irmãos as porções, tanto a pequenos como a grandes,  
-**16** exceto aos varões inscritos de três anos para cima, a todos que entravam no templo do Senhor; faziam a distribuição de tudo aquilo que era necessário diariamente para todos os ministérios e ofícios, segundo as suas classes.  
+**14** Coré, filho de Jena Levita, que era guarda da porta oriental, estava encarregado dos dons que voluntàriamente se ofereciam ao Senhor, e das primícias e das coisas consagradas ao Santo dos Santos.  
+**15** Sob a sua direcção estavam Eden, Benjamim, Jesué, Semeias, Amarias e Sequenias, nas cidades dos sacerdotes, para distribuírem fielmente aos seus irmãos as porções, tanto a pequenos como a grandes,  
+**16** excepto aos varões inscritos de três anos para cima, a todos que entravam no templo do Senhor; faziam a distribuição de tudo aquilo que era necessário diàriamente para todos os ministérios e ofícios, segundo as suas classes.  
 **17** Aos sacerdotes por famílias, e aos Levitas de vinte anos para cima, pelas suas classes e turmas,  
 **18** a toda essa multidão, tanto às mulheres, como a seus filhos, dum e outro sexo, se davam fielmente alimentos daquelas coisas que tinham sido oferecidas.  
 **19** Quanto aos sacerdotes, filhos de Aarão, que viviam pelos campos e pelos arrabaldes de cada cidade, havia homens, nominalmente designados, em cada localidade, que estavam encarregados de distribuir as porções a todos os varões da estirpe sacerdotal e levítica.  
-**20** Ezequias fez tudo o que temos dito em todo o reino da Judá; fez o que era bom, reto e verdadeiro na presença do Senhor seu Deus.  
+**20** Ezequias fez tudo o que temos dito em todo o reino da Judá; fez o que era bom, recto e verdadeiro na presença do Senhor seu Deus.  
 **21** Em tudo o que dizia respeito ao serviço da casa do Senhor, à lei e aos mandamentos, agiu sempre desejoso de buscar o seu Deus de todo o seu coração; assim o fez, e foi bem sucedido.  
 
 ## Capítulo 32
 
-**1** Depois destas coisas e (destes atos de) fidelidade de Ezequias, sobreveio Senaquerib, rei dos Assírios, que, tendo entrado nas terras de Judá, pôs cerco às cidades fortificadas, com o desígnio de se apoderar delas.  
+**1** Depois destas coisas e (destes actos de) fidelidade de Ezequias, sobreveio Senaquerib, rei dos Assírios, que, tendo entrado nas terras de Judá, pôs cerco às cidades fortificadas, com o desígnio de se apoderar delas.  
 **2** Ezequias, vendo isto, isto é, que Senaquerib tinha vindo e que todo o ímpeto da guerra se dirigia contra Jerusalém,  
 **3** teve conselho com os príncipes e com os mais valentes oficiais, a fim de se taparem os mananciais das águas que havia fora da cidade; sendo todos deste parecer,  
 **4** juntou-se muita gente, e taparam todas as fontes e o regato que corria pelo meio do território, dizendo: Não aconteça que venham os reis dos Assírios e encontrem abundância de água.  
@@ -807,7 +807,7 @@
 **29** Edificou também cidades para si, porque tinha inumeráveis rebanhos de ovelhas e de gado graúdo, porque o Senhor lhe tinha dado uma extraordinária abundância de bens.  
 **30** Este é o mesmo Ezequias, que tapou a fonte superior das águas de Gion e as desviou por baixo da terra para o poente da cidade de David. Em todas as obras que empreendeu foi bem sucedido.  
 **31** Todavia, quando vieram os embaixadores dos príncipes de Babilónia, enviados para se informarem do prodígio que tinha acontecido na terra, Deus desamparou-o para o experimentar, para ver tudo o que ele tinha no fundo do seu coração.  
-**32** O resto das ações de Ezequias, das suas boas obras, tudo está escrito na Visão do profeta Isaías, filho de Amós, e no livro dos reis de Judá e de Israel.  
+**32** O resto das acções de Ezequias, das suas boas obras, tudo está escrito na Visão do profeta Isaías, filho de Amós, e no livro dos reis de Judá e de Israel.  
 **33** Ezequias adormeceu com seus pais, e sepultaram-no sobre os sepulcros dos filhos de David. Todo o (povo de) Judá e todos os moradores de Jerusalém prestaram-lhe, na sua morte, grandes homenagens. Em seu lugar reinou seu filho Manassés.  
 
 ## Capítulo 33
@@ -827,7 +827,7 @@
 **13** Suplicou-lhe, rogou-lhe fervorosamente, e o Senhor ouviu a sua oração e o reconduziu a Jerusalém no seu reino. Manassés reconheceu que o Senhor é Deus.  
 **14** Depois disto, mandou edificar o muro que está fora da cidade de David, ao ocidente de Gion, no vale, desde a entrada da Porta dos Peixes, em roda até Ofel, e levantou-o muito. Também pôs oficiais do exército em todas as cidades fortes de Judá.  
 **15** Tirou da casa do Senhor os deuses estranhos, o ídolo e os altares, que tinha mandado levantar sobre a colina do templo do Senhor e em Jerusalém, e fez lançar tudo fora da cidade.  
-**16** Restaurou também o altar do Senhor e imolou sobre ele vítimas, hóstias pacíficas e de ação de graças, e ordenou a Judá que servisse o Senhor Deus de Israel.  
+**16** Restaurou também o altar do Senhor e imolou sobre ele vítimas, hóstias pacíficas e de acção de graças, e ordenou a Judá que servisse o Senhor Deus de Israel.  
 **17** Contudo, o povo ainda imolava nos lugares altos, mas apenas ao Senhor seu Deus.  
 **18** O resto dos feitos de Manassés, a oração que ele fez ao seu Deus, as palavras dos profetas que lhe falaram da parte do Senhor Deus de Israel, encerram-se nos livros dos reis de Israel.  
 **19** A oração que ele fez, como foi ouvido, todos os seus pecados, o desprezo (de Deus), os lugares em que mandou edificar os lugares altos e em que mandou levantar ascheras e estátuas, antes de fazer penitência, encontra-se tudo escrito no livro de Hozai.  
@@ -841,7 +841,7 @@
 ## Capítulo 34
 
 **1** Josias tinha oito anos, quando começou a reinar, e reinou trinta e um anos em Jerusalém.  
-**2** Fez o que era reto na presença do Senhor, andou nos caminhos de David, seu pai, não declinando nem para a direita nem para a esquerda.  
+**2** Fez o que era recto na presença do Senhor, andou nos caminhos de David, seu pai, não declinando nem para a direita nem para a esquerda.  
 **3** Desde o oitavo ano do seu reinado, sendo ainda muito jovem, começou a buscar o Deus de David, seu pai; no duodécimo ano, depois que tinha começado a reinar, purificou Judá e Jerusalém dos lugares altos, dos ascheras e das estátuas de fundição e de escultura.  
 **4** Na sua presença Foram destruídos os altares de Baal, e quebrados os ídolos que tinham sido colocados em cima, mandou cortar os ascheras, fazer em pedaços os ídolos; e ordenou que os pedaços fossem lançados sobre as sepulturas daqueles que tinham tido o costume de lhes oferecer vítimas.  
 **5** Além disso, queimou os ossos dos sacerdotes (dos ídolos), sobre os altares dos (mesmos) ídolos, e purificou Judá e Jerusalém.  
@@ -883,7 +883,7 @@
 **5** Servi no santuário, segundo a distribuição das famílias e das turmas levíticas.  
 **6** Depois de santificados, imolai a Páscoa e disponde também vossos irmãos para que a possam celebrar, segundo o que o Senhor ordenou por meio de Moisés.  
 **7** Deu Josias a todo o povo, que se tinha juntado na solenidade da Páscoa, trinta mil cabeças de gado miúdo, cordeiros e cabritos, e, além disso, três mil bois; tudo isto era da fazenda do rei.  
-**8** Os seus oficiais também ofereceram o que tinham prometido voluntariamente, tanto ao povo, como aos sacerdotes e aos Levitas. Helcias, Zacarias e Jaiel, príncipes da casa do Senhor, deram aos sacerdotes, para celebrar a Páscoa, duas mil e seiscentas cabeças de gado miúdo e trezentos bois.  
+**8** Os seus oficiais também ofereceram o que tinham prometido voluntàriamente, tanto ao povo, como aos sacerdotes e aos Levitas. Helcias, Zacarias e Jaiel, príncipes da casa do Senhor, deram aos sacerdotes, para celebrar a Páscoa, duas mil e seiscentas cabeças de gado miúdo e trezentos bois.  
 **9** Conenias, Semeias e Natanael, seus irmãos, como também Hasabias, Jeiel e Josabad, chefes dos Levitas, deram aos outros Levitas, para celebrarem a Páscoa, cinco mil cordeiros e quinhentos bois.  
 **10** Preparou-se tudo para a função e puseram-se os sacerdotes no seu posto, assim como os Levitas, divididos por turmas, segundo a ordem do rei.  
 **11** Foi imolada a Páscoa: os sacerdotes com as suas mãos derramavam o sangue, e os Levitas esfolavam as vítimas.  
@@ -895,25 +895,25 @@
 **17** Os filhos de Israel, que ali se acharam naquele tempo, celebraram a Páscoa e a solenidade dos ázimos durante sete dias.  
 **18** Não houve Páscoa semelhante a esta em Israel, desde o tempo do profeta Samuel; dentre todos os reis de Israel, não houve nenhum que celebrasse uma Páscoa como a que celebrou Josias com os sacerdotes, com os Levitas, com todo o povo de Judá, com todos os que se achavam ali de Israel e com os habitantes de Jerusalém.  
 **19** Foi celebrada esta Páscoa no ano décimo oitavo do reinado de Josias.  
-**20** Depois que Josias reparou o templo, foi Necau, rei do Egito, fazer guerra em Carcames, junto ao Eufrates. Josias marchou ao seu encontro.  
+**20** Depois que Josias reparou o templo, foi Necau, rei do Egipto, fazer guerra em Carcames, junto ao Eufrates. Josias marchou ao seu encontro.  
 **21** Aquele príncipe, porém, mandando-lhe mensageiros, disse-lhe: por que te embaraças tu comigo, ó rei de Judá? Não venho contra ti hoje, mas contra uma casa, contra a qual me mandou Deus que marchasse a toda a pressa; cessa, pois, de te opores aos desígnios de Deus, o qual é comigo, não suceda que ele te mate.  
 **22** Josias não quis tornar atrás, mas preparou-se para lhe dar batalha; não esteve pelo que Necau lhe disse da parte de Deus, mas avançou para lhe dar batalha no campo de Magedo.  
 **23** Ali, sendo ferido pelos frecheiros, disse para os seus criados: Tirai-me da peleja, porque estou gravemente ferido.  
 **24** Eles passaram-no dum carro para outro, que o seguia de reserva, segundo o costume dos reis, e levaram-no para Jerusalém. Morreu e foi sepultado no mausoléu de seus pais. Todos os habitantes de Judá e Jerusalém o prantearam,  
 **25** sobretudo Jeremias, cujas lamentações sobre Josias são repetidas até hoje por todos os cantores e cantoras, costume que ficou em Israel como lei. Encontram-se escritas estas coisas no livro das Lamentações.  
-**26** O resto das ações de Josias, as suas boas obras, segundo o que ordena a lei do Senhor,  
+**26** O resto das acções de Josias, as suas boas obras, segundo o que ordena a lei do Senhor,  
 **27** as suas façanhas, tanto as primeiras como as últimas, estão escritas no livro dos reis de Israel e de Judá.  
 
 ## Capítulo 36
 
 **1** Então o povo da terra tomou Joacaz, filho de Josias, e constituiu-o rei de Jerusalém, em lugar de seu pai.  
 **2** Joacaz tinha vinte e três anos, quando começou a reinar, e reinou em Jerusalém três meses,  
-**3** porque o rei do Egito, tendo ido a Jerusalém, o depôs, condenando o país à contribuição de cem talentos de prata e de um talento de ouro.  
-**4** Em lugar de Joacaz constituiu Eliaquim, seu irmão, rei sobre Judá e sobre Jerusalém, mudando-lhe o nome para Joaquim. Tomou Joacaz e levou-o consigo para o Egito.  
+**3** porque o rei do Egipto, tendo ido a Jerusalém, o depôs, condenando o país à contribuição de cem talentos de prata e de um talento de ouro.  
+**4** Em lugar de Joacaz constituiu Eliaquim, seu irmão, rei sobre Judá e sobre Jerusalém, mudando-lhe o nome para Joaquim. Tomou Joacaz e levou-o consigo para o Egipto.  
 **5** Joaquim tinha vinte e cinco anos, quando começou a reinar, e reinou onze anos em Jerusalém. Fez o mal diante do Senhor seu Deus.  
 **6** Contra ele marchou Nabucodonosor, rei dos Caldeus, que o prendeu com uma dupla cadeia de bronze e levou para Babilónia.  
 **7** Transportou também para esta cidade os vasos do Senhor e colocou-os no seu palácio de Babilónia.  
-**8** O resto das ações de Joaquim, das abominações que cometeu, que foram encontradas nele, estão contidas no livro dos reis de Judá e de Israel. Em seu lugar reinou seu filho Joaquin.  
+**8** O resto das acções de Joaquim, das abominações que cometeu, que foram encontradas nele, estão contidas no livro dos reis de Judá e de Israel. Em seu lugar reinou seu filho Joaquin.  
 **9** Joaquin tinha oito anos, quando começou a reinar, e reinou três meses e dez dias em Jerusalém. Fez o mal na presença do Senhor.  
 **10** Tendo decorrido o espaço dum ano, o rei Nabucodonosor mandou tropas que o conduziram a Babilónia, levando juntamente os mais preciosos vasos da casa do Senhor. (Em lugar de Joaquin) constituiu rei sobre Judá e sobre Jerusalém a Sedecias, seu tio paterno.  
 **11** Sedecias tinha vinte e um anos, quando começou a reinar, e reinou onze anos em Jerusalém.  

@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -27,7 +27,7 @@
     },
     {
      "n": 3,
-     "texto": "para compreender as palavras da prudência, receber a instrução da (boa) doutrina, a justiça, a retidão e a equidade;"
+     "texto": "para compreender as palavras da prudência, receber a instrução da (boa) doutrina, a justiça, a rectidão e a equidade;"
     },
     {
      "n": 4,
@@ -180,7 +180,7 @@
     },
     {
      "n": 7,
-     "texto": "Ele reserva a salvação para os justos, protege os que caminham retamente,"
+     "texto": "Ele reserva a salvação para os justos, protege os que caminham rectamente,"
     },
     {
      "n": 8,
@@ -188,7 +188,7 @@
     },
     {
      "n": 9,
-     "texto": "Então conhecerás a justiça, a retidão, a equidade, todos os bons caminhos."
+     "texto": "Então conhecerás a justiça, a rectidão, a equidade, todos os bons caminhos."
     },
     {
      "n": 10,
@@ -204,7 +204,7 @@
     },
     {
      "n": 13,
-     "texto": "dos que abandonam o caminho reto, e andam por caminhos tenebrosos,"
+     "texto": "dos que abandonam o caminho recto, e andam por caminhos tenebrosos,"
     },
     {
      "n": 14,
@@ -236,7 +236,7 @@
     },
     {
      "n": 21,
-     "texto": "Porque os que são retos, habitarão na terra, nela permanecerão os íntegros."
+     "texto": "Porque os que são rectos, habitarão na terra, nela permanecerão os íntegros."
     },
     {
      "n": 22,
@@ -289,7 +289,7 @@
     },
     {
      "n": 11,
-     "texto": "Não rejeites, meu filho, a correção do Senhor, nem te agaste quando ele te castiga,"
+     "texto": "Não rejeites, meu filho, a correcção do Senhor, nem te agaste quando ele te castiga,"
     },
     {
      "n": 12,
@@ -373,7 +373,7 @@
     },
     {
      "n": 32,
-     "texto": "porque o Senhor abomina todo o enganador, e a sua intimidade é com os corações retos."
+     "texto": "porque o Senhor abomina todo o enganador, e a sua intimidade é com os corações rectos."
     },
     {
      "n": 33,
@@ -434,7 +434,7 @@
     },
     {
      "n": 11,
-     "texto": "Eu te mostrarei o caminho da sabedoria, guiar-te-ei pelas veredas da retidão."
+     "texto": "Eu te mostrarei o caminho da sabedoria, guiar-te-ei pelas veredas da rectidão."
     },
     {
      "n": 12,
@@ -591,7 +591,7 @@
     },
     {
      "n": 23,
-     "texto": "Ele morrerá (infeliz), porque não recebeu a correção, e se achará enganado pelo excesso da sua loucura."
+     "texto": "Ele morrerá (infeliz), porque não recebeu a correcção, e se achará enganado pelo excesso da sua loucura."
     }
    ]
   },
@@ -624,7 +624,7 @@
     },
     {
      "n": 7,
-     "texto": "Não tendo ela guia, nem inspetor, nem príncipe,"
+     "texto": "Não tendo ela guia, nem inspector, nem príncipe,"
     },
     {
      "n": 8,
@@ -668,7 +668,7 @@
     },
     {
      "n": 18,
-     "texto": "coração que maquina perversos projetos, pés velozes para correr ao mal,"
+     "texto": "coração que maquina perversos projectos, pés velozes para correr ao mal,"
     },
     {
      "n": 19,
@@ -688,7 +688,7 @@
     },
     {
      "n": 23,
-     "texto": "Porque o mandamento é uma candeia, a lei uma luz, e a correção que conserva na disciplina é o caminho da vida."
+     "texto": "Porque o mandamento é uma candeia, a lei uma luz, e a correcção que conserva na disciplina é o caminho da vida."
     },
     {
      "n": 24,
@@ -805,7 +805,7 @@
     },
     {
      "n": 16,
-     "texto": "Adornei a minha cama com cobertas, cobri-a com colchas bordadas de linho do Egito;"
+     "texto": "Adornei a minha cama com cobertas, cobri-a com colchas bordadas de linho do Egipto;"
     },
     {
      "n": 17,
@@ -878,7 +878,7 @@
     },
     {
      "n": 6,
-     "texto": "Ouvi, porque tenho de vos falar acerca de grandes coisas, e os meus lábios se abrirão, para anunciarem o que é reto."
+     "texto": "Ouvi, porque tenho de vos falar acerca de grandes coisas, e os meus lábios se abrirão, para anunciarem o que é recto."
     },
     {
      "n": 7,
@@ -890,7 +890,7 @@
     },
     {
      "n": 9,
-     "texto": "Todas são retas para os inteligentes, e de equidade para os que encontraram a ciência."
+     "texto": "Todas são rectas para os inteligentes, e de equidade para os que encontraram a ciência."
     },
     {
      "n": 10,
@@ -918,7 +918,7 @@
     },
     {
      "n": 16,
-     "texto": "Por mim imperam os príncipes, e os soberanos governam com retidão."
+     "texto": "Por mim imperam os príncipes, e os soberanos governam com rectidão."
     },
     {
      "n": 17,
@@ -974,7 +974,7 @@
     },
     {
      "n": 30,
-     "texto": "eu estava com ele, como arquiteto; cada dia me deleitava, recreando-me continuamente diante dele,"
+     "texto": "eu estava com ele, como arquitecto; cada dia me deleitava, recreando-me continuamente diante dele,"
     },
     {
      "n": 31,
@@ -1116,7 +1116,7 @@
     },
     {
      "n": 9,
-     "texto": "Aquele que anda na retidão, anda afoitamente; aquele porém que segue caminhos tortuosos, será descoberto."
+     "texto": "Aquele que anda na rectidão, anda afoitamente; aquele porém que segue caminhos tortuosos, será descoberto."
     },
     {
      "n": 10,
@@ -1237,7 +1237,7 @@
     },
     {
      "n": 6,
-     "texto": "A justiça dos retos livrá-los-á, os iníquos, porém, serão apanhados em seus próprios laços."
+     "texto": "A justiça dos rectos livrá-los-á, os iníquos, porém, serão apanhados em seus próprios laços."
     },
     {
      "n": 7,
@@ -1346,7 +1346,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Aquele que ama a correção, ama a ciência; o que odeia as repreensões, é insensato."
+     "texto": "Aquele que ama a correcção, ama a ciência; o que odeia as repreensões, é insensato."
     },
     {
      "n": 2,
@@ -1402,11 +1402,11 @@
     },
     {
      "n": 15,
-     "texto": "Ao insensato parece reto o seu proceder; o que porém é sábio ouve os conselhos."
+     "texto": "Ao insensato parece recto o seu proceder; o que porém é sábio ouve os conselhos."
     },
     {
      "n": 16,
-     "texto": "O louco mostra logo a sua ira; o homem circunspeto dissimula a injúria."
+     "texto": "O louco mostra logo a sua ira; o homem circunspecto dissimula a injúria."
     },
     {
      "n": 17,
@@ -1463,7 +1463,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "O filho sábio ama a correção; o que porém é mofador não faz caso, quando é repreendido."
+     "texto": "O filho sábio ama a correcção; o que porém é mofador não faz caso, quando é repreendido."
     },
     {
      "n": 2,
@@ -1632,7 +1632,7 @@
     },
     {
      "n": 17,
-     "texto": "O que facilmente se irrita, comete loucuras; o homem refletido não se impacienta."
+     "texto": "O que fàcilmente se irrita, comete loucuras; o homem reflectido não se impacienta."
     },
     {
      "n": 18,
@@ -1656,7 +1656,7 @@
     },
     {
      "n": 23,
-     "texto": "Em toda a parte onde se trabalha há abundância; mas onde (somente) se fala muito, aí se encontra a indigência."
+     "texto": "Em toda a parte onde se trabalha há abundância; mas onde (sòmente) se fala muito, aí se encontra a indigência."
     },
     {
      "n": 24,
@@ -1729,7 +1729,7 @@
     },
     {
      "n": 5,
-     "texto": "O insensato despreza a correção de seu pai; o que faz caso das repreensões tornar-se-á mais avisado."
+     "texto": "O insensato despreza a correcção de seu pai; o que faz caso das repreensões tornar-se-á mais avisado."
     },
     {
      "n": 6,
@@ -1797,7 +1797,7 @@
     },
     {
      "n": 22,
-     "texto": "Os projetos malogram-se onde não há conselho, mas onde há muitos conselheiros (bons) realizam-se com êxito."
+     "texto": "Os projectos malogram-se onde não há conselho, mas onde há muitos conselheiros (bons) realizam-se com êxito."
     },
     {
      "n": 23,
@@ -1837,7 +1837,7 @@
     },
     {
      "n": 32,
-     "texto": "Aquele que rejeita a correção despreza a sua alma; o que se submete às repreensões adquire a sabedoria."
+     "texto": "Aquele que rejeita a correcção despreza a sua alma; o que se submete às repreensões adquire a sabedoria."
     },
     {
      "n": 33,
@@ -1850,7 +1850,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Ao homem pertence formar os projetos em seu coração, mas do Senhor vem a resposta da língua."
+     "texto": "Ao homem pertence formar os projectos em seu coração, mas do Senhor vem a resposta da língua."
     },
     {
      "n": 2,
@@ -1858,7 +1858,7 @@
     },
     {
      "n": 3,
-     "texto": "Recomenda ao Senhor as tuas obras, e terão bom êxito os teus projetos."
+     "texto": "Recomenda ao Senhor as tuas obras, e terão bom êxito os teus projectos."
     },
     {
      "n": 4,
@@ -1898,7 +1898,7 @@
     },
     {
      "n": 13,
-     "texto": "São agradáveis ao rei os lábios justos; o que fala coisas retas será amado."
+     "texto": "São agradáveis ao rei os lábios justos; o que fala coisas rectas será amado."
     },
     {
      "n": 14,
@@ -2108,7 +2108,7 @@
     },
     {
      "n": 2,
-     "texto": "O insensato não gosta das palavras de prudência, mas somente de manifestar os seus pensamentos."
+     "texto": "O insensato não gosta das palavras de prudência, mas sòmente de manifestar os seus pensamentos."
     },
     {
      "n": 3,
@@ -2281,7 +2281,7 @@
     },
     {
      "n": 20,
-     "texto": "Ouve o conselho e recebe a correção, para que sejas sábio para futuro."
+     "texto": "Ouve o conselho e recebe a correcção, para que sejas sábio para futuro."
     },
     {
      "n": 21,
@@ -2289,7 +2289,7 @@
     },
     {
      "n": 22,
-     "texto": "O atrativo dum homem é a sua bondade: e melhor é o pobre que o mentiroso."
+     "texto": "O atractivo dum homem é a sua bondade: e melhor é o pobre que o mentiroso."
     },
     {
      "n": 23,
@@ -2362,11 +2362,11 @@
     },
     {
      "n": 10,
-     "texto": "Ter dois pesos e duas medidas, é objeto de abominação para o Senhor."
+     "texto": "Ter dois pesos e duas medidas, é objecto de abominação para o Senhor."
     },
     {
      "n": 11,
-     "texto": "Pelas ações do menino se deduz se a sua conduta será (no futuro) pura e reta."
+     "texto": "Pelas acções do menino se deduz se a sua conduta será (no futuro) pura e recta."
     },
     {
      "n": 12,
@@ -2394,7 +2394,7 @@
     },
     {
      "n": 18,
-     "texto": "Os projetos corroboram-se pelos conselhos; e as guerras devem ser dirigidas com prudência."
+     "texto": "Os projectos corroboram-se pelos conselhos; e as guerras devem ser dirigidas com prudência."
     },
     {
      "n": 19,
@@ -2422,7 +2422,7 @@
     },
     {
      "n": 25,
-     "texto": "É uma ruína para o homem dizer inconsideradamente: \"Consagrado\", e só refletir depois de ter feito votos."
+     "texto": "É uma ruína para o homem dizer inconsideradamente: \"Consagrado\", e só reflectir depois de ter feito votos."
     },
     {
      "n": 26,
@@ -2479,7 +2479,7 @@
     },
     {
      "n": 8,
-     "texto": "O caminho do perverso é um caminho desviado, mas, quando o homem é puro, são retas as suas obras."
+     "texto": "O caminho do perverso é um caminho desviado, mas, quando o homem é puro, são rectas as suas obras."
     },
     {
      "n": 9,
@@ -2495,7 +2495,7 @@
     },
     {
      "n": 12,
-     "texto": "O Justo reflete maduramente sobre a casa do ímpio, e precipita os maus na desventura."
+     "texto": "O Justo reflecte maduramente sobre a casa do ímpio, e precipita os maus na desventura."
     },
     {
      "n": 13,
@@ -2519,7 +2519,7 @@
     },
     {
      "n": 18,
-     "texto": "O ímpio é entregue (à expiação) em lugar do justo, e o iníquo em lugar dos retos."
+     "texto": "O ímpio é entregue (à expiação) em lugar do justo, e o iníquo em lugar dos rectos."
     },
     {
      "n": 19,
@@ -2563,7 +2563,7 @@
     },
     {
      "n": 29,
-     "texto": "O ímpio mostra no seu rosto uma segurança desavergonhada; porém o que é reto corrige o seu caminho."
+     "texto": "O ímpio mostra no seu rosto uma segurança desavergonhada; porém o que é recto corrige o seu caminho."
     },
     {
      "n": 30,
@@ -2660,7 +2660,7 @@
     },
     {
      "n": 21,
-     "texto": "para te ensinar a verdade das coisas certas, para que, com palavras exatas, saibas responder àqueles que te enviam."
+     "texto": "para te ensinar a verdade das coisas certas, para que, com palavras exactas, saibas responder àqueles que te enviam."
     },
     {
      "n": 22,
@@ -2749,7 +2749,7 @@
     },
     {
      "n": 13,
-     "texto": "Não poupes a correção ao menino, porque, se lhe bateres com a vara, não morrerá."
+     "texto": "Não poupes a correcção ao menino, porque, se lhe bateres com a vara, não morrerá."
     },
     {
      "n": 14,
@@ -2761,7 +2761,7 @@
     },
     {
      "n": 16,
-     "texto": "e as minhas entranhas exultarão de prazer, quando os teus lábios proferirem palavras retas."
+     "texto": "e as minhas entranhas exultarão de prazer, quando os teus lábios proferirem palavras rectas."
     },
     {
      "n": 17,
@@ -2878,7 +2878,7 @@
     },
     {
      "n": 9,
-     "texto": "O pensamento do insensato é o pecado: e o detrator é a abominação dos homens."
+     "texto": "O pensamento do insensato é o pecado: e o detractor é a abominação dos homens."
     },
     {
      "n": 10,
@@ -2926,7 +2926,7 @@
     },
     {
      "n": 21,
-     "texto": "Teme, meu filho, o Senhor e o rei, e não te mistures com os detratores,"
+     "texto": "Teme, meu filho, o Senhor e o rei, e não te mistures com os detractores,"
     },
     {
      "n": 22,
@@ -2946,7 +2946,7 @@
     },
     {
      "n": 26,
-     "texto": "Dá um beijo nos lábios aquele que dá uma resposta reta."
+     "texto": "Dá um beijo nos lábios aquele que dá uma resposta recta."
     },
     {
      "n": 27,
@@ -2970,7 +2970,7 @@
     },
     {
      "n": 32,
-     "texto": "Ao ver isto, refleti; este espetáculo foi para mim uma lição."
+     "texto": "Ao ver isto, reflecti; este espectáculo foi para mim uma lição."
     },
     {
      "n": 33,
@@ -3031,7 +3031,7 @@
     },
     {
      "n": 12,
-     "texto": "Como uma arrecada de oiro e uma joia refulgente, assim é a repreensão dada por um sábio a um ouvido dócil."
+     "texto": "Como uma arrecada de oiro e uma jóia refulgente, assim é a repreensão dada por um sábio a um ouvido dócil."
     },
     {
      "n": 13,
@@ -3075,7 +3075,7 @@
     },
     {
      "n": 23,
-     "texto": "O vento do aquilão traz as chuvas, e a língua detratora, às ocultas, ensombra os semblantes."
+     "texto": "O vento do aquilão traz as chuvas, e a língua detractora, às ocultas, ensombra os semblantes."
     },
     {
      "n": 24,
@@ -3237,7 +3237,7 @@
     },
     {
      "n": 5,
-     "texto": "Melhor é a correção manifesta, do que o amor escondido."
+     "texto": "Melhor é a correcção manifesta, do que o amor escondido."
     },
     {
      "n": 6,
@@ -3398,7 +3398,7 @@
     },
     {
      "n": 18,
-     "texto": "Aquele que anda na retidão será salvo; porém o que anda por caminhos perversos cairá, para não mais se levantar."
+     "texto": "Aquele que anda na rectidão será salvo; porém o que anda por caminhos perversos cairá, para não mais se levantar."
     },
     {
      "n": 19,
@@ -3430,7 +3430,7 @@
     },
     {
      "n": 26,
-     "texto": "Aquele que confia no seu coração, é um insensato; porém o que anda sabiamente, será salvo."
+     "texto": "Aquele que confia no seu coração, é um insensato; porém o que anda sàbiamente, será salvo."
     },
     {
      "n": 27,
@@ -3503,7 +3503,7 @@
     },
     {
      "n": 15,
-     "texto": "A vara e a correção dão sabedoria; o menino porém, abandonado à sua vontade, é a vergonha de sua mãe."
+     "texto": "A vara e a correcção dão sabedoria; o menino porém, abandonado à sua vontade, é a vergonha de sua mãe."
     },
     {
      "n": 16,
@@ -3531,7 +3531,7 @@
     },
     {
      "n": 22,
-     "texto": "O homem colérico excita rixas; o que facilmente se indigna será muito propenso a pecar."
+     "texto": "O homem colérico excita rixas; o que fàcilmente se indigna será muito propenso a pecar."
     },
     {
      "n": 23,
@@ -3547,7 +3547,7 @@
     },
     {
      "n": 26,
-     "texto": "São muitos os que buscam a face (o favor) do príncipe; porém do Senhor depende a verdadeira sentença de cada um. Os justos abominam o homem ímpio, e os ímpios abominam aqueles que estão no caminho reto."
+     "texto": "São muitos os que buscam a face (o favor) do príncipe; porém do Senhor depende a verdadeira sentença de cada um. Os justos abominam o homem ímpio, e os ímpios abominam aqueles que estão no caminho recto."
     }
    ]
   },
@@ -3584,7 +3584,7 @@
     },
     {
      "n": 8,
-     "texto": "Afasta de mim a falsidade e as palavras mentirosas; não me dês nem a pobreza, nem as riquezas, dá-me somente o que for necessário para viver,"
+     "texto": "Afasta de mim a falsidade e as palavras mentirosas; não me dês nem a pobreza, nem as riquezas, dá-me sòmente o que for necessário para viver,"
     },
     {
      "n": 9,

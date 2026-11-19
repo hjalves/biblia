@@ -27,13 +27,13 @@
 **23** e mudaram a glória de Deus incorruptível na figura de um simulacro de homem corruptível, de aves, de quadrúpedes e de répteis.  
 **24** Pelo que Deus os abandonou aos desejos do seu coração, à imundície, de modo que desonraram os seus próprios corpos,  
 **25** eles que trocaram a verdade de Deus pela mentira e que adoraram e serviram a criatura de preferência ao Criador, que é bendito por todos os séculos. Amém.  
-**26** Por isso Deus entregou-os a paixões de ignomínia. Efetivamente, as suas próprias mulheres mudaram o uso natural em uso contra a natureza,  
+**26** Por isso Deus entregou-os a paixões de ignomínia. Efectivamente, as suas próprias mulheres mudaram o uso natural em uso contra a natureza,  
 **27** e, do mesmo modo, também os homens, deixando o uso natural da mulher, arderam nos seus desejos mutuamente, cometendo homens com homens a torpeza e recebendo em si mesmos a paga que era devida ao seu desregramento.  
 **28** E, como não procuraram conhecer a Deus, Deus abandonou-os a um sentimento depravado, que os levou a fazer o que não convém,  
 **29** cheios de toda a iniquidade, de malícia, de avareza, de maldade, cheios de inveja, de homicídios, de contendas, de engano, de malignidade, mexeriqueiros,  
-**30** detratores, odiados por Deus, injuriadores, soberbos, altivos, inventores de maldades, desobedientes aos pais,  
-**31** insensatos, sem lealdade, sem afeto, sem lei, sem misericórdia.  
-**32** Os quais, conhecedores da justiça de Deus, sabendo que os que fazem tais coisas são dignos de morte, não somente as fazem mas também aprovam aqueles que as fazem.  
+**30** detractores, odiados por Deus, injuriadores, soberbos, altivos, inventores de maldades, desobedientes aos pais,  
+**31** insensatos, sem lealdade, sem afecto, sem lei, sem misericórdia.  
+**32** Os quais, conhecedores da justiça de Deus, sabendo que os que fazem tais coisas são dignos de morte, não sòmente as fazem mas também aprovam aqueles que as fazem.  
 
 ## Capítulo 2
 
@@ -88,9 +88,9 @@
 **17** e não conheceram o caminho da paz (Is. 59, 7-8).  
 **18** Não há temor de Deus diante dos seus olhos (Ps. 35, 2).  
 **19** Ora nós sabemos que tudo aquilo que a lei diz, o diz para aqueles que estão sob a lei, para que toda a boca seja fechada e todo o mundo caia sob a justiça de Deus.  
-**20** Pelas obras da lei não será justificado nenhum homem diante dele. Efetivamente, pela lei vem o conhecimento do pecado.  
+**20** Pelas obras da lei não será justificado nenhum homem diante dele. Efectivamente, pela lei vem o conhecimento do pecado.  
 **21** Mas agora manifestou-se sem a lei a justiça de Deus, testificada pela lei e pelos profetas.  
-**22** A justiça de Deus (é infundada) pela fé de Jesus Cristo em todos e sobre todos os que creem nele, sem distinção,  
+**22** A justiça de Deus (é infundada) pela fé de Jesus Cristo em todos e sobre todos os que crêem nele, sem distinção,  
 **23** porque todos pecaram e estão privados da glória de Deus  
 **24** e são justificados gratuitamente pela sua graça, por meio da redenção, que está em Jesus Cristo,  
 **25** a quem Deus pôs, pelo seu sangue derramado, como um meio de propiciação, que opera pela fé, a fim de manifestar a sua justiça, por haver tolerado, com a sua paciência divina os pecados de outrora,  
@@ -111,21 +111,21 @@
 **6** Como também David proclama bem-aventurado o homem, a quem Deus atribui justiça independentemente das obras.  
 **7** Bem-aventurados aqueles, cujas iniquidades foram perdoadas, e cujos pecados foram cobertos.  
 **8** Bem-aventurado o homem, a quem o Senhor não imputou pecado (Ps. 31, 1-2).  
-**9** Ora esta bem-aventurança é somente para os circuncidados, ou também para os incircuncidados? Porquanto, dizemos que a fé foi imputada a Abraão como justiça.  
+**9** Ora esta bem-aventurança é sòmente para os circuncidados, ou também para os incircuncidados? Porquanto, dizemos que a fé foi imputada a Abraão como justiça.  
 **10** Como lhe foi ela, pois, imputada? Depois da circuncisão, ou antes da circuncisão? Não foi depois da circuncisão, mas antes dela.  
 **11** E recebeu o sinal da circuncisão como selo da justiça, recebida pela fé antes da circuncisão, a fim de que fosse pai de todos os crentes incircuncisos, para que também a eles lhes seja imputada a justiça (sem ser precisa a circuncisão),  
-**12** e seja pai dos circuncisos, daqueles que não têm somente a circuncisão, mas, além disso, seguem as pisadas da fé que teve nosso pai Abraão antes de ser circuncidado.  
+**12** e seja pai dos circuncisos, daqueles que não têm sòmente a circuncisão, mas, além disso, seguem as pisadas da fé que teve nosso pai Abraão antes de ser circuncidado.  
 **13** E assim a promessa a Abraão e à sua posteridade, de que seria herdeiro do mundo, não foi em virtude da lei, mas em virtude da justiça da fé.  
 **14** Com efeito, se os (que vêm) da lei é que são os (únicos) herdeiros, é inutil a fé, e sem efeito a promessa.  
 **15** Porque a lei produz a ira. Onde, pois, não há lei, não há trangressão.  
-**16** Por isso da fé é (que vem) a herança, a fim de que (esta) seja gratuita e certa para toda a posteridade, não somente para o que é da lei, mas também para o que é da fé de Abraão, que é pai de todos nós,  
+**16** Por isso da fé é (que vem) a herança, a fim de que (esta) seja gratuita e certa para toda a posteridade, não sòmente para o que é da lei, mas também para o que é da fé de Abraão, que é pai de todos nós,  
 **17** segundo está escrito: Eu te constitui pai de muitas gentes (Gn. 17, 6). Ele é pai, diante de Deus, em quem acreditou, o qual dá vida aos mortos e chama à existência o que não existe.  
 **18** Esperando contra toda a esperança, teve fé e tornou-se, por isso, pai de muitas gentes, segundo o que lhe foi dito: Assim será a tua descendência (Gn. 15, 5).  
 **19** E, sem vacilar na fé, não considerou nem o seu corpo amortecido, sendo já de quase cem anos, nem o seio de Sara, já sem vida (para conceber).  
 **20** Não hesitou nem teve falta de fé, perante a promessa de Deus, mas firmou-se na fé, dando glória a Deus,  
 **21** plenamente convencido de que é poderoso para cumprir tudo o que prometeu.  
 **22** Por isso, (isto) lhe foi imputado como justiça.  
-**23** Ora não está escrito somente por causa dele que lhe foi imputado (como justiça)  
+**23** Ora não está escrito sòmente por causa dele que lhe foi imputado (como justiça)  
 **24** mas também por nós, a quem será imputado, a nós que cremos naquele que ressuscitou dos mortos, Jesus Cristo Nosso Senhor,  
 **25** o qual foi entregue pelos nossos pecados e ressuscitou para nossa justificação.  
 
@@ -133,7 +133,7 @@
 
 **1** Justificados, pois, pela fé, tenhamos paz com Deus, por meio de Nosso Senhor Jesus Cristo,  
 **2** pelo qual temos acesso pela fé a esta graça, na qual estamos firmes, e nos gloriamos na esperança da glória de Deus.  
-**3** E não somente (nesta esperança), mas também nos gloriamos nas tribulações, sabendo que a tribulação produz a paciência,  
+**3** E não sòmente (nesta esperança), mas também nos gloriamos nas tribulações, sabendo que a tribulação produz a paciência,  
 **4** a paciência (produz) a virtude provada, a virtude provada (produz) a esperança,  
 **5** e a esperança não traz engano, porque a caridade de Deus está derramada em nossos corações pelo Espírito Santo, que nos foi dado.  
 **6** Por que motivo, pois, quando nós ainda estávamos enfermos (pelo pecado) morreu Cristo, no tempo determinado, pelos ímpios?  
@@ -157,8 +157,8 @@
 
 **1** Que diremos pois? Permaneceremos no pecado, para que abunde a graça?  
 **2** Deus nos livre. Porque, se nós ficamos mortos para o pecado, como viveremos ainda nele?  
-**3** Não sabeis que todos os que fomos batizados em Jesus Cristo, fomos batizados na sua morte?  
-**4** Fomos, pois, sepultados com ele, a fim de morrer (para o pecado) pelo batismo, para que, assim como Cristo ressuscitou dos mortos pela glória do Pai, assim nós vivamos uma vida nova.  
+**3** Não sabeis que todos os que fomos baptizados em Jesus Cristo, fomos baptizados na sua morte?  
+**4** Fomos, pois, sepultados com ele, a fim de morrer (para o pecado) pelo baptismo, para que, assim como Cristo ressuscitou dos mortos pela glória do Pai, assim nós vivamos uma vida nova.  
 **5** Porque, se nos tornamos um mesmo ser com ele, por uma morte semelhante à sua, o mesmo sucederá por uma ressurreição semelhante,  
 **6** sabendo que o nosso homem velho foi crucificado juntamente com ele, a fim de que seja destruído o corpo do pecado, para que não sirvamos jamais ao pecado.  
 **7** De facto, aquele que morreu, justificado está do pecado.  
@@ -185,7 +185,7 @@
 **2** Assim a mulher está ligada pela lei ao marido, enquanto ele vive; mas ao morrer seu marido, fica livre da lei do marido.  
 **3** Por isso, vivendo o marido, será chamada adúltera, se estiver com outro homem; mas se morrer seu marido, fica livre desta lei, de maneira que não é adúltera, se se tornar mulher de outro homem.  
 **4** Assim, irmãos meus, também vós estais mortos à lei pelo corpo de Cristo, para que sejais de outro, daquele que ressuscitou dos mortos, a fim de que demos frutos para Deus.  
-**5** Enquanto estávamos na carne, os afetos pecaminosos, excitados pela lei, atuavam em nossos membros, para produzirem frutos de morte.  
+**5** Enquanto estávamos na carne, os afectos pecaminosos, excitados pela lei, actuavam em nossos membros, para produzirem frutos de morte.  
 **6** Mas agora estamos livres da lei, mortos para aquilo que nos tinha cativos, a fim de que sirvamos (a Deus) segundo o novo espírito (que é a graça do Espírito Santo), e não segundo a antiga letra (da lei de Moisés).  
 **7** Que diremos pois? A lei é pecado? Longe disso. Mas eu não conheci o pecado, senão pela lei, porque eu não conheceria a concupiscência, se a lei não dissesse: não desejarás o mal (Ex. 20, 17).  
 **8** E o pecado, tomando ocasião daquele mandamento, fez nascer em mim toda a concupiscência. Com efeito, sem a lei, o pecado estava morto.  
@@ -194,7 +194,7 @@
 **11** porque o pecado, tomando ocasião do mandamento, seduziu-me e por ele me matou.  
 **12** Assim pois, a lei (é) santa, e o mandamento (é) santo, justo e bom.  
 **13** Uma coisa boa foi, então, para mim causa de morte? Não, absolutamente. Mas foi o pecado que, para se mostrar pecado, me deu a morte (espiritual) por meio de uma coisa boa, a fim de que, pelo mandamento, o pecado mostrasse ao máximo a sua nocividade.  
-**14** Efetivamente sabemos que a lei é espiritual, mas eu sou carnal, vendido como escravo ao pecado.  
+**14** Efectivamente sabemos que a lei é espiritual, mas eu sou carnal, vendido como escravo ao pecado.  
 **15** Em verdade, não entendo o que faço; não faço o (bem) que quero, mas faço o (mal) que não quero.  
 **16** Ora, se eu faço o que não quero, reconheço (por isso), que a lei é boa.  
 **17** Neste caso já não sou eu (na parte mais nobre do meu ser) que faço isto, mas sim o pecado (isto é a concupiscência), que habita em mim.  
@@ -221,7 +221,7 @@
 **10** Se, pois, Cristo está em vós, o corpo verdadeiramente está morto por causa do pecado, mas o espírito é vida, graças à justiça.  
 **11** E, se o Espírito daquele que ressuscitou a Jesus dos mortos, habita em vós, ele, que ressuscitou a Jesus Cristo dos mortos, também dará vida aos vossos corpos mortais, por meio do seu Espírito, que habita em vós.  
 **12** Portanto, irmãos, não somos devedores à carne, para que vivamos segundo a carne.  
-**13** Efetivamente, se viverdes segundo a carne, morrereis (para a vida da graça), mas se, pelo espírito, fizerdes morrer as obras da carne, vivereis.  
+**13** Efectivamente, se viverdes segundo a carne, morrereis (para a vida da graça), mas se, pelo espírito, fizerdes morrer as obras da carne, vivereis.  
 **14** Porque todos aqueles que são conduzidos pelo Espírito de Deus, são filhos de Deus.  
 **15** Com efeito, não recebestes o espírito de escravidão para estardes novamente com temor, mas recebestes o espírito de adoção (de filhos), mercê do qual clamamos: "Abba, Pai."  
 **16** O mesmo Espírito dá testemunho ao nosso espírito, de que somos filhos de Deus.  
@@ -260,7 +260,7 @@
 **7** nem os que são da linhagem de Abraão (são) todos (seus) filhos; mas é em Isaac que terás uma posteridade com o teu nome. (Gn. 21, 12).  
 **8** Isto é, não são os filhos da carne que são filhos de Deus, mas os filhos da promessa é que são considerados como descendentes (de Abraão).  
 **9** Com efeito os termos da promessa são os seguintes: Por este tempo virei, e Sara terá um filho (Gn. 18, 10).  
-**10** E não somente ela, mas também (recebeu a promessa) Rebeca, a qual, de um só homem, Isaac, nosso pai, concebeu (dois filhos).  
+**10** E não sòmente ela, mas também (recebeu a promessa) Rebeca, a qual, de um só homem, Isaac, nosso pai, concebeu (dois filhos).  
 **11** Não tendo eles ainda nascido, nem tendo ainda feito bem ou mal (para que permanecesse firme o decreto de Deus (decreto que é) segundo a (sua) escolha),  
 **12** não em vista das obras, mas por causa daquele que chama, foi-lhe dito a ela: O mais velho servirá ao mais novo (Gn. 25, 23),  
 **13** segundo o que está escrito: Amei Jacob, e aborreci Esaú (Ml. 1, 1-3).  
@@ -275,9 +275,9 @@
 **22** E se Deus, querendo mostrar a sua ira e tornar manifesto o seu poder, suportou com muita paciência os vasos de ira, preparados (por sua culpa) para a perdição,  
 **23** a fim de mostrar as riquezas da sua glória sobre os vasos de misericórdia, que preparou para a glória (onde está a injustiça?).  
 **24** (Esses vasos de misericórdia somos) nós, a quem ele também chamou, não só dos Judeus, mas ainda dos gentios.  
-**25** Como diz em Oseias( Os. 2, 23; Os. 1, 10 ): Chamarei meu povo o povo não meu, e amado o não amado, e objeto de misericórdia o que não tinha alcançado misericórdia,  
+**25** Como diz em Oseias( Os. 2, 23; Os. 1, 10 ): Chamarei meu povo o povo não meu, e amado o não amado, e objecto de misericórdia o que não tinha alcançado misericórdia,  
 **26** E acontecerá que, no lugar em que lhes foi dito: Vós não sois meu povo, aí serão chamados filhos de Deus vivo.  
-**27** Acerca de Israel, Isaías exclama: Se for o número dos filhos de Israel como a areia do mar, somente as relíquias serão salvas.  
+**27** Acerca de Israel, Isaías exclama: Se for o número dos filhos de Israel como a areia do mar, sòmente as relíquias serão salvas.  
 **28** Porque Deus cumprirá a sua palavra com justiça plena e prontamente sobre a terra (Is. 10, 22-23).  
 **29** E, ainda como predisse Isaías (Is. 1, 9): Se o Senhor dos Exércitos não tivesse deixado de nós semente, ter-nos-íamos tornado como Sodoma, semelhantes a Gomorra.  
 **30** Que diremos, pois? Que os gentios, que não seguiam a justiça, obtiveram a justiça, aquela justiça que vem da fé.  
@@ -291,7 +291,7 @@
 **2** Pois lhes dou testemunho de que eles têm zelo de Deus, mas mal esclarecido.  
 **3** Porque, não conhecendo a justiça de Deus e procurando estabelecer a sua própria, não se sujeitaram a justiça de Deus.  
 **4** Com efeito, o fim da lei é Cristo, para a justificação de todo o que crê.  
-**5** Efetivamente Moisés escreveu, a respeito da justiça que vem da lei: O homem que a cumprir, por ela viverá (Lv. 18, 5).  
+**5** Efectivamente Moisés escreveu, a respeito da justiça que vem da lei: O homem que a cumprir, por ela viverá (Lv. 18, 5).  
 **6** Mas a justiça que vem da fé diz assim: Não digas no teu coração: Quem subirá ao céu?— e isso para fazer descer Cristo.  
 **7** Ou quem descerá ao abismo? — e isso para ressuscitar Cristo dentre os mortos.  
 **8** Mas que diz a Escritura: Perto de ti está a palavra, na tua boca e no teu coração (Dt. 30, 14). Esta é a palavra da fé que pregamos.  
@@ -342,7 +342,7 @@
 **29** Com efeito, os dons e a vocação de Deus são sem arrependimento.  
 **30** Assim como também vós outrora desobedecestes a Deus e agora alcançastes misericórdia pela desobediência deles,  
 **31** assim também eles agora não obedecem, a fim de que, pela misericórdia que vos foi feita, alcancem também eles misericórdia (excitados por uma santa inveja de vós).  
-**32** Efetivamente, Deus a todos encerrou na desobediência, a fim de usar com todos de misericórdia.  
+**32** Efectivamente, Deus a todos encerrou na desobediência, a fim de usar com todos de misericórdia.  
 **33** O profundidade das riquezas da sabedoria e da ciência de Deus! Quão incompreensíveis são os seus juízos e imperscrutáveis os seus caminhos!  
 **34** Pois quem conheceu o pensamento do Senhor? Ou quem foi o seu conselheiro?  
 **35** Ou quem lhe deu alguma coisa, primeiro, para que tenha de receber em troca?  
@@ -376,9 +376,9 @@
 
 **1** Toda a alma esteja sujeita às autoridades superiores, porque não há autoridade que não venha de Deus e as que existem, foram instituídas por Deus.  
 **2** Aquele, pois, que resiste à autoridade, resiste à ordenação de Deus. E os que resistem, atraem sobre si próprios a condenação.  
-**3** Com efeito, os príncipes não são para temer pelas ações boas, mas pelas más. Queres, pois, não temer a autoridade? Faze o bem, e terás o louvor dela,  
+**3** Com efeito, os príncipes não são para temer pelas acções boas, mas pelas más. Queres, pois, não temer a autoridade? Faze o bem, e terás o louvor dela,  
 **4** porque (o príncipe) é ministro de Deus para teu bem. Mas, se fizeres o mal, teme, porque não é debalde que ele traz a espada. Porquanto ele é ministro de Deus vingador, para punir aquele que faz o mal.  
-**5** É pois, necessário que lhe estejais sujeitos, não somente pelo temor da ira, mas também por motivo de consciência.  
+**5** É pois, necessário que lhe estejais sujeitos, não sòmente pelo temor da ira, mas também por motivo de consciência.  
 **6** De facto, também por esta causa é que pagarás os tributos, pois são ministros de Deus, quando exercem o seu oficio.  
 **7** Pagai, pois, a todos o que lhes é devido: a quem o imposto, o imposto; a quem as taxas, as taxas; a quem o temor, o temor; a quem a honra, a honra.  
 **8** A ninguém devais coisa alguma, a não ser o amor mútuo, porque aquele que ama o próximo, cumpriu a lei.  
@@ -392,7 +392,7 @@
 ## Capítulo 14
 
 **1** Ao que é fraco na fé, acolhei-o sem discutir (suas) opiniões.  
-**2** Um crê que pode comer de tudo; o outro, porém, que é fraco, come (somente) legumes.  
+**2** Um crê que pode comer de tudo; o outro, porém, que é fraco, come (sòmente) legumes.  
 **3** O que come de tudo, não despreze o que não come de tudo; e o que não come de tudo, não julgue o que come de tudo, porque Deus o recebeu.  
 **4** Quem és tu para julgar o servo alheio? Se ele está de pé ou cai, isso é com o seu senhor; mas ele estará de pé, porque Deus é poderoso para o sustentar.  
 **5** Um distingue entre dia e dia; outro, porém, considera iguais todos os dias: cada um siga o seu parecer.  
@@ -406,7 +406,7 @@
 **13** Não nos julguemos, pois, mais uns aos outros; proponde antes não pôr tropeço ou escândalo ao vosso irmão.  
 **14** Eu sei e confio no Senhor Jesus que nenhuma coisa (de alimento) é impura por si mesma, senão para aquele que a tem por tal, para esse é que ela é impura.  
 **15** Ora se, por causa de um alimento, teu irmão fica contrístado, já não andas segundo a caridade. Não percas, por causa do teu alimento, aquele por quem Cristo morreu.  
-**16** Não façais que seja objeto de critica o que é vosso bem.  
+**16** Não façais que seja objecto de critica o que é vosso bem.  
 **17** Porque o reino de Deus não é comida nem bebida, mas justiça, paz e gozo no Espírito Santo.  
 **18** Quem deste modo serve a Cristo, agrada a Deus e é aprovado pelos homens.  
 **19** Sigamos, pois, as coisas que contribuem para a paz e para a edificação mútua.  
@@ -442,7 +442,7 @@
 **23** Mas agora, não tendo já motivo para me demorar mais nestas terras e desejando há muitos anos ir ter convosco,  
 **24** quando me puser a caminho para Espanha, espero que, de passagem, vos verei e que serei acompanhado por (alguns de) vós até lá, depois de ter gozado em parte a vossa companhia.  
 **25** Agora, porém, irei a Jerusalém em serviço dos santos,  
-**26** porque a Macedónia e Acaia tiveram por bem fazer uma coleta para os pobres, que existem entre os santos de Jerusalém.  
+**26** porque a Macedónia e Acaia tiveram por bem fazer uma colecta para os pobres, que existem entre os santos de Jerusalém.  
 **27** Tiveram-no por bem e lhes são devedores. Com efeito, se os gentios se tornaram participantes dos seus bens espirituais, devem também assistir-lhes com os temporais.  
 **28** Quando eu, pois, tiver cumprido isto e lhes tiver feito entrega deste fruto, partirei para Espanha, passando por vós.  
 **29** E sei que, indo ter convosco, irei com a plenitude da bênção de Cristo.  

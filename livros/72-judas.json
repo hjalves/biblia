@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -31,11 +31,11 @@
     },
     {
      "n": 4,
-     "texto": "Efetivamente, introduziram-se entre vós certos homens ímpios (dos quais está escrito há muito tempo que viriam a cair nesta condenação), os quais trocam a graça do nosso Deus em luxúria, e negam a Jesus Cristo, nosso único Dominador e Senhor."
+     "texto": "Efectivamente, introduziram-se entre vós certos homens ímpios (dos quais está escrito há muito tempo que viriam a cair nesta condenação), os quais trocam a graça do nosso Deus em luxúria, e negam a Jesus Cristo, nosso único Dominador e Senhor."
     },
     {
      "n": 5,
-     "texto": "Ora eu quero recordar-vos, embora já saibais tudo, que Jesus, salvando o povo da terra do Egito, destruiu depois aqueles que não creram;"
+     "texto": "Ora eu quero recordar-vos, embora já saibais tudo, que Jesus, salvando o povo da terra do Egipto, destruiu depois aqueles que não creram;"
     },
     {
      "n": 6,
@@ -51,7 +51,7 @@
     },
     {
      "n": 9,
-     "texto": "Quando o Arcanjo Miguel, disputando com o demónio, altercava sobre o corpo de Moisés, não se atreveu a proferir contra ele uma acusação injuriosa, mas disse (somente): Reprima-te o Senhor."
+     "texto": "Quando o Arcanjo Miguel, disputando com o demónio, altercava sobre o corpo de Moisés, não se atreveu a proferir contra ele uma acusação injuriosa, mas disse (sòmente): Reprima-te o Senhor."
     },
     {
      "n": 10,

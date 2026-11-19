@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -87,7 +87,7 @@
     },
     {
      "n": 18,
-     "texto": "Quanto ao resto das ações de Ocozias, estão escritas no livro das Crónicas dos reis de Israel."
+     "texto": "Quanto ao resto das acções de Ocozias, estão escritas no livro das Crónicas dos reis de Israel."
     }
    ]
   },
@@ -769,7 +769,7 @@
     },
     {
      "n": 7,
-     "texto": "Levantaram-se, pois, e fugiram de noite, deixando no acampamento as suas tendas, os seus cavalos e jumentos, e cuidando somente em salvar as suas vidas."
+     "texto": "Levantaram-se, pois, e fugiram de noite, deixando no acampamento as suas tendas, os seus cavalos e jumentos, e cuidando sòmente em salvar as suas vidas."
     },
     {
      "n": 8,
@@ -781,7 +781,7 @@
     },
     {
      "n": 10,
-     "texto": "Tendo chegado à porta da cidade, contaram o sucedido: Nós fomos ao campo dos Sírios e não encontramos lá homem algum, mas somente cavalos, jumentos presos, e as suas tendas armadas."
+     "texto": "Tendo chegado à porta da cidade, contaram o sucedido: Nós fomos ao campo dos Sírios e não encontramos lá homem algum, mas sòmente cavalos, jumentos presos, e as suas tendas armadas."
     },
     {
      "n": 11,
@@ -918,7 +918,7 @@
     },
     {
      "n": 23,
-     "texto": "Quanto ao resto das ações de Jorão, a tudo o que ele fez, não se encontram todas essas coisas escritas no livro das Crónicas dos reis de Judá?"
+     "texto": "Quanto ao resto das acções de Jorão, a tudo o que ele fez, não se encontram todas essas coisas escritas no livro das Crónicas dos reis de Judá?"
     },
     {
      "n": 24,
@@ -1160,7 +1160,7 @@
     },
     {
      "n": 15,
-     "texto": "Partindo dali, encontrou Jonadab, filho de Recab, que lhe vinha ao encontro. Jeú saudou-o, dizendo-lhe: Porventura tens tu o coração reto, como o meu o é com o teu coração? Jonadab respondeu: Tenho. Se assim é, disse Jeú, dá-me a tua mão. Jonadab deu-lhe a sua mão. Jeú mandou-o subir para o seu carro"
+     "texto": "Partindo dali, encontrou Jonadab, filho de Recab, que lhe vinha ao encontro. Jeú saudou-o, dizendo-lhe: Porventura tens tu o coração recto, como o meu o é com o teu coração? Jonadab respondeu: Tenho. Se assim é, disse Jeú, dá-me a tua mão. Jonadab deu-lhe a sua mão. Jeú mandou-o subir para o seu carro"
     },
     {
      "n": 16,
@@ -1192,7 +1192,7 @@
     },
     {
      "n": 23,
-     "texto": "Tendo entrado Jeú com Jonadab, filho de Recab, no templo de Baal, disse aos adoradores de Baal: Examinai, vede bem que não esteja entre vós algum dos ministros do Senhor, mas somente os servos de Baal."
+     "texto": "Tendo entrado Jeú com Jonadab, filho de Recab, no templo de Baal, disse aos adoradores de Baal: Examinai, vede bem que não esteja entre vós algum dos ministros do Senhor, mas sòmente os servos de Baal."
     },
     {
      "n": 24,
@@ -1236,7 +1236,7 @@
     },
     {
      "n": 34,
-     "texto": "O resto das ações de Jeú, todos os seus feitos e o seu valor, não estão todas estas coisas escritas no livro das Crónicas dos reis de Israel?"
+     "texto": "O resto das acções de Jeú, todos os seus feitos e o seu valor, não estão todas estas coisas escritas no livro das Crónicas dos reis de Israel?"
     },
     {
      "n": 35,
@@ -1346,7 +1346,7 @@
     },
     {
      "n": 2,
-     "texto": "Joás procedeu retamente diante do Senhor durante todo o tempo que foi dirigido pelo pontífice Jojada."
+     "texto": "Joás procedeu rectamente diante do Senhor durante todo o tempo que foi dirigido pelo pontífice Jojada."
     },
     {
      "n": 3,
@@ -1354,7 +1354,7 @@
     },
     {
      "n": 4,
-     "texto": "Joás disse aos sacerdotes: Todo o dinheiro das coisas consagradas, que for oferecido no templo do Senhor pelos que passam, assim como o que se oferece, pelo resgate da pessoa, e o que espontaneamente e ao arbítrio do seu coração trazem ao templo do Senhor,"
+     "texto": "Joás disse aos sacerdotes: Todo o dinheiro das coisas consagradas, que for oferecido no templo do Senhor pelos que passam, assim como o que se oferece, pelo resgate da pessoa, e o que espontâneamente e ao arbítrio do seu coração trazem ao templo do Senhor,"
     },
     {
      "n": 5,
@@ -1414,7 +1414,7 @@
     },
     {
      "n": 19,
-     "texto": "Quanto ao resto das ações de Joás, a tudo o que ele fez, não estão todas estas coisas escritas no livro das Crónicas dos reis de Judá?"
+     "texto": "Quanto ao resto das acções de Joás, a tudo o que ele fez, não estão todas estas coisas escritas no livro das Crónicas dos reis de Judá?"
     },
     {
      "n": 20,
@@ -1459,7 +1459,7 @@
     },
     {
      "n": 8,
-     "texto": "Quanto ao resto das ações de Joacaz, a todos os seus feitos, ao seu valor, não estão estas coisas escritas no livro das Crónicas dos reis de Israel?"
+     "texto": "Quanto ao resto das acções de Joacaz, a todos os seus feitos, ao seu valor, não estão estas coisas escritas no livro das Crónicas dos reis de Israel?"
     },
     {
      "n": 9,
@@ -1475,7 +1475,7 @@
     },
     {
      "n": 12,
-     "texto": "Quanto ao resto das ações de Joás, a tudo o que ele fez, ao seu valor, à guerra contra Amasias, rei de Judá, não está tudo isto escrito no livro das Crónicas dos reis de Israel?"
+     "texto": "Quanto ao resto das acções de Joás, a tudo o que ele fez, ao seu valor, à guerra contra Amasias, rei de Judá, não está tudo isto escrito no livro das Crónicas dos reis de Israel?"
     },
     {
      "n": 13,
@@ -1592,7 +1592,7 @@
     },
     {
      "n": 15,
-     "texto": "Quanto ao resto das ações de Joás, ao valor com que pelejou contra Amasias, rei de Judá, não está tudo isto escrito no livro das Crónicas dos reis de Israel?"
+     "texto": "Quanto ao resto das acções de Joás, ao valor com que pelejou contra Amasias, rei de Judá, não está tudo isto escrito no livro das Crónicas dos reis de Israel?"
     },
     {
      "n": 16,
@@ -1604,7 +1604,7 @@
     },
     {
      "n": 18,
-     "texto": "Quanto no resto das ações de Amasias, não está tudo escrito no livro das Crónicas dos reis de Judá?"
+     "texto": "Quanto no resto das acções de Amasias, não está tudo escrito no livro das Crónicas dos reis de Judá?"
     },
     {
      "n": 19,
@@ -1644,7 +1644,7 @@
     },
     {
      "n": 28,
-     "texto": "Quanto ao resto da história de Jeroboão, às suas ações e empreendimentos guerreiros, à forma como reconquistou para Israel (as cidades de) Damasco e Emat (que tinham sido) de Judá, não está tudo isto escrito no livro das Crónicas dos reis de Israel?"
+     "texto": "Quanto ao resto da história de Jeroboão, às suas acções e empreendimentos guerreiros, à forma como reconquistou para Israel (as cidades de) Damasco e Emat (que tinham sido) de Judá, não está tudo isto escrito no livro das Crónicas dos reis de Israel?"
     },
     {
      "n": 29,
@@ -1677,7 +1677,7 @@
     },
     {
      "n": 6,
-     "texto": "Quanto ao resto das ações de Azarias, a tudo o que ele fez, não está escrito no livro das Crónicas dos reis de Judá?"
+     "texto": "Quanto ao resto das acções de Azarias, a tudo o que ele fez, não está escrito no livro das Crónicas dos reis de Judá?"
     },
     {
      "n": 7,
@@ -1697,7 +1697,7 @@
     },
     {
      "n": 11,
-     "texto": "Quanto ao resto das ações de Zacarias, não estão elas escritas no livro das Crónicas dos reis de Israel?"
+     "texto": "Quanto ao resto das acções de Zacarias, não estão elas escritas no livro das Crónicas dos reis de Israel?"
     },
     {
      "n": 12,
@@ -1705,7 +1705,7 @@
     },
     {
      "n": 13,
-     "texto": "No ano trinta e nove de Azarias, rei de Judá, reinou Selum, filho de Jabes. Reinou somente durante um mês em Samaria."
+     "texto": "No ano trinta e nove de Azarias, rei de Judá, reinou Selum, filho de Jabes. Reinou sòmente durante um mês em Samaria."
     },
     {
      "n": 14,
@@ -1713,7 +1713,7 @@
     },
     {
      "n": 15,
-     "texto": "Quanto ao resto das ações de Selum, e a conspiração que ele urdiu traiçoeiramente, porventura estas coisas não estão escritas no livro das Crónicas dos reis de Israel?"
+     "texto": "Quanto ao resto das acções de Selum, e a conspiração que ele urdiu traiçoeiramente, porventura estas coisas não estão escritas no livro das Crónicas dos reis de Israel?"
     },
     {
      "n": 16,
@@ -1737,7 +1737,7 @@
     },
     {
      "n": 21,
-     "texto": "Quanto ao resto das ações de Manaem, a tudo o que ele fez, não está isso escrito no livro das Crónicas dos reis de Israel?"
+     "texto": "Quanto ao resto das acções de Manaem, a tudo o que ele fez, não está isso escrito no livro das Crónicas dos reis de Israel?"
     },
     {
      "n": 22,
@@ -1757,7 +1757,7 @@
     },
     {
      "n": 26,
-     "texto": "Quanto ao resto das ações de Faceias, a tudo o que ele fez, não está isso escrito no livro das Crónicas dos reis de Israel?"
+     "texto": "Quanto ao resto das acções de Faceias, a tudo o que ele fez, não está isso escrito no livro das Crónicas dos reis de Israel?"
     },
     {
      "n": 27,
@@ -1777,7 +1777,7 @@
     },
     {
      "n": 31,
-     "texto": "O resto das ações de Faceia, tudo o que ele fez, não está isso escrito no livro das Crónicas dos reis de Israel?"
+     "texto": "O resto das acções de Faceia, tudo o que ele fez, não está isso escrito no livro das Crónicas dos reis de Israel?"
     },
     {
      "n": 32,
@@ -1797,7 +1797,7 @@
     },
     {
      "n": 36,
-     "texto": "O resto das ações de Joatão, tudo o que ele fez, não está isso escrito no livro das Crónicas dos reis de Judá?"
+     "texto": "O resto das acções de Joatão, tudo o que ele fez, não está isso escrito no livro das Crónicas dos reis de Judá?"
     },
     {
      "n": 37,
@@ -1886,7 +1886,7 @@
     },
     {
      "n": 19,
-     "texto": "O resto das ações de Acaz não está escrito no livro das Crónicas dos reis de Judá?"
+     "texto": "O resto das acções de Acaz não está escrito no livro das Crónicas dos reis de Judá?"
     },
     {
      "n": 20,
@@ -1911,7 +1911,7 @@
     },
     {
      "n": 4,
-     "texto": "Mas, tendo o rei dos Assírios descoberto que Oseias, tentando rebelar-se, tinha mandado mensageiros a Sua, rei do Egito, para não pagar os tributos no rei dos Assírios, como todos os anos costumava, cercou-o, e, depois de preso, meteu-o numa prisão,"
+     "texto": "Mas, tendo o rei dos Assírios descoberto que Oseias, tentando rebelar-se, tinha mandado mensageiros a Sua, rei do Egipto, para não pagar os tributos no rei dos Assírios, como todos os anos costumava, cercou-o, e, depois de preso, meteu-o numa prisão,"
     },
     {
      "n": 5,
@@ -1923,7 +1923,7 @@
     },
     {
      "n": 7,
-     "texto": "Sucedeu que, tendo os filhos de Israel pecado contra o Senhor seu Deus, que os tinha tirado da terra do Egito, do poder de Faraó, rei do Egito, adoraram deuses estranhos."
+     "texto": "Sucedeu que, tendo os filhos de Israel pecado contra o Senhor seu Deus, que os tinha tirado da terra do Egipto, do poder de Faraó, rei do Egipto, adoraram deuses estranhos."
     },
     {
      "n": 8,
@@ -1931,7 +1931,7 @@
     },
     {
      "n": 9,
-     "texto": "Os filhos de Israel ofenderam o Senhor seu Deus, com ações más, e edificaram para si (altares nos) lugares altos em todas as suas cidades, desde as torres de guarda até às cidades fortes."
+     "texto": "Os filhos de Israel ofenderam o Senhor seu Deus, com acções más, e edificaram para si (altares nos) lugares altos em todas as suas cidades, desde as torres de guarda até às cidades fortes."
     },
     {
      "n": 10,
@@ -1939,7 +1939,7 @@
     },
     {
      "n": 11,
-     "texto": "ali queimavam incenso sobre os altares, à maneira das gentes, que o Senhor tinha levado para longe, da sua presença; praticaram ações criminosíssimas, irritaram o Senhor,"
+     "texto": "ali queimavam incenso sobre os altares, à maneira das gentes, que o Senhor tinha levado para longe, da sua presença; praticaram acções criminosíssimas, irritaram o Senhor,"
     },
     {
      "n": 12,
@@ -2039,7 +2039,7 @@
     },
     {
      "n": 36,
-     "texto": "mas temei ao Senhor vosso Deus, que vos tirou da terra do Egito com grande poder e com braço estendido: a ele adorai e a ele oferecei sacrifícios."
+     "texto": "mas temei ao Senhor vosso Deus, que vos tirou da terra do Egipto com grande poder e com braço estendido: a ele adorai e a ele oferecei sacrifícios."
     },
     {
      "n": 37,
@@ -2080,7 +2080,7 @@
     },
     {
      "n": 4,
-     "texto": "Destruiu os lugares altos, quebrou as estátuas, cortou aschera e fez em pedaços a serpente de metal que Moisés tinha fabricado, porque os filhos de Israel até então tinham-lhe queimado incenso, e chamou-a Noestan (isto é, um simples objeto de bronze)."
+     "texto": "Destruiu os lugares altos, quebrou as estátuas, cortou aschera e fez em pedaços a serpente de metal que Moisés tinha fabricado, porque os filhos de Israel até então tinham-lhe queimado incenso, e chamou-a Noestan (isto é, um simples objecto de bronze)."
     },
     {
      "n": 5,
@@ -2148,7 +2148,7 @@
     },
     {
      "n": 21,
-     "texto": "Esperas porventura no Egito, que é uma cana rachada, que fere e trespassa a mão do que nela procura apoio: tal é Faraó, rei do Egito, para todos os que confiam nele."
+     "texto": "Esperas porventura no Egipto, que é uma cana rachada, que fere e trespassa a mão do que nela procura apoio: tal é Faraó, rei do Egipto, para todos os que confiam nele."
     },
     {
      "n": 22,
@@ -2160,7 +2160,7 @@
     },
     {
      "n": 24,
-     "texto": "Como poderás resistir diante dum só sátrapa dos últimos servos de meu senhor? Porventura tens confiança no Egito, por causa dos carros e cavaleiros?"
+     "texto": "Como poderás resistir diante dum só sátrapa dos últimos servos de meu senhor? Porventura tens confiança no Egipto, por causa dos carros e cavaleiros?"
     },
     {
      "n": 25,
@@ -2313,11 +2313,11 @@
     },
     {
      "n": 24,
-     "texto": "Cavei. E bebi águas estrangeiras, sequei com as plantas dos meus pés todos os rios do Egito."
+     "texto": "Cavei. E bebi águas estrangeiras, sequei com as plantas dos meus pés todos os rios do Egipto."
     },
     {
      "n": 25,
-     "texto": "Tu não ouviste dizer o que eu fiz desde o princípio? Desde os dias antigos eu formei este projeto, e agora o executo; as cidades fortes dos combatentes são um montão de ruínas."
+     "texto": "Tu não ouviste dizer o que eu fiz desde o princípio? Desde os dias antigos eu formei este projecto, e agora o executo; as cidades fortes dos combatentes são um montão de ruínas."
     },
     {
      "n": 26,
@@ -2382,7 +2382,7 @@
     },
     {
      "n": 3,
-     "texto": "Peço-te, Senhor, lembra-te, te suplico, de que eu andei diante de ti, em verdade e com um coração reto, e que fiz o que era do teu agrado. Depois Ezequias derramou abundantes lágrimas."
+     "texto": "Peço-te, Senhor, lembra-te, te suplico, de que eu andei diante de ti, em verdade e com um coração recto, e que fiz o que era do teu agrado. Depois Ezequias derramou abundantes lágrimas."
     },
     {
      "n": 4,
@@ -2450,7 +2450,7 @@
     },
     {
      "n": 20,
-     "texto": "O resto das ações de Ezequias, o seu grande valor, a construção do reservatório e do aqueduto pelo qual conduziu a água para a cidade, não está tudo isto escrito no livro das Crónicas dos reis de Judá?"
+     "texto": "O resto das acções de Ezequias, o seu grande valor, a construção do reservatório e do aqueduto pelo qual conduziu a água para a cidade, não está tudo isto escrito no livro das Crónicas dos reis de Judá?"
     },
     {
      "n": 21,
@@ -2519,7 +2519,7 @@
     },
     {
      "n": 15,
-     "texto": "porque cometeram o mal diante de mim e não deixaram de me irritar, desde o dia em que seus pais saíram do Egito até hoje."
+     "texto": "porque cometeram o mal diante de mim e não deixaram de me irritar, desde o dia em que seus pais saíram do Egipto até hoje."
     },
     {
      "n": 16,
@@ -2527,7 +2527,7 @@
     },
     {
      "n": 17,
-     "texto": "O resto das ações de Manassés, tudo o que ele fez, o pecado que cometeu, não está tudo escrito no livro das Crónicas dos reis de Judá?"
+     "texto": "O resto das acções de Manassés, tudo o que ele fez, o pecado que cometeu, não está tudo escrito no livro das Crónicas dos reis de Judá?"
     },
     {
      "n": 18,
@@ -2559,7 +2559,7 @@
     },
     {
      "n": 25,
-     "texto": "O resto das ações de Amon está escrito no livro das Crónicas dos reis de Judá."
+     "texto": "O resto das acções de Amon está escrito no livro das Crónicas dos reis de Judá."
     },
     {
      "n": 26,
@@ -2644,7 +2644,7 @@
     },
     {
      "n": 19,
-     "texto": "e o teu coração se atemorizou e te humilhaste diante do Senhor, depois de ouvidas as palavras contra este lugar e contra os seus habitantes, (isto é, que virão a ser objeto de espanto e de execração) porque rasgaste os teus vestidos, e choraste diante de mim, eu também te ouvi, diz o Senhor;"
+     "texto": "e o teu coração se atemorizou e te humilhaste diante do Senhor, depois de ouvidas as palavras contra este lugar e contra os seus habitantes, (isto é, que virão a ser objecto de espanto e de execração) porque rasgaste os teus vestidos, e choraste diante de mim, eu também te ouvi, diz o Senhor;"
     },
     {
      "n": 20,
@@ -2765,11 +2765,11 @@
     },
     {
      "n": 28,
-     "texto": "O resto das ações de Josias, tudo o que ele fez, está escrito no livro das Crónicas dos reis de Judá."
+     "texto": "O resto das acções de Josias, tudo o que ele fez, está escrito no livro das Crónicas dos reis de Judá."
     },
     {
      "n": 29,
-     "texto": "No seu reinado, o Faraó Necao, rei do Egito, marchou contra o rei dos Assírios, para a banda do Eufrates. O rei Josias foi-lhe ao encontro, mas foi morto em Magedo, logo que (Necao) o viu."
+     "texto": "No seu reinado, o Faraó Necao, rei do Egipto, marchou contra o rei dos Assírios, para a banda do Eufrates. O rei Josias foi-lhe ao encontro, mas foi morto em Magedo, logo que (Necao) o viu."
     },
     {
      "n": 30,
@@ -2789,7 +2789,7 @@
     },
     {
      "n": 34,
-     "texto": "O Faraó Necao constituiu rei a Eliacim, filho de Josias, para reinar em lugar de Josias, seu pai, e mudou-lhe o nome em Joaquim. Quanto a Joacaz, conduziu-o ao Egito onde morreu."
+     "texto": "O Faraó Necao constituiu rei a Eliacim, filho de Josias, para reinar em lugar de Josias, seu pai, e mudou-lhe o nome em Joaquim. Quanto a Joacaz, conduziu-o ao Egipto onde morreu."
     },
     {
      "n": 35,
@@ -2826,7 +2826,7 @@
     },
     {
      "n": 5,
-     "texto": "O resto das ações de Joaquim, tudo o que ele fez, está escrito no livro das Crónicas dos reis de Judá. Joaquim adormeceu com seus pais,"
+     "texto": "O resto das acções de Joaquim, tudo o que ele fez, está escrito no livro das Crónicas dos reis de Judá. Joaquim adormeceu com seus pais,"
     },
     {
      "n": 6,
@@ -2834,7 +2834,7 @@
     },
     {
      "n": 7,
-     "texto": "O rei do Egito, daquele tempo em diante, não tentou mais sair do seu reino, porque o rei de Babilónia tinha levado tudo o que tinha sido do rei do Egito, desde a torrente do Egito até ao rio Eufrates."
+     "texto": "O rei do Egipto, daquele tempo em diante, não tentou mais sair do seu reino, porque o rei de Babilónia tinha levado tudo o que tinha sido do rei do Egipto, desde a torrente do Egipto até ao rio Eufrates."
     },
     {
      "n": 8,
@@ -2967,7 +2967,7 @@
     },
     {
      "n": 19,
-     "texto": "Levou um eunuco apanhado na cidade, que comandava a gente de guerra, e cinco homens dos que assistiam ao rei, os quais encontrou na cidade, e Sofer, inspetor do exército, que exercitava os soldados bisonhos do povo do país, e sessenta homens do povo, que foram encontrados na cidade."
+     "texto": "Levou um eunuco apanhado na cidade, que comandava a gente de guerra, e cinco homens dos que assistiam ao rei, os quais encontrou na cidade, e Sofer, inspector do exército, que exercitava os soldados bisonhos do povo do país, e sessenta homens do povo, que foram encontrados na cidade."
     },
     {
      "n": 20,
@@ -2995,7 +2995,7 @@
     },
     {
      "n": 26,
-     "texto": "Então todo o povo, desde pequeno até ao grande, e os oficiais do exército, levantando-se, fugiram para o Egito, com medo dos Caldeus."
+     "texto": "Então todo o povo, desde pequeno até ao grande, e os oficiais do exército, levantando-se, fugiram para o Egipto, com medo dos Caldeus."
     },
     {
      "n": 27,

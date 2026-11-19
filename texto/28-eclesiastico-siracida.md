@@ -16,7 +16,7 @@
 **12** O temor do Senhor deleita o coração, e dará alegria, gozo e larga vida.  
 **13** Aquele que teme ao Senhor encontrar-se-á bem no fim, será abençoado no dia da sua morte.  
 **14** O amor de Deus é uma sabedoria digna de ser honrada.  
-**15** Aqueles a quem ela se manifesta, amam-na logo que a veem, desde que reconhecem as maravilhas que opera.  
+**15** Aqueles a quem ela se manifesta, amam-na logo que a vêem, desde que reconhecem as maravilhas que opera.  
 **16** O princípio da sabedoria é o temor do Senhor. Forma-se com os homens fiéis no ventre de sua mãe, anda com as mulheres (santas e) escolhidas, vê-se em companhia dos justos e dos fiéis.  
 **17** O temor do Senhor é a religião da ciência.  
 **18** Esta religião guarda e santifica o coração, dá-lhe satisfação e alegria.  
@@ -57,10 +57,10 @@
 **10** Vós, os que temeis o Senhor, amai-o, e os vossos corações serão alumiados.  
 **11** Considerai, filhos, as gerações humanas, e sabei que ninguém, que esperou no Senhor, foi confundido.  
 **12** Quem permaneceu firme nos seus mandamentos, e foi desamparado? Ou quem o invocou, e foi dele desprezado?  
-**13** Porque Deus é bom e misericordioso, e perdoará os pecados no dia da tribulação; ele é o protetor de todos os que o buscam em verdade.  
+**13** Porque Deus é bom e misericordioso, e perdoará os pecados no dia da tribulação; ele é o protector de todos os que o buscam em verdade.  
 **14** Ai do coração dobre, dos lábios criminosos, das mãos que fazem o mal, do pecador que anda sobre a terra por dois caminhos!  
 **15** Ai dos fracos de coração, que não confiam em Deus. Coragem: e que, por isso, não serão protegidos por ele!  
-**16** Ai dos que perderam a paciência, que deixaram os caminhos retos e se extraviaram por veredas malignas!  
+**16** Ai dos que perderam a paciência, que deixaram os caminhos rectos e se extraviaram por veredas malignas!  
 **17** Que farão eles, quando o Senhor começar a examinar (tudo)?  
 **18** Os que temem o Senhor não são incrédulos à sua palavra, e os que o amam continuam no seu caminho.  
 **19** Os que temem o Senhor procuram o que lhe é agradável, e os que o amam saciam-se da sua lei.  
@@ -78,7 +78,7 @@
 **6** O que honra seu pai encontrará alegria nos seus filhos, e será atendido no dia da sua oração.  
 **7** O que honra seu pai viverá uma vida larga: e consola sua mãe quem obedece a seu pai.  
 **8** O que teme O Senhor honra seus pais; e servirá, como a senhores, aos que o geraram.  
-**9** Honra teu pai por ações, por palavras e com toda a paciência,  
+**9** Honra teu pai por acções, por palavras e com toda a paciência,  
 **10** para que venha sobre ti a sua bênção, e esta bênção permaneça contigo até ao fim,  
 **11** A bênção do pai torna firmes as casas dos filhos, e a maldição da mãe deita-as abaixo pelos alicerces.  
 **12** Não te glories com aquilo que desonra teu pai porque a sua ignomínia não é glória para ti.  
@@ -118,7 +118,7 @@
 **9** Livra da mão do soberbo o que padece injúria, e, quando julgares (uma causa), não o faças com aspereza.  
 **10** (No julgar) sê misericordioso com os órfãos como um pai, e como um marido para com a sua (pobre) mãe,  
 **11** e serás como um filho obediente do Altíssimo, que se compadecerá de ti, mais do que uma mãe.  
-**12** A sabedoria infunde vida a seus filhos, toma debaixo da sua proteção os que a buscam, vai adiante deles no caminho da justiça.  
+**12** A sabedoria infunde vida a seus filhos, toma debaixo da sua protecção os que a buscam, vai adiante deles no caminho da justiça.  
 **13** O que a ama, ama a vida, e os que fazem vigílias para a encontrar gozarão da sua doçura.  
 **14** Aqueles que a possuírem, terão a vida (eterna) por herança, e onde ela entrar, Deus abençoará tudo.  
 **15** Os que a servem, serão obedientes ao Santo, e Deus ama os que a amam.  
@@ -126,7 +126,7 @@
 **17** Se tiver confiança nela, herdá-la-á, e a sua posse será confirmada em seus filhos.  
 **18** Porque ela anda com ele na prova, e o escolhe entre os primeiros.  
 **19** Ela fará vir sobre ele o temor, o medo e a prova; atormentá-lo-á com a tribulação da sua disciplina, até que o experimente nos seus pensamentos, e se fie na sua alma.  
-**20** Então ela o porá firme, encaminhar-se-á diretamente a ele, enchê-lo-á de alegria,  
+**20** Então ela o porá firme, encaminhar-se-á directamente a ele, enchê-lo-á de alegria,  
 **21** descobrir-lhe-á os seus segredos, e o enriquecerá com um tesouro de ciência e de inteligência da justiça.  
 **22** Porém, se ele se extraviar, ela o abandonará e o entregará nas mãos do seu inimigo.  
 **23** Filho, aproveita o tempo, foge do mal.  
@@ -148,7 +148,7 @@
 
 **1** Não te fies nas riquezas iníquas e não digas: eu tenho bastante com que viver — porque de nada te aproveitará isto no dia do castigo e da escuridão.  
 **2** Não te abandones, quando te sentires forte, aos maus desejos do teu coração.  
-**3** e não digas: Como sou poderoso! Quem poderá obrigar-me a dar contas das minhas ações? Com efeito Deus exercerá a sua vingança.  
+**3** e não digas: Como sou poderoso! Quem poderá obrigar-me a dar contas das minhas acções? Com efeito Deus exercerá a sua vingança.  
 **4** Não digas; Eu pequei; e que mal me veio dai? — porque o Altíssimo é lento em punir (os crimes).  
 **5** Não estejas sem temor da ofensa que te foi perdoada, e não ajuntes pecados sobre pecados.  
 **6** Não digas; A misericórdia do Senhor é grande, ele se compadecerá da multidão dos meus pecados.  
@@ -173,14 +173,14 @@
 **4** A alma maligna perderá aquele que a tem, torná-lo-á a alegria dos seus inimigos. e conduzi-lo-á à sorte dos ímpios.  
 **5** A palavra doce multiplica os amigos e amansa os inimigos; a linguagem amável abunda no homem bom.  
 **6** Dá-te bem com muitos, mas seja teu conselheiro um entre mil.  
-**7** Se queres ter um amigo, toma-o depois de o teres provado, e não te fies facilmente nele.  
-**8** Com efeito, há tal amigo que somente o é quando nisso acha a sua conveniência, e que deixará de o ser no dia da tribulação.  
+**7** Se queres ter um amigo, toma-o depois de o teres provado, e não te fies fàcilmente nele.  
+**8** Com efeito, há tal amigo que sòmente o é quando nisso acha a sua conveniência, e que deixará de o ser no dia da tribulação.  
 **9** E há amigo que se muda em inimigo; e há amigo que porá a descoberto ódios, disputas e rixas;  
 **10** e há amigo que só o é para a mesa, e que o não será no dia da necessidade.  
 **11** Se o teu amigo perseverar firme, será para ti como um igual, tratará à vontade com os da tua casa.  
 **12** Se ele se humilhar diante de ti e se apagar na tua presença, terás uma amizade excelente na união dos corações.  
 **13** Separa-te dos teus inimigos, e está alerta com os teus amigos.  
-**14** O amigo fiel é uma forte proteção; quem o encontrou, encontrou um tesouro.  
+**14** O amigo fiel é uma forte protecção; quem o encontrou, encontrou um tesouro.  
 **15** Nada se pode comparar com um amigo fiel, e o ouro e a prata não merecem ser postos em balança com a sinceridade da sua fé.  
 **16** O amigo fiel é uma medicina de vida e de imortalidade; os que temem o Senhor acharão um tal amigo.  
 **17** O que teme a Deus será, por isso mesmo, feliz na amizade, porque o seu amigo será semelhante a ele.  
@@ -196,7 +196,7 @@
 **27** Aproxima-te dela de todo o teu coração, guarda os seus caminhos com todas as tuas forças.  
 **28** Segue os seus vestígios, e ela se te manifestará; quando já a possuíres, não a deixes,  
 **29** porque nela encontrarás, no fim, o teu descanso,e ela se converterá para ti em gosto.  
-**30** Os seus grilhões serão para ti uma forte proteção e um firme apoio, as suas cadeias um vestido de glória:  
+**30** Os seus grilhões serão para ti uma forte protecção e um firme apoio, as suas cadeias um vestido de glória:  
 **31** nela está realmente uma beleza que dá a vida, e os seus vínculos são ligaduras que saram.  
 **32** Tu te revestirás dela como duma veste de glória, e a porás sobre ti como uma coroa de regozijo.  
 **33** Filho, se me deres atenção, aprenderás, e, se aplicares o teu espírito, serás sábio.  
@@ -278,7 +278,7 @@
 **1** Não sejas cioso da mulher que repousa no teu seio, para que não empregue contra ti a malícia que lhe ensinaste.  
 **2** Não dês à mulher poder sobre a tua alma. para que não usurpe a tua autoridade, e fiques envergonhado.  
 **3** Não olhes para a mulher volúvel, para não caíres nos seus laços.  
-**4** Não andes muito com uma bailarina, nem a ouças, para não pereceres à força dos seus atrativos.  
+**4** Não andes muito com uma bailarina, nem a ouças, para não pereceres à força dos seus atractivos.  
 **5** Não detenhas os teus olhos sobre uma donzela. para que a sua beleza não te seja ocasião de queda.  
 **6** Nunca entregues a tua alma às prostitutas, para que te não percas a ti e aos teus bens.  
 **7** Não deixes errar os olhos pelas ruas da cidade, nem andes vagueando pelas suas praças.  
@@ -341,7 +341,7 @@
 ## Capítulo 11
 
 **1** A sabedoria do humilde exaltará a sua cabeça, e o fará assentar no meio dos grandes.  
-**2** Não louves o homem pela sua beleza; nem o desprezes pelo seu aspeto.  
+**2** Não louves o homem pela sua beleza; nem o desprezes pelo seu aspecto.  
 **3** Pequena é a abelha entre os animais voláteis, e contudo o seu fruto é o primeiro na doçura.  
 **4** Não te vanglories jamais das tuas vestes, nem te desvaneças no dia da tua honra, porque só as obras do Altíssimo são admiráveis, gloriosas, misteriosas, invisíveis.  
 **5** Muitos príncipes (homens anteriormente humildes) assentaram-se sobre o trono, e alguém, em quem se não pensava, levou o diadema.  
@@ -358,7 +358,7 @@
 **16** O erro e as trevas foram criados com os pecadores; os que se comprazem no mal, no mal envelhecem.  
 **17** O dom de Deus permanece nos justos, e o seu progresso assegura sucesso eterno.  
 **18** Há quem enriqueça, vivendo com parcimónia, e toda a parte da sua recompensa  
-**19** consiste em dizer: Encontrei repouso, e agora comerei sozinho dos meus bens.  
+**19** consiste em dizer: Encontrei repouso, e agora comerei sòzinho dos meus bens.  
 **20** (Esse) não considera que o tempo passa, que a morte se avizinha, e que, morrendo, deixará tudo aos outros.  
 **21** Mantém-te firme na tua aliança (com Deus), ocupa-te sempre dela, e envelhece na prática do que te foi mandado.  
 **22** Não te detenhas nas obras dos pecadores, mas confia em Deus e persevera no teu trabalho.  
@@ -513,9 +513,9 @@
 **20** E, no meio de tudo isto, ainda permanece insensato o coração (do homem); porém, todo o coração é visto por Deus.  
 **21** Quem é que compreende os seus caminhos, e a tempestade, que a vista do homem nunca verá?  
 **22** Com efeito, a maior parte das suas obras são ocultas. Mas quem poderá anunciar as obras da sua justiça? Quem as poderá suportar? Porquanto os seus decretos estão longe de alguns, e o exame de todas as coisas é no último dia.  
-**23** O homem sem coração pensa em coisas vãs, e o imprudente e extraviado pensa (somente) em loucuras.  
+**23** O homem sem coração pensa em coisas vãs, e o imprudente e extraviado pensa (sòmente) em loucuras.  
 **24** Ouve-me, filho, aprende o meu ensinamento e está atento em teu coração às minhas palavras,  
-**25** Eu te darei instruções muito acertadas e te manifestarei os arcanos da sabedoria. Está atento em teu coração às minhas palavras, e te direi, com retidão de espírito, as maravilhas que desde o princípio Deus fez brilhar nas suas obras, e te mostrarei com verdade a sua ciência.  
+**25** Eu te darei instruções muito acertadas e te manifestarei os arcanos da sabedoria. Está atento em teu coração às minhas palavras, e te direi, com rectidão de espírito, as maravilhas que desde o princípio Deus fez brilhar nas suas obras, e te mostrarei com verdade a sua ciência.  
 **26** Por decisão de Deus, existem desde o princípio, as suas obras; desde que as criou, distinguiu-as em partes, e (colocou) as principais delas segundo as suas épocas.  
 **27** Adornou para sempre as suas obras; elas não sentiram fome nem fadiga, e nunca interromperam o seu trabalho.  
 **28** Nunca nenhuma delas embaraçará a outra.  
@@ -570,13 +570,13 @@
 **9** Por isso é que o Senhor é paciente com os homens, e derrama sobre eles a sua misericórdia.  
 **10** Ele vê que a presunção do seu coração é má, e reconhece que o seu fim é deplorável.  
 **11** Por isso é que os trata com a plenitude da sua doçura, e mostra-lhes o caminho da equidade.  
-**12** A misericórdia do homem tem por objeto o seu próximo, porém a misericórdia de Deus estende-se a todo o ser vivo.  
+**12** A misericórdia do homem tem por objecto o seu próximo, porém a misericórdia de Deus estende-se a todo o ser vivo.  
 **13** Cheio de compaixão, ensina e disciplina (os homens), como um pastor faz ao seu rebanho.  
 **14** Compadece-se daquele que recebe a doutrina da sua misericórdia, e do que se apressa a cumprir os seus mandamentos.  
 **15** Filho, não mistures a repreensão com o benefício, nem juntes às tuas dádivas a tristeza duma palavra má.  
 **16** Porventura o orvalho não mitiga o calor ardente? Assim vale mais a palavra (doce) do que a dádiva.  
 **17** Porventura a palavra (doce) não vale mais que o próprio dom? Mas uma e outra coisa se encontra no homem justo.  
-**18** O insensato impropera asperamente; o dom do invejoso consome os olhos.  
+**18** O insensato impropera àsperamente; o dom do invejoso consome os olhos.  
 **19** Antes de Julgar (os outros) procura ser justo, e aprende, antes de falar.  
 **20** Antes da enfermidade emprega cuidados (para a evitar), interroga-te a ti mesmo antes do juízo, e encontrarás misericórdia diante de Deus.  
 **21** Humilha-te antes da doença, e mostra o teu proceder no tempo da enfermidade.  
@@ -599,7 +599,7 @@
 **2** O vinho e as mulheres desencaminham os próprios sábios, e tornam culpáveis os homens sensatos.  
 **3** Aquele que se junta com prostitutas será mau, chegará a ser o pasto da podridão e dos vermes, ficará sendo um grande exemplo, e a sua alma será tirada do número (dos vivos).  
 **4** O crédulo é leve de coração e ficará prejudicado, e o que peca contra a sua alma será tratado com desprezo.  
-**5** Aquele que se deleita com a iniquidade será desonrado; o que aborrece a correção, abreviará a sua vida; o que aborrece a loquacidade, extingue a malícia.  
+**5** Aquele que se deleita com a iniquidade será desonrado; o que aborrece a correcção, abreviará a sua vida; o que aborrece a loquacidade, extingue a malícia.  
 **6** O que peca contra a sua alma arrepender-se-á de o ter feito, e o que se deleita na malícia será desonrado,  
 **7** Não repitas uma palavra má e ofensiva, e não serás diminuído.  
 **8** Não contes os teus pensamentos nem ao amigo nem ao inimigo, e, se cometeste algum pecado, não o descubras.  
@@ -620,9 +620,9 @@
 **23** Há quem fale com firmeza (rude), mas expondo a verdade. Há quem se humilhe maliciosamente com o coração cheio de dolo.  
 **24** Há quem se submeta excessivamente, com uma profunda humilhação. Há quem abaixe a sua cabeça, fingindo não ver o que é segredo;  
 **25** porém, se a debilidade o impede de pecar, quando encontrar ocasião de fazer mal, fá-lo-á.  
-**26** Pelo semblante se conhece o homem; pelo seu aspeto se conhece o homem sensato.  
+**26** Pelo semblante se conhece o homem; pelo seu aspecto se conhece o homem sensato.  
 **27** O vestuário do seu corpo, o riso dos dentes e o andar do homem, dão a conhecer o que ele é.  
-**28** Há uma correção falsa, que nasce da ira dum insolente, e há um juízo, que se prova não ser justo, e há quem se cale mostrando ser prudente.  
+**28** Há uma correcção falsa, que nasce da ira dum insolente, e há um juízo, que se prova não ser justo, e há quem se cale mostrando ser prudente.  
 
 ## Capítulo 20
 
@@ -637,7 +637,7 @@
 **9** O homem sem disciplina pode ser bem sucedido no mal, porém aquilo que ele inventa pode converter-se em sua própria ruína.  
 **10** Há dom que não é útil, e há dom que é duplamente recompensado.  
 **11** Há glória que leva à ruína, e há humilhação seguida de exaltação.  
-**12** Há quem compre muitas coisas por baixo prego, mas que (de facto) as paga pelo sétuplo do seu valor.  
+**12** Há quem compre muitas coisas por baixo prego, mas que (de facto) as paga pelo séptuplo do seu valor.  
 **13** O sábio torna-se amável pelas suas palavras; porém as graças dos insensatos perder-se-ão.  
 **14** O donativo do insensato não te será útil, porque ele tem sete olhos para te considerar.  
 **15** Ele dará pouco, e lançá-lo-á muitas vezes em rosto; quando a sua boca se abre, é como um incêndio.  
@@ -648,7 +648,7 @@
 **20** A falta duma língua enganadora é como uma queda sobre o pavimento; assim a ruína dos maus virá de súbito.  
 **21** O homem desagradável é como um conto vão, que anda sempre na boca de gente mal educada.  
 **22** Será mal recebida a máxima procedente da boca do insensato, porque não a diz a seu tempo.  
-**23** Há quem se abstenha de pecar por falta de meios, e sofra por ter de estar na inação.  
+**23** Há quem se abstenha de pecar por falta de meios, e sofra por ter de estar na inacção.  
 **24** Há quem perca a sua alma por causa do respeito humano; perde-a, cedendo a uma pessoa imprudente, a si mesmo se perde, por atender demasiadamente a uma pessoa.  
 **25** Tal há que, por falsa vergonha, promete ao seu amigo, e arranja gratuitamente nele um inimigo.  
 **26** A mentira é no homem uma vergonhosa mancha, e ela encontra-se habitualmente na boca da gente sem educação.  
@@ -722,7 +722,7 @@
 **24** Aquele que pica o olho, faz sair dele lágrimas; o que pica o coração excita o sentimento.  
 **25** Aquele que atira com uma pedra aos pássaros, fá-los fugir; assim também aquele que diz injúrias ao seu amigo, desfaz a amizade.  
 **26** Ainda que tenhas arrancado a espada contra o teu amigo, não desesperes, porque o regresso é possível.  
-**27** Ainda que tenhas dito ao teu amigo palavras contristadoras, não temas, porque a reconciliação é possível, exceto se se trata de afrontas, impropérios, orgulhoso desdém, revelação de segredo e golpes à traição: em todos estes casos fugirá de ti o amigo.  
+**27** Ainda que tenhas dito ao teu amigo palavras contristadoras, não temas, porque a reconciliação é possível, excepto se se trata de afrontas, impropérios, orgulhoso desdém, revelação de segredo e golpes à traição: em todos estes casos fugirá de ti o amigo.  
 **28** Permanece fiel ao teu amigo na sua pobreza, para que também te alegres com ele nas suas prosperidades.  
 **29** Conserva-te fiel a ele no tempo da sua tribulação, para que tenhas parte com ele na sua herança.  
 **30** O vapor e o fumo elevam-se da fornalha antes do fogo; assim também as injúrias, ultrajes e ameaças precedem a efusão de sangue.  
@@ -733,12 +733,12 @@
 ## Capítulo 23
 
 **1** Senhor, que és meu pai e dono da minha vida, não me abandones ao conselho dos meus lábios, nem permitas que eu caia por causa deles.  
-**2** Quem aplicará ao meu pensamento o açoite (das correções)e (fará sentir) ao meu coração a disciplina da sabedoria, para eu não ser poupado no respeitante às minhas faltas, a fim de que não apareçam os meu pecados.  
+**2** Quem aplicará ao meu pensamento o açoite (das correcções)e (fará sentir) ao meu coração a disciplina da sabedoria, para eu não ser poupado no respeitante às minhas faltas, a fim de que não apareçam os meu pecados.  
 **3** para que se não aumentem as minhas ignorâncias, se não multipliquem os meus delitos, não abundem os meus pecados, e eu não caia diante dos meus adversários.  
 **4** e folgue de me ver arruinado o meu inimigo? Senhor, meu pai e Deus da minha vida, não me abandones às suas sugestões.  
 **5** Não permitas a imodéstia dos meus olhares, e afasta de mim todo o (mau) desejo.  
 **6** Afasta de mim a intemperança, e não se apodere de mim a paixão da impureza, e não me entregues a uma alma sem vergonha e sem recato.  
-**7** Ouvi, filhos, as regras que vos dou sobre a moderação da língua Aquele que as guardar, não perecerá pelos lábios, nem cairá em ações criminosas.  
+**7** Ouvi, filhos, as regras que vos dou sobre a moderação da língua Aquele que as guardar, não perecerá pelos lábios, nem cairá em acções criminosas.  
 **8** O pecador será colhido na sua leviandade, e o soberbo e o maldizente encontrarão nela motivos de queda.  
 **9** A tua boca não se acostume ao juramento, porque isto é causa de muitas quedas.  
 **10** O nome de Deus não esteja sempre na tua boca (para jurar), e não mistures nas tuas conversas os nomes dos santos, porque nisto não serás isento de falta.  
@@ -758,7 +758,7 @@
 **24** Todo o pão é doce para o homem voluptuoso; não se cansará de pecar até ao fim da vida.  
 **25** Todo o homem que desonra o seu tálamo (conjugal), despreza a sua alma, dizendo: Quem me vê?  
 **26** As trevas cercam-me, as paredes escondem-me, e ninguém de parte alguma olha para mim; de quem tenho eu receio? O Altíssimo não se lembrará dos meus pecados.  
-**27** (Esse homem) não considera que os olhos do Senhor veem todas as coisas, que um semelhante temor humano expele de si o temor de Deus, e que os olhos dos homens são unicamente os que o fazem temer.  
+**27** (Esse homem) não considera que os olhos do Senhor vêem todas as coisas, que um semelhante temor humano expele de si o temor de Deus, e que os olhos dos homens são unicamente os que o fazem temer.  
 **28** Não sabe que os olhos do Senhor são muito mais luminosos do que o Sol, que em torno estão vendo todos os caminhos dos homens, que penetram o profundo do abismo e os corações dos mesmos homens, até aos mais ocultos esconderijos.  
 **29** Com efeito, o Senhor Deus, assim como conhecia todas as coisas antes de as ter criado, assim também agora, depois que as criou, as vê todas.  
 **30** Este tal será punido nas praças da cidade, será posto em fuga como um potro de égua, e, onde ele menos o esperar, será apanhado.  
@@ -838,7 +838,7 @@
 **13** aquele que — como é grande! — encontrou a sabedoria e a ciência; aquele que — a este nenhum se avantaja,— teme o Senhor.  
 **14** O temor de Deus eleva-se sobre tudo.  
 **15** Bem-aventurado o homem que recebeu o dom do temor de Deus; com quem se comparará aquele que o possui?  
-**16** O temor de Deus é o princípio do seu amor, mas inseparavelmente se lhe deve ajuntar um princípio de fé.  
+**16** O temor de Deus é o princípio do seu amor, mas inseparàvelmente se lhe deve ajuntar um princípio de fé.  
 **17** A tristeza do coração é a maior chaga, e a maldade da mulher é uma consumada malícia.  
 **18** Toda a chaga, não porém a chaga do coração;  
 **19** toda a malícia, não porém a malícia da mulher;  
@@ -846,7 +846,7 @@
 **21** toda a vingança, não porém a vingança que vem dos inimigos.  
 **22** Não há veneno pior que o da serpente,  
 **23** e não há ira pior que a da mulher. Será melhor viver com um leão e com um dragão, do que habitar com uma mulher má.  
-**24** A maldade da mulher faz-lhe mudar de rosto, dá-lhe um aspeto sombrio como o dum urso, torna-o (escuro e áspero) como um saco. No meio dos seus vizinhos  
+**24** A maldade da mulher faz-lhe mudar de rosto, dá-lhe um aspecto sombrio como o dum urso, torna-o (escuro e áspero) como um saco. No meio dos seus vizinhos  
 **25** lamenta-se o seu marido, e, ouvindo-os, suspira amargamente.  
 **26** Toda a malícia é leve comparada com a malícia da mulher; que a sorte dos pecadores caia sobre ela.  
 **27** O que é para os pés dum velho o subir um monte de areia, isso é para um homem sossegado uma mulher desbocada.  
@@ -929,7 +929,7 @@
 
 ## Capítulo 28
 
-**1** Aquele que quer vingar-se, encontrará a vingança do Senhor, o qual tirará exata conta dos seus pecados.  
+**1** Aquele que quer vingar-se, encontrará a vingança do Senhor, o qual tirará exacta conta dos seus pecados.  
 **2** Perdoa ao teu próximo que te ofendeu, e então, quando pedires, serão perdoados os teus pecados.  
 **3** Um homem conserva a sua ira contra outro homem, e pede a Deus remédio?  
 **4** Não tem compaixão dum homem seu semelhante, e pede perdão dos seus pecados?  
@@ -1054,7 +1054,7 @@
 **24** O homem sóbrio terá um sono salutar, dormirá até pela manhã, e a sua alma se deleitará com ele.  
 **25** Se fores obrigado a comer muito, levanta-te e vomita: achar-te-ás aliviado, e não atrairás ao teu corpo uma doença.  
 **26** Ouve-me, filho, e não me desprezes: no fim reconhecerás a verdade das minhas palavras.  
-**27** Sê pronto em todas as tuas ações, e não te virá nenhuma enfermidade.  
+**27** Sê pronto em todas as tuas acções, e não te virá nenhuma enfermidade.  
 **28** Os lábios de muitos bem-dirão aquele que dá de comer liberalmente, e dar-se-á um testemunho fiel da sua generosidade.  
 **29** Toda a cidade murmurará contra o que é mesquinho em dar pão, e o testemunho que dá da sua mesquinhez é verdadeiro.  
 **30** Não provoques (a beber) aqueles que são amigos do vinho, porque o vinho tem perdido muitos.  
@@ -1086,7 +1086,7 @@
 **11** Se fores interrogado duas vezes, tenha concisão a tua resposta.  
 **12** Porta-te em muitas coisas como se as ignorasses, e ouve, já calando, já também perguntando.  
 **13** No meio dos grandes não tomes demasiada liberdade, e onde estão os velhos não fales muito.  
-**14** Antes do trovão aparece o relâmpago e diante da modéstia vai a graça; pela tua circunspeção serás bem-quisto.  
+**14** Antes do trovão aparece o relâmpago e diante da modéstia vai a graça; pela tua circunspecção serás bem-quisto.  
 **15** Chegada a hora de te levantares, não te detenhas; sê o primeiro a retirar-te para tua casa, e lá diverte-te e recreia o teu espírito.  
 **16** Faze o que te aprouver, contanto que seja sem pecar e sem palavras soberbas.  
 **17** Por todas estas coisas bem-dize ao Senhor, que te criou e que te cumula de todos os seus bens.  
@@ -1128,12 +1128,12 @@
 **22** porque melhor é que teus filhos te peçam, do que estares tu olhando para as mãos de teus filhos.  
 **23** Em todas as tuas obras conserva a tua superioridade.  
 **24** Não manches o teu bom nome. No dia em que terminar o curso da tua vida, no tempo da tua morte, reparte a tua herança.  
-**25** Ao asno, penso, vara e carga; ao escravo, pão, correção e trabalho.  
+**25** Ao asno, penso, vara e carga; ao escravo, pão, correcção e trabalho.  
 **26** Ele trabalha quando o castigam, doutra sorte não cuida senão em descansar; afrouxa-lhe as mãos, e buscará a liberdade.  
 **27** O jugo e as correias fazem curvar o pescoço duro, assim as tarefas contínuas amansam o escravo.  
 **28** Ao escravo malévolo, tortura e ferros: manda-o para o trabalho a fim de que não esteja ocioso,  
 **29** porque a ociosidade ensina muita malícia.  
-**30** Põe-no ao trabalho, porque assim lhe convém. Mas, se ele te não obedecer, aperreia-o com grilhões; porém não cometas excessos seja com quem for, e não faças coisa alguma grave sem ter refletido.  
+**30** Põe-no ao trabalho, porque assim lhe convém. Mas, se ele te não obedecer, aperreia-o com grilhões; porém não cometas excessos seja com quem for, e não faças coisa alguma grave sem ter reflectido.  
 **31** Se tens um escravo fiel, estima-o como a ti próprio, trata-o como um irmão, porque o adquiriste à custa do teu sangue.  
 **32** Se o tratares mal sem razão, fugir-te-á:  
 **33** e se ele se afasta de ti e se retira, não saberás a quem perguntar, nem por que caminho o hás-de buscar.  
@@ -1158,7 +1158,7 @@
 **16** Aquele que teme o Senhor de nada tremerá, e não terá pavor algum, porque ele mesmo é a sua esperança.  
 **17** Bem-aventurada a alma daquele que teme o Senhor.  
 **18** Para quem olha ela, e quem é a sua fortaleza?  
-**19** Os olhos do Senhor estão sobre os que o temem; ele é um protetor poderoso, um esteio forte, um abrigo contra o calor, uma proteção contra o ardor do meio-dia,  
+**19** Os olhos do Senhor estão sobre os que o temem; ele é um protector poderoso, um esteio forte, um abrigo contra o calor, uma protecção contra o ardor do meio-dia,  
 **20** um sustentáculo contra o tropeção, um auxílio contra a queda; ele levanta a alma e alumia os olhos, dá saúde, vida e bênção.  
 **21** A oblação daquele que sacrifica dos bens havidos com injustiça, é imunda, e não são agradáveis a Deus os escárnios dos injustos.  
 **22** O Senhor é só para aqueles que o esperam no caminho da verdade e da justiça.  
@@ -1192,12 +1192,12 @@
 **16** O Senhor não fará aceção de pessoas contra o pobre, e ouvirá a oração do oprimido.  
 **17** Não desprezará os rogos do órfão, nem a viúva que lhe fala com os seus gemidos.  
 **18** Não correm as lágrimas à viúva pelas suas faces, e não clama ela contra aquele que lhas faz derramar?  
-**19** Efetivamente, elas das faces (da viúva) sobem até ao céu, e o Senhor, que a ouve, não gostará de a ver chorar.  
+**19** Efectivamente, elas das faces (da viúva) sobem até ao céu, e o Senhor, que a ouve, não gostará de a ver chorar.  
 **20** Aquele que adora a Deus com alegria será bem acolhido, e a sua prece chegará até às nuvens.  
 **21** A oração do que se humilha penetrará as nuvens; ele não se consolará, enquanto ela não chegar (até Deus), e não se retirará, enquanto o Altíssimo não puser nela os olhos.  
 **22** O Senhor não diferirá por muito tempo, mas julgará os justos e lhes fará justiça: o Fortíssimo não usará mais de paciência (com os opressores), mas quebrar-lhes-á o dorso.  
-**23** Vingar-se-á das nações, até desfazer a multidão dos soberbos e quebrar os cetros dos iníquos;  
-**24** até retribuir aos homens segundo as suas ações, segundo as obras e presunção de (qualquer descendente de) Adão;  
+**23** Vingar-se-á das nações, até desfazer a multidão dos soberbos e quebrar os ceptros dos iníquos;  
+**24** até retribuir aos homens segundo as suas acções, segundo as obras e presunção de (qualquer descendente de) Adão;  
 **25** até fazer justiça ao seu povo e alegrar os justos com a sua misericórdia.  
 **26** A misericórdia de Deus, no tempo da tribulação, é agradável, como a nuvem que se desfaz em chuva no tempo da seca.  
 
@@ -1234,7 +1234,7 @@
 
 ## Capítulo 37
 
-**1** Todo o amigo dirá: Eu também contraí amizade contigo. Porém há amigos que o são somente de nome. Não causa isto uma dor que se avizinha da morte.  
+**1** Todo o amigo dirá: Eu também contraí amizade contigo. Porém há amigos que o são sòmente de nome. Não causa isto uma dor que se avizinha da morte.  
 **2** que o companheiro e o amigo se convertam em inimigos?  
 **3** Ó perversíssimo pensamento, onde tiveste a tua origem, para cobrir a terra com a tua malícia e com a tua perfídia?  
 **4** Um amigo alegra-se com o seu amigo na prosperidade; no tempo da tribulação será seu adversário.  
@@ -1278,17 +1278,17 @@
 **5** Porventura não foi por meio dum lenho que se tornou doce a água amargosa?  
 **6** Ao conhecimento dos homens chegou a virtude dos medicamentos. O Altíssimo deu aos homens a ciência para ser por eles honrado nas suas maravilhas.  
 **7** Com eles cura e mitiga a dor; o farmacêutico faz compostos agradáveis, compõe unguentos salutares, de forma que as criaturas de Deus não pereçam.  
-**8** (Pela sua ação) a paz de Deus estende-se sobre a face da terra.  
+**8** (Pela sua acção) a paz de Deus estende-se sobre a face da terra.  
 **9** Filho, não te descuides na tua enfermidade, mas faze oração ao Senhor, e ele te curará.  
 **10** Aparta-te do pecado, endireita as tuas mãos, purifica o teu coração de todo o delito.  
 **11** Oferece um (incenso de) cheiro suave, uma lembrança de flor de farinha imola vitimas pingues; (depois disto) dá lugar ao médico,  
 **12** pois para isso é que o Senhor o estabeleceu. E não se aparte de ti, porque te é necessária a sua assistência.  
 **13** Virá tempo em que cairás nas mãos deles,  
-**14** e eles mesmos rogarão ao Senhor que envie por meio deles o alívio e a saúde, em atenção à sua vida reta.  
+**14** e eles mesmos rogarão ao Senhor que envie por meio deles o alívio e a saúde, em atenção à sua vida recta.  
 **15** Aquele que peca na presença de quem o criou, virá a cair nas mãos do médico.  
 **16** Filho, derrama lágrimas sobre o morto, põe-te a chorar como quem recebeu um rude golpe: enterra o seu corpo segundo o costume, e não desprezes a sua sepultura.  
 **17** Chora-o amargamente durante um dia, para evitar a maledicência, e depois consola-te da tua tristeza;  
-**18** Toma este nojo segundo o merecimento da pessoa, um dia ou dois, para não dares lugar à detração.  
+**18** Toma este nojo segundo o merecimento da pessoa, um dia ou dois, para não dares lugar à detracção.  
 **19** Porque a tristeza faz apressar a morte, tira o vigor, e a melancolia do coração faz descair a cabeça.  
 **20** A tristeza conserva-se na solidão; e a vida do pobre é como o seu coração.  
 **21** Não entregues o teu coração à tristeza, mas lança-a fora de ti; lembra-te do teu fim.  
@@ -1296,9 +1296,9 @@
 **23** Lembra-te da minha sorte (te dirá o morto): a tua será semelhante; ontem para mim, hoje para ti.  
 **24** No repouso do morto deixa descansar a sua memória; e consola-o ao exalar o último suspiro.  
 **25** O letrado adquire sabedoria no tempo do ócio, e o que tem poucas ocupações alcançará a sabedoria. De que sabedoria será cheio  
-**26** o que pega no arado, que faz timbre de saber picar os bois com o aguilhão, que se ocupa constantemente com os trabalhos deles, e cuja conversação é somente sobre novilhos de touros?  
+**26** o que pega no arado, que faz timbre de saber picar os bois com o aguilhão, que se ocupa constantemente com os trabalhos deles, e cuja conversação é sòmente sobre novilhos de touros?  
 **27** Ele aplicará o seu coração em tirar (bem) os sulcos, e os seus desvelos em engordar as bezerras.  
-**28** Assim sucede com todo o carpinteiro e arquiteto, que passa trabalhando a noite e o dia; com o que grava as figuras dos sinetes, e que todo se cansa em as variar, que aplica o seu coração em reproduzir o debuxo, e, à força de vigílias, completa a obra.  
+**28** Assim sucede com todo o carpinteiro e arquitecto, que passa trabalhando a noite e o dia; com o que grava as figuras dos sinetes, e que todo se cansa em as variar, que aplica o seu coração em reproduzir o debuxo, e, à força de vigílias, completa a obra.  
 **29** Assim sucede com o ferreiro, assentado ao pé da bigorna, atento ao ferro que está trabalhando; o vapor do fogo cresta as suas carnes, e ele aguenta-se contra o calor da frágua.  
 **30** O estrondo do martelo fere-lhe sem cessar os ouvidos, e os seus olhos estão fixos no modelo da sua obra.  
 **31** Aplica o coração a completar os seus trabalhos, com o seu desvelo os aformoseia, dando-lhes a última demão.  
@@ -1336,7 +1336,7 @@
 **21** Todas as obras do Senhor são muito boas.  
 **22** À sua voz conteve-se a água como um montão, a uma palavra da sua boca, as águas recolheram-se como em reservatórios.  
 **23** À sua ordem, tudo o que lhe apraz se realiza, e a salvação que ele dá, não será apoucada.  
-**24** Estão à sua vista as ações de todos os homens, não há nada escondido a seus olhos.  
+**24** Estão à sua vista as acções de todos os homens, não há nada escondido a seus olhos.  
 **25** O seu olhar estende-se de século em século, e nada é maravilhoso para ele.  
 **26** Não se pode dizer: Que é isto, ou que é aquilo? Com efeito, todas as coisas foram criadas para seus usos.  
 **27** A sua bênção é como um rio que inunda.  
@@ -1368,7 +1368,7 @@
 **9** Além disso, a morte, o sangue, as contendas, a espada, as opressões, a fome a ruína e os (outros) flagelos,  
 **10** tudo isto foi criado para os maus. e por causa deles (é que também) veio o dilúvio.  
 **11** Tudo o que é da terra, tornar-se-á em terra, como todas as águas voltam ao mar.  
-**12** Toda a dádiva (oferecida para corromper) e toda a (riqueza adquirida com) iniquidade perecerão, porém a retidão subsistirá eternamente.  
+**12** Toda a dádiva (oferecida para corromper) e toda a (riqueza adquirida com) iniquidade perecerão, porém a rectidão subsistirá eternamente.  
 **13** As riquezas dos injustos secar-se-ão como uma torrente, e farão muito estrondo como um grande trovão quando chove.  
 **14** Alegrar-se-á o homem, ao abrir as suas mãos; porém os prevaricadores serão completamente consumidos.  
 **15** Os descendentes dos ímpios não multiplicarão os ramos: são como raízes viciadas que se agitam no alto dum rochedo.  
@@ -1399,7 +1399,7 @@
 **5** Não temas o decreto da morte. Lembra-te dos que existiram antes de ti, e dos que virão depois de ti: É um decreto que o Senhor promulgou para todos os mortais.  
 **6** Que coisa te sobrevirá de acordo com o beneplácito do Altíssimo? Viva um homem dez, cem ou mil anos.  
 **7** na morada dos mortos não se toma em conta a (duração da) vida.  
-**8** Os filhos dos pecadores tornam-se (ordinariamente) filhos de abominação, assim como os que frequentam as casas dos ímpios.  
+**8** Os filhos dos pecadores tornam-se (ordinàriamente) filhos de abominação, assim como os que frequentam as casas dos ímpios.  
 **9** A herança dos filhos dos pecadores perecerá, e com a sua linhagem andará continuamente o opróbrio.  
 **10** Os filhos dum ímpio queixam-se do seu pai, pois se acham, por causa dele, no opróbrio.  
 **11** Desgraçados de vós homens ímpios, que deixastes a lei do Senhor Altíssimo!  
@@ -1407,7 +1407,7 @@
 **13** Tudo o que é da terra tornar-se-á em terra; assim os ímpios (cairão) da maldição na perdição.  
 **14** O pranto dos homens é sobre o seu cadáver, mas o nome dos ímpios será apagado do mundo.  
 **15** Tem cuidado da tua boa reputação, porque esta será para ti um bem mais estável do que mil tesouros grandes e preciosos.  
-**16** A vida boa tem somente um certo número de dias, mas o bom nome permanecerá para sempre.  
+**16** A vida boa tem sòmente um certo número de dias, mas o bom nome permanecerá para sempre.  
 **17** Conservai, filhos, em paz a minha instrução, porque, se a sabedoria está escondida e o tesouro é invisível, que utilidade pode haver em ambas estas coisas?  
 **18** Melhor é o homem que esconde a sua estultícia, do que o homem que esconde a sua sabedoria.  
 **19** Tende, pois, vergonha do que vos vou indicar,  
@@ -1427,19 +1427,19 @@
 **2** Não te envergonhes da lei do Altíssimo e da sua aliança, da sentença que absolve o ímpio (naquilo em que está inocente),  
 **3** de tratar com companheiros e peregrinos, de legar os bens aos amigos,  
 **4** da fidelidade da balança e dos pesos, da aquisição do muito ou do pouco,  
-**5** do preço da venda dos negociantes, da correção frequente dos filhos, de açoutar o dorso do escravo péssimo até que salte o sangue.  
+**5** do preço da venda dos negociantes, da correcção frequente dos filhos, de açoutar o dorso do escravo péssimo até que salte o sangue.  
 **6** Sobre a mulher má, bom é pôr-se o selo.  
 **7** Onde há muitas mãos, guarda (tudo) fechado, e, tudo quanto entregares, dá-o por conta e por peso; aponta tudo o que deres e receberes.  
 **8** (Não te envergonhes) de corrigir o insensato e o néscio, nem (de defender) os velhos, que são condenados pelos jovens; assim te mostrarás sábio em tudo, e serás bem visto diante de todos os vivos.  
 **9** Uma filha é para seu pai uma oculta preocupação, o cuidado dela tira-lhe o sono: receia que passe a flor da sua idade sem se casar, ou que, quando enfim estiver com seu marido, lhe seja odiosa;  
 **10** receia que na sua virgindade seja corrompida, e se ache pejada na casa de seu pai, ou que, habitando com seu marido, falte à fé conjugal, ou seja estéril.  
-**11** Sobre a filha desenvolta vigia com dobrado resguardo, para que não faça de ti o opróbrio dos teus inimigos, o objeto de detração da cidade e do ludíbrio da plebe, e te envergonhe diante da multidão do povo.  
+**11** Sobre a filha desenvolta vigia com dobrado resguardo, para que não faça de ti o opróbrio dos teus inimigos, o objecto de detracção da cidade e do ludíbrio da plebe, e te envergonhe diante da multidão do povo.  
 **12** Não fixes os olhos sobre a beleza de ninguém, nem te detenhas no meio de mulheres.  
 **13** porque dos vestidos sai a traça, e da mulher a maldade do homem.  
 **14** É melhor a malvadez do homem que a bondade da mulher, quando esta é um motivo de confusão e de vergonha.  
 **15** Lembrar-me-ei das obras do Senhor, e anunciarei o que tenho visto. Pelas palavras do Senhor existem as suas obras.  
 **16** O Sol contempla todas as coisas, que Ilumina; a glória do Senhor enche a sua obra.  
-**17** Porventura não fez o Senhor que os Santos publicassem todas as suas maravilhas, as quais o mesmo Senhor omnipotente solidamente estabeleceu, para que subsistam para sua glória?  
+**17** Porventura não fez o Senhor que os Santos publicassem todas as suas maravilhas, as quais o mesmo Senhor omnipotente sòlidamente estabeleceu, para que subsistam para sua glória?  
 **18** Ele sonda o abismo e o coração dos homens, e penetra os seus pensamentos mais subtis.  
 **19** Realmente o Senhor conhece toda a ciência, contempla os sinais do tempo (que há-de vir), manifesta o passado e o futuro, descobre os rastos das coisas ocultas.  
 **20** Não lhe escapa nenhum pensamento, não se esconde dele palavra alguma.  
@@ -1452,7 +1452,7 @@
 
 ## Capítulo 43
 
-**1** O firmamento é a formosura do céu, e a abóbada celeste é um espetáculo de majestade.  
+**1** O firmamento é a formosura do céu, e a abóbada celeste é um espectáculo de majestade.  
 **2** O Sol, ao sair, glorifica o Senhor; é um vaso admirável, uma obra do Excelso.  
 **3** Ao meio-dia queima a terra; quem pode suportar o seu ardor? O ferreiro serve-se da forja para trabalhar ao fogo;  
 **4** O Sol abrasa três vezes mais os montes, despedindo raios de fogo, cujo resplendor deslumbra os olhos.  
@@ -1487,7 +1487,7 @@
 **33** Bem-dizei o Senhor, exaltai-o quanto puderdes, porque ele está acima de todo o louvor.  
 **34** Para o exaltar, revesti-vos de toda a fortaleza, não vos canseis (de o exaltar), porque jamais chegareis ao fim.  
 **35** Quem o poderá ver e descrever? Quem o poderá engrandecer, como ele é, desde o princípio?  
-**36** Muitas obras suas, maiores do que estas, nos são escondidas, pois nós somente vemos um pequeno número delas.  
+**36** Muitas obras suas, maiores do que estas, nos são escondidas, pois nós sòmente vemos um pequeno número delas.  
 **37** O Senhor fez todas as coisas, e deu sabedoria aos que vivem piamente.  
 
 ## Capítulo 44
@@ -1537,7 +1537,7 @@
 **14** Sobre a sua tiara (colocou) uma coroa de ouro, onde estava gravado o selo da santidade e a glória soberana; era uma obra primorosa e um adorno que arrebatava os olhos.  
 **15** Não houve, nunca, antes deste (adorno sacerdotal) coisas tão preciosas, desde o princípio do mundo.  
 **16** Dele se não vestiu pessoa alguma doutra família, mas só os seus filhos e os seus netos, por todo o decurso das idades.  
-**17** Os seus sacrifícios eram diariamente consumidos pelo fogo.  
+**17** Os seus sacrifícios eram diàriamente consumidos pelo fogo.  
 **18** Moisés encheu-lhe as mãos, e ungiu-o com óleo santo.  
 **19** Foi-lhe concedido, por um pacto eterno, e aos seus descendentes enquanto durarem os dias do céu, o exercer as funções do sacerdócio, cantar os louvores (de Deus), e abençoar o seu povo em seu nome.  
 **20** Ele o escolheu dentre os viventes para oferecer a Deus o sacrifício, o incenso e o perfume de lembrança, e para fazer a expiação pelo povo.  
@@ -1563,13 +1563,13 @@
 **6** Ele invocou o Altíssimo Poderoso, quando atacava os inimigos por todas as partes, e o grande e santo Deus o ouviu, e fez cair saraiva de grande força.  
 **7** Investiu impetuosamente contra as hostes Inimigas, e derrotou os contrários na descida (do vale),  
 **8** para que as nações conhecessem o poder divino, (e aprendessem) que não é fácil pelejar contra Deus. Ele seguiu sempre o Todo-Poderoso,  
-**9** e nos dias de Moisés fez uma ação de misericórdia, ele e Caleb, filho de Jefone, resolvendo fazer frente ao inimigo, impedindo o povo de pecar, e apaziguando a murmuração que a malícia tinha excitado.  
+**9** e nos dias de Moisés fez uma acção de misericórdia, ele e Caleb, filho de Jefone, resolvendo fazer frente ao inimigo, impedindo o povo de pecar, e apaziguando a murmuração que a malícia tinha excitado.  
 **10** Sendo escolhidos estes dois, foram livres de perigo, dentre o número de seiscentos mil homens de pé, para introduzir o povo na sua herança, na terra que mana leite e mel.  
 **11** O Senhor deu fortaleza ao mesmo Caleb; o seu vigor durou até à velhice, para subir a um lugar elevado do país, que a sua descendência possuiu por herança,  
 **12** para que todos os filhos de Israel vissem que é bom obedecer ao Deus santo.  
 **13** Em seguida vieram os juízes, apontados cada um por seu nome, cujo coração não foi pervertido, e que não se apartaram do Senhor.  
 **14** para que a sua memória seja abençoada, para que os seus ossos reverdeçam nos sepulcros,  
-**15** e dure perpetuamente o seu nome, passando aos seus filhos com a glória desses santos varões.  
+**15** e dure perpètuamente o seu nome, passando aos seus filhos com a glória desses santos varões.  
 **16** Samuel, profeta do Senhor, amado do Senhor seu Deus, instituiu um governo novo, e ungiu príncipes na sua nação.  
 **17** Julgou o povo segundo a lei do Senhor, e Deus olhou propiciamente para Jacob. Pela sua fidelidade manifestou-se como profeta,  
 **18** foi reconhecido fiel nas suas palavras, porque viu o Deus de luz.  
@@ -1631,7 +1631,7 @@
 **14** Nada houve que o pudesse dominar, e, ainda depois de morto, o seu corpo profetizou.  
 **15** Em sua vida fez prodígios, e na morte operou maravilhas.  
 **16** Com todas estas maravilhas o povo não fez penitência, não se afastou dos seus pecados, até que foi expulso da sua terra, e espalhado por todo o mundo.  
-**17** Ficou muito pouca gente (na Palestina), e (somente) um príncipe da casa de Davide.  
+**17** Ficou muito pouca gente (na Palestina), e (sòmente) um príncipe da casa de Davide.  
 **18** Alguns deles fizeram o que era do agrado de Deus, outros cometeram muitos pecados.  
 **19** Ezequias fortificou a sua cidade, conduziu água para o centro dela, abriu com ferro um rochedo, e fez reservatórios para água.  
 **20** Durante o seu reinado veio Senaquerib. que enviou Rabsaces, o qual levantou a sua mão contra eles. estendeu a sua mão contra Sião, ensoberbecendo-se com o seu poder.  
@@ -1650,13 +1650,13 @@
 **2** Em toda a boca será doce a sua lembrança como o mel, e como a música em banquete de (abundante) vinho.  
 **3** Foi destinado por Deus para excitar a nação à penitência, e exterminou as abominações da impiedade.  
 **4** Dirigiu o seu coração para o Senhor, e nos dias dos pecadores fortificou a piedade.  
-**5** Exceto Davide, Ezequias e Josias, todos cometeram o pecado:  
+**5** Excepto Davide, Ezequias e Josias, todos cometeram o pecado:  
 **6** os reis de Judá deixaram a lei do Altíssimo, desprezaram o temor de Deus.  
 **7** Por isso tiveram de entregar a outros o seu reino, e a sua glória a uma nação estrangeira,  
 **8** Incendiaram a cidade escolhida, a cidade santa, e reduziram a um deserto as suas ruas, conforme a predição de Jeremias,  
 **9** porque maltrataram aquele que foi consagrado profeta desde o ventre de sua mãe, para derrubar, arrancar e destruir, mas para depois reedificar e renovar.  
 **10** Ezequiel teve uma visão de glória. que o Senhor lhe mostrou no carro dos querubins.  
-**11** Anunciou a chuva para os inimigos de Deus, e os bens reservados para aqueles que seguiam o caminho reto.  
+**11** Anunciou a chuva para os inimigos de Deus, e os bens reservados para aqueles que seguiam o caminho recto.  
 **12** Reverdeçam também os ossos dos doze profetas, nos seu túmulos, porque eles fortificaram Jacob, e salvaram-no por uma fé corajosa.  
 **13** Como engrandeceremos nós a Zorobabel? Ele foi como um anel na mão direita.  
 **14** Do mesmo modo, Jesus, filho de Josedec. Eles em seus dias edificaram a casa (de Deus). e levantaram ao Senhor o seu santo templo, destinado a uma glória sempiterna.  
@@ -1670,7 +1670,7 @@
 
 **1** Simão filho de Onias sumo sacerdote, em sua vida reparou a casa (do Senhor), e em seus dias fortificou o templo.  
 **2** Foi ele que fundou a alta construção do templo, o edifício duplo e as elevadas muralhas do mesmo templo.  
-**3** Em seus dias correram os mananciais das águas dos reservatórios, que se encheram extraordinariamente, como o mar (de bronze).  
+**3** Em seus dias correram os mananciais das águas dos reservatórios, que se encheram extraordinàriamente, como o mar (de bronze).  
 **4** Teve cuidado do seu povo, livrou-o da perdição.  
 **5** Conseguiu engrandecer a cidade; nas suas relações com o povo alcançou glória, e alargou a entrada do templo e do átrio.  
 **6** Como a estrela da manhã, no meio da névoa, como a Lua resplandecente no plenilúnio,  
@@ -1703,7 +1703,7 @@
 ## Capítulo 51
 
 **1** Oração de Jesus, filho de Sirach. Glorificar-te-ei, ó Senhor rei, louvar-te-ei, Deus, salvador meu.  
-**2** Glorificarei o teu nome, porque te fizeste o meu auxílio e protetor,  
+**2** Glorificarei o teu nome, porque te fizeste o meu auxílio e protector,  
 **3** livraste o meu corpo da perdição, do laço da língua iníqua e dos lábios dos forjadores da mentira; à vista dos que estavam contra mim, foste o meu defensor.  
 **4** Livraste-me, segundo a grandeza da misericórdia do teu nome, dos que rugiam, preparados para me devorarem,  
 **5** das mãos dos que procuravam tirar-me a vida, do poder das tribulações que me assaltavam,  
@@ -1716,7 +1716,7 @@
 **12** porque livras os que esperam em ti. Senhor, porque os salvas das mãos das nações.  
 **13** Tu exaltaste a minha habitação sobre a terra, e eu roguei-te quando vinha sobre mim a torrente de morte.  
 **14** Invoquei o Senhor, pai do meu Senhor, para que me não abandonasse, no dia da minha tribulação, sem socorro, durante o domínio dos soberbos.  
-**15** Louvarei incessantemente o teu nome, celebrá-lo-ei nas minhas ações de graças, pois foi atendida a minha oração.  
+**15** Louvarei incessantemente o teu nome, celebrá-lo-ei nas minhas acções de graças, pois foi atendida a minha oração.  
 **16** porque me livraste da perdição, me salvaste no tempo calamitoso.  
 **17** Por Isso eu te glorificarei, cantarei os teus louvores, e bem-direi o nome do Senhor.  
 **18** Quando eu ainda era jovem, antes de andar errante, busquei abertamente a sabedoria com a minha oração.  

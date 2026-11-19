@@ -10,7 +10,7 @@
 **6** Possa a generosidade da tua fé tornar-se eficaz pelo conhecimento de todas as obras boas que se fazem entre nós por amor de Jesus Cristo.  
 **7** De facto, tive grande alegria e consolação pela tua caridade, porquanto os corações dos santos foram confortados por ti, irmão.  
 **8** Pelo que, ainda que eu tenha muita liberdade em Jesus Cristo para te mandar o que convém,  
-**9** prefiro pedir-te por caridade (não te mando). Eu, Paulo, o velho Paulo, e atualmente até prisioneiro de Jesus Cristo,  
+**9** prefiro pedir-te por caridade (não te mando). Eu, Paulo, o velho Paulo, e actualmente até prisioneiro de Jesus Cristo,  
 **10** venho rogar-te por meu filho Onésimo, que gerei nas prisões (convertendo-o a Cristo),  
 **11** o qual outrora te foi inútil, mas agora é muito útil para ti e para mim.  
 **12** De novo to mando, a ele, que é como o meu próprio coração.  

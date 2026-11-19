@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -51,7 +51,7 @@
     },
     {
      "n": 9,
-     "texto": "Que projetos formais contra o Senhor? É ele mesmo que aniquilará (Nínive); esta inimiga não surgirá duas vezes."
+     "texto": "Que projectos formais contra o Senhor? É ele mesmo que aniquilará (Nínive); esta inimiga não surgirá duas vezes."
     },
     {
      "n": 10,
@@ -96,7 +96,7 @@
     },
     {
      "n": 4,
-     "texto": "Os carros precipitam-se furiosamente pelos caminhos, chocam uns com os outros nas ruas; o seu aspeto é como de fachos ardentes, como relâmpagos que discorrem duma parte para a outra."
+     "texto": "Os carros precipitam-se furiosamente pelos caminhos, chocam uns com os outros nas ruas; o seu aspecto é como de fachos ardentes, como relâmpagos que discorrem duma parte para a outra."
     },
     {
      "n": 5,
@@ -116,7 +116,7 @@
     },
     {
      "n": 9,
-     "texto": "Saqueai a prata, saqueai o ouro; as suas riquezas são inúmeras, ela está cheia de objetos preciosos."
+     "texto": "Saqueai a prata, saqueai o ouro; as suas riquezas são inúmeras, ela está cheia de objectos preciosos."
     },
     {
      "n": 10,
@@ -161,7 +161,7 @@
     },
     {
      "n": 6,
-     "texto": "Cobrir-te-ei de imundícies e de infâmia e dar-te-ei em espetáculo."
+     "texto": "Cobrir-te-ei de imundícies e de infâmia e dar-te-ei em espectáculo."
     },
     {
      "n": 7,
@@ -173,7 +173,7 @@
     },
     {
      "n": 9,
-     "texto": "A Etiópia era a sua força, como também o Egito de população ilimitada; os Lídios e os Líbios eram seus auxiliares."
+     "texto": "A Etiópia era a sua força, como também o Egipto de população ilimitada; os Lídios e os Líbios eram seus auxiliares."
     },
     {
      "n": 10,

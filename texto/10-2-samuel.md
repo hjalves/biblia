@@ -37,7 +37,7 @@
 **3** Levou também a gente que estava com ele, cada um com a sua família, ficando todos a morar nas povoações de Hebron.  
 **4** Vieram os homens de Judá, e ungiram ali Davide, para reinar sobre a casa de Judá. Soube Davide que os homens de Jabes de Galaad tinham sepultado Saul;  
 **5** e enviou mensageiros aos homens de Jabes de Galaad, a dizer-lhes: Bem-ditos sejais do Senhor, vós que praticastes esta obra de misericórdia com Saul, vosso senhor, dando-lhe sepultura.  
-**6** Agora o Senhor vos recompensará certamente segundo a sua misericórdia e verdade. Eu também vos agradecerei esta ação que fizestes.  
+**6** Agora o Senhor vos recompensará certamente segundo a sua misericórdia e verdade. Eu também vos agradecerei esta acção que fizestes.  
 **7** Cobrem alento as vossas mãos, sede fortes, porque, ainda que tenha morrido Saul, vosso senhor, a casa de Judá ungiu-me por seu rei.  
 **8** Abner, porém, filho de Ner, general do exército de Saul tomou Isboset, filho de Saul, levou-o por todo o acampamento  
 **9** e constituiu-o rei sobre Galaad, sobre Gessuri, sobre Jezrael, sobre Efraim, sobre Benjamim e sobre todo o Israel.  
@@ -79,7 +79,7 @@
 **10** fazendo que o reino seja transferido da casa de Saul, e que o trono de Davide seja elevado sobre Israel e sobre Judá, desde Dan até Bersabee.  
 **11** (Isboset) não lhe pode responder coisa alguma, porque o temia.  
 **12** Abner enviou mensageiros a Davide, que da sua parte lhe disseram; A quem pertence o país? E que acrescentassem: Faze amizade comigo, e eu te ajudarei a voltar para ti todo o Israel.  
-**13** Davide respondeu: ótimo; eu farei amizade contigo, mas peço-te uma coisa: que não me venhas ver, sem me trazeres contigo Micol, filha de Saul; deste modo virás, e me verás.  
+**13** Davide respondeu: óptimo; eu farei amizade contigo, mas peço-te uma coisa: que não me venhas ver, sem me trazeres contigo Micol, filha de Saul; deste modo virás, e me verás.  
 **14** Davide enviou mensageiros a Isboset, filho de Saul, a dizer-lhe: Restitue-me Micol, minha mulher, que eu desposei por ter matado cem Filisteus.  
 **15** Isboset mandou tirá-la ao seu (segundo) marido, Faltiel, filho de Lais,  
 **16** e o seu (segundo) marido a seguia chorando até Baurim. Abner disse-lhe: Vai, e volta para trás. E ele voltou.  
@@ -183,7 +183,7 @@
 **3** Natan respondeu ao rei: Vai e faze tudo o que tens no coração, porque o Senhor é contigo.  
 **4** Naquela mesma noite, o Senhor falou a Natan, dizendo:  
 **5** Vai e dize ao meu servo Davide: Eis o que o diz o Senhor: Porventura serás tu que me edificarás uma casa para eu habitar?  
-**6** Vê que eu, desde que tirei da terra do Egito os filhos de Israel até ao dia de hoje, não habitei em nenhuma casa, mas tenho caminhado debaixo dum pavilhão e duma tenda.  
+**6** Vê que eu, desde que tirei da terra do Egipto os filhos de Israel até ao dia de hoje, não habitei em nenhuma casa, mas tenho caminhado debaixo dum pavilhão e duma tenda.  
 **7** Em todos os lugares, por onde passei com todos os filhos de Israel, falei eu porventura a algum dos chefes de Israel, a esses que mandei pastorear o meu povo de Israel, dizendo: Por que não me edificais uma casa de cedro?  
 **8** Dirás, pois, ao meu servo Davide: Eis o que diz O Senhor dos exércitos: Eu tirei-te das pastagens, quando ias seguindo os gados, para que fosses o condutor do meu povo de Israel;  
 **9** por toda a parte por onde andaste, estive contigo, exterminei diante de ti todos os teus inimigos, e fiz o teu nome tão ilustre como o nome dos grandes que há na terra;  
@@ -200,7 +200,7 @@
 **20** Que poderá, pois, acrescentar ainda Davide, falando contigo? Tu, ó Senhor Deus, conheces o teu servo.  
 **21** Por atenção à tua palavra e segundo o teu coração, fizeste todas estas maravilhas, até ao ponto de as dares a saber ao teu servo.  
 **22** Por isso, ó Senhor Deus, mostraste a tua grandeza! Ninguém há semelhante a ti, nem há Deus, fora de ti, segundo tudo o que temos ouvido com os nossos ouvidos.  
-**23** Que nação há, na terra, igual ao teu povo de Israel, a quem Deus foi resgatar, para o fazer seu povo, dar-lhe um nome célebre, e operar em seu favor prodígios (tão) terríveis, a fim de o tirar da escravidão do Egito, (e a fim de punir aquela terra), o seu povo, e o seu (falso) deus?  
+**23** Que nação há, na terra, igual ao teu povo de Israel, a quem Deus foi resgatar, para o fazer seu povo, dar-lhe um nome célebre, e operar em seu favor prodígios (tão) terríveis, a fim de o tirar da escravidão do Egipto, (e a fim de punir aquela terra), o seu povo, e o seu (falso) deus?  
 **24** Tu estabeleceste o povo de Israel, para ser eternamente o teu povo, e tu te fizeste o seu Deus, ó Senhor Deus.  
 **25** Agora, pois, ó Senhor Deus, faze que tenha efeito para sempre a palavra que pronunciaste acerca do teu servo e da sua casa, e faze como disseste,  
 **26** para que o teu nome seja eternamente engrandecido e se diga: O Senhor dos exércitos é o Deus de Israel. A casa de teu servo Davide permanecerá estável diante do Senhor,  
@@ -213,7 +213,7 @@
 **1** Depois disto Davide derrotou os Filisteus e humilhou-os, tirando-lhes o mando da sua capital.  
 **2** Derrotou também os Moabitas, e (os prisioneiros) mediu-os a cordel, fazendo-os deitar por terra: duas medidas de cordel para a morte e uma medida avantajada para a vida. E ficou Moab sujeito a Davide, pagando-lhe tributo.  
 **3** Davide derrotou também Adadezer, filho de Roob, rei de Soba, quando marchou para estender os seus domínios até ao rio Eufrates.  
-**4** Tendo-lhe Davide tomado mil e setecentos cavaleiros e vinte mil peões, cortou os jarretes a todos os cavalos dos carros; deles reservou somente (os precisos) para cem carros.  
+**4** Tendo-lhe Davide tomado mil e setecentos cavaleiros e vinte mil peões, cortou os jarretes a todos os cavalos dos carros; deles reservou sòmente (os precisos) para cem carros.  
 **5** Vieram também os Sírios de Damasco, para darem socorro a Adadezer, rei de Soba, e Davide matou vinte e dois mil Sírios.  
 **6** Davide pôs guarnição na Síria de Damasco, e a Síria foi submetida a Davide, ficando-lhe tributária. O Senhor guardou Davide em todas as expedições que fez.  
 **7** Davide tomou as armas de ouro, que tinham os servos de Adadezer, e levou-as para Jerusalém.  
@@ -255,7 +255,7 @@
 **6** Considerando os Amonitas que tinham injuriado Davide, mandaram aos Sírios de Rood e aos Sírios de Soba, e tomaram deles a seu soldo vinte mil homens de pé, mais de mil homens dos do rei de Maaca e doze mil dos de Tob.  
 **7** Advertido disto Davide, mandou Joab (contra eles) com todas as suas tropas.  
 **8** Os Amonitas saíram à campanha, dispondo o seu exército em batalha em frente à entrada da porta (da cidade); os Sírios de Soba, os de Roob, os de Istob e os de Maaca, estavam a parte no campo.  
-**9** Joab, vendo que estava preparada batalha contra ele, assim pela frente como pela retaguarda, escolheu entre os melhores de Israel, e formou em linha de batalha contra os Sírios.  
+**9** Joab, vendo que estava preparada batalha contra ele, assim pela frente como pela rectaguarda, escolheu entre os melhores de Israel, e formou em linha de batalha contra os Sírios.  
 **10** O resto do exército entregou-o a seu Irmão Abisai, que dirigiu o combate contra os Amonitas.  
 **11** Joab disse-lhe: Se os Sírios prevalecerem contra mim, virás em meu socorro: se os Amonitas prevalecerem contra ti, eu te socorrerei.  
 **12** Mostra-te como homem de coragem, e pelejemos pelo nosso povo e pela cidade do nosso Deus. O Senhor fará como bem lhe parecer.  
@@ -340,7 +340,7 @@
 **5** Respondeu-lhe Jonadab; Deita-te na tua cama e finge que estás doente; quando teu pai te vier visitar, dize-lhe: Peço-te que mandes vir aqui minha irmã Tamar, para que me dê de comer, e me prepare algum prato, que eu possa comer da sua mão.  
 **6** Deitou-se, pois, Amnon na cama e começou a fingir-se doente. Tendo ido o rei visitá-lo, disse Amnon ao rei: Peço-te que mandes vir minha irmã Tamar, para que faça á minha vista dois pastéizinhos, que eu coma da sua mão.  
 **7** Mandou Davide a casa de Tamar dizer-lhe; Vem a casa de teu irmão Amnon, e faze-lhe alguma coisa de comer.  
-**8** Tamar foi a casa de seu irmão Amnon, que estava na cama, e, tomando um pouco de farinha, misturou-a e, adelgaçando-a, cozeu à sua vista uns pasteizinhos.  
+**8** Tamar foi a casa de seu irmão Amnon, que estava na cama, e, tomando um pouco de farinha, misturou-a e, adelgaçando-a, cozeu à sua vista uns pastèizinhos.  
 **9** Tomando o que tinha cozido, lançou-o num prato e pôs-lhe diante, mas Amnon não quis comer e disse: Façam sair todos para fora. Tendo feito sair todos para fora,  
 **10** Amnon disse a Tamar: Chega-me cá à alcova essa comida, para que eu a coma da tua mão. Tomou pois Tamar o que tinha cozido, e levou-o a seu irmão Amnon à alcova.  
 **11** Logo que ela lhe pôs diante o prato, pegou nela, e disse: Vem, minha irmã, deita-te comigo.  
@@ -532,7 +532,7 @@
 **21** Joab disse a um cusita: Parte e vai anunciar ao rei o que viste. Ele fez-lhe uma profunda reverência e partiu a correr.  
 **22** Aquimaas, filho de Sadoc, disse novamente a Joab: Que embaraço há para que eu não vá também correndo atrás do cusita? Joab respondeu-lhe: Por que queres tu correr, ó meu filho? Esta mensagem não te aproveitaria.  
 **23** (Aquimaas) respondeu: Seja o que for, eu correrei. Joab disse-lhe: Corre. Correndo, pois, Aquimaas por um atalho, passou adiante do cusita.  
-**24** Davide estava sentado entre as duas portas. A sentinela que estava por cima da porta, sobre a muralha, levantando os olhos, viu vir um homem correndo sozinho e gritou para advertir o rei. O rei respondeu: Se vem só, traz alguma boa nova. Entretanto, apressando-se ele e estando já próximo,  
+**24** Davide estava sentado entre as duas portas. A sentinela que estava por cima da porta, sobre a muralha, levantando os olhos, viu vir um homem correndo sòzinho e gritou para advertir o rei. O rei respondeu: Se vem só, traz alguma boa nova. Entretanto, apressando-se ele e estando já próximo,  
 **25** .  
 **26** a sentinela descobriu outro homem que corria, e, gritando de cima, disse: Eu vejo lá vir correndo outro homem só. O rei disse: Também este traz alguma boa nova.  
 **27** A sentinela disse: Observo que o modo de correr do primeiro me parece ser o correr de Aquimaas, filho de Sadoc. O rei disse: É um homem de bem, e vem (certamente) trazer boas novas.  
@@ -612,7 +612,7 @@
 **19** Eu sou uma cidade pacifica e fiel em Israel; tu queres arruinar uma cidade, que é uma mãe em Israel? Por que te afadigas tu em destruir a herança do Senhor?  
 **20** Joab respondeu, dizendo: Longe, longe de mim, que eu tal faça; eu não venho arruinar nem destruir.  
 **21** Não é essa a minha intenção, mas busco um homem do monte de Efraim, chamado Seba, filho de Bocri, que se levantou contra o rei Davide; entregai-nos só este, e retirar-nos-emos da cidade. A mulher disse a Joab: Agora mesmo te será lançada a sua cabeça pelo muro.  
-**22** Ela, pois, foi ter com todo o povo, falou-lhes sabiamente; eles, cortada a cabeça de Seba, filho de Bocri, atiraram-na a Joab. Joab tocou a trombeta, e retiraram-se da cidade, cada um para as suas tendas; Joab voltou a Jerusalém, e foi ter com o rei.  
+**22** Ela, pois, foi ter com todo o povo, falou-lhes sàbiamente; eles, cortada a cabeça de Seba, filho de Bocri, atiraram-na a Joab. Joab tocou a trombeta, e retiraram-se da cidade, cada um para as suas tendas; Joab voltou a Jerusalém, e foi ter com o rei.  
 **23** Deste modo ficou Joab general de todo o exército de Israel; Benaias, filho de Jojada, comandava os Cereteus e os Feleteus;  
 **24** Aduram era superintendente dos tributos; Josafat, filho de Ailud, cronista-mor;  
 **25** Siva era secretário; Sadoc e Ablatar, pontífices;  
@@ -715,7 +715,7 @@
 **14** Davide estava num lugar forte. Nesse mesmo tempo havia em Belém uma guarnição de Filisteus.  
 **15** Ora Davide teve um desejo; disse: Oh! se alguém me desse a beber água da cisterna que há em Belém, junto à porta!  
 **16** No mesmo instante estes três valentes romperam pelo acampamento dos Filisteus foram tirar água à cisterna de Belém, que estava junto à porta, e trouxeram-na a Davide, mas ele não a quis beber; ofereceu-a ao Senhor,  
-**17** dizendo: Guarde-me o Senhor que tal faça: beberei eu o sangue destes homens, que foram (buscá-la) com risco das suas vidas? Não quis pois bebê-la. Tal ação foi feita por estes três fortíssimos.  
+**17** dizendo: Guarde-me o Senhor que tal faça: beberei eu o sangue destes homens, que foram (buscá-la) com risco das suas vidas? Não quis pois bebê-la. Tal acção foi feita por estes três fortíssimos.  
 **18** Abisai, irmão de Joab, filho de Sarvia, era o primeiro dos trinta; este é o que levantou a sua lança contra trezentos, que matou, ganhando grande renome entre os trinta.  
 **19** Era o mais considerado entre os trinta, e seu chefe, mas não igualara os três primeiros.  
 **20** Banaias de Cabseel, filho de Jojada, que foi um homem valentíssimo, e de grandes feitos, matou os dois filhos de Ariel de Moab, e ele mesmo desceu e matou um leão no meio duma cisterna, em tempo de neve.  
@@ -750,7 +750,7 @@
 **7** passaram perto das muralhas de Tiro, e por toda a terra dos Heveus e dos Cananeus, chegando até Bersabé, parte meridional de Judá.  
 **8** Tendo percorrido todo o país, voltaram a Jerusalém, depois de nove meses e vinte dias.  
 **9** Deu Joab ao rei a lista do povo; acharam-se em Israel oitocentos mil homens robustos, capazes de puxar pela espada, e em Judá, quinhentos mil combatentes.  
-**10** Depois que foi contado o povo, sentiu Davide um remorso no seu coração. Disse Davide ao Senhor: Eu cometi nesta ação um grande pecado, mas rogo-te, ó Senhor, que perdoes a iniquidade do teu servo, porque procedeu muito nesciamente.  
+**10** Depois que foi contado o povo, sentiu Davide um remorso no seu coração. Disse Davide ao Senhor: Eu cometi nesta acção um grande pecado, mas rogo-te, ó Senhor, que perdoes a iniquidade do teu servo, porque procedeu muito nèsciamente.  
 **11** Quando Davide se levantou, pela manhã, o Senhor dirigiu a sua palavra a Gad, profeta e vidente de Davide, dizendo;  
 **12** Vai e dize a Davide: Eis o que diz o Senhor: De três coisas (para castigo) se te dá opção; escolhe qual destas queres que te mande.  
 **13** Gad, tendo-se apresentado a Davide, deu-lhe a conhecer a ordem do Senhor, dizendo: Ou virá a fome durante sete anos à tua terra; ou durante três meses irás fugindo dos teus inimigos, que te perseguirão; ou pelo menos haverá peste na tua terra durante três dias. Delibera, pois, agora, e vê que resposta hei-de levar a quem me enviou.  

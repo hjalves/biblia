@@ -25,10 +25,10 @@
 **1** Estarei alerta (entretanto), fazendo a minha sentinela (como profeta de Israel), e permanecerei de pé sobre as fortificações; olharei atentamente para ver o que me vai dizer o Senhor e o que hei-de responder à advertência recebida.  
 **2** Então respondeu-me o Senhor, dizendo; Escreve o que vês e nota-o sobre tabuinhas (de escrever), para que se possa ler correntemente.  
 **3** Porque a visão é apenas para o tempo devido, mas enfim ela se cumprirá, não faltará; se tardar, espera-a, porque infalivelmente virá, não faltará.  
-**4** Eis que sucumbe o que não tem a alma reta, mas o justo viverá pela sua fidelidade.  
+**4** Eis que sucumbe o que não tem a alma recta, mas o justo viverá pela sua fidelidade.  
 **5** Assim como o vinho engana quem o bebe, assim o homem soberbo perderá o seu brilho, ele que dilata como o inferno a sua alma, e é insaciável como a morte, que junta sob o seu domínio todas as nações e amontoa junto de si todos os povos.  
-**6** Porventura não virá ele a ser a fábula de todos estes, e o objeto dos seus (satíricos) provérbios? Dir-se-á; Ai daquele que acumula o que não é seu até quando? — daquele que acumula sobre si o peso da dívida!  
-**7** Porventura (ó mau) não se levantarão de repente os teus credores, não despertarão os teus exatores? Serás presa deles.  
+**6** Porventura não virá ele a ser a fábula de todos estes, e o objecto dos seus (satíricos) provérbios? Dir-se-á; Ai daquele que acumula o que não é seu até quando? — daquele que acumula sobre si o peso da dívida!  
+**7** Porventura (ó mau) não se levantarão de repente os teus credores, não despertarão os teus exactores? Serás presa deles.  
 **8** Visto que despojaste muitas nações, despojar-te-ão todos os outros povos, por causa do sangue humano (que derramaste), das violências cometidas contra a terra, contra a cidade e contra todos os seus habitantes.  
 **9** Ai daquele que ajunta ganhos criminosos para (estabelecer a) sua casa, a fim de colocar em lugar muito alto o seu ninho, pensando livrar-se da mão do mal!  
 **10** Tu meditaste, cobrindo de vergonha a tua casa, arruinar muitos povos, comprometendo a tua própria vida.  
@@ -37,7 +37,7 @@
 **13** Porventura o Senhor dos exércitos não fará (como castigo) isto (que se segue)? Os povos trabalharão para o fogo, e as nações fatigar-se-ão para nada.  
 **14** Porque a terra se encherá do conhecimento da glória do Senhor, como o mar está coberto das suas águas.  
 **15** Ai daquele que dá de beber ao seu próximo, misturando fel (na bebida) até o embriagar, para ver a sua nudez!  
-**16** Tu (que assim procedes) serás cheio de ignomínia, em lugar de glória; bebe também até ficares ébrio; voltai-se-á sobre ti o cálice da direita do Senhor, e a abjeção cairá sobre a tua glória.  
+**16** Tu (que assim procedes) serás cheio de ignomínia, em lugar de glória; bebe também até ficares ébrio; voltai-se-á sobre ti o cálice da direita do Senhor, e a abjecção cairá sobre a tua glória.  
 **17** Porque a violência executada contra o Líbano recairá sobre ti, e os estragos dos animais ferozes far-te-ão tremer, por causa do sangue humano (que derramaste) e das injustiças cometidas contra a terra, contra a cidade e contra todos os seus habitantes.  
 **18** De que serve a escultura para que o escultor a faça? O ídolo fundido que só ensina mentiras, para que o artista nele ponha a sua confiança, fabricando divindades mudas?  
 **19** Ai daquele que diz ao pau; Desperta! e à pedra muda: Levanta-te! Porventura poder-lhe-á ela ensinar alguma coisa? Vê que ela está coberta de ouro e de prata, mas nas suas entranhas não há espírito algum.  

@@ -20,7 +20,7 @@
 **1** No ano décimo terceiro do rei Nabucodonosor, aos vinte e dois dias do primeiro mês, foi resolvido no palácio de Nabucodonosor, rei dos Assírios, que ele se vingaria.  
 **2** Convocou todos os anciãos, todos os seus chefes e guerreiros, e teve com eles um conselho secreto.  
 **3** Declarou que era sua intenção sujeitar ao seu império toda a terra.  
-**4** Tendo sido esta proposta unanimemente aprovada, o rei Nabucodonosor chamou Holofernes, chefe supremo das suas tropas,  
+**4** Tendo sido esta proposta unânimemente aprovada, o rei Nabucodonosor chamou Holofernes, chefe supremo das suas tropas,  
 **5** e disse-lhe: Vai atacar os reinos do Ocidente, principalmente aqueles que desprezaram as minhas ordens.  
 **6** O teu olho não perdoará a nenhum reino, e tu me sujeitarás todas as cidades fortes.  
 **7** Então Holofernes convocou os generais e oficiais do exército dos Assírios, e contou, para se pôr em campanha, segundo a ordem que lhe deu o rei, cento e vinte mil combatentes de pé, e doze mil frecheiros a cavalo.  
@@ -50,7 +50,7 @@
 **10** recebendo-o com coroas e com archotes, dançando ao som de tambores e de flautas.  
 **11** Todavia, nem mesmo fazendo isto, puderam abrandar a ferocidade daquele coração,  
 **12** porque não só lhes destruiu as suas cidades, mas também lhes cortou os seus bosques sagrados.  
-**13** Efetivamente o rei Nabucodonosor tinha-lhe mandado que exterminasse todos os deuses da terra, a fim de que só ele fosse chamado deus por aquelas nações que pudessem ser subjugadas pelo poder de Holofernes.  
+**13** Efectivamente o rei Nabucodonosor tinha-lhe mandado que exterminasse todos os deuses da terra, a fim de que só ele fosse chamado deus por aquelas nações que pudessem ser subjugadas pelo poder de Holofernes.  
 **14** Este, atravessando a Síria de Sobal, toda a Apaméa e toda a Mesopotâmia, chegou aos Idumeus na terra de Cabaa.  
 **15** Depois de haver conquistado as suas cidades, demorou-se lá trinta dias, durante os quais mandou que se juntassem todas as tropas do seu exército,  
 
@@ -65,7 +65,7 @@
 **7** Os filhos de Israel fizeram como lhes tinha mandado Eliaquim, pontífice do Senhor.  
 **8** Todo o povo clamou ao Senhor com grande instância. Humilharam suas almas com jejuns e orações, eles e suas mulheres.  
 **9** Os sacerdotes vestiram-se de cilício, os meninos prostaram-se diante do templo do Senhor, e cobriu-se de cilício o altar do Senhor.  
-**10** Clamaram unanimemente ao Senhor Deus de Israel, que não fossem dados em presa seus filhos, nem roubadas suas mulheres, nem destruídas as suas cidades, nem profanado o seu santuário, nem eles se tornassem o opróbrio das nações.  
+**10** Clamaram unânimemente ao Senhor Deus de Israel, que não fossem dados em presa seus filhos, nem roubadas suas mulheres, nem destruídas as suas cidades, nem profanado o seu santuário, nem eles se tornassem o opróbrio das nações.  
 **11** Então Eliaquim, sumo sacerdote do Senhor, percorreu todo o Israel e falou ao povo,  
 **12** nestes termos: Sabei que o Senhor ouvirá as vossas súplicas, se permanecerdes constantes nos jejuns e nas orações diante do Senhor.  
 **13** Lembrai-vos de Moisés, servo do Senhor, o qual, não combatendo com ferro, mas suplicando com santas orações, destroçou Amalec, que confiava na sua força, no seu poder, no seu exército, nos seus escudos, nos seus carros e cavaleiros.  
@@ -84,8 +84,8 @@
 **6** Este povo é da raça dos Caldeus;  
 **7** habitou primeiramente na Mesopotâmia. porque não quiseram seguir os deuses de seus pais, que moravam na terra dos Caldeus.  
 **8** Abandonados os ritos de seus pais, que prestavam culto a muitos deuses,  
-**9** adoraram um só Deus do céu, o qual lhe mandou que saíssem dali e que fossem habitar em Canan (ou Canaan). Quando sobreveio em todo o país uma grande fome, desceram ao Egito, e ali, durante quatrocentos anos, multiplicaram-se de tal sorte que o seu exército era inumerável.  
-**10** Como o rei do Egito os tratasse duramente, sujeitando-os a trabalhar em barro e ladrilhos para edificar as suas cidades, clamaram ao seu Senhor, e este feriu toda a terra do Egito com várias pragas.  
+**9** adoraram um só Deus do céu, o qual lhe mandou que saíssem dali e que fossem habitar em Canan (ou Canaan). Quando sobreveio em todo o país uma grande fome, desceram ao Egipto, e ali, durante quatrocentos anos, multiplicaram-se de tal sorte que o seu exército era inumerável.  
+**10** Como o rei do Egipto os tratasse duramente, sujeitando-os a trabalhar em barro e ladrilhos para edificar as suas cidades, clamaram ao seu Senhor, e este feriu toda a terra do Egipto com várias pragas.  
 **11** A praga cessou, quando os Egípcios os expulsaram da sua terra. Porém quiseram outra vez sujeitá-los e reduzi-los à sua escravidão.  
 **12** Então os Israelitas fugiram; entretanto o Deus do céu abriu-lhes o mar, de modo que duma e outra parte as águas tornaram-se sólidas como um muro, e eles passaram, em pé enxuto, o fundo do mar.  
 **13** Na ocasião em que o inumerável exército dos Egípcios ia em alcance deles, neste lugar, foi de tal modo submergido pelas águas, que não escapou nem sequer um, que contasse à sua posteridade o acontecimento.  
@@ -135,7 +135,7 @@
 **1** No dia seguinte Holofernes mandou marchar as suas tropas contra Betúlia  
 **2** Os combatentes a pé eram cento e vinte mil, e os cavaleiros vinte e dois mil, sem contar os homens aptos para a guerra, que tinha aprisionado, e toda a juventude que tinha levado, à força, das províncias e das cidades.  
 **3** Todos se prepararam, a um tempo, para combater contra os filhos de Israel, e avançaram pela encosta do monte até ao cume que olha para Dotain, desde o lugar chamado Belma até Quelmon, que está defronte de Estrelou.  
-**4** Os filhos de Israel, quando viram aquela multidão, lançaram-se por terra, cobrindo as suas cabeças de cinza, pedindo unanimemente ao Deus de Israel que fizesse brilhar sobre o seu povo a sua misericórdia.  
+**4** Os filhos de Israel, quando viram aquela multidão, lançaram-se por terra, cobrindo as suas cabeças de cinza, pedindo unânimemente ao Deus de Israel que fizesse brilhar sobre o seu povo a sua misericórdia.  
 **5** Depois, tomando as suas armas de guerra, postaram-se nos lugares que davam acesso a atalhos, entre os montes, e estavam-nos ali guarnecendo de dia e de noite.  
 **6** Holofernes, ao percorrer os arredores, achou que a fonte que corria para dentro (da cidade), era conduzida por meio dum aqueduto que estava da parte do meio-dia, fora da cidade. Ordenou que lhes fosse cortado o aqueduto.  
 **7** Havia, contudo, fontes não longe dos muros, donde se via que os sitiados iam às furtadelas tirar (um pouco de) água, mais para aliviar um pouco a sede do que para beber.  
@@ -146,7 +146,7 @@
 **12** Então todos os homens e mulheres, jovens e meninos, foram juntos ter com Ozias, e todos a uma voz  
 **13** lhe disseram: Deus seja juiz entre nós e ti, porque tu nos trouxestes estes males, não querendo tratar a paz com os Assírios; por isso nos entregou Deus nas suas mãos.  
 **14** Por tal motivo não há quem nos socorra, quando aos seus olhos nos achamos abatidos pela sede e por grande miséria.  
-**15** Agora, pois, manda ajuntar todos os que há na cidade, para que todos nós nos rendamos voluntariamente ao exército de Holofernes.  
+**15** Agora, pois, manda ajuntar todos os que há na cidade, para que todos nós nos rendamos voluntàriamente ao exército de Holofernes.  
 **16** Com efeito, é melhor que, cativos, bendigamos ao Senhor, vivendo, do que morramos e sejamos o opróbrio de todos os homens, vendo morrer aos nossos olhos as nossas mulheres e os nossos filhos.  
 **17** Tomando hoje por testemunhas o céu e a terra, assim como o Deus de nossos pais, o qual nos castiga segundo os nossos pecados, (pedimos-te) que entregues já a cidade nas mãos do exército de Holofernes, para que se abrevie o nosso fim, ao fio da espada, e não morramos lentamente pelo ardor da sede.  
 **18** Tendo eles assim falado, levantou-se um grande pranto e alarido em todo o ajuntamento, e durante muitas horas clamaram, a uma voz, a Deus, dizendo:  
@@ -165,8 +165,8 @@
 **3** enquanto ele vigiava os que atavam os feixes no campo, deu-lhe o ardor do sol na cabeça, e morreu em Betúlia, sua cidade, onde foi sepultado com seus pais.  
 **4** Havia já três anos e seis meses que Judit tinha ficado viúva.  
 **5** No andar superior de sua casa tinha feito para si um quarto retirado, no qual se conservava recolhida com as suas criadas;  
-**6** trazendo um cilício sobre os seus rins, jejuava todos os dias da sua vida, exceto nos sábados, nas neoménias e nas festas da casa de Israel.  
-**7** Era de belíssimo aspeto, e seu marido tinha-lhe deixado muitas riquezas, uma família numerosa e fazendas cheias de manadas de bois e de rebanhos de ovelhas.  
+**6** trazendo um cilício sobre os seus rins, jejuava todos os dias da sua vida, excepto nos sábados, nas neoménias e nas festas da casa de Israel.  
+**7** Era de belíssimo aspecto, e seu marido tinha-lhe deixado muitas riquezas, uma família numerosa e fazendas cheias de manadas de bois e de rebanhos de ovelhas.  
 **8** Era estimadíssima de todos, porque tinha muito temor de Deus; não havia ninguém que dissesse dela uma palavra em desfavor.  
 **9** Tendo, pois, ela sabido que Ozias tinha prometido entregar a cidade, passados cinco dias, mandou chamar os anciãos Cabri e Carmi.  
 **10** Eles foram ter com ela, que lhes disse: Que palavra é esta, com a qual concordou Ozias, de entregar a cidade aos Assírios, se dentro de cinco dias vos não viesse socorro?  
@@ -230,7 +230,7 @@
 **9** Os que estavam ali disseram todos a uma voz: Assim seja, assim seja.  
 **10** Judit, orando ao Senhor, passou as portas com a sua escrava.  
 **11** Quando ela descia do monte, ao amanhecer do dia, saíram-lhe ao encontro as guardas avançadas dos Assírios e prenderam-na, dizendo: Donde vens tu? e para onde vais?  
-**12** Ela respondeu: Eu sou uma das filhas dos Hebreus que fugi da presença deles porque previ que eles vos hão-de ser entregues a saque, visto que, desprezando-vos, não quiseram render-se a vós voluntariamente, para encontrarem misericórdia, a vossos olhos.  
+**12** Ela respondeu: Eu sou uma das filhas dos Hebreus que fugi da presença deles porque previ que eles vos hão-de ser entregues a saque, visto que, desprezando-vos, não quiseram render-se a vós voluntàriamente, para encontrarem misericórdia, a vossos olhos.  
 **13** Por toda esta causa pensei comigo: Irei à presença do príncipe Holofernes, para lhe descobrir os seus segredos, para lhe mostrar por que entrada os possa tomar, sem que pereça um só homem do seu exército.  
 **14** Tendo aqueles homens ouvido as suas palavras, contemplavam o seu rosto, e nos seus olhos estava o pasmo, porquanto admiravam-se muito da sua formosura.  
 **15** Disseram-lhe: Tu salvaste a tua vida, porque tomaste tal resolução de vir ter com o nosso príncipe;  
@@ -246,7 +246,7 @@
 **2** Se o teu povo me não tivesse desprezado, não teria eu levantado contra ele a minha lança.  
 **3** Mas dize-me, agora, por que motivo os deixaste e te resolveste a vir para nós?  
 **4** Judit respondeu-lhe: Ouve as palavras da tua serva, porque, se seguires as palavras de tua serva, o Senhor chegará aos seus fins por ti.  
-**5** Viva Nabucodonosor, rei da terra, e viva o seu poder, que está nas tuas mãos para castigo de todos os desencaminhados, porque não somente os homens por ti o servem, mas até os animais do campo lhe obedecem.  
+**5** Viva Nabucodonosor, rei da terra, e viva o seu poder, que está nas tuas mãos para castigo de todos os desencaminhados, porque não sòmente os homens por ti o servem, mas até os animais do campo lhe obedecem.  
 **6** Com efeito, a sabedoria do teu espírito é celebrada em todas as nações; por todo o mundo se sabe que tu és o único bom e poderoso em todo o seu reino, e por todas as províncias é exaltada a tua perícia militar.  
 **7** Não se ignora o que disse Aquior nem o que tu ordenaste que lhe fosse feito.  
 **8** E manifesto que o nosso Deus está de tal sorte irritado pelos pecados, que mandou dizer ao povo por meio dos seus profetas, que o entregaria por causa das suas ofensas.  
@@ -260,7 +260,7 @@
 **16** Isto me foi revelado pela providência de Deus.  
 **17** Porque Deus está irado contra eles, eu fui enviada para te anunciar estas mesmas coisas.  
 **18** Estas palavras agradaram a Holofernes e aos seus servos. Admiravam a sua sabedoria e diziam uns para os outros:  
-**19** Não há sobre a terra mulher semelhante a esta, no aspeto, na formosura e no acerto das palavras.  
+**19** Não há sobre a terra mulher semelhante a esta, no aspecto, na formosura e no acerto das palavras.  
 **20** Holofernes disse-lhe: Bem fez Deus, que te enviou adiante do teu povo, para o entregares nas nossas mãos;  
 **21** visto que a tua promessa é boa, se o teu Deus me fizer isto, será ele também o meu Deus, tu serás grande na casa de Nabucodonosor, e o teu nome será célebre em toda a terra.  
 
@@ -275,7 +275,7 @@
 **7** Ela saía de noite ao vale de Betúlia, e lavava-se numa fonte de água.  
 **8** Ao voltar, orava ao Senhor Deus de Israel que a guiasse no seu caminho, a fim de conseguir a libertação do seu povo.  
 **9** Depois, entrando, permanecia pura na sua tenda, até que tomava a sua refeição pela tarde.  
-**10** Ao quarto dia, Holofernes deu uma ceia aos seus domésticos e disse a Vagao, seu eunuco: Vai e persuade a esta hebreia que consista espontaneamente em habitar comigo.  
+**10** Ao quarto dia, Holofernes deu uma ceia aos seus domésticos e disse a Vagao, seu eunuco: Vai e persuade a esta hebreia que consista espontâneamente em habitar comigo.  
 **11** (E coisa vergonhosa entre os Assírios, que uma mulher zombe dum homem, procedendo de modo a retirar-se dele, sem se lhe entregar.)  
 **12** Então Vagao foi ter com Judit e disse-lhe: Não tema a boa jovem entrar à presença de meu senhor para ser honrada diante dele, para comer com ele e beber vinho com alegria.  
 **13** Judit respondeu-lhe: Quem sou eu para contradizer o meu senhor?  
@@ -336,7 +336,7 @@
 **11** Mas, tendo vindo os seus capitães, tribunos e todos os oficiais maiores do exército do rei dos Assirios, disseram aos camareiros:  
 **12** Entrai e acordai-o, porque saíram os ratos das suas cavernas e tiveram o atrevimento de nos desafiar para o combate.  
 **13** Então Vagao, tendo entrado na câmara de Holofernes, pôs-se diante da cortina e bateu com as mãos, porque imaginava que ele dormia com Judit.  
-**14** Porém, aplicando o ouvido e não percebendo nenhum movimento de quem dormia, aproximou-se mais da cortina e, levantando-a, viu o cadáver de Holofernes sem cabeça, que jazia estendido sobre a terra, banhado no seu próprio sangue. (Perante esse espetáculo) gritou em alta voz, com lágrimas, e rasgou as suas vestes.  
+**14** Porém, aplicando o ouvido e não percebendo nenhum movimento de quem dormia, aproximou-se mais da cortina e, levantando-a, viu o cadáver de Holofernes sem cabeça, que jazia estendido sobre a terra, banhado no seu próprio sangue. (Perante esse espectáculo) gritou em alta voz, com lágrimas, e rasgou as suas vestes.  
 **15** Tendo entrado na tenda de Judit, não a encontrou. Correu fora, para o povo,  
 **16** e disse: Uma mulher hebreia pôs a confusão na casa do rei Nabucodonosor: ali jaz Holofernes estendido por terra, e a sua cabeça não está com o corpo.  
 **17** Quando ouviram isto, os chefes do exército dos Assírios rasgaram todas as suas vestes, um receio e um pavor extremos os invadiram, e os seus ânimos ficaram completamente desconcertados.  
@@ -357,7 +357,7 @@
 **11** Procedeste varonilmente e o teu coração foi cheio de força. Porque amaste a castidade, porque depois do teu marido, não conheceste outro homem, por isso a mão do Senhor te fortaleceu, e serás bendita eternamente.  
 **12** Todo o povo respondeu: Assim seja, assim seja.  
 **13** Trinta dias mal bastaram para o povo de Israel recolher os despojos dos Assírios.  
-**14** Tudo aquilo que se soube ter pertencido a Holofernes, deram-no a Judit: ouro, prata, vestes, pedras preciosas, objetos de diversa espécie, tudo lhe foi dado pelo povo.  
+**14** Tudo aquilo que se soube ter pertencido a Holofernes, deram-no a Judit: ouro, prata, vestes, pedras preciosas, objectos de diversa espécie, tudo lhe foi dado pelo povo.  
 **15** Todo o povo rejubilou, com as mulheres, com as donzelas e com os jovens, ao som de harpas e cítaras.  
 
 ## Capítulo 16

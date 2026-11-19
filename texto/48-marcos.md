@@ -5,12 +5,12 @@
 **1** Princípio do Evangelho de Jesus Cristo, Filho de Deus.  
 **2** Conforme está escrito no profeta Isaías: Eis que envio o meu anjo ante a tua presença, o qual preparará o teu caminho (Ml. 3, 1).  
 **3** Voz do que clama no deserto: Preparai o caminho do Senhor, endireitai as suas veredas (Is. 40, 3).  
-**4** Apareceu João Batista no deserto, pregando o batismo de penitência, para remissão dos pecados.  
-**5** E ia ter com ele toda a região da Judeia e todos os de Jerusalém, e eram batizados por ele no rio Jordão, confessando os seus pecados.  
+**4** Apareceu João Baptista no deserto, pregando o baptismo de penitência, para remissão dos pecados.  
+**5** E ia ter com ele toda a região da Judeia e todos os de Jerusalém, e eram baptizados por ele no rio Jordão, confessando os seus pecados.  
 **6** João andava vestido de pelo de camelo, trazia uma cinta de couro em volta dos rins, alimentava-se de gafanhotos e de mel silvestre. E pregava, dizendo:  
 **7** "Vem após de mim quem é mais forte do que eu, ao qual eu não sou digno de desatar, prostrado em terra, a correia dos sapatos.  
-**8** Eu tenho-vos batizado em água, ele, porém, batizar-vos-á no Espírito Santo."  
-**9** Ora aconteceu naqueles dias que Jesus veio de Nazaré da Galileia, e foi batizado por João no Jordão.  
+**8** Eu tenho-vos baptizado em água, ele, porém, baptizar-vos-á no Espírito Santo."  
+**9** Ora aconteceu naqueles dias que Jesus veio de Nazaré da Galileia, e foi baptizado por João no Jordão.  
 **10** No momento de sair da água, viu os céus abertos, e o Espírito Santo que descia sobre ele em forma de pomba;  
 **11** e ouviu-se dos céus uma voz: "Tu és o meu Filho amado, em ti pus as minhas complacências."  
 **12** Imediamente o Espírito o impeliu para o deserto.  
@@ -53,7 +53,7 @@
 **1** Passados alguns dias, entrou Jesus outra vez em Cafarnaum,  
 **2** e soube-se que ele estava em casa. Juntou-se muita gente, de modo que não se cabia, nem mesmo diante da porta. E ele pregava-lhes a palavra.  
 **3** Foram ter com ele, conduzindo um paralítico, que era transportado por quatro.  
-**4** Como não pudessem apresentar-lho por causa da multidão, descobriram o teto pela parte debaixo da qual estava Jesus, e, tendo feito uma abertura, desceram o leito, em que jazia o paralítico.  
+**4** Como não pudessem apresentar-lho por causa da multidão, descobriram o tecto pela parte debaixo da qual estava Jesus, e, tendo feito uma abertura, desceram o leito, em que jazia o paralítico.  
 **5** Vendo Jesus a fé daqueles homens, disse ao paralítico: "Filho, são-te perdoados os teus pecados."  
 **6** Estavam ali sentados alguns escribas, os quais iam discorrendo nos seus corações:  
 **7** "Como fala assim este homem? Ele blasfema. Quem pode perdoar os pecados, senão só Deus?"  
@@ -137,7 +137,7 @@
 **16** Outros recebem a semente em terreno pedregoso; ouvem a palavra, logo a recebem com gosto;  
 **17** mas não têm raízes em si, são inconstantes; depois, levantando-se a tribulação ou a perseguição por causa da palavra, sucumbem imediatamente.  
 **18** Outros recebem a semente entre espinhos; ouvem a palavra,  
-**19** mas as solicitudes do século, a sedução das riquezas, e os outros afetos desordenados, entrando, afogam a palavra, e ela fica infrutuosa.  
+**19** mas as solicitudes do século, a sedução das riquezas, e os outros afectos desordenados, entrando, afogam a palavra, e ela fica infrutuosa.  
 **20** Outros recebem a semente em boa terra; ouvem a palavra, recebem-na, e dão fruto, um a trinta, outro a sessenta, e outro a cem por um.  
 **21** Dizia-lhes mais: "Porventura traz-se a lucerna para a meter debaixo do alqueire ou debaixo do leito? Não é para ser posta sobre o candelabro?  
 **22** Porque não há coisa alguma escondida que não venha a ser manifesta, nem que seja feita para estar oculta, mas para vir a descoberto.  
@@ -197,7 +197,7 @@
 **33** Então a mulher, que sabia o que se tinha passado nela, cheia de medo, e tremendo, foi prostrar-se diante dele, e disse-lhe toda a verdade.  
 **34** Jesus disse-lhe: "Filha, a tua fé te salvou; vai em paz, e fica curada do teu mal."  
 **35** Ainda ele falava, quando chegaram de casa do chefe da sinagoga, dizendo: "Tua filha morreu; para que incomodar mais o Mestre?"  
-**36** Porém, Jesus, tendo ouvido o que eles diziam, disse ao príncipe da sinagoga: "Não temas; crê somente."  
+**36** Porém, Jesus, tendo ouvido o que eles diziam, disse ao príncipe da sinagoga: "Não temas; crê sòmente."  
 **37** E não permitiu que ninguém o acompanhasse, senão Pedro, Tiago e João, irmão de Tiago.  
 **38** Chegando a casa do príncipe da sinagoga, viu Jesus o alvoroço, os que estavam chorando e fazendo grandes prantos.  
 **39** Tendo entrado, disse-lhes: "Por que vos perturbais e chorais? A menina não está morta, mas dorme."  
@@ -215,13 +215,13 @@
 **5** E não podia fazer ali milagre algum; apenas curou alguns poucos enfermos, impondo-lhes as mãos.  
 **6** E admirava-se da incredulidade deles. Depois andava ensinando pelas aldeias circunvizinhas.  
 **7** Chamou os doze, e começou a enviá-los dois a dois, dando-lhes poder sobre os espíritos imundos.  
-**8** Ordenou-lhes que não tomassem nada para o caminho, senão somente um bastão; nem alforge, nem pão, nem dinheiro na cintura;  
+**8** Ordenou-lhes que não tomassem nada para o caminho, senão sòmente um bastão; nem alforge, nem pão, nem dinheiro na cintura;  
 **9** mas que fossem calçados de sandálias, e não levassem duas túnicas.  
 **10** E dizia-lhes: "Em qualquer casa onde entrardes, ficai nela até sairdes daquele lugar.  
 **11** Onde vos não receberem, nem vos ouvirem, retirando-vos de lá, sacudi o pó dos vossos pés em testemunho contra eles."  
 **12** Tendo partido, pregavam aos povos que fizessem penitência.  
 **13** Expeliam muitos demónios, ungiam com óleo muitos enfermos, e curavam-nos.  
-**14** Ora o rei Herodes ouviu falar de Jesus, cujo nome se tinha tornado célebre. Dizia-se: "João Batista ressuscitou de entre os mortos; é por isso que o poder de fazer milagres opera nele."  
+**14** Ora o rei Herodes ouviu falar de Jesus, cujo nome se tinha tornado célebre. Dizia-se: "João Baptista ressuscitou de entre os mortos; é por isso que o poder de fazer milagres opera nele."  
 **15** Outros, porém, diziam: "É Elias." E outros diziam: "É um profeta, como um dos antigos profetas."  
 **16** Herodes, tendo ouvido isto, disse: "Este é aquele João, a quem eu mandei degolar, e que ressuscitou dos mortos."  
 **17** Porque Herodes tinha mandado prender João, e teve-o em ferros no cárcere por causa de Herodíades, mulher de Filipe, seu irmão, com a qual tinha casado (ilicitamente),  
@@ -231,8 +231,8 @@
 **21** Chegando um dia oportuno, Herodes, no aniversário do seu nascimento, deu um banquete aos grandes da corte, aos tribunos e aos principais da Galileia.  
 **22** Tendo entrado na sala a filha da mesma Herodíades, dançou e agradou a Herodes e aos seus convivas. O rei disse à moça: "Pede-me o que quiseres e eu to darei."  
 **23** E jurou-lhe: "Tudo o que me pedires, te darei, ainda que seja metade do meu reino."  
-**24** Ela, tendo saído, disse a sua mãe" "Que hei-de eu pedir?" Ela respondeu-lhe: "A cabeça de João Batista."  
-**25** Tornando logo a entrar apressadamente junto do rei, fez este pedido: "Quero que imediatamente me dês num prato a cabeça de João Batista."  
+**24** Ela, tendo saído, disse a sua mãe" "Que hei-de eu pedir?" Ela respondeu-lhe: "A cabeça de João Baptista."  
+**25** Tornando logo a entrar apressadamente junto do rei, fez este pedido: "Quero que imediatamente me dês num prato a cabeça de João Baptista."  
 **26** O rei entristeceu-se, mas, por causa do juramento e dos convivas, não quis desgostá-la.  
 **27** Imediatamente mandou um guarda com ordem de trazer a cabeça de João. Ele foi degolá-lo no cárcere,  
 **28** levou a sua cabeça num prato, deu-o à moça, e a moça a deu a sua mãe.  
@@ -323,7 +323,7 @@
 **14** Ora os discípulos esqueceram-se de tomar pães; e não tinham consigo na barca, senão um único.  
 **15** Jesus advertia-os, dizendo: "Evitai com cuidado o fermento dos fariseus, e o fermento de Herodes."  
 **16** E eles discorriam entre si: "É que nós não temos pão."  
-**17** Conhecendo isto Jesus, disse-lhes: "Porque estais vós a discutir que não tendes pão? Ainda não refletiste nem entendestes? Ainda tendes o vosso coração obcecado?  
+**17** Conhecendo isto Jesus, disse-lhes: "Porque estais vós a discutir que não tendes pão? Ainda não reflectiste nem entendestes? Ainda tendes o vosso coração obcecado?  
 **18** Tendo olhos, não vedes, e tendo ouvidos, não ouvis? Já não vos recordais?  
 **19** Quando dividi cinco pães por cinco mil homens, quantos cestos levantastes cheios de pedaços?" Eles responderam: "Doze."  
 **20** "E quando dividi sete pães entre quatro mil, quantos cestos levantastes de pedaços?" Responderam: "Sete."  
@@ -334,7 +334,7 @@
 **25** Depois Jesus impôs-lhe novamente as mãos sobre os olhos, e começou a ver claramente; ficou curado e distinguia tudo, nitidamente, de longe.  
 **26** Então Jesus mandou-o para casa, dizendo: "Não entres na aldeia."  
 **27** Saiu Jesus com os seus discípulos pelas aldeias de Cesareia de Filipe. Pelo caminho, interrogou os seus discípulos: "Quem dizem os homens que eu sou?"  
-**28** Eles responderam-lhe: "Uns dizem que João Batista, outros que Elias, e outros que algum dos profetas."  
+**28** Eles responderam-lhe: "Uns dizem que João Baptista, outros que Elias, e outros que algum dos profetas."  
 **29** Então perguntou-lhes: "E vós quem dizeis que eu sou? Pedro respondeu: "Tu és o Messias."  
 **30** Então Jesus ordenou-lhes severamente que a ninguém dissessem isto dele.  
 **31** E começou a declarar-lhes que era necessário que o Filho do homem padecesse muito, que fosse rejeitado pelos anciães, pelos príncipes dos sacerdotes, e pelos escribas, que fosse morto, e que ressuscitasse depois de três dias.  
@@ -359,7 +359,7 @@
 **9** Ao descerem do monte, ordenou-lhes que a ninguém contassem o que tinham visto, senão quando o Filho do homem tivesse ressuscitado dos mortos.  
 **10** Observaram esta ordem, investigando entre si o que queria dizer: "Quando tiver ressuscitado dos mortos."  
 **11** Interrogaram-no, dizendo: "Porque dizem os escribas que Elias deve vir primeiro?"  
-**12** Jesus respondeu-lhes: "Elias efetivamente há-de vir primeiro e pôr tudo em ordem. Como está escrito acerca do Filho do homem, que terá de sofrer muito e ser desprezado?  
+**12** Jesus respondeu-lhes: "Elias efectivamente há-de vir primeiro e pôr tudo em ordem. Como está escrito acerca do Filho do homem, que terá de sofrer muito e ser desprezado?  
 **13** Mas digo-vos que Elias já veio, e fizeram dele quanto quiseram, como está escrito dele."  
 **14** Chegando junto dos seus discípulos, viu uma grande multidão em volta deles, e os escribas disputando com eles.  
 **15** E logo toda aquela multidão surpreendida ao ver Jesus, correu para o saudar.  
@@ -389,7 +389,7 @@
 **39** Jesus, porém, respondeu: "Não lho proibais, porque não há ninguém que faça um milagre em meu nome e que possa logo dizer mal de mim.  
 **40** Porque quem não é contra nós, está connosco.  
 **41** Quem vos der um copo de água, por que sois de Cristo, em verdade vos digo que não perderá a sua recompensa.  
-**42** Quem escandalizar um destes pequeninos que, creem em mim, melhor lhe fora que lhe atassem à roda do pescoço a mó que um asno faz girar, e que o lançassem ao mar.  
+**42** Quem escandalizar um destes pequeninos que, crêem em mim, melhor lhe fora que lhe atassem à roda do pescoço a mó que um asno faz girar, e que o lançassem ao mar.  
 **43** Se a tua mão é para ti ocasião de queda, corta-a; melhor te é entrar na vida eterna manco, do que, tendo duas mãos, ir para a geena, para o fogo inextinguível,  
 **44** onde o seu verme não morre, e o fogo não se apaga (Is. 66, 24).  
 **45** Se o teu pé é para ti ocasião de queda, corta-o; melhor te é entrar na vida eterna coxo, do que, tendo dois pés, ser lançado na geena,  
@@ -421,7 +421,7 @@
 **18** Jesus disse-lhe: "Porque, me chamas bom? Ninguém é bom senão Deus.  
 **19** Tu conheces os mandamentos: Não mates, não cometas adultério, não furtes, não digas falso testemunho, não cometas fraudes, honra teu pai e tua mãe (Ex. 20, 13-16); Dt. 5, 17-20)."  
 **20** Ele respondeu: "Mestre, todas estas coisas tenho observado desde a minha mocidade."  
-**21** Jesus, pondo nele os olhos, mostrou-lhe afeto, e disse-lhe: "Uma coisa te falta; vai, vende quanto tens, dá-o aos pobres, e terás um tesouro no céu; depois vem e segue-me."  
+**21** Jesus, pondo nele os olhos, mostrou-lhe afecto, e disse-lhe: "Uma coisa te falta; vai, vende quanto tens, dá-o aos pobres, e terás um tesouro no céu; depois vem e segue-me."  
 **22** Mas ele, entristecido por esta palavra, retirou-se desgostoso, porque tinha muitos bens.  
 **23** Jesus, olhando em roda, disse a seus discípulos: "Quanto é difícil que entrem no reino de Deus os que têm riquezas!"  
 **24** Os discípulos assombravam-se das suas palavras. Mas Jesus de novo lhes disse: "Meus filhos, quanto é difícil entrarem no reino de Deus os que confiam nas riquezas!  
@@ -438,8 +438,8 @@
 **35** Então aproximaram-se dele Tiago e João, filhos de Zebedeu, dizendo: "Mestre, queremos que nos concedas o que te vamos pedir."  
 **36** Ele disse-lhes: "Que quereis vós que eu vos conceda?"  
 **37** Eles responderam: "Concede-nos que, na tua glória, um de nós se sente à tua direita e outro à tua esquerda."  
-**38** Mas Jesus disse-lhes: "Não sabeis o que pedis. Podeis vós beber o cálice que eu vou beber, ou ser batizados no batismo em que eu vou ser batizado?"  
-**39** Eles disseram-lhe: "Podemos." Jesus disse-lhes: "Efetivamente haveis de beber o cálice que eu vou beber, e haveis de ser batizados no batismo em que eu vou ser batizado;  
+**38** Mas Jesus disse-lhes: "Não sabeis o que pedis. Podeis vós beber o cálice que eu vou beber, ou ser baptizados no baptismo em que eu vou ser baptizado?"  
+**39** Eles disseram-lhe: "Podemos." Jesus disse-lhes: "Efectivamente haveis de beber o cálice que eu vou beber, e haveis de ser baptizados no baptismo em que eu vou ser baptizado;  
 **40** mas, quanto a estardes sentados à minha direita ou à minha esquerda, não pertence a mim o conceder-vo-lo, mas é para aqueles, para quem está preparado."  
 **41** Ouvindo isto os dez, começaram a indignar-se contra Tiago e João.  
 **42** Mas Jesus, chamando-os, disse-lhes: "Vós sabeis que aqueles que são reconhecidos como chefes das nações as dominam, e que os seus príncipes têm poder sobre elas.  
@@ -471,7 +471,7 @@
 **13** Vendo ao longe uma figueira que tinha folhas, foi lá ver se encontrava nela algum fruto. Aproximando-se, nada encontrou senão folhas, porque não era tempo de figos.  
 **14** Então disse à figueira: "Nunca jamais coma alguém fruto de ti." Ouviram-no os seus discípulos.  
 **15** Chegaram a Jerusalém. Tendo entrado no templo, começou a lançar fora os que vendiam e compravam no templo, e derribou as mesas dos banqueiros e as cadeiras dos que vendiam pombas.  
-**16** E não consentia que alguém transportasse qualquer objeto pelo templo;  
+**16** E não consentia que alguém transportasse qualquer objecto pelo templo;  
 **17** e os ensinava, dizendo: "Porventura não está escrito: A minha casa será chamada casa de oração para todas as gentes? (Is. 56, 7). Mas vós fizestes dela um covil de ladrões (Je. 7, 11)."  
 **18** Ouvindo isto os príncipes dos sacerdotes e os escribas, procuravam o modo de o perder; porque o temiam, visto todo o povo admirar a sua doutrina.  
 **19** Quando se fez tarde, saíram da cidade.  
@@ -485,7 +485,7 @@
 **27** Voltaram a Jerusalém. E, andando Jesus pelo templo, aproximaram-se dele os príncipes dos sacerdotes, os escribas e os anciães,  
 **28** e disseram-lhe: "Com que autoridade fazes tu estas coisas? E quem te deu o direito de as fazer?"  
 **29** Jesus disse-lhes: "Eu também vos farei uma pergunta; respondei-me a ela primeiro, e eu vos direi depois com que autoridade faço estas coisas.  
-**30** O batismo de João era do céu ou dos homens? Respondei-me."  
+**30** O baptismo de João era do céu ou dos homens? Respondei-me."  
 **31** Mas eles discorriam entre si: Se respondermos que era do céu, ele dirá: Por que razão logo não crestes nele?  
 **32** Responderemos que era dos homens?... Temiam o povo, porque todos tinham a João por um verdadeiro profeta.  
 **33** Então responderam a Jesus: "Não sabemos." E Jesus disse-lhes: "Pois nem eu tão pouco vos direi com que autoridade faço estas coisas."  
@@ -525,7 +525,7 @@
 **31** O segundo é este: Amarás o teu próximo como a ti mesmo (Lv. 19, 18). Não há outro mandamento maior do que estes."  
 **32** Então o escriba disse-lhe: "Mestre, disseste bem e com verdade que Deus é um só, e que não há outro fora dele;  
 **33** e que o amá-lo com todo o coração, com todo o entendimento, com toda a alma, e com todas as forças, e amar o próximo como a si mesmo, vale mais que todos os holocaustos e sacrifícios."  
-**34** Vendo Jesus que tinha respondido sabiamente, disse-lhe: "Não estás longe do reino de Deus." Desde então, ninguém mais ousava interrogá-lo.  
+**34** Vendo Jesus que tinha respondido sàbiamente, disse-lhe: "Não estás longe do reino de Deus." Desde então, ninguém mais ousava interrogá-lo.  
 **35** Continuando a ensinar no templo, Jesus tomou a palavra e disse: "Como dizem os escribas que o Cristo é filho de David?  
 **36** O mesmo David, inspirado pelo Espírito Santo, diz (Ps. 109, 1): Disse o Senhor ao meu Senhor: Senta-te à minha direita, até que eu ponha os teus inimigos por escabelo de teus pés.  
 **37** O mesmo David portanto lhe chama Senhor, como é ele pois seu filho? A grande multidão o ouvia com gosto.  
@@ -629,7 +629,7 @@
 **48** Jesus, tomando a palavra, disse-lhes: "Como se eu fosse um ladrão, viestes com espadas e varapaus a prender-me?  
 **49** Todos os dias estava entre vós ensinando no templo, e não me prendestes. Mas isto acontece para que se cumpram as Escrituras."  
 **50** Então os seus discípulos, abandonando-o, fugiram todos.  
-**51** Um jovem seguia Jesus coberto somente com um lençol, e prenderam-no.  
+**51** Um jovem seguia Jesus coberto sòmente com um lençol, e prenderam-no.  
 **52** Mas ele, largando o lençol, escapou-se-lhes nu.  
 **53** Levaram Jesus ao sumo sacerdote, e juntaram-se todos os príncipes dos sacerdotes, os anciães e os escribas,  
 **54** Pedro foi-o seguindo de longe, até dentro do pátio do sumo sacerdote. Estava sentado ao fogo com os criados, e aquecia-se.  
@@ -719,7 +719,7 @@
 **13** os quais foram anunciar aos outros, que nem a estes deram crédito.  
 **14** Finalmente apareceu aos onze, quando estavam à mesa, e censurou-lhes a sua incredulidade e dureza de coração, por não terem dado crédito aos que o viram ressuscitado.  
 **15** Disse-lhes: "Ide por todo o mundo, pregai o Evangelho a toda a criatura.  
-**16** O que crer e for batizado, será salvo; o que, porém, não crer, será condenado.  
+**16** O que crer e for baptizado, será salvo; o que, porém, não crer, será condenado.  
 **17** Eis os milagres que acompanharão os que crerem: Expulsarão os demónios em meu nome, falarão novas línguas,  
 **18** manusearão as serpentes, e, se beberem alguma coisa mortífera, não lhes fará mal; imporão as mãos sobre os enfermos, e serão curados."  
 **19** O Senhor, depois que assim lhes falou, elevou-se ao céu, e foi sentar-se à direita de Deus.  

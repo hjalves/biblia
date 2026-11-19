@@ -21,3 +21,7 @@ No total: **477 formas diferentes alteradas, em 2 713 ocorrências**. A lista co
 - Há **570 palavras** que o corretor ortográfico não reconhece (a maioria são termos bíblicos legítimos, como *siclo*, *éfode* ou *hissopo*; algumas podem ser erros por apanhar). A lista está em [docs/por-rever.md](docs/por-rever.md). Se encontrares um erro, abre uma *issue*.
 - **Sem notas de rodapé**: a digitalização não as inclui.
 - **Numeração**: a edição de 1956 não tem o versículo Esd 8,3 (o texto passa de 8,2 para 8,4).
+
+## Ramo `grafia-1956`
+
+O texto do `main` foi passado para a grafia da edição de 1956, comparando palavra a palavra com um OCR novo de todas as páginas digitalizadas. Só se aplicam diferenças de grafia que o Acordo de 1990 eliminou: consoantes mudas (`Egito → Egipto`, `ação → acção`), acento grave nos advérbios em -mente e derivados em -zinho (`somente → sòmente`, `facilmente → fàcilmente`, `sozinho → sòzinho`), circunflexo em `vêem`, `dêem`, `crêem`, `lêem`, e acento em `jóia`. Os acentos diferenciais (`pára`, `pêlo`) e o pretérito em `-ámos` dependem do contexto e ficaram por rever.

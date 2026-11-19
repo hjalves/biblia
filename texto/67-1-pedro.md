@@ -16,7 +16,7 @@
 **12** Foi-lhes revelado que eles, não para si, mas para vós, eram dispensadores daquelas coisas que agora vos são anunciadas por aqueles que, pelo Espírito Santo, enviado do céu, vos pregaram o Evangelho. Nessas coisas reveladas os próprios anjos desejam penetrar com os seus olhares.  
 **13** Portanto, cingidos os rins da vossa mente, sendo sóbrios, esperai inteiramente naquela graça (da vida eterna), que vos será oferecida na manifestação de Jesus Cristo.  
 **14** Como filhos obedientes, não vos conformeis com os desejos do vosso passado quando estáveis na ignorância,  
-**15** mas, à imitação do (Deus) Santo que vos chamou, sede vós também santos em todas as ações,  
+**15** mas, à imitação do (Deus) Santo que vos chamou, sede vós também santos em todas as acções,  
 **16** porque está escrito: Sereis santos, porque eu sou santo (Lv. 11, 44).  
 **17** E, se invocais como pai aquele que sem aceção de pessoas julga segundo as obras de cada um, vivei em temor durante o tempo da vossa peregrinação (sobre a terra),  
 **18** sabendo que fostes resgastados da nossa vã maneira de viver recebida de vossos pais, não a preço de coisas corruptíveis, de prata ou de ouro,  
@@ -30,7 +30,7 @@
 
 ## Capítulo 2
 
-**1** Deixando, pois, toda a malícia, todo o engano, dissimulações, invejas e toda a sorte de detrações,  
+**1** Deixando, pois, toda a malícia, todo o engano, dissimulações, invejas e toda a sorte de detracções,  
 **2** como meninos recém-nascidos, desejai ardentemente o puro leite espiritual, para, por meio dele, crescerdes para a salvação —  
 **3** se é que saboreastes como é doce o Senhor (Ps. 33, 9)  
 **4** Aproximai-vos dele, pedra viva, rejeitada pelos homens, mas escolhida e honrada por Deus,  
@@ -47,9 +47,9 @@
 **15** porque a vontade de Deus é que, fazendo o bem, façais emudecer a ignorância dos homens insensatos.  
 **16** Procedei como homens livres, não como homens que têm a liberdade por véu para encobrir a malícia, mas como servos de Deus.  
 **17** Honrai a todos, amai os irmãos, temei a Deus, respeitai o rei.  
-**18** Servos, sede obedientes aos vossos senhores com grande respeito, não só aos bons e moderados, mas também aos de caráter difícil,  
+**18** Servos, sede obedientes aos vossos senhores com grande respeito, não só aos bons e moderados, mas também aos de carácter difícil,  
 **19** porque é uma coisa agradável a Deus o suportar alguém contrariedades, sofrendo injustamente pelo conhecimento do que deve a Deus.  
-**20** Efetivamente, que glória (mereceis) se, depois de ter cometido uma falta, suportais pacientemente a punição? Mas, se fazendo bem, sofreis com paciência, isto é que é agradável diante de Deus.  
+**20** Efectivamente, que glória (mereceis) se, depois de ter cometido uma falta, suportais pacientemente a punição? Mas, se fazendo bem, sofreis com paciência, isto é que é agradável diante de Deus.  
 **21** Com efeito para isto é que vós fostes chamados, pois que Cristo também sofreu por vós deixando-vos o exemplo, para que sigais as suas pisadas,  
 **22** ele que não cometeu pecado, e em cuja boca se não encontrou engano (Is. 53, 9);  
 **23** quando o injuriavam, não injuriava, sofrendo, não ameaçava, mas entregava-se ao justo Juiz;  
@@ -58,7 +58,7 @@
 
 ## Capítulo 3
 
-**1** Igualmente, vós, mulheres, sede submissas a vossos maridos, para que, se alguns não creem na palavra, sejam ganhados pelo proceder de suas mulheres, sem a palavra,  
+**1** Igualmente, vós, mulheres, sede submissas a vossos maridos, para que, se alguns não crêem na palavra, sejam ganhados pelo proceder de suas mulheres, sem a palavra,  
 **2** considerando a vossa vida casta e cheia de respeito.  
 **3** Não seja o vosso adorno exterior: cabelos frisados, adereços de ouro, gala e preparo dos vestidos —  
 **4** mas (resida) no interior do vosso coração, na incorruptibilidade de uma alma doce e serena; eis o que é de grande valor diante de Deus.  
@@ -75,10 +75,10 @@
 **15** Mas tratai santamente o Cristo Senhor em vossos corações, prontos sempre para responder a todo o que vos pedir razão daquela esperança que há em vós;  
 **16** mas fazei isso com doçura e respeito, tendo uma boa consciência, para que, naquilo em que vos caluniam sejam confundidos os que difamam o vosso bom proceder em Cristo.  
 **17** Com efeito, é melhor sofrer, se Deus assim quiser, fazendo bem, que fazendo mal,  
-**18** porque também Cristo morreu uma vez pelos nossos pecados, ele justo pelos injustos, para nos levar a Deus, sendo efetivamente morto segundo a carne, mas vivificado pelo espírito.  
+**18** porque também Cristo morreu uma vez pelos nossos pecados, ele justo pelos injustos, para nos levar a Deus, sendo efectivamente morto segundo a carne, mas vivificado pelo espírito.  
 **19** Com este mesmo espírito ele também foi pregar aos espíritos que estavam no cárcere (do Limbo),  
 **20** os quais outrora tinham sido incrédulos, quando nos dias de Noé a paciência de Deus estava esperando (a sua conversão), enquanto se fabricava a arca, na qual um pequeno número, isto é, oito pessoas apenas se salvaram através da água.  
-**21** Esta água prefigurava o batismo que agora vos salva, o qual não é a purificação das imundícies da carne, mas o pedido feito a Deus de uma boa consciência, graças à ressurreição de Jesus Cristo,  
+**21** Esta água prefigurava o baptismo que agora vos salva, o qual não é a purificação das imundícies da carne, mas o pedido feito a Deus de uma boa consciência, graças à ressurreição de Jesus Cristo,  
 **22** que tendo subido ao céu, está à direita de Deus, depois de ter recebido a submissão dos anjos, das dominações e das potestades.  
 
 ## Capítulo 4

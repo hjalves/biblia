@@ -11,6 +11,8 @@ em português, revista, corrigida e atualizada ao novo Acordo Ortográfico.
 
 ---
 
+> **Ramo `grafia-1956`:** este ramo tem o mesmo texto do `main`, mas na grafia da edição impressa de 1956 (Acordo Ortográfico de 1945): `Egipto`, `acção`, `objecto`, `baptismo`, `sòmente`, `fàcilmente`, `vêem`, `jóia`. Ver [CORRECOES.md](CORRECOES.md).
+
 ## O que é
 
 O texto completo da tradução do **Padre Manuel de Matos Soares** (1956): os **73 livros** do cânon católico, em português de Portugal, em **JSON** e em **Markdown**, prontos a usar em apps, sites e estudos.

@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -123,7 +123,7 @@
     },
     {
      "n": 27,
-     "texto": "murmurastes nas vossas tendas, dizendo: O Senhor tem-nos ódio, e por isso nos tirou da terra do Egito para nos entregar nas mãos dos Amorreus, e exterminar-nos."
+     "texto": "murmurastes nas vossas tendas, dizendo: O Senhor tem-nos ódio, e por isso nos tirou da terra do Egipto para nos entregar nas mãos dos Amorreus, e exterminar-nos."
     },
     {
      "n": 28,
@@ -135,7 +135,7 @@
     },
     {
      "n": 30,
-     "texto": "o Senhor Deus, que é o vosso guia, ele mesmo combaterá por vós, como fez no Egito à vista de todos."
+     "texto": "o Senhor Deus, que é o vosso guia, ele mesmo combaterá por vós, como fez no Egipto à vista de todos."
     },
     {
      "n": 31,
@@ -159,7 +159,7 @@
     },
     {
      "n": 36,
-     "texto": "exceto Caleb, filho de Jefone. Este vê-la-á, e eu lhe darei a ele e a seus filhos a terra, que ele calcou, porque seguiu o Senhor."
+     "texto": "excepto Caleb, filho de Jefone. Este vê-la-á, e eu lhe darei a ele e a seus filhos a terra, que ele calcou, porque seguiu o Senhor."
     },
     {
      "n": 37,
@@ -316,7 +316,7 @@
     },
     {
      "n": 28,
-     "texto": "Vende-nos a preço os víveres para comermos; faze-nos pagar a água, e assim beberemos. Permite-nos somente a passagem,"
+     "texto": "Vende-nos a preço os víveres para comermos; faze-nos pagar a água, e assim beberemos. Permite-nos sòmente a passagem,"
     },
     {
      "n": 29,
@@ -344,7 +344,7 @@
     },
     {
      "n": 35,
-     "texto": "exceto os animais, que tocaram aos saqueadores, e os despojos das cidades, que tomámos."
+     "texto": "excepto os animais, que tocaram aos saqueadores, e os despojos das cidades, que tomámos."
     },
     {
      "n": 36,
@@ -352,7 +352,7 @@
     },
     {
      "n": 37,
-     "texto": "exceto a terra dos filhos de Amon, a que não chegamos, e todas as regiões adjacentes à torrente de Jeboc, e as cidades das montanhas, e todos os lugares, que o Senhor nosso Deus nos proibiu (que tomássemos)."
+     "texto": "excepto a terra dos filhos de Amon, a que não chegamos, e todas as regiões adjacentes à torrente de Jeboc, e as cidades das montanhas, e todos os lugares, que o Senhor nosso Deus nos proibiu (que tomássemos)."
     }
    ]
   },
@@ -433,7 +433,7 @@
     },
     {
      "n": 19,
-     "texto": "exceto as mulheres, os meninos e os animais. Eu sei que tendes muitos gados, e estes deverão ficar nas cidades que vos dei,"
+     "texto": "excepto as mulheres, os meninos e os animais. Eu sei que tendes muitos gados, e estes deverão ficar nas cidades que vos dei,"
     },
     {
      "n": 20,
@@ -558,7 +558,7 @@
     },
     {
      "n": 20,
-     "texto": "O Senhor tomou-vos, e tirou-vos da fornalha férrea do Egito, para serdes o povo da sua herança, como sois hoje."
+     "texto": "O Senhor tomou-vos, e tirou-vos da fornalha férrea do Egipto, para serdes o povo da sua herança, como sois hoje."
     },
     {
      "n": 21,
@@ -590,7 +590,7 @@
     },
     {
      "n": 28,
-     "texto": "Lá servireis a deuses, que foram fabricados por mão dos homens, de pau e de pedra, os quais não veem, nem ouvem, nem comem, nem sentem."
+     "texto": "Lá servireis a deuses, que foram fabricados por mão dos homens, de pau e de pedra, os quais não vêem, nem ouvem, nem comem, nem sentem."
     },
     {
      "n": 29,
@@ -614,7 +614,7 @@
     },
     {
      "n": 34,
-     "texto": "que Deus viesse tomar para si um povo entre as nações, por meio de provas, sinais e portentos, por meio de batalhas, com mão poderosa e braço estendido, por meio de coisas espantosas, como fez o Senhor vosso Deus no Egito diante dos teus olhos,"
+     "texto": "que Deus viesse tomar para si um povo entre as nações, por meio de provas, sinais e portentos, por meio de batalhas, com mão poderosa e braço estendido, por meio de coisas espantosas, como fez o Senhor vosso Deus no Egipto diante dos teus olhos,"
     },
     {
      "n": 35,
@@ -626,7 +626,7 @@
     },
     {
      "n": 37,
-     "texto": "Visto que amou teus pais, escolheu a sua posteridade depois deles, e tirou-te do Egito, caminhando diante de ti com o seu grande poder,"
+     "texto": "Visto que amou teus pais, escolheu a sua posteridade depois deles, e tirou-te do Egipto, caminhando diante de ti com o seu grande poder,"
     },
     {
      "n": 38,
@@ -658,11 +658,11 @@
     },
     {
      "n": 45,
-     "texto": "estes são os preceitos, as cerimónias e as determinações que ele prescreveu aos filhos de Israel, quando saíram do Egito,"
+     "texto": "estes são os preceitos, as cerimónias e as determinações que ele prescreveu aos filhos de Israel, quando saíram do Egipto,"
     },
     {
      "n": 46,
-     "texto": "estando da banda daquém do Jordão, no vale (que fica) defronte do templo de Fogor, na terra de Seon, rei dos Amorreus, que habitou em Hesebon, a quem Moisés derrotou. Os filhos de Israel, que saíram do Egito,"
+     "texto": "estando da banda daquém do Jordão, no vale (que fica) defronte do templo de Fogor, na terra de Seon, rei dos Amorreus, que habitou em Hesebon, a quem Moisés derrotou. Os filhos de Israel, que saíram do Egipto,"
     },
     {
      "n": 47,
@@ -703,7 +703,7 @@
     },
     {
      "n": 6,
-     "texto": "Eu sou o Senhor teu Deus, que te tirei da terra do Egito, da casa da servidão."
+     "texto": "Eu sou o Senhor teu Deus, que te tirei da terra do Egipto, da casa da servidão."
     },
     {
      "n": 7,
@@ -739,7 +739,7 @@
     },
     {
      "n": 15,
-     "texto": "Lembra-te que também serviste no Egito, e que o Senhor teu Deus te tirou de lá com mão poderosa e com braço estendido. Por isso te mandei que observasses o dia de sábado."
+     "texto": "Lembra-te que também serviste no Egipto, e que o Senhor teu Deus te tirou de lá com mão poderosa e com braço estendido. Por isso te mandei que observasses o dia de sábado."
     },
     {
      "n": 16,
@@ -868,7 +868,7 @@
     },
     {
      "n": 13,
-     "texto": "abstém-te cuidadosamente de esquecer o Senhor, que te tirou da terra do Egito, da morada da escravidão. Temerás o Senhor teu Deus, só a ele servirás, e jurarás pelo seu nome."
+     "texto": "abstém-te cuidadosamente de esquecer o Senhor, que te tirou da terra do Egipto, da morada da escravidão. Temerás o Senhor teu Deus, só a ele servirás, e jurarás pelo seu nome."
     },
     {
      "n": 14,
@@ -900,11 +900,11 @@
     },
     {
      "n": 21,
-     "texto": "- tu lhe responderás: Nós estávamos escravos de Faraó no Egito, e o Senhor tirou-nos do Egito com mão poderosa,"
+     "texto": "- tu lhe responderás: Nós estávamos escravos de Faraó no Egipto, e o Senhor tirou-nos do Egipto com mão poderosa,"
     },
     {
      "n": 22,
-     "texto": "e à nossa vista fez no Egito milagres e grandes prodígios contra Faraó e contra toda a sua casa,"
+     "texto": "e à nossa vista fez no Egipto milagres e grandes prodígios contra Faraó e contra toda a sua casa,"
     },
     {
      "n": 23,
@@ -953,7 +953,7 @@
     },
     {
      "n": 8,
-     "texto": "mas foi porque o Senhor vos amou e guardou o juramento que tinha feito a vossos pais; por isso vos tirou com mão poderosa, e vos resgatou da casa da escravidão, do poder de Faraó, rei do Egito."
+     "texto": "mas foi porque o Senhor vos amou e guardou o juramento que tinha feito a vossos pais; por isso vos tirou com mão poderosa, e vos resgatou da casa da escravidão, do poder de Faraó, rei do Egipto."
     },
     {
      "n": 9,
@@ -981,7 +981,7 @@
     },
     {
      "n": 15,
-     "texto": "O Senhor afastará de ti todas as doenças; não fará cair sobre ti, mas sobre os teus inimigos, as terríveis pragas do Egito, que tu conheces."
+     "texto": "O Senhor afastará de ti todas as doenças; não fará cair sobre ti, mas sobre os teus inimigos, as terríveis pragas do Egipto, que tu conheces."
     },
     {
      "n": 16,
@@ -1086,7 +1086,7 @@
     },
     {
      "n": 14,
-     "texto": "o teu coração se eleve, e te não lembres do Senhor teu Deus, que te tirou da terra do Egito, da casa da servidão,"
+     "texto": "o teu coração se eleve, e te não lembres do Senhor teu Deus, que te tirou da terra do Egipto, da casa da servidão,"
     },
     {
      "n": 15,
@@ -1135,7 +1135,7 @@
     },
     {
      "n": 5,
-     "texto": "Não é pela tua justiça, nem pela retidão do teu coração que tu entrarás na posse das suas terras. (A razão é que) elas procederam impiamente, e por isso, foram destruídas à tua chegada; (isso também aconteceu) para que o Senhor cumprisse a sua palavra dada com juramento a teus pais Abraão, Isaac e Jacob."
+     "texto": "Não é pela tua justiça, nem pela rectidão do teu coração que tu entrarás na posse das suas terras. (A razão é que) elas procederam impiamente, e por isso, foram destruídas à tua chegada; (isso também aconteceu) para que o Senhor cumprisse a sua palavra dada com juramento a teus pais Abraão, Isaac e Jacob."
     },
     {
      "n": 6,
@@ -1143,7 +1143,7 @@
     },
     {
      "n": 7,
-     "texto": "Lembra-te, não te esqueças de que modo provocaste à ira o Senhor teu Deus no deserto. Desde o dia em que saíste do Egito até este lugar, foste sempre rebelde ao Senhor."
+     "texto": "Lembra-te, não te esqueças de que modo provocaste à ira o Senhor teu Deus no deserto. Desde o dia em que saíste do Egipto até este lugar, foste sempre rebelde ao Senhor."
     },
     {
      "n": 8,
@@ -1163,7 +1163,7 @@
     },
     {
      "n": 12,
-     "texto": "e disse-me: Levanta-te e desce depressa daqui, porque o teu povo, que tiraste do Egito, prontamente abandonou o caminho que lhe mostraste: fizeram para si uma estátua fundida."
+     "texto": "e disse-me: Levanta-te e desce depressa daqui, porque o teu povo, que tiraste do Egipto, prontamente abandonou o caminho que lhe mostraste: fizeram para si uma estátua fundida."
     },
     {
      "n": 13,
@@ -1219,7 +1219,7 @@
     },
     {
      "n": 26,
-     "texto": "Orando, disse; Senhor Deus, não destruas o teu povo, a tua herança, que resgataste com a tua grandeza e tiraste do Egito com mão forte."
+     "texto": "Orando, disse; Senhor Deus, não destruas o teu povo, a tua herança, que resgataste com a tua grandeza e tiraste do Egipto com mão forte."
     },
     {
      "n": 27,
@@ -1312,7 +1312,7 @@
     },
     {
      "n": 19,
-     "texto": "Amai vós, também, os estrangeiros, porque fostes estrangeiros na terra do Egito."
+     "texto": "Amai vós, também, os estrangeiros, porque fostes estrangeiros na terra do Egipto."
     },
     {
      "n": 20,
@@ -1324,7 +1324,7 @@
     },
     {
      "n": 22,
-     "texto": "Em número de setenta pessoas, os teus pais desceram ao Egito, e agora o Senhor teu Deus multiplicou-te como as estrelas de céu."
+     "texto": "Em número de setenta pessoas, os teus pais desceram ao Egipto, e agora o Senhor teu Deus multiplicou-te como as estrelas de céu."
     }
    ]
   },
@@ -1341,7 +1341,7 @@
     },
     {
      "n": 3,
-     "texto": "os prodígios e as obras que fez no meio do Egito sobre o rei Faraó, sobre todo o seu país,"
+     "texto": "os prodígios e as obras que fez no meio do Egipto sobre o rei Faraó, sobre todo o seu país,"
     },
     {
      "n": 4,
@@ -1369,7 +1369,7 @@
     },
     {
      "n": 10,
-     "texto": "A terra em que vais entrar para a possuir, não é como a terra do Egito, donde saíste, na qual, lançada a semente, se conduzem as águas para regar, como se faz nas hortas,"
+     "texto": "A terra em que vais entrar para a possuir, não é como a terra do Egipto, donde saíste, na qual, lançada a semente, se conduzem as águas para regar, como se faz nas hortas,"
     },
     {
      "n": 11,
@@ -1526,11 +1526,11 @@
     },
     {
      "n": 16,
-     "texto": "Somente não comerás o sangue, que espalharás sobre a terra como água."
+     "texto": "Sòmente não comerás o sangue, que espalharás sobre a terra como água."
     },
     {
      "n": 17,
-     "texto": "Não poderás comer nas tuas cidades o dízimo do teu trigo, do teu vinho, do teu azeite, os primogénitos das vacas e das ovelhas, nem aquilo que ofereceres por voto, ou que voluntariamente quiseres oferecer, nem as primícias das tuas mãos,"
+     "texto": "Não poderás comer nas tuas cidades o dízimo do teu trigo, do teu vinho, do teu azeite, os primogénitos das vacas e das ovelhas, nem aquilo que ofereceres por voto, ou que voluntàriamente quiseres oferecer, nem as primícias das tuas mãos,"
     },
     {
      "n": 18,
@@ -1554,7 +1554,7 @@
     },
     {
      "n": 23,
-     "texto": "Abstém-te somente de comer o sangue, porque o sangue é vida, e, por isso, não deves comer a vida com a carne,"
+     "texto": "Abstém-te sòmente de comer o sangue, porque o sangue é vida, e, por isso, não deves comer a vida com a carne,"
     },
     {
      "n": 24,
@@ -1574,7 +1574,7 @@
     },
     {
      "n": 28,
-     "texto": "Observa e ouve tudo o que eu te ordeno, para que suceda bem a ti e aos teus filhos depois de ti perpetuamente, tendo feito o que é bom e agradável aos olhos do Senhor teu Deus."
+     "texto": "Observa e ouve tudo o que eu te ordeno, para que suceda bem a ti e aos teus filhos depois de ti perpètuamente, tendo feito o que é bom e agradável aos olhos do Senhor teu Deus."
     },
     {
      "n": 29,
@@ -1590,7 +1590,7 @@
     },
     {
      "n": 32,
-     "texto": "Faze somente em honra do Senhor aquilo que eu te ordeno; não acrescentes nem tires nada."
+     "texto": "Faze sòmente em honra do Senhor aquilo que eu te ordeno; não acrescentes nem tires nada."
     }
    ]
   },
@@ -1615,7 +1615,7 @@
     },
     {
      "n": 5,
-     "texto": "Aquele profeta, ou sonhador será posto à morte, porque vos falou para vos afastar do Senhor vosso Deus, que vos tirou da terra do Egito, e vos resgatou da casa da escravidão, (falando-te) para te desviar do caminho que o Senhor teu Deus te ordenou. Assim tirarás o mal do meio de ti."
+     "texto": "Aquele profeta, ou sonhador será posto à morte, porque vos falou para vos afastar do Senhor vosso Deus, que vos tirou da terra do Egipto, e vos resgatou da casa da escravidão, (falando-te) para te desviar do caminho que o Senhor teu Deus te ordenou. Assim tirarás o mal do meio de ti."
     },
     {
      "n": 6,
@@ -1635,7 +1635,7 @@
     },
     {
      "n": 10,
-     "texto": "Morrerá coberto de pedras, porque quis apartar-te do Senhor teu Deus, que te tirou da terra do Egito, da casa da servidão."
+     "texto": "Morrerá coberto de pedras, porque quis apartar-te do Senhor teu Deus, que te tirou da terra do Egipto, da casa da servidão."
     },
     {
      "n": 11,
@@ -1651,7 +1651,7 @@
     },
     {
      "n": 14,
-     "texto": "informa-te com solicitude e diligência, e, averiguada a verdade do facto, se achares ser certo o que se disse, se efetivamente se cometeu uma tal abominação,"
+     "texto": "informa-te com solicitude e diligência, e, averiguada a verdade do facto, se achares ser certo o que se disse, se efectivamente se cometeu uma tal abominação,"
     },
     {
      "n": 15,
@@ -1853,7 +1853,7 @@
     },
     {
      "n": 15,
-     "texto": "Lembra-te que também tu foste escravo na terra do Egito, e que o Senhor teu Deus te libertou; por isso eu te ordeno hoje isto."
+     "texto": "Lembra-te que também tu foste escravo na terra do Egipto, e que o Senhor teu Deus te libertou; por isso eu te ordeno hoje isto."
     },
     {
      "n": 16,
@@ -1885,7 +1885,7 @@
     },
     {
      "n": 23,
-     "texto": "Terás somente o cuidado de não lhe comer o sangue, mas derramá-lo-ás por terra como água."
+     "texto": "Terás sòmente o cuidado de não lhe comer o sangue, mas derramá-lo-ás por terra como água."
     }
    ]
   },
@@ -1894,7 +1894,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Observa o mês dos frutos novos, que é o primeiro da primavera, para celebrares a páscoa em honra do Senhor teu Deus, porque neste mês o Senhor teu Deus, tirou-te do Egito de noite."
+     "texto": "Observa o mês dos frutos novos, que é o primeiro da primavera, para celebrares a páscoa em honra do Senhor teu Deus, porque neste mês o Senhor teu Deus, tirou-te do Egipto de noite."
     },
     {
      "n": 2,
@@ -1902,7 +1902,7 @@
     },
     {
      "n": 3,
-     "texto": "Não comerás durante esta festa pão fermentado; durante sete dias comerás (pão) sem fermento, pão da aflição — porque saíste do Egito à pressa — para te lembrares do dia da tua saída do Egito, durante toda a vida."
+     "texto": "Não comerás durante esta festa pão fermentado; durante sete dias comerás (pão) sem fermento, pão da aflição — porque saíste do Egipto à pressa — para te lembrares do dia da tua saída do Egipto, durante toda a vida."
     },
     {
      "n": 4,
@@ -1914,7 +1914,7 @@
     },
     {
      "n": 6,
-     "texto": "mas (somente) no lugar que o Senhor teu Deus tiver escolhido, para aí habitar o seu nome; imolarás a páscoa de tarde, ao pôr do sol, tempo em que saíste do Egito."
+     "texto": "mas (sòmente) no lugar que o Senhor teu Deus tiver escolhido, para aí habitar o seu nome; imolarás a páscoa de tarde, ao pôr do sol, tempo em que saíste do Egipto."
     },
     {
      "n": 7,
@@ -1938,7 +1938,7 @@
     },
     {
      "n": 12,
-     "texto": "Recordar-te-ás que foste escravo no Egito, e terás cuidado de cumprir estas leis."
+     "texto": "Recordar-te-ás que foste escravo no Egipto, e terás cuidado de cumprir estas leis."
     },
     {
      "n": 13,
@@ -2043,7 +2043,7 @@
     },
     {
      "n": 16,
-     "texto": "Quando este tiver sido constituído, não terá grande número de cavalos, nem reconduzirá o povo ao Egito, para possuir numerosa cavalaria, principalmente porque o Senhor vos ordenou: Não volteis mais pelo mesmo caminho."
+     "texto": "Quando este tiver sido constituído, não terá grande número de cavalos, nem reconduzirá o povo ao Egipto, para possuir numerosa cavalaria, principalmente porque o Senhor vos ordenou: Não volteis mais pelo mesmo caminho."
     },
     {
      "n": 17,
@@ -2250,7 +2250,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Se saíres à guerra contra os teus inimigos e vires os (seus) cavalos e carros, um exército contrário mais numeroso que o que tu tens, não os temerás, porque o Senhor teu Deus, que te tirou da terra do Egito, é contigo."
+     "texto": "Se saíres à guerra contra os teus inimigos e vires os (seus) cavalos e carros, um exército contrário mais numeroso que o que tu tens, não os temerás, porque o Senhor teu Deus, que te tirou da terra do Egipto, é contigo."
     },
     {
      "n": 2,
@@ -2460,7 +2460,7 @@
     },
     {
      "n": 8,
-     "texto": "Quando edificares uma casa nova, farás um parapeito à roda do teto, para que se não derrame sangue em tua casa, no caso de alguém cair de lá abaixo."
+     "texto": "Quando edificares uma casa nova, farás um parapeito à roda do tecto, para que se não derrame sangue em tua casa, no caso de alguém cair de lá abaixo."
     },
     {
      "n": 9,
@@ -2528,7 +2528,7 @@
     },
     {
      "n": 25,
-     "texto": "Mas se um homem encontrar no campo uma donzela que está desposada, e, fazendo-lhe violência, a desonrar, morrerá ele somente."
+     "texto": "Mas se um homem encontrar no campo uma donzela que está desposada, e, fazendo-lhe violência, a desonrar, morrerá ele sòmente."
     },
     {
      "n": 26,
@@ -2569,7 +2569,7 @@
     },
     {
      "n": 4,
-     "texto": "porque não quiseram sair a receber-vos com pão e água no caminho, quando saístes do Egito, e porque conduziram contra ti Balaão, filho de Beor da Mesopotâmia da Síria, para que te amaldiçoasse,"
+     "texto": "porque não quiseram sair a receber-vos com pão e água no caminho, quando saístes do Egipto, e porque conduziram contra ti Balaão, filho de Beor da Mesopotâmia da Síria, para que te amaldiçoasse,"
     },
     {
      "n": 5,
@@ -2593,7 +2593,7 @@
     },
     {
      "n": 10,
-     "texto": "Se entre vós houver (algum) homem que seja impuro, por causa dum acidente noturno, sairá para fora do acampamento."
+     "texto": "Se entre vós houver (algum) homem que seja impuro, por causa dum acidente nocturno, sairá para fora do acampamento."
     },
     {
      "n": 11,
@@ -2633,7 +2633,7 @@
     },
     {
      "n": 20,
-     "texto": "mas somente ao estrangeiro. Ao teu irmão emprestarás aquilo de que ele precisar sem juro (algum), para que o Senhor teu Deus te abençoe em todas as tuas obras na terra em que entrarás para a possuir."
+     "texto": "mas sòmente ao estrangeiro. Ao teu irmão emprestarás aquilo de que ele precisar sem juro (algum), para que o Senhor teu Deus te abençoe em todas as tuas obras na terra em que entrarás para a possuir."
     },
     {
      "n": 21,
@@ -2694,7 +2694,7 @@
     },
     {
      "n": 9,
-     "texto": "Lembrai-Vos do que o Senhor vosso Deus fez a Maria no caminho, quando saístes do Egito."
+     "texto": "Lembrai-Vos do que o Senhor vosso Deus fez a Maria no caminho, quando saístes do Egipto."
     },
     {
      "n": 10,
@@ -2730,7 +2730,7 @@
     },
     {
      "n": 18,
-     "texto": "Lembra-te que foste escravo no Egito e que o Senhor teu Deus te tirou de lá. Por isso te mando que faças isto."
+     "texto": "Lembra-te que foste escravo no Egipto e que o Senhor teu Deus te tirou de lá. Por isso te mando que faças isto."
     },
     {
      "n": 19,
@@ -2746,7 +2746,7 @@
     },
     {
      "n": 22,
-     "texto": "Lembra-te que foste também escravo no Egito; por isso te mando que façais assim."
+     "texto": "Lembra-te que foste também escravo no Egipto; por isso te mando que façais assim."
     }
    ]
   },
@@ -2819,7 +2819,7 @@
     },
     {
      "n": 17,
-     "texto": "Lembra-te do que te fez Amalec no caminho, quando saíste do Egito,"
+     "texto": "Lembra-te do que te fez Amalec no caminho, quando saíste do Egipto,"
     },
     {
      "n": 18,
@@ -2852,7 +2852,7 @@
     },
     {
      "n": 5,
-     "texto": "Então dirás na presença do Senhor teu Deus: Meu pai era um Arameu prestes a morrer, que desceu ao Egito, e lá esteve como forasteiro, tendo pouquíssimas pessoas consigo; aí tornou-se um povo grande, forte, e numeroso."
+     "texto": "Então dirás na presença do Senhor teu Deus: Meu pai era um Arameu prestes a morrer, que desceu ao Egipto, e lá esteve como forasteiro, tendo pouquíssimas pessoas consigo; aí tornou-se um povo grande, forte, e numeroso."
     },
     {
      "n": 6,
@@ -2864,7 +2864,7 @@
     },
     {
      "n": 8,
-     "texto": "e nos tirou do Egito com mão forte e braço estendido, em meio de grande pavor, com sinais e portentos."
+     "texto": "e nos tirou do Egipto com mão forte e braço estendido, em meio de grande pavor, com sinais e portentos."
     },
     {
      "n": 9,
@@ -3070,7 +3070,7 @@
     },
     {
      "n": 12,
-     "texto": "O Senhor abrirá o seu ótimo tesouro, o céu, para dar a seu tempo a chuva à tua terra, e abençoará todas as obras das tuas mãos. Tu emprestarás a muitas gentes, e de nenhum receberás emprestado."
+     "texto": "O Senhor abrirá o seu óptimo tesouro, o céu, para dar a seu tempo a chuva à tua terra, e abençoará todas as obras das tuas mãos. Tu emprestarás a muitas gentes, e de nenhum receberás emprestado."
     },
     {
      "n": 13,
@@ -3130,7 +3130,7 @@
     },
     {
      "n": 27,
-     "texto": "O Senhor te castigue com a úlcera do Egito, e (fira) de hemorroidas, sarna e tinha, de que te não poderás curar."
+     "texto": "O Senhor te castigue com a úlcera do Egipto, e (fira) de hemorroidas, sarna e tinha, de que te não poderás curar."
     },
     {
      "n": 28,
@@ -3170,7 +3170,7 @@
     },
     {
      "n": 37,
-     "texto": "Serás objeto de pasmo, de ludibrio e de fábula para todos os povos, onde o Senhor te houver levado."
+     "texto": "Serás objecto de pasmo, de ludibrio e de fábula para todos os povos, onde o Senhor te houver levado."
     },
     {
      "n": 38,
@@ -3190,7 +3190,7 @@
     },
     {
      "n": 42,
-     "texto": "Todas as tuas árvores e os frutos da tua terra consumi-los-ão os insetos."
+     "texto": "Todas as tuas árvores e os frutos da tua terra consumi-los-ão os insectos."
     },
     {
      "n": 43,
@@ -3262,7 +3262,7 @@
     },
     {
      "n": 60,
-     "texto": "Voltará contra ti todas as aflições do Egito, que temeste, e elas se agarrarão a ti."
+     "texto": "Voltará contra ti todas as aflições do Egipto, que temeste, e elas se agarrarão a ti."
     },
     {
      "n": 61,
@@ -3294,7 +3294,7 @@
     },
     {
      "n": 68,
-     "texto": "O Senhor te reconduzirá em navios ao Egito, pelo caminho do qual ele te tinha dito que não o veríeis mais. Lá sereis vendidos aos vossos inimigos como escravos, e escravas, e não haverá quem vos compre."
+     "texto": "O Senhor te reconduzirá em navios ao Egipto, pelo caminho do qual ele te tinha dito que não o veríeis mais. Lá sereis vendidos aos vossos inimigos como escravos, e escravas, e não haverá quem vos compre."
     }
    ]
   },
@@ -3307,7 +3307,7 @@
     },
     {
      "n": 2,
-     "texto": "Moisés convocou todo o Israel e disse-lhe: Vós vistes tudo o que o Senhor fez diante de vós na terra do Egito, a Faraó, a todos os seus servos e a todo o seu reino,"
+     "texto": "Moisés convocou todo o Israel e disse-lhe: Vós vistes tudo o que o Senhor fez diante de vós na terra do Egipto, a Faraó, a todos os seus servos e a todo o seu reino,"
     },
     {
      "n": 3,
@@ -3363,7 +3363,7 @@
     },
     {
      "n": 16,
-     "texto": "Vós sabeis de que modo habitamos na terra do Egito, como passamos pelo meio das nações, como, ao passá-las,"
+     "texto": "Vós sabeis de que modo habitamos na terra do Egipto, como passamos pelo meio das nações, como, ao passá-las,"
     },
     {
      "n": 17,
@@ -3399,7 +3399,7 @@
     },
     {
      "n": 25,
-     "texto": "Ser-lhes-á respondido: Porque abandonaram o pacto que o Senhor tinha feito com os seus pais, quando os tirou da terra do Egito,"
+     "texto": "Ser-lhes-á respondido: Porque abandonaram o pacto que o Senhor tinha feito com os seus pais, quando os tirou da terra do Egipto,"
     },
     {
      "n": 26,
@@ -3415,7 +3415,7 @@
     },
     {
      "n": 29,
-     "texto": "As coisas ocultas são do Senhor nosso Deus, as manifestas são para nós e para os nossos filhos perpetuamente, para que ponhamos em prática todas as palavras desta lei."
+     "texto": "As coisas ocultas são do Senhor nosso Deus, as manifestas são para nós e para os nossos filhos perpètuamente, para que ponhamos em prática todas as palavras desta lei."
     }
    ]
   },
@@ -3646,7 +3646,7 @@
     },
     {
      "n": 4,
-     "texto": "As obras de Deus são perfeitas, e todos os seus caminhos são justos. Deus é fiel, e sem nenhuma iniquidade, ele é justo e reto."
+     "texto": "As obras de Deus são perfeitas, e todos os seus caminhos são justos. Deus é fiel, e sem nenhuma iniquidade, ele é justo e recto."
     },
     {
      "n": 5,
@@ -3871,7 +3871,7 @@
     },
     {
      "n": 7,
-     "texto": "Esta é a bênção de Judá: Ouve, ó Senhor, a voz de Judá, e introdu-lo no seu povo: as suas mãos combaterão por ele (Israel), tu serás o seu protetor contra os seus adversários."
+     "texto": "Esta é a bênção de Judá: Ouve, ó Senhor, a voz de Judá, e introdu-lo no seu povo: as suas mãos combaterão por ele (Israel), tu serás o seu protector contra os seus adversários."
     },
     {
      "n": 8,
@@ -4008,7 +4008,7 @@
     },
     {
      "n": 11,
-     "texto": "nem quanto a todos os prodígios e milagres que o mandou fazer na terra do Egito contra Faraó e contra todos os seus servos e todo o seu país,"
+     "texto": "nem quanto a todos os prodígios e milagres que o mandou fazer na terra do Egipto contra Faraó e contra todos os seus servos e todo o seu país,"
     },
     {
      "n": 12,

@@ -12,7 +12,7 @@
 **8** Por isso aquele que profere palavras ímpias, não se pode ocultar, e a justiça vingadora não passará ao largo dele.  
 **9** O ímpio será interrogado sobre o seus próprios pensamentos, e o som das suas palavras chegará aos ouvidos de Deus, para castigo das suas iniquidades.  
 **10** Um ouvido cioso escuta todas as coisas, e o ruído das murmurações não se lhe esconderá.  
-**11** Abstende-vos, pois, de murmurações inúteis, e refreai a língua da detração, porque a palavra (mais) secreta não passará em claro, e a boca que mente mata a alma.  
+**11** Abstende-vos, pois, de murmurações inúteis, e refreai a língua da detracção, porque a palavra (mais) secreta não passará em claro, e a boca que mente mata a alma.  
 **12** Não procureis ansiosos a morte com os descaminhos da vossa vida, nem atraiais a perdição com as obras das vossas mãos.  
 **13** Com efeito. Deus não fez a morte, nem se alegra com a perdição dos vivos.  
 **14** Porquanto ele criou todas as coisas para a existência, e fez saudáveis todas as criaturas do mundo; não há nelas nenhum princípio de destruição, nem o domínio da morte se estende sobre a terra.  
@@ -84,8 +84,8 @@
 **11** Foi arrebatado para que a malícia lhe não pervertesse a inteligência, e para que os enganos não iludissem a sua alma.  
 **12** Porque a fascinação do vício escurece o bem, e a vertigem da paixão transtorna o espírito inocente.  
 **13** Chegado em pouco tempo à perfeição, viveu uma larga vida.  
-**14** A sua alma era agradável a Deus, e, por isso, ele se apressou a tirá-lo do meio das iniquidades. Os povos estão vendo isto, e não entendem nem refletem, nos seus corações,  
-**15** que a graça de Deus e a sua misericórdia estão sobre os seus eleitos, e que os seus olhares protetores estão sobre os seus santos.  
+**14** A sua alma era agradável a Deus, e, por isso, ele se apressou a tirá-lo do meio das iniquidades. Os povos estão vendo isto, e não entendem nem reflectem, nos seus corações,  
+**15** que a graça de Deus e a sua misericórdia estão sobre os seus eleitos, e que os seus olhares protectores estão sobre os seus santos.  
 **16** Mas o justo morto condena os ímpios vivos, e a mocidade, chegada depressa à perfeição, (condena) a larga vida do injusto.  
 **17** Eles verão o fim do sábio, mas não compreenderão o desígnio de Deus sobre ele, nem por que o Senhor o pôs a salvo.  
 **18** Ve-lo-ão e desprezá-lo-ão, mas o Senhor zombará deles;  
@@ -96,7 +96,7 @@
 
 **1** Então o justo se levantará com grande afouteza, em presença daqueles que o atribularam, e que desprezaram os seus trabalhos.  
 **2** Ao verem-no, os maus perturbar-se-ão com temor horrível, e ficarão assombrados com a repentina salvação do justo, a qual eles não esperavam.  
-**3** Dirão dentro de si, tocados de (inútil) arrependimento, gemendo com angústia do espírito: Este é aquele de quem nós noutro tempo fazíamos zombaria, e a quem tínhamos por objeto de opróbrio.  
+**3** Dirão dentro de si, tocados de (inútil) arrependimento, gemendo com angústia do espírito: Este é aquele de quem nós noutro tempo fazíamos zombaria, e a quem tínhamos por objecto de opróbrio.  
 **4** Nós, insensatos, considerávamos a sua vida uma loucura, e a sua morte uma ignomínia.  
 **5** Como é contado entre os filhos de Deus, e entre os santos está a sua sorte?  
 **6** Logo nós nos extraviámos do caminho da verdade; a luz da justiça não raiou para nós, e o sol não nasceu para nós.  
@@ -125,7 +125,7 @@
 **2** Ouvi, pois, ó reis, e entendei, aprendei, ó vós que governais os confins da terra.  
 **3** Dai ouvidos (às minhas palavras), vós que governais os povos, e que vos gloriais de terdes debaixo de vós muitas nações.  
 **4** Com efeito, o poder foi-vos dado pelo Senhor, e a força pelo Altíssimo, o qual examinará as vossas obras, e esquadrinhará os vossos pensamentos:  
-**5** De facto, sendo ministros do reino, não julgastes com retidão, nem guardastes a lei nem andastes conforme a vontade de Deus.  
+**5** De facto, sendo ministros do reino, não julgastes com rectidão, nem guardastes a lei nem andastes conforme a vontade de Deus.  
 **6** Ele vos aparecerá de um modo temeroso, e repentinamente, porque aqueles que governam serão julgados com extremo rigor.  
 **7** Aos pequenos se perdoa por compaixão, mas os poderosos serão poderosamente atormentados.  
 **8** O Senhor de todos não teme ninguém, nem respeita a grandeza, seja de quem for, porque ele fez tanto o pequeno como o grande, e tem igualmente cuidado de todos.  
@@ -133,16 +133,16 @@
 **10** A vós, pois, ó reis, é que são dirigidos estes meus discursos, para que aprendais a sabedoria e não caiais.  
 **11** Porque aqueles que tiverem guardado santamente as coisas santas, serão santificados, e os que as tiverem aprendido, acharão com que responder.  
 **12** Ansiai, pois, pelas minhas palavras, desejai-as, e tereis instrução.  
-**13** Brilhante é a sabedoria, e nunca se empana; facilmente é vista por aqueles que a amam, e encontrada pelos que a buscam.  
+**13** Brilhante é a sabedoria, e nunca se empana; fàcilmente é vista por aqueles que a amam, e encontrada pelos que a buscam.  
 **14** Ela antecipa-se a dar-se a conhecer aos que a desejam, de tal sorte que se lhes patenteia primeiro.  
 **15** Aquele que se levanta de manhã cedo para a possuir não terá trabalho, porque a encontrará sentada à sua porta.  
 **16** Pensar na sabedoria é prudência consumada; e aquele que velar por causa dela depressa estará livre de cuidados.  
-**17** Porque ela mesma anda por todas as partes, buscando os que são dignos dela, e amigavelmente se lhes mostra nos caminhos, e em todos os seus pensamentos se faz encontradiça com eles.  
+**17** Porque ela mesma anda por todas as partes, buscando os que são dignos dela, e amigàvelmente se lhes mostra nos caminhos, e em todos os seus pensamentos se faz encontradiça com eles.  
 **18** O princípio da sabedoria é um desejo sincero da instrução,  
 **19** e o cuidado da instrução (implica) amor (por ela); ora o amor é a observância das suas leis; a observância destas leis é a garantia da imortalidade (com Deus);  
 **20** (ora) a imortalidade dá um lugar junto de Deus:  
 **21** desta forma o desejo da sabedoria conduz à realeza.  
-**22** Se vós, pois, ó reis dos povos, vos comprazeis nos tronos e nos cetros, honrai a sabedoria, para reinardes eternamente.  
+**22** Se vós, pois, ó reis dos povos, vos comprazeis nos tronos e nos ceptros, honrai a sabedoria, para reinardes eternamente.  
 **23** Amai a luz da sabedoria todos vós que presidis aos povos.  
 **24** Eu vos direi o que é a sabedoria, e qual a sua origem, e não vos encobrirei os segredos (de Deus). Investigarei desde o princípio do seu nascimento, e porei às claras o seu conhecimento, e não me afastarei da verdade.  
 **25** Não acompanharei com a inveja devoradora: ela nada tem de comum com a sabedoria.  
@@ -158,27 +158,27 @@
 **5** Nenhum rei teve outro género de nascimento.  
 **6** Há para todos o mesmo modo de entrar na vida e de sair dela.  
 **7** Por isso pedi a prudência, e ela me foi dada; invoquei (o Senhor) e veio a mim o espírito da sabedoria.  
-**8** Preferia-a aos cetros e aos tronos, e julguei que as riquezas nada valiam em sua comparação.  
+**8** Preferia-a aos ceptros e aos tronos, e julguei que as riquezas nada valiam em sua comparação.  
 **9** Nem pus em paralelo com ela as pedras mais preciosas, porque todo o ouro em sua comparação é um pouco de areia, e a prata será considerada como lodo à sua vista.  
 **10** Eu amei-a mais do que a saúde e que a formosura, e antes a quis ter que a luz, porque a sua claridade é inextinguível.  
 **11** Todos os bens me vieram juntamente com ela, e inumeráveis riquezas estão nas suas mãos.  
 **12** Regozijei-me com todos (estes bens) porque os conduz a sabedoria: contudo eu ignorava que ela é a mãe de todos estes bens.  
 **13** Eu a aprendi sem intenções reservadas, reparto-a com os outros sem inveja, e não escondo as suas riquezas.  
 **14** Porque ela é um tesouro inesgotável para os homens; os que usam dela tornam-se participantes da amizade de Deus, recomendáveis (a ele) pelos dons da doutrina.  
-**15** Que Deus me conceda a graça de falar segundo desejo, e ter pensamentos dignos dos dons que recebi, porque ele é o guia da sabedoria e o diretor dos sábios.  
+**15** Que Deus me conceda a graça de falar segundo desejo, e ter pensamentos dignos dos dons que recebi, porque ele é o guia da sabedoria e o director dos sábios.  
 **16** Estamos na mão dele, nós e as nossas palavras, e toda a vossa sabedoria e habilidade no agir.  
 **17** Foi ele que me deu a verdadeira ciência das coisas que existem, para eu conhecer a constituição do universo, as propriedades dos elementos,  
 **18** o princípio, o fim e o meio dos tempos, as mudanças dos solstícios e as vicissitudes das estações,  
 **19** os ciclos dos anos e a posição das estrelas,  
 **20** a natureza dos animais e os instintos dos brutos, a força dos espíritos e os raciocínios dos homens, as variedades das plantas e as propriedades das raízes.  
 **21** (Em suma) aprendi tudo o que há escondido ou descoberto, porque a sabedoria, que tudo criou, mo ensinou.  
-**22** Efetivamente há nela um espírito inteligente, santo, único, multipllce, subtil, ágil, penetrante, imaculado, claro, impassível, amigo do bem, agudo, a quem nada pode impedir, benéfico,  
+**22** Efectivamente há nela um espírito inteligente, santo, único, multipllce, subtil, ágil, penetrante, imaculado, claro, impassível, amigo do bem, agudo, a quem nada pode impedir, benéfico,  
 **23** amigo dos homens, estável, seguro, tranquilo, que tudo pode, tudo vê, e que penetra todos os espíritos, os inteligentes, os puros, os mais subtis.  
 **24** A sabedoria é mais ágil que todo o movimento; tudo atravessa e penetra por causa da sua pureza.  
 **25** Ela é um sopro do poder de Deus, uma pura emanação da glória do Omnipotente: por isso não se pode encontrar nela a menor Impureza.  
-**26** Ela é o resplendor da luz eterna, o espelho sem mácula da atividade de Deus, a imagem da sua bondade.  
+**26** Ela é o resplendor da luz eterna, o espelho sem mácula da actividade de Deus, a imagem da sua bondade.  
 **27** Sendo única, pode tudo; permanecendo a mesma, renova tudo; através das gerações, transfunde-se nas almas santas, e forma os amigos de Deus e os profetas.  
-**28** Com efeito. Deus somente ama aquele que habita com a sabedoria.  
+**28** Com efeito. Deus sòmente ama aquele que habita com a sabedoria.  
 **29** Ela é mais formosa do que o sol, supera o conjunto dos astros. Comparada com a luz, ela vence,  
 **30** porque à luz sucede a noite, mas a malícia nada pode contra a sabedoria.  
 
@@ -210,13 +210,13 @@
 
 **1** Deus de meus pais e Senhor de misericórdia, que fizeste tudo pela tua palavra,  
 **2** e que estabeleceste o homem, pela tua sabedoria, para ter domínio sobre as criaturas, que por ti foram feitas,  
-**3** para governar o mundo com equidade e justiça, para sentenciar em Juízo com retidão do coração.  
+**3** para governar o mundo com equidade e justiça, para sentenciar em Juízo com rectidão do coração.  
 **4** dá-me aquela sabedoria, que está sentada contigo no teu trono, e não me queiras excluir no número dos teus filhos  
 **5** porque eu sou servo teu, filho da tua escrava, sou um homem fraco e de pouca dura, e pouco capaz de compreender o juízo e as leis.  
 **6** Ainda que alguém seja perfeito entre os filhos dos homens, se lhe faltar a tua sabedoria, será considerado como nada.  
 **7** Escolheste-me para rei do teu povo, e para juiz dos teus filhos e filhas.  
 **8** Mandaste-me edificar um templo sobre o teu santo monte, e um altar na cidade da tua habitação, conforme o modelo do teu santo tabernáculo, que preparaste desde o princípio.  
-**9** Contigo está a sabedoria conhecedora das tuas obras, que se achou presente, quando formavas o universo, que sabe o que é agradável aos teus olhos, e o que é reto segundo os teus preceitos.  
+**9** Contigo está a sabedoria conhecedora das tuas obras, que se achou presente, quando formavas o universo, que sabe o que é agradável aos teus olhos, e o que é recto segundo os teus preceitos.  
 **10** Envia-a dos teus santos céus, envia-a do trono da tua glória, para que esteja comigo, e comigo trabalhe, para que eu saiba o que te é agradável.  
 **11** Ela sabe e compreende todas as coisas, e me guiará nas minhas obras com prudência, e me protegerá com a sua glória.  
 **12** Assim ser-te-ão agradáveis as minhas obras, governarei o teu povo com justiça, e serei digno do trono de meu pai.  
@@ -243,13 +243,13 @@
 **11** Ela auxiliou-o contra avarentos opressores e fez-lhe adquirir riquezas.  
 **12** Guardou-o dos inimigos, defendeu-o dos que lhe armavam ciladas, deu-lhe a vitória num rude combate, para lhe ensinar que a piedade é mais poderosa que tudo.  
 **13** Ela não desamparou o justo vendido, mas livrou-o do pecado, desceu com ele à prisão,  
-**14** e não o desamparou nas cadeias, até lhe depositar nas mãos o cetro do reino, e o poder sobre os seus opressores, até declarar mentirosos os que o tinham difamado, e até lhe dar uma glória eterna.  
+**14** e não o desamparou nas cadeias, até lhe depositar nas mãos o ceptro do reino, e o poder sobre os seus opressores, até declarar mentirosos os que o tinham difamado, e até lhe dar uma glória eterna.  
 **15** Foi ela que livrou o povo justo e a linhagem irrepreensível das nações opressoras.  
 **16** Entrou na alma dum servo de Deus (Moisés), e opôs-se, com prodígios e sinais, a reis formidáveis.  
 **17** Ela deu aos justos o galardão dos seus trabalhos, conduziu-os por um caminho admirável, serviu-lhes de cobertura durante o dia, e de luz de astros durante a noite.  
 **18** Conduziu-os através do mar Vermelho, fê-los passar pelo meio de muitas águas.  
 **19** Sepultou no mar os seus inimigos, e depois lançou fora (os seus cadáveres) do profundo dos abismos.  
-**20** Por isso os justos levaram os despojos dos ímpios, celebraram, Senhor, o teu santo nome, e, unanimemente, cantaram a tua mão protetora,  
+**20** Por isso os justos levaram os despojos dos ímpios, celebraram, Senhor, o teu santo nome, e, unânimemente, cantaram a tua mão protectora,  
 **21** porque a sabedoria abriu a boca dos mudos, e tornou expeditas as línguas das crianças.  
 
 ## Capítulo 11
@@ -272,8 +272,8 @@
 **16** Em castigo dos pensamentos loucos da sua iniquidade, em virtude dos quais, errando, adoravam répteis irracionais e animais desprezíveis, enviaste contra eles uma multidão de animais estúpidos,  
 **17** para que soubessem que cada um é punido com aquilo por que peca.  
 **18** Não era difícil à tua mão omnipotente, que formou o mundo de uma matéria informe, mandar contra eles uma multidão de ursos ou de leões arremetedores,  
-**19** ou animais desconhecidos, duma nova espécie, cheios de furor, que lançassem, respirando, um sopro flamejante, que exalassem um fumo infeto, ou despedissem dos olhos horrendas faíscas,  
-**20** capazes não só de os exterminar com as suas mordeduras, mas até de os fazer morrer de pavor com o seu aspeto.  
+**19** ou animais desconhecidos, duma nova espécie, cheios de furor, que lançassem, respirando, um sopro flamejante, que exalassem um fumo infecto, ou despedissem dos olhos horrendas faíscas,  
+**20** capazes não só de os exterminar com as suas mordeduras, mas até de os fazer morrer de pavor com o seu aspecto.  
 **21** Mas, mesmo sem nada disto, podiam ser mortos só com um sopro, perseguidos pela justiça e dissipados pelo sopro do teu poder. Porém todas as coisas dispusetes com medida, conta e peso.  
 **22** Porque só tu tens sempre à mão o supremo poder; e quem poderá resistir à força do teu braço?  
 **23** Todo o mundo diante de ti é como um pequeno grão na balança, e como uma gota de orvalho que cai, de madrugada sobre a terra.  
@@ -300,16 +300,16 @@
 **14** Não há rei nem tirano que possa levantar-se contra ti a pedir contas daqueles que castigaste.  
 **15** Porém, como és justo, todas as coisas governas justamente, e condenar quem não merece castigo é uma coisa que consideras indigna do teu poder.  
 **16** Porque o teu poder é o princípio da justiça, e, por isso mesmo que és Senhor de tudo, te fazes indulgente com todos.  
-**17** Todavia mostras o teu poder, quando te não creem perfeitamente poderoso, e confundes os que o conhecem e têm audácia (de o desafiar).  
+**17** Todavia mostras o teu poder, quando te não crêem perfeitamente poderoso, e confundes os que o conhecem e têm audácia (de o desafiar).  
 **18** Dominador da tua força julgas com bondade, e governas-nos com multa indulgência pois tens sempre em tua mão usar do poder quando quiseres.  
 **19** Ensinaste ao teu povo por meio deste teu proceder, que o justo deve ser humano, e deste a teus filhos a boa esperança de que dás tempo de fazer penitência, depois do pecado.  
-**20** Se os inimigos dos teus servos, dignos de morte, puniste com tanta circunspeção e indulgência, dando-lhes tempo e ocasião de se poderem converter da sua malícia,  
+**20** Se os inimigos dos teus servos, dignos de morte, puniste com tanta circunspecção e indulgência, dando-lhes tempo e ocasião de se poderem converter da sua malícia,  
 **21** com quanto cuidado não julgarás tu os teus filhos, a cujos pais concedeste com juramentos, a tua aliança repleta de boas promessas?  
 **22** Quando, pois, nos infliges algum castigo, açoutas os nossos inimigos mil vezes mais, para que, quando julgamos, pensemos na tua bondade, e, quando somos julgados, esperemos na tua misericórdia.  
 **23** Por isso também, àqueles que viveram loucamente no mal, fizeste sofrer tormentos por meio das suas próprias abominações.  
 **24** Porque andaram largo tempo vagabundos, no caminho do erro, tendo por deuses os mais vis de entre os animais, deixando-se enganar como meninos sem razão.  
 **25** Por isso, como a crianças insensatas, lhes deste um castigo irrisório.  
-**26** Mas os que se não emendaram com uma correção irrisória, experimentarão um castigo digno de Deus.  
+**26** Mas os que se não emendaram com uma correcção irrisória, experimentarão um castigo digno de Deus.  
 **27** Irritados pelo que sofriam, sentindo-se atormentados pelas mesmas coisas que julgavam deuses, ao verem que antes recusavam conhecer reconheceram-no como verdadeiro Deus. Por isso caiu sobre eles o extremo da condenação.  
 
 ## Capítulo 13
@@ -320,14 +320,14 @@
 **4** Ou, se eles se maravilharam do seu poder e força, entendam por elas que o que as fez é mais forte do que elas.  
 **5** Com efeito, pela grandeza e beleza das criaturas se pode, por analogia, chegar ao conhecimento do seu Criador.  
 **6** Todavia estes homens são menos repreensíveis, porque, porventura, caem no erro buscando a Deus e desejando encontrá-lo.  
-**7** Ocupados no exame das suas obras, são seduzidos pelo seu aspeto, pois são belas as coisas visíveis.  
+**7** Ocupados no exame das suas obras, são seduzidos pelo seu aspecto, pois são belas as coisas visíveis.  
 **8** Mas, por outra parte, nem estes merecem desculpa,  
-**9** porque, se chegaram a ter luz bastante para poderem conhecer o universo, como não descobriram mais facilmente o Senhor dele?  
+**9** porque, se chegaram a ter luz bastante para poderem conhecer o universo, como não descobriram mais fàcilmente o Senhor dele?  
 **10** São desgraçados e fundam em coisa morta as suas esperanças, aqueles que chamaram deuses às obras das mãos dos homens, ao ouro e à prata, trabalhados com arte, às figuras de animais, ou a uma pedra inútil, obra de mão antiga.  
 **11** Um artista hábil corta do bosque um tronco fácil de trabalhar, dextramente lhe tira toda a casca, e, valendo-se da sua arte, faz uma peça útil para uso da vida.  
 **12** O que sobrou da obra, emprega-o para cozinhar a comida, com que fica saciado.  
 **13** Quanto ao resto de tudo isto, que para nenhum uso é útil. por ser um madeiro torto e cheio de nós, vai-o esculpindo nas horas livres, trabalhando-o com a arte que lhe é possível.  
-**14** e dá-lhe feições dum homem, ou aspeto de algum vil animal. Põe-lhe vermelhão, pinta-o de uma cor encarnada, encobrindo todas as manchas que nele há.  
+**14** e dá-lhe feições dum homem, ou aspecto de algum vil animal. Põe-lhe vermelhão, pinta-o de uma cor encarnada, encobrindo todas as manchas que nele há.  
 **15** Depois prepara-lhe um nicho conveniente, coloca-o numa parede, segurando-o com um prego.  
 **16** Usa com ele desta precaução, para que não caia, pois reconhece que (o deus) se não pode ajudar a si mesmo: Com efeito, é uma estátua, que precisa de apoio.  
 **17** Entretanto, quando o implora por causa dos seus bens, dos seus casamentos, ou dos seus filhos, não se envergonha de falar com o (pedaço de madeira) que não tem vida  
@@ -346,7 +346,7 @@
 **8** mas o ídolo, obra das mãos (do homem), é maldito, ele e o seu autor; este, porque de facto o fabricou, e aquele, porque, sendo uma coisa corruptível foi chamado deus.  
 **9** Deus aborrece, de facto, igualmente o ímpio e a sua impiedade.  
 **10** A obra será castigada juntamente com o seu autor.  
-**11** Por esta causa serão também julgados os ídolos das nações, porque, no meio da criação de Deus, tornaram-se uma abominação, objeto de escândalo para as almas dos homens, e um laço para os pés dos insensatos.  
+**11** Por esta causa serão também julgados os ídolos das nações, porque, no meio da criação de Deus, tornaram-se uma abominação, objecto de escândalo para as almas dos homens, e um laço para os pés dos insensatos.  
 **12** A ideia de fazer ídolos foi o princípio da fornicação, a sua invenção foi a perda da vida.  
 **13** Eles não existiam no princípio, nem durarão sempre.  
 **14** Foi a vaidade dos homens que os introduziu no mundo, e por isso, em breve, se verá o seu fim, decidido por Deus.  
@@ -380,13 +380,13 @@
 **8** Depois, com trabalho perverso, forma vã divindade, do mesmo barro, ele que pouco antes fora feito de terra, e que dentro em breve voltará a ela, donde foi tirado, quando se lhe pedir conta da alma, que lhe tinha sido emprestada.  
 **9** Todavia ele não se preocupa com o haver de morrer, nem com a brevidade da sua vida, mas rivaliza com os artífices de ouro e de prata; imita também os que trabalham em bronze, e põe a sua glória em fabricar figuras enganadoras.  
 **10** O seu coração é cinza, a sua esperança é mais vil que a terra, e a sua vida é mais desprezível que o barro,  
-**11** porque não conhece aquele que o formou, aquele que lhe inspirou uma alma ativa, e lhe insuflou o espírito vital.  
+**11** porque não conhece aquele que o formou, aquele que lhe inspirou uma alma activa, e lhe insuflou o espírito vital.  
 **12** Até julga que a nossa vida é um divertimento e a nossa existência um mercado lucrativo, porque, diz ele, é preciso tirar proveito de tudo, mesmo do mal.  
 **13** Sabe bem que peca mais do que todos os outros, ele que forma da mesma matéria terrena vasos quebradiços e ídolos.  
 **14** São, pois, todos muito insensatos, e mais desventurados que a alma duma criança, os inimigos do teu povo que o oprimiram,  
 **15** porque tomaram por deuses a todos os ídolos das nações, os quais não podem usar dos olhos para ver, nem do nariz para respirar, nem dos ouvidos para ouvir, nem dos dedos das mãos para palpar, eles, cujos pés não são capazes de andar.  
 **16** Foi, com efeito, um homem que os fez, e recebeu o espírito emprestado quem os formou. De facto, nenhum homem poderá fazer um deus semelhante a si,  
-**17** porque, sendo mortal, forma com as sua mãos iníquas uma obra morta, ele mesmo vale mais do que os objetos que adora, porque, ao menos, tem vida, e eles nunca a tiveram.  
+**17** porque, sendo mortal, forma com as sua mãos iníquas uma obra morta, ele mesmo vale mais do que os objectos que adora, porque, ao menos, tem vida, e eles nunca a tiveram.  
 **18** Vai-se até ao ponto de adorar os mais repugnantes animais, que, comparados com os outros irracionais, são de pior condição do que eles.  
 **19** Nada de belo há neles que faça nascer a afeição, como à vista de outros animais, porque foram excluídos da aprovação e bênção de Deus.  
 
@@ -394,15 +394,15 @@
 
 **1** Por isso foram justamente castigados por seres (vis) semelhantes (aos que adoravam) foram atormentados por uma multidão de animais.  
 **2** Em lugar de tais penas, fizeste favores ao teu povo, satisfazendo o ardor do seu apetite, com um alimento maravilhoso, e dando-lhe por alimento codornizes.  
-**3** Desta sorte, estando, muito embora, aqueles com vontade de comer, por causa do aspeto repugnante dos insetos enviados contra eles, viram transformar-se em aversão o apetite do necessário, enquanto que estes, postos em necessidade por pouco tempo, saborearam depois um maravilhoso manjar.  
-**4** Importava que sobreviesse uma ruína inevitável aos opressores, e que aos outros somente se mostrasse de que modo eram atormentados os seus inimigos.  
+**3** Desta sorte, estando, muito embora, aqueles com vontade de comer, por causa do aspecto repugnante dos insectos enviados contra eles, viram transformar-se em aversão o apetite do necessário, enquanto que estes, postos em necessidade por pouco tempo, saborearam depois um maravilhoso manjar.  
+**4** Importava que sobreviesse uma ruína inevitável aos opressores, e que aos outros sòmente se mostrasse de que modo eram atormentados os seus inimigos.  
 **5** Com efeito, quando velo sobre eles o furor dos animais cruéis, e eram mortos pelas mordeduras de serpentes tortuosas,  
 **6** a tua ira não durou até ao fim; eles só por pouco tempo foram perturbados para isso lhes servir de advertência; tiveram um sinal de salvação para os fazer lembrar dos mandamentos da tua lei.  
 **7** Aquele que se voltava para o referido sinal, não era curado pelo que via, mas sim por ti, que és o Salvador de todos os homens.  
 **8** Com isto mostraste aos nossos inimigos, que és tu o que livras de todo o mal.  
-**9** Efetivamente aqueles foram mortos pelas mordeduras dos gafanhotos e das moscas, e não se encontrou remédio para lhes salvar a vida porque eram dignos de ser assim exterminados.  
+**9** Efectivamente aqueles foram mortos pelas mordeduras dos gafanhotos e das moscas, e não se encontrou remédio para lhes salvar a vida porque eram dignos de ser assim exterminados.  
 **10** Porém, quanto aos teus filhos, nem os dentes dos dragões venenosos os puderam vencer, porque, sobrevindo a tua misericórdia, os curou.  
-**11** Pois (somente) eram feridos a fim de que se lembrassem dos teus preceitos, e logo ficavam salvos, para que não sucedesse que completamente os esquecessem e ficassem excluídos dos teus benefícios.  
+**11** Pois (sòmente) eram feridos a fim de que se lembrassem dos teus preceitos, e logo ficavam salvos, para que não sucedesse que completamente os esquecessem e ficassem excluídos dos teus benefícios.  
 **12** Não foi erva que os sarou, nem remédio algum, mas sim a tua palavra, Senhor, que sara todas as coisas.  
 **13** Tu, Senhor, és o que tens o poder da vida e da morte, e o que nos levas às portas da morte, e o que de lá nos tiras.  
 **14** Um homem pode bem matar outro por malícia; porém, tendo saído o espírito, não o poderá fazer voltar, nem fará tornar a alma que já foi recebida (na habitação dos mortos).  
@@ -417,7 +417,7 @@
 **23** fogo que, a seguir, esquecia a sua própria força, quando se tratava dos sustento dos justos.  
 **24** A criatura, servindo-te a ti seu Criador, desenvolve a sua energia para atormentar os injustos, e abranda-a para fazer bem aqueles que em ti confiam.  
 **25** Por isto ela, transformando-se em toda a sorte de gostos obedecia à tua generosidade que tudo sustenta, acomodando-se ao desejo dos necessitados,  
-**26** a fim de que soubessem os teus filhos, a quem amaste, Senhor, que não são os frutos naturais que sustentam os homens, mas que é a tua palavra que conserva aqueles que creem em ti.  
+**26** a fim de que soubessem os teus filhos, a quem amaste, Senhor, que não são os frutos naturais que sustentam os homens, mas que é a tua palavra que conserva aqueles que crêem em ti.  
 **27** O que pelo fogo não podia ser devorado, ao ser aquecido por um escasso raio do sol, imediatamente se desfazia.  
 **28** para ensinar a todos que é preciso antecipar-se ao nascer do sol para te dar graça, e adorar-te desde o raiar da manhã.  
 **29** A esperança do ingrato fundirá como o gelo do inverno, e se perderá como água inútil.  
@@ -425,9 +425,9 @@
 ## Capítulo 17
 
 **1** Grandes são, Senhor, e impenetráveis os teus juízos; por isso as almas sem instrução se desgarraram.  
-**2** Os maus, julgando poder dominar o povo santo, prisioneiros das trevas e encadeados, por uma longa noite, jaziam encerrados sob os seus tetos, fugindo (tentando fugir) à (tua) eterna providência.  
-**3** Quando eles julgavam estar escondidos, com os seus pecados secretos, sob o véu tenebroso do esquecimento, foram dispersados, horrendamente espavoridos e perturbados por espetros.  
-**4** Nem a caverna, em que se tinham refugiado os guardava do temor: ruídos aterradores ressoavam em sua volta, e espetros melancólicos sinistramente lhes apareciam.  
+**2** Os maus, julgando poder dominar o povo santo, prisioneiros das trevas e encadeados, por uma longa noite, jaziam encerrados sob os seus tectos, fugindo (tentando fugir) à (tua) eterna providência.  
+**3** Quando eles julgavam estar escondidos, com os seus pecados secretos, sob o véu tenebroso do esquecimento, foram dispersados, horrendamente espavoridos e perturbados por espectros.  
+**4** Nem a caverna, em que se tinham refugiado os guardava do temor: ruídos aterradores ressoavam em sua volta, e espectros melancólicos sinistramente lhes apareciam.  
 **5** Não havia fogo, por mais ardente que fosse, capaz de lhes dar luz, nem as brilhantes chamas das estrelas podiam iluminar aquela horrorosa noite.  
 **6** Só lhes aparecia um clarão repentino e temeroso; amedrontados por esta visão, cuja causa ignoravam, julgavam mais formidáveis (do que eram) tais aparições.  
 **7** Então caíam por terra as ilusões das artes mágicas, e a sua sabedoria, pretensa sabedoria cobria-se de vergonhoso descrédito.  
@@ -437,13 +437,13 @@
 **11** O temor não é outra coisa senão a privação dos socorros trazidos pela reflexão.  
 **12** Quanto menor for, no fundo do coração, a esperança de auxílio, tanto maior o receio de ignorar a causa dos tormentos.  
 **13** Aqueles, pois, que, nessa noite verdadeiramente impossibilitante, saída do mais baixo e profundo do orco, dormiam um mesmo sono,  
-**14** umas vezes eram agitados por espetros aterradores, outras desmaiavam pelo desfalecimento do seu espírito, porque os sobressaltava um repentino e inesperado temor.  
+**14** umas vezes eram agitados por espectros aterradores, outras desmaiavam pelo desfalecimento do seu espírito, porque os sobressaltava um repentino e inesperado temor.  
 **15** Depois disto, se algum deles, fosse quem fosse, caía sem força, ficava como preso e encerrado num cárcere sem ferros.  
 **16** Tanto o camponês como o pastor, ou o que se ocupava nos trabalhos do campo, se eram assim surpreendidos, ficavam sujeitos a uma necessidade inevitável,  
 **17** porque todos estavam ligados com uma mesma cadeia de trevas. Ou fosse o vento quando assoprava, ou o suave canto dos pássaros entre os espessos ramos de árvores, ou a violência da água, correndo precipitadamente,  
 **18** ou o fragor das pedras que se despenhavam, ou a carreira invisível de animais que saltavam, ou o forte rugido das feras, ou o eco que reboava na concavidade dos montes, — tudo os fazia desfalecer de terror,  
 **19** Entretanto todo o resto do mundo estava alumiado com uma luz clara, e ocupava-se nos seus trabalhos sem obstáculo algum.  
-**20** Somente sobre eles pesava uma profunda noite, imagem das trevas que lhes estavam reservadas. Mas eram a si mesmos mais insuportáveis do que as próprias trevas.  
+**20** Sòmente sobre eles pesava uma profunda noite, imagem das trevas que lhes estavam reservadas. Mas eram a si mesmos mais insuportáveis do que as próprias trevas.  
 
 ## Capítulo 18
 
@@ -482,7 +482,7 @@
 **5** para que, enquanto o teu povo passava maravilhosamente (o mar), eles achassem uma morte estranha.  
 **6** É que todas as tuas criaturas foram transformadas na sua natureza, obedecendo aos teus mandados, a fim de que os teus servos fossem conservados ilesos.  
 **7** E assim uma nuvem fazia sombra ao seu acampamento: onde antes havia água, apareceu terra seca e no Mar Vermelho uma passagem sem embaraço, e um campo viçoso emergiu das ondas impetuosas.  
-**8** pelo qual passou todo o povo que era protegido pela tua mão, espetador dos teus maravilhosos prodígios.  
+**8** pelo qual passou todo o povo que era protegido pela tua mão, espectador dos teus maravilhosos prodígios.  
 **9** Alegraram-se como cavalos nas suas pastagens, e como cordeiros saltaram (de prazer), glorificando-te a ti, Senhor, que os tinhas livrado.  
 **10** Recordavam-se ainda do que tinha acontecido no lugar do seu exílio, como a terra, em vez de outros animais, tinha produzido moscas, e, em lugar de peixes, o rio tinha lançado fora multidão de rãs.  
 **11** Mais tarde viram uma nova casta de aves, quando, levados pela gula, pediram manjares exquisitos:  
@@ -494,7 +494,7 @@
 **17** Os elementos trocavam entre si suas propriedades, como na harpa os sons mudam de ritmo, conservando a mesma tonalidade. É o que se pode ver claramente pela experiência.  
 **18** Os animais terrestres tornavam-se aquáticos, e os que nadam passavam para a terra.  
 **19** o fogo, excedendo a sua virtude, ateava-se mais no meio da água, e esta esquecia-se da natureza que tem de o apagar.  
-**20** As chamas, pelo contrário, não ofendiam as carnes dos frágeis animais que andavam entre elas, nem dissolviam aquele delicioso manjar, que se desfazia tão facilmente como o gelo. Em todas as coisas, Senhor, tu glorificaste o teu povo, honraste-o, não o desprezaste, assistindo-lhe em todo o tempo e em todo o lugar.
+**20** As chamas, pelo contrário, não ofendiam as carnes dos frágeis animais que andavam entre elas, nem dissolviam aquele delicioso manjar, que se desfazia tão fàcilmente como o gelo. Em todas as coisas, Senhor, tu glorificaste o teu povo, honraste-o, não o desprezaste, assistindo-lhe em todo o tempo e em todo o lugar.
 
 ---
 

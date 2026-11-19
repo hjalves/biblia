@@ -5,7 +5,7 @@
 **1** Tobias, da tribo e cidade de Neftali (que está situada na Galileia superior, acima de Naasson, por detrás do caminho que vai para o Ocidente, e tem à esquerda a cidade de Sefet),  
 **2** foi levado cativo no tempo de Salmanasar, rei dos Assirios. Não obstante encontrar-se no cativeiro, não abandonou o caminho da verdade,  
 **3** de sorte que, daquilo de que podia dispor, distribuía todos os dias pelos seus irmãos de raça, que estavam cativos com ele.  
-**4** Embora fosse o mais jovem de todos os da tribo de Neftali, nada praticava de pueril em suas ações.  
+**4** Embora fosse o mais jovem de todos os da tribo de Neftali, nada praticava de pueril em suas acções.  
 **5** Além disso, quando todos iam adorar os bezerros de ouro que Jeroboão, rei de Israel, tinha feito, só ele fugia da companhia de todos  
 **6** e ia a Jerusalém ao templo do Senhor, onde adorava o Senhor Deus de Israel, oferecendo fielmente todas as suas primícias e os seus dízimos.  
 **7** De três em três anos distribuía aos prosélitos e aos estrangeiros toda a dízima (destinada a eles).  
@@ -20,7 +20,7 @@
 **16** Tendo, certo dia, ido a Ragés, cidade dos Medos, e levado dez talentos de prata, daquelas dádivas com que tinha sido presenteado pelo rei,  
 **17** ao ver em necessidade, entre a muita gente da sua nação, a Gabelo, que era da sua tribo, deu-lhe a sobredita quantia de prata, mediante um recibo da sua própria mão.  
 **18** Muito tempo depois, morto o rei Salmanasar, reinou, em seu lugar, Senaquerib, seu filho, o qual não podia ver os filhos de Israel.  
-**19** Tobias ia visitar diariamente todos os da sua parentela, consolava-os, e distribuía por cada um, dos seus bens, segundo as suas posses.  
+**19** Tobias ia visitar diàriamente todos os da sua parentela, consolava-os, e distribuía por cada um, dos seus bens, segundo as suas posses.  
 **20** Alimentava os famintos, vestia os nus e dava com solicitude sepultura aos que tinham falecido e aos que tinham sido mortos.  
 **21** Finalmente, quando o rei Senaquerib se retirou, fugindo da Judeia à praga com que Deus o castigara pelas suas blasfémias, e, na sua ira, mandou matar muitos dos filhos de Israel, Tobias sepultava os seus cadáveres.  
 **22** Quando o rei teve conhecimento disto, mandou que o matassem e confiscou todos os seus bens.  
@@ -59,7 +59,7 @@
 **1** Então Tobias deu um suspiro e começou a orar com lágrimas,  
 **2** dizendo: Tu és justo, Senhor, todos os teus juízos são justos, todos os teus caminhos são misericórdia, verdade e justiça.  
 **3** Agora, pois, Senhor, lembra-te de mim, não tomes vingança dos meus pecados, não te lembres dos meus delitos nem dos de meus pais.  
-**4** Porque não obedecemos aos teus preceitos, por isso fomos entregues ao saque, ao cativeiro e à morte, e tornamo-nos objeto de riso e opróbrio para todas as nações, por entre as quais nos espalhaste.  
+**4** Porque não obedecemos aos teus preceitos, por isso fomos entregues ao saque, ao cativeiro e à morte, e tornamo-nos objecto de riso e opróbrio para todas as nações, por entre as quais nos espalhaste.  
 **5** Agora, Senhor, os teus castigos são grandes, porque nós não procedemos segundo os teus preceitos, não andámos sinceramente na tua presença.  
 **6** Senhor, trata-me segundo a tua vontade, mas manda que o meu espírito seja recebido em paz, porque é melhor para mim morrer do que viver.  
 **7** Naquele mesmo dia aconteceu que Sara, filha de Raguel, que estava em Ecbatana, cidade dos Medos, ouviu-se ultrajar por uma das criadas de seu pai,  
@@ -80,7 +80,7 @@
 **22** Com efeito, tu não te deleitas com a nossa perdição: depois da tormenta, dás a bonança, depois das lágrimas e suspiros, infundes a alegria.  
 **23** Seja o teu nome, ó Deus de Israel, bendito pelos séculos.  
 **24** Foram ouvidas, ao mesmo tempo, as orações de ambos, diante da majestade do sumo Deus.  
-**25** Rafael, santo anjo do Senhor, foi enviado para curar Tobias e Sara, cujas orações tinham sido apresentadas simultaneamente diante do Senhor.  
+**25** Rafael, santo anjo do Senhor, foi enviado para curar Tobias e Sara, cujas orações tinham sido apresentadas simultâneamente diante do Senhor.  
 
 ## Capítulo 4
 
@@ -103,7 +103,7 @@
 **17** Come o teu pão (repartindo-o) com os pobres e com os que têm fome, e veste com as tuas roupas os que estão nus.  
 **18** Põe o teu pão e o teu vinho sobre a sepultura do justo, e não o comas nem bebas com os pecadores.  
 **19** Pede sempre conselho ao sábio.  
-**20** Bendiz a Deus em todo o tempo, pede-lhe que dirija os teus caminhos e que todos os teus projetos se firmem nele.  
+**20** Bendiz a Deus em todo o tempo, pede-lhe que dirija os teus caminhos e que todos os teus projectos se firmem nele.  
 **21** Também te faço saber, meu filho, que, quando ainda eras criança, emprestei dez talentos de prata a Gabelo, em Ragés, cidade dos Medos, e que tenho em meu poder o seu recibo;  
 **22** por isso busca o modo de ir ter com ele e cobrar a sobredita quantia de dinheiro, entregando-lhe o seu recibo.  
 **23** Não temas, meu filho; é verdade que vivemos pobres, mas teremos muitos bens, se temermos a Deus, se nos desviarmos de todo o pecado, se procedermos bem.  
@@ -114,7 +114,7 @@
 **2** Todavia não sei de que modo poderei cobrar este dinheiro, porque nem ele me conhece a mim, nem eu o conheço a ele; que sinal lhe hei-de dar? Nem mesmo sei o caminho, por onde se vai a tal terra.  
 **3** Então seu pai disse-lhe: Eu tenho em meu poder o recibo do seu próprio punho; quando tu lho mostrares, ele te pagará logo.  
 **4** Portanto agora vai e busca algum homem fiel, que te acompanhe, mediante uma retribuição, para que cobres o dinheiro enquanto eu estou vivo.  
-**5** Mal havia Tobias saído (de casa), logo encontrou um jovem de belo aspeto, que estava cingido e como prestes a caminhar.  
+**5** Mal havia Tobias saído (de casa), logo encontrou um jovem de belo aspecto, que estava cingido e como prestes a caminhar.  
 **6** Não sabendo que era um anjo de Deus, saudou-o e disse: Donde és tu ó bom jovem?  
 **7** Ele respondeu: Eu sou dos filhos de Israel. Tobias perguntou-lhe: Conheces o caminho que conduz à terra dos Medos?  
 **8** O anjo respondeu-lhe: Conheço: tenho percorrido muitas vezes estes caminhos e tenho estado em casa de Gabelo, nosso irmão, que mora em Ragés, cidade dos Medos, que está situada sobre o monte de Ecbatana.  
@@ -191,7 +191,7 @@
 
 **1** Depois de terem ceado, introduziram o jovem no aposento da esposa.  
 **2** Tobias, lembrando-se do que lhe tinha dito o anjo, tirou da sua bolsa um pedaço de fígado de peixe e colocou-o sobre uns carvões acesos.  
-**3** Nessa altura, o anjo Rafael pegou no demónio e ligou-o no deserto do alto Egito.  
+**3** Nessa altura, o anjo Rafael pegou no demónio e ligou-o no deserto do alto Egipto.  
 **4** Então Tobias encorajou a jovem com estas palavras; Sara, levanta-te e façamos oração a Deus, hoje, amanhã e depois de amanhã. Nestas três noites nos uniremos a Deus; depois da terceira noite, viveremos no nosso matrimónio,  
 **5** porque nós somos filhos de santos, e não podemos juntar-nos à maneira dos Gentios que não conhecem a Deus.  
 **6** Levantando-se ambos, oravam juntos com fervor para que lhes fosse conservada a vida.  
@@ -224,7 +224,7 @@
 **6** Então Rafael, tomando quatro criados de Raguel e dois camelos, foi à cidade de Ragés, na Média. Encontrando Gabelo, entregou-lhe o seu recibo, e recebeu dele todo o dinheiro.  
 **7** Contou-lhe tudo o que tinha sucedido a Tobias, filho de Tobias, e fê-lo ir consigo à boda.  
 **8** Tendo Gabelo entrado em casa de Raguel, encontrou Tobias à mesa. Levantando-se este, beijaram-se mutuamente; Gabelo chorou e louvou a Deus,  
-**9** dizendo: O Deus de Israel te abençoe, porque és filho dum homem ótimo, justo, temente a Deus e esmoler;  
+**9** dizendo: O Deus de Israel te abençoe, porque és filho dum homem óptimo, justo, temente a Deus e esmoler;  
 **10** estenda-se também a bênção a tua mulher e a vossos pais;  
 **11** possais ver os vossos filhos e os filhos de vossos filhos, até à terceira e quarta geração! Seja a vossa descendência bendita do Deus de Israel, que reina pelos séculos dos séculos.  
 **12** Tendo todos respondido: Amen — puseram-se à mesa. Foi também com o temor do Senhor que celebraram o banquete nupcial.  
@@ -332,7 +332,7 @@
 **8** e os gentios abandonarão os seus ídolos, virão a Jerusalém, habitarão nela,  
 **9** e nela se alegrarão todos os reis da terra, apresentando as suas homenagens ao (Messias) rei de Israel.  
 **10** Ouvi, pois, meus filhos, o vosso pai; servi ao Senhor em verdade e trabalhai por fazerdes o que for do seu agrado;  
-**11** recomendai a vossos filhos que façam obras de justiça e deem esmolas, que se lembrem de Deus e que o bendigam em todo o tempo, em verdade, e com todas as suas forças.  
+**11** recomendai a vossos filhos que façam obras de justiça e dêem esmolas, que se lembrem de Deus e que o bendigam em todo o tempo, em verdade, e com todas as suas forças.  
 **12** Ouvi-me, agora, meus filhos: não fiqueis aqui; mas no dia era que tiverdes sepultado vossa mãe, junto a mim em um mesmo sepulcro, desde logo dirigi vossos passos para sairdes daqui,  
 **13** porque eu vejo que a iniquidade desta cidade a levará à ruína.  
 **14** Tobias, depois da morte de sua mãe, saiu de Ninive com sua mulher e filhos, e os filhos de seus filhos, e voltou para casa de seus sogros.  

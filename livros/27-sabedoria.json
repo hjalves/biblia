@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -59,7 +59,7 @@
     },
     {
      "n": 11,
-     "texto": "Abstende-vos, pois, de murmurações inúteis, e refreai a língua da detração, porque a palavra (mais) secreta não passará em claro, e a boca que mente mata a alma."
+     "texto": "Abstende-vos, pois, de murmurações inúteis, e refreai a língua da detracção, porque a palavra (mais) secreta não passará em claro, e a boca que mente mata a alma."
     },
     {
      "n": 12,
@@ -326,11 +326,11 @@
     },
     {
      "n": 14,
-     "texto": "A sua alma era agradável a Deus, e, por isso, ele se apressou a tirá-lo do meio das iniquidades. Os povos estão vendo isto, e não entendem nem refletem, nos seus corações,"
+     "texto": "A sua alma era agradável a Deus, e, por isso, ele se apressou a tirá-lo do meio das iniquidades. Os povos estão vendo isto, e não entendem nem reflectem, nos seus corações,"
     },
     {
      "n": 15,
-     "texto": "que a graça de Deus e a sua misericórdia estão sobre os seus eleitos, e que os seus olhares protetores estão sobre os seus santos."
+     "texto": "que a graça de Deus e a sua misericórdia estão sobre os seus eleitos, e que os seus olhares protectores estão sobre os seus santos."
     },
     {
      "n": 16,
@@ -367,7 +367,7 @@
     },
     {
      "n": 3,
-     "texto": "Dirão dentro de si, tocados de (inútil) arrependimento, gemendo com angústia do espírito: Este é aquele de quem nós noutro tempo fazíamos zombaria, e a quem tínhamos por objeto de opróbrio."
+     "texto": "Dirão dentro de si, tocados de (inútil) arrependimento, gemendo com angústia do espírito: Este é aquele de quem nós noutro tempo fazíamos zombaria, e a quem tínhamos por objecto de opróbrio."
     },
     {
      "n": 4,
@@ -476,7 +476,7 @@
     },
     {
      "n": 5,
-     "texto": "De facto, sendo ministros do reino, não julgastes com retidão, nem guardastes a lei nem andastes conforme a vontade de Deus."
+     "texto": "De facto, sendo ministros do reino, não julgastes com rectidão, nem guardastes a lei nem andastes conforme a vontade de Deus."
     },
     {
      "n": 6,
@@ -508,7 +508,7 @@
     },
     {
      "n": 13,
-     "texto": "Brilhante é a sabedoria, e nunca se empana; facilmente é vista por aqueles que a amam, e encontrada pelos que a buscam."
+     "texto": "Brilhante é a sabedoria, e nunca se empana; fàcilmente é vista por aqueles que a amam, e encontrada pelos que a buscam."
     },
     {
      "n": 14,
@@ -524,7 +524,7 @@
     },
     {
      "n": 17,
-     "texto": "Porque ela mesma anda por todas as partes, buscando os que são dignos dela, e amigavelmente se lhes mostra nos caminhos, e em todos os seus pensamentos se faz encontradiça com eles."
+     "texto": "Porque ela mesma anda por todas as partes, buscando os que são dignos dela, e amigàvelmente se lhes mostra nos caminhos, e em todos os seus pensamentos se faz encontradiça com eles."
     },
     {
      "n": 18,
@@ -544,7 +544,7 @@
     },
     {
      "n": 22,
-     "texto": "Se vós, pois, ó reis dos povos, vos comprazeis nos tronos e nos cetros, honrai a sabedoria, para reinardes eternamente."
+     "texto": "Se vós, pois, ó reis dos povos, vos comprazeis nos tronos e nos ceptros, honrai a sabedoria, para reinardes eternamente."
     },
     {
      "n": 23,
@@ -601,7 +601,7 @@
     },
     {
      "n": 8,
-     "texto": "Preferia-a aos cetros e aos tronos, e julguei que as riquezas nada valiam em sua comparação."
+     "texto": "Preferia-a aos ceptros e aos tronos, e julguei que as riquezas nada valiam em sua comparação."
     },
     {
      "n": 9,
@@ -629,7 +629,7 @@
     },
     {
      "n": 15,
-     "texto": "Que Deus me conceda a graça de falar segundo desejo, e ter pensamentos dignos dos dons que recebi, porque ele é o guia da sabedoria e o diretor dos sábios."
+     "texto": "Que Deus me conceda a graça de falar segundo desejo, e ter pensamentos dignos dos dons que recebi, porque ele é o guia da sabedoria e o director dos sábios."
     },
     {
      "n": 16,
@@ -657,7 +657,7 @@
     },
     {
      "n": 22,
-     "texto": "Efetivamente há nela um espírito inteligente, santo, único, multipllce, subtil, ágil, penetrante, imaculado, claro, impassível, amigo do bem, agudo, a quem nada pode impedir, benéfico,"
+     "texto": "Efectivamente há nela um espírito inteligente, santo, único, multipllce, subtil, ágil, penetrante, imaculado, claro, impassível, amigo do bem, agudo, a quem nada pode impedir, benéfico,"
     },
     {
      "n": 23,
@@ -673,7 +673,7 @@
     },
     {
      "n": 26,
-     "texto": "Ela é o resplendor da luz eterna, o espelho sem mácula da atividade de Deus, a imagem da sua bondade."
+     "texto": "Ela é o resplendor da luz eterna, o espelho sem mácula da actividade de Deus, a imagem da sua bondade."
     },
     {
      "n": 27,
@@ -681,7 +681,7 @@
     },
     {
      "n": 28,
-     "texto": "Com efeito. Deus somente ama aquele que habita com a sabedoria."
+     "texto": "Com efeito. Deus sòmente ama aquele que habita com a sabedoria."
     },
     {
      "n": 29,
@@ -795,7 +795,7 @@
     },
     {
      "n": 3,
-     "texto": "para governar o mundo com equidade e justiça, para sentenciar em Juízo com retidão do coração."
+     "texto": "para governar o mundo com equidade e justiça, para sentenciar em Juízo com rectidão do coração."
     },
     {
      "n": 4,
@@ -819,7 +819,7 @@
     },
     {
      "n": 9,
-     "texto": "Contigo está a sabedoria conhecedora das tuas obras, que se achou presente, quando formavas o universo, que sabe o que é agradável aos teus olhos, e o que é reto segundo os teus preceitos."
+     "texto": "Contigo está a sabedoria conhecedora das tuas obras, que se achou presente, quando formavas o universo, que sabe o que é agradável aos teus olhos, e o que é recto segundo os teus preceitos."
     },
     {
      "n": 10,
@@ -920,7 +920,7 @@
     },
     {
      "n": 14,
-     "texto": "e não o desamparou nas cadeias, até lhe depositar nas mãos o cetro do reino, e o poder sobre os seus opressores, até declarar mentirosos os que o tinham difamado, e até lhe dar uma glória eterna."
+     "texto": "e não o desamparou nas cadeias, até lhe depositar nas mãos o ceptro do reino, e o poder sobre os seus opressores, até declarar mentirosos os que o tinham difamado, e até lhe dar uma glória eterna."
     },
     {
      "n": 15,
@@ -944,7 +944,7 @@
     },
     {
      "n": 20,
-     "texto": "Por isso os justos levaram os despojos dos ímpios, celebraram, Senhor, o teu santo nome, e, unanimemente, cantaram a tua mão protetora,"
+     "texto": "Por isso os justos levaram os despojos dos ímpios, celebraram, Senhor, o teu santo nome, e, unânimemente, cantaram a tua mão protectora,"
     },
     {
      "n": 21,
@@ -1029,11 +1029,11 @@
     },
     {
      "n": 19,
-     "texto": "ou animais desconhecidos, duma nova espécie, cheios de furor, que lançassem, respirando, um sopro flamejante, que exalassem um fumo infeto, ou despedissem dos olhos horrendas faíscas,"
+     "texto": "ou animais desconhecidos, duma nova espécie, cheios de furor, que lançassem, respirando, um sopro flamejante, que exalassem um fumo infecto, ou despedissem dos olhos horrendas faíscas,"
     },
     {
      "n": 20,
-     "texto": "capazes não só de os exterminar com as suas mordeduras, mas até de os fazer morrer de pavor com o seu aspeto."
+     "texto": "capazes não só de os exterminar com as suas mordeduras, mas até de os fazer morrer de pavor com o seu aspecto."
     },
     {
      "n": 21,
@@ -1134,7 +1134,7 @@
     },
     {
      "n": 17,
-     "texto": "Todavia mostras o teu poder, quando te não creem perfeitamente poderoso, e confundes os que o conhecem e têm audácia (de o desafiar)."
+     "texto": "Todavia mostras o teu poder, quando te não crêem perfeitamente poderoso, e confundes os que o conhecem e têm audácia (de o desafiar)."
     },
     {
      "n": 18,
@@ -1146,7 +1146,7 @@
     },
     {
      "n": 20,
-     "texto": "Se os inimigos dos teus servos, dignos de morte, puniste com tanta circunspeção e indulgência, dando-lhes tempo e ocasião de se poderem converter da sua malícia,"
+     "texto": "Se os inimigos dos teus servos, dignos de morte, puniste com tanta circunspecção e indulgência, dando-lhes tempo e ocasião de se poderem converter da sua malícia,"
     },
     {
      "n": 21,
@@ -1170,7 +1170,7 @@
     },
     {
      "n": 26,
-     "texto": "Mas os que se não emendaram com uma correção irrisória, experimentarão um castigo digno de Deus."
+     "texto": "Mas os que se não emendaram com uma correcção irrisória, experimentarão um castigo digno de Deus."
     },
     {
      "n": 27,
@@ -1207,7 +1207,7 @@
     },
     {
      "n": 7,
-     "texto": "Ocupados no exame das suas obras, são seduzidos pelo seu aspeto, pois são belas as coisas visíveis."
+     "texto": "Ocupados no exame das suas obras, são seduzidos pelo seu aspecto, pois são belas as coisas visíveis."
     },
     {
      "n": 8,
@@ -1215,7 +1215,7 @@
     },
     {
      "n": 9,
-     "texto": "porque, se chegaram a ter luz bastante para poderem conhecer o universo, como não descobriram mais facilmente o Senhor dele?"
+     "texto": "porque, se chegaram a ter luz bastante para poderem conhecer o universo, como não descobriram mais fàcilmente o Senhor dele?"
     },
     {
      "n": 10,
@@ -1235,7 +1235,7 @@
     },
     {
      "n": 14,
-     "texto": "e dá-lhe feições dum homem, ou aspeto de algum vil animal. Põe-lhe vermelhão, pinta-o de uma cor encarnada, encobrindo todas as manchas que nele há."
+     "texto": "e dá-lhe feições dum homem, ou aspecto de algum vil animal. Põe-lhe vermelhão, pinta-o de uma cor encarnada, encobrindo todas as manchas que nele há."
     },
     {
      "n": 15,
@@ -1304,7 +1304,7 @@
     },
     {
      "n": 11,
-     "texto": "Por esta causa serão também julgados os ídolos das nações, porque, no meio da criação de Deus, tornaram-se uma abominação, objeto de escândalo para as almas dos homens, e um laço para os pés dos insensatos."
+     "texto": "Por esta causa serão também julgados os ídolos das nações, porque, no meio da criação de Deus, tornaram-se uma abominação, objecto de escândalo para as almas dos homens, e um laço para os pés dos insensatos."
     },
     {
      "n": 12,
@@ -1433,7 +1433,7 @@
     },
     {
      "n": 11,
-     "texto": "porque não conhece aquele que o formou, aquele que lhe inspirou uma alma ativa, e lhe insuflou o espírito vital."
+     "texto": "porque não conhece aquele que o formou, aquele que lhe inspirou uma alma activa, e lhe insuflou o espírito vital."
     },
     {
      "n": 12,
@@ -1457,7 +1457,7 @@
     },
     {
      "n": 17,
-     "texto": "porque, sendo mortal, forma com as sua mãos iníquas uma obra morta, ele mesmo vale mais do que os objetos que adora, porque, ao menos, tem vida, e eles nunca a tiveram."
+     "texto": "porque, sendo mortal, forma com as sua mãos iníquas uma obra morta, ele mesmo vale mais do que os objectos que adora, porque, ao menos, tem vida, e eles nunca a tiveram."
     },
     {
      "n": 18,
@@ -1482,11 +1482,11 @@
     },
     {
      "n": 3,
-     "texto": "Desta sorte, estando, muito embora, aqueles com vontade de comer, por causa do aspeto repugnante dos insetos enviados contra eles, viram transformar-se em aversão o apetite do necessário, enquanto que estes, postos em necessidade por pouco tempo, saborearam depois um maravilhoso manjar."
+     "texto": "Desta sorte, estando, muito embora, aqueles com vontade de comer, por causa do aspecto repugnante dos insectos enviados contra eles, viram transformar-se em aversão o apetite do necessário, enquanto que estes, postos em necessidade por pouco tempo, saborearam depois um maravilhoso manjar."
     },
     {
      "n": 4,
-     "texto": "Importava que sobreviesse uma ruína inevitável aos opressores, e que aos outros somente se mostrasse de que modo eram atormentados os seus inimigos."
+     "texto": "Importava que sobreviesse uma ruína inevitável aos opressores, e que aos outros sòmente se mostrasse de que modo eram atormentados os seus inimigos."
     },
     {
      "n": 5,
@@ -1506,7 +1506,7 @@
     },
     {
      "n": 9,
-     "texto": "Efetivamente aqueles foram mortos pelas mordeduras dos gafanhotos e das moscas, e não se encontrou remédio para lhes salvar a vida porque eram dignos de ser assim exterminados."
+     "texto": "Efectivamente aqueles foram mortos pelas mordeduras dos gafanhotos e das moscas, e não se encontrou remédio para lhes salvar a vida porque eram dignos de ser assim exterminados."
     },
     {
      "n": 10,
@@ -1514,7 +1514,7 @@
     },
     {
      "n": 11,
-     "texto": "Pois (somente) eram feridos a fim de que se lembrassem dos teus preceitos, e logo ficavam salvos, para que não sucedesse que completamente os esquecessem e ficassem excluídos dos teus benefícios."
+     "texto": "Pois (sòmente) eram feridos a fim de que se lembrassem dos teus preceitos, e logo ficavam salvos, para que não sucedesse que completamente os esquecessem e ficassem excluídos dos teus benefícios."
     },
     {
      "n": 12,
@@ -1574,7 +1574,7 @@
     },
     {
      "n": 26,
-     "texto": "a fim de que soubessem os teus filhos, a quem amaste, Senhor, que não são os frutos naturais que sustentam os homens, mas que é a tua palavra que conserva aqueles que creem em ti."
+     "texto": "a fim de que soubessem os teus filhos, a quem amaste, Senhor, que não são os frutos naturais que sustentam os homens, mas que é a tua palavra que conserva aqueles que crêem em ti."
     },
     {
      "n": 27,
@@ -1599,15 +1599,15 @@
     },
     {
      "n": 2,
-     "texto": "Os maus, julgando poder dominar o povo santo, prisioneiros das trevas e encadeados, por uma longa noite, jaziam encerrados sob os seus tetos, fugindo (tentando fugir) à (tua) eterna providência."
+     "texto": "Os maus, julgando poder dominar o povo santo, prisioneiros das trevas e encadeados, por uma longa noite, jaziam encerrados sob os seus tectos, fugindo (tentando fugir) à (tua) eterna providência."
     },
     {
      "n": 3,
-     "texto": "Quando eles julgavam estar escondidos, com os seus pecados secretos, sob o véu tenebroso do esquecimento, foram dispersados, horrendamente espavoridos e perturbados por espetros."
+     "texto": "Quando eles julgavam estar escondidos, com os seus pecados secretos, sob o véu tenebroso do esquecimento, foram dispersados, horrendamente espavoridos e perturbados por espectros."
     },
     {
      "n": 4,
-     "texto": "Nem a caverna, em que se tinham refugiado os guardava do temor: ruídos aterradores ressoavam em sua volta, e espetros melancólicos sinistramente lhes apareciam."
+     "texto": "Nem a caverna, em que se tinham refugiado os guardava do temor: ruídos aterradores ressoavam em sua volta, e espectros melancólicos sinistramente lhes apareciam."
     },
     {
      "n": 5,
@@ -1647,7 +1647,7 @@
     },
     {
      "n": 14,
-     "texto": "umas vezes eram agitados por espetros aterradores, outras desmaiavam pelo desfalecimento do seu espírito, porque os sobressaltava um repentino e inesperado temor."
+     "texto": "umas vezes eram agitados por espectros aterradores, outras desmaiavam pelo desfalecimento do seu espírito, porque os sobressaltava um repentino e inesperado temor."
     },
     {
      "n": 15,
@@ -1671,7 +1671,7 @@
     },
     {
      "n": 20,
-     "texto": "Somente sobre eles pesava uma profunda noite, imagem das trevas que lhes estavam reservadas. Mas eram a si mesmos mais insuportáveis do que as próprias trevas."
+     "texto": "Sòmente sobre eles pesava uma profunda noite, imagem das trevas que lhes estavam reservadas. Mas eram a si mesmos mais insuportáveis do que as próprias trevas."
     }
    ]
   },
@@ -1813,7 +1813,7 @@
     },
     {
      "n": 8,
-     "texto": "pelo qual passou todo o povo que era protegido pela tua mão, espetador dos teus maravilhosos prodígios."
+     "texto": "pelo qual passou todo o povo que era protegido pela tua mão, espectador dos teus maravilhosos prodígios."
     },
     {
      "n": 9,
@@ -1861,7 +1861,7 @@
     },
     {
      "n": 20,
-     "texto": "As chamas, pelo contrário, não ofendiam as carnes dos frágeis animais que andavam entre elas, nem dissolviam aquele delicioso manjar, que se desfazia tão facilmente como o gelo. Em todas as coisas, Senhor, tu glorificaste o teu povo, honraste-o, não o desprezaste, assistindo-lhe em todo o tempo e em todo o lugar."
+     "texto": "As chamas, pelo contrário, não ofendiam as carnes dos frágeis animais que andavam entre elas, nem dissolviam aquele delicioso manjar, que se desfazia tão fàcilmente como o gelo. Em todas as coisas, Senhor, tu glorificaste o teu povo, honraste-o, não o desprezaste, assistindo-lhe em todo o tempo e em todo o lugar."
     }
    ]
   }

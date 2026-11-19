@@ -20,8 +20,8 @@
 **16** aos nossos reis, aos nossos príncipes, sacerdotes e profetas e aos nossos pais,  
 **17** pois pecámos diante do Senhor,  
 **18** não lhe quisemos estar sujeitos, não ouvimos a voz do Senhor nosso Deus, para andarmos segundo os preceitos que nos deu.  
-**19** Desde o dia em que tirou nossos pais da terra do Egito até hoje temos sido rebeldes ao Senhor nosso Deus, e, levianamente, não ouvimos a sua voz,  
-**20** (Por isso) se nos têm pegado muitos males e a maldição que o Senhor predisse a Moisés, seu servo, quando tirou nossos pais da terra do Egito, para nos dar a terra que mana leite e mel, como se vê no dia de hoje.  
+**19** Desde o dia em que tirou nossos pais da terra do Egipto até hoje temos sido rebeldes ao Senhor nosso Deus, e, levianamente, não ouvimos a sua voz,  
+**20** (Por isso) se nos têm pegado muitos males e a maldição que o Senhor predisse a Moisés, seu servo, quando tirou nossos pais da terra do Egipto, para nos dar a terra que mana leite e mel, como se vê no dia de hoje.  
 **21** Não ouvimos a voz do Senhor nosso Deus, segundo todas as palavras dos profetas que nos enviou;  
 **22** cada um de nós andou segundo o sentido e a inclinação do seu coração corrompido, a servir deuses estranhos, a praticar más obras diante dos olhos do Senhor nosso Deus.  
 
@@ -37,7 +37,7 @@
 **8** E não fizemos súplicas diante da face do Senhor nosso Deus, retirando-nos cada um de nós, dos pensamentos do seu mau coração.  
 **9** Então o Senhor velou sobre os males e fê-los vir sobre nós, porque o Senhor é justo em todas as obras que nos mandou.  
 **10** Entretanto não ouvimos a sua voz seguindo os mandamentos do Senhor, que ele nos tinha posto diante dos olhos.  
-**11** E agora, ó Senhor Deus de Israel, que tiraste o teu povo da terra do Egito com mão forte, com sinais e prodígios, com grande poder e braço levantado, e adquiriste para ti um renome como se está vendo neste dia,  
+**11** E agora, ó Senhor Deus de Israel, que tiraste o teu povo da terra do Egipto com mão forte, com sinais e prodígios, com grande poder e braço levantado, e adquiriste para ti um renome como se está vendo neste dia,  
 **12** nós pecámos, procedemos com impiedade, fizemos mal ó Senhor nosso Deus, contra todos os teus mandamentos.  
 **13** Aparte-se de nós a tua ira, porque ficámos poucos entre as nações por onde nos dispersaste.  
 **14** Ouve, Senhor, as nossas preces, as nossas orações livra-nos por amor de ti mesmo, e faze que achemos graça diante da face daqueles que nos deportaram.  
@@ -72,7 +72,7 @@
 **5** Não te lembres das iniquidades dos nossos pais; lembra-te, sim, nesta ocasião, do teu poder e do, teu nome.  
 **6** Sim, tu és o Senhor nosso Deus, e nós, Senhor, te louvaremos.  
 **7** Para isto é que puseste o teu temor em nossos corações: para que invoquemos o teu nome. Louvar-te-emos no nosso cativeiro, afastando-nos da maldade de nossos pais, que pecaram diante de ti.  
-**8** Eis aqui estamos nós hoje no nosso cativeiro, em que nos puseste dispersos, para sermos um objeto de afronta e de maldição, para sentirmos a pena do pecado, segundo todas as maldades de nossos pais, que se apartaram do Senhor nosso Deus.  
+**8** Eis aqui estamos nós hoje no nosso cativeiro, em que nos puseste dispersos, para sermos um objecto de afronta e de maldição, para sentirmos a pena do pecado, segundo todas as maldades de nossos pais, que se apartaram do Senhor nosso Deus.  
 **9** Ouve, ó Israel, os mandamentos de vida, aplica os teus ouvidos para aprenderes a prudência.  
 **10** Donde vem, ó Israel, estares tu na terra dos teus inimigos,  
 **11** teres envelhecido em terra estranha, haveres-te manchado com os mortos e colocado entre os que descem ao sepulcro?  
@@ -170,7 +170,7 @@
 **10** ou dando-o até às prostitutas, nas suas casas. Enfeitam os seus deuses, como se fossem homens, esses deuses de prata, de ouro e de madeira,  
 **11** Estes não se defendem da ferrugem nem da traça.  
 **12** Depois de os terem revestido de púrpura, limpam-lhe o rosto por causa do muitíssimo pó que se levanta no templo.  
-**13** (Eis um que) tem um cetro na mão, corno governador de província, mas não mata a quem ofende.  
+**13** (Eis um que) tem um ceptro na mão, corno governador de província, mas não mata a quem ofende.  
 **14** (Eis outro que) tem na mão uma espada e um cutelo, mas não se pode livrar a si mesmo da guerra nem dos ladrões. Por aqui claramente se vê que não são deuses;  
 **15** portanto não os temais. Como uma vasilha, se se quebra, fica inútil para o homem, assim são também os seus deuses.  
 **16** Colocados numa casa, os seus olhos enchem-se de pó levantado pelos pés dos que entram.  
@@ -198,7 +198,7 @@
 **38** São semelhantes às pedras do monte, estes deuses feitos de madeira, cobertos de ouro e prata; os que os adoram serão confundidos.  
 **39** Como se pode, pois, pensar ou dizer que são deuses?  
 **40** Os próprios Caldeus os desonram: quando sabem que alguém não pode falar, porque é mudo, apresentam-no a Bel, pedindo-lhe que lhe dê fala, como se o deus pudesse ouvir.  
-**41** São incapazes de refletir sobre tudo isto e de abandonar esses deuses, tamanha é a sua insensatez! Mesmo, quando se desenganam, os abandonam, porque os seus deuses são insensíveis.  
+**41** São incapazes de reflectir sobre tudo isto e de abandonar esses deuses, tamanha é a sua insensatez! Mesmo, quando se desenganam, os abandonam, porque os seus deuses são insensíveis.  
 **42** Mulheres, cingidas de cordas, estão assentadas nos caminhos, queimando farelo.  
 **43** E, quando alguma delas, atraída por qualquer transeunte, dormiu com ele. lança em rosto à sua vizinha que ela não foi julgada digna da mesma honra e de a sua corda se quebrar.  
 **44** Todas as coisas que se fazem com estes deuses são mentira. Como se pode, pois, crer ou dizer que são deuses?  

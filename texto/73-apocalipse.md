@@ -30,7 +30,7 @@
 **3** Tens paciência, sofreste pelo meu nome e não desanimaste.  
 **4** Mas tenho contra ti que deixaste a tua primeira caridade.  
 **5** Lembra-te pois (do estado) donde caíste, arrepende-te e volta às tuas primeiras obras; de contrário, virei a ti e removerei o teu candeeiro do seu lugar, se não fizeres penitência.  
-**6** Isto, porém, tens (de bom) que aborreces as ações dos Nicolaítas, que eu também aborreço.  
+**6** Isto, porém, tens (de bom) que aborreces as acções dos Nicolaítas, que eu também aborreço.  
 **7** Aquele que tem ouvidos, ouça o que o Espírito diz às Igrejas: Ao vencedor darei a comer da árvore da vida, que está no paraíso de Deus."  
 **8** E ao anjo da Igreja de Smirna escreve: "Isto diz o primeiro e o último, o que foi morto e que retomou a vida:  
 **9** Conheço a tua tribulação e a tua pobreza mas és rico e que és caluniado por aqueles que se dizem Judeus, e não o são, antes são uma sinagoga de Satanás.  
@@ -84,13 +84,13 @@
 
 **1** Depois disto tive uma visão: Uma porta estava aberta no céu, e a voz, aquela primeira voz que eu tinha ouvido, como de trombeta, falava comigo, dizendo: "Sobe aqui, e mostrar-te-ei as coisas que devem acontecer depois destas."  
 **2** Logo caí em êxtase. E eis que um trono estava colocado no céu, sobre o qual trono estava alguém sentado.  
-**3** Aquele que estava sentado era no aspeto semelhante a uma pedra de jaspe e de sardónica; e em volta do trono estava um arco-íris que se assemelhava à cor de esmeralda.  
+**3** Aquele que estava sentado era no aspecto semelhante a uma pedra de jaspe e de sardónica; e em volta do trono estava um arco-íris que se assemelhava à cor de esmeralda.  
 **4** Em volta do trono, (estavam outros) vinte e quatro tronos, e sobre estes tronos estavam sentados vinte e quatro anciães, vestidos de roupas brancas, (tendo) em suas cabeças coroas de ouro.  
 **5** Do trono partem relâmpagos, vozes e trovões. Diante do trono ardem sete lâmpadas ardentes, que são os sete espíritos de Deus.  
 **6** Em frente do trono há como que um mar de vidro semelhante a cristal, e, no meio do trono e em volta do trono, quatro animais cheios de olhos por diante e por detrás.  
 **7** O primeiro animal é semelhante a um leão; o segundo semelhante a um novilho; o terceiro tem o rosto como de homem, e o quarto é semelhante a uma águia que voa.  
 **8** Os quatro animais têm cada um seis asas, e em volta e por dentro estão cheios de olhos, e não cessam, dia e noite, de dizer: "Santo, Santo, Santo, é o Senhor Deus, o Omnipotente, o que era, que é, e que vem.  
-**9** E, quando aqueles animais dão glória, honra e ação de graças ao que está sentado sobre o trono e que vive pelos séculos dos séculos,  
+**9** E, quando aqueles animais dão glória, honra e acção de graças ao que está sentado sobre o trono e que vive pelos séculos dos séculos,  
 **10** os vinte e quatro anciães prostram-se diante do que está sentado no trono e adoram o que vive pelos séculos dos séculos, e lançam as suas coroas diante do trono, dizendo:  
 **11** "Tu és digno, ó Senhor, nosso Deus, de receber a glória, a honra e o poder, porque criaste todas as coisas, e pela tua vontade é que elas receberam a existência e foram criadas."  
 
@@ -144,7 +144,7 @@
 **9** Depois disto, vi aparecer uma grande multidão, que ninguém podia contar, de todas as nações, tribos, povos e línguas, que estavam em pé diante do trono e diante do Cordeiro, revestidos de vestiduras brancas, com palmas nas suas mãos.  
 **10** E clamavam em alta voz, dizendo: "A salvação ao nosso Deus, que está sentado sobre o trono, e ao Cordeiro!"  
 **11** Todos os anjos estavam de pé, em volta do trono, dos anciães e dos quatro animais, e prostraram-se sobre os seus rostos, diante do trono, e adoraram a Deus,  
-**12** dizendo: "Amen! Bênção, glória, sabedoria, ação de graças, honra, poder e fortaleza, ao nosso Deus, pelos séculos dos séculos! Amen!"  
+**12** dizendo: "Amen! Bênção, glória, sabedoria, acção de graças, honra, poder e fortaleza, ao nosso Deus, pelos séculos dos séculos! Amen!"  
 **13** Então um dos anciães, tomando a palavra, disse-me: "Estes, que estão revestidos de vestiduras brancas, quem são? Donde vieram?"  
 **14** Respondi-lhe: "Meu Senhor, tu o sabes." E ele disse-me: "Estes são aqueles que vêm da grande tribulação; lavaram as suas vestes e as embranqueceram no sangue do Cordeiro.  
 **15** Por isso estão diante do trono de Deus, e o servem de dia e de noite no seu templo. O que está sentado sobre o trono os abrigará sob o seu tabernáculo;  
@@ -172,7 +172,7 @@
 **1** O quinto anjo tocou a trombeta, e vi uma estrela caída do céu sobre a terra. Foi-lhe dada a chave do poço do abismo.  
 **2** Ela abriu o poço do abismo; e subiu um fumo do poço, como fumo de uma grande fornalha, e escureceram-se o sol e o ar com o fumo do poço.  
 **3** Do fumo saíram gafanhotos para a terra, e foi-lhes dado um poder (de fazer mal aos homens), como o poder que têm os escorpiões da terra.  
-**4** E foi-lhes ordenado que não fizessem dano á erva da terra, nem a verdura alguma, nem a árvore alguma, mas somente aos homens que não têm o selo de Deus sobre as suas frontes.  
+**4** E foi-lhes ordenado que não fizessem dano á erva da terra, nem a verdura alguma, nem a árvore alguma, mas sòmente aos homens que não têm o selo de Deus sobre as suas frontes.  
 **5** Foi-lhes concedido, não que os matassem, mas que os atormentassem, durante cinco meses. O tormento que causam é como o tormento do escorpião, quando fere um homem.  
 **6** Naqueles dias, os homens buscarão a morte e não a encontrarão; desejarão morrer e a morte fugirá deles.  
 **7** Os gafanhotos eram parecidos a cavalos aparelhados para a batalha; sobre as suas cabeças tinham uma espécie de coroas semelhantes ao ouro, e os seus rostos eram como rostos de homens;  
@@ -214,7 +214,7 @@
 **5** Se alguém lhes quer fazer mal, sai fogo da sua boca, que devora os seus inimigos; se alguém os quer prejudicar, é assim que deve morrer.  
 **6** Eles têm poder de fechar o céu, para que não chova durante o tempo da sua profecia, e têm poder sobre as águas, para as converter em sangue, e de ferir a terra com todo o género de pragas, todas as vezes que quiserem.  
 **7** E, quando tiverem acabado de dar o seu testemunho, a Besta que sobe do abismo fará guerra contra eles, vencê-los-á e matá-los-á.  
-**8** Os seus cadáveres ficam estendidos nas praças da grande cidade, que se chama espiritualmente Sodoma e Egito, onde também o Senhor deles foi crucificado.  
+**8** Os seus cadáveres ficam estendidos nas praças da grande cidade, que se chama espiritualmente Sodoma e Egipto, onde também o Senhor deles foi crucificado.  
 **9** E homens de todos os povos, tribos, línguas e nações, olham os seus cadáveres, durante três dias e meio, sem permitir que estes cadáveres sejam sepultados.  
 **10** E os habitantes da terra se alegram por causa deles e se felicitam; e mandarão presentes uns aos outros, porque estes dois profetas tinham atormentado os que habitavam sobre a terra.  
 **11** Mas, depois de três dias e meio, um espírito de vida entrou neles da parte de Deus, e eles puseram-se de pé, e apoderou-se um grande temor dos que os contemplavam.  
@@ -266,7 +266,7 @@
 **14** Seduz os habitantes da terra com os prodígios que se lhe permitiram fazer diante da Besta, dizendo aos habitantes da terra que fizessem uma estátua em honra da Besta, que sobreviveu ao golpe da espada.  
 **15** Foi-lhe concedido animar a estátua da Besta, de modo que falasse a estátua da Besta, e fazer com que fossem mortos todos aqueles que não se prostrassem diante da estátua da Besta.  
 **16** (A Besta) consegue que todos, pequenos e grandes, ricos e pobres, livres e escravos, sejam marcados na sua mão direita, ou na sua fronte,  
-**17** e que ninguém possa comprar ou vender, exceto aquele que tenha o sinal ou o nome da Besta ou o número do seu nome.  
+**17** e que ninguém possa comprar ou vender, excepto aquele que tenha o sinal ou o nome da Besta ou o número do seu nome.  
 **18** Aqui é que é a sabedoria. Quem tem inteligência, calcule o número da Besta, porque é um número de homem: este número é seiscentos e sessenta e seis.  
 
 ## Capítulo 14
@@ -361,7 +361,7 @@
 **9** Chorá-la-ão e lamentá-la-ão os reis da terra, que pecaram com ela e viveram em delícias, quando virem o fumo do seu incêndio.  
 **10** Estando de longe, com medo dos tormentos dela, dirão; "Ai, ai daquela grande cidade de Babilónia, daquela cidade forte! Num momento veio o seu juízo!"  
 **11** E os negociantes da terra choram-na e lamentam-na, porque ninguém compra mais os seus carregamentos,  
-**12** carregamentos de ouro, de prata, de pedras preciosas, de pérolas, de linho fino, de púrpura, de seda, de escarlate, de toda a madeira odorífera, de todos os objetos de marfim, de todos os objetos da mais preciosa madeira, de bronze, de ferro, de mármore,  
+**12** carregamentos de ouro, de prata, de pedras preciosas, de pérolas, de linho fino, de púrpura, de seda, de escarlate, de toda a madeira odorífera, de todos os objectos de marfim, de todos os objectos da mais preciosa madeira, de bronze, de ferro, de mármore,  
 **13** de ciuamomo, amorno, perfumes, mirra, incenso, vinho, azeite, flor da farinha, trigo, animais de carga, ovelhas, cavalos, carroças, escravos e até almas humanas!  
 **14** Os frutos desejados pela tua alma se retiraram de ti, e todas as coisas delicadas e magníficas se perderam para ti, e não mais, não mais se encontrarão.  
 **15** Os mercadores destas coisas, que se enriqueceram, estarão longe dela com medo dos seus tormentos, chorando e lamentando-se,  
@@ -384,7 +384,7 @@
 **5** E saiu do trono uma voz, que dizia: "Dai louvor ao nosso Deus, vós todos os seus servos e quantos o temeis, pequenos e grandes."  
 **6** Depois ouvi uma espécie de voz de grande multidão, voz como ruído de muitas águas e como o estampido de grandes trovões, a dizer: "Aleluia! porque tomou posse do seu reino o Senhor nosso Deus, o Omnipotente.  
 **7** Alegremo-nos, exultemos, demos-lhe glória, porque chegaram as bodas do Cordeiro, e (a Igreja ) sua esposa está ataviada.  
-**8** E foi-lhe dado o vestir-se de linho fino, resplandecente e puro." Este linho fino são os atos de justiça dos santos.  
+**8** E foi-lhe dado o vestir-se de linho fino, resplandecente e puro." Este linho fino são os actos de justiça dos santos.  
 **9** E (o anjo) disse-me; "Escreve: Bem-aventurados os que foram chamados ao festim das bodas do Cordeiro!" E ajuntou: "Estas palavras de Deus são verdadeiras."  
 **10** Então caí a seus pés para me prostrar diante dele, mas ele disse-me: "Vê, não faças tal; eu sou servo como tu e como teus irmãos, que têm o testemunho de Jesus. Adora a Deus." Com efeito, o testemunho de Jesus é o espírito da profecia.  
 **11** Depois vi o céu aberto, e apareceu um cavalo branco. O que estava montado sobre ele, chama-se Fiel e Verdadeiro, (Jesus Cristo) que julga com justiça e combate.  
@@ -396,7 +396,7 @@
 **17** E vi um anjo, que estava de pé no sol, clamar com voz forte a todas as aves que voam para o zénite: "Vinde, juntai-vos para o grande festim de Deus,  
 **18** a fim de comerdes carne de reis, carne de quiliarcos, carne de poderosos, carne de cavalos e dos que neles montam, carne de todos, livres e escravos, pequenos e grandes!"  
 **19** E vi a Besta, os reis da terra e os seus exércitos reunidos para fazerem guerra àquele que estava montado sobre o cavalo e ao seu exército.  
-**20** A Besta foi presa, e com ela o falso profeta, que tinha feito prodígios na sua presença, com os quais tinha seduzido os que haviam recebido o caráter da Besta e os que se prostravam diante da sua estátua. Foram ambos lançados vivos no tanque de fogo a arder com enxofre.  
+**20** A Besta foi presa, e com ela o falso profeta, que tinha feito prodígios na sua presença, com os quais tinha seduzido os que haviam recebido o carácter da Besta e os que se prostravam diante da sua estátua. Foram ambos lançados vivos no tanque de fogo a arder com enxofre.  
 **21** Os outros foram mortos pela espada do que estava montado sobre o cavalo, espada que saía da sua boca, e todas as aves se fartaram das suas carnes.  
 
 ## Capítulo 20
@@ -445,7 +445,7 @@
 **24** As nações caminharão à sua luz, e os reis da terra lhe trarão a sua glória.  
 **25** As suas portas não se fecharão durante todo o dia, porque ali não haverá noite.  
 **26** Levar-lhe-ão a glória e a honra das nações.  
-**27** Não entrará nela coisa alguma contaminada, nem quem cometa abominação ou mentira, mas somente aqueles que estão inscritos no livro da vida do Cordeiro.  
+**27** Não entrará nela coisa alguma contaminada, nem quem cometa abominação ou mentira, mas sòmente aqueles que estão inscritos no livro da vida do Cordeiro.  
 
 ## Capítulo 22
 

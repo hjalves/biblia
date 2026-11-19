@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -104,7 +104,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Recomendo-te, pois, antes de tudo, que se façam súplicas, orações, petições, ações de graças por todos os homens,"
+     "texto": "Recomendo-te, pois, antes de tudo, que se façam súplicas, orações, petições, acções de graças por todos os homens,"
     },
     {
      "n": 2,
@@ -246,11 +246,11 @@
     },
     {
      "n": 3,
-     "texto": "que proíbem o matrimónio e o uso de alimentos, que Deus criou, para que, com ação de graças, participem deles os fiéis e aqueles que conhecem a verdade."
+     "texto": "que proíbem o matrimónio e o uso de alimentos, que Deus criou, para que, com acção de graças, participem deles os fiéis e aqueles que conhecem a verdade."
     },
     {
      "n": 4,
-     "texto": "Efetivamente, tudo o que Deus criou é bom, e não é para desprezar nada do que se toma com ação de graças,"
+     "texto": "Efectivamente, tudo o que Deus criou é bom, e não é para desprezar nada do que se toma com acção de graças,"
     },
     {
      "n": 5,
@@ -339,7 +339,7 @@
     },
     {
      "n": 9,
-     "texto": "Somente seja inscrita no grupo das viúvas (para o serviço da Igreja) uma mulher com sessenta anos, casada uma só vez,"
+     "texto": "Sòmente seja inscrita no grupo das viúvas (para o serviço da Igreja) uma mulher com sessenta anos, casada uma só vez,"
     },
     {
      "n": 10,
@@ -355,11 +355,11 @@
     },
     {
      "n": 13,
-     "texto": "Além disto, vivendo na ociosidade, acostumam-se a andar de casa em casa; não somente são ociosas, mas também chocarreiras e curiosas, falando sobre o que não convém."
+     "texto": "Além disto, vivendo na ociosidade, acostumam-se a andar de casa em casa; não sòmente são ociosas, mas também chocarreiras e curiosas, falando sobre o que não convém."
     },
     {
      "n": 14,
-     "texto": "(Antes) quero pois que as jovens viúvas (que não têm virtude para viver na continência) se casem, criem filhos, sejam (boas) mães de família, não deem ocasião ao adversário de dizer mal."
+     "texto": "(Antes) quero pois que as jovens viúvas (que não têm virtude para viver na continência) se casem, criem filhos, sejam (boas) mães de família, não dêem ocasião ao adversário de dizer mal."
     },
     {
      "n": 15,
@@ -399,7 +399,7 @@
     },
     {
      "n": 24,
-     "texto": "Os pecados de alguns homens são manifestos, mesmo antes de se examinarem em juízo, mas os de outros manifestam-se somente depois."
+     "texto": "Os pecados de alguns homens são manifestos, mesmo antes de se examinarem em juízo, mas os de outros manifestam-se sòmente depois."
     },
     {
      "n": 25,

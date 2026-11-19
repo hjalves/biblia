@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -245,7 +245,7 @@
     },
     {
      "n": 15,
-     "texto": "Mas, ainda hoje, quando leem Moisés, um véu está posto, sobre o seu coração."
+     "texto": "Mas, ainda hoje, quando lêem Moisés, um véu está posto, sobre o seu coração."
     },
     {
      "n": 16,
@@ -257,7 +257,7 @@
     },
     {
      "n": 18,
-     "texto": "Todos nós, pois, vendo de cara descoberta como num espelho a glória do Senhor, somos transformados na mesma imagem, de glória em glória, pela ação do Senhor que é Espírito."
+     "texto": "Todos nós, pois, vendo de cara descoberta como num espelho a glória do Senhor, somos transformados na mesma imagem, de glória em glória, pela acção do Senhor que é Espírito."
     }
    ]
   },
@@ -306,7 +306,7 @@
     },
     {
      "n": 11,
-     "texto": "Efetivamente, nós, que vivemos, somos continuamente entregues à morte por amor de Jesus, para que também a vida de Jesus se manifeste na nossa carne mortal."
+     "texto": "Efectivamente, nós, que vivemos, somos continuamente entregues à morte por amor de Jesus, para que também a vida de Jesus se manifeste na nossa carne mortal."
     },
     {
      "n": 12,
@@ -334,7 +334,7 @@
     },
     {
      "n": 18,
-     "texto": "não atendendo nós às coisas que se veem, mas sim às que se não veem. Com efeito, as coisas que se veem são passageiras; as que não se veem, são eternas."
+     "texto": "não atendendo nós às coisas que se vêem, mas sim às que se não vêem. Com efeito, as coisas que se vêem são passageiras; as que não se vêem, são eternas."
     }
    ]
   },
@@ -347,7 +347,7 @@
     },
     {
      "n": 2,
-     "texto": "E por isso também suspiramos, no nosso estado atual, por ser revestidos da nossa, habitação celeste, por cima da outra,"
+     "texto": "E por isso também suspiramos, no nosso estado actual, por ser revestidos da nossa, habitação celeste, por cima da outra,"
     },
     {
      "n": 3,
@@ -407,7 +407,7 @@
     },
     {
      "n": 17,
-     "texto": "Se algum, pois, está em Cristo (por meio do batismo), é uma nova criatura: passaram as coisas velhas; eis que tudo se fez novo."
+     "texto": "Se algum, pois, está em Cristo (por meio do baptismo), é uma nova criatura: passaram as coisas velhas; eis que tudo se fez novo."
     },
     {
      "n": 18,
@@ -533,7 +533,7 @@
     },
     {
      "n": 7,
-     "texto": "e, não somente com a sua chegada, mas também com a consolação que recebeu de vós, referindo-me ele o vosso desejo (de me ver), o vosso pranto, o vosso zelo por mim, de sorte que a minha alegria aumentou."
+     "texto": "e, não sòmente com a sua chegada, mas também com a consolação que recebeu de vós, referindo-me ele o vosso desejo (de me ver), o vosso pranto, o vosso zelo por mim, de sorte que a minha alegria aumentou."
     },
     {
      "n": 8,
@@ -586,7 +586,7 @@
     },
     {
      "n": 3,
-     "texto": "Dou testemunho de que foram espontaneamente liberais, segundo as suas posses e ainda acima das suas posses,"
+     "texto": "Dou testemunho de que foram espontâneamente liberais, segundo as suas posses e ainda acima das suas posses,"
     },
     {
      "n": 4,
@@ -614,7 +614,7 @@
     },
     {
      "n": 10,
-     "texto": "Isto é um conselho que vos dou, porque é útil para vós, que (primeiro) começastes não só a fazer, mas também a desejar (tirar a coleta) desde o ano passado."
+     "texto": "Isto é um conselho que vos dou, porque é útil para vós, que (primeiro) começastes não só a fazer, mas também a desejar (tirar a colecta) desde o ano passado."
     },
     {
      "n": 11,
@@ -642,7 +642,7 @@
     },
     {
      "n": 17,
-     "texto": "porque não só recebeu bem o meu pedido, mas, sendo mais solícito, espontaneamente partiu a visitar-vos."
+     "texto": "porque não só recebeu bem o meu pedido, mas, sendo mais solícito, espontâneamente partiu a visitar-vos."
     },
     {
      "n": 18,
@@ -650,7 +650,7 @@
     },
     {
      "n": 19,
-     "texto": "e, não somente por isto, mas também porque foi escolhido pelas igrejas por companheiro da nossa peregrinação para esta beneficência, em que nos empenhamos, para glória do Senhor e satisfação do nosso coração,"
+     "texto": "e, não sòmente por isto, mas também porque foi escolhido pelas igrejas por companheiro da nossa peregrinação para esta beneficência, em que nos empenhamos, para glória do Senhor e satisfação do nosso coração,"
     },
     {
      "n": 20,
@@ -719,11 +719,11 @@
     },
     {
      "n": 11,
-     "texto": "para que, enriquecidos com todas as coisas, tenhais abundantemente com que fazer toda a sorte de liberalidades, que, por meio de nós, provoquem ações de graças a Deus (por parte dos cristãos pobres de Jerusalém, que as receberem)."
+     "texto": "para que, enriquecidos com todas as coisas, tenhais abundantemente com que fazer toda a sorte de liberalidades, que, por meio de nós, provoquem acções de graças a Deus (por parte dos cristãos pobres de Jerusalém, que as receberem)."
     },
     {
      "n": 12,
-     "texto": "Em realidade, a administração desta oferenda não somente supre o que falta aos santos, mas também redunda em muitas ações de graças ao Senhor;"
+     "texto": "Em realidade, a administração desta oferenda não sòmente supre o que falta aos santos, mas também redunda em muitas acções de graças ao Senhor;"
     },
     {
      "n": 13,
@@ -760,7 +760,7 @@
     },
     {
      "n": 5,
-     "texto": "derribamos todos os projetos (que se opõem à pregação do Evangelho) e todo o poder altivo que se levanta contra o conhecimento de Deus, reduzimos à sujeição todo o pensamento para o tornar obediente a Cristo."
+     "texto": "derribamos todos os projectos (que se opõem à pregação do Evangelho) e todo o poder altivo que se levanta contra o conhecimento de Deus, reduzimos à sujeição todo o pensamento para o tornar obediente a Cristo."
     },
     {
      "n": 6,
@@ -897,7 +897,7 @@
     },
     {
      "n": 20,
-     "texto": "Efetivamente, sofreis quem vos põe em escravidão, quem vos devora, quem vos rouba, quem se exalta, quem vos dá na cara."
+     "texto": "Efectivamente, sofreis quem vos põe em escravidão, quem vos devora, quem vos rouba, quem se exalta, quem vos dá na cara."
     },
     {
      "n": 21,
@@ -1002,11 +1002,11 @@
     },
     {
      "n": 12,
-     "texto": "entre vós contudo foram realizados os sinais do meu apostolado em toda a paciência, nos milagres, nos prodígios e atos de poder."
+     "texto": "entre vós contudo foram realizados os sinais do meu apostolado em toda a paciência, nos milagres, nos prodígios e actos de poder."
     },
     {
      "n": 13,
-     "texto": "Porque, em que tendes sido inferiores às outras igrejas, exceto que em nada vos fui pesado? Perdoai-me esta injúria."
+     "texto": "Porque, em que tendes sido inferiores às outras igrejas, excepto que em nada vos fui pesado? Perdoai-me esta injúria."
     },
     {
      "n": 14,
@@ -1034,7 +1034,7 @@
     },
     {
      "n": 20,
-     "texto": "Pois temo que, quando eu for, vos não encontre quais vos quero, e que vós me acheis qual não quereis; (temo) que haja entre vós contendas, invejas, rixas, dissensões, detrações, mexericos, soberbas, sedições;"
+     "texto": "Pois temo que, quando eu for, vos não encontre quais vos quero, e que vós me acheis qual não quereis; (temo) que haja entre vós contendas, invejas, rixas, dissensões, detracções, mexericos, soberbas, sedições;"
     },
     {
      "n": 21,

@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -104,7 +104,7 @@
     },
     {
      "n": 4,
-     "texto": "Eis que sucumbe o que não tem a alma reta, mas o justo viverá pela sua fidelidade."
+     "texto": "Eis que sucumbe o que não tem a alma recta, mas o justo viverá pela sua fidelidade."
     },
     {
      "n": 5,
@@ -112,11 +112,11 @@
     },
     {
      "n": 6,
-     "texto": "Porventura não virá ele a ser a fábula de todos estes, e o objeto dos seus (satíricos) provérbios? Dir-se-á; Ai daquele que acumula o que não é seu até quando? — daquele que acumula sobre si o peso da dívida!"
+     "texto": "Porventura não virá ele a ser a fábula de todos estes, e o objecto dos seus (satíricos) provérbios? Dir-se-á; Ai daquele que acumula o que não é seu até quando? — daquele que acumula sobre si o peso da dívida!"
     },
     {
      "n": 7,
-     "texto": "Porventura (ó mau) não se levantarão de repente os teus credores, não despertarão os teus exatores? Serás presa deles."
+     "texto": "Porventura (ó mau) não se levantarão de repente os teus credores, não despertarão os teus exactores? Serás presa deles."
     },
     {
      "n": 8,
@@ -152,7 +152,7 @@
     },
     {
      "n": 16,
-     "texto": "Tu (que assim procedes) serás cheio de ignomínia, em lugar de glória; bebe também até ficares ébrio; voltai-se-á sobre ti o cálice da direita do Senhor, e a abjeção cairá sobre a tua glória."
+     "texto": "Tu (que assim procedes) serás cheio de ignomínia, em lugar de glória; bebe também até ficares ébrio; voltai-se-á sobre ti o cálice da direita do Senhor, e a abjecção cairá sobre a tua glória."
     },
     {
      "n": 17,

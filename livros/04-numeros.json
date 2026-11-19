@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -19,7 +19,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "O Senhor falou a Moisés no deserto do Sinai, no tabernáculo da reunião, no primeiro dia do segundo mês, no segundo ano depois da saída dos filhos de Israel do Egito, dizendo:"
+     "texto": "O Senhor falou a Moisés no deserto do Sinai, no tabernáculo da reunião, no primeiro dia do segundo mês, no segundo ano depois da saída dos filhos de Israel do Egipto, dizendo:"
     },
     {
      "n": 2,
@@ -429,7 +429,7 @@
     },
     {
      "n": 13,
-     "texto": "porque todo o primogénito é meu. Desde o dia em que feri os primogénitos na terra do Egito, consagrei para mim todo o que nasce primeiro em Israel, desde o homem até ao animal. São meus. Eu sou o Senhor."
+     "texto": "porque todo o primogénito é meu. Desde o dia em que feri os primogénitos na terra do Egipto, consagrei para mim todo o que nasce primeiro em Israel, desde o homem até ao animal. São meus. Eu sou o Senhor."
     },
     {
      "n": 14,
@@ -501,7 +501,7 @@
     },
     {
      "n": 31,
-     "texto": "Guardarão a arca, a mesa, o candeeiro, os altares e os vasos do santuário, que servem para o ministério, e o véu, e todos os outros objetos deste género."
+     "texto": "Guardarão a arca, a mesa, o candeeiro, os altares e os vasos do santuário, que servem para o ministério, e o véu, e todos os outros objectos deste género."
     },
     {
      "n": 32,
@@ -871,7 +871,7 @@
     },
     {
      "n": 21,
-     "texto": "cairão sobre ti estas maldições. O Senhor te faça um objeto de maldição e de execração para todos no teu povo; faça emagrecer os teus flancos e inchar o teu ventre."
+     "texto": "cairão sobre ti estas maldições. O Senhor te faça um objecto de maldição e de execração para todos no teu povo; faça emagrecer os teus flancos e inchar o teu ventre."
     },
     {
      "n": 22,
@@ -895,7 +895,7 @@
     },
     {
      "n": 27,
-     "texto": "Depois que ela as tiver bebido, se está culpada, se, desprezado o marido, pecou por adultério, penetrá-la-ão as águas da maldição, farão inchar o seu ventre, emagrecerão os seus flancos, e aquela mulher será objeto de maldição no meio do seu povo."
+     "texto": "Depois que ela as tiver bebido, se está culpada, se, desprezado o marido, pecou por adultério, penetrá-la-ão as águas da maldição, farão inchar o seu ventre, emagrecerão os seus flancos, e aquela mulher será objecto de maldição no meio do seu povo."
     },
     {
      "n": 28,
@@ -1398,7 +1398,7 @@
     },
     {
      "n": 2,
-     "texto": "Fala a Aarão, e dize-lhe: Ao colocares as sete lâmpadas sobre o candelabro, coloca-as de forma que projetem luz para a parte da frente."
+     "texto": "Fala a Aarão, e dize-lhe: Ao colocares as sete lâmpadas sobre o candelabro, coloca-as de forma que projectem luz para a parte da frente."
     },
     {
      "n": 3,
@@ -1458,7 +1458,7 @@
     },
     {
      "n": 17,
-     "texto": "porque todos os primogénitos dos filhos de Israel, tanto de homens como de animais, são meus. Eu os consagrei a mim, desde o dia em que feri todos os primogénitos na terra do Egito."
+     "texto": "porque todos os primogénitos dos filhos de Israel, tanto de homens como de animais, são meus. Eu os consagrei a mim, desde o dia em que feri todos os primogénitos na terra do Egipto."
     },
     {
      "n": 18,
@@ -1494,7 +1494,7 @@
     },
     {
      "n": 26,
-     "texto": "(somente) ajudarão seus irmãos no tabernáculo da reunião, para guardarem as coisas que lhes forem confiadas, mas não mais exercerão as funções (ordinárias). Assim disporás os Levitas nos seus encargos."
+     "texto": "(sòmente) ajudarão seus irmãos no tabernáculo da reunião, para guardarem as coisas que lhes forem confiadas, mas não mais exercerão as funções (ordinárias). Assim disporás os Levitas nos seus encargos."
     }
    ]
   },
@@ -1503,7 +1503,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Senhor falou a Moisés no deserto do Sinai, no primeiro mês do segundo ano depois que tinham saído da terra do Egito, e disse:"
+     "texto": "Senhor falou a Moisés no deserto do Sinai, no primeiro mês do segundo ano depois que tinham saído da terra do Egipto, e disse:"
     },
     {
      "n": 2,
@@ -1559,7 +1559,7 @@
     },
     {
      "n": 15,
-     "texto": "No dia, pois, em que o tabernáculo foi ereto, a nuvem o cobriu. Da tarde, porém, até manhã estava sobre o tabernáculo como uma espécie de fogo."
+     "texto": "No dia, pois, em que o tabernáculo foi erecto, a nuvem o cobriu. Da tarde, porém, até manhã estava sobre o tabernáculo como uma espécie de fogo."
     },
     {
      "n": 16,
@@ -1765,11 +1765,11 @@
     },
     {
      "n": 5,
-     "texto": "Lembramo-nos dos peixes que comíamos de graça no Egito; vem-nos à memória os pepinos e os melões, e os alhos bravos, e as cebolas, e os alhos."
+     "texto": "Lembramo-nos dos peixes que comíamos de graça no Egipto; vem-nos à memória os pepinos e os melões, e os alhos bravos, e as cebolas, e os alhos."
     },
     {
      "n": 6,
-     "texto": "Falta-nos o apetite, pois os nossos olhos não veem senão maná."
+     "texto": "Falta-nos o apetite, pois os nossos olhos não vêem senão maná."
     },
     {
      "n": 7,
@@ -1817,7 +1817,7 @@
     },
     {
      "n": 18,
-     "texto": "Dirás também ao povo: Santificai-vos, que amanhã comereis carnes, pois vos ouvi dizer. Quem nos dará a comer carnes? Nós estávamos bem no Egito. Assim o Senhor vos dará carnes que comais,"
+     "texto": "Dirás também ao povo: Santificai-vos, que amanhã comereis carnes, pois vos ouvi dizer. Quem nos dará a comer carnes? Nós estávamos bem no Egipto. Assim o Senhor vos dará carnes que comais,"
     },
     {
      "n": 19,
@@ -1825,7 +1825,7 @@
     },
     {
      "n": 20,
-     "texto": "mas um mês inteiro, até elas vos saírem pela boca, até vos causarem enjoo, visto que rejeitastes o Senhor, que está no meio de vós, e chorastes no meio dele, dizendo: Por que saímos nós do Egito?"
+     "texto": "mas um mês inteiro, até elas vos saírem pela boca, até vos causarem enjoo, visto que rejeitastes o Senhor, que está no meio de vós, e chorastes no meio dele, dizendo: Por que saímos nós do Egipto?"
     },
     {
      "n": 21,
@@ -1930,7 +1930,7 @@
     },
     {
      "n": 11,
-     "texto": "disse a Moisés: Rogo-te, meu Senhor, que não ponhas sobre nós este pecado, que nesciamente cometemos."
+     "texto": "disse a Moisés: Rogo-te, meu Senhor, que não ponhas sobre nós este pecado, que nèsciamente cometemos."
     },
     {
      "n": 12,
@@ -2043,7 +2043,7 @@
     },
     {
      "n": 23,
-     "texto": "Subiram para o meio-dia e foram a Hebron, onde estavam Aquiman, Sisai e Tolmai, filhos de Enac. Hebron foi fundada sete anos antes de Tanis, cidade do Egito."
+     "texto": "Subiram para o meio-dia e foram a Hebron, onde estavam Aquiman, Sisai e Tolmai, filhos de Enac. Hebron foi fundada sete anos antes de Tanis, cidade do Egipto."
     },
     {
      "n": 24,
@@ -2104,11 +2104,11 @@
     },
     {
      "n": 3,
-     "texto": "Oxalá que nós tivéssemos morrido no Egito; oxalá que pereçamos neste vasto deserto, e que o Senhor não nos introduza nessa terra, para não sermos passados à espada, para as nossas mulheres e os nossos filhos não serem levados cativos. Porventura não nos seria melhor voltar para o Egito?"
+     "texto": "Oxalá que nós tivéssemos morrido no Egipto; oxalá que pereçamos neste vasto deserto, e que o Senhor não nos introduza nessa terra, para não sermos passados à espada, para as nossas mulheres e os nossos filhos não serem levados cativos. Porventura não nos seria melhor voltar para o Egipto?"
     },
     {
      "n": 4,
-     "texto": "Diziam uns para os outros: Escolhamos um chefe, e voltemos para o Egito."
+     "texto": "Diziam uns para os outros: Escolhamos um chefe, e voltemos para o Egipto."
     },
     {
      "n": 5,
@@ -2168,7 +2168,7 @@
     },
     {
      "n": 19,
-     "texto": "Perdoa, te suplico, o pecado deste povo, segundo a tua grande misericórdia, assim como lhe foste propício desde que saíram do Egito até este lugar."
+     "texto": "Perdoa, te suplico, o pecado deste povo, segundo a tua grande misericórdia, assim como lhe foste propício desde que saíram do Egipto até este lugar."
     },
     {
      "n": 20,
@@ -2180,7 +2180,7 @@
     },
     {
      "n": 22,
-     "texto": "nenhum dos homens, que viram a minha majestade e os prodígios que fiz no Egito e no deserto, que me tentaram já dez vezes, e não obedeceram à minha voz,"
+     "texto": "nenhum dos homens, que viram a minha majestade e os prodígios que fiz no Egipto e no deserto, que me tentaram já dez vezes, e não obedeceram à minha voz,"
     },
     {
      "n": 23,
@@ -2212,7 +2212,7 @@
     },
     {
      "n": 30,
-     "texto": "não entrareis na terra, na qual eu jurei fazer-vos habitar, exceto Caleb, filho de Jelone, e Josué, filho de Num."
+     "texto": "não entrareis na terra, na qual eu jurei fazer-vos habitar, excepto Caleb, filho de Jelone, e Josué, filho de Num."
     },
     {
      "n": 31,
@@ -2377,7 +2377,7 @@
     },
     {
      "n": 25,
-     "texto": "o sacerdote rogará por toda a multidão dos filhos de Israel, e se lhes perdoará, porque não pecaram voluntariamente e ofereceram contudo um holocausto ao Senhor, pela sua inadvertência."
+     "texto": "o sacerdote rogará por toda a multidão dos filhos de Israel, e se lhes perdoará, porque não pecaram voluntàriamente e ofereceram contudo um holocausto ao Senhor, pela sua inadvertência."
     },
     {
      "n": 26,
@@ -2441,7 +2441,7 @@
     },
     {
      "n": 41,
-     "texto": "Eu sou o Senhor vosso Deus que vos tirei da terra do Egito, para ser vosso Deus."
+     "texto": "Eu sou o Senhor vosso Deus que vos tirei da terra do Egipto, para ser vosso Deus."
     }
    ]
   },
@@ -2744,15 +2744,15 @@
     },
     {
      "n": 9,
-     "texto": "Daquelas coisas que são santificadas e oferecidas ao Senhor, exceto o que deve ser consumido pelo fogo, receberás o seguinte: Toda a oblação e sacrifício, tudo o que me é oferecido pelo pecado e pelo delito, e que (por isso) se torna uma coisa santíssima, será teu e de teus filhos."
+     "texto": "Daquelas coisas que são santificadas e oferecidas ao Senhor, excepto o que deve ser consumido pelo fogo, receberás o seguinte: Toda a oblação e sacrifício, tudo o que me é oferecido pelo pecado e pelo delito, e que (por isso) se torna uma coisa santíssima, será teu e de teus filhos."
     },
     {
      "n": 10,
-     "texto": "Tu o comerás no santuário: somente os homens comerão dele, porque é destinado para ti."
+     "texto": "Tu o comerás no santuário: sòmente os homens comerão dele, porque é destinado para ti."
     },
     {
      "n": 11,
-     "texto": "As primícias, porém, que os filhos de Israel oferecerem por voto ou espontaneamente, eu as dei a ti, a teus filhos e a tuas filhas, por direito perpétuo. Aquele que está puro na tua casa, comerá delas."
+     "texto": "As primícias, porém, que os filhos de Israel oferecerem por voto ou espontâneamente, eu as dei a ti, a teus filhos e a tuas filhas, por direito perpétuo. Aquele que está puro na tua casa, comerá delas."
     },
     {
      "n": 12,
@@ -2776,7 +2776,7 @@
     },
     {
      "n": 17,
-     "texto": "Mas não farás resgatar o primogénito do boi, nem o da ovelha, nem o da cabra, porque são consagrados ao Senhor; somente derramarás o seu sangue sobre o altar, e queimarás a gordura em suavíssimo odor ao Senhor."
+     "texto": "Mas não farás resgatar o primogénito do boi, nem o da ovelha, nem o da cabra, porque são consagrados ao Senhor; sòmente derramarás o seu sangue sobre o altar, e queimarás a gordura em suavíssimo odor ao Senhor."
     },
     {
      "n": 18,
@@ -2954,7 +2954,7 @@
     },
     {
      "n": 5,
-     "texto": "Por que nos fizestes partir do Egito, e nos conduzistes a este péssimo lugar, que não se pode semear, e que não produz nem figueiras, nem vinhas, nem romãzeiras, e além disto não tem água para beber?"
+     "texto": "Por que nos fizestes partir do Egipto, e nos conduzistes a este péssimo lugar, que não se pode semear, e que não produz nem figueiras, nem vinhas, nem romãzeiras, e além disto não tem água para beber?"
     },
     {
      "n": 6,
@@ -2994,11 +2994,11 @@
     },
     {
      "n": 15,
-     "texto": "como os nossos pais desceram ao Egito, como ai habitamos muito tempo, como os Egípcios nos maltrataram a nós e a nossos pais,"
+     "texto": "como os nossos pais desceram ao Egipto, como ai habitamos muito tempo, como os Egípcios nos maltrataram a nós e a nossos pais,"
     },
     {
      "n": 16,
-     "texto": "como clamamos ao Senhor, e ele nos ouviu, e enviou um anjo, que nos tirou do Egito. Agora, encontrando-nos na cidade de Cades, que está no extremo das tuas fronteiras,"
+     "texto": "como clamamos ao Senhor, e ele nos ouviu, e enviou um anjo, que nos tirou do Egipto. Agora, encontrando-nos na cidade de Cades, que está no extremo das tuas fronteiras,"
     },
     {
      "n": 17,
@@ -3010,7 +3010,7 @@
     },
     {
      "n": 19,
-     "texto": "Os filhos de Israel disseram-lhe: Nós iremos pelo caminho ordinário: se bebermos das tuas águas, nós e os nossos gados, pagaremos o que for justo: não haverá dificuldade alguma no preço, permite somente que passemos de corrida."
+     "texto": "Os filhos de Israel disseram-lhe: Nós iremos pelo caminho ordinário: se bebermos das tuas águas, nós e os nossos gados, pagaremos o que for justo: não haverá dificuldade alguma no preço, permite sòmente que passemos de corrida."
     },
     {
      "n": 20,
@@ -3079,7 +3079,7 @@
     },
     {
      "n": 5,
-     "texto": "e, falando contra Deus e contra Moisés, disse: Por que nos tiraste do Egito, para morrermos num deserto? Falta pão, não há água: a nossa alma está enfastiada deste alimento levíssimo."
+     "texto": "e, falando contra Deus e contra Moisés, disse: Por que nos tiraste do Egipto, para morrermos num deserto? Falta pão, não há água: a nossa alma está enfastiada deste alimento levíssimo."
     },
     {
      "n": 6,
@@ -3224,7 +3224,7 @@
     },
     {
      "n": 5,
-     "texto": "Mandou, pois, embaixadores a Balaão, filho de Beor, adivinho, que habitava sobre o rio do país dos filhos de Amon, para que o chamassem e lhe dissessem: Eis que saiu do Egito um povo, que cobriu a face da terra, o qual está acampado contra mim."
+     "texto": "Mandou, pois, embaixadores a Balaão, filho de Beor, adivinho, que habitava sobre o rio do país dos filhos de Amon, para que o chamassem e lhe dissessem: Eis que saiu do Egipto um povo, que cobriu a face da terra, o qual está acampado contra mim."
     },
     {
      "n": 6,
@@ -3248,7 +3248,7 @@
     },
     {
      "n": 11,
-     "texto": "dizer-me: Eis que um povo, que saiu do Egito, cobriu a superfície da terra: vem e amaldiçoa-o, para que eu, combatendo-o, por qualquer modo o possa afugentar."
+     "texto": "dizer-me: Eis que um povo, que saiu do Egipto, cobriu a superfície da terra: vem e amaldiçoa-o, para que eu, combatendo-o, por qualquer modo o possa afugentar."
     },
     {
      "n": 12,
@@ -3461,7 +3461,7 @@
     },
     {
      "n": 22,
-     "texto": "Deus tirou-o do Egito: a sua fortaleza é semelhante à do rinoceronte."
+     "texto": "Deus tirou-o do Egipto: a sua fortaleza é semelhante à do rinoceronte."
     },
     {
      "n": 23,
@@ -3530,7 +3530,7 @@
     },
     {
      "n": 8,
-     "texto": "Deus, que o tirou do Egito, é para ele como a força do rinoceronte. Ele devorará os povos, seus inimigos, e lhes quebrará os ossos, e os trespassará com as frechas."
+     "texto": "Deus, que o tirou do Egipto, é para ele como a força do rinoceronte. Ele devorará os povos, seus inimigos, e lhes quebrará os ossos, e os trespassará com as frechas."
     },
     {
      "n": 9,
@@ -3566,7 +3566,7 @@
     },
     {
      "n": 17,
-     "texto": "Eu o verei, mas não agora, eu o contemplarei, mas não de perto. NASCERÁ UMA ESTRELA DE JACOB, e levantar-se-á cetro de Israel, que ferirá os dois flancos de Moab, e destruirá os filhos do tumulto."
+     "texto": "Eu o verei, mas não agora, eu o contemplarei, mas não de perto. NASCERÁ UMA ESTRELA DE JACOB, e levantar-se-á ceptro de Israel, que ferirá os dois flancos de Moab, e destruirá os filhos do tumulto."
     },
     {
      "n": 18,
@@ -3812,7 +3812,7 @@
     },
     {
      "n": 33,
-     "texto": "Hefer foi pai de Salfaad, que não teve filhos, mas somente filhas, cujos nomes são estes: Malala, Noa, Hegla, Melca e Tensa."
+     "texto": "Hefer foi pai de Salfaad, que não teve filhos, mas sòmente filhas, cujos nomes são estes: Malala, Noa, Hegla, Melca e Tensa."
     },
     {
      "n": 34,
@@ -3916,7 +3916,7 @@
     },
     {
      "n": 59,
-     "texto": "o qual teve por mulher a Jocabed, filha de Levi, a qual lhe nasceu no Egito: esta teve de Amram, seu marido, os filhos Aarão e Moisés, e Maria irmã deles."
+     "texto": "o qual teve por mulher a Jocabed, filha de Levi, a qual lhe nasceu no Egipto: esta teve de Amram, seu marido, os filhos Aarão e Moisés, e Maria irmã deles."
     },
     {
      "n": 60,
@@ -3940,7 +3940,7 @@
     },
     {
      "n": 65,
-     "texto": "porque o Senhor tinha predito que todos eles morreriam no deserto. Não ficou nenhum deles, exceto Caleb, filho de Jefone, e Josué, filho de Nun."
+     "texto": "porque o Senhor tinha predito que todos eles morreriam no deserto. Não ficou nenhum deles, excepto Caleb, filho de Jefone, e Josué, filho de Nun."
     }
    ]
   },
@@ -4485,7 +4485,7 @@
     },
     {
      "n": 20,
-     "texto": "Purificar-se-á também da presa toda a veste ou vaso, e todo o objeto feito de pele de cabra, ou de pelos, ou de madeira."
+     "texto": "Purificar-se-á também da presa toda a veste ou vaso, e todo o objecto feito de pele de cabra, ou de pelos, ou de madeira."
     },
     {
      "n": 21,
@@ -4670,11 +4670,11 @@
     },
     {
      "n": 11,
-     "texto": "Estes homens, que saíram do Egito, de vinte anos para cima, não verão a terra que eu prometi com juramento a Abraão, a Isaac e a Jacob, porque não quiseram seguir-me,"
+     "texto": "Estes homens, que saíram do Egipto, de vinte anos para cima, não verão a terra que eu prometi com juramento a Abraão, a Isaac e a Jacob, porque não quiseram seguir-me,"
     },
     {
      "n": 12,
-     "texto": "exceto Caleb, filho de Jefone Cenezeu, e Josué, filho de Nun; estes cumpriram a minha vontade."
+     "texto": "excepto Caleb, filho de Jefone Cenezeu, e Josué, filho de Nun; estes cumpriram a minha vontade."
     },
     {
      "n": 13,
@@ -4803,7 +4803,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Estas são as paragens dos filhos de Israel, que saíram do Egito (divididos) pelas suas turmas sob a conduta de Moisés e de Aarão."
+     "texto": "Estas são as paragens dos filhos de Israel, que saíram do Egipto (divididos) pelas suas turmas sob a conduta de Moisés e de Aarão."
     },
     {
      "n": 2,
@@ -4951,7 +4951,7 @@
     },
     {
      "n": 38,
-     "texto": "O sacerdote Aarão subiu por mandado do Senhor ao monte Hor, e ali morreu no primeiro dia do mês, no ano quadragésimo, depois da saída dos filhos de Israel do Egito, no quinto mês,"
+     "texto": "O sacerdote Aarão subiu por mandado do Senhor ao monte Hor, e ali morreu no primeiro dia do mês, no ano quadragésimo, depois da saída dos filhos de Israel do Egipto, no quinto mês,"
     },
     {
      "n": 39,
@@ -5048,7 +5048,7 @@
     },
     {
      "n": 5,
-     "texto": "irá girando desde Asemona até à torrente do Egito, e terminará no mar."
+     "texto": "irá girando desde Asemona até à torrente do Egipto, e terminará no mar."
     },
     {
      "n": 6,
@@ -5157,7 +5157,7 @@
     },
     {
      "n": 2,
-     "texto": "Manda aos filhos de Israel que deem das suas possessões aos Levitas"
+     "texto": "Manda aos filhos de Israel que dêem das suas possessões aos Levitas"
     },
     {
      "n": 3,
@@ -5173,7 +5173,7 @@
     },
     {
      "n": 6,
-     "texto": "Das mesmas cidades que deres aos Levitas, seis serão destinadas para refúgio dos fugitivos, a fim de que nelas se acolha aquele que tiver derramado sangue (involuntariamente); além destas (seis), haverá (para os Levitas) outras quarenta e duas cidades,"
+     "texto": "Das mesmas cidades que deres aos Levitas, seis serão destinadas para refúgio dos fugitivos, a fim de que nelas se acolha aquele que tiver derramado sangue (involuntàriamente); além destas (seis), haverá (para os Levitas) outras quarenta e duas cidades,"
     },
     {
      "n": 7,
@@ -5193,7 +5193,7 @@
     },
     {
      "n": 11,
-     "texto": "determinai que cidades devem ser para refúgio dos fugitivos, que involuntariamente derramarem sangue."
+     "texto": "determinai que cidades devem ser para refúgio dos fugitivos, que involuntàriamente derramarem sangue."
     },
     {
      "n": 12,
@@ -5209,7 +5209,7 @@
     },
     {
      "n": 15,
-     "texto": "e (serão) tanto para os filhos de Israel, como para os estrangeiros e peregrinos, a fim de que a elas se acolha aquele que involuntariamente tiver derramado sangue."
+     "texto": "e (serão) tanto para os filhos de Israel, como para os estrangeiros e peregrinos, a fim de que a elas se acolha aquele que involuntàriamente tiver derramado sangue."
     },
     {
      "n": 16,

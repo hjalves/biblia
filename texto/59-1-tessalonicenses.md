@@ -6,7 +6,7 @@
 **2** Graça e paz vos sejam dadas. Damos sempre graças a Deus por todos vós, fazendo continuamente memória de vós nas nossas orações,  
 **3** lembrando-nos, diante de Deus, nosso Pai, da obra da vossa fé, do trabalho da vossa caridade e da constância da vossa esperança em Nosso Senhor Jesus Cristo.  
 **4** Com efeito sabemos, irmãos amados de Deus, que fostes escolhidos (para participar dos benefícios da Redenção),  
-**5** porque o nosso Evangelho não vos foi pregado somente com palavras, mas também com poder, com o Espírito Santo e com perfeita segurança. Com efeito, sabeis quais nós fomos entre vós, por amor de vós.  
+**5** porque o nosso Evangelho não vos foi pregado sòmente com palavras, mas também com poder, com o Espírito Santo e com perfeita segurança. Com efeito, sabeis quais nós fomos entre vós, por amor de vós.  
 **6** Por vossa parte, fizestes-vos imitadores nossos e do Senhor, recebendo a palavra no meio de muita tribulação, com a alegria do Espírito Santo,  
 **7** de modo que vos tornastes modelo para todos os crentes da Macedónia e da Acaia.  
 **8** Por meio de vós se difundiu a palavra do Senhor, não só pela Macedónia e pela Acaia, mas também se propagou por toda a parte o renome da fé que tendes em Deus, de sorte que não sentimos necessidade de dizer sobre isso coisa alguma.  
@@ -15,7 +15,7 @@
 
 ## Capítulo 2
 
-**1** Efetivamente sabeis, irmãos, que a nossa ida a vós não foi sem fruto,  
+**1** Efectivamente sabeis, irmãos, que a nossa ida a vós não foi sem fruto,  
 **2** pois, tendo primeiro sofrido e tolerado afrontas, como sabeis, em Filipos, tivemos confiança em nosso Deus para vos pregar o Evangelho de Deus no meio de muitos obstáculos.  
 **3** A nossa pregação não procedeu de erro, nem de malícia, nem de fraude,  
 **4** mas, como fomos aprovados por Deus, para que nos fosse confiado o Evangelho, assim falamos, não para agradar aos homens, mas a Deus, que sonda os nossos corações.  
@@ -43,10 +43,10 @@
 **3** a fim de que ninguém seja abalado por estas tribulações, pois vós mesmos sabeis que para isto fomos destinados.  
 **4** Pois, quando ainda estávamos convosco, vos predizíamos que havíamos de padecer tribulações, como com efeito aconteceu e vós o sabeis.  
 **5** Por isso, não podendo eu sofrer mais demora, enviei a buscar notícias da vossa fé, temendo que o tentador vos tenha tentado e que se torne inútil o nosso trabalho.  
-**6** Mas agora, voltando Timóteo a nós, depois de vos ter visitado, e trazendo-nos boas novas da vossa fé e caridade, da vossa sempre afetuosa lembrança de nós, do vosso desejo de nos tornar a ver, desejo igual ao nosso (de vos tornar a ver, a vós)  
+**6** Mas agora, voltando Timóteo a nós, depois de vos ter visitado, e trazendo-nos boas novas da vossa fé e caridade, da vossa sempre afectuosa lembrança de nós, do vosso desejo de nos tornar a ver, desejo igual ao nosso (de vos tornar a ver, a vós)  
 **7** com isto temos sido consolados a vosso respeito, pela vossa fé, no meio de toda a nossa angústia e tribulação,  
 **8** porque agora (podemos dizer que) vivemos, visto que vós estais firmes no Senhor.  
-**9** Que ação de graças podemos dar a Deus por vós, por toda a alegria que gozamos por vossa causa diante do nosso Deus?  
+**9** Que acção de graças podemos dar a Deus por vós, por toda a alegria que gozamos por vossa causa diante do nosso Deus?  
 **10** Pedimos-lhe de noite e de dia, com a maior instância, que cheguemos a ver a vossa face e que completemos o que falta à vossa fé.  
 **11** Que o mesmo Deus, Pai nosso, e Nosso Senhor Jesus Cristo, encaminhem os nossos passos para vós.  
 **12** Senhor vos faça crescer e abundar na caridade, uns para com os outros, e para com todos, assim como é a nossa para convosco.  
@@ -65,7 +65,7 @@
 **9** Pelo que diz respeito à caridade fraterna, não temos necessidade de vos escrever, porque vós mesmos aprendestes de Deus que vos deveis amar uns aos outros.  
 **10** E, de facto, assim o praticais com todos os irmãos em toda a Macedónia. Mas nós vos exortamos, irmãos, a avançar, cada vez mais (na prática desta virtude).  
 **11** Procurai viver em paz, ocupar-vos dos vossos negócios e trabalhar com as vossas mãos, como vos ordenamos.  
-**12** Assim tereis um proceder correto, aos olhos dos que estão fora (da Igreja), e não precisareis de ninguém.  
+**12** Assim tereis um proceder correcto, aos olhos dos que estão fora (da Igreja), e não precisareis de ninguém.  
 **13** Mas não queremos, irmãos, que estejais na ignorância acerca dos mortos, para que não vos entristeçais como os outros, que não têm esperança.  
 **14** Pois, se cremos que Jesus morreu e ressuscitou, (cremos) também (que) Deus trará com ele aqueles que morreram em Jesus.  
 **15** Dizemo-vos isto, segundo a palavra do Senhor: os que estamos vivos, os sobreviventes, quando da vinda do Senhor, não passaremos adiante daqueles que morreram.  

@@ -2,7 +2,7 @@
 
 ## Capítulo 1
 
-**1** O Ancião à Senhora eleita e a seus filhos que eu amo na verdade — e não somente eu, mas também todos os que têm conhecido a verdade —  
+**1** O Ancião à Senhora eleita e a seus filhos que eu amo na verdade — e não sòmente eu, mas também todos os que têm conhecido a verdade —  
 **2** por causa da verdade que permanece em nós e que será connosco eternamente.  
 **3** Connosco serão a graça, a misericórdia, a paz, da parte de Deus Pai, e da de Jesus Cristo, Filho do Pai, em verdade e em caridade.  
 **4** Muito me alegrei por ter encontrado alguns de teus filhos que seguem o caminho da verdade, segundo o mandamento que recebemos do Pai.  

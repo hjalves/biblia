@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -35,7 +35,7 @@
     },
     {
      "n": 5,
-     "texto": "o qual (também) nos predestinou, no seu amor, para sermos seus filhos adotivos por (meio de) Jesus Cristo, por sua livre vontade,"
+     "texto": "o qual (também) nos predestinou, no seu amor, para sermos seus filhos adoptivos por (meio de) Jesus Cristo, por sua livre vontade,"
     },
     {
      "n": 6,
@@ -314,7 +314,7 @@
     },
     {
      "n": 5,
-     "texto": "Há um só Senhor, uma só fé, um só batismo."
+     "texto": "Há um só Senhor, uma só fé, um só baptismo."
     },
     {
      "n": 6,
@@ -443,7 +443,7 @@
     },
     {
      "n": 4,
-     "texto": "nem conversas torpes, nem loucas, nem chocarrices, que são coisas inconvenientes, mas antes (saiam da vossa boca) ações de graças (a Deus)."
+     "texto": "nem conversas torpes, nem loucas, nem chocarrices, que são coisas inconvenientes, mas antes (saiam da vossa boca) acções de graças (a Deus)."
     },
     {
      "n": 5,
@@ -491,7 +491,7 @@
     },
     {
      "n": 16,
-     "texto": "mas como circunspetos. Aproveitai o tempo, pois que os dias são maus."
+     "texto": "mas como circunspectos. Aproveitai o tempo, pois que os dias são maus."
     },
     {
      "n": 17,
@@ -531,7 +531,7 @@
     },
     {
      "n": 26,
-     "texto": "para a santificar, purificando-a no batismo da água pela palavra,"
+     "texto": "para a santificar, purificando-a no baptismo da água pela palavra,"
     },
     {
      "n": 27,
@@ -612,7 +612,7 @@
     },
     {
      "n": 12,
-     "texto": "porque nós não temos que lutar (somente) contra a carne e o sangue, mas sim contra os principados e potestades (do inferno), contra os dominadores deste mundo tenebroso, contra os espíritos malignos (espalhados) pelos ares."
+     "texto": "porque nós não temos que lutar (sòmente) contra a carne e o sangue, mas sim contra os principados e potestades (do inferno), contra os dominadores deste mundo tenebroso, contra os espíritos malignos (espalhados) pelos ares."
     },
     {
      "n": 13,

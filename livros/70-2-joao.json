@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -19,7 +19,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "O Ancião à Senhora eleita e a seus filhos que eu amo na verdade — e não somente eu, mas também todos os que têm conhecido a verdade —"
+     "texto": "O Ancião à Senhora eleita e a seus filhos que eu amo na verdade — e não sòmente eu, mas também todos os que têm conhecido a verdade —"
     },
     {
      "n": 2,

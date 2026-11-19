@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -83,7 +83,7 @@
     },
     {
      "n": 17,
-     "texto": "Assim como em tudo obedecemos a Moisés, assim obedeceremos também a ti; somente (desejamos) que o Senhor teu Deus seja contigo, como foi com Moisés."
+     "texto": "Assim como em tudo obedecemos a Moisés, assim obedeceremos também a ti; sòmente (desejamos) que o Senhor teu Deus seja contigo, como foi com Moisés."
     },
     {
      "n": 18,
@@ -132,7 +132,7 @@
     },
     {
      "n": 10,
-     "texto": "pois soubemos que o Senhor secou as águas do Mar Vermelho à vossa entrada, quando saístes do Egito, e (soubemos) o que fizestes aos dois reis dos Amorreus, que estavam da banda de além do Jordão, Seon e Og, os quais matastes."
+     "texto": "pois soubemos que o Senhor secou as águas do Mar Vermelho à vossa entrada, quando saístes do Egipto, e (soubemos) o que fizestes aos dois reis dos Amorreus, que estavam da banda de além do Jordão, Seon e Og, os quais matastes."
     },
     {
      "n": 11,
@@ -383,7 +383,7 @@
     },
     {
      "n": 4,
-     "texto": "A causa desta circuncisão é a seguinte: Todos os varões dentre o povo, que tinham saído do Egito, todos os homens de guerra tinham morrido no deserto durante os larguíssimos rodeios do caminho,"
+     "texto": "A causa desta circuncisão é a seguinte: Todos os varões dentre o povo, que tinham saído do Egipto, todos os homens de guerra tinham morrido no deserto durante os larguíssimos rodeios do caminho,"
     },
     {
      "n": 5,
@@ -403,7 +403,7 @@
     },
     {
      "n": 9,
-     "texto": "O Senhor disse a Josué: Hoje tirei de cima de vós o opróbrio do Egito. E foi dado àquele lugar o nome de Galgala até ao dia de hoje."
+     "texto": "O Senhor disse a Josué: Hoje tirei de cima de vós o opróbrio do Egipto. E foi dado àquele lugar o nome de Galgala até ao dia de hoje."
     },
     {
      "n": 10,
@@ -839,7 +839,7 @@
     },
     {
      "n": 9,
-     "texto": "Eles responderam: Os teus servos vieram de uma terra muito distante em nome do Senhor teu Deus, porque ouvimos a fama do seu poder, tudo o que fez no Egito,"
+     "texto": "Eles responderam: Os teus servos vieram de uma terra muito distante em nome do Senhor teu Deus, porque ouvimos a fama do seu poder, tudo o que fez no Egipto,"
     },
     {
      "n": 10,
@@ -1145,7 +1145,7 @@
     },
     {
      "n": 13,
-     "texto": "Israel queimou todas as outras cidades, exceto as que estavam situadas nas colinas e nos lugares elevados; (destas) somente Asor, cidade fortíssima, foi consumida pelo fogo."
+     "texto": "Israel queimou todas as outras cidades, excepto as que estavam situadas nas colinas e nos lugares elevados; (destas) sòmente Asor, cidade fortíssima, foi consumida pelo fogo."
     },
     {
      "n": 14,
@@ -1169,7 +1169,7 @@
     },
     {
      "n": 19,
-     "texto": "Não houve cidade que se rendesse (espontaneamente) aos filhos de Israel, exceto o Heveu, que habitava em Gabaon; todas as outras as tomaram à força de armas."
+     "texto": "Não houve cidade que se rendesse (espontâneamente) aos filhos de Israel, excepto o Heveu, que habitava em Gabaon; todas as outras as tomaram à força de armas."
     },
     {
      "n": 20,
@@ -1181,7 +1181,7 @@
     },
     {
      "n": 22,
-     "texto": "Não deixou um só da raça dos Enacins na terra dos filhos de Israel, exceto somente os que ficaram nas cidades de Gaza, de Get e de Azoto."
+     "texto": "Não deixou um só da raça dos Enacins na terra dos filhos de Israel, excepto sòmente os que ficaram nas cidades de Gaza, de Get e de Azoto."
     },
     {
      "n": 23,
@@ -1303,7 +1303,7 @@
     },
     {
      "n": 3,
-     "texto": "desde o rio turvo, que rega o Egito, até aos confins de Acaron, para o norte, que deve ser reputada terra de Canaan; os (territórios pertencentes aos) cinco príncipes dos Filisteus: o de Gaza, o de Azoto, o de Ascalon, o de Get e o de Acaron;"
+     "texto": "desde o rio turvo, que rega o Egipto, até aos confins de Acaron, para o norte, que deve ser reputada terra de Canaan; os (territórios pertencentes aos) cinco príncipes dos Filisteus: o de Gaza, o de Azoto, o de Ascalon, o de Get e o de Acaron;"
     },
     {
      "n": 4,
@@ -1509,7 +1509,7 @@
     },
     {
      "n": 4,
-     "texto": "e, passando dali para Asrnona, chegava até à torrente do Egito e terminava no Mar Grande. Estes os seus limites, pelo lado do meio-dia."
+     "texto": "e, passando dali para Asrnona, chegava até à torrente do Egipto e terminava no Mar Grande. Estes os seus limites, pelo lado do meio-dia."
     },
     {
      "n": 5,
@@ -1545,7 +1545,7 @@
     },
     {
      "n": 13,
-     "texto": "A Caleb, filho de Jefone, se havia dado uma parte, no meio dos filhos de Israel, consoante o Senhor mandara a Josué, a saber, a cidade de Arbe, pai de Enac, que é (atualmente chamada) Hebron."
+     "texto": "A Caleb, filho de Jefone, se havia dado uma parte, no meio dos filhos de Israel, consoante o Senhor mandara a Josué, a saber, a cidade de Arbe, pai de Enac, que é (actualmente chamada) Hebron."
     },
     {
      "n": 14,
@@ -1681,7 +1681,7 @@
     },
     {
      "n": 47,
-     "texto": "Azoto com as suas aldeias e lugarejos; Gaza com as suas aldeias e lugarejos, até à torrente do Egito e ao Mar Grande, que é o seu limite."
+     "texto": "Azoto com as suas aldeias e lugarejos; Gaza com as suas aldeias e lugarejos, até à torrente do Egipto e ao Mar Grande, que é o seu limite."
     },
     {
      "n": 48,
@@ -1807,7 +1807,7 @@
     },
     {
      "n": 3,
-     "texto": "Salfaad filho de Hefer, filho de Galaad, filho de Maquir, filho de Manassés, não teve filhos, mas somente filhas, cujos nomes são estes: Maala, Noa, Hegla, Melca, e Tersa."
+     "texto": "Salfaad filho de Hefer, filho de Galaad, filho de Maquir, filho de Manassés, não teve filhos, mas sòmente filhas, cujos nomes são estes: Maala, Noa, Hegla, Melca, e Tersa."
     },
     {
      "n": 4,
@@ -2279,7 +2279,7 @@
     },
     {
      "n": 11,
-     "texto": "Cariatarbe, (cidade) do pai de Enac, que (atualmente) se chama Hebron, sobre o monte de Judá, com os seus arrabaldes em roda."
+     "texto": "Cariatarbe, (cidade) do pai de Enac, que (actualmente) se chama Hebron, sobre o monte de Judá, com os seus arrabaldes em roda."
     },
     {
      "n": 12,
@@ -2432,7 +2432,7 @@
     },
     {
      "n": 5,
-     "texto": "Só vos imponho de que cumprais exatamente o mandamento e a lei que Moisés, servo do Senhor, vos prescreveu, (isto é) que ameis o Senhor vosso Deus, andeis em todos os seus caminhos, observeis os seus mandamentos, estejais unidos a ele, e o sirvais de todo o coração e de toda a vossa alma."
+     "texto": "Só vos imponho de que cumprais exactamente o mandamento e a lei que Moisés, servo do Senhor, vos prescreveu, (isto é) que ameis o Senhor vosso Deus, andeis em todos os seus caminhos, observeis os seus mandamentos, estejais unidos a ele, e o sirvais de todo o coração e de toda a vossa alma."
     },
     {
      "n": 6,
@@ -2577,7 +2577,7 @@
     },
     {
      "n": 6,
-     "texto": "Somente é preciso que sejais fortes e solícitos em observar todas as coisas que estão escritas no livro da lei de Moisés; não vos desvieis delas, nem para a direita, nem para a esquerda."
+     "texto": "Sòmente é preciso que sejais fortes e solícitos em observar todas as coisas que estão escritas no livro da lei de Moisés; não vos desvieis delas, nem para a direita, nem para a esquerda."
     },
     {
      "n": 7,
@@ -2597,7 +2597,7 @@
     },
     {
      "n": 11,
-     "texto": "Somente tende grandíssimo cuidado em amar o Senhor vosso Deus."
+     "texto": "Sòmente tende grandíssimo cuidado em amar o Senhor vosso Deus."
     },
     {
      "n": 12,
@@ -2638,19 +2638,19 @@
     },
     {
      "n": 4,
-     "texto": "dando-lhe Isaac. A este dei Jacob e Esaú. A Esaú dei em possessão o monte de Seir; Jacob, porém, e seus filhos desceram ao Egito."
+     "texto": "dando-lhe Isaac. A este dei Jacob e Esaú. A Esaú dei em possessão o monte de Seir; Jacob, porém, e seus filhos desceram ao Egipto."
     },
     {
      "n": 5,
-     "texto": "Depois mandei Moisés e Aarão, e feri o Egito com muitos milagres e prodígios."
+     "texto": "Depois mandei Moisés e Aarão, e feri o Egipto com muitos milagres e prodígios."
     },
     {
      "n": 6,
-     "texto": "Fiz sair vossos pais do Egito, e chegastes ao mar. Os Egípcios perseguiram os vossos pais com carros e cavalaria até ao mar Vermelho."
+     "texto": "Fiz sair vossos pais do Egipto, e chegastes ao mar. Os Egípcios perseguiram os vossos pais com carros e cavalaria até ao mar Vermelho."
     },
     {
      "n": 7,
-     "texto": "Os filhos de Israel porém clamaram ao Senhor, o qual pôs trevas entre vós e os Egípcios, e fez vir o mar sobre eles, que os cobriu. Os vossos olhos viram todas as coisas que eu fiz no Egito, e vós habitastes no deserto durante muito tempo."
+     "texto": "Os filhos de Israel porém clamaram ao Senhor, o qual pôs trevas entre vós e os Egípcios, e fez vir o mar sobre eles, que os cobriu. Os vossos olhos viram todas as coisas que eu fiz no Egipto, e vós habitastes no deserto durante muito tempo."
     },
     {
      "n": 8,
@@ -2678,7 +2678,7 @@
     },
     {
      "n": 14,
-     "texto": "Agora pois temei ao Senhor e servi-o com um coração perfeito e sinceríssimo; tirai (do meio de vós) os deuses, a que vossos pais serviram na Mesopotâmia e no Egito, e servi ao Senhor."
+     "texto": "Agora pois temei ao Senhor e servi-o com um coração perfeito e sinceríssimo; tirai (do meio de vós) os deuses, a que vossos pais serviram na Mesopotâmia e no Egipto, e servi ao Senhor."
     },
     {
      "n": 15,
@@ -2690,7 +2690,7 @@
     },
     {
      "n": 17,
-     "texto": "O Senhor nosso Deus, ele mesmo, nos tirou a nós e a nossos pais da terra do Egito, da casa da escravidão, fez à nossa vista grandes prodígios e guardou-nos por entre todos os povos; pelos quais passamos."
+     "texto": "O Senhor nosso Deus, ele mesmo, nos tirou a nós e a nossos pais da terra do Egipto, da casa da escravidão, fez à nossa vista grandes prodígios e guardou-nos por entre todos os povos; pelos quais passamos."
     },
     {
      "n": 18,
@@ -2750,7 +2750,7 @@
     },
     {
      "n": 32,
-     "texto": "Os ossos de José, que os filhos de Israel tinham trazido do Egito, foram sepultados em Siquem, na parte do campo, que Jacob tinha comprado aos filhos de Hemor, pai de Siquem, por cem cordeiros, e que foi depois propriedade dos filhos de José."
+     "texto": "Os ossos de José, que os filhos de Israel tinham trazido do Egipto, foram sepultados em Siquem, na parte do campo, que Jacob tinha comprado aos filhos de Hemor, pai de Siquem, por cem cordeiros, e que foi depois propriedade dos filhos de José."
     },
     {
      "n": 33,

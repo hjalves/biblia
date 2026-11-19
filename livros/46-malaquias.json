@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -51,11 +51,11 @@
     },
     {
      "n": 9,
-     "texto": "E agora rogais a Deus que se compadeça de vós! Tudo isto foi feito por vossas mãos. (Nestas circunstâncias) receber-vos-á favoravelmente?— diz o Senhor dos exércitos."
+     "texto": "E agora rogais a Deus que se compadeça de vós! Tudo isto foi feito por vossas mãos. (Nestas circunstâncias) receber-vos-á favoràvelmente?— diz o Senhor dos exércitos."
     },
     {
      "n": 10,
-     "texto": "Quem há entre vós que feche as portas, para que se não acenda o lume inutilmente sobre o meu altar? O meu afeto não está em vós, diz o Senhor dos exércitos, nem aceitarei oferenda alguma da vossa mão."
+     "texto": "Quem há entre vós que feche as portas, para que se não acenda o lume inutilmente sobre o meu altar? O meu afecto não está em vós, diz o Senhor dos exércitos, nem aceitarei oferenda alguma da vossa mão."
     },
     {
      "n": 11,
@@ -100,7 +100,7 @@
     },
     {
      "n": 6,
-     "texto": "A doutrina da verdade estava na sua boca, e a iniquidade não se encontrava nos seus lábios; andava comigo em paz e em retidão, e afastou muitos da iniquidade."
+     "texto": "A doutrina da verdade estava na sua boca, e a iniquidade não se encontrava nos seus lábios; andava comigo em paz e em rectidão, e afastou muitos da iniquidade."
     },
     {
      "n": 7,
@@ -193,7 +193,7 @@
     },
     {
      "n": 11,
-     "texto": "Para vos beneficiar, afugentarei o inseto devorador, que não estragará mais os frutos da vossa terra; nem haverá nos campos vinhas estéreis, diz o Senhor dos exércitos."
+     "texto": "Para vos beneficiar, afugentarei o insecto devorador, que não estragará mais os frutos da vossa terra; nem haverá nos campos vinhas estéreis, diz o Senhor dos exércitos."
     },
     {
      "n": 12,

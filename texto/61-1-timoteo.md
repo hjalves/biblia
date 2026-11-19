@@ -25,7 +25,7 @@
 
 ## Capítulo 2
 
-**1** Recomendo-te, pois, antes de tudo, que se façam súplicas, orações, petições, ações de graças por todos os homens,  
+**1** Recomendo-te, pois, antes de tudo, que se façam súplicas, orações, petições, acções de graças por todos os homens,  
 **2** pelos reis e por todos os que estão constituídos em autoridade, para que levemos uma vida sossegada e tranquila, em toda a piedade e dignidade.  
 **3** Em verdade, isto é bom e agradável diante de Deus nosso Salvador,  
 **4** o qual quer que todos os homens se salvem e cheguem ao conhecimento da verdade.  
@@ -64,8 +64,8 @@
 
 **1** Ora o Espírito diz formalmente que nos últimos tempos alguns apostatarão na fé, dando ouvido a espíritos enganadores e a doutrinas de demónios,  
 **2** seduzidos por mentirosos hipócritas, cuja consciência está marcada com ferro em brasa,  
-**3** que proíbem o matrimónio e o uso de alimentos, que Deus criou, para que, com ação de graças, participem deles os fiéis e aqueles que conhecem a verdade.  
-**4** Efetivamente, tudo o que Deus criou é bom, e não é para desprezar nada do que se toma com ação de graças,  
+**3** que proíbem o matrimónio e o uso de alimentos, que Deus criou, para que, com acção de graças, participem deles os fiéis e aqueles que conhecem a verdade.  
+**4** Efectivamente, tudo o que Deus criou é bom, e não é para desprezar nada do que se toma com acção de graças,  
 **5** porquanto é santificado pela palavra de Deus e pela oração.  
 **6** Propondo estes ensinamentos aos irmãos, serás um bom ministro de Jesus Cristo, nutrido com as palavras da fé e da boa doutrina a que firmemente te ligaste.  
 **7** Rejeita as fábulas profanas, esses contos de velhas, e exercita-te na piedade.  
@@ -89,12 +89,12 @@
 **6** porque, a que vive em deleites, vivendo, está morta (diante de Deus).  
 **7** Manda, pois, isto, para que sejam irrepreensíveis.  
 **8** Se, porventura, alguém não tem cuidado dos seus, e principalmente dos da sua casa, negou a fé e é pior que um infiel.  
-**9** Somente seja inscrita no grupo das viúvas (para o serviço da Igreja) uma mulher com sessenta anos, casada uma só vez,  
+**9** Sòmente seja inscrita no grupo das viúvas (para o serviço da Igreja) uma mulher com sessenta anos, casada uma só vez,  
 **10** que tenha reputação de boas obras, que tenha educado bem os filhos, praticado a hospitalidade, lavado os pés dos santos, acudido aos atribulados, realizado toda a obra boa.  
 **11** Não admitas viúvas jovens, porque, quando os seus desejos as afastam de Cristo (seu esposo), querem voltar a casar-se.  
 **12** e tornam-se culpadas faltando ao seu primeiro compromisso.  
-**13** Além disto, vivendo na ociosidade, acostumam-se a andar de casa em casa; não somente são ociosas, mas também chocarreiras e curiosas, falando sobre o que não convém.  
-**14** (Antes) quero pois que as jovens viúvas (que não têm virtude para viver na continência) se casem, criem filhos, sejam (boas) mães de família, não deem ocasião ao adversário de dizer mal.  
+**13** Além disto, vivendo na ociosidade, acostumam-se a andar de casa em casa; não sòmente são ociosas, mas também chocarreiras e curiosas, falando sobre o que não convém.  
+**14** (Antes) quero pois que as jovens viúvas (que não têm virtude para viver na continência) se casem, criem filhos, sejam (boas) mães de família, não dêem ocasião ao adversário de dizer mal.  
 **15** Realmente já algumas se perverteram para seguir Satanás.  
 **16** Se algum fiel tem viúvas (na sua família), socorra-as, e não seja sobrecarregada a Igreja, a fim de que tenha o bastante para as que são verdadeiramente viúvas (necessitadas).  
 **17** Os presbíteros que exercem bem a presidência, sejam considerados dignos de estipêndio dobrado, principalmente os que trabalham em pregar e ensinar.  
@@ -104,7 +104,7 @@
 **21** Eu te conjuro diante de Deus, de Jesus Cristo e dos anjos escolhidos, que guardes estas coisas sem prevenção, não fazendo nada por inclinação particular.  
 **22** Não te apresses a impor as mãos a ninguém, e não te faças participante dos pecados dos outros. Conserva-te a ti mesmo puro.  
 **23** Não continues a beber água só, mas usa de um pouco de vinho, por causa do teu estômago e das tuas frequentes enfermidades.  
-**24** Os pecados de alguns homens são manifestos, mesmo antes de se examinarem em juízo, mas os de outros manifestam-se somente depois.  
+**24** Os pecados de alguns homens são manifestos, mesmo antes de se examinarem em juízo, mas os de outros manifestam-se sòmente depois.  
 **25** Igualmente as boas obras são manifestas; e as que o não são ainda, não podem permanecer ocultas.  
 
 ## Capítulo 6

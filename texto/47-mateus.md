@@ -42,13 +42,13 @@
 **10** Vendo (novamente) a estrela, ficaram possuídos de grandíssima alegria.  
 **11** Entraram na casa, viram o menino com Maria, sua mãe, e, prostrando-se, o adoraram; e, abrindo os seus tesouros, lhe ofereceram presentes de ouro, incenso e mirra.  
 **12** Em seguida, avisados por Deus em sonhos para não tornarem a Herodes, voltaram por outro caminho para a sua terra.  
-**13** Tendo eles partido, eis que um anjo do Senhor apareceu em sonhos a José, e lhe disse: "Levanta-te, toma o menino e sua mãe, foge para Egito, e fica lá até que eu te avise, porque Herodes vai procurar o menino para lhe tirar a vida."  
-**14** E ele, levantando-se de noite, tomou o menino e sua mãe, e retirou-se para o Egito.  
-**15** Lá esteve até à morte de Herodes, cumprindo-se deste modo o que tinha sido dito pelo Senhor por meio do profeta: Do Egito chamei o meu filho (Os. 11, 1).  
+**13** Tendo eles partido, eis que um anjo do Senhor apareceu em sonhos a José, e lhe disse: "Levanta-te, toma o menino e sua mãe, foge para Egipto, e fica lá até que eu te avise, porque Herodes vai procurar o menino para lhe tirar a vida."  
+**14** E ele, levantando-se de noite, tomou o menino e sua mãe, e retirou-se para o Egipto.  
+**15** Lá esteve até à morte de Herodes, cumprindo-se deste modo o que tinha sido dito pelo Senhor por meio do profeta: Do Egipto chamei o meu filho (Os. 11, 1).  
 **16** Então Herodes, vendo que tinha sido enganado pelos magos, irou-se em extremo, e mandou matar todos os meninos, que havia em Belém e em todos os seus arredores, da idade de dois anos para baixo, segundo a data que tinha averiguado dos magos.  
 **17** Então se cumpriu o que estava predito pelo profeta Jeremias (Je. 31, 15);  
 **18** Uma voz se ouviu em Ramá, pranto e grande lamentação: Raquel chorando os seus filhos, sem admitir consolação, porque já não existem.  
-**19** Morto Herodes, o anjo do Senhor apareceu em sonhos a José no Egito,  
+**19** Morto Herodes, o anjo do Senhor apareceu em sonhos a José no Egipto,  
 **20** e disse-lhe: "Levanta-te, toma o menino e sua mãe, e vai para terra de Israel, porque morreram os que procuravam (tirar) a vida do menino."  
 **21** Ele levantou-se, tomou o menino e sua mãe, e voltou para a terra de Israel.  
 **22** Mas, ouvindo dizer que Arquelau reinava na Judeia em lugar de seu pai Herodes, temeu ir para lá; e, avisado por Deus em sonhos, retirou-se para a região da Galileia,  
@@ -56,22 +56,22 @@
 
 ## Capítulo 3
 
-**1** Naqueles dias apareceu João Batista pregando no deserto da Judeia.  
+**1** Naqueles dias apareceu João Baptista pregando no deserto da Judeia.  
 **2** "Arrependei-vos, dizia, porque está próximo o reino dos céus."  
 **3** Porque este é aquele de quem falou o profeta Isaías, quando disse (Is. 40, 3): Voz do que clama no deserto: Preparai o caminho do Senhor, endireitai as suas veredas.  
 **4** Este mesmo João trazia um vestido feito de peles de camelo e um cinto de couro em volta dos rins; e o seu alimento era gafanhotos e mel silvestre.  
 **5** Então iam ter com ele Jerusalém e toda a Judeia e toda a região do Jordão;  
-**6** e eram batizados por ele no rio Jordão, confessando os seus pecados.  
-**7** Vendo um grande número de fariseus e saduceus que vinham ao seu batismo, disse-lhes: "Raça de víboras, quem vos ensinou a fugir à ira que vos ameaça?  
+**6** e eram baptizados por ele no rio Jordão, confessando os seus pecados.  
+**7** Vendo um grande número de fariseus e saduceus que vinham ao seu baptismo, disse-lhes: "Raça de víboras, quem vos ensinou a fugir à ira que vos ameaça?  
 **8** Produzi, pois, verdadeiros frutos de penitência,  
 **9** e não queirais dizer dentro de vós: Temos Abraão por pai! porque eu vos digo que Deus pode fazer destas pedras filhos de Abraão.  
 **10** O machado já está posto à raiz das árvores. Toda a árvore que não dá bom fruto, será cortada e lançada no fogo.  
-**11** Eu, na verdade, batizo-vos com água para (vos levar à) penitência, mas o que há-de vir depois de mim é mais poderoso do que eu, e eu não sou digno de lhe levar as sandálias; ele vos batizará no Espírito Santo e em fogo.  
+**11** Eu, na verdade, baptizo-vos com água para (vos levar à) penitência, mas o que há-de vir depois de mim é mais poderoso do que eu, e eu não sou digno de lhe levar as sandálias; ele vos baptizará no Espírito Santo e em fogo.  
 **12** Ele tem a pá na sua mão, e limpará bem a sua eira, e recolherá o seu trigo no celeiro, mas queimará a palha num fogo inextinguível."  
-**13** Então foi Jesus da Galileia ao Jordão e apresentou-se a João, para ser batizado por ele.  
-**14** Mas João opunha-se-lhe, dizendo: "Sou eu que devo ser batizado por ti, e tu vens a mim!"  
+**13** Então foi Jesus da Galileia ao Jordão e apresentou-se a João, para ser baptizado por ele.  
+**14** Mas João opunha-se-lhe, dizendo: "Sou eu que devo ser baptizado por ti, e tu vens a mim!"  
 **15** Jesus respondeu-lhe: "Deixa por agora, pois convém que cumpramos assim toda a justiça." Ele então concordou.  
-**16** Logo que foi batizado, Jesus saiu da água. E eis que se abriram os céus, e viu o Espírito de Deus descer como pomba, e vir sobre ele.  
+**16** Logo que foi baptizado, Jesus saiu da água. E eis que se abriram os céus, e viu o Espírito de Deus descer como pomba, e vir sobre ele.  
 **17** E eis (que se ouviu) uma voz do céu, que dizia: "Este é o meu Filho amado, no qual pus as minhas complacências."  
 
 ## Capítulo 4
@@ -149,8 +149,8 @@
 **43** Ouvistes que foi dito: Amarás o teu próximo (Lv. 19, 18) e aborrecerás o teu inimigo.  
 **44** Eu, porém, digo-vos: Amai os vossos inimigos, fazei bem aos que vos odeiam, e orai pelos que vos maltratam e vos perseguem.  
 **45** Deste modo sereis filhos do vosso Pai que está nos céus, o qual faz nascer o sol sobre maus e bons, e manda a chuva sobre os justos e injustos.  
-**46** Porque, se amais (somente) os que vos amara, que recompensa haveis de ter? Não fazem os publicanos também o mesmo?  
-**47** E se saudardes somente os vossos irmãos, que fazeis (nisso) de especial? Não fazem também assim os próprios gentios?  
+**46** Porque, se amais (sòmente) os que vos amara, que recompensa haveis de ter? Não fazem os publicanos também o mesmo?  
+**47** E se saudardes sòmente os vossos irmãos, que fazeis (nisso) de especial? Não fazem também assim os próprios gentios?  
 **48** Sede pois perfeitos, como vosso Pai celestial é perfeito.  
 
 ## Capítulo 6
@@ -281,7 +281,7 @@
 **18** Enquanto lhes dizia estas coisas, eis que um príncipe (da sinagoga) se aproxima e se prostra diante dele, dizendo: "Senhor, morreu agora minha filha; mas vem, põe a tua mão sobre ela, e viverá."  
 **19** Jesus, levantando-se, o seguiu com os seus discípulos.  
 **20** Eis que uma mulher, que, havia doze anos, padecia de um fluxo de sangue, se chegou por detrás dele, e tocou a fímbria do seu vestido.  
-**21** Dizia dentro de si: "Ainda que eu toque somente o seu vestido, serei curada."  
+**21** Dizia dentro de si: "Ainda que eu toque sòmente o seu vestido, serei curada."  
 **22** Voltando-se Jesus e, vendo-a, disse: 'Tem confiança, filha, a tua fé te salvou." E ficou sã a mulher desde aquele momento.  
 **23** Tendo Jesus chegado a casa do príncipe (da sinagoga) viu os tocadores de flauta e uma multidão de gente, que fazia muito barulho.  
 **24** "Retirai-vos, disse, porque a menina não está morta, mas dorme." E eles o escarneciam.  
@@ -351,14 +351,14 @@
 **2** E como João, estando no cárcere, tivesse ouvido falar das obras de Cristo, enviou dois de seus discípulos,  
 **3** a perguntar-lhe: "És tu aquele que há-de vir, ou devemos esperar outro?"  
 **4** Jesus respondeu-lhes: "Ide e contai a João o que ouvistes e vistes:  
-**5** Os cegos veem, os coxos andam, os leprosos são limpos, os surdos ouvem, os mortos ressuscitam, os pobres são evangelizados;  
+**5** Os cegos vêem, os coxos andam, os leprosos são limpos, os surdos ouvem, os mortos ressuscitam, os pobres são evangelizados;  
 **6** e bem-aventurado aquele que não encontrar em mim motivo de escândalo."  
 **7** Tendo eles partido, começou Jesus a falar de João às turbas: "Que fostes vós ver ao deserto? Uma cana agitada pelo vento?  
 **8** Mas que fostes ver? Um homem vestido de roupas delicadas? Mas os que vestem roupas delicadas vivem nos palácios dos reis.  
 **9** Mas que fostes ver? Um profeta? Sim, vos digo eu, e ainda mais do que profeta.  
 **10** Porque este é aquele de quem está escrito: Eis que eu envio o meu mensageiro adiante de ti, o qual te preparará o caminho diante de ti.  
-**11** Na verdade vos digo que entre os nascidos das mulheres não veio ao mundo outro maior que João Batista. Entretanto, o menor no reino dos céus é maior do que ele.  
-**12** Desde os dias de João Batista até agora, o reino dos céus adquire-se à força, e são os violentos que o arrebatam.  
+**11** Na verdade vos digo que entre os nascidos das mulheres não veio ao mundo outro maior que João Baptista. Entretanto, o menor no reino dos céus é maior do que ele.  
+**12** Desde os dias de João Baptista até agora, o reino dos céus adquire-se à força, e são os violentos que o arrebatam.  
 **13** Todos os profetas e a lei profetizaram até João.  
 **14** E, se vós quereis compreender, ele mesmo é o Elias que há-de vir.  
 **15** O que tem ouvidos para ouvir, ouça.  
@@ -445,10 +445,10 @@
 **10** Chegando-se a ele os discípulos, disseram-lhe: "Por que razão lhes falas por meio de parábolas?"  
 **11** Ele respondeu-lhes: "Porque a vós é concedido conhecer os mistérios do reino dos céus, mas a eles não lhes é concedido.  
 **12** Porque ao que tem lhe será dado (ainda mais), e terá em abundância, mas ao que não tem, até o que tem lhe será tirado.  
-**13** Por isso lhes falo em parábolas, porque vendo não veem, e ouvindo não ouvem nem entendem.  
+**13** Por isso lhes falo em parábolas, porque vendo não vêem, e ouvindo não ouvem nem entendem.  
 **14** E cumpre-se neles a profecia de Isaías (Is. 6, 9-10), que diz: Ouvireis com os ouvidos, e não entendereis; olhareis com os vossos olhos, e não vereis.  
 **15** Porque o coração deste povo tornou-se insensível, os- seus ouvidos tornaram-se duros, e fecharam os olhos, para não suceder que vejam com os olhos, e ouçam com os ouvidos, e entendam com o coração, e se convertam, e eu os sare.  
-**16** Ditosos, porém, os vossos olhos, porque veem, e os vossos ouvidos, porque ouvem.  
+**16** Ditosos, porém, os vossos olhos, porque vêem, e os vossos ouvidos, porque ouvem.  
 **17** Em verdade vos digo que muitos profetas e justos desejaram ver o que vedes, e não o viram, ouvir o que ouvis, e não o ouviram.  
 **18** Ouvi, pois, vós o que significa a parábola do semeador:  
 **19** Todo aquele que ouve a palavra do reino (do Evangelho), e não lhe presta atenção, vem o espírito maligno e arrebata o que foi semeado no seu coração; este é o que recebeu a semente ao longo da estrada.  
@@ -495,13 +495,13 @@
 ## Capítulo 14
 
 **1** Naquele tempo, o tetrarca Herodes ouviu falar da fama de Jesus,  
-**2** e disse aos seus cortesãos: "Este é João Batista, que ressuscitou dos mortos, e eis porque tantos milagres se operam por meio dele."  
+**2** e disse aos seus cortesãos: "Este é João Baptista, que ressuscitou dos mortos, e eis porque tantos milagres se operam por meio dele."  
 **3** Porque Herodes tinha mandado prender e ligar João, e tinha-o algemado e metido no cárcere, por causa de Herodíades, mulher de seu irmão Filipe.  
 **4** Porque João dizia-lhe: "Não te é licito tê-la por mulher."  
 **5** E, querendo matá-lo, teve medo do povo, porque este o considerava como um profeta.  
 **6** Mas, no dia natalício de Herodes, a filha de Herodíades bailou no meio dos convivas, e agradou a Herodes.  
 **7** Por isso ele prometeu-lhe com juramento dar-lhe tudo o que lhe pedisse.  
-**8** E ela, instigada por sua mãe: "Dá-me, disse, aqui num prato a cabeça de João Batista."  
+**8** E ela, instigada por sua mãe: "Dá-me, disse, aqui num prato a cabeça de João Baptista."  
 **9** O rei entristeceu-se, mas, por causa do juramento e dos comensais, mandou dar-lha.  
 **10** E mandou degolar João no cárcere.  
 **11** Foi trazida a sua cabeça num prato, e dada à moça, e ela levou-a a sua mãe.  
@@ -554,7 +554,7 @@
 **19** porque do coração saem os maus pensamentos, os homicídios, os adultérios, as fornicações, os furtos, os falsos testemunhos, as palavras injuriosas.  
 **20** Estas coisas são as que mancham o homem. O comer, porém, com as mãos por lavar não mancha o homem."  
 **21** Partindo dali, retirou-se Jesus para a região de Tiro e de Sidónia.  
-**22** E eis que uma Cananeia, que tinha saído daqueles arredores, gritou: "Senhor, Filho de David, tem piedade de mim! Minha filha está miseravelmente atormentada do demónio."  
+**22** E eis que uma Cananeia, que tinha saído daqueles arredores, gritou: "Senhor, Filho de David, tem piedade de mim! Minha filha está miseràvelmente atormentada do demónio."  
 **23** Ele, porém, não lhe respondeu palavra. Aproximando-se seus discípulos, pediram-lhe: "Despede-a, porque vem gritando atrás de nós."  
 **24** Ele respondeu: "Eu não fui enviado senão às ovelhas desgarradas da casa de Israel."  
 **25** Ela, porém, veio, prostrou-se diante dele, dizendo: "Senhor, valei-me."  
@@ -578,7 +578,7 @@
 **1** Foram ter com ele os fariseus e os saduceus, e, para o tentarem, pediram-lhe que lhes mostrasse algum prodígio do céu.  
 **2** Ele, porém, respondeu-lhes: "Vós, quando vai chegando a noite, dizeis: Haverá tempo sereno, porque o céu está vermelho.  
 **3** E de manhã: Hoje haverá tempestade, porque o céu mostra um avermelhado sombrio.  
-**4** Sabeis, pois, distinguir o aspeto do céu e não podeis conhecer os sinais dos tempos? Esta geração perversa e adúltera pede um prodígio, mas não lhe será dado outro prodígio, senão o prodígio do profeta Jonas." E, deixando-os, retirou-se.  
+**4** Sabeis, pois, distinguir o aspecto do céu e não podeis conhecer os sinais dos tempos? Esta geração perversa e adúltera pede um prodígio, mas não lhe será dado outro prodígio, senão o prodígio do profeta Jonas." E, deixando-os, retirou-se.  
 **5** Os seus discípulos, tendo passado à outra margem do lago, tinham-se esquecido de levar pão.  
 **6** Jesus disse-lhes: "Atenção! Guardai-vos do fermento dos fariseus e dos saduceus."  
 **7** Mas eles discorriam entre si, dizendo: "'É que não trouxemos pão."  
@@ -588,7 +588,7 @@
 **11** Porque não compreendeis que não foi a respeito do pão que eu vos disse: Guardai-vos do fermento dos fariseus e dos saduceus?  
 **12** Então compreenderam que não havia dito que se guardassem do fermento dos pães, mas da doutrina dos fariseus e dos saduceus."  
 **13** Tendo chegado à região de Cesareia de Filipe, Jesus interrogou os seus discípulos, dizendo: "Que dizem os homens que é o Filho do homem?"  
-**14** Eles responderam: "Uns dizem que é João Batista, outros que é Elias, outros que é Jeremias ou algum dos profetas."  
+**14** Eles responderam: "Uns dizem que é João Baptista, outros que é Elias, outros que é Jeremias ou algum dos profetas."  
 **15** Jesus disse-lhes: "E vós quem dizeis que eu sou?"  
 **16** Respondendo Simão Pedro, disse: "Tu és o Cristo, o Filho de Deus vivo."  
 **17** Respondendo Jesus, disse-lhe: "Bem-aventurado és, Simão Bar-Jona, porque não foi a carne e o sangue que te revelaram, mas meu Pai que está nos céus.  
@@ -610,15 +610,15 @@
 **2** e transfigurou-se diante deles. O seu rosto ficou refulgente como o sol, e as suas vestiduras tornaram-se luminosas de brancas que estavam.  
 **3** Eis que lhes apareceram Moisés e Elias, falando com ele.  
 **4** Pedro, tomando a palavra, disse a Jesus: "Senhor, bom é nós estarmos aqui; se queres, farei aqui três tabernáculos, um para ti, um para Moisés, e um para Elias."  
-**5** Estando ele ainda a falar, eis que uma nuvem resplandecente os envolveu; e saiu da nuvem uma voz que dizia: 'Este é o meu Filho dileto em quem pus toda a minha complacência; ouvi-o."  
+**5** Estando ele ainda a falar, eis que uma nuvem resplandecente os envolveu; e saiu da nuvem uma voz que dizia: 'Este é o meu Filho dilecto em quem pus toda a minha complacência; ouvi-o."  
 **6** Ouvindo isto, os discípulos caíram de bruços, e tiveram grande medo.  
 **7** Porém, Jesus, aproximou-se deles, tocou-os e disse-lhes: "Levantai-vos, não temais."  
-**8** Eles, então, levantando os olhos, não viram ninguém, exceto só Jesus.  
+**8** Eles, então, levantando os olhos, não viram ninguém, excepto só Jesus.  
 **9** Quando desciam do monte, Jesus fez-lhes a seguinte proibição: "Não digais a ninguém o que vistes, até que o Filho do homem ressuscite dos mortos."  
 **10** Os discípulos perguntaram-lhe: "Porque dizem, pois, os escribas que Elias deve vir primeiro?"  
 **11** Ele respondeu-lhes: "Elias certamente há-de vir (antes da minha segunda vinda), e restabelecerá todas as coisas.  
 **12** Digo-vos, porém, que Elias já veio, e não o reconheceram, antes fizeram dele o que quiseram. Assim também o Filho do homem há-de padecer às suas mãos. "  
-**13** Então os discípulos compreenderam que lhes tinha falado de João Batista.  
+**13** Então os discípulos compreenderam que lhes tinha falado de João Baptista.  
 **14** Tendo ido para junto do povo, aproximou-se dele um homem que se lançou de joelhos diante dele,  
 **15** dizendo: "Senhor, tem piedade de meu filho, porque é lunático e sofre muito; pois muitas vezes cai no fogo, e muitas na água.  
 **16** Apresentei-o a teus discípulos, e não o puderam curar."  
@@ -641,11 +641,11 @@
 **3** e disse: "Na verdade vos digo que, se vos não converterdes e vos não tornardes como meninos, não entrareis" no reino dos céus.  
 **4** Aquele, pois, que se fizer pequeno, como este menino, esse será o maior no reino dos céus.  
 **5** E o que receber em meu nome um menino como este, é a mim que recebe.  
-**6** Porém, o que escandalizar um destes pequeninos, que creem em mim, melhor lhe fora que se lhe pendurasse ao pescoço a mó de um moinho, e que o lançassem ao fundo do mar.  
+**6** Porém, o que escandalizar um destes pequeninos, que crêem em mim, melhor lhe fora que se lhe pendurasse ao pescoço a mó de um moinho, e que o lançassem ao fundo do mar.  
 **7** Ai do mundo por causa dos escândalos! Eles são inevitáveis, mas ai daquele homem por quem vem o escândalo!  
 **8** Por isso, se a tua mão ou o teu pé te escandaliza, corta-o e lança-o fora de ti; melhor te é entrar na vida com um pé ou mão a menos, do que, tendo duas mãos e dois pés, ser lançado no fogo eterno.  
 **9** E, se o teu olho te escandaliza, arranca-o e lança-o fora de ti; melhor te é entrar na vida com um só olho, do que, tendo dois, ser lançado no fogo da geena.  
-**10** Vede, não desprezeis um só destes pequeninos, pois vos declaro que os seus anjos nos céus veem incessantemente a face de meu Pai, que está nos céus.  
+**10** Vede, não desprezeis um só destes pequeninos, pois vos declaro que os seus anjos nos céus vêem incessantemente a face de meu Pai, que está nos céus.  
 **11** Porque o filho do homem veio salvar o que tinha perecido.  
 **12** Que vos parece? Se alguém tiver cem ovelhas, e uma delas se desgarrar, porventura não deixa as outras noventa e nove no monte, e vai em busca daquela que se desgarrou?  
 **13** E, se acontecer encontrá-la, digo-vos em verdade que se alegra mais por esta, do que pelas noventa e nove que não se desgarraram.  
@@ -684,7 +684,7 @@
 **8** Respondeu-lhes: "Porque Moisés, por causa da dureza do vosso coração, permitiu-vos repudiar vossas mulheres; mas no princípio não foi assim.  
 **9** Eu, pois, digo-vos que todo aquele que repudiar sua mulher, a não ser por causa de fornicação, e casar com outra, comete adultério; e o que se casar com uma repudiada, comete adultério."  
 **10** Disseram-lhe os discípulos: Se tal é a condição do homem a respeito de sua mulher, não convém casar.  
-**11** Ele respondeu-lhes: "Nem todos compreendem esta palavra, mas somente aqueles a quem foi concedido.  
+**11** Ele respondeu-lhes: "Nem todos compreendem esta palavra, mas sòmente aqueles a quem foi concedido.  
 **12** Porque há eunucos que nasceram assim do ventre de sua mãe; há eunucos a quem os homens fizeram tais; e há eunucos que a si mesmos se fizeram eunucos por amor do reino dos céus. Quem pode compreender isto, compreenda."  
 **13** Então lhe foram apresentados vários meninos para que lhes impusesse as mãos e orasse por eles. Mas os discípulos increpavam-nos.  
 **14** Jesus, porém, disse-lhes: "Deixai os meninos, e não os impeçais de vir a mim, porque deles é o reino dos céus."  
@@ -718,7 +718,7 @@
 **9** Tendo chegado os que tinham ido à hora undécima, recebeu cada um seu dinheiro.  
 **10** Chegando também os primeiros, julgaram que haviam de receber mais; porém, também eles receberam um dinheiro cada um.  
 **11** Mas, ao receberem, murmuravam contra o pai de família,  
-**12** dizendo: Estes últimos trabalharam somente uma hora, e os igualaste connosco, que suportamos o peso do dia e do calor.  
+**12** dizendo: Estes últimos trabalharam sòmente uma hora, e os igualaste connosco, que suportamos o peso do dia e do calor.  
 **13** Porém, ele, respondendo a um deles, disse: Amigo, eu não te faço injustiça. Não ajustaste tu comigo um dinheiro?  
 **14** Toma o que é teu, e vai-te. Eu quero dar também a este último tanto como a ti.  
 **15** Ou não me é lícito fazer dos meus bens o que quero? Porventura vês com maus olhos que eu sou bom?  
@@ -729,7 +729,7 @@
 **20** Então aproximou-se dele a mãe dos filhos de Zebedeu com seus filhos, prostrando-se, para lhe fazer um pedido.  
 **21** Ele disse-lhe: "Que queres?" Ela respondeu: "Ordena que estes meus dois filhos se sentem no teu reino, um à tua direita e outro à tua esquerda."  
 **22** Jesus disse: "Não sabeis o que pedis. Podeis vós beber o cálice que eu hei-de beber?" Eles responderam-lhe: "Podemos."  
-**23** Disse-lhes: "Efetivamente habeis de beber o meu cálice, mas, quanto a estardes sentados à minha direita ou à esquerda, não pertence a mim conceder-vo-lo; será para aqueles, para quem está reservado por meu Pai."  
+**23** Disse-lhes: "Efectivamente habeis de beber o meu cálice, mas, quanto a estardes sentados à minha direita ou à esquerda, não pertence a mim conceder-vo-lo; será para aqueles, para quem está reservado por meu Pai."  
 **24** Os outros dez, ouvindo isto, indignaram-se contra os dois irmãos.  
 **25** Mas Jesus chamou-os e disse-lhes: "Vós sabeis que os príncipes das nações as subjugam e que os grandes as governam com autoridade.  
 **26** Não será assim entre vós, mas todo o que quiser ser entre vós o maior, seja vosso servo,  
@@ -768,7 +768,7 @@
 **22** E tudo o que pedirdes com fé na oração o recebereis."  
 **23** Tendo ido ao templo, os príncipes dos sacerdotes e os anciãos do povo aproximaram-se dele, quando estava ensinando, e disseram-lhe: "Com que autoridade fazes estas coisas? E quem te deu tal direito? "  
 **24** Jesus respondeu-lhes: "Também eu vos farei uma pergunta: Se me responderdes, eu vos direi com que direito faço estas coisas.  
-**25** Donde era o batismo de João? Do céu ou dos homens?" Mas eles refletiam consigo:  
+**25** Donde era o baptismo de João? Do céu ou dos homens?" Mas eles reflectiam consigo:  
 **26** Se lhe dissermos que é do céu, ele dirá: Porque não crestes, pois, nele? Se lhe dissermos que é dos homens, tememos o povo. Porque todos tinham João como um profeta.  
 **27** Portanto, responderam a Jesus: "Não sabemos." Ele disse-lhes também: "Pois nem eu vos digo com que direito faço estas coisas."  
 **28** "Que vos parece? Um homem tinha dois filhos. Aproximando-se do primeiro, disse-lhe: Filho, vai trabalhar hoje na minha vinha.  
@@ -844,7 +844,7 @@
 
 **1** Então Jesus falou às turbas e aos seus discípulos,  
 **2** dizendo: "Sobre a cadeira de Moisés sentaram-se os escribas e os fariseus.  
-**3** Observai, pois, e fazei tudo o que eles vos disserem, mas não imiteis as suas ações, porque dizem e não fazem.  
+**3** Observai, pois, e fazei tudo o que eles vos disserem, mas não imiteis as suas acções, porque dizem e não fazem.  
 **4** Atam cargas pesadas e impossíveis de levar, e as põem sobre os ombros dos outros homens, mas nem com um dedo as querem mover.  
 **5** Fazem todas as suas obras para serem vistos pelos homens. Trazem mais largas filatérias, e mais compridas as franjas dos vestidos.  
 **6** Gostam de ter nos banquetes os primeiros lugares, nas sinagogas as primeiras cadeiras,  
@@ -1136,7 +1136,7 @@
 
 **1** Passado o sábado, ao amanhecer o primeiro dia da semana, foi Maria Madalena e a outra Maria visitar o sepulcro.  
 **2** Eis que se deu um grande terremoto. Porque um anjo do Senhor desceu do céu, e, aproximando-se, revolveu a pedra do sepulcro, e sentou-se sobre ela.  
-**3** O seu aspeto era como um relâmpago, e o seu vestido como a neve.  
+**3** O seu aspecto era como um relâmpago, e o seu vestido como a neve.  
 **4** Com o temor que tiveram dele, aterraram-se os guardas, e ficaram como mortos.  
 **5** Mas o anjo, tomando a palavra, disse às mulheres: "Vós não temais, porque sei que procurais a Jesus, que foi crucificado.  
 **6** Ele já aqui não está, ressuscitou como tinha dito. Vinde e vede o lugar, onde o Senhor esteve depositado.  
@@ -1152,7 +1152,7 @@
 **16** Os onze discípulos partiram para a Galileia, para o monte que Jesus lhes tinha indicado.  
 **17** Quando o viram, adoraram-no eles que a princípio tinham duvidado.  
 **18** Jesus, aproximando-se, falou-lhes assim: "Foi-me dado todo o poder no céu e na terra.  
-**19** Ide, pois, ensinai todas as gentes, batizando-as em nome do Pai, e do Filho, e do Espírito Santo,  
+**19** Ide, pois, ensinai todas as gentes, baptizando-as em nome do Pai, e do Filho, e do Espírito Santo,  
 **20** ensinando-as a observar todas as coisas que vos mandei. Eu estarei convosco todos os dias, até ao fim do mundo.
 
 ---

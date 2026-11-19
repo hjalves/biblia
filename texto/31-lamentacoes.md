@@ -114,7 +114,7 @@
 **60** RES. Viste todo o seu rancor, todas as suas maquinações contra mim.  
 **61** SIN. Ouviste senhor, os seus vitupérios todas as suas maquinações contra mim,  
 **62** SIN. os intentos dos meus adversários, o que tramam contra mim todo o dia.  
-**63** SIN. Observa-os, quando sentados ou quando de pé: eu sou o objeto das suas canções (burlescas).  
+**63** SIN. Observa-os, quando sentados ou quando de pé: eu sou o objecto das suas canções (burlescas).  
 **64** TAU. Tu, Senhor, lhes darás o pago, como merecem as obras das suas mãos.  
 **65** TAU. Dar-lhes-ás o endurecimento de coração; caia sobre eles a tua maldição.  
 **66** TAU. Tu os perseguirás com furor e exterminarás de debaixo dos céus, ó Senhor.  
@@ -127,7 +127,7 @@
 **4** DALET. A língua do menino de peito por causa da sede, ficou pegada ao seu paladar: os pequeninos pediram pão, e não havia quem lho repartisse.  
 **5** HÉ. Os que comiam manjares esquisitos, morreram (de fome) nos caminhos; os que tinham sido criados entre púrpuras, abraçaram o esterco.  
 **6** VAU. A iniquidade da filha do meu povo foi maior que o pecado de Sodoma, subvertida num momento, sem que mãos (humanas) se levantassem contra ela.  
-**7** ZAIN. Os seus príncipes eram mais brilhante que a neve, mais brancos que o leite; mais vermelho que o coral, era o seu corpo; o seu aspeto era duma safira.  
+**7** ZAIN. Os seus príncipes eram mais brilhante que a neve, mais brancos que o leite; mais vermelho que o coral, era o seu corpo; o seu aspecto era duma safira.  
 **8** HET. (Porém agora) o seu rosto está mais negro que os carvões; já não se reconhecem nas ruas; a sua pele pegou-se aos ossos, seca como lenha.  
 **9** TET. Foram mais felizes os mortos à espada que os mortos de fome, pois estes definham (lentamente), consumidos pela falta de frutos dos campos.  
 **10** JOD. Mulheres ternas cozinharam, com as suas mãos, os próprios filhos os quais lhes serviram de mantimento na ruína da filha do meu povo.  
@@ -151,7 +151,7 @@
 **3** Somos órfãos sem pai; nossas mães são como viúvas.  
 **4** A nossa água, por dinheiro a temos bebido; a nossa lenha, temo-la comprado. Com jugo ao pescoço, somos perseguidos; estamos esgotados, não temos descanso.  
 **5** .  
-**6** Estendemos a mão ao Egito e aos Assírios para nos saciarmos de pão.  
+**6** Estendemos a mão ao Egipto e aos Assírios para nos saciarmos de pão.  
 **7** Nossos pais pecaram; já não existem, e nós é que suportamos o castigo das suas iniquidades.  
 **8** Escravos dominaram-nos; ninguém nos livra da sua mão.  
 **9** Com perigo das nossas vidas íamos buscar pão diante da espada do deserto.  

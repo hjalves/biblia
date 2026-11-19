@@ -6,7 +6,7 @@
 **2** até ao dia em que, tendo dado as suas instruções por meio do Espírito Santo aos Apóstolos, que tinha escolhido, foi arrebatado ao céu;  
 **3** aos quais também se manifestou vivo, depois da sua Paixão, com muitas provas, aparecendo-lhes, durante quarenta dias, e falando do reino de Deus.  
 **4** Estando à mesa com eles, ordenou-lhes que não se afastassem de Jerusalém, mas que esperassem a promessa do Pai, "a qual ouvistes (disse ele) da minha boca;  
-**5** porque João, na verdade, batizou em água, mas vós sereis batizados no Espírito Santo, daqui a poucos dias."  
+**5** porque João, na verdade, baptizou em água, mas vós sereis baptizados no Espírito Santo, daqui a poucos dias."  
 **6** Então os que se tinham congregado, interrogavam-no: "Senhor, porventura chegou o tempo em que ides restabelecer o reino de Israel?"  
 **7** Ele disse-lhes: "Não vos pertence a vós saber os tempos nem os momentos que o Pai reservou ao seu poder;  
 **8** mas recebereis a virtude do Espírito Santo, que descerá sobre vós, e sereis minhas testemunhas em Jerusalém, em toda a Judeia, na Samaria e até às extremidades da terra."  
@@ -15,7 +15,7 @@
 **11** os quais lhes disseram: "Homens da Galileia, por que estais aí parados olhando para o céu? Esse Jesus que, separando-se de vós, foi arrebatado ao céu, virá do mesmo modo que o viste ir para o céu."  
 **12** Então voltaram para Jerusalém, do monte chamado das Oliveiras que dista de Jerusalém a jornada de um sábado.  
 **13** Logo que chegaram, subiram ao cenáculo, onde permaneciam habitualmente Pedro, João, Tiago, André, Filipe, Tomé, Bartolomeu, Mateus, Tiago, filho de Alfeu, Simão o Zelador, e Judas, irmão de Tiago.  
-**14** Todos estes perseveravam unanimemente em oração, com as mulheres e com Maria, Mãe de Jesus, e com os irmãos dele.  
+**14** Todos estes perseveravam unânimemente em oração, com as mulheres e com Maria, Mãe de Jesus, e com os irmãos dele.  
 **15** Naqueles dias, levantando-se Pedro no meio dos irmãos (o número das pessoas ali reunidas era de cerca cento e vinte), disse:  
 **16** "Irmãos, é necessário que se cumpra o que o Espírito Santo predisse na Escritura pela boca de David, acerca de Judas, que foi o guia daqueles que prenderam Jesus.  
 **17** Ele estava alistado entre nós e tinha recebido a sua parte no nosso ministério.  
@@ -23,7 +23,7 @@
 **19** Este facto tornou-se tão notório a todos os habitantes de Jerusalém, que se ficou chamando aquele campo, na língua deles, Haceldama, isto é, Campo de sangue.  
 **20** Com efeito, está escrito no livro dos Salmos: Fique deserta a sua morada, e não haja quem habite nela! E: Receba outro o seu ministério (Ps. 68, 26; Ps. 108, 8).  
 **21** É necessário, pois, que, destes varões que têm estado juntos connosco durante todo o tempo em que o Senhor Jesus viveu entre nós,  
-**22** desde o batismo de João até ao dia em que foi arrebatado (ao céu) dentre nós, um deles seja constituído testemunha connosco da sua ressurreição.  
+**22** desde o baptismo de João até ao dia em que foi arrebatado (ao céu) dentre nós, um deles seja constituído testemunha connosco da sua ressurreição.  
 **23** Foram apresentados dois: José, chamado Barsabas, o qual tinha por sobrenome o Justo, e Matias.  
 **24** E, orando, disseram: "Tu, Senhor, que conheces os corações de todos, mostra-nos destes dois o que escolheste  
 **25** para ocupar o lugar deste ministério e apostolado, do qual se transviou Judas para ir para o seu lugar."  
@@ -40,7 +40,7 @@
 **7** Estavam todos atónitos e admiravam-se, dizendo: "Porventura não são Galileus todos estes que falam?  
 **8** Como é que os ouvimos falar cada um de nós a nossa língua materna?  
 **9** Partos, Medos, Elamitas, os que habitam a Mesopotâmia, a Judeia, a Capadócia, o Ponto e a Ásia,  
-**10** a Frigia e a Panfília, o Egito e várias partes da Líbia, vizinhas de Cirene, e os vindos de Roma,  
+**10** a Frigia e a Panfília, o Egipto e várias partes da Líbia, vizinhas de Cirene, e os vindos de Roma,  
 **11** tanto Judeus como prosélitos, Cretenses e Árabes, todos os ouvimos falar nas nossas línguas das maravilhas de Deus."  
 **12** Estavam todos atónitos e fora de si, dizendo uns para os outros: "Que quer isto dizer?  
 **13** Outros, porém, escarnecendo, diziam: "Estão cheios de vinho doce."  
@@ -61,18 +61,18 @@
 **28** Ensinaste-me os caminhos da vida, e me encherás de alegria com a vista da tua face (Ps. 16, 8-11).  
 **29** Irmãos, seja-me permitido dizer-vos francamente do patriarca David, que ele morreu, foi sepultado, e o seu sepulcro está entre nós até ao dia de hoje.  
 **30** Sendo ele profeta e sabendo que Deus lhe tinha prometido com juramento que um da sua descendência se sentaria sobre o seu trono,  
-**31** profeticamente falou da ressurreição de Cristo, dizendo que não seria deixado na habitação dos mortos, nem a sua carne sujeita à corrupção.  
+**31** profèticamente falou da ressurreição de Cristo, dizendo que não seria deixado na habitação dos mortos, nem a sua carne sujeita à corrupção.  
 **32** A este Jesus ressuscitou Deus, do que todos nós somos testemunhas.  
 **33** Elevado pela dextra de Deus, e tendo recebido do Pai o Espírito Santo prometido, ele o derramou como vós vedes e ouvis.  
 **34** Porque David não subiu ao céu, mas ele mesmo diz: O Senhor disse ao meu Senhor: Senta-te à minha direita,  
 **35** até que eu ponha os teus inimigos por escabelo de teus pés (Ps. 109, 1).  
 **36** Saiba, pois, toda a casa de Israel com a maior certeza que Deus constituiu Senhor e Cristo a este Jesus, a quem vós crucificastes."  
 **37** Ao ouvir estas coisas, ficaram compungidos no seu coração e disseram a Pedro e aos outros Apóstolos: "Que devemos fazer irmãos?"  
-**38** Pedro disse-lhes: "Fazei penitência, e cada um de vós seja batizado, em nome de Jesus Cristo, para remissão de vossos pecados; e recebereis, então, dom do Espírito Santo.  
+**38** Pedro disse-lhes: "Fazei penitência, e cada um de vós seja baptizado, em nome de Jesus Cristo, para remissão de vossos pecados; e recebereis, então, dom do Espírito Santo.  
 **39** Porque a promessa é para vós, para os vossos filhos, para todos os que estão longe e para quantos o nosso Deus chamar (a si)."  
 **40** Com outras muitíssimas palavras, os persuadia e exortava, dizendo: "Salvai-vos desta geração perversa"  
-**41** Os que receberam a sua palavra foram batizados; e ficaram agregadas a eles, naquele dia, cerca de três mil pessoas.  
-**42** Perseveravam na doutrina dos Apóstolos, nas reuniões comuns, na fração do pão e nas orações.  
+**41** Os que receberam a sua palavra foram baptizados; e ficaram agregadas a eles, naquele dia, cerca de três mil pessoas.  
+**42** Perseveravam na doutrina dos Apóstolos, nas reuniões comuns, na fracção do pão e nas orações.  
 **43** Toda a gente estava com temor, porque eram também realizados pelos Apóstolos muitos prodígios e maravilhas.  
 **44** Todos os que criam, estavam unidos e punham tudo em comum.  
 **45** Vendiam as suas propriedades e os seus bens, e distribuíam o preço por todos, segundo as necessidades de cada um.  
@@ -134,7 +134,7 @@
 **22** Já tinha mais de quarenta anos o homem, em quem tinha sido operada aquela cura miraculosa.  
 **23** Postos em liberdade, foram ter com os seus, e referiram-lhes quanto lhes tinham dito os príncipes dos sacerdotes e os anciães.  
 **24** Eles, tendo-os ouvido, levantaram unânimes a voz a Deus e disseram: "Senhor, tu és o Deus que fizeste o céu, a terra, o mar e tudo o que há neles (Ps. 146, 6);  
-**25** que, mediante o Espírito Santo, pela boca do nosso pai David, teu servo, disseste: Por que se agitaram as gentes, e os povos fizeram vãos projetos?  
+**25** que, mediante o Espírito Santo, pela boca do nosso pai David, teu servo, disseste: Por que se agitaram as gentes, e os povos fizeram vãos projectos?  
 **26** Concertaram-se os reis da terra, e os príncipes se coligaram contra o Senhor e contra o seu Cristo (Ps. 2, 1-2).  
 **27** Porque verdadeiramente se coligaram nesta cidade contra o teu santo servidor Jesus, ao qual ungiste, Herodes e Pôncio Pilatos, com os gentios e com os povos de Israel,  
 **28** para executarem o que a tua mão e a tua sabedoria determinaram que se fizesse.  
@@ -161,7 +161,7 @@
 **9** Pedro então disse para ela: "Por que vos combinastes para tentar o Espírito do Senhor? Eis que estão à porta os pés daqueles que sepultaram teu marido, e te levarão a ti."  
 **10** Imediatamente, ela caiu a seus pés e expirou. Os jovens, entrando, encontraram-na morta, levaram-na e enterraram-na junto do seu marido.  
 **11** Então difundiu-se um grande temor por toda a Igreja, e entre todos os que ouviram estas coisas.  
-**12** Entretanto eram feitos pelas mãos dos Apóstolos muitos milagres e prodígios entre o povo. Reuniam-se todos unanimemente no pórtico de Salomão.  
+**12** Entretanto eram feitos pelas mãos dos Apóstolos muitos milagres e prodígios entre o povo. Reuniam-se todos unânimemente no pórtico de Salomão.  
 **13** E nenhum dos outros (que não eram cristãos) ousava juntar-se com eles; mas o povo dava-lhes grandes louvores.  
 **14** Cada vez aumentava mais o número dos homens e mulheres que criam no Senhor,  
 **15** de maneira que traziam os doentes para as ruas e punham-nos em leitos e enxergões, a fim de que, ao passar Pedro, cobrisse ao menos a sua sombra algum deles.  
@@ -221,16 +221,16 @@
 **6** Deus disse-lhe que a sua descendência seria peregrina em terra estranha, a reduziriam à escravidão, e a maltratariam pelo espaço de quatrocentos anos.  
 **7** Mas a nação, de quem tiver sido escrava, eu a julgarei, disse o Senhor, depois do que sairão e me adorarão neste lugar. (Gen. 16,13-14).  
 **8** E deu-lhe a aliança da circuncisão; e assim gerou Isaac e o circuncidou, passados oito dias. Isaac (gerou e circuncidou) Jacob, e Jacob os doze patriarcas.  
-**9** Os patriarcas, invejosos de José, venderam-no para ser levado ao Egito, mas Deus estava com ele.  
-**10** Livrou-o de todas as suas atribulações, deu-lhe graça e sabedoria diante de Faraó, rei do Egito, o qual o fez governador do Egito e de toda a sua casa.  
-**11** Veio depois a fome por toda a terra do Egito e de Canaan, e uma grande tribulação, e os nossos pais não achavam que comer.  
-**12** Tendo Jacob ouvido dizer que havia trigo no Egito, enviou (lá) nossos pais uma primeira vez;  
+**9** Os patriarcas, invejosos de José, venderam-no para ser levado ao Egipto, mas Deus estava com ele.  
+**10** Livrou-o de todas as suas atribulações, deu-lhe graça e sabedoria diante de Faraó, rei do Egipto, o qual o fez governador do Egipto e de toda a sua casa.  
+**11** Veio depois a fome por toda a terra do Egipto e de Canaan, e uma grande tribulação, e os nossos pais não achavam que comer.  
+**12** Tendo Jacob ouvido dizer que havia trigo no Egipto, enviou (lá) nossos pais uma primeira vez;  
 **13** na segunda, José foi reconhecido por seus irmãos, e foi descoberta ao Faraó a sua linhagem.  
 **14** José mandou chamar seu pai Jacob e toda a sua família que constava de setenta e cinco pessoas.  
-**15** Jacob desceu ao Egito, onde morreu com nossos pais.  
+**15** Jacob desceu ao Egipto, onde morreu com nossos pais.  
 **16** Foram trasladados para Siquiem e postos no sepulcro que Abraão tinha comprado à custa de dinheiro aos filhos de Hemor, em Siquem,  
-**17** Mas, aproximando-se o tempo do cumprimento da promessa que Deus tinha feito com juramento a Abraão, o povo cresceu e multiplicou-se no Egito,  
-**18** até que apareceu outro rei no Egito, que não tinha conhecimento de José.  
+**17** Mas, aproximando-se o tempo do cumprimento da promessa que Deus tinha feito com juramento a Abraão, o povo cresceu e multiplicou-se no Egipto,  
+**18** até que apareceu outro rei no Egipto, que não tinha conhecimento de José.  
 **19** Este, usando de astúcia contra a nossa raça, maltratou os nossos pais até ao ponto de os obrigar a expor seus filhos, para que não vivessem.  
 **20** Naquele tempo nasceu Moisés, que era agradável a Deus. Foi criado (ocultamente) durante três meses em casa de seu pai.  
 **21** Depois, quando foi exposto, a filha de Faraó recolheu-o e criou-o como seu filho.  
@@ -246,18 +246,18 @@
 **31** Vendo isto, Moisés admirou-se de tal aparição, e, aproximando-se para observar, ouviu a voz do Senhor, que lhe disse:  
 **32** Eu sou o Deus de teus pais, O Deus de Abraão, de Isaac e Jacob. Moisés, porém, aterrado, não ousava olhar.  
 **33** O Senhor disse-lhe: Tira os sapatos dos teus pés, porque o lugar, onde estás, é uma terra santa.  
-**34** Eu vi e considerei a aflição do meu povo, que reside no Egito, ouvi os seus gemidos e desci a livrá-lo. Vem, pois, agora, e enviar-te-ei ao Egito.  
+**34** Eu vi e considerei a aflição do meu povo, que reside no Egipto, ouvi os seus gemidos e desci a livrá-lo. Vem, pois, agora, e enviar-te-ei ao Egipto.  
 **35** A este Moisés, a quem renegaram, dizendo: Quem te constituiu chefe e juiz? a este enviou Deus como chefe e libertador, pela mão do anjo que lhe apareceu na sarça.  
-**36** Ele os fez sair, operando prodígios e milagres na terra do Egito, no mar Vermelho e no deserto, durante quarenta anos.  
+**36** Ele os fez sair, operando prodígios e milagres na terra do Egipto, no mar Vermelho e no deserto, durante quarenta anos.  
 **37** Este é aquele Moisés que disse aos filhos de Israel: Deus vos suscitará dentre vossos irmãos um profeta como eu (Dt. 18, 15).  
 **38** Este é o que esteve no meio da assembleia do povo no deserto com o Anjo, que lhe falava no monte Sinai, e com os nossos país, e o que recebeu palavras de vida, para no-las transmitir;  
-**39** ele, a quem nossos pais não quiseram obedecer, antes repeliram. Voltaram-se em seus corações para o Egito,  
-**40** dizendo a Aarão; Faze-nos deuses, que vão adiante de nós, porque esse Moisés,' que nos tirou da terra do Egito, não sabemos o que foi feito dele (Ex. 32,t-23).  
+**39** ele, a quem nossos pais não quiseram obedecer, antes repeliram. Voltaram-se em seus corações para o Egipto,  
+**40** dizendo a Aarão; Faze-nos deuses, que vão adiante de nós, porque esse Moisés,' que nos tirou da terra do Egipto, não sabemos o que foi feito dele (Ex. 32,t-23).  
 **41** Naqueles dias, fizeram um bezerro (de ouro) e ofereceram sacrifício ao ídolo, e alegravam-se das obras das suas mãos.  
 **42** Mas Deus afastou-se deles e abandonou-os ao culto da milícia do céu, como está escrito no livro dos profetas: Porventura oferecestes-me vós, casa de Israel, algumas vitimas e sacrifícios pelo espaço de quarenta anos no deserto?  
 **43** Transportastes a tenda de Moloch e o astro do vosso deus Renfa, figuras que fizestes para as adorar. Pois eu vos transportarei para além de Babilónia (Am. 5,25-27).  
 **44** O tabernáculo do testemunho esteve entre os nossos pais no deserto, segundo a ordem daquele que tinha prescrito a Moisés que o construísse segundo o modelo que tinha visto.  
-**45** Nossos pais, tendo-o recebido, levaram-no sob a direção de Josué, quando foram tomar posse da terra das nações, que Deus lançou de diante de nossos pais, até aos dias de David,  
+**45** Nossos pais, tendo-o recebido, levaram-no sob a direcção de Josué, quando foram tomar posse da terra das nações, que Deus lançou de diante de nossos pais, até aos dias de David,  
 **46** O qual achou graça diante de Deus, o pediu que lhe fosse permitido construir um tabernáculo para o Deus de Jacob.  
 **47** Todavia foi Salomão que lhe edificou uma casa.  
 **48** Porém o Altíssimo não habitava em templos feitos pela mão do homem, como diz o profeta;  
@@ -276,27 +276,27 @@
 
 ## Capítulo 8
 
-**1** Saulo aprovava a morte de Estêvão. Naquele dia levantou-se uma grande perseguição contra a Igreja que estava em Jerusalém, e todos se dispersaram pelas províncias da Judeia e da Samaria, exceto os Apóstolos.  
+**1** Saulo aprovava a morte de Estêvão. Naquele dia levantou-se uma grande perseguição contra a Igreja que estava em Jerusalém, e todos se dispersaram pelas províncias da Judeia e da Samaria, excepto os Apóstolos.  
 **2** Alguns homens piedosos sepultaram Estêvão e fizeram um grande pranto sobre ele.  
 **3** Saulo assolava a Igreja, entrando pelas casas, e, tirando com violência homens e mulheres, os fazia meter na prisão.  
 **4** Ora os que se tinham dispersado, iam de uma parte para outra, anunciando a palavra de Deus.  
 **5** Filipe, tendo chegado à cidade de Samaria, pregava aí Cristo.  
-**6** As multidões estavam unanimemente atentas ao que Filipe dizia, ouvindo-o e vendo os milagres que fazia.  
+**6** As multidões estavam unânimemente atentas ao que Filipe dizia, ouvindo-o e vendo os milagres que fazia.  
 **7** Com efeito, de muitos que tinham espíritos imundos, estes saíam dando grandes gritos. E muitos paralíticos e coxos foram curados.  
 **8** Pelo que houve grande alegria naquela cidade.  
 **9** Ora já se encontrava lá um homem, chamado Simão, que exercia a magia, assombrando os Samaritanos, dizendo que era um grande personagem;  
 **10** e todos lhe davam ouvidos, desde o menor até ao maior, dizendo: "Este homem é o poder de Deus que se chama grande."  
 **11** Aderiam a ele, porque, com as suas artes mágicas, os trazia seduzidos desde há muito tempo.  
-**12** Porém, depois que creram em Filipe, que lhes anunciava o reino de Deus e o nome de Jesus Cristo, iam-se batizando homens e mulheres.  
-**13** Creu também o mesmo Simão, e, tendo-se batizado, ligou-se a Filipe, deslumbrado pelos prodígios e grandes milagres que se faziam.  
+**12** Porém, depois que creram em Filipe, que lhes anunciava o reino de Deus e o nome de Jesus Cristo, iam-se baptizando homens e mulheres.  
+**13** Creu também o mesmo Simão, e, tendo-se baptizado, ligou-se a Filipe, deslumbrado pelos prodígios e grandes milagres que se faziam.  
 **14** Ora os apóstolos que estavam em Jerusalém, tendo ouvido dizer que a Samaria havia recebido a palavra de Deus, mandaram-lhes lá Pedro e João,  
 **15** os quais, tendo chegado, fizeram oração por eles, a fim de receberem o Espírito Santo,  
-**16** porque ele ainda não tinha descido sobre nenhum deles, mas somente tinham sido batizados em nome do Senhor Jesus.  
+**16** porque ele ainda não tinha descido sobre nenhum deles, mas sòmente tinham sido baptizados em nome do Senhor Jesus.  
 **17** Então Pedro e João impuseram-lhes as mãos, e eles receberam o Espírito Santo.  
 **18** Quando Simão viu que se dava o Espírito Santo por meio da imposição das mãos dos Apóstolos, ofereceu-lhes dinheiro,  
 **19** dizendo: "Dai-me também a mim esse poder, a fim de que todo aquele, a quem eu impuser as mãos, receba o Espírito Santo. Pedro, porém, disse-lhe:  
 **20** "O teu dinheiro pereça contigo, visto que julgaste que o dom de Deus se pode adquirir com dinheiro.  
-**21** Tu não tens parte nem gerência neste ministério, porque o teu coração não é reto diante de Deus.  
+**21** Tu não tens parte nem gerência neste ministério, porque o teu coração não é recto diante de Deus.  
 **22** Faze, pois, penitência desta tua maldade e roga a Deus que, se é possível, te seja perdoado este pensamento do teu coração.  
 **23** Porque eu vejo-te cheio de amargosíssimo fel e entre os laços da iniquidade."  
 **24** Simão respondeu: "Rogai por mim ao Senhor, para que não venha sobre mim nada do que acabais de dizer."  
@@ -311,9 +311,9 @@
 **33** Na sua humilhação foi consumado o seu julgamento. Quem poderá descrever a sua descendência? pois que a sua vida foi arrancada da terra (Is. 53, 7-8).  
 **34** O eunuco disse a Filipe: "Peço-te (que me digas) de quem disse isto o profeta? De si mesmo, ou de algum outro?"  
 **35** Abrindo Filipe a sua boca e principiando por esta (passagem da) Escritura, anunciou-lhe Jesus.  
-**36** Ora, continuando eles o seu caminho, encontraram água. O eunuco disse: "Eis água; que motivo me impede de ser batizado?"  
+**36** Ora, continuando eles o seu caminho, encontraram água. O eunuco disse: "Eis água; que motivo me impede de ser baptizado?"  
 **37** (Filipe disse: "Se crês de todo o coração, isso é possível." Ele respondeu: "Creio que Jesus Cristo é o Filho de Deus.")  
-**38** Mandou parar o carro, e desceram os dois à água, Filipe e o eunuco, e Filipe o batizou.  
+**38** Mandou parar o carro, e desceram os dois à água, Filipe e o eunuco, e Filipe o baptizou.  
 **39** Tendo saído da água, o Espírito Santo arrebatou Filipe, e o eunuco não o viu mais. E continuava alegremente o seu caminho.  
 **40** Filipe encontrou-se em Azoto.  
 
@@ -336,7 +336,7 @@
 **15** Mas o Senhor disse-lhe: "Vai, porque este é um instrumento escolhido por mim para levar o meu nome diante das gentes, dos reis e dos filhos de Israel.  
 **16** Mostrar-lhe-ei quanto deve sofrer pelo meu nome."  
 **17** Foi Ananias e entrou na casa, e, impondo-lhe as mãos, disse: "Irmão Saulo, o Senhor Jesus, que te apareceu no caminho por onde vinhas, enviou-me para que recuperes a vista e fiques cheio do Espírito Santo."  
-**18** Imediatamente, lhe caíram dos olhos umas como escamas, recuperou a vista, levantou-se e foi batizado.  
+**18** Imediatamente, lhe caíram dos olhos umas como escamas, recuperou a vista, levantou-se e foi baptizado.  
 **19** Depois que tomou alimento, recuperou as forças. Esteve alguns dias com os discípulos que se encontravam em Damasco.  
 **20** Imediatamente, começou a pregar nas sinagogas que Jesus era o Filho de Deus.  
 **21** Pasmavam todos os que ouviam e diziam: "Não é este aquele que perseguia em Jerusalém os que invocavam este nome, e não veio ele cá com o fim de os levar presos aos príncipes dos sacerdotes"  
@@ -375,12 +375,12 @@
 **8** e, tendo-lhes contado tudo isto, os enviou a Jope.  
 **9** No dia seguinte, indo eles em viagem e estando perto da cidade, subiu Pedro à parte superior da casa para fazer oração, cerca da hora sexta.  
 **10** Como tivesse fome, quis comer. Mas, enquanto lho preparavam, caiu em êxtase:  
-**11** viu o céu aberto, e descer um objeto, semelhante a um grande lençol, suspenso pelos quatro cantos, que baixava para a terra,  
+**11** viu o céu aberto, e descer um objecto, semelhante a um grande lençol, suspenso pelos quatro cantos, que baixava para a terra,  
 **12** no qual havia de todos os quadrúpedes, répteis da terra e aves do céu.  
 **13** Ouviu esta voz: "Levanta-te, Pedro, mata e come."  
 **14** Mas Pedro disse: "De nenhum modo. Senhor, porque nunca comi nada manchado ou impuro."  
 **15** Mas a voz tornou-lhe segunda vez a dizer: "Não chames impuro ao que Deus declarou puro."  
-**16** Isto repetiu-se três vezes, e logo o objeto foi retirado para o céu.  
+**16** Isto repetiu-se três vezes, e logo o objecto foi retirado para o céu.  
 **17** Enquanto Pedro estava incerto dentro de si sobre o que queria significar a visão que tinha tido, eis que os homens enviados por Cornélio, perguntando pela casa de Simão, chegaram à porta.  
 **18** Tendo chamado, perguntaram se estava ali hospedado Simão, que tinha por sobrenome Pedro.  
 **19** Estando Pedro a pensar na visão, disse-lhe o Espírito: "Eis três homens que te procuram.  
@@ -401,7 +401,7 @@
 **34** Então Pedro, tomando a palavra, disse: "Na verdade reconheço que Deus não faz aceção de pessoas,  
 **35** mas que, em qualquer nação, aquele que o teme e pratica a justiça, lhe é agradável.  
 **36** Deus enviou a sua palavra aos filhos de Israel, anunciando-lhes a boa nova da paz por meio de Jesus Cristo, que é o Senhor de todos.  
-**37** Sabeis o que aconteceu por toda a Judeia, começando pela Galileia, depois do batismo que João pregou:  
+**37** Sabeis o que aconteceu por toda a Judeia, começando pela Galileia, depois do baptismo que João pregou:  
 **38** Como Deus ungiu com o Espírito Santo e com poder a Jesus de Nazaré, o qual andou, de lugar em lugar, fazendo bem e sarando todos os oprimidos do demónio, porque Deus era com ele.  
 **39** Nós somos testemunhas de tudo o que ele fez no país dos Judeus e em Jerusalém; mas mataram-no, suspendendo-o num madeiro.  
 **40** Deus, porém, ressuscitou-o, ao terceiro dia, e fez que se manifestasse,  
@@ -411,8 +411,8 @@
 **44** Estando Pedro ainda proferindo estas palavras, desceu o Espírito Santo sobre todos os que ouviam a pregação.  
 **45** E os fiéis circuncisos, que tinham ido com Pedro, admiraram-se de ver que a graça do Espírito Santo foi também difundida sobre os gentios,  
 **46** porque os ouviam falar línguas e glorificar a Deus. Então Pedro disse:  
-**47** "Porventura pode alguém recusar a água do batismo àqueles que receberam o Espírito Santo como nós?"  
-**48** E mandou que fossem batizados em nome de Jesus Cristo. Então rogaram-lhe que ficasse alguns dias com eles.  
+**47** "Porventura pode alguém recusar a água do baptismo àqueles que receberam o Espírito Santo como nós?"  
+**48** E mandou que fossem baptizados em nome de Jesus Cristo. Então rogaram-lhe que ficasse alguns dias com eles.  
 
 ## Capítulo 11
 
@@ -420,7 +420,7 @@
 **2** Quando Pedro voltou a Jerusalém, os que eram da circuncisão disputavam com ele,  
 **3** dizendo: "Tu entraste em casa de homens não circuncidados e comeste com eles."  
 **4** Mas Pedro começou a expor-lhes as coisas por ordem, dizendo:  
-**5** "Eu estava orando na cidade de Jope, quando tive, em êxtase, esta visão: Descia uma espécie de objeto, como um grande lençol, o qual, suspenso pelas quatro pontas, baixava do céu, e veio até mim.  
+**5** "Eu estava orando na cidade de Jope, quando tive, em êxtase, esta visão: Descia uma espécie de objecto, como um grande lençol, o qual, suspenso pelas quatro pontas, baixava do céu, e veio até mim.  
 **6** Fixando eu os olhos nele, estava-o contemplando e vi (dentro) animais terrestres quadrúpedes, eras, répteis e aves do céu.  
 **7** Ouvi também uma voz que me dizia: Levanta-te, Pedro, mata e come.  
 **8** Eu disse: De nenhum modo, Senhor, porque nunca entrou na minha boca coisa manchada ou impura.  
@@ -431,7 +431,7 @@
 **13** Ele contou-nos como tinha visto na sua casa um anjo apresentar-se diante dele, dizendo: Manda a Jope chamar Simão, que tem por sobrenome Pedro,  
 **14** o qual te anunciará palavras, pelas quais serás salvo, tu e toda a tua casa.  
 **15** Tendo eu começado a falar, desceu o Espírito sobre eles, como (tinha descido) sobre nós no princípio.  
-**16** Lembrei-me então da palavra do Senhor, que ele havia proferido: João batizou em água, mas vós sereis batizados no Espírito Santo.  
+**16** Lembrei-me então da palavra do Senhor, que ele havia proferido: João baptizou em água, mas vós sereis baptizados no Espírito Santo.  
 **17** Se Deus, pois, lhes deu a mesma graça que a nós, por terem crido no Senhor Jesus Cristo, quem era eu, para que me pudesse opor a Deus?"  
 **18** Eles, tendo ouvido estas coisas, aquietaram-se e glorificaram a Deus, dizendo: "Logo Deus concedeu também aos gentios a penitência, a fim de que tenham a vida."  
 **19** Entretanto aqueles que tinham sido dispersos pela perseguição suscitada por causa de Estêvão, chegaram até à Fenicia, Chipre e Antioquia, não pregando a ninguém a palavra, senão só os Judeus.  
@@ -445,7 +445,7 @@
 **27** Naqueles dias, foram de Jerusalém a Antioquia uns profetas.  
 **28** Levantando-se um deles, chamado Agabo, fazia saber, por virtude do Espírito, que haveria uma grande fome por todo o mundo, a qual veio no tempo de Cláudio.  
 **29** Os discípulos, cada um segundo os seus meios, resolveram enviar algum socorro aos irmãos que habitavam na Judeia;  
-**30** o que eles efetivamente fizeram, enviando-o aos anciães, por mãos de Barnabé e de Saulo.  
+**30** o que eles efectivamente fizeram, enviando-o aos anciães, por mãos de Barnabé e de Saulo.  
 
 ## Capítulo 12
 
@@ -486,24 +486,24 @@
 **7** o qual vivia com o procônsul Sérgio Paulo, homem prudente. Este, tendo mandado chamar Barnabé e Saulo, mostrou desejos de ouvir a palavra de Deus.  
 **8** Mas Elimas, o mago (porque assim se interpreta o seu nome) se lhes opunha, procurando afastar da fé o procônsul.  
 **9** Porém Saulo, que também se chama Paulo, cheio do Espírito Santo, fixando nele os olhos,  
-**10** disse: "Ó (tu, que estás) cheio de todo o engano e de toda a astúcia, filho do demónio, inimigo de toda a justiça, não acabarás de perverter os caminhos retos do Senhor?  
+**10** disse: "Ó (tu, que estás) cheio de todo o engano e de toda a astúcia, filho do demónio, inimigo de toda a justiça, não acabarás de perverter os caminhos rectos do Senhor?  
 **11** Pois agora eis que a mão do Senhor está sobre ti, ficarás cego, sem ver o sol durante certo tempo." Caíram logo sobre ele a obscuridade e as trevas: andando à roda, buscava quem lhe desse a mão.  
 **12** Então o procônsul, vendo este facto, creu, maravilhado com a doutrina do Senhor.  
 **13** Tendo-se feito à vela de Pafos, Paulo e os que com ele se encontravam, chegaram a Perge da Panfilia, Aqui João, apartando-se deles, voltou a Jerusalém.  
 **14** Eles, porém, passando além de Perge, foram a Antioquia da Pisídia, e, tendo entrado na sinagoga em dia de sábado, tomaram assento.  
 **15** Depois da leitura da lei e dos profetas, os chefes da sinagoga mandaram-lhes dizer: "Irmãos, se tendes alguma exortação a fazer ao povo, falai."  
 **16** Então Paulo, levantando-se e fazendo com a mão sinal de silêncio, disse: "Varões israelitas, e vós que temeis a Deus, ouvi:  
-**17** O Deus deste povo de Israel escolheu nossos pais e exaltou este povo, enquanto eram estrangeiros na terra do Egito, de onde os tirou com o poder do seu braço.  
+**17** O Deus deste povo de Israel escolheu nossos pais e exaltou este povo, enquanto eram estrangeiros na terra do Egipto, de onde os tirou com o poder do seu braço.  
 **18** Alimentou-os no deserto, durante cerca de quarenta anos,  
 **19** e, destruindo sete nações na terra de Canaan, distribuiu entre eles o território delas  
 **20** e deu-lhas, em herança, por espaço de cerca de quatrocentos e cinquenta anos. Depois disso, deu-lhes juízes até ao profeta Samuel.  
 **21** Então pediram um rei, e Deus deu-lhes Saul, Filho de Cis, homem da tribo de Benjamim, por espaço de quarenta anos.  
 **22** Rejeitado este, suscitou-lhes como rei a David, ao qual, dando testemunho, disse: Achei David, filho de Jessé, homem segundo o meu coração, que fará todas as minhas vontades.  
 **23** Da descendência deste, Deus, segundo a sua promessa, suscitou um Salvador a Israel, Jesus,  
-**24** tendo João pregado, antes da sua vinda, o batismo da penitência a todo o povo de Israel.  
+**24** tendo João pregado, antes da sua vinda, o baptismo da penitência a todo o povo de Israel.  
 **25** João, chegando ao termo da sua missão, dizia: Eu não sou quem vós pensais, mas eis que, depois de mim, vem aquele, de quem não sou digno de desatar o calçado dos pés.  
 **26** Irmãos, filhos da descendência de Abraão, e os que entre vós temem a Deus, a nós é que foi enviada esta palavra de salvação.  
-**27** Efetivamente, os habitantes de Jerusalém e os seus chefes, não conhecendo Jesus nem as vozes dos profetas que cada sábado se leem, condenando-o, as cumpriram.  
+**27** Efectivamente, os habitantes de Jerusalém e os seus chefes, não conhecendo Jesus nem as vozes dos profetas que cada sábado se lêem, condenando-o, as cumpriram.  
 **28** Não encontrando nele nenhuma causa de morte, pediram a Pilatos para lhe tirar a vida.  
 **29** Depois, tendo consumado todas as coisas que estavam escritas, tirando-o do madeiro, o puseram no sepulcro.  
 **30** Deus, porém, ressuscitou-o dos mortos,  
@@ -616,11 +616,11 @@
 **8** Depois de terem atravessado a Mísia, desceram a Tróade.  
 **9** Durante a noite, Paulo teve uma visão: Apresentava-se diante dele, em pé, um homem da Macedónia, que lhe rogava: "Passa à Macedónia e ajuda-nos."  
 **10** Logo que teve esta visão, procuramos partir para a Macedónia, certificados de que Deus nos chamava a ir lá evangelizar.  
-**11** Tendo-nos, pois, feito à vela de Tróade, fomos em direção à Samotrácia, e, no dia seguinte, a Neápolis;  
+**11** Tendo-nos, pois, feito à vela de Tróade, fomos em direcção à Samotrácia, e, no dia seguinte, a Neápolis;  
 **12** daí a Filipos, que é uma colónia (romana) e principal cidade daquela parte da Macedónia. Nesta cidade nos detivemos alguns dias.  
 **13** No dia de sábado, saímos fora das portas, junto de uma ribeira, onde julgávamos haver um lugar de oração. Sentando-nos, falávamos às mulheres que tinham concorrido.  
 **14** Uma mulher, chamada Lidia, da cidade de Tiatira, que negociava em púrpura, temente a Deus, ouvia-nos. O Senhor abriu-lhe o coração, para atender àquelas coisas que Paulo dizia.  
-**15** Tendo sido batizada ela com sua família, fez este pedido: "Se julgais que sou fiel ao Senhor, entrai em minha casa e ficai nela." E forçou-nos a isso.  
+**15** Tendo sido baptizada ela com sua família, fez este pedido: "Se julgais que sou fiel ao Senhor, entrai em minha casa e ficai nela." E forçou-nos a isso.  
 **16** Aconteceu que, um dia, indo nós à oração, nos veio ao encontro uma jovem, que tinha um espírito pitónico, a qual com as suas advinhações dava muito lucro a seus amos.  
 **17** Ela, seguindo a Paulo e a nós, gritava, dizendo: "Estes homens são servos do Deus excelso, que vos anunciam o caminho da salvação."  
 **18** E fazia isto muitos dias. Paulo, porém, enfadado, tendo-se voltado (para ela), disse ao espírito: "Ordeno-te em nome de Jesus Cristo que saias dessa mulher" E ele, na mesma hora saiu.  
@@ -638,7 +638,7 @@
 **30** Depois, tirando-os para fora, disse: "Senhores, que é necessário que eu faça para me salvar?"  
 **31** Eles responderam: "Crê no Senhor Jesus, e serás salvo tu e a tua família."  
 **32** E pregaram a palavra do Senhor a ele e a todos os que estavam em sua casa.  
-**33** Então, tomando cuidado deles naquela mesma hora da noite, lavou-lhes as chagas, e, imediatamente foi batizado com toda a sua família.  
+**33** Então, tomando cuidado deles naquela mesma hora da noite, lavou-lhes as chagas, e, imediatamente foi baptizado com toda a sua família.  
 **34** Feito isto, levou-os a sua casa, pôs-lhes a mesa e alegrou-se com toda a sua família por ter crido em Deus.  
 **35** Quando foi dia, os magistrados mandaram os litores dizer ao carcereiro: "Põe esses homens em liberdade."  
 **36** O carcereiro levou esta nova a Paulo: "Os magistrados mandaram pôr-vos em liberdade. Agora, pois, saindo daqui, ide em paz."  
@@ -693,7 +693,7 @@
 **5** Quando Silas e Timóteo chegaram a Macedónia, Paulo aplicava-se assiduamente à palavra, dando testemunho aos Judeus de que Jesus era o Messias.  
 **6** Mas, como o contradissessem e o injuriassem, ele, sacudindo as suas vestes, disse-lhes: "O vosso sangue caia sobre a vossa cabeça; eu não tenho culpa; desde agora vou para os gentios"  
 **7** Saindo dali, entrou em casa de um chamado Tito Justo, temente a Deus, cuja casa estava contígua à sinagoga.  
-**8** Crispo, chefe da sinagoga, creu no Senhor com toda a sua família, e muitos dos coríntios, ouvindo-o, acreditavam e eram batizados.  
+**8** Crispo, chefe da sinagoga, creu no Senhor com toda a sua família, e muitos dos coríntios, ouvindo-o, acreditavam e eram baptizados.  
 **9** Uma noite, em uma visão, o Senhor disse a Paulo: "Não temas, fala, não te cales,  
 **10** porque eu sou contigo; e ninguém porá a mão sobre ti para te fazer mal, porque tenho muito povo nesta cidade."  
 **11** Demorou-se ali um ano e seis meses, ensinando entre eles a palavra de Deus.  
@@ -710,7 +710,7 @@
 **22** Desembarcando em Cesareia, subiu (a Jerusalém), aí saudou a Igreja, e foi em seguida a Antioquia.  
 **23** Tendo estado ali algum tempo, partiu, atravessando sucessivamente a terra da Galácia e a Frigia, fortalecendo todos os discípulos.  
 **24** Ora tinha chegado a Éfeso um judeu, chamado Apolo, natural de Alexandria, homem eloquente, versado nas Escrituras.  
-**25** Havia sido instruído no caminho do Senhor, falava com fervor de espírito e ensinava com exatidão o que dizia respeito a Jesus, embora conhecesse somente o batismo de João.  
+**25** Havia sido instruído no caminho do Senhor, falava com fervor de espírito e ensinava com exactidão o que dizia respeito a Jesus, embora conhecesse sòmente o baptismo de João.  
 **26** Começou a falar com liberdade na sinagoga. Quando Priscila e Áquila o ouviram, levaram-no consigo e expuseram-lhe mais minuciosamente o caminho do Senhor.  
 **27** Querendo ele ir a Acaia, os irmãos animaram-no a isso, e escreveram aos discípulos que o recebessem. Chegado lá, foi de muito proveito para os que tinham crido.  
 **28** Porque, com grande veemência, refutava publicamente os Judeus, mostrando pelas Escrituras que Jesus é o Messias.  
@@ -719,9 +719,9 @@
 
 **1** Ora aconteceu que, estando Apolo em Corinto, Paulo, depois de ter atravessado as províncias superiores (da Ásia), chegou a Éfeso, onde encontrou alguns discípulos.  
 **2** Disse-lhes: "Vós recebestes o Espírito Santo, quando abraçastes a fé? "Responderam-lhe: "Nem sequer ouvimos dizer que há Espírito Santo."  
-**3** Ele replicou: "Em que batismo, pois, fostes batizados?" Responderam: "No batismo de João."  
-**4** Então disse Paulo: "João batizou o povo com batismo de penitência, dizendo que cressem naquele que havia de vir depois dele, isto é, em Jesus."  
-**5** Ouvindo isto, foram batizados em nome do Senhor Jesus.  
+**3** Ele replicou: "Em que baptismo, pois, fostes baptizados?" Responderam: "No baptismo de João."  
+**4** Então disse Paulo: "João baptizou o povo com baptismo de penitência, dizendo que cressem naquele que havia de vir depois dele, isto é, em Jesus."  
+**5** Ouvindo isto, foram baptizados em nome do Senhor Jesus.  
 **6** E, tendo-lhes Paulo imposto as mãos, veio sobre eles o Espírito Santo, e falavam (diversas) línguas e profetizavam.  
 **7** Eram ao todo cerca de doze pessoas.  
 **8** Paulo, entrando na sinagoga, falou com liberdade durante três meses, disputando e persuadindo-os acerca do reino de Deus.  
@@ -737,7 +737,7 @@
 **18** Muitos dos que tinham crido, iam confessar e manifestar as suas obras.  
 **19** Muitos também daqueles que se tinham entregado à magia, trouxeram os seus livros e queimaram-nos diante de todos. Calculando o seu valor, acharam que montava a cinquenta mil moedas de prata.  
 **20** Deste modo crescia poderosamente e firmava-se a palavra de Deus.  
-**21** Concluídas estas coisas, Paulo concebeu o projeto de ir a Jerusalém, atravessando a Macedónia e a Acaia, dizendo: "Depois de ir lá, é necessário que veja também Roma."  
+**21** Concluídas estas coisas, Paulo concebeu o projecto de ir a Jerusalém, atravessando a Macedónia e a Acaia, dizendo: "Depois de ir lá, é necessário que veja também Roma."  
 **22** E, enviando à Macedónia dois dos que lhe assistiam, Timóteo e Erasto, demorou-se ainda algum tempo na Ásia.  
 **23** Neste tempo, surgiu um grande tumulto a propósito do caminho (do Senhor).  
 **24** Com efeito, um certo ourives de prata, chamado Demétrio, que fazia de prata uns pequenos templos de Ártemis, dava muito ganho aos (seus) artífices.  
@@ -766,7 +766,7 @@
 **4** Acompanharam-no Sopatro, filho de Pirro, de Bereia; Aristarco e Secundo, de Tessalonica; Gaio, de Derbe, e Timóteo; e dos asiáticos (acompanharam-no) Tíquito e Trofimo.  
 **5** Estes, tendo partido adiante, esperaram-nos em Tróade.  
 **6** Nós, depois dos dias dos ázimos, fizemo-nos à vela de Filipos, e, em cinco dias, fomos ter com eles a Tróade, onde nos demoramos sete dias.  
-**7** No primeiro dia da semana, tendo-nos reunido para a fração do pão, Paulo que devia partir no dia seguinte, falava com eles. Prolongou o discurso até à meia-noite.  
+**7** No primeiro dia da semana, tendo-nos reunido para a fracção do pão, Paulo que devia partir no dia seguinte, falava com eles. Prolongou o discurso até à meia-noite.  
 **8** Havia muitas lâmpadas na sala superior, onde estávamos reunidos.  
 **9** Ora um jovem, chamado Eutico, que estava sentado sobre o peitoril da janela, num profundo sono, enquanto Paulo ia prolongando o seu discurso; vencido pelo sono, caiu abaixo do terceiro andar da casa e foi levantado morto.  
 **10** Paulo, tendo descido, recostou-se sobre ele, tomou-o nos braços e disse: "Não vos perturbeis, porque ele ainda está vivo."  
@@ -801,7 +801,7 @@
 
 ## Capítulo 21
 
-**1** Tendo-nos feito à vela, depois que nos separámos deles, fomos diretamente a Cós; no dia seguinte, a Rodes, e dali a Pátara.  
+**1** Tendo-nos feito à vela, depois que nos separámos deles, fomos directamente a Cós; no dia seguinte, a Rodes, e dali a Pátara.  
 **2** Tendo encontrado um navio que passava pela Fenicia, embarcámos nele e fizemo-nos à vela.  
 **3** Chegados a vista de Chipre, deixando-a à esquerda, navegámos para a Síria e chegámos a Tiro, onde devia o navio deixar a sua carga.  
 **4** Tendo encontrado lá discípulos, detivemo-nos sete dias. Inspirados pelo Espírito Santo, diziam eles a Paulo que não subisse a Jerusalém.  
@@ -859,7 +859,7 @@
 **13** vindo ter comigo e pondo-se-me diante, disse-me: Saulo, irmão, recupera a vista. E eu, no mesmo instante, o vi a ele.  
 **14** Ele disse: O Deus de nossos pais te predestinou para que conhecesses a sua vontade, visses o Justo e ouvisses a voz da sua boca,  
 **15** porque tu serás sua testemunha, diante de todos os homens, das coisas que viste e ouviste.  
-**16** Agora que esperas tu? Levanta-te, recebe o batismo e lava os teus pecados, invocando o seu nome.  
+**16** Agora que esperas tu? Levanta-te, recebe o baptismo e lava os teus pecados, invocando o seu nome.  
 **17** Voltando eu a Jerusalém e orando no templo, fui arrebatado fora de mim  
 **18** e vi o Senhor que me dizia: Apressa-te e sai, o mais depressa possível, de Jerusalém, porque não receberão o testemunho que darás de mim.  
 **19** Eu disse: Senhor, eles sabem que era eu o que metia na prisão e açoutava pelas sinagogas os que criam em ti.  
@@ -873,7 +873,7 @@
 **27** Vindo o tribuno, disse-lhe: "Dize-me se és cidadão romano?" Ele respondeu: "Sim".  
 **28** O tribuno replicou: "A mim custou-me uma grande soma de dinheiro alcançar este foro de cidadão." Paulo disse: "Pois eu sou-o de nascimento."  
 **29** imediatamente afastaram-se dele os que o haviam de pôr a tormento. Também o tribuno teve medo, depois que soube que era cidadão romano, e porque o tinha mandado algemar.  
-**30** No dia seguinte, querendo saber com mais exatidão a causa que tinham os Judeus para o acusar, mandou soltá-lo e ordenou que se juntassem os chefes dos sacerdotes e todo o Sinédrio, e, trazendo Paulo, colocou-o diante deles.  
+**30** No dia seguinte, querendo saber com mais exactidão a causa que tinham os Judeus para o acusar, mandou soltá-lo e ordenou que se juntassem os chefes dos sacerdotes e todo o Sinédrio, e, trazendo Paulo, colocou-o diante deles.  
 
 ## Capítulo 23
 
@@ -881,7 +881,7 @@
 **2** Nisto Ananias, príncipe dos sacerdotes, ordenou aos que estavam junto dele que lhe batessem na boca.  
 **3** Então disse-lhe Paulo: "Deus te baterá a ti, parede branqueada. Tu estás sentado a julgar-me segundo a lei, e contra a lei ordenas que me batam?"  
 **4** Os assistentes disseram: "Tu injurias o sumo sacerdote de Deus!"  
-**5** Paulo respondeu: "Eu não sabia, irmãos, que é o príncipe dos sacerdotes. Efetivamente está escrito: Não dirás mal do príncipe do teu povo (Ex. 22,28)."  
+**5** Paulo respondeu: "Eu não sabia, irmãos, que é o príncipe dos sacerdotes. Efectivamente está escrito: Não dirás mal do príncipe do teu povo (Ex. 22,28)."  
 **6** Ora, sabendo Paulo que uma parte do Sinédrio era de saduceus e outra de fariseus, exclamou em alta voz, diante deles: "Irmãos, eu sou fariseu, filho de fariseus, e sou julgado por causa da esperança na ressurreição dos mortos."  
 **7** Quando disse isto, estabeleceu-se uma grande dissensão entre os fariseus e os saduceus, e dividiu-se a assembleia.  
 **8** Porque os saduceus dizem que não há ressurreição, nem anjo, nem espírito; ao passo que os fariseus reconhecem ambas as coisas.  
@@ -902,7 +902,7 @@
 **23** Chamando, então, dois centuriões, disse-lhes: "Tende prontos à hora terceira da noite duzentos soldados para que vão até Cesareia, e setenta cavaleiros e duzentos lanceiros.  
 **24** Aparelhai as cavalgaduras, para nelas fazer montar Paulo, a fim de o conduzir são e salvo ao presidente Félix."  
 **25** Redigiu uma carta nos seguintes termos:  
-**26** "Cláudio Lisias ao ótimo presidente Félix, saúde!  
+**26** "Cláudio Lisias ao óptimo presidente Félix, saúde!  
 **27** Este homem foi preso pelos Judeus, e estava prestes a ser morto por eles, mas, sobrevindo eu com os soldados, o livrei, tendo sabido que é cidadão romano.  
 **28** Querendo saber de que delito o acusavam, levei-o ao Sinédrio.  
 **29** Achei que era acusado por questões da lei deles, sem haver delito algum digno de morte ou prisão.  
@@ -917,7 +917,7 @@
 
 **1** Passados cinco dias, veio o príncipe dos sacerdotes, Ananias, com alguns anciães e com um certo Tertulo, advogado, os quais apresentaram ao governador a sua queixa contra Paulo.  
 **2** Citado Paulo, começou Tertulo a acusá-lo, dizendo: "Pela tua autoridade é que nós gozamos de muita paz, e pelas tuas providências se têm reformado muitas coisas;  
-**3** nós o reconhecemos sempre e em todo o lugar, ótimo Félix, com toda a gratidão.  
+**3** nós o reconhecemos sempre e em todo o lugar, óptimo Félix, com toda a gratidão.  
 **4** Mas, para não te deter muito tempo, rogo-te que nos ouças um momento com a tua costumada bondade.  
 **5** Encontramos este homem pestífero que excita sedições entre todos os Judeus em todo o mundo, que é cabeça da seita dos nazarenos  
 **6** e que tentou até profanar o templo, de maneira que o prendemos.  
@@ -925,7 +925,7 @@
 **8** ordenando que os seus acusadores viessem comparecer diante de ti.) Tu mesmo poderás, interrogando-o, tomar conhecimento de todas estas coisas, de que o acusamos."  
 **9** Também os Judeus confirmaram que as coisas eram assim.  
 **10** Paulo, tendo-lhe o presidente feito sinal que falasse, respondeu: "Sabendo que governas esta nação há muitos anos, de bom grado responderei por mim.  
-**11** Podes certificar-te facilmente que não há mais de doze dias que cheguei a Jerusalém para fazer a minha adoração.  
+**11** Podes certificar-te fàcilmente que não há mais de doze dias que cheguei a Jerusalém para fazer a minha adoração.  
 **12** Não me encontraram no templo disputando com alguém, nem fazendo concurso de povo nas sinagogas ou na cidade.  
 **13** Não te podem provar as coisas de que agora me acusam.  
 **14** Eu, porém, confesso-te que, segundo aquele caminho (doutrina) que eles chamam heresia, sirvo o Deus de nossos pais, crendo todas as coisas que estão escritas na lei e nos profetas,  
@@ -999,11 +999,11 @@
 **22** Mas, graças ao socorro de Deus, que até ao dia de hoje me não faltou, contínuo a dar testemunho a pequenos e a grandes, não dizendo outras coisas fora daquelas que anunciaram os profetas e Moisés que haviam de acontecer,  
 **23** que o Cristo havia de padecer, que seria o primeiro a ressuscitar dos mortos e que anunciaria a luz a este povo e aos gentios."  
 **24** Dizendo ele estas coisas em sua defesa, disse Festo em alta voz: "Estás louco, Paulo; o muito saber desorienta o teu espírito."  
-**25** Paulo respondeu: "Eu não estou louco, ó ótimo Festo, mas digo palavras de verdade e de sabedoria.  
+**25** Paulo respondeu: "Eu não estou louco, ó óptimo Festo, mas digo palavras de verdade e de sabedoria.  
 **26** Destas coisas tem conhecimento o rei, a quem falo com toda a liberdade, pois creio que nada disto lhe é desconhecido, porque nenhuma destas coisas se passou a um canto.  
 **27** Crês, ó rei Agripa, nos profetas? Eu sei que crês."  
 **28** Então Agripa disse a Paulo: "Por pouco me não persuades a fazer-me cristão."  
-**29** Paulo disse-lhe: "Prouvera a Deus que, por pouco ou por muito, não somente tu, mas também todos quantos me ouvem, se fizessem hoje tais como eu sou, menos estes grilhões.  
+**29** Paulo disse-lhe: "Prouvera a Deus que, por pouco ou por muito, não sòmente tu, mas também todos quantos me ouvem, se fizessem hoje tais como eu sou, menos estes grilhões.  
 **30** Então levantou-se o rei, o governador e Berenice e os que estavam sentados com eles.  
 **31** Tendo-se retirado à parte diziam entre si: "Este homem não fez coisa que seja digna de morte nem de prisão."  
 **32** E Agripa disse a Festo. "Ele podia ser solto, se não tivesse apelado para César."  
@@ -1012,14 +1012,14 @@
 
 **1** Depois que foi decidido que seguíssemos por mar para a Itália, confiaram Paulo e outros presos a um centurião da coorte Augusta, chamado Júlio,  
 **2** Embarcámos num navio de Adramíteo, que devia fazer cabotagem ao longo dos litorais da Ásia, e levantámos ferro em companhia de Aristarco, macedónio de Tessalonica.  
-**3** No dia seguinte chegámos a Sidónia. Júlio, tratando benevolamente Paulo, permitiu-lhe ir ter com os amigos e receber os seus cuidados.  
+**3** No dia seguinte chegámos a Sidónia. Júlio, tratando benèvolamente Paulo, permitiu-lhe ir ter com os amigos e receber os seus cuidados.  
 **4** Feitos dali à vela costeamos (a ilha de) Chipre, por nos serem contrários os ventos.  
 **5** Depois, tendo atravessado o mar da Cilícia e da Panfília, chegámos a Mira da Lícia.  
 **6** Aí, tendo o centurião encontrado um navio de Alexandria, que navegava para Itália, fez-nos embarcar nele.  
 **7** Durante muitos dias, navegando lentamente e tendo com dificuldade chegado à vista de Gnido, porque o vento nos impedia, fomos costeando a ilha de Creta, junto a Salmone,  
 **8** e, navegando com dificuldade ao longo da costa, chegámos a um lugar, a que chamam Bons-Portos, perto do qual estava a cidade de Lasaia.  
 **9** Decorrido muito tempo, não sendo segura a navegação, por ter já passado a época do jejum, Paulo advertia-os,  
-**10** dizendo-lhes: "Amigos, vejo que a navegação começa a ser perigosa e com muito dano, não somente da carga e do navio, mas também das nossas vidas."  
+**10** dizendo-lhes: "Amigos, vejo que a navegação começa a ser perigosa e com muito dano, não sòmente da carga e do navio, mas também das nossas vidas."  
 **11** Porém o centurião dava mais crédito ao piloto e ao comandante, do que ao que Paulo dizia.  
 **12** E, como o porto não era bom para invernar, a maior parte foi de parecer que se passasse adiante, a ver se dalguma sorte podiam atingir Fenice, porto de Creta, abrigado dos ventos de sudoeste e noroeste, e invernar ali.  
 **13** Começando a ventar brandamente do sul, julgando-se certos de executar o seu desejo, depois de levantarem âncora iam costeando mais de perto Creta.  
@@ -1031,7 +1031,7 @@
 **19** Ao terceiro dia lançaram ao mar com as suas próprias mãos os aparelhos do navio.  
 **20** Não aparecendo durante muitos dias sol nem estrelas e continuando a tempestade com violência, tínhamos já perdida toda a esperança de salvação.  
 **21** Estando todos há muito tempo sem comer, Paulo, em pé no meio deles, disse: "Convinha, meus amigos seguindo o meu conselho, não ter saído de Creta e evitar este perigo e dano.  
-**22** Mas agora exorto-vos a que tenhais coragem, porque nenhum de vós perderá a vida, mas somente o navio será destruído.  
+**22** Mas agora exorto-vos a que tenhais coragem, porque nenhum de vós perderá a vida, mas sòmente o navio será destruído.  
 **23** Porque esta noite apareceu-me o anjo daquele Deus de quem eu sou, e a quem sirvo,  
 **24** dizendo: Não temas, Paulo, é preciso que compareças diante de César; e eis que Deus te concedeu a vida de todos os que navegam contigo.  
 **25** Por isso, meus amigos, coragem, porque tenho fé em Deus de que assim acontecerá, como me foi dito.  

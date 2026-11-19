@@ -81,7 +81,7 @@
 **21** Disse Betsabé: Dê-se Abisag Sunamita por mulher a Adonias, teu irmão.  
 **22** E o rei Salomão respondeu, e disse à sua mãe: Por que pedes tu Abisag Sunamita para Adonias? Pede também para ele o reino, porque ele é meu irmão mais velho, e tem por si o pontífice Abiatar, e Joab, filho de Sarvia.  
 **23** Jurou então o rei Salomão pelo Senhor, dizendo: Deus me trate com todo o seu rigor, se não é verdade que Adonias por esta palavra falou contra a sua própria vida.  
-**24** Juro pelo Senhor, que me estabeleceu solidamente no trono de Davide, meu pai, e que fundou a minha casa como tinha dito, que Adonias será hoje morto.  
+**24** Juro pelo Senhor, que me estabeleceu sòlidamente no trono de Davide, meu pai, e que fundou a minha casa como tinha dito, que Adonias será hoje morto.  
 **25** E o rei Salomão deu ordem a Banaias, filho de Jojada, para o matar. Assim morreu (Adonias).  
 **26** Disse também o rei ao pontífice Abiatar: Vai para Anatot, para as tuas terras: na verdade és digno de morte, mas eu não te matarei hoje, porque levaste a arca do Senhor Deus diante de meu pai Davide, e acompanhaste meu pai em todos os trabalhos que padeceu.  
 **27** Salomão desterrou Abiatar, para não ser mais pontífice do Senhor, a fim de se cumprir a palavra que o Senhor tinha proferido em Silo, contra a casa de Helí.  
@@ -107,12 +107,12 @@
 
 ## Capítulo 3
 
-**1** Confirmou-se o reino na mão de Salomão, que se aparentou com Faraó, rei do Egito, porque casou com uma sua filha. Levou a para a cidade de Davide, até que acabasse de edificar a sua casa e a do Senhor, e o muro à roda de Jerusalém  
+**1** Confirmou-se o reino na mão de Salomão, que se aparentou com Faraó, rei do Egipto, porque casou com uma sua filha. Levou a para a cidade de Davide, até que acabasse de edificar a sua casa e a do Senhor, e o muro à roda de Jerusalém  
 **2** Entretanto o povo imolava nos lugares altos, porque até àquele dia não tinha ainda sido edificado templo ao nome do Senhor.  
-**3** Ora Salomão amava o Senhor, conduzindo-se segundo os preceitos de Davide, seu pai; somente sacrificava e queimava incenso nos lugares altos.  
+**3** Ora Salomão amava o Senhor, conduzindo-se segundo os preceitos de Davide, seu pai; sòmente sacrificava e queimava incenso nos lugares altos.  
 **4** Foi Salomão, pois, a Gabaon, para lá sacrificar, porque este era o mais considerável entre todos os lugares altos, e ofereceu mil holocaustos sobre aquele altar de Gabaon.  
 **5** Apareceu o Senhor a Salomão, em sonhos, de noite, dizendo: Pede-me o que quiseres que eu te dê.  
-**6** Salomão disse: Tu usaste de grande misericórdia com meu pai Davide, teu servo, segundo a verdade e justiça com que ele andou na tua presença, segundo a retidão de coração para contigo; tu conservaste para com ele a tua grande misericórdia, dando-lhe um filho que se sentasse sobre o seu trono, como hoje se verifica.  
+**6** Salomão disse: Tu usaste de grande misericórdia com meu pai Davide, teu servo, segundo a verdade e justiça com que ele andou na tua presença, segundo a rectidão de coração para contigo; tu conservaste para com ele a tua grande misericórdia, dando-lhe um filho que se sentasse sobre o seu trono, como hoje se verifica.  
 **7** Portanto, ó Senhor Deus, foste tu que me fizeste reinar a mim, teu servo, em lugar de Davide, meu pai; mas eu sou (como) um menino, que não se sabe ainda dirigir.  
 **8** O teu servo está no meio do povo que tu escolheste, povo infinito, que não pode contar-se nem reduzir-se a número, pela sua multidão.  
 **9** Tu, pois, concede ao teu servo um coração inteligente, para poder julgar o teu povo e discernir entre o bem e o mal; sem isto, com efeito, quem poderá julgar um povo tão numeroso?  
@@ -158,8 +158,8 @@
 **18** Semei, filho de Ela, em Benjamim;  
 **19** Gaber, filho de Uri, na província de Galaad, pátria de Seon, rei dos Amorreus, e de Og, rei de Basan. (Para toda esta região havia um só intendente).  
 **20** Judá e Israel eram, pela multidão, inumeráveis como a areia do mar; comiam, bebiam, e se alegravam.  
-**21** Salomão tinha sob o seu domínio todos os reinos, desde o rio do país dos Filisteus até à fronteira do Egito; todos lhe pagavam tributo e lhe estiveram sujeitos durante todos os dias da sua vida.  
-**22** A casa de Salomão consumia, diariamente, trinta coros de flor de farinha, sessenta coros de farinha ordinária,  
+**21** Salomão tinha sob o seu domínio todos os reinos, desde o rio do país dos Filisteus até à fronteira do Egipto; todos lhe pagavam tributo e lhe estiveram sujeitos durante todos os dias da sua vida.  
+**22** A casa de Salomão consumia, diàriamente, trinta coros de flor de farinha, sessenta coros de farinha ordinária,  
 **23** dez bois cevados e vinte de pasto, cem carneiros, além da caça de veados, corças, bois monteses, e de aves cevadas.  
 **24** Ele era senhor de todo o país que estava da outra banda do rio, desde Tapsa até Gaza, e de todos os reis daquelas regiões, e, por toda a parte, tinha paz com os vizinhos.  
 **25** Judá e Israel viviam sem temor algum, cada qual debaixo da sua parreira, e debaixo da sua figueira, desde Dan até Bersabé, durante todo o tempo que Salomão reinou.  
@@ -196,7 +196,7 @@
 
 ## Capítulo 6
 
-**1** Sucedeu, pois, que, aos quatrocentos e oitenta anos de saída dos filhos de Israel da terra do Egito, no quarto ano do reinado de Salomão, no mês de Zio, (que é o segundo mês do ano) se começou a edificar a casa do Senhor.  
+**1** Sucedeu, pois, que, aos quatrocentos e oitenta anos de saída dos filhos de Israel da terra do Egipto, no quarto ano do reinado de Salomão, no mês de Zio, (que é o segundo mês do ano) se começou a edificar a casa do Senhor.  
 **2** A casa que Salomão edificou em honra do Senhor, tinha setenta côvados de comprido, vinte de largo, e trinta de alto.  
 **3** Havia um pórtico diante do templo, de vinte côvados de comprido, segundo a medida da largura do templo, e de dez côvados de largo diante da face do templo.  
 **4** E fez no templo janelas com grades de madeira.  
@@ -204,13 +204,13 @@
 **6** O andar inferior tinha cinco côvados de largo, o andar do meio seis côvados de largo, e o terceiro andar sete côvados de largo. Pôs as traves ao redor da casa pela parte de fora, de tal modo que não ficassem metidas nas paredes do templo.  
 **7** Na construção do templo, apenas se empregaram pedras lavradas na pedreira, de modo que não se ouviu martelo nem cinzel nem instrumento algum de ferro, enquanto ela se edificava.  
 **8** A porta do lado do meio estava na parte direita da casa. Subia-se por uma escada em caracol ao andar do meio, e deste ao terceiro.  
-**9** Depois de concluído o edifício, forrou as paredes interiores de tábuas de cedro, desde o pavimento ao teto.  
+**9** Depois de concluído o edifício, forrou as paredes interiores de tábuas de cedro, desde o pavimento ao tecto.  
 **10** Construiu quartos de madeira em redor de todo o edifício, de cinco côvados de altura, ligados ao edifício por traves de cedro.  
 **11** O Senhor falou a Salomão assim:  
 **12** (Em atenção a) esta casa, que tu edificas, (se andares nos meus preceitos, executares as minhas ordens e guardares todos os meus mandamentos, caminhando por eles) eu cumprirei, relativamente a ti, as palavras que disse a Davide, teu pai.  
 **13** Habitarei no meio dos filhos de Israel, e não desampararei o meu povo de Israel.  
 **14** Salomão terminou a construção do templo.  
-**15** Guarneceu as paredes do edifício pelo interior, de tábuas de cedro, desde o pavimento até ao mais alto das paredes, até ao teto; revestiu-as por dentro com madeira de cedro, e cobriu o pavimento da casa com tábuas de cipreste.  
+**15** Guarneceu as paredes do edifício pelo interior, de tábuas de cedro, desde o pavimento até ao mais alto das paredes, até ao tecto; revestiu-as por dentro com madeira de cedro, e cobriu o pavimento da casa com tábuas de cipreste.  
 **16** Revestiu com tábuas de cedro os vinte côvados a partir do fundo do templo, desde o pavimento até ao mais alto, e destinou-o para a casa interna do santuário ou Santo dos Santos.  
 **17** O templo, desde a porta do santuário, tinha quarenta côvados,  
 **18** e todo o edifício, no interior, estava forrado de cedro, tendo suas entalhaduras e junturas feitas com grande arte, e entalhes de relevo; tudo estava coberto de tábuas de cedro; não se descobria coisa alguma de pedra na parede.  
@@ -239,12 +239,12 @@
 
 **1** Quanto à sua casa Salomão edificou-a e completou-a dentro do espaço de treze anos.  
 **2** Edificou a Casa do Bosque do Líbano, que tinha cem côvados de comprido, cinquenta côvados de largo, e trinta côvados de alto, sobre quatro filas de colunas de cedro, porque ele tinha mandado cortar paus de cedro para estas colunas.  
-**3** Forrou de madeira de cedro todo o teto, que se sustentava em quarenta e cinco colunas. Cada ordem tinha quinze colunas,  
+**3** Forrou de madeira de cedro todo o tecto, que se sustentava em quarenta e cinco colunas. Cada ordem tinha quinze colunas,  
 **4** postas umas em frente das outras,  
 **5** e as colunas correspondiam-se em frente umas das outras, a igual distância entre si, e sobre as colunas havia umas vigas quadradas inteiramente iguais.  
 **6** Fez um pórtico de colunas, que tinha cinquenta côvados de comprido e trinta côvados de largo, e um outro pórtico em frente do pórtico maior, com colunas e arquitraves sobre as colunas.  
-**7** Fez também o pórtico do trono, onde estava o tribunal, e forrou-o de madeiras de cedro desde o pavimento até ao teto.  
-**8** A sua residência, construída no outro átrio, dentro do pórtico, era de trabalho semelhante. Fez também para a filha de Faraó (com a qual se tinha casado) uma casa da mesma arquitetura que este pórtico.  
+**7** Fez também o pórtico do trono, onde estava o tribunal, e forrou-o de madeiras de cedro desde o pavimento até ao tecto.  
+**8** A sua residência, construída no outro átrio, dentro do pórtico, era de trabalho semelhante. Fez também para a filha de Faraó (com a qual se tinha casado) uma casa da mesma arquitectura que este pórtico.  
 **9** Todos estes edifícios, desde os fundamentos até ao cimo das paredes, e por fora até ao átrio maior, eram de pedras valiosas, que tinham sido serradas de uma mesma forma e medida, tanto por dentro como por fora.  
 **10** Os fundamentos eram também de pedras valiosas, pedras grandes de dez ou de oito côvados.  
 **11** Dali para cima havia pedras de muito valor, cortadas em Igual medida, e cobertas também de cedro.  
@@ -299,19 +299,19 @@
 **6** Os sacerdotes puseram a arca da aliança do Senhor no seu lugar, no santuário do templo, no Santo dos Santos, debaixo das asas dos querubins.  
 **7** Os querubins tinham as asas estendidas sobre o lugar da arca, e cobriam por cima a arca e os seus varais.  
 **8** Os varais (foram feitos de maneira que) sobressaíam, deixando ver os seus cabos do lugar santo, diante do santuário, mas não fora, e assim ficaram ali até ao dia de hoje.  
-**9** Na arca não havia senão as duas tábuas de pedra, que Moisés tinha metido nela em Horeb, quando o Senhor fez aliança com os filhos de Israel, logo que saíram da terra do Egito.  
+**9** Na arca não havia senão as duas tábuas de pedra, que Moisés tinha metido nela em Horeb, quando o Senhor fez aliança com os filhos de Israel, logo que saíram da terra do Egipto.  
 **10** Aconteceu que, quando os sacerdotes saíram do santuário, uma névoa encheu a casa do Senhor,  
 **11** e os sacerdotes não podiam ter-se em pé nem fazer as funções do seu ministério, por causa da névoa, porque a glória do Senhor tinha enchido a casa do Senhor.  
 **12** Então disse Salomão: O Senhor declarou que habitaria na obscuridade.  
 **13** Eu edifiquei (ó Deus) esta casa para tua morada, para teu trono firmíssimo para sempre.  
 **14** Depois o rei voltou o seu rosto e abençoou todo o ajuntamento de Israel, porque todo o ajuntamento de Israel estava ali.  
 **15** Salomão disse: Bem-dito seja o Senhor Deus de Israel, que falou pela sua boca a meu pai Davide e que, pelo seu poder, cumpriu a sua palavra, quando disse:  
-**16** Desde o dia em que eu tirei do Egito o meu povo de Israel, não escolhi cidade alguma de todas as tribos de Israel, para que me fosse edificada nela uma casa onde se invocasse o meu nome, mas escolhi Davide para ser o chefe do meu povo de Israel.  
+**16** Desde o dia em que eu tirei do Egipto o meu povo de Israel, não escolhi cidade alguma de todas as tribos de Israel, para que me fosse edificada nela uma casa onde se invocasse o meu nome, mas escolhi Davide para ser o chefe do meu povo de Israel.  
 **17** Ora o meu pai Davide quis edificar uma casa ao nome do Senhor Deus de Israel.  
 **18** Porém o Senhor disse a Davide, meu pai: Quando tu no teu coração intentaste edificar uma casa ao meu nome, fizeste bem, formando tal intenção.  
 **19** Todavia, tu não edificarás uma casa, mas teu filho, que descenderá de ti, esse edificará uma casa ao meu nome.  
 **20** O Senhor cumpriu a palavra que lhe disse: eu fiquei em lugar de Davide, meu pai, sentei-me sobre o trono de Israel, como o Senhor tinha dito, e edifiquei uma casa ao nome do Senhor Deus de Israel.  
-**21** Nela escolhi o lugar para a arca, dentro da qual está (a lei que é) a aliança que o Senhor fez com os nossos pais, quando saíram da terra do Egito.  
+**21** Nela escolhi o lugar para a arca, dentro da qual está (a lei que é) a aliança que o Senhor fez com os nossos pais, quando saíram da terra do Egipto.  
 **22** Depois pôs-se Salomão diante do altar do Senhor, à vista do ajuntamento de Israel, estendeu as suas mãos para o céu  
 **23** e disse: Senhor Deus de Israel, não há Deus semelhante a ti, nem no mais alto do céu, nem cá embaixo sobre a terra; tu conservas o pacto e a misericórdia para com os teus servos, que caminham diante de ti, de todo o seu coração,  
 **24** como cumpriste para com teu servo Davide, meu pai, o que lhe prometeste; o que lhe disseste por tua boca, realizaste-o pelas tuas mãos, como o prova este dia.  
@@ -341,9 +341,9 @@
 **48** se eles se voltarem para ti de todo o seu coração e de toda a sua alma, na terra de seus inimigos, para onde foram levados cativos, se orarem voltados para a terra que tu deste a seus pais, para a cidade que escolheste e para o templo que eu edifiquei ao teu nome,  
 **49** escuta do céu, do firmamento do teu trono, as suas orações e as suas preces, e defende a sua causa.  
 **50** Mostra-te propício ao teu povo, que pecou contra ti, e perdoa todas as iniquidades, que tiverem cometido contra ti. Inspira ternura aos que os levarem cativos, para terem compaixão deles,  
-**51** porque eles são o teu povo e a tua herança, que tiraste da terra do Egito, do meio duma fornalha (ou crisol) de ferro.  
+**51** porque eles são o teu povo e a tua herança, que tiraste da terra do Egipto, do meio duma fornalha (ou crisol) de ferro.  
 **52** Os teus olhos estejam abertos às súplicas dos teus servos e do teu povo de Israel, para os ouvires em tudo aquilo por que eles te invocaram,  
-**53** visto que tu, ó Senhor Deus, os separaste de todos os povos da terra para tua herança, como o declaraste por meio de teu servo Moisés, quando tiraste os nossos pais do Egito.  
+**53** visto que tu, ó Senhor Deus, os separaste de todos os povos da terra para tua herança, como o declaraste por meio de teu servo Moisés, quando tiraste os nossos pais do Egipto.  
 **54** Quando Salomão acabou de fazer ao Senhor toda esta oração e esta súplica, levantou-se de diante do altar do Senhor, porque ele havia posto ambos os joelhos em terra e tinha as mãos estendidas para o céu.  
 **55** Pôs-se em pé e abençoou todo o ajuntamento de Israel, dizendo em voz alta:  
 **56** Bem-dito seja o Senhor, que deu descanso ao seu povo de Israel, conforme todas as promessas que tinha feito: não falhou, nem sequer numa palavra em cumprir o que nos tinha prometido por meio do seu servo Moisés.  
@@ -355,7 +355,7 @@
 **62** O rei e todo o Israel imolaram vitimas diante do Senhor.  
 **63** Salomão imolou, para o sacrifício pacífico que ofereceu ao Senhor, vinte e dois mil bois, e cento e vinte mil ovelhas. Assim o rei com os filhos de Israel dedicaram o templo do Senhor.  
 **64** Naquele dia o rei consagrou o meio do átrio, que estava diante da casa do Senhor, pois ofereceu ali holocaustos e sacrifícios, e as banhas das hóstias pacíficas, porque o altar de bronze, que estava diante do Senhor, era pequeno, e não podiam caber nele os holocaustos e os sacrifícios, e as banhas das hóstias pacíficas.  
-**65** Tal foi a festa que Salomão celebrou nesse tempo, e todo o Israel com ele, tendo concorrido gente em grande número desde a entrada de Emat até ao rio do Egito, diante do Senhor, nosso Deus, durante sete dias, e (em seguida) durante outros sete dias, isto é, durante catorze dias.  
+**65** Tal foi a festa que Salomão celebrou nesse tempo, e todo o Israel com ele, tendo concorrido gente em grande número desde a entrada de Emat até ao rio do Egipto, diante do Senhor, nosso Deus, durante sete dias, e (em seguida) durante outros sete dias, isto é, durante catorze dias.  
 **66** Ao dia oitavo (desta última festa), despediu os povos, os quais abençoando o rei, voltaram para suas tendas, alegres, com o coração contente, por todos os bens que o Senhor tinha feito a Davide, seu servo, e a Israel, seu povo.  
 
 ## Capítulo 9
@@ -363,19 +363,19 @@
 **1** Quando Salomão acabou de edificar a casa do Senhor, o palácio do rei e tudo o que tinha desejado fazer,  
 **2** apareceu-lhe o Senhor segunda vez, como tinha aparecido em Gabaon.  
 **3** O Senhor disse-lhe: Eu ouvi a tua oração e a súplica, que me dirigiste; santifiquei esta casa, que me edificaste, a fim de nela estabelecer para sempre o meu nome: nela estarão sempre os meus olhos e o meu coração.  
-**4** E tu, se andares na minha presença, como andou teu pai, em simplicidade e retidão de coração, se fizeres tudo o que tenho mandado, guardando as minhas leis e as minhas ordenações,  
+**4** E tu, se andares na minha presença, como andou teu pai, em simplicidade e rectidão de coração, se fizeres tudo o que tenho mandado, guardando as minhas leis e as minhas ordenações,  
 **5** eu estabelecerei o trono do teu reino sobre Israel para sempre, como prometi a Davide, teu pai, dizendo: Não faltará nunca um homem da tua linhagem no trono de Israel.  
 **6** Porém se, obstinadamente, vos desviardes de mim, vós e vossos filhos, não me seguindo nem guardando os preceitos e as ordens que vos dei, se vos retirardes e prestardes culto a deuses estranhos, e os adorardes,  
-**7** eu exterminarei Israel da terra que lhe dei, dançarei para longe da minha presença o templo que consagrei ao meu nome, e Israel será objeto de sarcasmo e de troça para todos os povos.  
+**7** eu exterminarei Israel da terra que lhe dei, dançarei para longe da minha presença o templo que consagrei ao meu nome, e Israel será objecto de sarcasmo e de troça para todos os povos.  
 **8** Esta casa (feita em ruínas) servirá de exemplo (da minha justiça); todo o que passar por diante dela, ficará pasmado, desprezá-la-á e dirá: Por que tratou o Senhor assim esta terra e este templo?  
-**9** Responder-lhe-ão: Porque estes povos deixaram o Senhor, seu Deus, que tirou seus pais da terra do Egito, porque seguiram deuses estranhos, prostraram-se diante deles e adoraram-nos; por isso o Senhor descarregou sobre eles todo este mal.  
+**9** Responder-lhe-ão: Porque estes povos deixaram o Senhor, seu Deus, que tirou seus pais da terra do Egipto, porque seguiram deuses estranhos, prostraram-se diante deles e adoraram-nos; por isso o Senhor descarregou sobre eles todo este mal.  
 **10** Passados os vinte anos, durante os quais Salomão edificou as duas casas, Isto é, a casa do Senhor, e a casa do rei,  
 **11** (mandando Hirão, rei de Tiro, a Salomão madeira de cedro e cipreste, e ouro, tanto quanto era mister) Salomão deu a Hirão vinte cidades no país da Galileia.  
 **12** Hirão saiu de Tiro para ver as cidades que Salomão lhe tinha dado, mas não lhe agradaram,  
 **13** e disse: São estas, irmão, as cidades que me deste? E chamou-as terra de Cabul, (nome que conservam) até ao dia de hoje.  
 **14** (Hirão tinha também mandado ao rei Salomão cento e vinte talentos de ouro),  
 **15** O motivo que o rei Salomão teve para lançar um tributo (sobre o seu povo) foi a grande despesa que fez para edificar a casa do Senhor, a sua casa, Melo, os muros de Jerusalém, Heser, Magedo e Gazer.  
-**16** Faraó, rei do Egito, subiu, tomou Gazer e queimou-a, matando os Cananeus que habitavam na cidade, e deu-a em dote a sua filha, mulher de Salomão.  
+**16** Faraó, rei do Egipto, subiu, tomou Gazer e queimou-a, matando os Cananeus que habitavam na cidade, e deu-a em dote a sua filha, mulher de Salomão.  
 **17** Salomão reedificou Gazer, Betoron-a-Baixa,  
 **18** Balaat e Palmira, na terra do deserto.  
 **19** Fortificou todas as aldeias destinadas a entrepostos, e que não tinham muros, as cidades destinadas a carros (de guerra), as cidades destinadas a gente de cavalo, e tudo o que lhe aprouve edificar em Jerusalém, no Líbano e em toda a extensão dos seus domínios,  
@@ -418,8 +418,8 @@
 **25** Todos lhe mandavam cada ano presentes, vasos de prata e de ouro, vestes, armas de guerra, aromas, cavalos e machos.  
 **26** Juntou Salomão um grande número de carros e de cavaleiros: teve mil e quatrocentos carros, e doze mil cavaleiros, que distribuiu pelas cidades fortificadas e por Jerusalém, junto da sua pessoa.  
 **27** Fez que houvesse tanta abundância de prata em Jerusalém como de pedras, e tornou o cedro tão comum como os sicómoros que nascem nas campinas.  
-**28** Do Egito e de Coa eram trazidos cavalos para Salomão, pois os mercadores do rei os compravam em Coa e lhos traziam, por um preço estabelecido.  
-**29** Uma quadriga trazida do Egito custava-lhe seiscentos siclos de prata, e um cavalo cento e cinquenta. Também, da mesma forma, traziam cavalos para todos os reis dos Heteus e da Síria.  
+**28** Do Egipto e de Coa eram trazidos cavalos para Salomão, pois os mercadores do rei os compravam em Coa e lhos traziam, por um preço estabelecido.  
+**29** Uma quadriga trazida do Egipto custava-lhe seiscentos siclos de prata, e um cavalo cento e cinquenta. Também, da mesma forma, traziam cavalos para todos os reis dos Heteus e da Síria.  
 
 ## Capítulo 11
 
@@ -439,18 +439,18 @@
 **14** Suscitou o Senhor um inimigo a Salomão: Adad, Idumeu, de sangue real, que vivia em Edom.  
 **15** Quando Davide estava na Idumeia, foi Joab, general do seu exército, sepultar os que tinham sido mortos, e matou na Idumeia todos os varões,  
 **16** (seis meses se demorou ali Joab, com todo o Israel, até matar todos os varões da Idumeia),  
-**17** (nessa altura) este Adad fugiu de lá, e com ele os Idumeus, servos de seu pai, para se retirar ao Egito. Adad era então de mui tenra idade.  
-**18** Saindo de Madian, foram a Faran, levaram consigo homens de Faran e, entrando no Egito, apresentaram-se a Faraó, rei do Egito, o qual deu a Adad casa, consignou-lhe alimentos e adjudicou-lhe terras.  
+**17** (nessa altura) este Adad fugiu de lá, e com ele os Idumeus, servos de seu pai, para se retirar ao Egipto. Adad era então de mui tenra idade.  
+**18** Saindo de Madian, foram a Faran, levaram consigo homens de Faran e, entrando no Egipto, apresentaram-se a Faraó, rei do Egipto, o qual deu a Adad casa, consignou-lhe alimentos e adjudicou-lhe terras.  
 **19** Adad caiu tanto em graça a Faraó que este o casou com a própria irmã da rainha Tafnes, sua mulher.  
 **20** Desta irmã de Tafnes teve Adad um filho chamado Genubat, que Tafnes criou na casa de Faraó. Genubat habitava no palácio de Faraó, com os filhos do rei.  
-**21** Quando Adad ouviu dizer, no Egito, que Davide tinha adormecido com seus pais e que Joab, general do seu exército, tinha sido morto, disse a Faraó; Deixa-me ir para a minha terra.  
+**21** Quando Adad ouviu dizer, no Egipto, que Davide tinha adormecido com seus pais e que Joab, general do seu exército, tinha sido morto, disse a Faraó; Deixa-me ir para a minha terra.  
 **22** Faraó disse-lhe: Pois que é que te falta em minha casa, para pensares em voltar para a tua terra? Ele respondeu-lhe: Nada; mas suplico-te que me deixes ir.  
 **23** Suscitou-lhe Deus também por inimigo a Razon, filho de Eliada, o qual tinha fugido de Adadezer, rei de Soba, seu senhor.  
 **24** Juntou gente contra ele, e fez-se capitão de ladrões (ou de guerrilhas), quando Davide derrotou (as tropas do seu senhor). Estes retiraram-se para Damasco, lá habitaram, e constituíram-no rei em Damasco.  
 **25** Foi inimigo de Israel durante todo o reinado de Salomão. Ao mesmo tempo que Adad, fazia-lhe o mal que podia, pois odiava Israel. Reinou na Síria.  
 **26** Também Jeroboão, filho de Nabat, Efrateu, de Sareda, servo de Salomão, cuja mãe era uma mulher viúva, chamada Sarva, se sublevou contra Salomão.  
 **27** O motivo da rebelião contra ele foi que Salomão (à custa de pesados tributos) tinha edificado Melo e terraplanado o profundo vale da cidade de Davide, seu pai.  
-**28** Jeroboão era um homem valente e poderoso; Salomão, vendo que era um jovem de boa índole e ativo, tinha-o feito intendente dos tributos de toda a casa de José.  
+**28** Jeroboão era um homem valente e poderoso; Salomão, vendo que era um jovem de boa índole e activo, tinha-o feito intendente dos tributos de toda a casa de José.  
 **29** Ora aconteceu que, um dia, Jeroboão saiu de Jerusalém, e que Aias Silonita, profeta, coberto com uma capa nova, o encontrou no caminho. Estavam sós os dois no campo.  
 **30** Aias, tomando a sua capa nova, de que vinha coberto, rasgou-a em doze partes  
 **31** e disse a Jeroboão: Toma para ti dez retalhos, porque isto é o que diz o Senhor Deus de Israel: Eu rasgarei o reino das mãos de Salomão e dar-te-ei dez tribos.  
@@ -460,17 +460,17 @@
 **35** Tirai porém, o reino das mãos de seu filho, para te dar dez tribos;  
 **36** ao seu filho darei uma tribo, para que fique sempre a meu servo Davide uma lâmpada diante de mim, em Jerusalém, a cidade que eu escolhi, a fim de o meu nome ser nela reverenciado.  
 **37** Eu te tomarei, e tu reinarás sobre tudo o que a tua alma deseja. Serás rei em Israel.  
-**38** Se tu ouvires tudo o que eu te ordenar, se andares pelos meus caminhos, se fizeres o que é reto diante de mim, guardando as minhas leis e os meus preceitos, como fez Davide, meu servo, eu serei contigo e te edificarei uma casa, que seja estável, como a que edifiquei a meu servo Davide, e te entregarei Israel.  
+**38** Se tu ouvires tudo o que eu te ordenar, se andares pelos meus caminhos, se fizeres o que é recto diante de mim, guardando as minhas leis e os meus preceitos, como fez Davide, meu servo, eu serei contigo e te edificarei uma casa, que seja estável, como a que edifiquei a meu servo Davide, e te entregarei Israel.  
 **39** Afligirei neste ponto a descendência de Davide, mas não para sempre.  
-**40** Quis Salomão matar Jeroboão, mas ele retirou-se e fugiu para o Egito, para junto de Sesac, rei do Egito, onde ficou até à morte de Salomão.  
-**41** O resto dos feitos de Salomão, tudo que ele fez, a sua sabedoria, tudo está escrito no livro dos Atos de Salomão.  
+**40** Quis Salomão matar Jeroboão, mas ele retirou-se e fugiu para o Egipto, para junto de Sesac, rei do Egipto, onde ficou até à morte de Salomão.  
+**41** O resto dos feitos de Salomão, tudo que ele fez, a sua sabedoria, tudo está escrito no livro dos Actos de Salomão.  
 **42** O tempo que Salomão reinou em Jerusalém sobre todo o Israel foi de quarenta anos.  
 **43** Salomão adormeceu com seus pais e foi enterrado na cidade de seu pai Davide. Roboão, seu filho, reinou em seu lugar.  
 
 ## Capítulo 12
 
 **1** Foi Roboão a Siquém, porque todo o Israel se tinha juntado ali para o constituir rei.  
-**2** Porém Jeroboão, filho de Nabat, achando-se ainda no Egito, refugiado da face do rei Salomão, ao saber da sua morte, voltou do Egito,  
+**2** Porém Jeroboão, filho de Nabat, achando-se ainda no Egipto, refugiado da face do rei Salomão, ao saber da sua morte, voltou do Egipto,  
 **3** porque o tinham mandado chamar. Foi, então, Jeroboão, com todo o povo de Israel falar a Roboão; dizendo:  
 **4** Teu pai impôs-nos um jugo duríssimo; tu, pois, agora, suaviza alguma coisa a dureza do governo de teu pai, aquele pesadíssimo jugo que ele nos impôs, e nós te serviremos.  
 **5** Roboão respondeu-lhes: Ide-vos, e daqui a três dias vinde ter comigo. Tendo-se retirado o povo,  
@@ -488,7 +488,7 @@
 **17** Roboão, todavia, reinou sobre todos os filhos de Israel, que habitavam nas cidades de Judá.  
 **18** O rei Roboão enviou Adurão que era o superintendente dos tributos (para apaziguar os ânimos), mas todo o Israel o apedrejou, e ele morreu. Então o rei Roboão tomou a toda a pressa o seu carro e fugiu para Jerusalém.  
 **19** E Israel separou-se da casa de Davide, até ao dia de hoje.  
-**20** Quando todo o Israel soube que Jeroboão tinha voltado, reunidos em cortes, mandaram-no chamar e aclamaram-no rei sobre todo o Israel. Não houve ninguém que seguisse a casa de Davide, senão somente a tribo de Judá.  
+**20** Quando todo o Israel soube que Jeroboão tinha voltado, reunidos em cortes, mandaram-no chamar e aclamaram-no rei sobre todo o Israel. Não houve ninguém que seguisse a casa de Davide, senão sòmente a tribo de Judá.  
 **21** Roboão, quando chegou a Jerusalém, fez juntar toda a casa de Judá e a tribo de Benjamim, cento e oitenta mil homens de guerra, escolhidos, a fim de pelejar contra a casa de Israel, e reduzir o reino à obediência de Roboão, filho de Salomão.  
 **22** Mas o Senhor dirigiu a sua palavra a Semeias, homem de Deus, dizendo:  
 **23** Fala a Roboão, filho de Salomão, rei de Judá, bem como a toda a casa de Judá e de Benjamim, e a todo o resto do povo. Dize-lhes:  
@@ -496,7 +496,7 @@
 **25** Jeroboão reedificou Siquém, sobre o monte de Efraim, e residiu ali. Depois saiu de lá para edificar Fanuel.  
 **26** Jeroboão disse em seu coração: Agora o reino tornará para a casa de Davide,  
 **27** se este povo for a Jerusalém para lá oferecer sacrifícios na casa do Senhor; e o coração deste povo voltar-se-á para o seu Senhor, para Roboão, rei de Judá; eles me matarão e se voltarão para ele.  
-**28** Depois de ter considerado bem, fez dois bezerros de ouro e disse ao povo: Não torneis mais a Jerusalém. Eis aqui, ó Israel, os teus deuses, que te tiraram da terra do Egito.  
+**28** Depois de ter considerado bem, fez dois bezerros de ouro e disse ao povo: Não torneis mais a Jerusalém. Eis aqui, ó Israel, os teus deuses, que te tiraram da terra do Egipto.  
 **29** Colocou um em Betel, e outro em Dan.  
 **30** Isto foi uma ocasião de pecado, porque o povo ia a Dan para adorar o bezerro.  
 **31** Também levantou templos nos lugares altos, onde pôs como sacerdotes pessoas do povo, que não eram dos filhos de Levi.  
@@ -554,23 +554,23 @@
 **10** Por isso eu farei cair males sobre a casa de Jeroboão, farei morrer da casa de Jeroboão todo o indivíduo do sexo masculino, escravo ou homem livre, e varrerei os restos da casa de Jeroboão, como se costuma varrer o lixo, até não ficar rasto.  
 **11** Os que morrerem da casa de Jeroboão na cidade, serão devorados pelos cães, e os que morrerem no campo, serão comidos pelas aves do céu. É o Senhor que o diz.  
 **12** Vai, pois, torna para tua casa; ao mesmo tempo que puseres os pés na cidade, morrerá o menino.  
-**13** Todo o Israel o chorará e o sepultará, porque só este da casa de Jeroboão será posto no sepulcro, porque o Senhor Deus de Israel, entre os da casa de Jeroboão, somente a ele olhou com agrado.  
+**13** Todo o Israel o chorará e o sepultará, porque só este da casa de Jeroboão será posto no sepulcro, porque o Senhor Deus de Israel, entre os da casa de Jeroboão, sòmente a ele olhou com agrado.  
 **14** O Senhor constituiu para si um rei sobre Israel, que arruinará a casa de Jeroboão neste dia e neste tempo;  
 **15** o Senhor Deus sacudirá Israel, como uma cana costuma ser agitada nas águas; ele arrancará Israel desta excelente terra, que deu a seus pais e dispersá-lo-á para além do rio, porque fez ídolos, que irritam o Senhor.  
 **16** O Senhor abandonará Israel, por causa dos pecados de Jeroboão, que pecou e fez pecar Israel.  
 **17** Levantou-se a mulher de Jeroboão, pôs-se a caminho e chegou a Tersa; quando ela entrava o limiar da porta, morreu o menino.  
 **18** Sepultaram-no, e todo o Israel o chorou, conforme a palavra do Senhor, que tinha proferido pela boca do profeta Alas, seu servo.  
-**19** O mais, porém, das ações de Jeroboão, as guerras que teve, o seu modo de reinar, tudo isso está escrito no livro das Crónicas dos reis de Israel.  
+**19** O mais, porém, das acções de Jeroboão, as guerras que teve, o seu modo de reinar, tudo isso está escrito no livro das Crónicas dos reis de Israel.  
 **20** O tempo que Jeroboão reinou foi de vinte e dois anos. Adormeceu com seus pais, e em seu lugar reinou seu filho Nadab.  
 **21** Roboão, filho de Salomão, reinou em Judá. Tinha quarenta e um anos, quando começou a reinar; reinou dezassete anos na cidade de Jerusalém, que o Senhor tinha escolhido dentre todas as tribos de Israel para estabelecer nela o seu nome. Sua mãe chamava-se Naama, a Amonita.  
 **22** (A tribo de) Judá fez o mal diante do Senhor. Irritaram-no mais do que tinham feito seus pais, com os crimes que tinham cometido.  
 **23** Também eles levantaram para si altares, estátuas e ascherim em cima de todos os outeiros, e debaixo de todas as árvores frondosas.  
 **24** Até houve, no país, consagrados à prostituição Idolátrica. Imitaram todas as abominações daqueles povos que o Senhor tinha destruído à vista dos filhos de Israel.  
-**25** No quinto ano do reinado de Roboão, Sesac, rei do Egito, avançou contra Jerusalém  
+**25** No quinto ano do reinado de Roboão, Sesac, rei do Egipto, avançou contra Jerusalém  
 **26** e levou os tesouros da casa do Senhor, os tesouros do rei, roubou tudo, até mesmo os escudos de ouro, que Salomão tinha feito.  
 **27** Em sua substituição, o rei Roboão fez escudos de bronze, que entregou nas mãos dos capitães da guarda e dos que faziam sentinelas diante da porta do palácio do rei.  
 **28** Quando o rei entrava na casa do Senhor, os que tinham o cargo de ir adiante, levavam estes escudos; depois tornavam-nos a pôr na casa das armas dos guardas.  
-**29** O resto das ações de Roboão, tudo o que ele fez, encontra-se escrito no livro das Crónicas dos reis de Judá.  
+**29** O resto das acções de Roboão, tudo o que ele fez, encontra-se escrito no livro das Crónicas dos reis de Judá.  
 **30** Houve guerra contínua entre Roboão e Jeroboão.  
 **31** Roboão adormeceu com seus pais e foi sepultado com eles na cidade de Davide. O nome de sua mãe era Naama, a Amonita. Abião, seu filho, reinou em seu lugar.  
 
@@ -580,13 +580,13 @@
 **2** Reinou três anos em Jerusalém. Sua mãe chamava-se Maaca, filha de Absalão.  
 **3** Ele entregou-se a todos os pecados que seu pai tinha cometido antes dele; o seu coração não era perfeito diante do Senhor seu Deus, como fora o coração de seu pai Davide.  
 **4** Todavia o Senhor seu Deus, em atenção a Davide, deu-lhe uma lâmpada em Jerusalém, dando-lhe um filho que lhe sucedeu, para restabelecer Jerusalém  
-**5** porque Davide tinha feito o que era reto aos olhos do Senhor, e em nada se tinha afastado de tudo o que lhe mandara em todos os dias da sua vida, exceto o que se passou com Urlas Heteu.  
+**5** porque Davide tinha feito o que era recto aos olhos do Senhor, e em nada se tinha afastado de tudo o que lhe mandara em todos os dias da sua vida, excepto o que se passou com Urlas Heteu.  
 **6** Entre Roboão e Jeroboão, houve guerra durante todo o tempo da vida de Roboão.  
-**7** O resto das ações de Abião, tudo o que ele fez, está escrito no livro das Crónicas dos reis de Judá. Houve também guerra entre Abião e Jeroboão.  
+**7** O resto das acções de Abião, tudo o que ele fez, está escrito no livro das Crónicas dos reis de Judá. Houve também guerra entre Abião e Jeroboão.  
 **8** Abião adormeceu com seus pais, e sepultaram-no na cidade de Davide. Seu filho Asa reinou em seu lugar.  
 **9** No ano vigésimo de Jeroboão, rei de Israel, reinou Asa, rei de Judá.  
 **10** Reinou quarenta e um anos em Jerusalém. Sua mãe chamava-se Maaca, filha de Absalão.  
-**11** Asa fez o que era reto aos olhos do Senhor, como seu pai Davide.  
+**11** Asa fez o que era recto aos olhos do Senhor, como seu pai Davide.  
 **12** Tirou do país os consagrados à prostituição idolátrica, fez desaparecer os ídolos que seus pais tinham fabricado.  
 **13** Além disto, tirou a dignidade de rainha a Maaca, sua mãe, por ter feito um ídolo de Astarte. Despedaçou o Ídolo e queimou-o no vale do Cedron.  
 **14** Não tirou, porém, os lugares altos, mas, mesmo assim, o coração de Asa foi perfeito toda a sua vida para com Senhor.  
@@ -598,7 +598,7 @@
 **20** Benadad, condescendendo com os rogos do rei Asa, mandou os generais do seu exército contra as cidades de Israel, os quais tomaram Alon, Dan, Abelcasa de Maaca e todo o país de Cenerot, isto é, todo o território de Neftali.  
 **21** Baasa, tendo ouvido isto, deixou de fortificar Rama e voltou para Tersa.  
 **22** O rei Asa enviou mensageiros por toda a Judeia com essa ordem: Ninguém se escuse (de acudir a Rama). Tomaram as pedras e as madeiras que Baasa tinha empregado em fortificar Rama, e, com elas, o rei Asa edificou Gabaa de Benjamim e Masfa.  
-**23** O resto de todas as ações de Asa, todas as suas empresas de valor, todos os seus feitos, as cidades que edificou, tudo se acha escrito no livro das Crónicas dos reis de Judá. No tempo da sua velhice, sofreu dos pés.  
+**23** O resto de todas as acções de Asa, todas as suas empresas de valor, todos os seus feitos, as cidades que edificou, tudo se acha escrito no livro das Crónicas dos reis de Judá. No tempo da sua velhice, sofreu dos pés.  
 **24** Adormeceu com seus pais e foi sepultado com eles, na cidade de seu pai Davide. Josafat, seu filho, reinou em seu lugar.  
 **25** Nadab, filho de Jeroboão, reinou sobre Israel no segundo ano de Asa, rei de Judá. Reinou sobre Israel dois anos.  
 **26** Fez o mal diante do Senhor, seguiu as pisadas de seu pai e os pecados que ele tinha feito cometer a Israel.  
@@ -606,7 +606,7 @@
 **28** Baasa, no terceiro ano de Asa, rei de Judá, matou Nadab e reinou em seu lugar.  
 **29** Logo que foi rei, exterminou toda a casa de Jeroboão; não deixou com vida nem sequer um da sua linhagem, até acabar inteiramente com ela, conforme a palavra que o Senhor tinha dito pela boca do seu servo Aias, de Silo,  
 **30** por causa dos pecados que Jeroboão cometeu e fez cometer a Israel, provocando assim a irritação do Senhor Deus de Israel.  
-**31** O resto das ações de Nadab, tudo o que ele fez, está escrito no livro das Crónicas dos reis de Israel.  
+**31** O resto das acções de Nadab, tudo o que ele fez, está escrito no livro das Crónicas dos reis de Israel.  
 **32** Houve guerra entre Asa e Baasa, rei de Israel, durante toda a sua vida.  
 **33** No terceiro ano de Asa, rei de Judá, reinou Baasa, filho de Aia, sobre todo o Israel, em Tersa, durante vinte e quatro anos.  
 **34** Fez o mal diante do Senhor: andou no caminho de Jeroboão e nos pecados que ele tinha feito cometer a Israel.  
@@ -617,29 +617,29 @@
 **2** Visto que eu te levantei do pó e te constituí chefe sobre o meu povo de Israel, e tu andaste no caminho de Jeroboão e fizeste pecar o meu povo de Israel, provocando-me à ira com pecados,  
 **3** eu varrerei Baasa e a sua casa; farei da tua casa o que fiz da casa de Jeroboão, filho de Nabat.  
 **4** Aquele da linhagem de Baasa que morrer na cidade, comê-lo-ão os cães; o que morrer no campo, comê-lo-ão as aves do céu.  
-**5** O resto das ações de Baasa, todos os seus feitos e batalhas, estão escritos no livro das Crónicas dos reis de Israel.  
+**5** O resto das acções de Baasa, todos os seus feitos e batalhas, estão escritos no livro das Crónicas dos reis de Israel.  
 **6** Adormeceu Baasa com seus pais e foi enterrado em Tersa. Seu filho Ela reinou em seu lugar.  
-**7** O oráculo do Senhor, transmitido pelo profeta Jeú, filho de Hanani, foi dirigido contra Baasa e contra a sua casa, não somente em castigo de todos os males que ele tinha feito aos olhos do Senhor, irritando-o com as obras das suas mãos, imitando a casa de Jeroboão, mas também por Baasa haver destruído esta casa (de Jeroboão).  
+**7** O oráculo do Senhor, transmitido pelo profeta Jeú, filho de Hanani, foi dirigido contra Baasa e contra a sua casa, não sòmente em castigo de todos os males que ele tinha feito aos olhos do Senhor, irritando-o com as obras das suas mãos, imitando a casa de Jeroboão, mas também por Baasa haver destruído esta casa (de Jeroboão).  
 **8** No ano vigésimo sexto de Asa, rei de Judá, reinou Baasa, sobre Israel, em Tersa, durante dois anos.  
 **9** Rebelou-se contra ele seu servo Zambri, comandante de metade da sua cavalaria. Ela encontrava-se em Tersa, bebendo e embriagando-se em casa de Arsa, governador de Tersa.  
 **10** Caindo Zambri sobre ele, feriu-o e matou-o no ano vigésimo sétimo de Asa, rei de Judá, ficando a reinar em seu lugar,  
 **11** Logo que ele foi rei, logo que subiu no trono, exterminou toda a casa de Baasa e não deixou dela resto algum, nem parentes, nem amigos.  
 **12** Zambri destruiu toda a casa de Baasa, conforme a palavra que o Senhor tinha dito a Baasa pela boca do profeta Jeú,  
 **13** por causa de todos os pecados do Baasa e dos pecados de seu filho Ela, que tinha pecado e fizeram pecar Israel, irritando o Senhor Deus de Israel com os seus ídolos.  
-**14** O resto das ações de Ela, tudo o que ele fez, está escrito ao livro das Crónicas dos reis de Israel.  
+**14** O resto das acções de Ela, tudo o que ele fez, está escrito ao livro das Crónicas dos reis de Israel.  
 **15** No ano vinte e sete de Asa, rei de Judá, reinou Zambri em Tersa durante sete dias. O exército sitiava Gebetoa, cidade dos Filisteus.  
 **16** Tendo ouvido dizer que Zambri se tinha rebelado e que tinha morto o rei, todo o Israel constituiu seu rei a Anri, o qual era general do exército de Israel, que estava então em campanha.  
 **17** Retirou-se Anri, e todo o Israel com ele, de Gebeton, e foram sitiar Tersa.  
 **18** Vendo Zambri que a cidade estava a ponto de ser tomada, entrou no palácio e lançou-lhe fogo, queimando-se a si mesmo e ao palácio real. Morreu, assim,  
 **19** pelos pecados que tinha cometido, praticando o mal diante do Senhor, andando pelo caminho de Jeroboão, Imitando-o no pecado com que fez pecar a Israel.  
-**20** O resto das ações de Zambri, a sua conjuração, tudo está escrito no livro das Crónicas dos reis de Israel.  
+**20** O resto das acções de Zambri, a sua conjuração, tudo está escrito no livro das Crónicas dos reis de Israel.  
 **21** Então dividiu-se o povo de Israel em dois partidos: metade do povo seguia Tebni, filho de Ginet, para o constituir rei; a outra metade (seguia) Anri.  
 **22** O povo, que estava com Anri, prevaleceu contra o povo que seguia Tebni, filho de Ginet. Tebni morreu, e reinou Anri.  
 **23** No ano trinta e um de Asa, rei de Judá, reinou Anri sobre Israel, durante doze anos. Em Tersa reinou seis anos;  
 **24** depois comprou o monte da Samaria a Samer por dois talentos de prata, cobriu-o de edifícios, e deu à cidade, que tinha edificado, o nome de Samaria, do nome de Samer, dono do monte.  
 **25** Anri fez o mal diante do Senhor; ainda cometeu mais crimes do que todos os seus predecessores.  
 **26** Andou em todo o caminho de Jeroboão, filho de Nabat, nos pecados com que ele tinha feito pecar a Israel, irritando, com os seus ídolos, o Senhor Deus de Israel.  
-**27** O resto das ações de Anri, as guerras que teve, tudo isso está escrito no livro das Crónicas dos reis de Israel.  
+**27** O resto das acções de Anri, as guerras que teve, tudo isso está escrito no livro das Crónicas dos reis de Israel.  
 **28** Anri dormiu com seus pais e foi sepultado em Samaria. Em seu lugar reinou Acab, seu filho.  
 **29** Acab, filho de Anri, reinou sobre Israel no ano trinta e oito de Asa, rei de Judá. Reinou Acab, filho de Anri, sobre Israel, em Samaria, vinte e dois anos.  
 **30** Acab, filho de Anri, fez o mal diante do Senhor, mais que todos os que tinha havido antes dele.  
@@ -661,7 +661,7 @@
 **9** Levanta-te, vai para Sarefta dos Sidónios e fixa lá a tua morada, porque eu ordenei a uma mulher viúva que te sustente.  
 **10** Levantou-se e foi para Sarefta. Tendo ele chegado à porta da cidade, apareceu-lhe uma mulher viúva, que apanhava lenha. Ele chamou-a e disse-lhe: Dá-me num vaso um pouco de água para beber.  
 **11** Quando ela lha ia buscar, Elias chamou-a outra vez e disse: Traze-me também, te peço, um bocado de pão na tua mão.  
-**12** Ela respondeu-lhe: Viva o Senhor teu Deus, que eu não tenho pão, senão somente um pouco de farinha na panela, e um pouco de azeite na almotolia. Ando a apanhar um pouco de lenha, a fim de a ir cozer para mim e para meu filho, para comermos e depois (de gasto estes restos) morreremos (de fome).  
+**12** Ela respondeu-lhe: Viva o Senhor teu Deus, que eu não tenho pão, senão sòmente um pouco de farinha na panela, e um pouco de azeite na almotolia. Ando a apanhar um pouco de lenha, a fim de a ir cozer para mim e para meu filho, para comermos e depois (de gasto estes restos) morreremos (de fome).  
 **13** Elias disse-lhe: Não temas, mas vai e faze como disseste; porém faze primeiro para mim desse pouco de farinha um pãozinho cozido, debaixo do rescaldo, e traze-mo; para ti e para teu filho, farás depois.  
 **14** Com efeito, o Senhor Deus de Israel diz assim: A farinha que está na panela não faltará, nem se diminuirá na almotolia o azeite, até ao dia em que o Senhor faça cair chuva sobre a terra.  
 **15** Foi a mulher e fez como Elias lhe tinha dito; durante muito tempo ela teve que comer, e a sua casa e Elias. E desde aquele dia  
@@ -699,8 +699,8 @@
 **20** Mandou Acab chamar todos os filhos de Israel, e juntou os profetas no monte Carmelo.  
 **21** Elias, aproximando-se de todo o povo, disse: Até quando claudicareis vós para os dois lados (inclinando-nos umas vezes para o Senhor e outras para Baal)? Se o Senhor é Deus, segui-o; se, porém, o é Baal, segui-o. O povo não lhe respondeu palavra.  
 **22** Elias tornou a dizer ao povo: Eu sou o único que fiquei dos profetas do Senhor: mas os profetas de Baal chegam a quatrocentos e cinquenta homens.  
-**23** (Contudo) deem-nos dois bois, e eles escolham para si um boi, façam-no em pedaços, ponham-no sobre a lenha, mas não lhe metam fogo por baixo; eu tomarei o outro boi e o porei sobre a lenha, mas também não lhe meterei fogo por baixo.  
-**24** Invocai vós os nomes dos vossos deuses, e eu invocarei o nome do meu Senhor; o Deus que ouvir, mandando fogo, esse seja considerado o (verdadeiro) Deus. Todo o povo, respondendo, disse: Ótima proposta.  
+**23** (Contudo) dêem-nos dois bois, e eles escolham para si um boi, façam-no em pedaços, ponham-no sobre a lenha, mas não lhe metam fogo por baixo; eu tomarei o outro boi e o porei sobre a lenha, mas também não lhe meterei fogo por baixo.  
+**24** Invocai vós os nomes dos vossos deuses, e eu invocarei o nome do meu Senhor; o Deus que ouvir, mandando fogo, esse seja considerado o (verdadeiro) Deus. Todo o povo, respondendo, disse: Óptima proposta.  
 **25** Disse Elias aos profetas de Baal: Escolhei para vós um boi, e começai vós primeiro, porque sois em maior número; invocai os nomes dos vossos deuses, mas não ponhais fogo por baixo.  
 **26** Eles, tendo tomado o boi que lhes foi dado, sacrificaram-no e invocaram o nome de Baal, desde manhã até ao meio dia, dizendo: Baal, ouve-nos. Mas não se percebia voz, nem havia quem respondesse, enquanto continuavam a saltar diante do altar que tinham feito.  
 **27** Sendo já meio dia, Elias escarnecia-os, dizendo: Gritai mais alto, porque ele é (certamente) Deus, mas talvez esteja entretido a conversar, ou ocupado, ou em viagem, ou talvez durma e necessite que o acordem.  
@@ -858,7 +858,7 @@
 **28** Miqueias disse: Se tu voltares em paz, não falou o Senhor por mim. E acrescentou: Ouvi, povos todos.  
 **29** Marchou o rei de Israel com Josafat, rei de Judá, contra Ramot de Galaad.  
 **30** O rei de Israel disse a Josafat, rei de Judá: Toma as armas e entra no combate, com as tuas vestes próprias. Todavia o rei de Israel mudou de trajo, e entrou (disfarçado) na batalha.  
-**31** O rei da Síria tinha dado, aos trinta e dois capitães dos seus carros, esta ordem: Não pelejareis contra algum, pequeno ou grande, mas somente contra o rei de Israel.  
+**31** O rei da Síria tinha dado, aos trinta e dois capitães dos seus carros, esta ordem: Não pelejareis contra algum, pequeno ou grande, mas sòmente contra o rei de Israel.  
 **32** Os capitães dos carros, tendo visto Josafat, imaginaram que ele era o rei de Israel, e com todo o ímpeto, pelejavam contra ele. Josafat soltou o seu grito (de guerra),  
 **33** e os capitães dos carros conheceram que não era o rei de Israel, e cessaram de investir contra ele.  
 **34** Um homem, porém, entesou o seu arco, apontando a seta à sorte, e feriu o rei de Israel por entre as junturas da armadura. Ele disse ao seu cocheiro: Volta e tira-me do campo (de batalha), porque estou gravemente ferido.  
@@ -866,14 +866,14 @@
 **36** Antes que o sol se pusesse, tocou um pregoeiro a trombeta por todo o exército, dizendo: Cada um volte para a sua cidade e para a sua terra.  
 **37** Morreu, assim, o rei e foi levado a Samaria. Enterraram o rei em Samaria.  
 **38** Quando lavaram o seu carro na piscina de Samaria, os cães lamberam o seu sangue, e aí se banharam as prostitutas, conforme a palavra que o Senhor tinha pronunciado.  
-**39** O resto das ações de Acab, tudo o que ele fez, o palácio de marfim que construiu, as cidades que fundou, tudo isso está escrito no livro das Crónicas dos reis de Israel.  
+**39** O resto das acções de Acab, tudo o que ele fez, o palácio de marfim que construiu, as cidades que fundou, tudo isso está escrito no livro das Crónicas dos reis de Israel.  
 **40** Dormiu Acab com seus pais, e reinou em seu lugar Ocozias, seu filho.  
 **41** Josafat, filho de Asa, tinha começado a reinar sobre Judá no quarto ano de Acab, rei de Israel.  
 **42** Tinha trinta e cinco anos quando começou a reinar, e reinou vinte e cinco anos em Jerusalém. Sua mãe chamava-se Azuba, filha de Salai.  
-**43** Andou em todos os caminhos de Asa, seu pai, e não se desviou deles: fez o que era reto diante do Senhor.  
+**43** Andou em todos os caminhos de Asa, seu pai, e não se desviou deles: fez o que era recto diante do Senhor.  
 **44** Não destruiu contudo os lugares altos. O povo ainda sacrificava e queimava incenso nos lugares altos.  
 **45** Josafat teve paz com o rei de Israel.  
-**46** O resto das ações de Josafat, os seus feitos, as suas guerras, tudo isso está escrito no livro das Crónicas dos reis de Judá.  
+**46** O resto das acções de Josafat, os seus feitos, as suas guerras, tudo isso está escrito no livro das Crónicas dos reis de Judá.  
 **47** Exterminou da terra o resto dos consagrados à prostituição idolátrica, que tinham ficado do tempo de seu pai Asa.  
 **48** Não havia então rei estabelecido em Edom  
 **49** O rei Josafat tinha preparado frotas no mar, que navegassem para Ofir, por causa do ouro, mas não puderam ir, porque os navios naufragaram em Asiongaber.  

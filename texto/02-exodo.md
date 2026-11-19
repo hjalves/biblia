@@ -2,26 +2,26 @@
 
 ## Capítulo 1
 
-**1** Estes são os nomes dos filhos de Israel que entraram no Egito com Jacob cada um deles entrou com sua família:  
+**1** Estes são os nomes dos filhos de Israel que entraram no Egipto com Jacob cada um deles entrou com sua família:  
 **2** Ruben, Simeão, Levi, Judá,  
 **3** Issacar, Zabulon, Benjamim,  
 **4** Dan, Neftali, Gad e Aser.  
-**5** Eram setenta todas as pessoas provindas de Jacob. José estava (já) no Egito.  
+**5** Eram setenta todas as pessoas provindas de Jacob. José estava (já) no Egipto.  
 **6** Depois da sua morte e da de todos os seus irmãos, e de toda aquela geração,  
 **7** os filhos de Israel cresceram e multiplicaram-se: tendo-se tornado extremamente numerosos e fortes, encheram aquela terra.  
-**8** Entretanto levantou-se no Egito um novo rei, que não conhecia José,  
+**8** Entretanto levantou-se no Egipto um novo rei, que não conhecia José,  
 **9** e disse ao seu povo: O povo dos filhos de Israel é mais numeroso e forte que nós.  
 **10** Vinde, oprimámo-lo com astúcia para que ele não se multiplique e para que, se sobrevier contra nós alguma guerra, se não una contra os nossos inimigos, e, depois de nos vencer; saia deste país.  
-**11** Portanto estabeleceu sobre eles inspetores de obras, para os oprimirem com trabalhos penosos; assim edificaram a Faraó, para servirem de armazéns, as cidades de Fitom e Ramessés.  
+**11** Portanto estabeleceu sobre eles inspectores de obras, para os oprimirem com trabalhos penosos; assim edificaram a Faraó, para servirem de armazéns, as cidades de Fitom e Ramessés.  
 **12** Mas, quanto mais os oprimiam, tanto mais se multiplicavam e cresciam.  
 **13** Os Egípcios odiavam os filhos de Israel e os afligiam com insultos,  
 **14** fazendo-lhes passar uma vida amarga com penosos trabalhos de barro, de tijolos e do campo, com toda espécie de Serviço duramente imposto.  
-**15** O rei do Egito falou também às parteiras dos hebreus, uma das quais se chamava Séfoira, e a outra Fua,  
+**15** O rei do Egipto falou também às parteiras dos hebreus, uma das quais se chamava Séfoira, e a outra Fua,  
 **16** ordenando-lhes: Quando assistirdes às mulheres hebreias, e chegar o tempo do parto se for menino, matai-o, se for menina, conservai-a.  
-**17** Contudo as parteiras temeram a Deus e não obedeceram à ordem do rei do Egito, mas conservavam os meninos.  
+**17** Contudo as parteiras temeram a Deus e não obedeceram à ordem do rei do Egipto, mas conservavam os meninos.  
 **18** Então, tendo-as chamado, o rei disse-lhes: O que é que quisestes fazer, conservando os meninos?  
 **19** Elas responderam: As mulheres hebreias não são como as egípcias, pois sabem assistir-se no seu parto, e, antes de nós chegarmos, dão à luz.  
-**20** Por isto, Deus fez bem às parteiras: e o povo cresceu, e se fortificou extraordinariamente.  
+**20** Por isto, Deus fez bem às parteiras: e o povo cresceu, e se fortificou extraordinàriamente.  
 **21** Visto que as parteiras temeram a Deus, ele fez prosperar as suas casas.  
 **22** Então ordenou Faraó a todo o seu povo, dizendo: Tudo o que nascer do sexo masculino lançai-o ao rio: tudo o (que nascer) do sexo feminino conservai-o.  
 
@@ -36,7 +36,7 @@
 **7** A irmã do menino disse-lhe: Queres que vá e que te chame uma mulher hebreia, que possa aleitar o menino?  
 **8** Ela respondeu: Vai. A donzela partiu e chamou sua mãe.  
 **9** E a filha de Faraó disse-lhe: Toma este menino e aleita-mo: eu te darei a paga. A mulher tomou, aleitou o menino, e, quando estava crescido, entregou-o à filha do Faraó,  
-**10** que o adotou por filho, e pôs-lhe o nome de Moisés, dizendo: eu o tirei da água.  
+**10** que o adoptou por filho, e pôs-lhe o nome de Moisés, dizendo: eu o tirei da água.  
 **11** Naqueles dias, sendo Moisés já grande, saiu a visitar seus irmãos e viu a sua aflição. Um dia reparou que um homem egípcio maltratava um dos hebreus seus irmãos.  
 **12** Tendo olhado para uma e outra parte, vendo que não estava ali ninguém, matou o egípcio e escondeu-o na areia.  
 **13** Saindo no dia seguinte, viu dois hebreus rixando, e disse ao agressor: Por que feres o teu próximo?  
@@ -49,7 +49,7 @@
 **20** Ele disse: Onde está? Por que deixastes partir esse homem? Chamai-o para comer pão.  
 **21** Consentiu Moisés em ficar em casa dele, e tomou por mulher a Séfora, sua filha.  
 **22** Ela deu à luz um filho, a quem Moisés pôs o nome de Gersão, dizendo: Fui peregrino numa terra estrangeira.  
-**23** Muito tempo depois, porém, morreu o rei do Egito. Os filhos de Israel, gemendo debaixo do peso dos trabalhos, clamaram, e o seu clamor, por causa dos trabalhos, subiu até Deus,  
+**23** Muito tempo depois, porém, morreu o rei do Egipto. Os filhos de Israel, gemendo debaixo do peso dos trabalhos, clamaram, e o seu clamor, por causa dos trabalhos, subiu até Deus,  
 **24** o qual ouviu os seus gemidos, e se lembrou da aliança que tinha feito com Abraão, Isaac e Jacob.  
 **25** O Senhor olhou para os filhos de Israel e reconheceu-os (por seus filhos).  
 
@@ -61,22 +61,22 @@
 **4** Porém o Senhor, vendo que ele se movia para ir ver, chamou-o do meio da sarça e disse: Moisés, Moisés. Ele respondeu: Aqui estou.  
 **5** E (o Senhor) disse; Não te aproximes daqui; tira as sandálias de teus pés, porque o lugar em que estás, é uma terra santa.  
 **6** E acrescentou: Eu sou o Deus de teu pai, o Deus de Abraão, o Deus de Isaac e o Deus de Jacob. Cobriu Moisés o rosto, porque não ousava olhar para Deus.  
-**7** O Senhor disse-lhe: Eu vi a aflição do meu povo no Egito, ouvi o seu clamor causado pela crueza daqueles que têm a superintendência das obras.  
+**7** O Senhor disse-lhe: Eu vi a aflição do meu povo no Egipto, ouvi o seu clamor causado pela crueza daqueles que têm a superintendência das obras.  
 **8** Conhecendo a sua dor, desceu para o livrar das mãos dos Egípcios e para o conduzir daquela terra para uma terra boa e espaçosa, para uma terra onde corre o leite e o mel, nas regiões do Cananeu, do Heteu, do Amorreu, do Ferezeu, do Heveu e do Jebuseu.  
 **9** O clamor, pois, dos filhos de Israel chegou até mim, e eu vi a aflição com que são oprimidos pelos Egípcios.  
-**10** Mas vem e eu te enviarei a Faraó, a fim de que tires do Egito o meu povo, os filhos de Israel.  
-**11** Moisés disse a Deus: Quem sou eu, para ir ter com Faraó e tirar os filhos de Israel do Egito?  
-**12** Deus disse-lhe: Eu serei contigo; terás isto por sinal de que eu te mandarei: Quando tiveres tirado o meu povo do Egito, oferecerás sacrifícios a Deus sobre este monte.  
+**10** Mas vem e eu te enviarei a Faraó, a fim de que tires do Egipto o meu povo, os filhos de Israel.  
+**11** Moisés disse a Deus: Quem sou eu, para ir ter com Faraó e tirar os filhos de Israel do Egipto?  
+**12** Deus disse-lhe: Eu serei contigo; terás isto por sinal de que eu te mandarei: Quando tiveres tirado o meu povo do Egipto, oferecerás sacrifícios a Deus sobre este monte.  
 **13** Moisés disse a Deus; Eu irei aos filhos de Israel e lhes direi: O Deus de vossos pais enviou-me a vós. Porém, se eles me perguntarem qual o seu nome, que lhes hei-de responder?  
 **14** Deus disse a Moisés: Eu sou o que sou. E acrescentou: Assim dirás aos filhos de Israel; Aquele que é, enviou-me a vós.  
 **15** Deus disse novamente a Moisés: Dirás isto aos filhos de Israel: O Senhor Deus de vossos pais, o Deus de Abraão, o Deus de Isaac, o Deus de Jacob, enviou-me a vós; este é o meu nome por toda a eternidade, e com este (nome) serei recordado de geração em geração.  
-**16** Vai, ajunta os anciães de Israel e dize-lhes: O Senhor Deus de vossos pais apareceu-me, o Deus de Abraão, o Deus de Isaac, o Deus de Jacob, e disse: Eu vos visitei atentamente e vi tudo o que vos tem sucedido no Egito.  
+**16** Vai, ajunta os anciães de Israel e dize-lhes: O Senhor Deus de vossos pais apareceu-me, o Deus de Abraão, o Deus de Isaac, o Deus de Jacob, e disse: Eu vos visitei atentamente e vi tudo o que vos tem sucedido no Egipto.  
 **17** Resolvi tirar-vos da opressão dos Egípcios e (conduzir-vos) à terra do Cananeu, do Heteu, do Amorreu do Ferezeu, do Heveu e do Jebuseu, a uma terra onde corre o leite e o mel.  
-**18** Eles ouvirão a tua voz, e tu com os anciães de Israel irás ao rei do Egito e lhe dirás: O Senhor Deus dos Hebreus chamou-nos; nós faremos viagem de três dias no deserto para sacrificarmos ao Senhor nosso Deus.  
-**19** Bem sei que o rei do Egito não vos deixará ir, se não for (obrigado) por mão forte:  
-**20** mas, por isso, eu estenderei a minha mão e ferirei o Egito com toda a sorte de prodígios, que farei no meio deles. Depois disto vos deixará partir.  
+**18** Eles ouvirão a tua voz, e tu com os anciães de Israel irás ao rei do Egipto e lhe dirás: O Senhor Deus dos Hebreus chamou-nos; nós faremos viagem de três dias no deserto para sacrificarmos ao Senhor nosso Deus.  
+**19** Bem sei que o rei do Egipto não vos deixará ir, se não for (obrigado) por mão forte:  
+**20** mas, por isso, eu estenderei a minha mão e ferirei o Egipto com toda a sorte de prodígios, que farei no meio deles. Depois disto vos deixará partir.  
 **21** Farei que este povo encontre graça junto dos Egípcios; quando partirdes, não saireis com as mãos vazias.  
-**22** Cada mulher pedirá à sua vizinha e àquela que mora na sua casa, objetos de prata e de ouro, e vestidos: pô-los-eis sobre vossos filhos e filhas, e despojareis o Egito.  
+**22** Cada mulher pedirá à sua vizinha e àquela que mora na sua casa, objectos de prata e de ouro, e vestidos: pô-los-eis sobre vossos filhos e filhas, e despojareis o Egipto.  
 
 ## Capítulo 4
 
@@ -97,10 +97,10 @@
 **15** Fala-lhe e põe as minhas palavras na sua boca: eu serei na tua boca e na dele, e vos mostrarei o que deveis fazer.  
 **16** Ele falará por ti ao povo, e será a tua boca: tu, junto dele, farás as vezes de Deus  
 **17** Toma também na tua mão esta vara, com a qual operarás os prodígios.  
-**18** Moisés partiu, voltou para Jetro, seu sogro, e disse-lhe; Peço-te que me deixes ir aos meus irmãos (que estão) no Egito, a ver se ainda são vivos. Jetro disse-lhe: Vai em paz.  
-**19** Ora o Senhor disse a Moisés, em Madian: Vai, e volta ao Egito, porque morreram todos aqueles que procuravam a tua vida.  
-**20** Tomou, pois, Moisés sua mulher e os seus filhos, pô-los sobre um jumento e voltou para o Egito, levando na mão a vara de Deus.  
-**21** O Senhor disse-lhe enquanto voltava para o Egito: Cuida de fazer diante de Faraó todos os prodígios que eu pus na tua mão. Eu endurecerei o seu coração, e ele não deixará partir o povo.  
+**18** Moisés partiu, voltou para Jetro, seu sogro, e disse-lhe; Peço-te que me deixes ir aos meus irmãos (que estão) no Egipto, a ver se ainda são vivos. Jetro disse-lhe: Vai em paz.  
+**19** Ora o Senhor disse a Moisés, em Madian: Vai, e volta ao Egipto, porque morreram todos aqueles que procuravam a tua vida.  
+**20** Tomou, pois, Moisés sua mulher e os seus filhos, pô-los sobre um jumento e voltou para o Egipto, levando na mão a vara de Deus.  
+**21** O Senhor disse-lhe enquanto voltava para o Egipto: Cuida de fazer diante de Faraó todos os prodígios que eu pus na tua mão. Eu endurecerei o seu coração, e ele não deixará partir o povo.  
 **22** Tu lhe dirás: Isto diz o Senhor: Israel é meu filho, meu filho primogénito.  
 **23** Eu te mando: Deixa partir meu filho, para que ele me sirva: se não quiseres deixado partir, matarei o teu filho primogénito.  
 **24** Quando (Moisés) ia no caminho, o Senhor se lhe apresentou na pousada e queria matá-lo.  
@@ -117,17 +117,17 @@
 **1** Depois disto Moisés e Aarão foram ter com Faraó e disseram-lhe: Estas coisas diz o Senhor Deus de Israel: Deixa ir o meu povo, para que me ofereça sacrifícios no deserto.  
 **2** Ele, porém, respondeu; Quem é o Senhor, para que eu obedeça à sua voz e deixe ir Israel? Não conheço o Senhor, e não deixarei ir Israel.  
 **3** Eles disseram: O Deus dos Hebreus chamou-nos, para que andemos três dias de caminho pelo deserto, e sacrifiquemos ao Senhor nosso Deus, não suceda que venha sobre nós a peste ou a espada.  
-**4** O rei do Egito respondeu-lhes: Moisés e Aarão, por que distraís o povo dos seus trabalhos? Ide para as vossas tarefas.  
+**4** O rei do Egipto respondeu-lhes: Moisés e Aarão, por que distraís o povo dos seus trabalhos? Ide para as vossas tarefas.  
 **5** Faraó acrescentou: O vosso povo é muito numeroso, e vós quereis interromper os seus trabalhos!  
-**6** Naquele mesmo dia ordenou aos prefeitos das obras e aos exatores do povo:  
+**6** Naquele mesmo dia ordenou aos prefeitos das obras e aos exactores do povo:  
 **7** Não mais dareis palha, como antes, ao povo para fazer tijolos, mas eles mesmos juntarão a palha.  
 **8** Porém os obrigareis à mesma quantidade de tijolos que antes (faziam) sem lhes diminuir nada, por que estão ociosos, e por isso gritam: Vamos, e sacrificaremos ao nosso Deus.  
 **9** Sejam oprimidos com trabalhos, estejam ocupados, para que não atendam a palavras mentirosas.  
-**10** Saíram, pois, os prefeitos das obras e os exatores, e disseram ao povo: Assim diz Faraó: Não vos dou mais palha:  
+**10** Saíram, pois, os prefeitos das obras e os exactores, e disseram ao povo: Assim diz Faraó: Não vos dou mais palha:  
 **11** ide e juntai-a onde a puderdes encontrar: contudo, nem por isso se diminuirá alguma coisa da vossa tarefa.  
-**12** O povo, pois, espalhou-se por toda a terra do Egito a juntar palha.  
+**12** O povo, pois, espalhou-se por toda a terra do Egipto a juntar palha.  
 **13** Os prefeitos das obras justavam com eles, dizendo: Completai o vosso trabalho todos os dias, como antes costumáveis fazer, quando vos davam a palha.  
-**14** Foram castigados os escribas dos filhos de Israel que os exatores tinham colocado à frente deles. Diziam-lhes: Por que não completastes vós nem ontem nem hoje a mesma quantidade de tijolos que (fazíeis) antes?  
+**14** Foram castigados os escribas dos filhos de Israel que os exactores tinham colocado à frente deles. Diziam-lhes: Por que não completastes vós nem ontem nem hoje a mesma quantidade de tijolos que (fazíeis) antes?  
 **15** Então os que presidiam aos filhos de Israel foram e gritaram a Faraó, dizendo: Por que tratas assim os teus servos?  
 **16** Não nos fornecem a palha, e exigem a mesma quantidade de tijolos; eis que nós teus servos somos batidos com açoutes, e injustamente se procede contra o teu povo.  
 **17** Ele disse: Estais ociosos, e por isso dizeis: Vamos a sacrificar ao Senhor.  
@@ -150,9 +150,9 @@
 **8** e vos introduzirei na terra que jurei dar a Abraão, Isaac e Jacob, terra que entreguei ao vosso domínio. Eu sou o Senhor.  
 **9** Moisés contou tudo isto aos filhos de Israel; eles, porém, não o ouviram por causa da angústia do (seu) espírito e do seu trabalho duríssimo.  
 **10** O Senhor falou a Moisés, dizendo:  
-**11** Vai dizer a Faraó, rei do Egito, que deixe partir da sua terra os filhos de Israel.  
+**11** Vai dizer a Faraó, rei do Egipto, que deixe partir da sua terra os filhos de Israel.  
 **12** Moisés respondeu na presença do Senhor; Os filhos de Israel não me ouvem; ora, como me ouvirá Faraó, a mim que tenho dificuldade em falar?  
-**13** O Senhor falou a Moisés e a Aarão, e deu-lhes ordens para os filhos de Israel e para Faraó, rei dó Egito, a fim de tirarem os filhos de Israel da terra do Egito.  
+**13** O Senhor falou a Moisés e a Aarão, e deu-lhes ordens para os filhos de Israel e para Faraó, rei dó Egipto, a fim de tirarem os filhos de Israel da terra do Egipto.  
 **14** Estes são os chefes das casas seguindo as Suas famílias. Filhos de Ruben, primogénito de Israel: Henoch, Faliu, Hesron e Carmi.  
 **15** Estas são as famílias de Ruben. Filhos de Simeão: Jamuel, Jamim, Aod, Jaquin, Soar, e Saul, filho de uma cananeia. Esta é a progénie de Simeão.  
 **16** E estes são os nomes dos filhos de Levi, com as suas descendências: Gerson, Caath e Merari. Os anos da vida de Levi foram cento e trinta e sete.  
@@ -165,20 +165,20 @@
 **23** Aarão tomou por mulher a Isabel, filha de Aminadab, irmã de Naason, a qual lhe deu à luz Nadab, Abiu, Eleazar e Itamar.  
 **24** Filhos de Coré: Aser, Elcana e Abiasaph. Estas são as famílias dos descendentes de Coré.  
 **25** Eleazar, filho de Aarão, tomou por mulher uma das filhas de Futiel, a qual lhe deu à luz Fineias. Estes são os chefes das linhagens dos levitas segundo as suas famílias.  
-**26** Estes são o Aarão e o Moisés a quem o Senhor ordenou que tirassem da terra do Egito os filhos de Israel segundo os seus grupos.  
-**27** Este Moisés e este Aarão são aqueles que falaram a Faraó, rei do Egito, para tirarem do Egito os filhos de Israel.  
-**28** No dia em que o Senhor falou a Moisés na terra do Egito,  
-**29** o Senhor disse a Moisés: Eu sou o Senhor; dize a Faraó, rei do Egito, tudo o que eu te digo.  
+**26** Estes são o Aarão e o Moisés a quem o Senhor ordenou que tirassem da terra do Egipto os filhos de Israel segundo os seus grupos.  
+**27** Este Moisés e este Aarão são aqueles que falaram a Faraó, rei do Egipto, para tirarem do Egipto os filhos de Israel.  
+**28** No dia em que o Senhor falou a Moisés na terra do Egipto,  
+**29** o Senhor disse a Moisés: Eu sou o Senhor; dize a Faraó, rei do Egipto, tudo o que eu te digo.  
 **30** Moisés respondeu ao Senhor: Tenho dificuldade em falar: como ouvirá Faraó?  
 
 ## Capítulo 7
 
 **1** O Senhor disse a Moisés: Repara que te constitui deus de Faraó; Aarão, teu irmão, será teu profeta.  
 **2** Tu lhe dirás tudo o que eu te mando, e ele falará a Faraó, para que deixe partir do seu país os filhos de Israel.  
-**3** Eu endurecerei o seu coração, e multiplicarei os meus sinais e os meus prodígios na terra do Egito.  
-**4** Faraó não vos ouvirá, mas eu estenderei a minha mão sobre o Egito e farei sair do Egito o meu exército, o meu povo, os filhos de Israel, por meio dos maiores juízos.  
-**5** Os Egípcios saberão que eu sou o Senhor, quando eu estender a minha mão sobre o Egito, e fizer sair do meio deles os filhos de Israel.  
-**6** Fizeram, pois, Moisés e Aarão como o Senhor tinha mandado; fizeram-no exatamente.  
+**3** Eu endurecerei o seu coração, e multiplicarei os meus sinais e os meus prodígios na terra do Egipto.  
+**4** Faraó não vos ouvirá, mas eu estenderei a minha mão sobre o Egipto e farei sair do Egipto o meu exército, o meu povo, os filhos de Israel, por meio dos maiores juízos.  
+**5** Os Egípcios saberão que eu sou o Senhor, quando eu estender a minha mão sobre o Egipto, e fizer sair do meio deles os filhos de Israel.  
+**6** Fizeram, pois, Moisés e Aarão como o Senhor tinha mandado; fizeram-no exactamente.  
 **7** Moisés tinha oitenta anos, e Aarão oitenta e três, quando falaram a Faraó.  
 **8** O Senhor disse a Moisés e a Aarão:  
 **9** Quando Faraó vos disser: Fazei um prodígio-tu dirás a Aarão: Pega na tua vara, lança-a por terra diante de Faraó, e ela se converterá em serpente.  
@@ -191,10 +191,10 @@
 **16** e lhe dirás: o Senhor Deus dos Hebreus enviou-me a ti para (te) dizer: Deixa sair o meu povo para que me ofereça sacrifícios no deserto. Até ao presente não quiseste ouvir.  
 **17** Olha, pois, o que diz o Senhor: Nisto conhecerás que eu sou o Senhor: ferirei com a vara, que tenho na minha mão, a água do rio e ela se converterá em sangue.  
 **18** Os peixes que há no rio morrerão, as águas se corromperão, e os Egípcios sentirão repugnância de a beber.  
-**19** O Senhor disse também a Moisés; Dize a Aarão: Toma a tua vara, e estende a tua mão sobre as águas do Egito, sobre os seus rios, ribeiros, lagoas, e todos os reservatórios de águas, para que se convertam em sangue; e haverá sangue em toda a terra do Egito, tanto nos vasos de madeira, como nos de pedra.  
+**19** O Senhor disse também a Moisés; Dize a Aarão: Toma a tua vara, e estende a tua mão sobre as águas do Egipto, sobre os seus rios, ribeiros, lagoas, e todos os reservatórios de águas, para que se convertam em sangue; e haverá sangue em toda a terra do Egipto, tanto nos vasos de madeira, como nos de pedra.  
 **20** Moisés e Aarão fizeram como o Senhor lhes mandará. (Aarão), levantando a vara, feriu a água do rio, na presença de Faraó e dos seus servos, e ela converteu-se em sangue.  
-**21** Os peixes, que havia no rio, morreram, e o rio, corrompeu-se, e os Egípcios não podiam beber da água do rio, e houve sangue por toda a terra do Egito.  
-**22** Porém os magos do Egito fizeram coisas semelhantes com os seus encantamentos, e o coração de Faraó endureceu-se, e não os ouviu, como o Senhor tinha predito.  
+**21** Os peixes, que havia no rio, morreram, e o rio, corrompeu-se, e os Egípcios não podiam beber da água do rio, e houve sangue por toda a terra do Egipto.  
+**22** Porém os magos do Egipto fizeram coisas semelhantes com os seus encantamentos, e o coração de Faraó endureceu-se, e não os ouviu, como o Senhor tinha predito.  
 **23** (Faraó) voltou-lhes as costas, entrou em sua casa e não aplicou o seu coração (a estas coisas) ainda desta vez.  
 **24** Todos os Egípcios cavaram nos arredores do rio para encontrar água potável, porque não podiam beber da água do rio  
 **25** Passaram-se (entretanto) sete dias, depois que o Senhor feriu o rio.  
@@ -205,26 +205,26 @@
 **2** Se, porém, o não quiseres deixar ir, flagelarei com rãs todo o teu país.  
 **3** No rio fervilharão rãs, e elas subirão e entrarão em tua casa, na câmara onde dormes, sobre o teu leito, nas casas dos teus servos, no meio do teu povo, nos teus fornos e nos sobejos dos teus alimentos;  
 **4** e as rãs irão sobre ti, sobre o teu povo e sobre todos os teus servos.  
-**5** O Senhor disse a Moisés: Dize a Aarão: Estende a tua mão sobre os rios, ribeiras e lagoas, e faze sair rãs sobre a terra do Egito.  
-**6** Aarão estendeu a sua mão sobre as águas do Egito, e as rãs sairam e cobriram a terra do Egito.  
-**7** Os magos, porém, fizeram coisa semelhante, por meio dos seus encantamentos, e fizeram sair rãs sobre a terra do Egito.  
+**5** O Senhor disse a Moisés: Dize a Aarão: Estende a tua mão sobre os rios, ribeiras e lagoas, e faze sair rãs sobre a terra do Egipto.  
+**6** Aarão estendeu a sua mão sobre as águas do Egipto, e as rãs sairam e cobriram a terra do Egipto.  
+**7** Os magos, porém, fizeram coisa semelhante, por meio dos seus encantamentos, e fizeram sair rãs sobre a terra do Egipto.  
 **8** Faraó chamou Moisés e Aarão, e disse-lhes: Rogai ao Senhor que afaste as rãs de mim e do meu povo, e eu deixarei ir o povo para que ofereça sacrifícios ao Senhor.  
-**9** Moisés disse a Faraó: Determina-me quando deverei rogar por ti, pelos teus servos e pelo teu povo, a fim de que as rãs sejam afastadas de ti, da tua casa, dos teus servos e do teu povo, e somente fiquem no rio.  
+**9** Moisés disse a Faraó: Determina-me quando deverei rogar por ti, pelos teus servos e pelo teu povo, a fim de que as rãs sejam afastadas de ti, da tua casa, dos teus servos e do teu povo, e sòmente fiquem no rio.  
 **10** Ele respondeu: Amanhã. Moisés disse: Farei segundo a tua palavra, para que saibas que não há quem seja como o Senhor nosso Deus.  
-**11** As rãs afastar-se-ão de ti, da tua casa, dos teus servos e do teu povo, e somente ficarão no rio.  
+**11** As rãs afastar-se-ão de ti, da tua casa, dos teus servos e do teu povo, e sòmente ficarão no rio.  
 **12** Moisés e Aarão saíram da presença de Faraó, e Moisés clamou ao Senhor pelo cumprimento da promessa que tinha feito a Faraó relativamente às rãs.  
 **13** O Senhor fez conforme a palavra de Moisés, e morreram as rãs das casas, das granjas e dos campos.  
 **14** Juntaram-nas em imensos montões, e a terra ficou infeccionada.  
 **15** Mas Faraó, vendo que lhe era dado alívio, endureceu o seu coração e não os ouviu, como o Senhor tinha mandado.  
-**16** O Senhor disse a Moisés: Dize a Aarão: Estende a tua vara, fere o pó da terra, e haja mosquitos em toda a terra do Egito.  
-**17** Eles fizeram assim. Aarão, pegando na vara, estendeu a mão, feriu o pó da terra, e os mosquitos caíram sobre os homens e sobre os animais; todo o pó da terra se converteu em mosquitos por toda a terra do Egito.  
+**16** O Senhor disse a Moisés: Dize a Aarão: Estende a tua vara, fere o pó da terra, e haja mosquitos em toda a terra do Egipto.  
+**17** Eles fizeram assim. Aarão, pegando na vara, estendeu a mão, feriu o pó da terra, e os mosquitos caíram sobre os homens e sobre os animais; todo o pó da terra se converteu em mosquitos por toda a terra do Egipto.  
 **18** Os magos fizeram dum modo semelhante com os seus encantamentos para produzir mosquitos, e não puderam. Os mosquitos existiam, tanto sobre os homens, como sobre os animais.  
 **19** Então os magos disseram a Faraó: O dedo de Deus está aqui. Porém o coração de Faraó endureceu-se, e não os ouviu, como o Senhor tinha anunciado.  
 **20** O Senhor disse outra vez a Moisés; Levanta-te de madrugada, e apresenta-te a Faraó, quando ele sair para ir junto da água, e dize-lhe: Assim fala o Senhor: Deixa ir o meu povo, a fim de que me ofereça sacrifícios,  
 **21** Por que, se o não deixares ir, eu mandarei contra ti, contra os teus servos, contra o teu povo, contra as tuas casas, todo o género de moscas: e as casas dos Egipcios e toda a terra que habitam, serão cheias de moscas de vários géneros.  
 **22** Contudo eu, nesse dia, distinguirei a terra de Gessen, onde habita o meu povo, de modo que não haja aí moscas, a fim de que saibas que eu, o Senhor, estou no meio desta terra.  
 **23** Estabelecerei (assim) uma distinção entre o meu povo e o teu povo: amanhã terá lugar este sinal.  
-**24** E o Senhor assim fez. Vieram moscas molestíssimas sobre as casas de Faraó e dos seus servos, e sobre toda a terra do Egito; e a terra foi devastada por tais moscas.  
+**24** E o Senhor assim fez. Vieram moscas molestíssimas sobre as casas de Faraó e dos seus servos, e sobre toda a terra do Egipto; e a terra foi devastada por tais moscas.  
 **25** Faraó chamou Moisés e Aarão, e disse-lhes; Ide, e sacrificai ao vosso Deus nesta terra.  
 **26** Moisés respondeu: Não se pode fazer assim, porque sacrificaremos ao Senhor nosso Deus coisas que para os Egípcios é sacrilégio matar; se nós, diante dos Egípcios matarmos o que eles adoram, nos apedrejarão.  
 **27** Andaremos três dias de viagem no deserto, e sacrificaremos ao Senhor nosso Deus, como ele nos ordenou.  
@@ -244,7 +244,7 @@
 **6** Ao outro dia, pois, fez o Senhor o que tinha dito, e todos os animais dos Egípcios morreram; dos animais dos filhos de Israel não morreu nenhum.  
 **7** Faraó mandou ver, e nada estava morto do que possuía Israel. O coração de Faraó, porém, endureceu-se, e não deixou ir o povo.  
 **8** O Senhor disse a Moisés e a Aarão: Tomai mãos cheias de cinza dum forno, e Moisés a lance ao ar diante de Faraó,  
-**9** para que se converta num pó fino, sobre toda a terra do Egito, donde resultarão nos homens e nos animais úlceras e tumores, por toda essa terra.  
+**9** para que se converta num pó fino, sobre toda a terra do Egipto, donde resultarão nos homens e nos animais úlceras e tumores, por toda essa terra.  
 **10** Tomaram cinza dum forno, e apresentaram-se a Faraó. Moisés lançou-a ao ar, e formaram-se úlceras e tumores nos homens e nos animais.  
 **11** Os magos não podiam ter-se de pé diante de Moisés, por causa das úlceras, que estavam sobre eles, como sobre todos os Egípcios.  
 **12** O Senhor endureceu o coração de Faraó, que não os ouviu, como o Senhor tinha dito a Moisés.  
@@ -253,14 +253,14 @@
 **15** Se eu tivesse estendido a minha mão e te tivesse ferido de peste a ti e ao teu povo, haveríeis já desaparecido da terra.  
 **16** Porém conservei-te com vida, para mostrar em ti o meu poder e para que o meu nome seja celebrado em toda a terra.  
 **17** Ainda reténs o meu povo, e o não queres deixar ir?  
-**18** Pois fica sabendo que amanhã, a esta mesma hora, farei chover granizo abundantíssimo, qual se não viu nunca no Egito, desde o dia em que foi fundado até ao presente.  
+**18** Pois fica sabendo que amanhã, a esta mesma hora, farei chover granizo abundantíssimo, qual se não viu nunca no Egipto, desde o dia em que foi fundado até ao presente.  
 **19** Manda, portanto, imediatamente juntar os teus animais e tudo o que tens no campo, porque os homens e os animais que se acharem fora, que não estiverem recolhidos, cairá sobre eles o granizo, e morrerão.  
 **20** Aqueles dos servos de Faraó, que temeram a palavra do Senhor, fizeram retirar os seus servas e os seus animais para as casas.  
 **21** Aqueles porém, que desprezaram a palavra do Senhor, deixaram ficar os seus servos e os seus animais nos campos.  
-**22** O Senhor disse a Moisés; Estende a tua mão para o céu, a fim de que chova granizo em toda a terra do Egito sobre os homens, sobre os animais e sobre toda a verdura do campo, na terra do Egito.  
-**23** Moisés estendeu a vara para o céu, e o Senhor despediu trovões, granizo e raios, que se precipitavam sobre a terra. O Senhor fez cair granizo sobre a terra do Egito,  
-**24** e, misturado com ele, caiu fogo; o granizo foi de tal grandeza, que nunca antes se viu igual em toda a terra do Egito, desde que aquela nação foi fundada.  
-**25** O granizo feriu em toda a terra do Egito tudo o que estava nos campos, desde os homens até aos animais, feriu toda a erva do campo e destroçou todas as árvores do país.  
+**22** O Senhor disse a Moisés; Estende a tua mão para o céu, a fim de que chova granizo em toda a terra do Egipto sobre os homens, sobre os animais e sobre toda a verdura do campo, na terra do Egipto.  
+**23** Moisés estendeu a vara para o céu, e o Senhor despediu trovões, granizo e raios, que se precipitavam sobre a terra. O Senhor fez cair granizo sobre a terra do Egipto,  
+**24** e, misturado com ele, caiu fogo; o granizo foi de tal grandeza, que nunca antes se viu igual em toda a terra do Egipto, desde que aquela nação foi fundada.  
+**25** O granizo feriu em toda a terra do Egipto tudo o que estava nos campos, desde os homens até aos animais, feriu toda a erva do campo e destroçou todas as árvores do país.  
 **26** Só na terra de Gessen, onde estavam os filhos de Israel, não caiu granizo.  
 **27** Faraó mandou chamar Moisés e Aarão e disse-lhes: Eu pequei ainda desta vez; o Senhor é justo; eu e o meu povo somos ímpios.  
 **28** Rogai ao Senhor para que cessem os trovões de Deus e o granizo, a fim de que eu vos deixe ir, e não permaneçais mais aqui.  
@@ -270,7 +270,7 @@
 **32** O trigo, porém, e o farro não foram danificados, porque eram serôdios.  
 **33** Moisés, tendo deixado Faraó e saído da cidade, ergueu as mãos para o Senhor, e cessaram os trovões e o granizo, e não caiu mais chuva, sobre a terra.  
 **34** Faraó, porém, vendo que tinha cessado a chuva, assim como o granizo e os trovões, aumentou o seu pecado:  
-**35** o seu coração se obstinou e endureceu extraordinariamente, e não deixou partir os filhos de Israel, como o Senhor tinha mandado por meio de Moisés.  
+**35** o seu coração se obstinou e endureceu extraordinàriamente, e não deixou partir os filhos de Israel, como o Senhor tinha mandado por meio de Moisés.  
 
 ## Capítulo 10
 
@@ -280,24 +280,24 @@
 **4** Se ainda resistes, e não o queres deixar ir, amanhã mandarei gafanhotos sobre as tuas terras,  
 **5** os quais cobrirão a superfície da terra, de sorte que dela não apareça nada; será devorado o que escapou do granizo, porque eles roerão todas as plantais que crescem nos campos.  
 **6** Encherão as tuas casas, as dos teus servos, as de todos os Egípcios: nem os teus pais, nem os teus avós viram tanta quantidade, desde que eles nasceram na terra até ao presente. Com isto Moisés voltou-se e saiu da presença de Faraó.  
-**7** Mas os servos de Faraó disseram-lhe: Até quando sofreremos nós este escândalo? Deixa ir estes homens, a fim de que ofereçam sacrifícios ao Senhor seu Deus; não vês que o Egito está perdido?  
+**7** Mas os servos de Faraó disseram-lhe: Até quando sofreremos nós este escândalo? Deixa ir estes homens, a fim de que ofereçam sacrifícios ao Senhor seu Deus; não vês que o Egipto está perdido?  
 **8** E tomaram a chamar Moisés e Aarão à presença de Faraó, o qual lhes disse: Ide, oferecei sacrifícios ao Senhor vosso Deus. Quem são os que hão-de ir?  
 **9** Moisés respondeu: Havemos de ir com os nossos meninos, com os nossos velhos, com filhos e filhas, com ovelhas e com gados, porque é uma solenidade do Senhor nosso Deus.  
 **10** Faraó respondeu: Assim seja o Senhor convosco, como eu deixarei ir a vós e aos vossos filhos. Tomai cuidado, pois obrais com más intenções.  
-**11** Não, não; ide somente vós, os homens, e oferecei sacrifícios ao Senhor, porque isto é o que vós mesmos pedistes. E, imediatamente, foram expulsos da presença de Faraó.  
-**12** O Senhor disse a Moisés: Estende a tua mão sobre a terra do Egito, para que venham sobre ela os gafanhotos, a fim de que subam pelo Egito e devorem toda a erva, tudo o que tenha ficado do granizo.  
-**13** Moisés estendeu a vara sobre a terra do Egito, e o Senhor mandou um vento abrasador durante todo aquele dia e noite. Quando foi manhã, o vento abrasador havia trazido os gafanhotos  
-**14** que avançaram sobre toda a terra do Egito, e pousaram em todo o território egípcio, em tão grande número, como nunca antes daquele tempo tinha havido, nem haverá.  
-**15** Cobriram toda a superfície da terra, obscurecendo tudo. Foi devorada a erva da terra, tudo o que havia de frutos nas árvores, que o granizo tinha deixado; não ficou nada de verde nas árvores e nas ervas da terra em todo o Egito.  
+**11** Não, não; ide sòmente vós, os homens, e oferecei sacrifícios ao Senhor, porque isto é o que vós mesmos pedistes. E, imediatamente, foram expulsos da presença de Faraó.  
+**12** O Senhor disse a Moisés: Estende a tua mão sobre a terra do Egipto, para que venham sobre ela os gafanhotos, a fim de que subam pelo Egipto e devorem toda a erva, tudo o que tenha ficado do granizo.  
+**13** Moisés estendeu a vara sobre a terra do Egipto, e o Senhor mandou um vento abrasador durante todo aquele dia e noite. Quando foi manhã, o vento abrasador havia trazido os gafanhotos  
+**14** que avançaram sobre toda a terra do Egipto, e pousaram em todo o território egípcio, em tão grande número, como nunca antes daquele tempo tinha havido, nem haverá.  
+**15** Cobriram toda a superfície da terra, obscurecendo tudo. Foi devorada a erva da terra, tudo o que havia de frutos nas árvores, que o granizo tinha deixado; não ficou nada de verde nas árvores e nas ervas da terra em todo o Egipto.  
 **16** Pelo que Faraó chamou a toda a pressa Moisés e Aarão, e disse-lhes: pequei contra o Senhor vosso Deus e contra vós,  
 **17** mas agora perdoai-me, ainda esta vez, o meu pecado, e rogai ao Senhor vosso Deus que tire de mim esta morte.  
 **18** Moisés, tendo saído da presença de Faraó, orou ao Senhor,  
-**19** o qual fez soprar do poente um vento fortíssimo que arrebatou os gafanhotos e os lançou no mar Vermelho: não ficou um só em todos os limites do Egito.  
+**19** o qual fez soprar do poente um vento fortíssimo que arrebatou os gafanhotos e os lançou no mar Vermelho: não ficou um só em todos os limites do Egipto.  
 **20** O Senhor endureceu o coração de Faraó, e ele não deixou sair os filhos de Israel.  
-**21** O Senhor disse a Moisés: Estende a tua mão para o céu, e haja sobre a terra do Egito trevas tão espessas, que se possam apalpar.  
-**22** Moisés estendeu a sua mão para o céu, e houve trevas espessas em toda a terra do Egito durante três dias.  
+**21** O Senhor disse a Moisés: Estende a tua mão para o céu, e haja sobre a terra do Egipto trevas tão espessas, que se possam apalpar.  
+**22** Moisés estendeu a sua mão para o céu, e houve trevas espessas em toda a terra do Egipto durante três dias.  
 **23** Um não via o outro, nem se movia do lugar em que estava: porém, em toda a parte onde habitavam os filhos de Israel, havia luz.  
-**24** Faraó chamou Moisés e Aarão, e disse-lhes: Ide, oferecei sacrifícios ao Senhor; fiquem somente as vossas ovelhas e o vosso gado, os vossos meninos podem ir convosco.  
+**24** Faraó chamou Moisés e Aarão, e disse-lhes: Ide, oferecei sacrifícios ao Senhor; fiquem sòmente as vossas ovelhas e o vosso gado, os vossos meninos podem ir convosco.  
 **25** Moisés respondeu: Também nos darás o necessário para os sacrifícios e holocaustos que oferecermos ao Senhor nosso Deus.  
 **26** Irão connosco todos os nossos rebanhos; não ficará deles nem uma unha, porque são necessários para o culto do Senhor nosso Deus; nós próprios ignoramos o que se deve imolar, enquanto não chegarmos àquele lugar.  
 **27** Mas o Senhor endureceu o coração de Faraó, que não os quis deixar ir.  
@@ -306,20 +306,20 @@
 
 ## Capítulo 11
 
-**1** O Senhor disse a Moisés: Flagelarei ainda com uma praga a Faraó e ao Egito, e, depois disso, vos deixará partir, e até vos constrangerá a sair.  
-**2** Dirás, pois, a todo o povo que cada homem peça ao seu amigo, e cada mulher à sua vizinha objetos de prata e ouro.  
-**3** O Senhor fez que o seu povo achasse graça diante dos Egipcios. O próprio Moisés foi um homem muito grande na terra do Egito, aos olhos dos servos de Faraó e de todo o povo.  
-**4** Moisés disse: Estas coisas diz o Senhor: A meia-noite passarei pelo Egito,  
-**5** e todo o primogénito morrerá na terra do Egito, desde o primogénito de Faraó que se assenta sobre o seu trono, até ao primogénito da escrava, que está à mó, e até aos primogénitos dos animais.  
-**6** Haverá em toda a terra do Egito um grande clamor qual nunca antes houve, nem haverá jamais.  
+**1** O Senhor disse a Moisés: Flagelarei ainda com uma praga a Faraó e ao Egipto, e, depois disso, vos deixará partir, e até vos constrangerá a sair.  
+**2** Dirás, pois, a todo o povo que cada homem peça ao seu amigo, e cada mulher à sua vizinha objectos de prata e ouro.  
+**3** O Senhor fez que o seu povo achasse graça diante dos Egipcios. O próprio Moisés foi um homem muito grande na terra do Egipto, aos olhos dos servos de Faraó e de todo o povo.  
+**4** Moisés disse: Estas coisas diz o Senhor: A meia-noite passarei pelo Egipto,  
+**5** e todo o primogénito morrerá na terra do Egipto, desde o primogénito de Faraó que se assenta sobre o seu trono, até ao primogénito da escrava, que está à mó, e até aos primogénitos dos animais.  
+**6** Haverá em toda a terra do Egipto um grande clamor qual nunca antes houve, nem haverá jamais.  
 **7** Mas entre todos os filhos de Israel, desde os homens até aos animais, não se ouvirá ganir um cão, para que saibais com que grande milagre o Senhor separa os Egípcios de Israel.  
 **8** Todos estes teus servos virão a mim, e se prostrarão diante de mim, dizendo; Sai tu e todo o teu povo, que te está sujeito: depois disto sairemos.  
-**9** E Moisés saiu da presença de Faraó muito irado. O Senhor disse a Moisés: Faraó não vos ouvirá, para que se multipliquem os meus prodígios na terra do Egito.  
+**9** E Moisés saiu da presença de Faraó muito irado. O Senhor disse a Moisés: Faraó não vos ouvirá, para que se multipliquem os meus prodígios na terra do Egipto.  
 **10** Moisés e Aarão fizeram diante de Faraó todos os prodígios que estão escritos, mas o Senhor endureceu o coração de Faraó, e ele não deixou partir os filhos de Israel da sua terra.  
 
 ## Capítulo 12
 
-**1** O Senhor disse também a Moisés e a Aarão na terra do Egito:  
+**1** O Senhor disse também a Moisés e a Aarão na terra do Egipto:  
 **2** Este mês será para vós o princípio dos meses, será o primeiro dos meses do ano.  
 **3** Falai a todo o ajuntamento dos filhos de Israel e dizei-lhes: No décimo dia deste mês cada um tome um cordeiro por família e por casa.  
 **4** Se, porém, o número (de pessoas) for menor que o que pode bastar para comer o cordeiro, tomará o seu vizinho que estiver próximo da sua casa, segundo o número de almas que podem bastar para comer o cordeiro.  
@@ -327,28 +327,28 @@
 **6** Vós o guardareis até ao dia catorze deste mês, e toda a multidão dos filhos de Israel o imolará à tarde.  
 **7** Tomarão do seu sangue, pô-lo-ão sobre as duas ombreiras e sobre a verga da porta das casas, em que eles o hão-de comer.  
 **8** Nessa mesma noite comerão as carnes (do cordeiro) assadas no fogo, com pães ázimos e ervas amargas.  
-**9** Não comereis dele nada cru, nem cozido em água, mas somente assado ao fogo, com a cabeça, os pés e as entranhas.  
+**9** Não comereis dele nada cru, nem cozido em água, mas sòmente assado ao fogo, com a cabeça, os pés e as entranhas.  
 **10** Nada ficará dele para o dia seguinte; se restar alguma coisa, queimá-la-eis no fogo.  
 **11** Comê-lo-eis deste modo: Cingireis os vossos rins, tereis as sandálias nos pés e os bordões na mão, e comereis à pressa, porque é a Páscoa (isto é a passagem)do Senhor.  
-**12** Nessa noite eu passarei pela terra do Egito, e ferirei (de morte) todo o primogénito na terra do Egito, desde os homens até aos animais, e exercerei a minha justiça contra todos os deuses do Egito, eu que sou o Senhor.  
-**13** O sangue, porém, será para vós um sinal (em vosso favor) nas casas em que morardes, pois eu verei o sangue e passarei adiante, e não haverá para vós a praga destruidora, quando eu ferir a terra do Egito.  
+**12** Nessa noite eu passarei pela terra do Egipto, e ferirei (de morte) todo o primogénito na terra do Egipto, desde os homens até aos animais, e exercerei a minha justiça contra todos os deuses do Egipto, eu que sou o Senhor.  
+**13** O sangue, porém, será para vós um sinal (em vosso favor) nas casas em que morardes, pois eu verei o sangue e passarei adiante, e não haverá para vós a praga destruidora, quando eu ferir a terra do Egipto.  
 **14** Este dia será para vós um dia memorável, e vós o celebrareis nas vossas gerações com um culto perpétuo como dia solene do Senhor.  
 **15** Comereis pães ázimos durante sete dias; desde o primeiro dia não se achará fermento em vossas casas: todo o que comer (pão) fermentado, desde o primeiro dia até ao sétimo, será eliminado de Israel.  
-**16** O primeiro dia será santo e solene, e o dia sétimo será festa igualmente venerável. Neles não fareis obra alguma servil, exceto aqueles que pertencem ao comer.  
-**17** Observareis, pois, a festa dos ázimos, porque nesse mesmo dia farei sair o vosso exército da terra do Egito, e vós observareis este dia com culto perpétuo, de geração em geração.  
+**16** O primeiro dia será santo e solene, e o dia sétimo será festa igualmente venerável. Neles não fareis obra alguma servil, excepto aqueles que pertencem ao comer.  
+**17** Observareis, pois, a festa dos ázimos, porque nesse mesmo dia farei sair o vosso exército da terra do Egipto, e vós observareis este dia com culto perpétuo, de geração em geração.  
 **18** No primeiro mês, no dia catorze do mês, à tarde, comereis os ázimos até à tarde do dia vinte e um do mesmo mês.  
 **19** Durante sete dias não se achará fermento em vossas casas: todo o que comer pão fermentado será eliminado do meio do ajuntamento de Israel, quer ele seja estrangeiro quer natural do país.  
 **20** Não comereis nada fermentado: comereis ázimos em todas as vossas casas.  
 **21** Moisés, pois, convocou todos os anciães de Israel e disse-lhes: Ide, tomai um animal para cada uma das vossas famílias, e imolai a Páscoa.  
 **22** Banhai um molhinho de hissopo no sangue, contido numa bacia, e aspergi com ele a verga e as duas ombreiras da porta: nenhum de vós saia da porta da sua casa até pela manhã,  
 **23** porque o Senhor passará ferindo os Egípcios, e, quando vir o sangue sobre a verga e sobre as duas ombreiras da porta, passará a porta da casa, e não permitirá que o exterminador entre em vossas casas e faça dano.  
-**24** Guarda este (preceito) como uma lei para ti e teus filhos perpetuamente.  
+**24** Guarda este (preceito) como uma lei para ti e teus filhos perpètuamente.  
 **25** Depois que tiverdes entrado na terra que o Senhor vos há-de dar, como prometeu, observareis estas cerimónias.  
 **26** Quando os vossos filhos vos disserem: Que rito sagrado é este?  
-**27** respondereis: É o sacrifício da Páscoa do Senhor, quando ele passou adiante as casas dos filhos de Israel no Egito, ferindo os Egípcios e livrando as nossas casas. Então o povo, ao ouvir isto, prostrando-se adorou (o Senhor).  
+**27** respondereis: É o sacrifício da Páscoa do Senhor, quando ele passou adiante as casas dos filhos de Israel no Egipto, ferindo os Egípcios e livrando as nossas casas. Então o povo, ao ouvir isto, prostrando-se adorou (o Senhor).  
 **28** Os filhos de Israel, tendo saído dali, fizeram como o Senhor tinha ordenado a Moisés e a Aarão.  
-**29** Aconteceu, pois, que, à meia-noite, o Senhor feriu todos os primogénitos na terra do Egito, desde o primogénito de Faraó, que se assentava sobre o seu trono, até ao primogénito do escravo, que estava no cárcere e a todo o primogénito dos animais.  
-**30** Faraó levantou-se de noite, assim como todos os seus servos, todos os Egípcios, e houve um grande clamor no Egito, porque não havia casa onde não houvesse um morto.  
+**29** Aconteceu, pois, que, à meia-noite, o Senhor feriu todos os primogénitos na terra do Egipto, desde o primogénito de Faraó, que se assentava sobre o seu trono, até ao primogénito do escravo, que estava no cárcere e a todo o primogénito dos animais.  
+**30** Faraó levantou-se de noite, assim como todos os seus servos, todos os Egípcios, e houve um grande clamor no Egipto, porque não havia casa onde não houvesse um morto.  
 **31** Faraó, chamando Moisés e Aarão naquela mesma noite, disse: Levantai-vos e sai do meio do meu povo, vós e os filhos de Israel: ide, oferecei sacrifícios ao Senhor, a partir, como dizeis.  
 **32** Tomai as vossas ovelhas e os vossos rebanhos, como pedistes, e, ao partir, abençoai-me.  
 **33** Os Egípcios também apertavam com o povo para que saísse depressa do país, dizendo: Morreremos todos.  
@@ -357,10 +357,10 @@
 **36** O Senhor fez com que o seu povo encontrasse graça diante dos Egípcios, para que estes lhe emprestassem: e (assim, os Israelitas) despojaram os Egípcios.  
 **37** Os filhos de Israel partiram de Ramessés por Socoth, sendo perto de seiscentos mil homens de pé, fora os meninos.  
 **38** Partiu, também com eles uma inumerável multidão de toda a sorte de gentes, ovelhas, gados, animais de diversos géneros em muito grande quantidade.  
-**39** Cozeram a farinha, que tinham levado do Egito já amassada, e fizeram dela pães ázimos, cozidos no borralho, pois não puderam fazê-la levedar, visto que foram obrigados a partir muito apressadamente, sem haverem podido preparar nada de comer.  
-**40** A duração do tempo que os filhos de Israel moraram no Egito, foi de quatrocentos e trinta anos,  
-**41** completos os quais, todo o exército do Senhor saiu no mesmo dia da terra do Egito.  
-**42** Esta noite, em que os tirou da terra do Egito, deve ser consagrada ao Senhor; todos os filhos de Israel a devem celebrar nas suas gerações.  
+**39** Cozeram a farinha, que tinham levado do Egipto já amassada, e fizeram dela pães ázimos, cozidos no borralho, pois não puderam fazê-la levedar, visto que foram obrigados a partir muito apressadamente, sem haverem podido preparar nada de comer.  
+**40** A duração do tempo que os filhos de Israel moraram no Egipto, foi de quatrocentos e trinta anos,  
+**41** completos os quais, todo o exército do Senhor saiu no mesmo dia da terra do Egipto.  
+**42** Esta noite, em que os tirou da terra do Egipto, deve ser consagrada ao Senhor; todos os filhos de Israel a devem celebrar nas suas gerações.  
 **43** O Senhor disse a Moisés e a Aarão: Eis um preceito sobre a Páscoa: Nenhum estrangeiro comerá dela.  
 **44** Todo o escravo comprado será circuncidado, e então comerá.  
 **45** O adventício e o mercenário não comerão dela.  
@@ -369,28 +369,28 @@
 **48** porém, se algum estrangeiro, que habitar convosco, quiser celebrar a Páscoa do Senhor, circundem-se primeiro todos os seus varões, todos os varões da sua casa, e então a celebrará e será como natural do país: Se algum, porém, não for circuncidado, não comerá dela.  
 **49** A mesma lei será para o natural e para o estrangeiro que vive convosco.  
 **50** Todos os filhos de Israel fizeram como o Senhor tinha ordenado a Moisés e Aarão.  
-**51** Naquele mesmo dia, o Senhor tirou da terra do Egito os filhos de Israel, repartidos nas suas turmas.  
+**51** Naquele mesmo dia, o Senhor tirou da terra do Egipto os filhos de Israel, repartidos nas suas turmas.  
 
 ## Capítulo 13
 
 **1** O Senhor falou a Moisés, dizendo:  
 **2** Consagra-me todo o primogénito, todo o primogénito de entre os filhos de Israel, tanto dos homens como dos animais, porque todos são meus.  
-**3** Moisés disse ao povo: Lembrai-vos deste dia em que saístes do Egito e da casa da escravidão, porque foi o Senhor quem vos tirou desde lugar com mão forte. Não comereis pão fermentado.  
+**3** Moisés disse ao povo: Lembrai-vos deste dia em que saístes do Egipto e da casa da escravidão, porque foi o Senhor quem vos tirou desde lugar com mão forte. Não comereis pão fermentado.  
 **4** Vós sais hoje no mês dos trigos novos.  
 **5** Quando o Senhor te tiver introduzido na terra do Cananeu, do Heteu, do Amorreu, do Heveu e do Jebuseu, que ele jurou dar a teus pais, terra onde corre o leite e o mel, celebrarás este rito sagrado neste mês.  
 **6** Comerás ázimos durante sete dias, e, no sétimo dia, haverá uma festa solene (em honra) do Senhor.  
 **7** Comereis ázimos durante sete dias; não haverá em vossas casas coisa alguma fermentada, nem em todos os teus territórios.  
-**8** Então dirás a teu filho: Isto é em memória do que o Senhor fez por mim, quando saí do Egito.  
-**9** Isto será como um sinal na tua mão, e como um memorial diante dos teus olhos, a fim de que a lei do Senhor ande sempre na tua boca, pois que o Senhor te tirou do Egito com mão forte.  
+**8** Então dirás a teu filho: Isto é em memória do que o Senhor fez por mim, quando saí do Egipto.  
+**9** Isto será como um sinal na tua mão, e como um memorial diante dos teus olhos, a fim de que a lei do Senhor ande sempre na tua boca, pois que o Senhor te tirou do Egipto com mão forte.  
 **10** Observarás este culto todos os anos no tempo fixado.  
 **11** Quando o Senhor te tiver introduzido na terra do Cananeu, como ele jurou a ti e a teus pais, e ta tiver dado,  
 **12** separarás para o Senhor todo o primogénito, mesmo o primogénito dos teus gados, e consagrarás ao Senhor tudo o que tiveres do sexo masculino.  
 **13** Trocarás o primogénito do jumento por uma ovelha; se, porém, o não resgatares, mata-lo-ás. Mas resgatarás com dinheiro todo o primogénito de teus filhos.  
-**14** E, quando teu filho te interrogar um dia: Que é isto? responder-lhe-ás: O Senhor tirou-nos do Egito, da casa da escravidão, com mão forte.  
-**15** Visto que Faraó, tendo-se obstinado, não quis deixar-nos partir, o Senhor matou todos os primogénitos na terra do Egito, desde o primogénito do homem até ao primogénito dos animais: por isso eu sacrifico ao Senhor todos os machos primogénitos (dos animais), e resgato todos os primogénitos de meus filhos.  
-**16** Isto, pois, será como um sinal na tua mão, e como uma coisa pendente ante os teus olhos para lembrança, porque o Senhor nos tirou do Egito com mão forte.  
-**17** Ora, quando Faraó deixou partir o povo, Deus não os conduziu pelo caminho do país dos Filisteus, que é (mais) vizinho, julgando que o povo talvez se arrependesse, se visse levantarem-se guerras contra ele, e retrocedesse para o Egito.  
-**18** Fê-los dar uma volta pelo caminho do deserto, até junto do Mar Vermelho. Os filhos de Israel saíram em boa ordem do Egito.  
+**14** E, quando teu filho te interrogar um dia: Que é isto? responder-lhe-ás: O Senhor tirou-nos do Egipto, da casa da escravidão, com mão forte.  
+**15** Visto que Faraó, tendo-se obstinado, não quis deixar-nos partir, o Senhor matou todos os primogénitos na terra do Egipto, desde o primogénito do homem até ao primogénito dos animais: por isso eu sacrifico ao Senhor todos os machos primogénitos (dos animais), e resgato todos os primogénitos de meus filhos.  
+**16** Isto, pois, será como um sinal na tua mão, e como uma coisa pendente ante os teus olhos para lembrança, porque o Senhor nos tirou do Egipto com mão forte.  
+**17** Ora, quando Faraó deixou partir o povo, Deus não os conduziu pelo caminho do país dos Filisteus, que é (mais) vizinho, julgando que o povo talvez se arrependesse, se visse levantarem-se guerras contra ele, e retrocedesse para o Egipto.  
+**18** Fê-los dar uma volta pelo caminho do deserto, até junto do Mar Vermelho. Os filhos de Israel saíram em boa ordem do Egipto.  
 **19** Moisés levou consigo os ossos de José, por este ter feito jurar aos filhos de Israel que, quando Deus os visitasse, levassem com eles os seus ossos para longe.  
 **20** Tendo saído de Socoth, acamparam em Etam, na extremidade do deserto.  
 **21** O Senhor ia adiante deles, de dia numa coluna de nuvem para lhes mostrar o caminho, e de noite numa coluna de fogo para os alumiar, a fim de poderem caminhar num e noutro tempo.  
@@ -405,11 +405,11 @@
 **5** Entretanto foi anunciado ao rei dos Egípcios que o povo tinha fugido. Então mudou-se o coração de Faraó e de seus servos a respeito do povo, e disseram: Que quisemos nós fazer, deixando partir Israel, para que ele nos não servisse?  
 **6** (Faraó), pois, mandou pôr os cavalos ao seu carro, e tomou consigo todo o seu povo.  
 **7** Tomou seiscentos carros escolhidos, com homens de guerra sobre cada um deles.  
-**8** O Senhor endureceu o coração de Faraó, rei do Egito, que foi no alcance dos filhos de Israel. Mas eles tinham saído debaixo da proteção duma poderosa mão.  
+**8** O Senhor endureceu o coração de Faraó, rei do Egipto, que foi no alcance dos filhos de Israel. Mas eles tinham saído debaixo da protecção duma poderosa mão.  
 **9** Como os Egípcios seguissem os vestígios dos (Israelitas) que iam adiante, alcançaram-nos quando estavam acampados junto do mar. Toda a cavalaria e os carros de Faraó e o exército estavam em Fiairoth defronte de Beelssefon.  
 **10** Como Faraó se aproximasse, levantando os filhos de Israel os olhos, viram os Egípcios nas suas costas, tiveram grande medo, e clamaram ao Senhor.  
-**11** Disseram a Moisés: Não havia talvez sepulturas no Egito, e por isso nos tiraste de lá para morrermos no deserto. Que fizeste, tirando-nos do Egito?  
-**12** Não é isto que te dizíamos no Egito: Retira-te de nós, a fim de que sirvamos os Egípcios, porque é muito melhor servi-los do que morrer no deserto?  
+**11** Disseram a Moisés: Não havia talvez sepulturas no Egipto, e por isso nos tiraste de lá para morrermos no deserto. Que fizeste, tirando-nos do Egipto?  
+**12** Não é isto que te dizíamos no Egipto: Retira-te de nós, a fim de que sirvamos os Egípcios, porque é muito melhor servi-los do que morrer no deserto?  
 **13** Moisés disse ao povo: Não temais: estai firmes, e considerai as maravilhas que o Senhor fará hoje, porque os Egípcios, que agora vedes, nunca jamais os tornareis a ver.  
 **14** O Senhor combaterá por vós, e vós estai tranquilos.  
 **15** O Senhor disse a Moisés: Por que clamas tu a mim? Dize aos filhos de Israel que marchem.  
@@ -442,7 +442,7 @@
 **8** Ao sopro do teu furor, se amontoaram as águas; levantaram-se as ondas como uma muralha; solidificaram-se ás vagas no meio do mar.  
 **9** O inimigo tinha dito: Eu irei no seu encalço e apanhá-los-ei, repartirei os despojos, neles se saciará a minha alma; desembainharei a espada, a minha mão os matará.  
 **10** Soprou o teu espírito, e o mar os sepultou; afundaram-se como chumbo na vastidão das águas.  
-**11** Quem, de entre os outros deuses, é igual a ti Senhor? Quem igual a ti, augusto em santidade, terrível em atos gloriosos, realizador de maravilhas?  
+**11** Quem, de entre os outros deuses, é igual a ti Senhor? Quem igual a ti, augusto em santidade, terrível em actos gloriosos, realizador de maravilhas?  
 **12** Estendeste a tua mão, e a terra os engoliu.  
 **13** Por tua graça guiaste O povo que libertastes Por teu poder b conduzes à tua Santa morada.  
 **14** A esta nova, os povos, tremeram, o terror invadiu os Filisteus.  
@@ -457,17 +457,17 @@
 **23** Chegaram a Mara, mas não podiam beber as águas de Mara, porque eram amargas: por isto se pôs àquele lugar o nome de Mara, isto é, amargura.  
 **24** O povo murmurou contra Moisés, dizendo: Que havemos de beber?  
 **25** Ele, porém, clamou ao Senhor, o qual lhe mostrou um pau; tendo-o lançado nas águas, elas se tornaram doces. Aí lhe deu (o Senhor) preceitos e ordens, e aí o pôs à prova.  
-**26** Disse: Se obedeceres à voz do Senhor teu Deus, fizeres o que é reto diante dele, obedeceres aos seus mandamentos, guardares todos os seus preceitos, eu não mandarei sobre ti nenhuma das enfermidades que mandei contra o Egito, porque eu sou o Senhor que te sara.  
+**26** Disse: Se obedeceres à voz do Senhor teu Deus, fizeres o que é recto diante dele, obedeceres aos seus mandamentos, guardares todos os seus preceitos, eu não mandarei sobre ti nenhuma das enfermidades que mandei contra o Egipto, porque eu sou o Senhor que te sara.  
 **27** Depois os filhos de Israel foram a Elim, onde havia doze fontes de água e setenta palmeiras, e acamparam junto das águas.  
 
 ## Capítulo 16
 
-**1** Partiram de Elim, e toda a multidão dos filhos de Israel foi para o deserto de Sin, o qual está entre Elim e o Sinai, no décimo quinto dia do segundo mês. depois que tinham saído da terra do Egito.  
+**1** Partiram de Elim, e toda a multidão dos filhos de Israel foi para o deserto de Sin, o qual está entre Elim e o Sinai, no décimo quinto dia do segundo mês. depois que tinham saído da terra do Egipto.  
 **2** Toda a multidão dos filhos de Israel murmurou contra Moisés e Aarão no deserto.  
-**3** Os filhos de Israel disseram-lhes: Antes fôssemos mortos na terra do Egito pela mão do Senhor, quando estávamos sentados junto às panelas das carnes, e comíamos pão com fartura. Por que nos trouxestes a este deserto, para matar à fome toda esta multidão?  
+**3** Os filhos de Israel disseram-lhes: Antes fôssemos mortos na terra do Egipto pela mão do Senhor, quando estávamos sentados junto às panelas das carnes, e comíamos pão com fartura. Por que nos trouxestes a este deserto, para matar à fome toda esta multidão?  
 **4** O Senhor disse a Moisés: Vou fazer chover, para vós pães do céu: saia o povo e colha o que baste para cada dia, a fim de que eu o ponha à prova (para ver) se anda ou não na minha lei.  
 **5** Ao sexto dia, preparem para levar o dobro do que costumam colher em cada dia.  
-**6** Moisés e Aarão disseram a todos os filhos de Israel: Esta tarde reconhecereis que o Senhor é quem vos tirou da terra do Egito;  
+**6** Moisés e Aarão disseram a todos os filhos de Israel: Esta tarde reconhecereis que o Senhor é quem vos tirou da terra do Egipto;  
 **7** pela manhã vereis a glória do Senhor, porque ouviu as vossas murmurações contra Ele; nós, porém, o que somos, para que murmureis contra nós?  
 **8** Moisés disse: O Senhor vos dará esta tarde carnes para comer, e pela manhã pães com fartura, porque ouviu a vossa murmuração contra ele. Com efeito, nós o que somos? Não são contra nós as vossas murmurações, mas contra o Senhor.  
 **9** Disse mais Moisés a Aarão: Dize a toda a multidão dos filhos de Israel: Apresentai-vos diante do Senhor, porque ele ouviu as vossas murmurações.  
@@ -493,7 +493,7 @@
 **29** Considerai que o Senhor vos deu o sábado (para guardar), e que por isso vos dá ao sexto dia duplo sustento: cada um esteja na sua tenda, ninguém saia do seu lugar no sétimo dia,  
 **30** E o povo observou o repouso do sétimo dia.  
 **31** A casa de Israel deu àquele alimento o nome de maná; era como a semente de coentro, branco, e o seu sabor como o da farinha (amassada) com mel.  
-**32** Moisés disse: Eis o que ordenou o Senhor: Enche um gomor dele, e guarde-se para as gerações futuras, a fim de que saibam com que pão vos sustentei no deserto, quando fostes tiradas da terra do Egito.  
+**32** Moisés disse: Eis o que ordenou o Senhor: Enche um gomor dele, e guarde-se para as gerações futuras, a fim de que saibam com que pão vos sustentei no deserto, quando fostes tiradas da terra do Egipto.  
 **33** Moisés disse a Aarão: Toma um vaso, mete nele maná, quanto pode conter um gomor, e põe-no diante do Senhor, para se conservar pelas vossas gerações,  
 **34** como o Senhor ordenou a Moisés. Aarão o pôs no Tabernáculo para ser conservado.  
 **35** Os filhos de Israel comeram maná durante quarenta anos, até chegarem a um país habitado: com esta comida se alimentaram até chegarem aos confins do país de Canaan.  
@@ -503,7 +503,7 @@
 
 **1** Tendo, pois, partido toda a multidão dos filhos de Israel do deserto de Sin, e feito as suas paragens segundo a ordem do Senhor, acamparam em Rafidim, onde não havia água de beber para o povo,  
 **2** o qual, murmurando contra Moisés, disse: Dá-nos água para bebermos. Moisés respondeu-lhes: Por que murmurais contra mim? Por que tentais ao Senhor?  
-**3** Todavia ai mesmo, por causa da falta de água, o povo sequioso murmurou contra Moisés, dizendo: Por que nos fizeste sair do Egito, para nos fazer morrer à sede a nós e aos nossos filhos e aos nossos animais?  
+**3** Todavia ai mesmo, por causa da falta de água, o povo sequioso murmurou contra Moisés, dizendo: Por que nos fizeste sair do Egipto, para nos fazer morrer à sede a nós e aos nossos filhos e aos nossos animais?  
 **4** Moisés clamou ao Senhor, dizendo: Que farei eu a este povo? Pouco falta para que me apedreje.  
 **5** O Senhor disse a Moisés: Caminha adiante do povo, toma contigo alguns dos anciães de Israel, toma na tua mão a vara com que feriste o rio e vai.  
 **6** Eu estarei lá diante de ti sobre a pedra de Horeb: ferirás a pedra e dela sairá água, para que o povo beba. Moisés assim fez na presença dos anciães de Israel.  
@@ -520,7 +520,7 @@
 
 ## Capítulo 18
 
-**1** Ora, tendo ouvido Jetro, sacerdote de Madian, sogro de Moisés, tudo o que Deus tinha feito a Moisés e a Israel, seu povo, tirando-o do Egito,  
+**1** Ora, tendo ouvido Jetro, sacerdote de Madian, sogro de Moisés, tudo o que Deus tinha feito a Moisés e a Israel, seu povo, tirando-o do Egipto,  
 **2** tomou Séfora, mulher de Moisés, a qual ele lhe tinha deixado,  
 **3** e os dois filhos dela, um dos quais se chamava Gersão, por seu pai ter dito: "Eu fui peregrino numa terra estrangeira",  
 **4** e o outro (se chamava) Elieser, por seu pai ter dito: "O Deus de meu pai foi o meu defensor, e me salvou da espada de Faraó".  
@@ -541,16 +541,16 @@
 **19** Ouve as minhas palavras e conselhos, e Deus será contigo. Sê mediador do povo naquelas coisas que dizem respeito a Deus, para lhe expores os pedidos que lhe são dirigidos,  
 **20** e para ensinares ao povo as cerimónias e o modo de honrar a Deus, o caminho por onde devem andar e as obras que devem fazer.  
 **21** Mas escolhe entre todo o povo homens capazes e tementes a Deus, nos quais haja verdade e que aborreçam a avareza: faz deles chefes de mil, de cem, de cinquenta e de dez homens,  
-**22** os quais julguem o povo em todo o tempo, te deem conta das coisas mais graves, e eles julguem somente as coisas menos graves. Desta sorte o peso que te oprime será mais leve, sendo repartido com outros.  
+**22** os quais julguem o povo em todo o tempo, te dêem conta das coisas mais graves, e eles julguem sòmente as coisas menos graves. Desta sorte o peso que te oprime será mais leve, sendo repartido com outros.  
 **23** Se fizeres isto, cumprirás a ordem de Deus e poderás executar os seus preceitos: e todo este povo voltará em paz para as suas moradas.  
 **24** Moisés, tendo ouvido isto, fez tudo o que seu sogro lhe sugerira.  
 **25** Tendo escolhido entre todo o povo de Israel homens de valor, constituiu chefes de mil, de cem, de cinquenta e de dez homens.  
-**26** Eles faziam justiça ao povo em todo o tempo, e davam conta a Moisés de todas as coisas mais graves, julgando eles somente as mais fáceis.  
+**26** Eles faziam justiça ao povo em todo o tempo, e davam conta a Moisés de todas as coisas mais graves, julgando eles sòmente as mais fáceis.  
 **27** Moisés despediu-se de seu sogro, o qual voltou para o seu país.  
 
 ## Capítulo 19
 
-**1** No primeiro dia do terceiro mês, depois da saída dos Israelitas da terra do Egito, chegaram ao deserto de Sinai.  
+**1** No primeiro dia do terceiro mês, depois da saída dos Israelitas da terra do Egipto, chegaram ao deserto de Sinai.  
 **2** Tendo partido de Rafidim, e chegando ao deserto de Sinai, acamparam naquele mesmo lugar, e Israel levantou aí as suas tendas defronte do monte.  
 **3** Moisés subiu (para ir falar) a Deus e o Senhor o chamou do alto do monte, dizendo: Dirás estas coisas à casa de Jacob e anunciarás aos filhos de Israel:  
 **4** Vós mesmos vistes o que eu fiz aos Egípcios, de que modo vos trouxe sobre asas de águia, e vos tomei para mim.  
@@ -579,7 +579,7 @@
 ## Capítulo 20
 
 **1** E o Senhor pronunciou todas estas palavras:  
-**2** Eu sou o Senhor teu Deus, que te tirei da terra do Egito, da casa da servidão.  
+**2** Eu sou o Senhor teu Deus, que te tirei da terra do Egipto, da casa da servidão.  
 **3** Não terás outros deuses diante de mim.  
 **4** Não farás para ti escultura, nem figura alguma do que há em cima no céu, e do que há em baixo na terra, nem do que há nas águas debaixo da terra.  
 **5** Não adorarás tais coisas, nem lhes prestarás culto: eu sou o Senhor teu Deus forte e Zeloso, que vingo a iniquidade dos pais nos filhos, até à terceira e quarta geração daqueles que me odeiam,  
@@ -652,7 +652,7 @@
 **4** Se aquilo que ele roubou for encontrado ainda vivo junto dele, quer seja um boi, quer seja um jumento, quer seja uma ovelha, restituirá o dobro.  
 **5** Se alguém danificar um campo ou uma vinha, deixando que o seu gado ande a pastar nos campos alheios, dará o melhor que tiver no seu campo ou na sua vinha, segundo a avaliação do dano.  
 **6** Se um fogo, alastrando pelos espinhos, se pegar às medas dos trigos ou às searas que ainda estão em pé nos campos, pagará o dano aquele que tiver acendido o fogo.  
-**7** Se alguém confiar a um amigo dinheiro ou qualquer objeto para guardar, e se for roubado aquele que os recebeu, o ladrão, quando encontrado, pagará o dobro.  
+**7** Se alguém confiar a um amigo dinheiro ou qualquer objecto para guardar, e se for roubado aquele que os recebeu, o ladrão, quando encontrado, pagará o dobro.  
 **8** Se o ladrão se não encontrar, o dono da casa será obrigado a comparecer diante de Deus, e jurará que não estendeu a mão ao bem do seu próximo  
 **9** para o defraudar nem num boi nem num jumento, nem numa ovelha, nem num vestido, nem em qualquer outra coisa que haja desaparecido: a causa de ambos se levará ante os juízes, e o que for condenado restituirá o dobro ao seu próximo.  
 **10** Se alguém der a guardar ao seu próximo um jumento, um boi, uma ovelha, ou outro qualquer animal, e este morrer ou se estropiar, ou for apanhado pelos inimigos, sem que ninguém tenha visto,  
@@ -666,11 +666,11 @@
 **18** Não deixarás viver os feiticeiros.  
 **19** Aquele que pecar com uma besta seja punido de morte.  
 **20** Aquele que sacrificar aos deuses, e não ao Senhor, será exterminado.  
-**21** Não molestarás nem afligirás o estrangeiro, por que também vós fostes estrangeiros na terra do Egito.  
+**21** Não molestarás nem afligirás o estrangeiro, por que também vós fostes estrangeiros na terra do Egipto.  
 **22** Não fareis mal algum à viúva nem ao órfão.  
 **23** Se os ofenderdes, eles gritarão por mim, eu ouvirei o seu clamor,  
 **24** o meu furor se acenderá e eu vos exterminarei à espada, e as vossas mulheres ficarão viúvas, e os vossos filhos órfãos.  
-**25** Se emprestares dinheiro ao meu povo pobre, que habita contigo, não o apertarás como um exator, nem o oprimirás com usuras.  
+**25** Se emprestares dinheiro ao meu povo pobre, que habita contigo, não o apertarás como um exactor, nem o oprimirás com usuras.  
 **26** Se receberes do teu próximo, em penhor, a sua capa, tu lha darás antes do sol posto,  
 **27** porque ela é a sua única cobertura, o único agasalho da sua carne, nem tem outro com que dormir. Se ele clamar por mim, ouvi-lo-ei, porque sou misericordioso.  
 **28** Não dirás mal dos juízes, e não amaldiçoarás o príncipe do teu povo.  
@@ -688,13 +688,13 @@
 **6** Não torcerás, no julgamento, o direito do pobre.  
 **7** Fugirás à mentira. Não farás morrer o inocente nem o justo, porque eu não absolverei um culpável.  
 **8** Não aceitarás presentes, os quais fazem cegar ainda os prudentes, e subvertem as palavras dos justos.  
-**9** Não serás molesto ao estrangeiro, porque vós sabeis o que é ser estrangeiro, pois que também fostes estrangeiros na terra do Egito.  
+**9** Não serás molesto ao estrangeiro, porque vós sabeis o que é ser estrangeiro, pois que também fostes estrangeiros na terra do Egipto.  
 **10** Durante seis anos semearás a tua terra, e recolherás os seus frutos;  
 **11** mas, no sétimo ano, a deixarás e a farás descansar, para que os pobres do teu povo comam (os frutos espontâneos dela), e os animais comam o que restar (no campo); isto mesmo praticarás com a tua vinha e com o teu olival.  
 **12** Trabalharás seis dias; ao sétimo dia descansarás, para que descanse o teu boi e o teu jumento, e (para que) o filho da tua escrava e o estrangeiro tenham algum alívio.  
 **13** Observai tudo o que vos tenho dito. Não jurareis pelo nome de deuses estrangeiros, nem (o nome deles) se ouça da vossa boca.  
 **14** Celebrareis festas três vezes cada ano em minha honra.  
-**15** Observarás a solenidade dos ázimos. Comerás, como eu te mandei, pães ázimos durante sete dias, no mês dos trigos novos, (que foi) quando saíste do Egito; não aparecerás em minha presença com as mãos vazias.  
+**15** Observarás a solenidade dos ázimos. Comerás, como eu te mandei, pães ázimos durante sete dias, no mês dos trigos novos, (que foi) quando saíste do Egipto; não aparecerás em minha presença com as mãos vazias.  
 **16** (Observarás) a solenidade da ceifa e das primícias do teu trabalho, de tudo o que tiveres semeado no campo, assim como a solenidade do fim do ano, quando tiveres recolhido, todos os teus frutos do campo.  
 **17** Três vezes no ano todos os varões comparecerão diante do Senhor teu Deus.  
 **18** Não oferecerás o sangue da minha vítima com pão fermentado, nem a gordura (da vítima) da minha solenidade ficará até de manhã.  
@@ -732,13 +732,13 @@
 **14** Moisés disse aos anciães: Esperai aqui, até que voltaremos a vós. Tendes convosco Aarão e Hur; se sobrevier alguma questão, recorrei a eles.  
 **15** Tendo Moisés subido, a nuvem cobriu o monte,  
 **16** e a glória do Senhor pousou sobre o Sinai, cobrindo-o com a nuvem durante seis dias: ao sétimo dia. Deus chamou Moisés do meio da escuridão (da nuvem).  
-**17** O aspeto da glória do Senhor era como o de um fogo ardente sobre o, cimo do monte, à vista dos filhos de Israel.  
+**17** O aspecto da glória do Senhor era como o de um fogo ardente sobre o, cimo do monte, à vista dos filhos de Israel.  
 **18** Entrando Moisés pelo meio da nuvem, subiu ao monte, e lá esteve quarenta dias e quarenta noites.  
 
 ## Capítulo 25
 
 **1** o Senhor falou a Moisés assim;  
-**2** Dize aos filhos de Israel que me tragam as primícias; vós as recebereis de todo o homem, que voluntariamente as oferecer,  
+**2** Dize aos filhos de Israel que me tragam as primícias; vós as recebereis de todo o homem, que voluntàriamente as oferecer,  
 **3** Estas são as coisas que deveis receber: ouro, prata, cobre,  
 **4** púrpura, violácea e escarlate e carmesim, linho fino e pelo de cabra,  
 **5** peles de carneiros tintas de vermelho e tintas de roxo, e pau de acácia;  
@@ -773,7 +773,7 @@
 **34** E no mesmo candeeiro haverá quatro copos em forma de flor de amendoeira, e em cada um a sua esferazinha e a sua açucena.  
 **35** Haverá três esferazinhas em três lugares da haste, e de cada uma sairão dois ramos, e serão ao todo seis ramos saindo da mesma haste.  
 **36** As esferazinhas, pois, e os ramos serão da mesma peça (com o candeeiro), tudo de ouro finíssimo, trabalhado a martelo.  
-**37** Farás, além disso, sete lâmpadas, e pô-las-ás sobre o candeeiro, a fim de que deem luz para a frente.  
+**37** Farás, além disso, sete lâmpadas, e pô-las-ás sobre o candeeiro, a fim de que dêem luz para a frente.  
 **38** Também os espevitadores e os vasos onde se apague o morrão que se tiver tirado das lâmpadas. Serão feitos de ouro puríssimo.  
 **39** Todo o peso do candeeiro com todos os seus vasos será um talento de ouro puríssimo.  
 **40** Toma sentido, e faze conforme o modelo que te foi mostrado sobre o monte.  
@@ -875,7 +875,7 @@
 **29** Aarão, quando entrar no santuário, levará os nomes dos filhos de Israel do peitoral do juízo sobre o peso, para perpétua memória diante do Senhor.  
 **30** No peitoral do juízo porás (estas duas palavras): Doutrina e Verdade, as quais estarão sobre o peito de Aarão, quando ele entrar à presença do Senhor; assim trará sempre sobre o seu peito o juízo dos filhos de Israel na presença do Senhor.  
 **31** Farás também a túnica do éfode toda (de cor) de jacinto,  
-**32** no meio da qual no alto haverá uma abertura para a cabeça, e em volta uma orla tecida, como se costuma fazer na ourela dos vestidos, para que (a túnica) se não rompa facilmente.  
+**32** no meio da qual no alto haverá uma abertura para a cabeça, e em volta uma orla tecida, como se costuma fazer na ourela dos vestidos, para que (a túnica) se não rompa fàcilmente.  
 **33** Em baixo, porém, na extremidade inferior da mesma túnica, farás ao redor umas como romãs de púrpura violácea, púrpura escarlate e carmesim, (tendo) misturadas pelo meio campainhas,  
 **34** de sorte que haja uma campainha de ouro e uma romã, e logo outra campainha de ouro e outra romã.  
 **35** Aarão a vestirá nas funções do seu ministério, para que se ouça o som ao entrar no santuário, à presença do Senhor, e ao sair, e para que não morra.  
@@ -927,7 +927,7 @@
 **35** Farás tudo isto que te mandei relativo a Aarão e a seus filhos. Sagrarás as suas mãos, durante sete dias,  
 **36** e oferecerás cada dia um novilho em expiação pelo pecado. Depois que tiveres imolado a hóstia da expiação, purificarás o altar e o ungirás para o santificar.  
 **37** Durante sete dias purificarás o altar e o santificarás, e ele será santíssimo; todo o que o tocar será santificado.  
-**38** Eis o que sacrificarás sobre o altar: Dois cordeiros de um ano todos os dias, perpetuamente,  
+**38** Eis o que sacrificarás sobre o altar: Dois cordeiros de um ano todos os dias, perpètuamente,  
 **39** um cordeiro de manhã e outro de tarde.  
 **40** Com o primeiro cordeiro (oferecerás) uma décima parte (do efi) de flor de farinha amassada com uma quarta parte do hin de azeite de azeitonas pisadas, e uma libação de um quarto de hin de vinho.  
 **41** Oferecerás de tarde o outro cordeiro com a mesma oblação e libação da manhã, em odor de suavidade.  
@@ -935,7 +935,7 @@
 **43** De lá darei eu as minhas ordens aos filhos de Israel, e o altar será santificado com a minha glória.  
 **44** Santificarei também o tabernáculo do testemunho e o altar, e Aarão com seus filhos, para que exerçam o meu sacerdócio.  
 **45** Habitarei no meio dos filhos de Israel, serei o seu Deus,  
-**46** e saberão que eu sou o Senhor seu Deus que os tirei da terra do Egito para habitar entre eles, eu o Senhor seu Deus.  
+**46** e saberão que eu sou o Senhor seu Deus que os tirei da terra do Egipto para habitar entre eles, eu o Senhor seu Deus.  
 
 ## Capítulo 30
 
@@ -1001,18 +1001,18 @@
 
 ## Capítulo 32
 
-**1** Mas o povo, vendo que Moisés tardava em descer do monte, juntou-se contra Aarão, e disse: Levanta-te, faze-nos um deus que vá diante de nós, porque não sabemos o que aconteceu a Moisés, esse homem que nos tirou da terra do Egito.  
+**1** Mas o povo, vendo que Moisés tardava em descer do monte, juntou-se contra Aarão, e disse: Levanta-te, faze-nos um deus que vá diante de nós, porque não sabemos o que aconteceu a Moisés, esse homem que nos tirou da terra do Egipto.  
 **2** Aarão disse-lhes: Tomai as arrecadas de ouro das orelhas de vossas mulheres, de vossos filhos e de vossas filhas, e trazei-as.  
 **3** O povo fez o que lhes mandara, trazendo as arrecadas a Aarão.  
-**4** Ele, tendo-as tomado, mandou-as fundir, e formou delas um bezerro fundido. Eles disseram: Este, ó Israel, é o teu deus que te tirou da terra do Egito.  
+**4** Ele, tendo-as tomado, mandou-as fundir, e formou delas um bezerro fundido. Eles disseram: Este, ó Israel, é o teu deus que te tirou da terra do Egipto.  
 **5** Aarão, vendo isto, erigiu um altar diante do bezerro e clamou: Amanhã é a festa solene do Senhor.  
 **6** Levantando-se pela manhã, ofereceram holocaustos e hóstias pacíficas, e o povo se assentou a comer e a beber, depois levantaram-se para se divertirem.  
-**7** O Senhor falou a Moisés, dizendo; Vai, desce, pois o teu povo, que tiraste da terra do Egito, pecou.  
-**8** Depressa se apartaram do caminho que lhes mostraste: fizeram para si um bezerro fundido, adoraram-no e, imolando-lhe hóstias, disseram: Este, ó Israel, é o teu deus que te tirou da terra do Egito.  
+**7** O Senhor falou a Moisés, dizendo; Vai, desce, pois o teu povo, que tiraste da terra do Egipto, pecou.  
+**8** Depressa se apartaram do caminho que lhes mostraste: fizeram para si um bezerro fundido, adoraram-no e, imolando-lhe hóstias, disseram: Este, ó Israel, é o teu deus que te tirou da terra do Egipto.  
 **9** O Senhor disse mais a Moisés: Vejo que este povo é de cerviz dura:  
 **10** deixa-me, a fim de que o meu furor se acenda contra eles, e que eu os extermine, e eu te farei chefe de uma grande nação.  
-**11** Moisés, porém, suplicava ao Senhor seu Deus, dizendo: Senhor, porque se acende o teu furor contra o teu povo, que tiraste da terra do Egito com uma grande fortaleza e com uma poderosa mão?  
-**12** Não permitas, te rogo, que os Egípcios digam: Ele tirou-os (do Egito) astutamente para os matar nos montes e exterminar da terra; aplaque-se a tua ira, e perdoa a iniquidade do teu povo.  
+**11** Moisés, porém, suplicava ao Senhor seu Deus, dizendo: Senhor, porque se acende o teu furor contra o teu povo, que tiraste da terra do Egipto com uma grande fortaleza e com uma poderosa mão?  
+**12** Não permitas, te rogo, que os Egípcios digam: Ele tirou-os (do Egipto) astutamente para os matar nos montes e exterminar da terra; aplaque-se a tua ira, e perdoa a iniquidade do teu povo.  
 **13** Lembra-te de Abraão, de Isaac e de Israel, teus servos, a quem por ti mesmo juraste, dizendo: Multiplicarei a vossa descendência como as estrelas do céu, e darei à vossa posteridade toda esta terra, de que falei, e vós a possuireis para sempre.  
 **14** O Senhor se aplacou, e não fez ao seu povo o mal que tinha dito.  
 **15** Moisés voltou do monte, levando na mão as duas tábuas do testemunho, escritas de ambas as partes,  
@@ -1023,7 +1023,7 @@
 **20** Pegando no bezerro que tinham feito, queimou-o e esmagou-o até o reduzir a pó, que espalhou na água, e deu a beber dele aos filhos de Israel.  
 **21** Disse a Aarão: Que te fez este povo, para atraíres sobre ele um tão grande pecado?  
 **22** Ele respondeu-lhe: Não se agaste o meu Senhor, porque tu sabes quanto este povo é inclinado para o mal.  
-**23** Eles disseram-me: Faze-nos um deus que vá diante de nós, porque não sabemos o que aconteceu àquele que nos tirou da terra do Egito.  
+**23** Eles disseram-me: Faze-nos um deus que vá diante de nós, porque não sabemos o que aconteceu àquele que nos tirou da terra do Egipto.  
 **24** Eu disse-lhes: Qual de vós tem ouro? Trouxeram-no, deram-mo, eu lancei-o no fogo, e saiu este bezerro.  
 **25** Vendo, pois, Moisés que o povo andava desmandado, pois Aarão lhe tinha alargado o freio, expondo-o assim à irrisão dos seus inimigos,  
 **26** colocou-se à porta dos acampamentos e disse: Quem é pelo Senhor junte-se a mim. E ajuntaram-se a ele todos os filhos de Levi.  
@@ -1039,7 +1039,7 @@
 
 ## Capítulo 33
 
-**1** O Senhor falou a Moisés, dizendo: Vai, sai deste lugar tu e o teu povo, que tiraste da terra do Egito, para a terra que jurei (dar)_ a Abraão, a Isaac e a Jacob, dizendo: Eu a darei à tua posteridade.  
+**1** O Senhor falou a Moisés, dizendo: Vai, sai deste lugar tu e o teu povo, que tiraste da terra do Egipto, para a terra que jurei (dar)_ a Abraão, a Isaac e a Jacob, dizendo: Eu a darei à tua posteridade.  
 **2** Enviarei um anjo, diante de ti, e expulsarei o Cananeu, o Amorreu, o Heteu, o Ferezeu, o Heveu e o Jebuseu,  
 **3** para que entres num país, onde corre leite e mel. Não subirei contigo, visto seres um povo de cerviz dura, não suceda que eu tenha de te exterminar no caminho.  
 **4** O povo, ouvindo estas duras palavras, chorou, e nenhum vestiu as suas galas costumadas.  
@@ -1082,7 +1082,7 @@
 **15** Não faças pacto com os homens daqueles países, a fim de que não aconteça que, depois de se terem prostituído com os seus deuses, e terem adorado as suas imagens, te chame algum para comeres das coisas imoladas.  
 **16** Nem tomarás as suas filhas para mulheres de teus filhos, não suceda que, depois de elas mesmos se terem prostituído com os seus deuses, façam prostituir-se também os teus filhos com os seus deuses.  
 **17** Não farás para ti deuses de metal fundido.  
-**18** Observarás a solenidade dos ázimos. Durante sete dias comerás ázimos, como te mandei, no mês dos trigos novos, porque no mês da Primavera é que tu saíste do Egito.  
+**18** Observarás a solenidade dos ázimos. Durante sete dias comerás ázimos, como te mandei, no mês dos trigos novos, porque no mês da Primavera é que tu saíste do Egipto.  
 **19** Todo o primogénito do sexo masculino será meu. (O primogénito) de todos os animais, tanto de vacas como de ovelhas, será meu.  
 **20** O primogénito do jumento resgatá-lo-ás com uma ovelha: se não o quiseres resgatar, será morto. Resgatarás o primogénito dos teus filhos, e não aparecerás na minha presença com as mãos vazias.  
 **21** Trabalharás seis dias e ao sétimo repousarás, mesmo no tempo de lavrar ou de ceifar.  
@@ -1107,7 +1107,7 @@
 **2** Trabalhareis seis dias: o dia sétimo será para vós santo, Será um dia de repouso completo (em honra) do Senhor; o que nele trabalhar, será morto.  
 **3** Não acendereis lume em todas as vossas moradas no dia de sábado.  
 **4** Moisés disse mais a toda a multidão dos filhos de Israel: Eis o que o Senhor ordenou:  
-**5** Ponde à parte junto de vós primícias para o Senhor. Cada um, voluntária e espontaneamente, ofereça ao Senhor ouro, prata e cobre,  
+**5** Ponde à parte junto de vós primícias para o Senhor. Cada um, voluntária e espontâneamente, ofereça ao Senhor ouro, prata e cobre,  
 **6** púrpura violácea, púrpura escarlate e carmesim e linho fino, pelos de cabra,  
 **7** peles de carneiro tintas de vermelho, peles roxas, e madeira de acácia,  
 **8** azeite para acender as lâmpadas e para fazer o bálsamo e os perfumes de suave fragrância,  
@@ -1123,7 +1123,7 @@
 **18** as escápulas do tabernáculo e do átrio com os seus cordões;  
 **19** as vestes de que se usa no ministério do santuário, as vestes do pontífice Aarão e de seus filhos, para que exerçam as funções do meu sacerdócio.  
 **20** Saindo toda a multidão dos filhos de Israel da presença de Moisés,  
-**21** ofereceram ao Senhor com uma vontade pronta e cheia de afeto as primícias para fazer a obra do tabernáculo da reunião e para tudo aquilo que era necessário para o culto e vestes sagradas.  
+**21** ofereceram ao Senhor com uma vontade pronta e cheia de afecto as primícias para fazer a obra do tabernáculo da reunião e para tudo aquilo que era necessário para o culto e vestes sagradas.  
 **22** Vieram, tanto os homens como as mulheres, e todos aqueles, cujo coração estava bem disposto, trouxeram braceletes, arecadas, anéis, colares: todos trouxeram as suas ofertas de ouro destinadas ao Senhor.  
 **23** Se alguém tinha jacinto, e púrpura, e escarlate tinto duas vezes, linho fino e pelos de cabra, peles de carneiros tintas de vermelho ou de roxo,  
 **24** metais de prata e cobre, ofereceram-nos ao Senhor, e também madeira de acácia para os diversos usos.  
@@ -1142,7 +1142,7 @@
 ## Capítulo 36
 
 **1** Beseleel, pois, e Ooliab, e todos os homens hábeis, a quem o Senhor deu habilidade e inteligência para saberem fazer com arte o que era necessário para o uso do santuário, executaram o que o Senhor tinha mandado.  
-**2** Moisés tendo-os chamado, e igualmente todos os homens hábeis, a quem o Senhor tinha dado habilidade, e que espontaneamente se tinham oferecido para trabalhar nestas obras,  
+**2** Moisés tendo-os chamado, e igualmente todos os homens hábeis, a quem o Senhor tinha dado habilidade, e que espontâneamente se tinham oferecido para trabalhar nestas obras,  
 **3** entregou-lhes todas as ofertas dos filhos de Israel. Enquanto eles se empregavam, diligentes, no trabalho, todos os dias pela manhã o povo oferecia donativos voluntários,  
 **4** pelo que os artistas foram obrigados a ir  
 **5** dizer a Moisés: O povo oferece mais do que é necessário.  
@@ -1154,7 +1154,7 @@
 **11** Fez também umas presilhas de púrpura violácea na ourela duma cortina de um e de outro lado, e o mesmo na ourela da outra cortina,  
 **12** de modo que as presilhas correspondessem umas ás outras, e se unissem entre si.  
 **13** Para isso fundiu cinquenta argolas, de ouro, em que se atassem as presilhas das cortinas, e assim se formasse um só tabernáculo.  
-**14** Fez também onze cobertas de pelos de cabra para cobrir o teto do tabernáculo.  
+**14** Fez também onze cobertas de pelos de cabra para cobrir o tecto do tabernáculo.  
 **15** Uma destas cobertas tinha trinta côvados de comprido e quatro de largo: todas elas tinham a mesma medida.  
 **16** Destas, uniu cinco de uma banda e seis da outra.  
 **17** Fez cinquenta presilhas na ourela duma coberta, e cinquenta na ourela da outra, para que se pudessem unir entre si,  
@@ -1234,7 +1234,7 @@
 **18** À entrada do átrio, fez uma cortina com trabalho de bordados de jacinto, de púrpura, de escarlate e de linho fino retorcido, que tinha vinte côvados de comprimento, e cinco côvados de altura, segundo a medida que tinham as cortinas do átrio.  
 **19** Havia, pois, à entrada quatro colunas com bases de bronze, e seus capitéis e ornatos de prata.  
 **20** Fez de bronze as escápulas do tabernáculo e do átrio em redor.  
-**21** Estas são as partes em redor do tabernáculo do testemunho que foram enumeradas segundo a ordem de Moisés por trabalho dos Levitas sob a direção de Itamar, filho do Sacerdote Aarão,  
+**21** Estas são as partes em redor do tabernáculo do testemunho que foram enumeradas segundo a ordem de Moisés por trabalho dos Levitas sob a direcção de Itamar, filho do Sacerdote Aarão,  
 **22** e que foram completadas por Beseleel, filho de Uri, filho de Hur, da tribo de Judá, segundo a ordem que o Senhor tinha dado por meio de Moisés,  
 **23** tendo servido a Beseleel de ajudante Ooliab, filho de Àquisamech, da tribo de Dan, o qual foi artista hábil em obras de madeira, em tecidos de várias cores, e em bordados de púrpura violácea e escarlate e carmesim, e de linho fino.  
 **24** Todo o ouro que foi empregado na obra do santuário, produto de ofertas, foi de vinte e nove talentos, e setecentos e trinta siclos segundo a medida do santuário.  
@@ -1310,7 +1310,7 @@
 **14** Moisés fez tudo o que o Senhor lhe mandara.  
 **15** No primeiro mês do segundo ano, no primeiro dia do mês, foi levantado o tabernáculo.  
 **16** Moisés erigiu-o, pôs (nos seus lugares) as tábuas, as bases e os barrotes, levantou as colunas,  
-**17** e estendeu o teto sobre o tabernáculo, pondo por cima dele a coberta, como o Senhor tinha mandado.  
+**17** e estendeu o tecto sobre o tabernáculo, pondo por cima dele a coberta, como o Senhor tinha mandado.  
 **18** Pôs também o testemunho na arca, metidos por baixo os varais, (ficando) em cima o oráculo.  
 **19** Tendo introduzido a arca no tabernáculo, suspendeu diante dela o véu, para cumprir o mandado do Senhor.  
 **20** Pôs também a mesa no tabernáculo da reunião, da parte setentrional, fora do véu,  

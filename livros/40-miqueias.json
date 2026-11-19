@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -112,7 +112,7 @@
     },
     {
      "n": 7,
-     "texto": "A casa de Jacob diz: Acaso o Senhor é pronto para a cólera? E esta a sua forma de agir? Não são as minhas palavras (responde o Senhor) cheias de bondade para com aquele que caminha com retidão?"
+     "texto": "A casa de Jacob diz: Acaso o Senhor é pronto para a cólera? E esta a sua forma de agir? Não são as minhas palavras (responde o Senhor) cheias de bondade para com aquele que caminha com rectidão?"
     },
     {
      "n": 8,
@@ -157,7 +157,7 @@
     },
     {
      "n": 4,
-     "texto": "Um dia clamarão ao Senhor, e ele não os ouvirá; esconder-lhes-á a sua face nesse tempo, como o merece a iniquidade das suas ações."
+     "texto": "Um dia clamarão ao Senhor, e ele não os ouvirá; esconder-lhes-á a sua face nesse tempo, como o merece a iniquidade das suas acções."
     },
     {
      "n": 5,
@@ -177,7 +177,7 @@
     },
     {
      "n": 9,
-     "texto": "Ouvi isto, príncipes da casa de Jacob e juízes da casa de Israel, vós que abominais a justiça e perverteis tudo o que ó reto,"
+     "texto": "Ouvi isto, príncipes da casa de Jacob e juízes da casa de Israel, vós que abominais a justiça e perverteis tudo o que ó recto,"
     },
     {
      "n": 10,
@@ -328,7 +328,7 @@
     },
     {
      "n": 4,
-     "texto": "Tirei-te da terra do Egito, livrei-te da casa da escravidão e enviei diante de ti Moisés, Aarão e Maria."
+     "texto": "Tirei-te da terra do Egipto, livrei-te da casa da escravidão e enviei diante de ti Moisés, Aarão e Maria."
     },
     {
      "n": 5,
@@ -429,7 +429,7 @@
     },
     {
      "n": 12,
-     "texto": "Nesse dia virão a ti da Assíria e das cidades do Egito, do Egito até ao rio, dum mar até outro mar, e dum monte até outro monte."
+     "texto": "Nesse dia virão a ti da Assíria e das cidades do Egipto, do Egipto até ao rio, dum mar até outro mar, e dum monte até outro monte."
     },
     {
      "n": 13,
@@ -441,7 +441,7 @@
     },
     {
      "n": 15,
-     "texto": "(Sim, diz o Senhor) como no dia da tua saída da terra do Egito, eu te farei ver maravilhas."
+     "texto": "(Sim, diz o Senhor) como no dia da tua saída da terra do Egipto, eu te farei ver maravilhas."
     },
     {
      "n": 16,

@@ -12,7 +12,7 @@
 **8** O homem de espírito duplo é inconstante em todos os seus caminhos.  
 **9** O irmão que é de condição baixa, glorie-se da sua exaltação (ao cristianismo);  
 **10** pelo contrário o rico (glorie-se, não da sua riqueza, mas) da sua humilhação (diante de Deus), porque ele passará como a flor da erva.  
-**11** O sol rompeu ardente: secou a erva e a flor cai, perde a gala do seu aspeto. Assim também murchará o rico nos seus caminhos.  
+**11** O sol rompeu ardente: secou a erva e a flor cai, perde a gala do seu aspecto. Assim também murchará o rico nos seus caminhos.  
 **12** Bem-aventurado o homem que sofre (com paciência) a provação, porque, depois que tiver sido provado, receberá a coroa da vida, que Deus prometeu aos que o amam.  
 **13** Ninguém, quando é tentado, diga que é tentado por Deus, porque Deus não é tentador de coisas más; não tenta ninguém.  
 **14** Cada um é tentado pela sua própria concupiscência, que o atrai e alicia;  
@@ -20,10 +20,10 @@
 **16** Não queirais, pois, enganar-vos, irmãos meus muito amados.  
 **17** Toda a dádiva excelente, todo o dom perfeito vem do alto e desce do Pai das luzes, no qual não há mudança, nem sombra de vicissitude.  
 **18** Por sua vontade nos gerou pela palavra da verdade, a fim de que sejamos como que as primícias das suas criaturas.  
-**19** Sabei isto, meus diletíssimos irmãos: todo o homem seja pronto para ouvir, porém tardo para falar e tardo para se irar,  
+**19** Sabei isto, meus dilectíssimos irmãos: todo o homem seja pronto para ouvir, porém tardo para falar e tardo para se irar,  
 **20** porque a ira do homem não cumpre a justiça de Deus.  
 **21** Pelo que, renunciando a toda a impureza e abundância de malícia, recebei com mansidão a palavra enxertada em vós, a qual pode salvar as vossas almas.  
-**22** Sede, pois, realizadores da palavra, e não ouvintes somente, enganando-vos a vós mesmos.  
+**22** Sede, pois, realizadores da palavra, e não ouvintes sòmente, enganando-vos a vós mesmos.  
 **23** Porque, se alguém é ouvinte da palavra e não realizador, será comparado a um homem que contempla num espelho o seu rosto nativo;  
 **24** apenas se contemplou, e, tendo-se retirado, logo esqueceu como era.  
 **25** Mas quem fixar a sua vista na (doutrina do Evangelho que é a) lei perfeita da liberdade e perseverar nela, não sendo ouvinte esquecediço, mas executor da obra, esse será bem-aventurado no que fizer.  
@@ -36,7 +36,7 @@
 **2** Se entrar na vossa assembleia um homem com anel de ouro e vestuário precioso, e entrar também um pobre com vestuário vil,  
 **3** e, se atenderdes ao que está vestido magnificamente e lhe disserdes: — tu senta-te aqui neste lugar de honra — e ao pobre disserdes: — tu deixa-te estar aí de pé, ou senta-te abaixo do estrado de meus pés —  
 **4** porventura não fazeis distinção entre vós, e não sois juízes de pensamentos iníquos?  
-**5** Ouvi, meus irmãos diletíssimos: acaso não escolheu Deus os pobres segundo este mundo (para serem) ricos na fé e herdeiros do reino prometido (por Deus) aos que o amam?  
+**5** Ouvi, meus irmãos dilectíssimos: acaso não escolheu Deus os pobres segundo este mundo (para serem) ricos na fé e herdeiros do reino prometido (por Deus) aos que o amam?  
 **6** Mas vós ultrajais o pobre! Porventura não são os ricos que vos oprimem, não são eles que vos arrastam aos tribunais?  
 **7** Não blasfemam eles o bom nome (de Cristo) com que fostes chamados?  
 **8** Se contudo cumpris a lei real, segundo as Escrituras: Amarás o teu próximo como a ti mesmo (Lv. 19, 18) — fazeis bem;  
@@ -50,12 +50,12 @@
 **16** e algum de vós lhes disser: "Ide em paz, aquecei-vos e saciai-vos" — porém não lhes der as coisas necessárias ao corpo, de que lhes aproveitará?  
 **17** Assim também a fé, se não tiver obras, é morta em si mesma.  
 **18** Poderá igualmente alguém dizer: "Tu tens a fé, e eu tenho as obras". Mostra-me a tua fé sem obras, e eu te mostrarei a minha fé pelas minhas obras.  
-**19** Tu crês que há um só Deus? Fazes bem; (mas isso não basta, porque) também os demónios creem, e (todavia) tremem (no inferno sob os golpes da justiça divina).  
+**19** Tu crês que há um só Deus? Fazes bem; (mas isso não basta, porque) também os demónios crêem, e (todavia) tremem (no inferno sob os golpes da justiça divina).  
 **20** Queres tu saber, ó homem vão, como a fé sem obras é estéril?  
 **21** Abraão, nosso pai, não foi ele justificado pelas obras, oferecendo seu filho Isaac sobre o altar?  
 **22** Tu vês que a fé cooperava com as suas obras e que a sua fé foi consumada por meio das obras.  
 **23** E cumpriu-se a Escritura que diz: Abraão creu em Deus e isso lhe foi imputado como justiça (Gn. 15, 6) e foi chamado amigo de Deus.  
-**24** vedes, pois, que o homem é justificado pelas obras e não pela fé somente.  
+**24** vedes, pois, que o homem é justificado pelas obras e não pela fé sòmente.  
 **25** Do mesmo modo também Raab, a meretriz, não foi justificada pelas obras, recebendo os mensageiros (enviados por Josué) e fazendo-os sair por outro caminho?  
 **26** Assim como o corpo sem espírito é morto, assim também a fé sem obras é morta.  
 
@@ -95,7 +95,7 @@
 **11** Irmãos, não digais mal uns dos outros. O que diz mal do seu irmão, ou o que julga seu irmão, diz mal da lei e julga a lei (não a considerando obrigatória). Ora, se julgas a lei, não és observador da lei, mas seu juiz.  
 **12** Não há mais que um legislador e um juiz, que pode salvar ou perder.  
 **13** Mas quem és tu, que julgas o próximo? E agora (atendei ao vosso proceder) vós que dizeis: — "Hoje ou amanhã iremos àquela cidade, demorar-nos-emos lá um ano, comerciaremos e tiraremos o nosso lucro" —  
-**14** vós, que não sabeis o que sucederá amanhã. Efetivamente, o que é a vossa vida? Sois um vapor que aparece por um instante e que em seguida se desvanece.  
+**14** vós, que não sabeis o que sucederá amanhã. Efectivamente, o que é a vossa vida? Sois um vapor que aparece por um instante e que em seguida se desvanece.  
 **15** Em vez disso, devíeis dizer: "Se o Senhor quiser, viveremos e faremos esta ou aquela coisa."  
 **16** Mas vós, pelo contrário, elevais-vos na vossa presunção. Toda a gloriola, como esta, é má.  
 **17** Aquele, pois, que conhece o bem que deve fazer e não o faz, peca.  

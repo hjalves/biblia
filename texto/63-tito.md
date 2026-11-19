@@ -14,8 +14,8 @@
 **10** Porque há ainda muitos desobedientes, vãos faladores e sedutores, principalmente entre os da circuncisão,  
 **11** aos quais é necessário fechar a boca, a eles que transtornam casas inteiras, ensinando o que não convém, por amor de um vil interesse.  
 **12** Um deles, seu próprio profeta disse: Os Cretenses são sempre mentirosos, más bestas, ventres preguiçosos.  
-**13** Este testemunho é verdadeiro. Portanto repreende-os asperamente, para que sejam sãos na fé,  
-**14** não deem ouvidos a fábulas judaicas nem a mandamentos de homens que se afastam da verdade.  
+**13** Este testemunho é verdadeiro. Portanto repreende-os àsperamente, para que sejam sãos na fé,  
+**14** não dêem ouvidos a fábulas judaicas nem a mandamentos de homens que se afastam da verdade.  
 **15** Para os puros todas as coisas são puras; para os impuros e infiéis nada é puro, mas estão contaminados o seu espírito e sua consciência.  
 **16** Confessam que conhecem a Deus, mas negam-no com as obras, sendo abomináveis, rebeldes e incapazes de toda a obra boa.  
 
@@ -43,12 +43,12 @@
 **2** que não digam mal de ninguém, nem sejam questionadores, mas modestos, mostrando toda a mansidão para com todos os homens.  
 **3** Também nós outrora éramos insensatos, rebeldes, desgarrados, escravos de paixões e prazeres, vivendo na malícia e na inveja, dignos de ódio e odiando os outros.  
 **4** Mas, quando se manifestou a bondade de Deus, nosso Salvador, e o seu amor pelos homens,  
-**5** não pelas obras de justiça que tivéssemos feito, mas por sua misericórdia, salvou-nos mediante o batismo de regeneração e de renovação do Espírito Santo,  
+**5** não pelas obras de justiça que tivéssemos feito, mas por sua misericórdia, salvou-nos mediante o baptismo de regeneração e de renovação do Espírito Santo,  
 **6** que ele difundiu sobre nós abundantemente por Jesus Cristo, nosso Salvador,  
 **7** a fim de que, justificados pela sua graça, sejamos herdeiros da vida eterna, segundo a esperança (que temos de a possuir um dia)  
-**8** Esta é uma verdade infalível e quero que a afirmes, para que procurem ser os primeiros nas boas obras aqueles que creem em Deus. Estas coisas são boas e úteis aos homens.  
+**8** Esta é uma verdade infalível e quero que a afirmes, para que procurem ser os primeiros nas boas obras aqueles que crêem em Deus. Estas coisas são boas e úteis aos homens.  
 **9** Foge, porém, de questões loucas, de genealogias, de disputas e de contestações sobre a lei, porque são inúteis e vãs.  
-**10** Foge do herético, depois da primeira e segunda correção,  
+**10** Foge do herético, depois da primeira e segunda correcção,  
 **11** sabendo que um tal homem está pervertido e peca, como quem é condenado pelo seu próprio juízo.  
 **12** Quando eu te enviar Ártemas ou Tíquico, apressa-te a vir ter comigo a Nicópoiis, porque determinei passar ali o inverno.  
 **13** Provê com cuidado à viagem Zenas, doutor da lei, e de Apolo, procurando que nada lhes falte.  

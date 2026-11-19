@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -136,7 +136,7 @@
     },
     {
      "n": 12,
-     "texto": "Destas coisas oferecereis somente primícias e dons, mas não serão postos sobre o altar em odor de suavidade."
+     "texto": "Destas coisas oferecereis sòmente primícias e dons, mas não serão postos sobre o altar em odor de suavidade."
     },
     {
      "n": 13,
@@ -282,7 +282,7 @@
     },
     {
      "n": 13,
-     "texto": "Porém, se toda a multidão de Israel pecar involuntariamente, por inadvertência, e se fizer alguma coisa que é contra o mandamento do Senhor,"
+     "texto": "Porém, se toda a multidão de Israel pecar involuntàriamente, por inadvertência, e se fizer alguma coisa que é contra o mandamento do Senhor,"
     },
     {
      "n": 14,
@@ -629,11 +629,11 @@
     },
     {
      "n": 12,
-     "texto": "Se a oferta for em ação de graças, oferecer-se-ão pães, em fermento amassados em azeite, tortas ázimas untadas com azeite e flor de farinha cozida, e filhós amassadas e misturadas com azeite."
+     "texto": "Se a oferta for em acção de graças, oferecer-se-ão pães, em fermento amassados em azeite, tortas ázimas untadas com azeite e flor de farinha cozida, e filhós amassadas e misturadas com azeite."
     },
     {
      "n": 13,
-     "texto": "Juntar-se-ão também pães fermentados à oferenda que se apresentar com a vítima de ação de graças, a qual se imola por sacrifício pacífico."
+     "texto": "Juntar-se-ão também pães fermentados à oferenda que se apresentar com a vítima de acção de graças, a qual se imola por sacrifício pacífico."
     },
     {
      "n": 14,
@@ -645,7 +645,7 @@
     },
     {
      "n": 16,
-     "texto": "Se alguém oferecer uma vítima por voto ou espontaneamente, também esta será comida no mesmo dia; se, porém, ficar algum resto para o outro dia, será lícito comê-lo."
+     "texto": "Se alguém oferecer uma vítima por voto ou espontâneamente, também esta será comida no mesmo dia; se, porém, ficar algum resto para o outro dia, será lícito comê-lo."
     },
     {
      "n": 17,
@@ -1165,7 +1165,7 @@
     },
     {
      "n": 23,
-     "texto": "Mas os insetos alados que têm somente quatro patas, serão execráveis para vós;"
+     "texto": "Mas os insectos alados que têm sòmente quatro patas, serão execráveis para vós;"
     },
     {
      "n": 24,
@@ -1213,7 +1213,7 @@
     },
     {
      "n": 35,
-     "texto": "Se alguma coisa destes animais mortos cair sobre um objeto, este ficará impuro; ou sejam fornos ou marmitas, deverão destruir-se; serão impuros."
+     "texto": "Se alguma coisa destes animais mortos cair sobre um objecto, este ficará impuro; ou sejam fornos ou marmitas, deverão destruir-se; serão impuros."
     },
     {
      "n": 36,
@@ -1253,7 +1253,7 @@
     },
     {
      "n": 45,
-     "texto": "Porque eu sou o Senhor, que vos tirei da terra do Egito para ser o vosso Deus. Vós sereis santos, porque eu sou santo."
+     "texto": "Porque eu sou o Senhor, que vos tirei da terra do Egipto para ser o vosso Deus. Vós sereis santos, porque eu sou santo."
     },
     {
      "n": 46,
@@ -1315,7 +1315,7 @@
     },
     {
      "n": 3,
-     "texto": "Este examinará a lepra na pele: se vir que os pelos se tornam brancos e que a parte afetada está mais funda do que o resto da pele e da carne, o sacerdote que examinar este homem, declará-lo-á impuro."
+     "texto": "Este examinará a lepra na pele: se vir que os pelos se tornam brancos e que a parte afectada está mais funda do que o resto da pele e da carne, o sacerdote que examinar este homem, declará-lo-á impuro."
     },
     {
      "n": 4,
@@ -1499,15 +1499,15 @@
     },
     {
      "n": 49,
-     "texto": "for igualmente infetada, (mostrando vestígios de) mancha esverdeada ou avermelhada, reputar-se-á de lepra, e se mostrará ao sacerdote."
+     "texto": "for igualmente infectada, (mostrando vestígios de) mancha esverdeada ou avermelhada, reputar-se-á de lepra, e se mostrará ao sacerdote."
     },
     {
      "n": 50,
-     "texto": "Ele, tendo examinado esse objeto, o isolará durante sete dias;"
+     "texto": "Ele, tendo examinado esse objecto, o isolará durante sete dias;"
     },
     {
      "n": 51,
-     "texto": "no sétimo dia:, tomando-o a ver de novo, se achar que (a mancha) alastrou, é uma lepra pertinaz: declarará, impuro o objeto e tudo aquilo em que se encontrar tal mancha,"
+     "texto": "no sétimo dia:, tomando-o a ver de novo, se achar que (a mancha) alastrou, é uma lepra pertinaz: declarará, impuro o objecto e tudo aquilo em que se encontrar tal mancha,"
     },
     {
      "n": 52,
@@ -1523,7 +1523,7 @@
     },
     {
      "n": 55,
-     "texto": "Quando vir que não tornou ao seu aspeto primitivo, ainda que a mancha não tenha alastrado, declarará o objeto impuro, e queimá-lo-á no fogo, porque a lepra se espalhou sobre a superfície ou por toda a espessura do vestido."
+     "texto": "Quando vir que não tornou ao seu aspecto primitivo, ainda que a mancha não tenha alastrado, declarará o objecto impuro, e queimá-lo-á no fogo, porque a lepra se espalhou sobre a superfície ou por toda a espessura do vestido."
     },
     {
      "n": 56,
@@ -1531,15 +1531,15 @@
     },
     {
      "n": 57,
-     "texto": "Porém, depois disto, reaparecer ainda a mancha naqueles lugares que antes estavam sem mancha, deve queimar-se (todo o objeto) no fogo."
+     "texto": "Porém, depois disto, reaparecer ainda a mancha naqueles lugares que antes estavam sem mancha, deve queimar-se (todo o objecto) no fogo."
     },
     {
      "n": 58,
-     "texto": "Todavia se, no objeto lavado, (a mancha) desaparecer, lavará de novo com água as partes que estão puras, e ficarão limpas."
+     "texto": "Todavia se, no objecto lavado, (a mancha) desaparecer, lavará de novo com água as partes que estão puras, e ficarão limpas."
     },
     {
      "n": 59,
-     "texto": "Esta é a lei sobre a lepra da veste de lã e de linho, da urdidura e da trama, de todo o objeto feito de pele, (para se saber) como (estas coisas) se devem declarar limpas ou impuras."
+     "texto": "Esta é a lei sobre a lepra da veste de lã e de linho, da urdidura e da trama, de todo o objecto feito de pele, (para se saber) como (estas coisas) se devem declarar limpas ou impuras."
     }
    ]
   },
@@ -1793,7 +1793,7 @@
     },
     {
      "n": 4,
-     "texto": "Todo o leito em que dormir, e todo o objeto sobre o qual se sentar, será impuro."
+     "texto": "Todo o leito em que dormir, e todo o objecto sobre o qual se sentar, será impuro."
     },
     {
      "n": 5,
@@ -2136,7 +2136,7 @@
     },
     {
      "n": 3,
-     "texto": "vós não procediereis conforme os costumes do país do Egito, em que habitastes, nem vos portareis segundo o costume da terra de Canaan, na qual eu vos hei-de introduzir, nem andareis segundo as suas leis."
+     "texto": "vós não procediereis conforme os costumes do país do Egipto, em que habitastes, nem vos portareis segundo o costume da terra de Canaan, na qual eu vos hei-de introduzir, nem andareis segundo as suas leis."
     },
     {
      "n": 4,
@@ -2385,7 +2385,7 @@
     },
     {
      "n": 34,
-     "texto": "mas esteja entre vós como um natural, e amaí-o como a vós mesmos, porque também vós fostes estrangeiros na terra do Egito. Eu sou o Senhor vosso Deus."
+     "texto": "mas esteja entre vós como um natural, e amaí-o como a vós mesmos, porque também vós fostes estrangeiros na terra do Egipto. Eu sou o Senhor vosso Deus."
     },
     {
      "n": 35,
@@ -2393,7 +2393,7 @@
     },
     {
      "n": 36,
-     "texto": "Sejam justas as balanças, e justos os pesos, justo o efa e justo o hin. Eu sou o Senhor vosso Deus, que vos tirei da terra do Egito."
+     "texto": "Sejam justas as balanças, e justos os pesos, justo o efa e justo o hin. Eu sou o Senhor vosso Deus, que vos tirei da terra do Egipto."
     },
     {
      "n": 37,
@@ -2523,7 +2523,7 @@
     },
     {
      "n": 2,
-     "texto": "exceto na dos seus consanguíneos e parentes próximos, isto é, na do pai, mãe, filho e filha, e também na do irmão"
+     "texto": "excepto na dos seus consanguíneos e parentes próximos, isto é, na do pai, mãe, filho e filha, e também na do irmão"
     },
     {
      "n": 3,
@@ -2732,7 +2732,7 @@
     },
     {
      "n": 29,
-     "texto": "Se oferecerdes um sacrifício em ação de graças ao Senhor, oferecei-o de maneira que seja agradável (ao Senhor);"
+     "texto": "Se oferecerdes um sacrifício em acção de graças ao Senhor, oferecei-o de maneira que seja agradável (ao Senhor);"
     },
     {
      "n": 30,
@@ -2748,7 +2748,7 @@
     },
     {
      "n": 33,
-     "texto": "e vos tirei da terra do Egito, para ser o vosso Deus. Eu sou o Senhor."
+     "texto": "e vos tirei da terra do Egipto, para ser o vosso Deus. Eu sou o Senhor."
     }
    ]
   },
@@ -2905,7 +2905,7 @@
     },
     {
      "n": 38,
-     "texto": "independentemente dos sábados do Senhor, dos vossos dons, dos vossos votos e de todas as ofertas que voluntariamente fizerdes ao Senhor."
+     "texto": "independentemente dos sábados do Senhor, dos vossos dons, dos vossos votos e de todas as ofertas que voluntàriamente fizerdes ao Senhor."
     },
     {
      "n": 39,
@@ -2925,7 +2925,7 @@
     },
     {
      "n": 43,
-     "texto": "para que os vossos descendentes saibam que eu fiz habitar em tendas os filhos de Israel, depois de os ter tirado da terra do Egito. Eu sou o Senhor vosso Deus."
+     "texto": "para que os vossos descendentes saibam que eu fiz habitar em tendas os filhos de Israel, depois de os ter tirado da terra do Egipto. Eu sou o Senhor vosso Deus."
     },
     {
      "n": 44,
@@ -3055,7 +3055,7 @@
     },
     {
      "n": 6,
-     "texto": "o que a terra der, espontaneamente, servir-vos-á de alimento a ti e ao teu servo, à tua serva, ao teu jornaleiro, e ao estrangeiro que vive contigo:"
+     "texto": "o que a terra der, espontâneamente, servir-vos-á de alimento a ti e ao teu servo, à tua serva, ao teu jornaleiro, e ao estrangeiro que vive contigo:"
     },
     {
      "n": 7,
@@ -3079,7 +3079,7 @@
     },
     {
      "n": 12,
-     "texto": "por causa da santificação do jubileu, mas comereis o que os campos derem espontaneamente."
+     "texto": "por causa da santificação do jubileu, mas comereis o que os campos derem espontâneamente."
     },
     {
      "n": 13,
@@ -3183,7 +3183,7 @@
     },
     {
      "n": 38,
-     "texto": "Eu sou o Senhor vosso Deus, que vos tirei da terra do Egito, para vos dar a terra de Canaan, e ser vosso Deus."
+     "texto": "Eu sou o Senhor vosso Deus, que vos tirei da terra do Egipto, para vos dar a terra de Canaan, e ser vosso Deus."
     },
     {
      "n": 39,
@@ -3199,7 +3199,7 @@
     },
     {
      "n": 42,
-     "texto": "Com efeito, eles são meus servos, e eu tirei-os da terra do Egito: não sejam vendidos na condição dos escravos."
+     "texto": "Com efeito, eles são meus servos, e eu tirei-os da terra do Egipto: não sejam vendidos na condição dos escravos."
     },
     {
      "n": 43,
@@ -3231,7 +3231,7 @@
     },
     {
      "n": 50,
-     "texto": "sendo contados somente os anos desde o tempo da sua venda até ao ano do jubileu, e sendo contada a quantia, por que foi vendido, segundo o número dos anos, e segundo se paga ao jornaleiro."
+     "texto": "sendo contados sòmente os anos desde o tempo da sua venda até ao ano do jubileu, e sendo contada a quantia, por que foi vendido, segundo o número dos anos, e segundo se paga ao jornaleiro."
     },
     {
      "n": 51,
@@ -3251,7 +3251,7 @@
     },
     {
      "n": 55,
-     "texto": "Com efeito, os filhos de Israel são meus servos, que eu tirei da terra do Egito. Eu sou o Senhor vosso Deus."
+     "texto": "Com efeito, os filhos de Israel são meus servos, que eu tirei da terra do Egipto. Eu sou o Senhor vosso Deus."
     }
    ]
   },
@@ -3328,7 +3328,7 @@
     },
     {
      "n": 18,
-     "texto": "Se nem ainda assim me obedecerdes, acrescentarei o sétuplo ao vosso castigo, por causa dos vossos pecados,"
+     "texto": "Se nem ainda assim me obedecerdes, acrescentarei o séptuplo ao vosso castigo, por causa dos vossos pecados,"
     },
     {
      "n": 19,
@@ -3340,7 +3340,7 @@
     },
     {
      "n": 21,
-     "texto": "Se andardes ao contrário de mim, e não quiserdes ouvir-me, acrescentarei o sétuplo às vossas pragas, por causa dos vossos pecados:"
+     "texto": "Se andardes ao contrário de mim, e não quiserdes ouvir-me, acrescentarei o séptuplo às vossas pragas, por causa dos vossos pecados:"
     },
     {
      "n": 22,
@@ -3436,7 +3436,7 @@
     },
     {
      "n": 45,
-     "texto": "e lembrar-me-ei da minha antiga aliança, quando os tirei da terra do Egito, à vista das gentes, para ser o seu Deus. Eu sou o Senhor. Estas são as ordenações e os preceitos e as leis que o Senhor estabeleceu entre si e os filhos de Israel no monte Sinai, por mão de Moisés."
+     "texto": "e lembrar-me-ei da minha antiga aliança, quando os tirei da terra do Egipto, à vista das gentes, para ser o seu Deus. Eu sou o Senhor. Estas são as ordenações e os preceitos e as leis que o Senhor estabeleceu entre si e os filhos de Israel no monte Sinai, por mão de Moisés."
     }
    ]
   },

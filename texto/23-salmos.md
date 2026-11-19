@@ -93,7 +93,7 @@
 **8** A multidão dos povos esteja ao redor de ti, e senta-te no alto sobranceiro a ela.  
 **9** O juiz dos povos é o Senhor: dá-me o direito, Senhor, segundo a minha justiça e segundo a inocência, que há em mim.  
 **10** Cesse a maldade dos ímpios, e sustenta o justo, ó Deus justo, que sondas os corações e as entranhas.  
-**11** O meu escudo é Deus, que salva os retos de coração.  
+**11** O meu escudo é Deus, que salva os rectos de coração.  
 **12** Deus é um juiz justo, um Deus que ameaça todos os dias.  
 **13** Se não se converterem, afiará a sua espada, retesará o seu arco e apontará  
 **14** e preparará para eles dardos de morte, abrasadoras tornará as suas setas.  
@@ -161,18 +161,18 @@
 
 **1** Ao mestre do coro. De Davide.  
 **2** Ao Senhor me acolho; por que dizeis (pois) à minha alma: "Foge para o monte como a ave?" (1)  
-**3** Eis que os ímpios retesam o seu arco, ajustam a sua flecha sobre a corda, para dispararem às ocultas contra os que são de coração reto. (2)  
+**3** Eis que os ímpios retesam o seu arco, ajustam a sua flecha sobre a corda, para dispararem às ocultas contra os que são de coração recto. (2)  
 **4** Quando se desmoronam os fundamentos, que pode fazer o justo? (3)  
 **5** O Senhor habita no seu santo templo, o trono do Senhor está no céu. Os seus olhos observam, as suas pálpebras examinam os filhos dos homens. (4)  
 **6** O senhor sonda o justo e o ímpio; o seu espírito odeia aquele que ama a iniquidade. (5)  
 **7** Fará chover sobre os pecadores carvões ardentes e enxofre; um vento abrasador será a porção do seu cálice. (6)  
-**8** Com efeito, o Senhor é justo e ama a justiça; os homens retos verão a sua face. (7)  
+**8** Com efeito, o Senhor é justo e ama a justiça; os homens rectos verão a sua face. (7)  
 
 ## Capítulo 11
 
 **1** Ao mestre do coro. Sobre a oitava. Salmo. De Davide.  
 **2** Salva-nos, Senhor, porque faltam pessoas de piedade, desapareceu a fidelidade entre os filhos dos homens.  
-**3** Cada um somente diz falsidade ao seu próximo;  
+**3** Cada um sòmente diz falsidade ao seu próximo;  
 **4** Extirpe o Senhor todos os lábios dolosos, a língua que fala com arrogância,  
 **5** aqueles que dizem: "Somos fortes com a nossa língua, estão por nós os nossos lábios: quem é senhor de nós?"  
 **6** "Por causa da aflição dos humildes e do gemido dos pobres, agora me levantarei (para os defender), diz o Senhor, darei salvação a quem a deseja."  
@@ -191,7 +191,7 @@
 
 ## Capítulo 13
 
-**1** Ao mestre do coro. De Davide. o insensato diz no seu coração: "Não há Deus." (Os homens) corromperam-se, praticaram ações abomináveis; não há quem faça o bem.  
+**1** Ao mestre do coro. De Davide. o insensato diz no seu coração: "Não há Deus." (Os homens) corromperam-se, praticaram acções abomináveis; não há quem faça o bem.  
 **2** O Senhor olha do céu para os filhos dos homens, para ver se há quem entenda e busque a Deus.  
 **3** Todos à uma se extraviaram, se perverteram; não há quem faça o bem, não há nem sequer um.  
 **4** Não se emendarão todos os que praticam a iniquidade, os que devoram o meu povo, como quem come pão? Não invocaram o Senhor;  
@@ -203,7 +203,7 @@
 
 **1** Salmo. De Davide. Senhor, quem terá a sua morada no teu tabernáculo? quem habitará no teu santo monte?  
 **2** O que anda sem mancha e pratica a justiça  
-**3** e pensa o que é reto no seu coração, e não calunia com a sua língua; o que ao seu próximo não faz mal. nem dirige opróbrio ao seu vizinho;  
+**3** e pensa o que é recto no seu coração, e não calunia com a sua língua; o que ao seu próximo não faz mal. nem dirige opróbrio ao seu vizinho;  
 **4** o que tem o malvado por desprezível, e honra os que temem o Senhor;  
 **5** o que, embora tenha um juramento com dano próprio, não o muda, o que não empresta o seu dinheiro com usura, nem aceita dádivas (para proceder) contra o inocente. Quem faz estas coisas não será jamais comovido.  
 
@@ -211,7 +211,7 @@
 
 **1** Miktãm. De Davide. Guarda-me, ó Deus, porque a ti recorro,  
 **2** digo ao Senhor: "Tu és o meu Senhor, fora de ti não tenho nenhum bem."  
-**3** Para com os santos, que estão na sua terra, quão admirável tornou todo o meu afeto!  
+**3** Para com os santos, que estão na sua terra, quão admirável tornou todo o meu afecto!  
 **4** Multiplicam as suas dores, os que seguem deuses estranhos, não libarei o sangue das suas libações, nem pronunciarei os seus nomes com os meus lábios.  
 **5** O Senhor é a porção da minha herança e do meu cálice; és tu que tens na mão a minha sorte.  
 **6** As cordas caíram-me em lugares amenos; e comprazo-me plenamente com a minha herança.  
@@ -224,7 +224,7 @@
 ## Capítulo 16
 
 **1** Súplica. De Davide. Ouve, Senhor, uma causa justa, atende o meu clamor, dá ouvidos à minha oração, que sai de lábios enganosos.  
-**2** Proceda de ti a minha sentença: os teus olhos veem o que é reto.  
+**2** Proceda de ti a minha sentença: os teus olhos vêem o que é recto.  
 **3** Se sondas o meu coração, se o visitas de noite, se no fogo me provas, não encontrarás em mim a iniquidade.  
 **4** A minha boca não transgrediu, como é costume dos homens; segundo as palavras dos teus lábios, guardei os caminhos da lei.  
 **5** Firmaram-se os meus passos nas tuas veredas, os meus pés não vacilaram.  
@@ -259,14 +259,14 @@
 **16** E apareceram os fundos do mar, e ficaram a descoberto os fundamentos da terra, às ameaças do Senhor, ao sopro impetuoso da sua ira.  
 **17** Estendeu do alto a sua mão, tomou-me, tirou-me das muitas águas.  
 **18** Livrou-me do meu fortíssimo inimigo, e dos que me aborreciam, que eram mais poderosos do que eu.  
-**19** Eles atacaram-me no dia da minha aflição, mas o Senhor fez-se meu protetor,  
+**19** Eles atacaram-me no dia da minha aflição, mas o Senhor fez-se meu protector,  
 **20** retirou-me para um lugar espaçoso, salvou-me porque me ama.  
 **21** O senhor me recompensou segundo a minha justiça, e segundo a pureza das minhas mãos me retribuiu,  
 **22** porque guardei os caminhos do Senhor e não me afastei, pelo pecado, do meu Deus,  
 **23** porque todos os seus mandamentos estiveram diante dos meus olhos, e não repeli de mim os seus preceitos,  
 **24** antes foi íntegro em sua presença, e guardei-me da culpa.  
 **25** O Senhor me retribuiu segundo a minha justiça, e segundo a pureza das minhas mãos (que está presente) aos seus olhos.  
-**26** Com o homem piedoso mostras-te piedoso, com o reto usas de retidão,  
+**26** Com o homem piedoso mostras-te piedoso, com o recto usas de rectidão,  
 **27** com o puro mostras-te puro, com o estuto tornas-te prudente.  
 **28** Com efeito tu salvas o povo humilde, mas humilhas os olhos soberbos.  
 **29** Porque tu, ó Senhor, fazes brilhar a minha lucerna; tu, ó meu Deus, iluminas as minhas trevas.  
@@ -303,7 +303,7 @@
 **6** que sai como um esposo do seu tálamo, dá saltos como gigante a percorrer o seu caminho.  
 **7** A sua saída é desde uma extremidade do céu, e o seu giro (vai) até à outra extremidade, e nada se pode subtrair do seu calor.  
 **8** A lei do Senhor é perfeita, restaura a alma; a prescrição do Senhor é firme, instrui o rude;  
-**9** Os preceitos do Senhor são retos, deleitam o coração; o preceito do Senhor é límpido, esclarece os olhos;  
+**9** Os preceitos do Senhor são rectos, deleitam o coração; o preceito do Senhor é límpido, esclarece os olhos;  
 **10** O temor do Senhor é puro, permanece eternamente, os juízos do Senhor são verdadeiros, são todos justos,  
 **11** são mais para desejar do que o ouro, do que muito ouro refinado, são mais doces do que o mel e o néctar do favo.  
 **12** Por mais que o teu servo ponha neles a sua atenção e seja muito solícito em os guardar,  
@@ -337,7 +337,7 @@
 **9** Caia a tua mão sobre todos os seus inimigos, alcance a tua direita aqueles que te aborrecem.  
 **10** Coloca-os como num forno aceso, ao mostrar-lhes teu rosto (irritado). O Senhor os consuma com a sua ira, e o fogo os devore.  
 **11** Extermina de sobre a terra a sua prole, a sua descendência de entre os filhos dos homens.  
-**12** Se projetarem algum mal contra ti, se maquinarem algum engano, não prevalecerão,  
+**12** Se projectarem algum mal contra ti, se maquinarem algum engano, não prevalecerão,  
 **13** porque os porás em fuga, apontarás o teu arco contra o seu rosto.  
 **14** Levanta-te, Senhor, com o teu poder! nós cantaremos e celebraremos a tua fortaleza  
 
@@ -349,8 +349,8 @@
 **4** Mas tu moras no lugar santo, ó louvor de Israel.  
 **5** Em ti esperaram nossos pais, esperaram, e tu os livraste;  
 **6** a ti clamaram, e foram salvos, em ti esperaram, e não foram confundidos.  
-**7** Eu, porém, sou um verme e não um homem, O opróbrio dos homens e a abjeção da plebe.  
-**8** Todos os que me veem, escarnecem de mim, franzem os lábios, meneiam a cabeça (dizendo):  
+**7** Eu, porém, sou um verme e não um homem, O opróbrio dos homens e a abjecção da plebe.  
+**8** Todos os que me vêem, escarnecem de mim, franzem os lábios, meneiam a cabeça (dizendo):  
 **9** "Esperou no Senhor: livre-o, salve-o, se é que o ama."  
 **10** Sim, tu tens sido o meu guia desde o ventre (materno), tornaste-me seguro aos peitos de minha mãe.  
 **11** Fui-te consagrado, logo desde o nascimento, tu és o meu Deus desde o ventre de minha mãe.  
@@ -380,7 +380,7 @@
 
 **1** Salmo. De Davide. O Senhor me apascenta: nada me falta;  
 **2** em verdes pastos me faz recostar. Conduz-me junto das águas para descansar;  
-**3** reconforta a minha alma, guia-me por veredas retas, por causa do seu nome.  
+**3** reconforta a minha alma, guia-me por veredas rectas, por causa do seu nome.  
 **4** Ainda que eu ande por um vale tenebroso, não temerei males, porque tu estás comigo. A tua vara e o teu báculo: são eles que me consolam.  
 **5** Preparas uma mesa para mim, à vista dos meus adversários; unges com óleos a minha cabeça; o meu cálice trasborda.  
 **6** Benignidade e graça me acompanharão todos os dias da minha vida. Habitarei na casa do Senhor, durante dilatadíssimos tempos.  
@@ -388,7 +388,7 @@
 ## Capítulo 23
 
 **1** Salmo. De Davide. Do Senhor é a terra e tudo que ela encerra, a redondeza da terra e os que a habitam.  
-**2** Efetivamente ele a fundou sobre os mares, e a consolidou sobre os rios.  
+**2** Efectivamente ele a fundou sobre os mares, e a consolidou sobre os rios.  
 **3** Quem subirá ao monte do Senhor, ou quem estará no seu lugar santo?  
 **4** O inocente de mãos e limpo de coração, o que não inclina às vaidades a sua alma, nem fez juramentos dolosos ao seu próximo,  
 **5** Este receberá bênçãos do Senhor, recompensa de Deus, seu Salvador.  
@@ -407,7 +407,7 @@
 **5** Dirige-me na tua verdade e ensina-me, porque tu és o Deus meu Salvador: em ti espero sempre.  
 **6** Lembra-te, Senhor, das tuas bondades e das tuas misericórdias, que datam dos séculos passados.  
 **7** Não te recordes dos pecados da minha mocidade, dos meus delitos; mas lembra-te de mim, segundo a tua misericórdia, por causa da tua bondade. Senhor.  
-**8** Bom e reto é o Senhor: por isso ele ensina aos pecadores o caminho (que devem seguir).  
+**8** Bom e recto é o Senhor: por isso ele ensina aos pecadores o caminho (que devem seguir).  
 **9** Dirige os humildes na justiça, ensina aos humildes o seu caminho.  
 **10** Todas as veredes do Senhor são graça e fidelidade para os que guardam a sua aliança e os seus mandamentos.  
 **11** Por causa do teu nome, Senhor, me hás-de perdoar o meu pecado, pois é grande.  
@@ -420,7 +420,7 @@
 **18** Olha para a minha miséria e para o meu trabalho, e perdoa todos os meus pecados.  
 **19** Olha para os meus inimigos, pois são muitos, e odeiam-me com ódio violento.  
 **20** Guarda a minha alma e livra-me, não seja eu confundido por ter recorrido a ti.  
-**21** Protejam-me a inocência e a retidão, porque espero em ti, Senhor.  
+**21** Protejam-me a inocência e a rectidão, porque espero em ti, Senhor.  
 **22** Livra, ó Deus, a Israel de todas as suas angústias.  
 
 ## Capítulo 25
@@ -436,7 +436,7 @@
 **9** Não arrebates a minha alma juntamente com os pecadores, nem a minha vida com os homens sanguinários,  
 **10** em cujas mãos está o crime, cuja dextra está repleta de dádivas.  
 **11** Eu, porém, ando na minha inocência: resgata-me e tem compaixão em mim.  
-**12** O meu pé está no caminho reto, nas reuniões bendirei o Senhor.  
+**12** O meu pé está no caminho recto, nas reuniões bendirei o Senhor.  
 
 ## Capítulo 26
 
@@ -488,12 +488,12 @@
 **3** Senhor, meu Deus, clamei a ti, e tu me saraste;  
 **4** Senhor, tiraste dos infernos a minha alma, puseste-me a salvo dos que descem à cova.  
 **5** Santos do Senhor, cantai-lhe salmos, dai graças ao seu santo nome,  
-**6** Efetivamente a sua indignação dura um instante, e a sua benevolência dura toda a vida. De tarde estaremos em lágrimas, e de manhã em alegria.  
+**6** Efectivamente a sua indignação dura um instante, e a sua benevolência dura toda a vida. De tarde estaremos em lágrimas, e de manhã em alegria.  
 **7** Eu porém disse seguro de mim: "Não terei jamais mudança."  
 **8** Senhor, foi por teu favor que me concedeste honra e poderio; apenas escondeste de mim o teu rosto, fiquei conturbado.  
 **9** A ti, Senhor, clamo, imploro a misericórdia do meu Deus:  
 **10** "Que vantagem virá do meu sangue, da minha descida à cova? Porventura o pó cantará os teus louvores, ou anunciará a tua fidelidade?"  
-**11** Ouve-me, Senhor, e compadece-te de mim; Senhor sê o meu protetor.  
+**11** Ouve-me, Senhor, e compadece-te de mim; Senhor sê o meu protector.  
 **12** Converteste-me o meu pranto em dança (de júbilo), tu desataste o meu saco (de penitência) e cingiste-me de alegria,  
 **13** para que a minha alma te cante e não se cale. Senhor, Deus meu, eu te louvarei eternamente.  
 
@@ -510,7 +510,7 @@
 **9** não me entregaste nas mãos do inimigo, antes puseste os meus pés em lugar espaçoso.  
 **10** Tem piedade de mim, Senhor, porque estou em angústias: definham de tristeza os meus olhos, a minha alma e o meu corpo.  
 **11** Sim, a minha vida vai-se consumindo na dor, os meus anos em gemidos. Debilitou-se a minha força na aflição, os meus ossos consumiram-se.  
-**12** Para todos os meus inimigos tornei-me um objeto de opróbrio, de ludibrio para os meus vizinhos, de terror para os meus conhecidos; os que me veem fora (pelos caminhos) fogem de mim.  
+**12** Para todos os meus inimigos tornei-me um objecto de opróbrio, de ludibrio para os meus vizinhos, de terror para os meus conhecidos; os que me vêem fora (pelos caminhos) fogem de mim.  
 **13** Caí no esquecimento dos corações, como um morto, reduzido à condição dum vaso quebrado.  
 **14** Porque ouvi os assobios de muitos, o terror me rodeia! Concertando-se contra mim, resolveram tirar-me a vida.  
 **15** Porém eu confio em ti, Senhor; eu digo: Tu és o meu Deus.  
@@ -519,7 +519,7 @@
 **18** Senhor, não seja eu confundido, pois que te invoquei; sejam confundidos os ímpios, sejam reduzidos ao silêncio, lançados no abismo.  
 **19** Tornem-se mudos os lábios mentirosos, que falam insolentemente contra o justo, com soberba e com desprezo,  
 **20** Quão grande é, Senhor, a tua bondade, que tens reservada para os que te temem, que concedes aos que se refugiam em ti, à vista dos homens!  
-**21** Sob a proteção do teu rosto os defendes das conjuras dos homens, oculta-los no tabernáculo contra as altercações das línguas.  
+**21** Sob a protecção do teu rosto os defendes das conjuras dos homens, oculta-los no tabernáculo contra as altercações das línguas.  
 **22** Bendito seja o Senhor, porque maravilhosamente me mostrou a sua misericórdia na cidade fortificada.  
 **23** Eu disse na minha ansiedade: "Fui expulso da tua presença." Tu, porém, ouviste a voz da minha,oração, quando a ti clamava.  
 **24** Amai o Senhor, vós todos os seus santos! o Senhor guarda os que são fiéis, mas dá abundantemente a paga merecida aos que procedem com soberba.  
@@ -537,20 +537,20 @@
 **8** Eu te instruirei (disseste), e ensinar-te-ei o caminho que deves seguir; eu te instruirei, tendo fixos sobre ti os meus olhos.  
 **9** Não queirais ser como o cavalo e o mulo sem entendimento, cujo ímpeto se domina com o cabresto e o freio; doutro modo não se aproximam de ti.  
 **10** São muitas as dores do ímpio; mas o que espera no Senhor é cercado de misericórdia.  
-**11** Alegrai-vos no Senhor e regozijai-vos, ó justos, exultai vós todos os que sois de coração reto.  
+**11** Alegrai-vos no Senhor e regozijai-vos, ó justos, exultai vós todos os que sois de coração recto.  
 
 ## Capítulo 32
 
-**1** Exultai, ó justos, no Senhor: e aos retos (do coração) que fica bem o louvá-lo.  
+**1** Exultai, ó justos, no Senhor: e aos rectos (do coração) que fica bem o louvá-lo.  
 **2** Celebrai o Senhor com a citara, cantai-lhe hinos com o saltério de dez cordas.  
 **3** Cantai-lhe um cântico novo, cantai-lhe com entusiasmo ao som das trombetas.  
-**4** De facto, a palavra do Senhor é reta, e toda a sua obra é fiel.  
+**4** De facto, a palavra do Senhor é recta, e toda a sua obra é fiel.  
 **5** Ele ama a justiça e o direito: a terra está cheia da graça do Senhor.  
 **6** Pela palavra do Senhor foram feitos os céus, e pelo sopro da sua boca (formaram-se) todos os seus exércitos.  
 **7** Ele junta como num odre as águas do mar; ele põe as ondas como em reservatórios.  
 **8** Toda a terra tema o Senhor, e todos os que habitam o universo prestem-lhe reverência.  
 **9** Ele disse, e (tudo) foi feito; mandou, e (tudo) existiu.  
-**10** O Senhor dissipa os projetos das nações, e frustra os intentos dos povos.  
+**10** O Senhor dissipa os projectos das nações, e frustra os intentos dos povos.  
 **11** O desígnio do Senhor permanece eternamente: os pensamentos do seu coração (subsistem) de geração em geração.  
 **12** Bem-aventurada a nação que tem o Senhor por seu Deus: o povo que ele escolheu para sua herança.  
 **13** O Senhor olha dos céus: vê todos os filhos dos homens.  
@@ -633,7 +633,7 @@
 **8** Quão preciosa é a tua graça, ó Deus! Os filhos dos homens refugiam-se à sombra das tuas asas;  
 **9** saciam-se com a abundância da tua casa, e tu os fazes beber na torrente das tuas delícias.  
 **10** Realmente em ti está a fonte da vida, e na tua luz vemos a luz.  
-**11** Conserva a tua graça aos que te adoram, e a tua equidade aos que têm o coração reto.  
+**11** Conserva a tua graça aos que te adoram, e a tua equidade aos que têm o coração recto.  
 **12** Não venha sobre mim o pé do soberbo, e a mão do pecador não me abale.  
 **13** Eis que caíram os que cometem a iniquidade: foram derribados e não se podem levantar mais.  
 
@@ -652,7 +652,7 @@
 **11** Mas os mansos possuirão a terra, e deleitar-se-ão na abundância da paz.  
 **12** O ímpio maquina males contra o justo e range os dentes contra ele.  
 **13** O Senhor zomba dele, porque vê que há-de chegar o seu dia.  
-**14** Os ímpios desembainham a espada e retesam o seu arco, para abaterem o desgraçado e o pobre, para trucidarem os que seguem caminho reto.  
+**14** Os ímpios desembainham a espada e retesam o seu arco, para abaterem o desgraçado e o pobre, para trucidarem os que seguem caminho recto.  
 **15** A sua espada traspassarão seu próprio coração, e serão quebrados os seus arcos.  
 **16** Mais vale o pouco ao justo, que as muitas riquezas aos ímpios,  
 **17** porque os braços dos pecadores serão quebrados, aos justos, porém, sustenta-os o Senhor,  
@@ -687,7 +687,7 @@
 **3** Com efeito, as tuas setas se me cravaram, e descarregou sobre mim a tua mão.  
 **4** Nada há são na minha carne por causa da tua indignação, nada há intacto nos meus ossos, por causa do meu pecado.  
 **5** Em verdade, as minhas culpas se elevaram acima da minha cabeça, como uma carga pesada me oprimem demasiadamente.  
-**6** As minhas chagas estão infetas e purulentas, por causa da minha loucura.  
+**6** As minhas chagas estão infectas e purulentas, por causa da minha loucura.  
 **7** Deprimido, extremamente encurvado, todo o dia ando oprimido de tristeza.  
 **8** De facto, as minhas entranhas estão cheias de inflamação, não há parte alguma sã na minha carne  
 **9** Estou esgotado e grandemente abatido, o frêmito do meu coração arranca-me rugidos.  
@@ -773,7 +773,7 @@
 **8** Um abismo chama outro abismo, com o fragor das tuas cataratas: todas as tuas vagas e as tuas torrentes passaram sobre mim.  
 **9** Durante o dia o Senhor me conceda a sua graça, e de noite eu cantarei, louvarei ao Deus da minha vida.  
 **10** Digo a Deus: "Meu Rochedo por que te esqueces de mim?" "Por que ando triste, sob a opressão de inimigos?"  
-**11** Fraturam-se os meus ossos, quando os meus adversários me ultrajam, quando todos os dias me dizem: "Onde está o teu Deus?"  
+**11** Fracturam-se os meus ossos, quando os meus adversários me ultrajam, quando todos os dias me dizem: "Onde está o teu Deus?"  
 **12** Por que te deprimes, minha alma? Por que te conturbas dentro de mim? Espera em Deus, porque novamente o hei-de louvar, (a ele que é) a salvação do meu rosto e o meu Deus  
 
 ## Capítulo 42
@@ -799,7 +799,7 @@
 **11** Fizeste-nos ceder diante dos nossos adversários, e os que nos odeiam encheram-se de despojos  
 **12** Entregaste-nos, como ovelhas para o matadouro, dispersaste-nos entre as nações.  
 **13** Vendeste o teu povo por preço vil e pouco lucraste em o ter vendido.  
-**14** Tornaste-nos o opróbrio dos nossos vizinhos; um objeto de escárnio a zombaria para aqueles que estão ao redor de nós.  
+**14** Tornaste-nos o opróbrio dos nossos vizinhos; um objecto de escárnio a zombaria para aqueles que estão ao redor de nós.  
 **15** Fizeste de nós a fábula das nações, os povos abanam a cabeça, escarnecendo de nós.  
 **16** A minha ignomínia está todo o dia diante de mim, e o meu rosto cobre-se de confusão,  
 **17** à voz do que me afronta e vitupera, por causa do inimigo e do opressor.  
@@ -822,7 +822,7 @@
 **4** Cinge a tua espada ao teu lado, ó (rei) poderosíssimo, tua gala e teu ornato!  
 **5** Avança triunfante em prol da fé e da justiça, e a tua dextra te ensine gloriosas façanhas.  
 **6** As tuas setas são agudas, os povos submetem-se a ti, os inimigos do rei perdem o ânimo.  
-**7** O teu trono, ó Deus, subsistirá por todos os séculos; o cetro do teu reino é um cetro de equidade.  
+**7** O teu trono, ó Deus, subsistirá por todos os séculos; o ceptro do teu reino é um ceptro de equidade.  
 **8** Amas a justiça e aborreces a iniquidade: por isso te ungiu Deus, o teu Deus, com óleo de alegria, de preferência aos teus companheiros.  
 **9** (Perfume de) mirra, de aloés e cássia (exalam) as tuas vestes; dos palácios de marfim o som das cítaras te alegra.  
 **10** Filhas de reis saem ao teu encontro, a rainha está à tua dextra, ornada com ouro de Ofir.  
@@ -856,7 +856,7 @@
 **2** Povos, batei todos palmas, aclamai Deus com vozes de regozijo,  
 **3** porque o Senhor é excelso e terrível, rei supremo sobre toda a terra.  
 **4** Submete os povos a nós, (põe) as nações debaixo dos nossos pés.  
-**5** Escolhe para nós a nossa herança, a glória de Jacob seu predileto.  
+**5** Escolhe para nós a nossa herança, a glória de Jacob seu predilecto.  
 **6** Sobe Deus entre _(vozes de)_ júbilo, o Senhor ao som da trombeta.  
 **7** Cantai salmos a Deus, cantai; cantai salmos ao nosso rei, cantai.  
 **8** Porque Deus é o rei de toda a terra, cantai um hino.  
@@ -896,14 +896,14 @@
 **11** Verá, com efeito, que morrem os sábios, o insensato e o néscio perecem igualmente, e deixam a outros as suas riquezas.  
 **12** Os sepulcros serão as suas habitações para sempre, suas moradas de geração em geração, posto que tenham dado os seus nomes às terras.  
 **13** De facto o homem não permanecerá na opulência: é semelhante às alimárias que perecem.  
-**14** Este é o caminho dos que presumem nesciamente, e este é o fim dos que se deleitam na sua sorte.  
+**14** Este é o caminho dos que presumem nèsciamente, e este é o fim dos que se deleitam na sua sorte.  
 **15** Como (um rebanho de) ovelhas, são postos na morada dos mortos; a morte os apascenta, e os justos os dominam. Depressa desaparecerá a sua figura, e a habitação dos mortos será a sua morada.  
 **16** Deus, porém, livrará a minha alma da morada dos mortos, pois me tomará consigo.  
 **17** Não te dê cuidado quando alguém enriquecer, quando crescer a opulência da sua casa:  
 **18** realmente, em morrendo nada levará consigo, nem a sua opulência descerá com ele.  
 **19** Ainda que em vida se tenha felicitado (dizendo): "Hão-de celebrar-te, porque te trataste bem",  
 **20** irá para a morada de seus pais, que jamais verão a luz.  
-**21** O homem que vive na opulência e não reflete, é semelhante às alimárias que perecem.  
+**21** O homem que vive na opulência e não reflecte, é semelhante às alimárias que perecem.  
 
 ## Capítulo 49
 
@@ -929,7 +929,7 @@
 **20** Estando sentado, falavas contra teu irmão, e difamavas o filho da tua mãe.  
 **21** Isto fizeste, e eu hei-de calar-me? Julgaste que eu sou semelhante a ti? Arguir-te-ei e porei (tudo) diante dos teus olhos.  
 **22** Entendei isto, vós que vos esqueceis de Deus, não suceda que vos arrebate, e não haja quem vos salve.  
-**23** O que oferece sacrifício de louvor (é o que) me honra, e ao que caminha com retidão mostrarei a salvação de Deus."  
+**23** O que oferece sacrifício de louvor (é o que) me honra, e ao que caminha com rectidão mostrarei a salvação de Deus."  
 
 ## Capítulo 50
 
@@ -938,7 +938,7 @@
 **3** Tem piedade de mim, ó Deus, segundo a tua misericórdia; segundo a multidão das tuas clemências, apaga a minha iniquidade.  
 **4** Lava-me inteiramente da minha culpa, purifica-me do meu pecado,  
 **5** Porque eu reconheço a minha maldade, e o meu pecado está sempre diante de mim.  
-**6** Pequei contra ti só, fiz o que é mau diante dos teus olhos, para que te manifestes justo na tua sentença, reto no teu juízo.  
+**6** Pequei contra ti só, fiz o que é mau diante dos teus olhos, para que te manifestes justo na tua sentença, recto no teu juízo.  
 **7** Eis que nasci na culpa, e minha mãe concebeu-me no pecado.  
 **8** Eis que te comprazes na sinceridade do coração, e no meu íntimo me ensinas a sabedoria.  
 **9** Asperge-me com o hissope, e serei purificado; lava-me, e me tornarei mais branco que a neve.  
@@ -972,7 +972,7 @@
 ## Capítulo 52
 
 **1** Ao mestre do coro. Segundo a melodia de "Mahalat". Maskil. De Davide. Diz o néscio no seu coração: "Não á Deus."  
-**2** Perverteram-se (os homens), cometeram ações abomináveis; não há quem faça o bem.  
+**2** Perverteram-se (os homens), cometeram acções abomináveis; não há quem faça o bem.  
 **3** Deus olha do céu sobre os filhos dos homens, para ver se há quem tenha senso e busque a Deus.  
 **4** Todos juntamente se transviaram, se perverteram; não há quem faça o bem, não há sequer um só.  
 **5** Porventura não cairão em si os que praticam a iniquidade, os que devoram o meu povo como quem come pão.  
@@ -1052,7 +1052,7 @@
 ## Capítulo 57
 
 **1** Ao mestre do coro. Segundo a melodia de "Não destruas"... De Davide. Miktãm.  
-**2** Porventura, ó poderosos, fazeis verdadeiramente justiça? Porventura, ó filhos dos homens, é com retidão que julgais?  
+**2** Porventura, ó poderosos, fazeis verdadeiramente justiça? Porventura, ó filhos dos homens, é com rectidão que julgais?  
 **3** Ao contrário, vós cometeis iniquidades no coração, e as vossas mãos espalham injustiças na terra.  
 **4** Extraviaram-se os ímpios desde o seio materno, erraram, desde o seu nascimento, os que falam mentira.  
 **5** Têm um veneno semelhante ao veneno das serpentes, ao veneno do áspide (que se faz) surdo, que fecha os seus ouvidos,  
@@ -1095,7 +1095,7 @@
 **6** Deste aos que te temem um estandarte, para que fugissem do arco  
 **7** para que sejam livres os teus amados, socorre-nos com a tua dextra, ouve-nos.  
 **8** Deus falou no seu santuário: "Exultarei e repartirei (à minha vontade) Siquém, e medirei o vale de Sucot.  
-**9** Minha é a tua terra Galaad, minha a terra de Manassés, Efraim é o elmo da minha cabeça, Judá o meu cetro,  
+**9** Minha é a tua terra Galaad, minha a terra de Manassés, Efraim é o elmo da minha cabeça, Judá o meu ceptro,  
 **10** Moab é como que a bacia para me levar; poisarei o meu calçado sobre Edom, triunfarei da Filisteia."1  
 **11** Quem me conduzirà à cidade fortificada? Quem me levará até Edom?  
 **12** Quem, senão tu, ó Deus, que nos repeliste, tu, que já não sais, ó Deus, à frente dos nossos exércitos?  
@@ -1120,8 +1120,8 @@
 **2** Só em Deus repousa a minha alma, dele vem a minha salvação.  
 **3** Só ele é o meu rochedo e a minha salvação, o meu baluarte: por nada vacilarei.  
 **4** Até quando arremetereis contra um homem tentareis todos derribá-lo, como a uma parede inclinada, como a um muro em ruína?  
-**5** Sim, projetam precipitar-me do meu posto elevado, comprazem-se na mentira; com a sua boca me bendizem, mas em seu coração maldizem.  
-**6** Somente em Deus repousa, ó minha alma, porque dele vem o que espero,  
+**5** Sim, projectam precipitar-me do meu posto elevado, comprazem-se na mentira; com a sua boca me bendizem, mas em seu coração maldizem.  
+**6** Sòmente em Deus repousa, ó minha alma, porque dele vem o que espero,  
 **7** Só ele é o meu rochedo e a minha salvação, o meu baluarte: não vacilarei.  
 **8** Em Deus está a minha salvação e a minha glória, o rochedo da minha força: o meu refúgio está em Deus.  
 **9** Espera nele, ó povo, em todo o tempo, expandi diante dele os vossos corações: Deus é o nosso refúgio  
@@ -1153,11 +1153,11 @@
 **4** que afiam como espada as suas línguas, soltam como setas palavras envenenadas,  
 **5** para, dos seus esconderijos, ferirem o inocente, para o ferirem de improviso, nada temendo.  
 **6** Propõem-se obstinadamente uma obra má, conspiram para armar laços às ocultas, dizem: "Quem os verá?"  
-**7** Projetam infâmias, ocultam os planos arquitetados, o espírito e o coração de cada um deles são insondáveis.  
+**7** Projectam infâmias, ocultam os planos arquitectados, o espírito e o coração de cada um deles são insondáveis.  
 **8** Mas Deus fere-os com setas, de improviso são feridos,  
-**9** e a sua própria língua lhes prepara a ruína: todos os que os veem abanam a cabeça.  
+**9** e a sua própria língua lhes prepara a ruína: todos os que os vêem abanam a cabeça.  
 **10** E todos temem e proclamam esta obra de Deus e ponderam o que ele fez.  
-**11** Alegra-se o justo no Senhor e refugia-se nele, e gloriam-se todos os de coração reto.  
+**11** Alegra-se o justo no Senhor e refugia-se nele, e gloriam-se todos os de coração recto.  
 
 ## Capítulo 64
 
@@ -1228,7 +1228,7 @@
 **14** Quando descansáveis nos apriscos, as asas da pomba brilhavam como prata, e como um amarelo de ouro as suas penas.  
 **15** Enquanto o Omnipotente dispersava os reis da terra, caíam as neves sobre o Salmon."  
 **16** Os montes de Basan são elevados, os montes de Basan são escarpados:  
-**17** ó montes escarpados, por que olhais com inveja o monte, no qual aprouve a Deus morar e no qual o Senhor habitará perpetuamente?  
+**17** ó montes escarpados, por que olhais com inveja o monte, no qual aprouve a Deus morar e no qual o Senhor habitará perpètuamente?  
 **18** Os carros de Deus são miríades, milhares e milhares, são milhares (de anjos) que se alegram; o Senhor vem do Sinai ao Santuário.  
 **19** Subiste (ó Senhor) ao alto, levaste contigo cativos, recebeste homens em tributo mesmo aqueles que não querem habitar com o Senhor Deus.  
 **20** Bendito seja o Senhor em toda a série dos dias; Deus, nossa salvação, leva as nossas cargas!  
@@ -1243,7 +1243,7 @@
 **29** Ó Deus mostra o teu poder, o teu poder, ó Deus, que operas por nós!  
 **30** Por causa do teu templo que está em Jerusalém, te ofereçam dons os reis.  
 **31** Reprime a fera do canavial, a manada dos touros com os novilhos dos povos; prostrem-se com lingotes de prata (como tributo): dissipa as nações que gostam de fazer guerra.  
-**32** Venham os magnates do Egito, estenda a Etiópia as suas mãos para Deus.  
+**32** Venham os magnates do Egipto, estenda a Etiópia as suas mãos para Deus.  
 **33** Reinos da terra, cantai a Deus, entoai salmos ao Senhor,  
 **34** que é levado pelos céus, pelos céus antigos! Eis que faz ressoar a sua voz potente:  
 **35** "Reconhecei o poder de Deus!" Sobre Israel está a sua majestade, e sobre as nuvens o seu poder,  
@@ -1262,7 +1262,7 @@
 **9** Tornei-me um estranho para os meus irmãos, e um desconhecido para os filhos de minha mãe.  
 **10** e por causa do zelo pela casa de Deus.  
 **11** Mortifiquei pelo jejum a minha alma, e isto tornou-se-me em opróbrio.  
-**12** Tomei por vestido um saco, e fui para eles objeto de escárnio.  
+**12** Tomei por vestido um saco, e fui para eles objecto de escárnio.  
 **13** Falam contra mim os que se sentam à porta (da cidade), e escarnecem-me os que bebem vinho.  
 **14** Porém, ó Senhor, a minha oração eleva-se a ti no tempo da graça, ó Deus; ouve-me segundo a tua grande bondade, segundo o teu auxílio fiel.  
 **15** Tira-me do lodo, para que não seja submergido, livra-me daqueles que me odeiam e da profundidade das águas (da tribulação).  
@@ -1281,7 +1281,7 @@
 **28** Acrescenta culpas às suas culpas, e não sejam proclamados justos diante de ti.  
 **29** Sejam riscados do livro dos viventes, e não sejam inscritos com os justos.  
 **30** Quanto a mim, sou mísero e cheio de dores; protege-me, ó Deus, com teu auxílio.  
-**31** Glorificarei o nome de Deus com cânticos, e proclamá-lo-ei com uma ação de graças.  
+**31** Glorificarei o nome de Deus com cânticos, e proclamá-lo-ei com uma acção de graças.  
 **32** E isto agradará a Deus mais do que um touro, mais do um novilho (já crescido) com chifres e unhas.  
 **33** Vede, ó humildes, e alegrai-vos, e reanimai o vosso coração, vós que buscais a Deus.  
 **34** Porque o Senhor ouve os pobres e não despreza os que por amor dele estão em cadeias.  
@@ -1296,7 +1296,7 @@
 **3** Sejam confundidos e envergonhados os que procuram tirar-me a vida, Voltem atrás e sejam envergonhados, os que se comprazem nos meus males.  
 **4** Retirem-se cheios de confusão, os que (insultando) me dizem: "Bem feito, bem feito!"  
 **5** Regozijem-se e alegrem-se em ti todos os que te buscam; e os que desejam o teu caminho digam sempre: "Glorificado seja o Senhor!"  
-**6** Eu, porém, sou miserável e pobre, ó Deus, socorre-me. Tu és o meu protetor e o meu libertador: Senhor, não te demores.  
+**6** Eu, porém, sou miserável e pobre, ó Deus, socorre-me. Tu és o meu protector e o meu libertador: Senhor, não te demores.  
 
 ## Capítulo 70
 
@@ -1305,8 +1305,8 @@
 **3** Sê para mim rochedo de refúgio, cidadela fortificada, para me salvares: em verdade, tu és o meu rochedo e a minha cidadela.  
 **4** Deus meu, livra-me da mão do iníquo, do punho do malvado e do opressor:  
 **5** Com efeito, tu és a minha esperança, ó meu Deus, Senhor, (tu és a) minha esperança desde a minha mocidade.  
-**6** Em ti me firmei desde o meu nascimento, tu és o meu protetor desde o ventre de minha mãe: em ti esperei sempre.  
-**7** Fui considerado por muitos como um prodígio; tu, foste, realmente, o meu poderoso protetor.  
+**6** Em ti me firmei desde o meu nascimento, tu és o meu protector desde o ventre de minha mãe: em ti esperei sempre.  
+**7** Fui considerado por muitos como um prodígio; tu, foste, realmente, o meu poderoso protector.  
 **8** A minha boca estava cheia do teu louvor, da tua glória todo o dia.  
 **9** Não me desampares no tempo da velhice; quando faltarem as minhas forças, não me abandones.  
 **10** Porque os meus inimigos falam contra mim, e os que me espiam conspiram contra mim,  
@@ -1328,7 +1328,7 @@
 ## Capítulo 71
 
 **1** De Salomão. Ó Deus dá o teu poder de julgar ao rei, e a tua justiça ao filho do rei:  
-**2** governe o teu povo com justiça, e os teus humildes com retidão.  
+**2** governe o teu povo com justiça, e os teus humildes com rectidão.  
 **3** Levem os montes paz ao povo, e os outeiros justiça.  
 **4** Protegerá os humildes do povo, salvará os filhos dos pobres, e esmagará o opressor.  
 **5** E viverá tanto como o sol e como a lua por todas as gerações.  
@@ -1349,7 +1349,7 @@
 
 ## Capítulo 72
 
-**1** Salmo. De Asaf. Quão bom é Deus para com os retos, o Senhor para com os puros de coração!  
+**1** Salmo. De Asaf. Quão bom é Deus para com os rectos, o Senhor para com os puros de coração!  
 **2** Os meus pés por pouco não vacilaram; por pouco se não transviaram os meus passos,  
 **3** porque tive inveja dos ímpios, ao observar a prosperidade dos pecadores.  
 **4** Porque eles não têm sofrimentos, são e gordo anda o seu corpo.  
@@ -1364,7 +1364,7 @@
 **13** Foi portanto inutilmente que conservei puro o meu coração, e lavei na inocência as minhas mãos?  
 **14** Pois sou flagelado a toda a hora e castigado todo o dia.  
 **15** Se eu pensasse: "Hei-de falar com eles," seria um desertor da raça dos teus filhos.  
-**16** Refletia pois para compreender isto; pareceu-me porém coisa bastante difícil,  
+**16** Reflectia pois para compreender isto; pareceu-me porém coisa bastante difícil,  
 **17** até que entrei no santuário (íntimo) de Deus, e atendi ao fim de todos eles.  
 **18** Na verdade, é sobre caminhos escorregadios que os colocas, precipita-los na ruína.  
 **19** Oh! como tombara num momento, acabaram, foram consumidos de espantoso terror!  
@@ -1442,13 +1442,13 @@
 **4** Ao recordar-me de Deus, gemo; quando repenso (nos meus sofrimentos), o meu espírito desfalece.  
 **5** Conservas em vigília os meus olhos, estou perturbado e não posso falar.  
 **6** Penso nos dias antigos, os anos afastados  
-**7** eu recordo: medito (nisto) de noite em meu coração, reflito, e o meu espírito esquadrinha.  
+**7** eu recordo: medito (nisto) de noite em meu coração, reflicto, e o meu espírito esquadrinha.  
 **8** "Porventura Deus há-de abandonar-nos, para sempre, e não voltará a ser-nos propício?  
 **9** Porventura terá acabado para sempre a sua graça, ficará anulada a sua promessa por todas as gerações?  
 **10** Porventura esqueceu-se Deus de usar de clemência?Porventura deteve, na sua ira, a sua misericórdia?"  
 **11** Então eu digo: "Esta é a minha dor: está mudada a dextra do Altíssimo."  
 **12** Lembro-me das obras do Senhor, sim, recordo-me das tuas maravilhas de outrora.  
-**13** Medito em todas as tuas obras e vou refletindo sobre as tuas proezas.  
+**13** Medito em todas as tuas obras e vou reflectindo sobre as tuas proezas.  
 **14** O teu caminho, ó Deus, é santo: que deus há grande como o nosso Deus?  
 **15** Tu és o Deus que opera maravilhas, fizeste conhecer entre os povos o teu poder.  
 **16** Redimiste com o teu braço o teu povo, os filhos de Jacob e de José.  
@@ -1467,11 +1467,11 @@
 **5** Ele fixou uma regra em Jacob, estabeleceu uma lei em Israel, (no sentido de) que tudo o que ordenou aos nossos país, eles o fizessem conhecer a seus filhos,  
 **6** para que o saiba a geração vindoura, os filhos que hão-de nascer, e estes se levantem e contem também a seus filhos,  
 **7** para que ponham em Deus a sua esperança, e não se esqueçam das obras de Deus, mas observem os seus mandamentos;  
-**8** para que não sejam como seus pais, uma geração rebelde e contumaz: uma geração, que não teve coração reto, nem espírito fiel a Deus.  
+**8** para que não sejam como seus pais, uma geração rebelde e contumaz: uma geração, que não teve coração recto, nem espírito fiel a Deus.  
 **9** Os filhos de Efraim, que lutavam com o arco, voltaram costas no dia da batalha.  
 **10** Não guardaram a aliança feita com Deus, recusaram andar na sua lei,  
 **11** esqueceram-se das suas obras e das maravilhas que fez à vista deles.  
-**12** Diante de seus pais fez maravilhas na terra do Egito, no campo de Tanis.  
+**12** Diante de seus pais fez maravilhas na terra do Egipto, no campo de Tanis.  
 **13** Dividiu o mar, por ele os fez passar, e conteve as águas como um dique.  
 **14** Guiou-os de dia por meio duma nuvem, e toda a noite com resplendor de fogo.  
 **15** Fendeu as pedras no deserto, e deu-lhes a beber água, como ondas abundantes.  
@@ -1492,17 +1492,17 @@
 **30** Todavia, ainda não tinham acabado de saciar o seu apetite, ainda estavam as iguarias na sua boca,  
 **31** quando a ira de Deus se inflamou contra eles e matou os mais robustos dentre eles, derribou os jovens de Israel.  
 **32** Depois de tudo isto, voltaram a pecar, não creram nas suas maravilhas.  
-**33** E consumiu rapidamente os seus dias, e os seus anos com extermínio repentino.  
+**33** E consumiu ràpidamente os seus dias, e os seus anos com extermínio repentino.  
 **34** Quando os feria de morte, buscavam-no: convertendo-se, buscavam a Deus;  
 **35** lembravam-se que Deus era a sua rocha (de defesa), que o Deus altíssimo era seu redentor.  
 **36** Porém enganavam-no com a sua boca, com a sua língua lhe mentiam.  
-**37** O seu coração não era reto com ele, nem eram fiéis à sua aliança.  
+**37** O seu coração não era recto com ele, nem eram fiéis à sua aliança.  
 **38** Mas ele, misericordioso, perdoava a sua culpa, não os destruía; conteve muitas vezes a sua ira, não descarregou (contra eles) todo o seu furor.  
 **39** Lembrou-se que eram carne (frágil), um sopro que passa e não volta.  
 **40** Quantas vezes o provocaram no deserto, o contristaram na solidão  
 **41** E voltaram a tentar a Deus, a exacerbar o santo de Israel.  
 **42** Não se lembraram do que ele tinha feito no dia em que os libertou da mão do opressor,  
-**43** quando fez resplandecer no Egito os seus prodígios, e as suas maravilhas no campo de Tanis,  
+**43** quando fez resplandecer no Egipto os seus prodígios, e as suas maravilhas no campo de Tanis,  
 **44** quando converteu em sangue os seus rios e os seus arrolos, para que não pudessem beber deles.  
 **45** Enviou contra eles moscas, que os devoraram, e rãs, que os infestaram;  
 **46** entregou as suas colheitas ao pulgão, e o fruto do seu trabalho ao gafanhoto.  
@@ -1510,7 +1510,7 @@
 **48** E entregou à saraiva os seus jumentos, e os seus rebanhos aos raios.  
 **49** Descarregou sobre eles o furor da sua ira, a indignação, o furor e a tribulação: um tropel de portadores de calamidade.  
 **50** Abriu caminho à sua ira, não os preservou da morte, e entregou os seus animais à peste.  
-**51** Feriu todo o primogénito no Egito, as primícias dos seus partos, nas tendas de Cam.  
+**51** Feriu todo o primogénito no Egipto, as primícias dos seus partos, nas tendas de Cam.  
 **52** E fez sair o seu povo como ovelhas, e guiou-os como um rebanho no deserto.  
 **53** Conduziu-os seguros e não temeram, e o mar cobriu os seus inimigos.  
 **54** E fez que chegassem à sua terra santa, aos montes que ele adquiriu com a sua dextra.  
@@ -1518,7 +1518,7 @@
 **56** Eles, porém, tentaram e provocaram de novo ao Deus Altíssimo não guardaram os seus preceitos.  
 **57** Fraquejaram e prevaricaram como seus pais, desviaram-se como um arco que falha.  
 **58** Excitaram-no à ira nas suas colinas, e com os ídolos que esculpiram inflamaram-lhe o zelo.  
-**59** Ouviu-os Deus, ardeu em furor e repudiou asperamente Israel.  
+**59** Ouviu-os Deus, ardeu em furor e repudiou àsperamente Israel.  
 **60** E abandonou a morada de Silo, o tabernáculo, onde habitava entre os homens.  
 **61** E entregou ao cativeiro (a Arca que era) a sua força, e (colocou) a sua glória nas mãos do inimigo.  
 **62** Entregou o seu povo à espada, indignou-se contra, a sua herança.  
@@ -1557,9 +1557,9 @@
 **4** Ó Deus, restaura-nos e mostra-nos sempre o teu rosto, para que sejamos salvos.  
 **5** Senhor Deus dos exércitos, até quando estarás irado, não obstante o teu povo orar?  
 **6** Alimentaste-lo com pão de lágrimas, deste-lhe a beber lágrimas com abundância.  
-**7** Fizeste de nós um objeto de disputa para os nossos vizinhos, e os nossos inimigos fazem escárnio de nós.  
+**7** Fizeste de nós um objecto de disputa para os nossos vizinhos, e os nossos inimigos fazem escárnio de nós.  
 **8** Deus dos exércitos, restaura-nos e mostra sereno o teu rosto, para que sejamos salvos.  
-**9** Uma videira arrancaste do Egito, expulsaste as gentes e a plantaste.  
+**9** Uma videira arrancaste do Egipto, expulsaste as gentes e a plantaste.  
 **10** Preparaste-lhe o terreno; ela lançou raízes e encheu a terra.  
 **11** A sua sombra cobriu os montes, e os seus sarmentos os cedros de Deus.  
 **12** Estendeu a sua ramagem até ao mar, e até ao rio os seus rebentos.  
@@ -1575,16 +1575,16 @@
 ## Capítulo 80
 
 **1** Ao mestre do coro. Segundo a melodia de "Os lagares..." De Asaf.  
-**2** Regozijai-vos em Deus, nosso protetor, aclamai o Deus de Jacob.  
+**2** Regozijai-vos em Deus, nosso protector, aclamai o Deus de Jacob.  
 **3** Tocai o saltério e pulsai o tímpano, a citara melodiosa e a lira.  
 **4** Tocai a trombeta na neoménia, no plenilúnio, nosso dia solene,  
 **5** porque é um preceito para Israel, e uma ordem do Deus de Jacob.  
-**6** Prescreveu esta lei a José, quando saiu da terra do Egito. Ouvi uma língua que não entendia  
+**6** Prescreveu esta lei a José, quando saiu da terra do Egipto. Ouvi uma língua que não entendia  
 **7** "Libertei os seus ombros do fardo: as suas mãos deixaram o cesto (com que serviam nas obras).  
 **8** Na tribulação clamaste, e eu te livrei; do interior duma nuvem trovejante te respondi, provei-te junto das águas de Meriba.  
 **9** Ouve, povo meu, e eu te advertirei: Oxalá que me ouças, ó Israel!  
 **10** Não haverá em ti deus alheio, nem adorarás deus peregrino:  
-**11** Eu sou o Senhor teu Deus, que te tirei da terra do Egito; abre a tua boca, e eu a encherei.  
+**11** Eu sou o Senhor teu Deus, que te tirei da terra do Egipto; abre a tua boca, e eu a encherei.  
 **12** Mas o meu povo não ouviu a minha voz, e Israel não me obedeceu.  
 **13** Por isso abandonei-os à dureza do seu coração, andem segundo o seu parecer.  
 **14** Se o meu povo me tivesse ouvido, se Israel tivesse andado nos meus caminhos  
@@ -1606,7 +1606,7 @@
 ## Capítulo 82
 
 **1** Cântico. Salmo. De Asaf.  
-**2** Não emudeças Senhor; não estejas calado, ó Deus, nem inativo!  
+**2** Não emudeças Senhor; não estejas calado, ó Deus, nem inactivo!  
 **3** Eis, com efeito, que os teus inimigos se amotinam, os que te odeiam levantam a cabeça.  
 **4** Formam desígnios maus contra o teu povo e conspiram contra os teus protegidos.  
 **5** Dizem: "Vinde, exterminemo-los, para que não formem um povo, para que não haja mais memória do nome de Israel."  
@@ -1771,7 +1771,7 @@
 **1** Oração. De Moisés, homem de Deus. Senhor, tu tens sido o nosso refúgio de geração em geração.  
 **2** Antes que os montes fossem formados, antes do nascimento da terra e do mundo, desde a eternidade e para sempre, tu és, ó Deus.  
 **3** Mandas que ao pó voltem os mortais, e dizes: "Regressai, filhos dos homens."  
-**4** Mil anos, aos teus olhos, são como o dia de ontem; que passou, e como uma vigília da noite (que somente dura três horas).  
+**4** Mil anos, aos teus olhos, são como o dia de ontem; que passou, e como uma vigília da noite (que sòmente dura três horas).  
 **5** Tu os arrebatas: são como um sonho matutino, como a erva verdejante:  
 **6** de manhã floresce e verdeja, à tarde é cortada e seca.  
 **7** Na verdade, somos consumidos pela tua ira, e perturbados pela tua indignação.  
@@ -1788,11 +1788,11 @@
 
 ## Capítulo 90
 
-**1** Tu que vives sob a proteção do Altíssimo, que moras à sombra do Omnipotente,  
+**1** Tu que vives sob a protecção do Altíssimo, que moras à sombra do Omnipotente,  
 **2** diz ao Senhor: "Meu refúgio e meu baluarte, meu Deus, em quem confio."  
 **3** De facto ele me livrará do laço dos caçadores, da peste perniciosa.  
 **4** Proteger-te-á com as suas penas, buscarás refúgio debaixo das suas asas: escudo e broquel é a sua fidelidade.  
-**5** Não terás medo do terror noturno, nem da seta que voa de dia,  
+**5** Não terás medo do terror nocturno, nem da seta que voa de dia,  
 **6** nem da peste que vagueia nas trevas, nem da calamidade que devasta em pleno meio-dia.  
 **7** (Ainda que) caiam mil ao teu lado, e dez mil à tua direita, (a calamidade) não se aproximará de ti.  
 **8** Tu com os teus olhos contemplarás e verás a paga dos pecadores.  
@@ -1822,7 +1822,7 @@
 **13** O justo florescerá como a palma, como o cedro do Líbano crescerá.  
 **14** Plantados (os justos) na casa do Senhor, florescerão nos átrios do nosso Deus.  
 **15** Darão frutos mesmo na velhice, estarão cheios de selva e de vigor,  
-**16** para anunciar quão reto é o Senhor, minha Rocha, e que não há nele iniquidade.  
+**16** para anunciar quão recto é o Senhor, minha Rocha, e que não há nele iniquidade.  
 
 ## Capítulo 92
 
@@ -1841,14 +1841,14 @@
 **5** Calçam, Senhor, o teu povo, e oprimem a tua herança;  
 **6** trucidam a viúva e o peregrino, tiram a vida aos órfãos.  
 **7** E dizem; "Não o vê o Senhor, nem o nota o Deus de Jacob."  
-**8** Refleti, insensatos do povo, e vós, néscios, quando sereis atilados?  
+**8** Reflecti, insensatos do povo, e vós, néscios, quando sereis atilados?  
 **9** Porventura aquele (Senhor) que plantou o ouvido, não ouvirá? Ou o que formou os olhos, não verá?  
 **10** O que educa as gentes, não castigará? — ele que ensina ao homem a ciência...  
 **11** O Senhor conhece os pensamentos dos homens, (ele sabe) que são vãos.  
 **12** Bem-aventurado o homem a quem tu educas, Senhor, e instruis na tua lei,  
 **13** para lhe dar descanso a seguir aos dias infaustos, até que se abra a cova para o ímpio.  
 **14** Com efeito o Senhor não rejeitará o seu povo, nem abandonará a sua herança;  
-**15** antes o julgamento voltará à justiça, e segui-la-ão todos os retos de coração.  
+**15** antes o julgamento voltará à justiça, e segui-la-ão todos os rectos de coração.  
 **16** Quem se levantará por mim contra os malfeitores? Quem estará por mim contra os que praticam a iniquidade?  
 **17** Se o Senhor me não socoresse, em breve a minha alma habitaria na região do silêncio.  
 **18** Quando penso: "O meu pé está vacilante", a tua graça, Senhor, me sustenta.  
@@ -1895,12 +1895,12 @@
 **3** O fogo avança diante dele, e abrasa ao redor os seus inimigos.  
 **4** Os seus relâmpagos iluminam o mundo; a terra vê e treme.  
 **5** Os montes fundem-se como cera diante do Senhor, diante do dominador de toda terra,  
-**6** Os céus proclamam a sua justiça, e todos os povos veem a sua glória.  
+**6** Os céus proclamam a sua justiça, e todos os povos vêem a sua glória.  
 **7** Confundidos sejam todos os que adoram está tuas, e os que se gloriam nos ídolos; perante ele se prostram todos os deuses.  
 **8** Sião ouve e alegra-se, e as cidades de Judá regozijam-se, por causa dos teus juízos, Senhor.  
 **9** Com efeito, Senhor, és excelso sobre toda a terra, sumamente elevado acima de todos os deuses.  
 **10** O Senhor ama os que odeiam o mal, guarda as almas dos seus santos, livra-os da mão dos ímpios.  
-**11** Nasce a luz para os justos, e a alegria para os retos de coração.  
+**11** Nasce a luz para os justos, e a alegria para os rectos de coração.  
 **12** Alegrai-vos, justos, no Senhor, e celebrai o seu santo nome.  
 
 ## Capítulo 97
@@ -1920,7 +1920,7 @@
 **1** O Senhor reina: tremem os povos; está sentado sobre querubins: agita-se a terra.  
 **2** O Senhor é grande em Sião, excelso sobre todos os povos.  
 **3** Celebrem o teu nome grande e tremendo: ele é santo.  
-**4** Reina o poderoso que ama a justiça: tu estabeleceste as normas da retidão, tu exerces em Jacob a justiça e o direito.  
+**4** Reina o poderoso que ama a justiça: tu estabeleceste as normas da rectidão, tu exerces em Jacob a justiça e o direito.  
 **5** Exaltai o Senhor, nosso Deus, e prostrai-vos ante o escabelo de seus pés: ele é santo.  
 **6** Moisés e Aarão contam-se entre os seus sacerdote e Samuel entre aqueles que invocavam o seu nome: invocavam o Senhor e ele os atendia.  
 **7** Falava-lhes na coluna de nuvem: ouviam os seus mandamentos, o preceito que lhes tinha dado.  
@@ -1929,7 +1929,7 @@
 
 ## Capítulo 99
 
-**1** Salmo. Para ação de graças. Aclamai o Senhor, todas as terras,  
+**1** Salmo. Para acção de graças. Aclamai o Senhor, todas as terras,  
 **2** servi o Senhor com alegria, vinde à sua presença com alvoroço.  
 **3** Sabei que o Senhor é Deus; ele nos fez, e somos seus, seu povo e ovelhas do seu pasto.  
 **4** Transponde as suas portas com louvor, os seus átrios com hinos; exaltai-o, bendizei o seu nome.  
@@ -2065,8 +2065,8 @@
 **20** O rei mandou que o soltassem, o príncipe dos povos deu-lhe a liberdade.  
 **21** Constituiu-o senhor da sua casa, e soberano de todas as suas possessões,  
 **22** a fim de que instruísse os seus grandes à sua vontade, e ensinasse a sabedoria aos seus anciãos.  
-**23** Então Israel entrou no Egito, e Jacob foi hóspede na terra de Cam.  
-**24** E (Deus) multiplicou extraordinariamente o povo, e tornou-o mais forte que os seus inimigos.  
+**23** Então Israel entrou no Egipto, e Jacob foi hóspede na terra de Cam.  
+**24** E (Deus) multiplicou extraordinàriamente o povo, e tornou-o mais forte que os seus inimigos.  
 **25** Mudou o coração destes para que odiassem seu povo, e usassem de enganos com os seus servos.  
 **26** Então enviou Moisés, seu servo, e Aarão, a quem tinha escolhido.  
 **27** Operaram no meio deles as suas maravilhas, e os seus prodígios na terra de Cam.  
@@ -2097,7 +2097,7 @@
 **4** Lembra-te de mim, Senhor, segundo a tua benevolência para com o teu povo; visita-me com o teu auxílio,  
 **5** para que me deleite com a felicidade dos teus escolhidos, para que eu goze com o gozo do teu povo, para que me glorie com a tua herança.  
 **6** Pecámos com os nossos pais, cometemos a iniquidade, procedemos impiamente.  
-**7** Nossos pais no Egito não consideraram as tuas maravilhas, não se lembraram da multidão das tuas graças, antes se revoltaram contra o Altíssimo junto do Mar Vermelho.  
+**7** Nossos pais no Egipto não consideraram as tuas maravilhas, não se lembraram da multidão das tuas graças, antes se revoltaram contra o Altíssimo junto do Mar Vermelho.  
 **8** Mas (o Senhor) salvou-os, por amor do seu nome, para mostrar o seu poder.  
 **9** Ameaçou o mar Vermelho, e ele secou-se; e conduziu-os por entre as ondas, como por um deserto.  
 **10** E salvou-os da mão do que os odiava, livrou-os da mão do inimigo.  
@@ -2111,7 +2111,7 @@
 **18** E ateou-se fogo contra o bando de ambos: a chama consumiu os iníquos.  
 **19** Fizeram um bezerro em Horeb e adoraram um ídolo de ouro fundido.  
 **20** E trocaram a sua glória pelo simulacro dum touro que come feno.  
-**21** Esqueceram-se de Deus, que os tinha salvado, que tinha operado prodígios no Egito,  
+**21** Esqueceram-se de Deus, que os tinha salvado, que tinha operado prodígios no Egipto,  
 **22** maravilhas na terra de Cam, coisas terríveis no mar vermelho.  
 **23** (Deus) pensava exterminá-los, se Moisés, seu escolhido, não tivesse intercedido junto dele, a fim de afastar a sua ira, para que não os exterminasse.  
 **24** Desprezaram uma terra desejável, não deram crédito à sua palavra.  
@@ -2125,7 +2125,7 @@
 **32** Irritaram-no junto das Aguas de Meriba, e aconteceu mal a Moisés por causa deles,  
 **33** porque exacerbaram o seu espírito, e ele falou inconsideradamente com os seus lábios.  
 **34** Não exterminaram os povos, que o Senhor lhes tinha mandado.  
-**35** (Pelo contrário) misturaram-se com os gentios, aprenderam as suas ações,  
+**35** (Pelo contrário) misturaram-se com os gentios, aprenderam as suas acções,  
 **36** e adoraram as suas estátuas, que se tornaram um laço para eles.  
 **37** Imolaram os seus filhos e as suas filhas aos demónios.  
 **38** Derramaram o sangue inocente: o sangue de seus filhos e de suas filhas, que imolaram aos ídolos de Canaan. E (assim) a terra ficou profanada com sangue.  
@@ -2149,20 +2149,20 @@
 **5** Tinham fome e sede, a sua vida desfalecia neles.  
 **6** E clamaram ao Senhor no meio das suas angústias, e ele os livrou das suas tribulações.  
 **7** Conduziu-os por caminho direito, para que chegassem a uma cidade habitável.  
-**8** Deem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens,  
+**8** Dêem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens,  
 **9** porque saciou a alma faminta, encheu de bens a alma esfomeada.  
 **10** Estiveram sentados no meio de trevas e na escuridão, prisioneiros na miséria e nos ferros,  
 **11** Porque tinham sido rebeldes às palavras de Deus, tinham desprezado o conselho do Altíssimo.  
 **12** Humilhou com trabalhos o seu coração; ficaram sem forças, e não houve quem os socorresse.  
 **13** E clamaram ao Senhor no meio das suas angústias, e ele os livrou das suas tribulações.  
 **14** Tirou-os das trevas (do cárcere) e da escuridão, quebrou as suas cadeias.  
-**15** Deem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens,  
+**15** Dêem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens,  
 **16** porque arrombou as portas de bronze e quebrou os ferrolhos de ferro.  
 **17** Estavam enfermos, por causa da sua iniquidade, e eram atormentados por causa dos seus delitos.  
 **18** A sua alma aborrecia toda a comida, e chegaram às portas da morte.  
 **19** E clamaram ao Senhor no meio das suas angústias, e ele os livrou das suas tribulações.  
 **20** Enviou a sua palavra para os curar, para os livrar da ruína.  
-**21** Deem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens.  
+**21** Dêem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens.  
 **22** Ofereçam sacrifícios de louvor, anunciem as suas obras com alegria.  
 **23** Os que tinham descido ao mar em naus, para fazerem comércio sobre as grandes águas,  
 **24** viram as obras do Senhor, as suas maravilhas no meio do mar.  
@@ -2172,7 +2172,7 @@
 **28** E clamaram ao Senhor no meio das suas angústias, e ele os livrou das suas tribulações.  
 **29** A tempestade serenou em doce brisa, ficaram silenciosas as ondas do mar.  
 **30** Eles alegraram-se por as ver silenciosas, e (o Senhor) conduziu-os ao porto que desejavam.  
-**31** Deem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens  
+**31** Dêem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens  
 **32** Exaltem-no na assembleia do povo, e louvem-no no conselho dos anciãos.  
 **33** Converteu os rios em deserto, os mananciais das águas em terra sedenta,  
 **34** a terra fértil em salsugem, por causa da malícia dos seus habitantes.  
@@ -2183,7 +2183,7 @@
 **39** Depois foram reduzidos a poucos e abatidos, sob o peso dos infortúnios e da aflição.  
 **40** Todavia, o que lança o desprezo sobre os príncipes, e os faz errar por ínvios desertos,  
 **41** levantou o pobre da sua miséria, e fez as famílias numerosas como rebanhos.  
-**42** Os justos veem (estes coisas) e alegram-se, e toda a maldade fecha a sua boca.  
+**42** Os justos vêem (estes coisas) e alegram-se, e toda a maldade fecha a sua boca.  
 **43** Quem é sábio para considerar estas coisas e ponderar bem as misericórdias do Senhor?  
 
 ## Capítulo 107
@@ -2194,9 +2194,9 @@
 **4** Louvar-te-ei no meio dos povos, Senhor, entoar-te-ei salmos entre as nações,  
 **5** porque a tua misericórdia é (tão) grande (que chega) até ao céu, e a tua fidelidade até às nuvens.  
 **6** Mostra-te excelso, ó Deus, sobre os céus, brilhe sobre a terra a tua glória.  
-**7** Para que sejam livres os teus diletos, socorre-nos com a tua direita e ouve-nos.  
+**7** Para que sejam livres os teus dilectos, socorre-nos com a tua direita e ouve-nos.  
 **8** Deus falou no seu santuário: "Exultarei e repartirei (à minha vontade) Siquém, e medirei o vale de Sucot;  
-**9** minha é a terra de Galaad, minha a terra de Manassés; Efraim é o elmo da minha cabeça, Judá o meu cetro;  
+**9** minha é a terra de Galaad, minha a terra de Manassés; Efraim é o elmo da minha cabeça, Judá o meu ceptro;  
 **10** Moab é bacia para me lavar; poisarei o meu calçado sobre Edom, triunfarei da Filisteia."  
 **11** Quem me conduzirá à cidade fortificada? Quem me conduzirá até Edom?  
 **12** Porventura não és tu, ó Deus, que nos repeliste, que já não sais, ó Deus, à frente dos nossos exércitos?  
@@ -2229,7 +2229,7 @@
 **22** pois sou miserável e pobre, e o meu coração está ferido dentro de mim.  
 **23** Desapareço como a sombra que vai caindo, e sou sacudido (para longe) como um gafanhoto,  
 **24** Os meus joelhos vacilam com o jejum, e a minha carne definha com a magreza.  
-**25** Tornei-me para eles um objeto de opróbrio; ao verem-me, abanam a cabeça (insultando-me).  
+**25** Tornei-me para eles um objecto de opróbrio; ao verem-me, abanam a cabeça (insultando-me).  
 **26** Socorre-me, Senhor Deus meu; salva-me segundo a tua misericórdia,  
 **27** E saibam que isto é obra da tua mão, que foste tu, Senhor, que fizeste isto.  
 **28** Amaldiçoem eles (muito embora) mas abençoes tu; confundidos sejam os que se levantam contra mim, e entretanto o teu servo se alegrará.  
@@ -2240,7 +2240,7 @@
 ## Capítulo 109
 
 **1** De Davide. Salmo. Disse o Senhor ao meu Senhor: "Senta-te à minha direita, até que ponha os teus inimigos por escabelo de teus pés".  
-**2** O Senhor estenderá o cetro do teu poder (do alto) de Sião: "Impera no meio dos teus inimigos!  
+**2** O Senhor estenderá o ceptro do teu poder (do alto) de Sião: "Impera no meio dos teus inimigos!  
 **3** Contigo está o principado, no dia do teu nascimento, entre os resplendores da santidade: antes da aurora, como orvalho, eu te gerei."  
 **4** Jurou o Senhor, e não se arrependerá: "Tu és sacerdote eternamente, segundo a ordem de Melquisedec."  
 **5** O Senhor está à tua direita; esmagará os reis no dia da sua ira.  
@@ -2255,7 +2255,7 @@
 **4** Instituiu um memorial das suas maravilhas; o Senhor é misericordioso e compassivo.  
 **5** Deu alimento aos que o temem; lembrar-se-á eternamente da sua aliança.  
 **6** Manifestou ao seu povo o poder das suas obras, dando-lhe a herança das nações.  
-**7** As obras das suas mãos são retas e justas; todos os seus preceitos são imutáveis,  
+**7** As obras das suas mãos são rectas e justas; todos os seus preceitos são imutáveis,  
 **8** estáveis pelos séculos, para sempre, dados com firmeza e equidade.  
 **9** Enviou a redenção ao seu povo; estabeleceu para sempre a sua aliança; santo e venerável é o seu nome.  
 **10** O temor do Senhor é o princípio da sabedoria: procedem com prudência todos os quê o adoram; o seu louvor permanece para sempre.  
@@ -2265,7 +2265,7 @@
 **1** Aleluia. Bem-aventurado o homem que teme o Senhor, que põe as suas delícias nos seus mandamentos.  
 **2** Poderosa será a sua posteridade sobre a terra; bendita será a geração dos justos.  
 **3** Haverá abundância e riquezas na sua casa, e a sua munificência durará sempre.  
-**4** Nas trevas (do infortúnio) surge como uma luz para os retos; (ele é) clemente, misericordioso e justo.  
+**4** Nas trevas (do infortúnio) surge como uma luz para os rectos; (ele é) clemente, misericordioso e justo.  
 **5** Ditoso o homem que se compadece e empresta (aos pobres), que dispõe as suas coisas com justiça.  
 **6** Jamais vacilará; a memória do justo será eterna.  
 **7** Não temerá ouvir notícias funestas; o seu coração está firme, esperando no Senhor.  
@@ -2287,7 +2287,7 @@
 
 ## Capítulo 113
 
-**1** Aleluia. Quando Israel saiu do Egito, a casa de Jacob do meio dum povo bárbaro,  
+**1** Aleluia. Quando Israel saiu do Egipto, a casa de Jacob do meio dum povo bárbaro,  
 **2** Judá tornou-se o seu santuário, Israel o seu reino.  
 **3** O mar viu e fugiu, o Jordão voltou para trás.  
 **4** Os montes saltaram de alegria como carneiros, as colinas como cordeiros.  
@@ -2299,7 +2299,7 @@
 **10** Por que hão-de dizer as gentes: "Onde está o seu Deus?" (115,2)  
 **11** O nosso Deus está no céu; tudo quanto quis, ele o fez. (115,3)  
 **12** Os seus ídolos são prata e ouro, obra das mãos dos homens. (115,4)  
-**13** Têm boca, e não falam; têm olhos, e não veem. (115,5)  
+**13** Têm boca, e não falam; têm olhos, e não vêem. (115,5)  
 **14** Têm ouvidos, e não ouvem; têm nariz, e não cheiram. (115,6)  
 **15** Têm mãos, e não apalpam; têm pés, e não andam; não emitem som com a sua garganta. (115,7)  
 **16** Serão semelhantes a eles os que os fazem, todos os que confiam neles. (115,8)  
@@ -2360,8 +2360,8 @@
 **12** Cercaram-me como abelhas; abrasaram-me como o fogo abrasa os espinheiros, mas eu esmaguei-as em nome do Senhor.  
 **13** Fui empurrado violentamente, para cair, mas o Senhor susteve-me.  
 **14** O Senhor é a minha força, a minha fortaleza; tornou-se o meu salvador.  
-**15** Grito de júbilo e de salvação, (ouve-se) nas tendas dos justos: A dextra do Senhor atuou com firmeza,  
-**16** a dextra do Senhor levantou-me, a dextra do Senhor atuou com firmeza.  
+**15** Grito de júbilo e de salvação, (ouve-se) nas tendas dos justos: A dextra do Senhor actuou com firmeza,  
+**16** a dextra do Senhor levantou-me, a dextra do Senhor actuou com firmeza.  
 **17** Não morrerei, mas viverei, e narrarei as obras do Senhor.  
 **18** Castigou-me, castigou-me o Senhor, mas não me entregou à morte.  
 **19** Abri-me (ó sacerdotes) as portas (do templo) da justiça; depois de entrar por elas, darei graças ao Senhor.  
@@ -2384,7 +2384,7 @@
 **4** Tu promulgaste os teus preceitos, para que sejam guardados à risca.  
 **5** Oxalá que os meus caminhos sejam firmes para guardar os teus estatutos!  
 **6** Então não serei confundido, quando eu atender a todos os teus mandamentos.  
-**7** Eu te louvarei com retidão de coração, quando tiver aprendido os decretos da tua justiça.  
+**7** Eu te louvarei com rectidão de coração, quando tiver aprendido os decretos da tua justiça.  
 **8** Guardarei os teus estatutos: não me desampares inteiramente.  
 **9** Como conservará puro o seu caminho o adolescente? Guardando as tuas palavras.  
 **10** De todo o meu coração te busco: não me deixes transviar dos teus mandamentos.  
@@ -2431,7 +2431,7 @@
 **51** Os soberbos escarnecem-me com veemência, mas eu não me afasto da tua lei.  
 **52** Lembro-me, Senhor, dos teus juízos antigos, e fico consolado.  
 **53** Apodera-se de mim a indignação por causa dos pecadores, que abandonam a tua lei.  
-**54** Os teus estatutos são objeto dos meus cantares no lugar da minha peregrinação.  
+**54** Os teus estatutos são objecto dos meus cantares no lugar da minha peregrinação.  
 **55** Lembro-me do teu nome, Senhor, durante a noite, e guardarei a tua lei.  
 **56** Isto me aconteceu, porque tenho observado os teus preceitos.  
 **57** Eu disse: Senhor, a minha porção (de herança) é guardar a tua lei.  
@@ -2443,7 +2443,7 @@
 **63** Sou amigo de todos os que te temem e dos que guardam os teus mandamentos.  
 **64** A terra está cheia, Senhor, da tua graça: ensina-me os teus preceitos,  
 **65** Tens usado de bondade com o teu servo, segundo a tua palavra, ó Senhor.  
-**66** Ensina-me o sentido reto e a ciência, porque confio nos teus mandamentos.  
+**66** Ensina-me o sentido recto e a ciência, porque confio nos teus mandamentos.  
 **67** Antes de ser atormentado, errei, mas agora guardo a tua palavra.  
 **68** Tu és bom e benfeitor; ensina-me as tuas prescrições.  
 **69** Os soberbos maquinam fraudes contra mim, mas eu de todo o meu coração guardo os teus preceitos.  
@@ -2474,7 +2474,7 @@
 **94** Eu sou teu: salva-me, porque busquei os teus preceitos.  
 **95** Os pecadores esperam-me para me perder; eu porém estou atento às tuas prescrições.  
 **96** Vi que toda a perfeição tem um limite: o teu mandamento é ilimitado.  
-**97** Quanto eu amo a tua lei, Senhor! Ela é (o objeto da) minha meditação todo o dia.  
+**97** Quanto eu amo a tua lei, Senhor! Ela é (o objecto da) minha meditação todo o dia.  
 **98** Mais sábio que os meus inimigos me tornou o teu mandamento, porque ele está sempre comigo.  
 **99** Sou mais prudente que todos os meus mestres, porque os teus mandamentos são a minha meditação.  
 **100** Sou mais sensato que os anciãos, porque observo os teus preceitos.  
@@ -2489,9 +2489,9 @@
 **109** A minha vida está sempre em perigo, porém não me esqueço da tua lei.  
 **110** Os pecadores armaram-me um laço, não me afastei porém dos teus preceitos.  
 **111** As tuas prescrições constituem a minha herança para sempre, porque são a alegria do meu coração.  
-**112** Inclinei o meu coração a praticar sempre os teus estatutos: perpetuamente e com perfeição.  
+**112** Inclinei o meu coração a praticar sempre os teus estatutos: perpètuamente e com perfeição.  
 **113** Aborreço os dúplices de coração, e amo a tua lei.  
-**114** Tu és o meu protetor e o meu escudo: espero na tua palavra.  
+**114** Tu és o meu protector e o meu escudo: espero na tua palavra.  
 **115** Retirai-vos de mim, malignos, que quero observar os mandamentos do meu Deus.  
 **116** Ampara-me (Senhor), segundo a tua promessa, e viverei; não permitas que eu seja confundido no que espero.  
 **117** Ajuda-me, e serei salvo, e atenderei sempre aos teus estatutos.  
@@ -2514,7 +2514,7 @@
 **134** Livra-me da opressão dos homens, e guardarei os teus mandamentos.  
 **135** Mostra sereno o teu rosto ao teu servo, e ensina-me os teus estatutos.  
 **136** Rios de lágrimas têm brotado dos meus olhos, por não terem guardado a tua lei.  
-**137** Tu és justo, Senhor, e o teu juízo é reto.  
+**137** Tu és justo, Senhor, e o teu juízo é recto.  
 **138** Impuseste as tuas prescrições com justiça e com grande firmeza.  
 **139** O meu zelo me consome, porque os meus adversários se esqueceram das tuas palavras.  
 **140** A tua palavra está sobremaneira provada, e o teu servo a ama.  
@@ -2525,7 +2525,7 @@
 **145** Clamo de todo o meu coração: ouve-me Senhor; eu observo os teus estatutos.  
 **146** Clamo a ti: salva-me, e guardarei os teus estatutos.  
 **147** Venho logo de manhã e imploro auxílio; espero nas tuas palavras.  
-**148** Os meus olhos antecedem as vigílias noturnas, para meditar as tuas palavras.  
+**148** Os meus olhos antecedem as vigílias nocturnas, para meditar as tuas palavras.  
 **149** Ouve a minha voz segundo a tua misericórdia, Senhor, dá-me vida segundo o teu decreto.  
 **150** Aproximam-se os que iniquamente me perseguem; estão muito afastados da tua lei.  
 **151** Perto estás (de mim), Senhor, e todos os mandamentos são fiéis.  
@@ -2571,7 +2571,7 @@
 **2** O meu socorro vem do Senhor, que fez o céu e a terra.  
 **3** Não permitirá ele que vacile o teu pé, nem adormecerá aquele que te guarda.  
 **4** Não, por certo, não adormecerá, nem dormirá o que guarda Israel.  
-**5** O Senhor te guarda, o Senhor é a tua proteção, ao teu lado direito.  
+**5** O Senhor te guarda, o Senhor é a tua protecção, ao teu lado direito.  
 **6** Durante o dia o sol não te queimará, nem a lua (te danificará) de noite.  
 **7** O Senhor te guardará de todo o mal: guardará a tua alma.  
 **8** O Senhor guarde a tua entrada e a tua saída, desde agora e para sempre.  
@@ -2593,7 +2593,7 @@
 **1** Cântico das subidas. Levanto os meus olhos para ti (ó Deus), que habitas nos céus.  
 **2** Vede que, assim como os olhos dos servos estão fixos nas mãos dos seus senhores, como os olhos da escrava nas mãos de sua senhora, assim os nossos olhos estão fixos no Senhor nosso Deus, até que tenha misericórdia de nós.  
 **3** Tem misericórdia de nós, Senhor, tem misericórdia de nós, porque estamos, em extremo, fartos de desprezo;  
-**4** a nossa alma está muito farta de ser o objeto de escárnio dos ricos, de desprezo dos soberbos.  
+**4** a nossa alma está muito farta de ser o objecto de escárnio dos ricos, de desprezo dos soberbos.  
 
 ## Capítulo 123
 
@@ -2610,8 +2610,8 @@
 
 **1** Cântico das subidas. Os que confiam no Senhor são (firmes) como o monte de Sião, que não é abalado, que permanece para sempre.  
 **2** Montes circundam Jerusalém: assim o Senhor circunda o seu povo, agora e para sempre.  
-**3** Porque não permanecerá o cetro dos ímpios sobre a herança dos justos, para que os justos não estendam à iniquidade as suas mãos.  
-**4** Faz bem, Senhor, aos bons e aos retos do coração.  
+**3** Porque não permanecerá o ceptro dos ímpios sobre a herança dos justos, para que os justos não estendam à iniquidade as suas mãos.  
+**4** Faz bem, Senhor, aos bons e aos rectos do coração.  
 **5** Porém aos que se desviam para caminhos tortuosos, expulse-os o Senhor com os malfeitores. A paz seja sobre Israel!  
 
 ## Capítulo 125
@@ -2678,7 +2678,7 @@
 **6** Nós ouvimos dizer que a arca estava em Efrata; fomos achá-la nos campos de laar.  
 **7** Entremos na sua morada, prostremo-nos ante o escabelo de seus pés.  
 **8** Levanta-te, Senhor, para o lugar do teu repouso, tu e a arca da tua majestade.  
-**9** Revistam-se os teus sacerdotes de justiça (ou santidade), e deem os teus fiéis largas à sua alegria.  
+**9** Revistam-se os teus sacerdotes de justiça (ou santidade), e dêem os teus fiéis largas à sua alegria.  
 **10** Por amor de Davide, teu servo, não rejeites o rosto do teu ungido.  
 **11** Jurou o Senhor a Davide uma promessa firme, que jamais retratará: "Um descendente da tua linhagem porei sobre o teu trono.  
 **12** Se os teus filhos guardarem a minha aliança e os preceitos que eu lhes ensinar, também os seus filhos para sempre se sentarão sobre o teu trono."  
@@ -2691,13 +2691,13 @@
 
 ## Capítulo 132
 
-**1** Cântico das subidas. Eia! bendizei ao Senhor, vós, todos os servos do Senhor, vós que assistis na casa do Senhor, durante as horas noturnas.  
+**1** Cântico das subidas. Eia! bendizei ao Senhor, vós, todos os servos do Senhor, vós que assistis na casa do Senhor, durante as horas nocturnas.  
 **2** E como um azeite precioso derramado na cabeça, que desce sobre a barba, a barba de Aarão, que desce sobre a orla do seu vestido;  
 **3** é como o orvalho do Hermon, que desce sobre o monte Sião; o Senhor derrama ali a sua bênção, a vida para sempre.  
 
 ## Capítulo 133
 
-**1** Cântico das subidas. Eia! bendizei ao Senhor, vós, todos os servos do Senhor, vós que assistis na casa do Senhor, durante as horas noturnas.  
+**1** Cântico das subidas. Eia! bendizei ao Senhor, vós, todos os servos do Senhor, vós que assistis na casa do Senhor, durante as horas nocturnas.  
 **2** Levantai as vossas mãos para o santuário, e bendizei ao Senhor.  
 **3** Abençoe-te de Sião o Senhor, que fez o céu e a terra.  
 
@@ -2710,15 +2710,15 @@
 **5** Sim, eu sei que o Senhor é grande, e que o nosso Dominador é mais que todos os deuses.  
 **6** Tudo o que quer, o faz o Senhor, no céu, na terra, no mar e em todos os abismos das águas.  
 **7** Ele faz subir as nuvens das extremidades da terra, com os relâmpagos provoca a chuva, faz sair os ventos dos seus reservatórios.  
-**8** Feriu os primogénitos do Egito, desde os homens até aos animais.  
-**9** Operou sinais e prodígios no meio de ti, ó Egito, contra Faraó e contra todos os seus servos.  
+**8** Feriu os primogénitos do Egipto, desde os homens até aos animais.  
+**9** Operou sinais e prodígios no meio de ti, ó Egipto, contra Faraó e contra todos os seus servos.  
 **10** Feriu nações numerosas e matou reis poderosos:  
 **11** Seon, rei dos Amorreus, Og, rei de Basan, e todos os reis de Canaan.  
 **12** E deu as terras deles em possessão, em possessão a Israel, seu povo.  
 **13** Senhor, o teu nome permanece eternamente; Senhor, a tua memória passa de geração em geração.  
 **14** Porque o Senhor proteje o seu povo, e tem compaixão dos seus servos.  
 **15** Os ídolos dos gentios não são mais que prata e ouro, obras das mãos dos homens:  
-**16** têm boca, e não falam: têm olhos, e não veem;  
+**16** têm boca, e não falam: têm olhos, e não vêem;  
 **17** têm ouvidos, e não ouvem; e não há alento de vida na sua boca.  
 **18** Com eles se parecem os que os fazem, e todo o que confia neles,  
 **19** Casa de Israel, bendiz ao Senhor; casa de Aarão, bendiz ao Senhor;  
@@ -2794,7 +2794,7 @@
 **13** Porque foste tu que formaste os meus rins, me entreteceste no seio de minha mãe.  
 **14** Louvo-te, porque tão admiravelmente fui formado, porque são maravilhosas as tuas obras. Perfeitamente conheces a minha alma;  
 **15** a minha estrutura não te foi desconhecida, quando me ia formando em segredo, quando ia sendo entretecido nas entranhas da terra.  
-**16** Os teus olhos viram os meus atos, e no teu livro todos estão inscritos; são fixados os dias, antes que um só deles existisse.  
+**16** Os teus olhos viram os meus actos, e no teu livro todos estão inscritos; são fixados os dias, antes que um só deles existisse.  
 **17** Quão difíceis são para mim os teus desígnios, ó Deus, quão imenso o seu número!  
 **18** Se me ponho a contá-los, vejo que o seu número ultrapassa o da areia (do mar); se chegar ao fim, ainda estou contigo.  
 **19** Oxalá dês a morte ao ímpio, ó Deus, e se afastem de mim os homens sanguinários!  
@@ -2819,12 +2819,12 @@
 **11** Chovam sobre eles carvões ardentes; sejam precipitados numa cova, para que não mais se levantem.  
 **12** O homem de má língua não durará sobre a terra; o homem violento será colhido de improviso pela desdita.  
 **13** Sei que o Senhor dá razão ao indigente, e justiça aos pobres.  
-**14** Sim, os justos celebrarão o teu nome, os homens retos habitarão na tua presença.  
+**14** Sim, os justos celebrarão o teu nome, os homens rectos habitarão na tua presença.  
 
 ## Capítulo 140
 
 **1** Salmo, De Davide. Senhor, a ti clamo; socorre-me depressa; atende à minha voz, quando clamo a ti.  
-**2** Suba direta a ti a minha oração, como incenso, seja a elevação das minhas mãos (tão agradável) como o sacrifício da tarde.  
+**2** Suba directa a ti a minha oração, como incenso, seja a elevação das minhas mãos (tão agradável) como o sacrifício da tarde.  
 **3** Põe, Senhor, uma guarda à minha boca, sentinela à porta dos meus lábios.  
 **4** Não deixes inclinar o meu coração para coisa má, para cometer crimes; nem com os homens que cometem a iniquidade, coma eu jamais dos seus lautos manjares.  
 **5** Bata-me o justo: isso é piedade; repreenda-me: é perfume para a cabeça, o qual a minha cabeça não recusará; antes hei-de orar sempre, sob os seus golpes.  
@@ -2889,7 +2889,7 @@
 **7** Proclamam o louvor da tua grande bondade e exultam com a tua justiça.  
 **8** Clemente e misericordioso é o Senhor, tardo para a ira e de muita benignidade.  
 **9** Bom é o Senhor para com todos, e compassivo com todas as suas obras.  
-**10** Deem-te glória, Senhor, todas as tuas obras, e os teus santos te bendigam.  
+**10** Dêem-te glória, Senhor, todas as tuas obras, e os teus santos te bendigam.  
 **11** Publiquem a glória do teu reino e falem do teu poder,  
 **12** para darem a conhecer aos filhos dos homens o teu poder, e a glória do teu reino esplendoroso.  
 **13** O teu reino é um reino que se estende a todos os séculos, e o teu império subsiste por todas as gerações. O Senhor é fiel em todas as suas palavras, santo em todas as suas obras.  
@@ -2907,8 +2907,8 @@
 **1** Aleluia. Louva, ó minha alma, o Senhor;  
 **2** eu louvarei o Senhor durante a minha vida; cantarei salmos ao meu Deus enquanto existir.  
 **3** Não confiéis nos príncipes, nem no homem que não pode salvar.  
-**4** Quando sair o seu espírito, voltará ao seu pó; então se desvanecerão (como fumo) todos os seus projetos.  
-**5** Ditoso aquele de quem é protetor o Deus de Jacob, cuja esperança está no Senhor, seu Deus,  
+**4** Quando sair o seu espírito, voltará ao seu pó; então se desvanecerão (como fumo) todos os seus projectos.  
+**5** Ditoso aquele de quem é protector o Deus de Jacob, cuja esperança está no Senhor, seu Deus,  
 **6** que fez o céu e a terra, o mar e todas as coisas que neles há, que conserva eternamente a fidelidade (das suas promessas),  
 **7** faz justiça aos oprimidos, dá pão aos famintos. O (mesmo) Senhor dá liberdade aos cativos,  
 **8** o Senhor abre os olhos aos cegos. O Senhor endireita os encurvados, o Senhor ama os justos.  
@@ -2923,7 +2923,7 @@
 **4** Fixa o número das estrelas, chama cada uma pelo seu nome.  
 **5** Grande é o nosso Senhor, e forte o seu poder, a sua sabedoria não tem limites.  
 **6** O Senhor eleva os humildes, abate os ímpios até à terra.  
-**7** Cantai ao Senhor um cântico de ação de graças, cantai salmos ao som da cítara ao nosso Deus,  
+**7** Cantai ao Senhor um cântico de acção de graças, cantai salmos ao som da cítara ao nosso Deus,  
 **8** que cobre o céu de nuvens, que prepara (assim) chuva para a terra; que produz erva nos montes, e verduras para uso dos homens;  
 **9** que dá o seu alimento próprio aos animais e aos filhinhos dos corvos, que clamam a ele.  
 **10** Não se deleita com a força do cavalo, nem se compraz nos pés do homem.  
@@ -2956,7 +2956,7 @@
 **11** os reis da terra e todos os povos, os príncipes e todos os juízes da terra,  
 **12** os jovens e também as donzelas, os velhos, juntamente com os meninos:  
 **13** louvem o nome do Senhor, porque só o seu nome é excelso; a sua majestade está acima do céu e da terra,  
-**14** e (ele) deu ao seu povo um poder sublime. É objeto de louvor para todos os seus santos, para os filhos de Israel, povo que está perto dele. Aleluia.  
+**14** e (ele) deu ao seu povo um poder sublime. É objecto de louvor para todos os seus santos, para os filhos de Israel, povo que está perto dele. Aleluia.  
 
 ## Capítulo 149
 

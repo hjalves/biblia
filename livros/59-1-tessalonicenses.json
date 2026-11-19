@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -35,7 +35,7 @@
     },
     {
      "n": 5,
-     "texto": "porque o nosso Evangelho não vos foi pregado somente com palavras, mas também com poder, com o Espírito Santo e com perfeita segurança. Com efeito, sabeis quais nós fomos entre vós, por amor de vós."
+     "texto": "porque o nosso Evangelho não vos foi pregado sòmente com palavras, mas também com poder, com o Espírito Santo e com perfeita segurança. Com efeito, sabeis quais nós fomos entre vós, por amor de vós."
     },
     {
      "n": 6,
@@ -64,7 +64,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Efetivamente sabeis, irmãos, que a nossa ida a vós não foi sem fruto,"
+     "texto": "Efectivamente sabeis, irmãos, que a nossa ida a vós não foi sem fruto,"
     },
     {
      "n": 2,
@@ -169,7 +169,7 @@
     },
     {
      "n": 6,
-     "texto": "Mas agora, voltando Timóteo a nós, depois de vos ter visitado, e trazendo-nos boas novas da vossa fé e caridade, da vossa sempre afetuosa lembrança de nós, do vosso desejo de nos tornar a ver, desejo igual ao nosso (de vos tornar a ver, a vós)"
+     "texto": "Mas agora, voltando Timóteo a nós, depois de vos ter visitado, e trazendo-nos boas novas da vossa fé e caridade, da vossa sempre afectuosa lembrança de nós, do vosso desejo de nos tornar a ver, desejo igual ao nosso (de vos tornar a ver, a vós)"
     },
     {
      "n": 7,
@@ -181,7 +181,7 @@
     },
     {
      "n": 9,
-     "texto": "Que ação de graças podemos dar a Deus por vós, por toda a alegria que gozamos por vossa causa diante do nosso Deus?"
+     "texto": "Que acção de graças podemos dar a Deus por vós, por toda a alegria que gozamos por vossa causa diante do nosso Deus?"
     },
     {
      "n": 10,
@@ -250,7 +250,7 @@
     },
     {
      "n": 12,
-     "texto": "Assim tereis um proceder correto, aos olhos dos que estão fora (da Igreja), e não precisareis de ninguém."
+     "texto": "Assim tereis um proceder correcto, aos olhos dos que estão fora (da Igreja), e não precisareis de ninguém."
     },
     {
      "n": 13,

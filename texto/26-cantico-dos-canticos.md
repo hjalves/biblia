@@ -48,7 +48,7 @@
 **5** Eu vos conjuro, filhas de Jerusalém, pelas gazelas e corças do campo, que não perturbeis nem façais a minha amada despertar, antes que ela o queira.  
 **6** Que é isto que sobe do deserto, como uma coluna de fumo, composta de aromas de mirra e de incenso, e de todos os perfumes dos mercadores?  
 **7** Eis o palanquim de Salomão, escoltado de sessenta valentes dos mais fortes de Israel,  
-**8** todos armados de espadas, exercitados no combate; cada um deles leva a espada ao lado, por causa dos perigos noturnos.  
+**8** todos armados de espadas, exercitados no combate; cada um deles leva a espada ao lado, por causa dos perigos nocturnos.  
 **9** O rei Salomão fez uma liteira de madeira do Líbano.  
 **10** Fez-lhe as colunas de prata, o reclinatório de oiro, o assento de púrpura; o meio é bordado, obra de amor das filhas de Jerusalém.  
 **11** Saí, filhas de Sião, e vede o rei Salomão com o diadema com que sua mãe o coroou no dia dos seus desposórios, no dia do júbilo do seu coração.  
@@ -88,7 +88,7 @@
 **12** Os seus olhos são como pombas (que repousam) junto dos regatos, que, lavadas em leite, se conservam junto das grandes correntes de água.  
 **13** As suas faces são como canteiros de balsameiros, como maciços de plantas odoríferas. Os seus lábios são lírios, que destilam a mirra mais preciosa.  
 **14** As suas mãos são (conto) cilindros de oiro, esmaltadas de pedras de Tharsis. O seu peito é de marfim, guarnecido de safiras.  
-**15** As suas pernas são colunas de mármore branco, sustentadas sobre bases de oiro. O seu aspeto (majestoso) é como o do Líbano, elegante como os cedros.  
+**15** As suas pernas são colunas de mármore branco, sustentadas sobre bases de oiro. O seu aspecto (majestoso) é como o do Líbano, elegante como os cedros.  
 **16** A sua boca é só doçura, todo ele é um encanto. Tal é o meu amado, tal é o meu amigo, ó filhas de Jerusalém.  
 **17** Para onde foi o teu amado, ó tu, que és a mais formosa de todas as mulheres? Para onde se retirou o teu amado? (Dize) que nós o buscaremos contigo.  
 

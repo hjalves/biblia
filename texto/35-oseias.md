@@ -30,7 +30,7 @@
 **12** Destruirei as suas vinhas e as suas figueiras, de que ela disse: Estas são as recompensas que me deram os meus amantes — e reduzi-la-ei a um matagal, e devorá-la-ão os animais selvagens.  
 **13** Castigá-la-ei pelos dias em que prestou culto aos Baais, (ou aos ídolos), queimando-lhes incenso, enquanto se enfeitava com as suas arrecadas e com os seus colares e ia após os seus amantes, esquecendo-se de mim, diz o Senhor.  
 **14** Por isso a atrairei, conduzi-la-ei à soledade e falar-lhe-ei ao coração.  
-**15** Dar-lhe-ei a suas vinhas e o vale de Acor, como porta de esperança; ali cantará (hinos a Deus) como nos dias da sua juventude, e como nos dias em que subiu da terra do Egito.  
+**15** Dar-lhe-ei a suas vinhas e o vale de Acor, como porta de esperança; ali cantará (hinos a Deus) como nos dias da sua juventude, e como nos dias em que subiu da terra do Egipto.  
 **16** Nesse dia, diz o Senhor, ela me chamará: Meu esposo —; não me chamará mais: Meu Baal (como aos seus ídolos).  
 **17** Tirarei da sua boca os nomes dos Baais, para que nunca mais sejam pronunciados os seus nomes.  
 **18** Farei aliança para eles naquele dia com os animais selvagens, com as aves do céu e com os répteis da terra; tirarei do país o arco, a espada e a guerra, e fá-los-ei repousar com toda a segurança.  
@@ -106,7 +106,7 @@
 ## Capítulo 7
 
 **1** Quando eu tratava de curar Israel, tornou-se patente a iniquidade de Efraim e a malícia de Samaria, pois praticam a mentira. O ladrão entra nas casas, e por fora anda o salteador.  
-**2** Não dizem nos seus corações que me lembro de toda a sua malícia: atualmente cercam-nos as suas impiedades, que estão a descoberto diante da minha face.  
+**2** Não dizem nos seus corações que me lembro de toda a sua malícia: actualmente cercam-nos as suas impiedades, que estão a descoberto diante da minha face.  
 **3** Com a sua malícia alegram o rei, e os príncipes com as suas mentiras.  
 **4** São todos uns adúlteros, semelhantes a um forno aceso pelo forneiro, que cessa de o aquecer mais, depois de ter trabalhado a massa até se levedar.  
 **5** No dia do nosso rei, os príncipes aqueceram-se com o calor do vinho, enquanto ele estendia a sua mão aos bobos.  
@@ -115,12 +115,12 @@
 **8** Efraim mistura-se com os povos (idólatras); Efraim tornou-se como um bolo que não se volta.  
 **9** Os estrangeiros devoraram a sua força, sem ele o sentir; os seus cabelos tornaram-se brancos, sem ele o perceber.  
 **10** A soberba de Israel transparece-lhe no rosto; não se voltam para o Senhor seu Deus, não o buscam apesar de tudo isto.  
-**11** Efraim tornou-se como uma pomba imbecil, som inteligência. Chamam o Egito, vão ter com os Assírios.  
+**11** Efraim tornou-se como uma pomba imbecil, som inteligência. Chamam o Egipto, vão ter com os Assírios.  
 **12** Depois que tiverem ido, estenderei sobre eles a minha rede, e fá-los-ei cair como aves do céu; castigá-los-ei segundo foi dito nas suas assembleias.  
 **13** Ai deles, porque se retiraram de mim! Serão destruídos, porque prevaricaram contra mim! Enquanto os queria salvar, proferiam mentiras contra mim.  
-**14** Não clamam a mim do fundo do seu coração, mas uivam (desesperados) nos seus leitos! Somente temem pelo trigo e pelo vinho, revoltam-se contra mim.  
+**14** Não clamam a mim do fundo do seu coração, mas uivam (desesperados) nos seus leitos! Sòmente temem pelo trigo e pelo vinho, revoltam-se contra mim.  
 **15** Instruí-os e dei vigor aos seus braços, mas eles meditaram o mal contra mim.  
-**16** Voltam-se, mas não para o alto; são como um arco doloso; cairão mortos á espada os seus príncipes, por causa do furor (ou insolência) da sua língua. Isso fará com que riam deles na terra do Egito.  
+**16** Voltam-se, mas não para o alto; são como um arco doloso; cairão mortos á espada os seus príncipes, por causa do furor (ou insolência) da sua língua. Isso fará com que riam deles na terra do Egipto.  
 
 ## Capítulo 8
 
@@ -136,17 +136,17 @@
 **10** Mas, ainda que ofereçam presentes às nações, eu os juntarei na (Assíria), e eles (estando cativos) serão ainda algum tempo sujeitos ao fardo do rei e dos príncipes.  
 **11** Efraim multiplicou os altares de pecado; esses altares só lhe serviram para pecar.  
 **12** Escrevi para ele as palavras da minha lei, mas ele considera-a como lei alheia.  
-**13** Oferecem vítimas e comem-lhes a carne, mas o Senhor mão as aceita. Agora lembrar-se-á da sua iniquidade, castigará os seus pecados. Hão-de voltar para o Egito.  
+**13** Oferecem vítimas e comem-lhes a carne, mas o Senhor mão as aceita. Agora lembrar-se-á da sua iniquidade, castigará os seus pecados. Hão-de voltar para o Egipto.  
 **14** Israel esqueceu-se do seu Criador e edificou palácios; Judá multiplicou as suas cidades fortificadas; mas enviarei fogo sobre as suas cidades, e ele devorará (todos) os seus edifícios.  
 
 ## Capítulo 9
 
 **1** Não te alegres, Israel, não exultes como os povos (pagãos), porque te prostituíste, sendo infiel ao teu Deus, amaste a recompensa impura, por sobre todas as eiras de trigo.  
 **2** A eira e o lagar não os sustentarão, e o vinho iludirá a sua espectativa.  
-**3** Não habitarão na terra do Senhor. Os de Efraim voltarão para o Egito, e comerão alimentos impuros entre os Assírios.  
+**3** Não habitarão na terra do Senhor. Os de Efraim voltarão para o Egipto, e comerão alimentos impuros entre os Assírios.  
 **4** Não farão libações de vinho ao Senhor, nem lhe oferecerão agradáveis sacrifícios; o seu pão será como o pão que se come no luto: todos os que comerem dele; ficarão impuros; o seu pão será só para eles, não entrará na casa do Senhor.  
 **5** Que fareis vós no dia solene, no dia da festa do Senhor?  
-**6** Eles partem por causa da devastação (da sua terra). O Egito os recolherá, Menfis os sepultará; as suas preciosidades de prata serão das urtigas e, crescerão os abrolhos nas suas casas.  
+**6** Eles partem por causa da devastação (da sua terra). O Egipto os recolherá, Menfis os sepultará; as suas preciosidades de prata serão das urtigas e, crescerão os abrolhos nas suas casas.  
 **7** Chegaram os dias do castigo, chegaram os dias da retribuição. Clama Israel: O profeta é louco, o varão espiritual é insensato! À enormidade da tua iniquidade junta-se a da tua perseguição.  
 **8** A sentinela de Efraim — com o meu Deus — o profeta, encontra um laço de caçador sobre todos os seus caminhos, a perseguição (mesmo) na casa do seu Deus.  
 **9** Estão profundamente corrompidos, como nos dias de Gabaa. O Senhor se lembrará da sua iniquidade e castigará os seus pecados.  
@@ -179,22 +179,22 @@
 
 ## Capítulo 11
 
-**1** Desde a aurora, será completamente destruído o rei de Israel. Quando Israel era menino, eu o amei, e chamei do Egito o meu filho.  
+**1** Desde a aurora, será completamente destruído o rei de Israel. Quando Israel era menino, eu o amei, e chamei do Egipto o meu filho.  
 **2** Mas, quanto mais os meus profetas os chamaram, tanto mais eles se retiraram da sua presença; sacrificaram aos Baais e queimaram oferendas aos ídolos.  
 **3** Entretanto eu ensinava (os de) Efraim a andar, trazia-os nos meus braços, mas eles não reconheceram que era eu quem cuidava deles.  
 **4** Segurava-os com laços humanos, com laços de amor; fui para eles como o que tira o jugo de cima do pescoço e aproximei-me deles para os nutrir.  
-**5** (Israel) não voltará para a terra do Egito, mas o Assírio será seu rei, porquanto não quiseram converter-se.  
+**5** (Israel) não voltará para a terra do Egipto, mas o Assírio será seu rei, porquanto não quiseram converter-se.  
 **6** A espada fará devastações nas suas cidades, consumirá os seus escolhidos, devorá-los-á por causa dos seus maus desígnios.  
 **7** O meu povo é inclinado a afastar-se de mim; quando se convida a subir ao que está no alto, ninguém procura elevar-se.  
 **8** Como te tratarei, ó Efraim? Entregar-te-ei, ó Israel? Poderei tratar-te como a Adama, ou tornar-te como Seboim (depois de te ter amado tanto)? O meu coração dá voltas dentro de mim mesmo, comove-se a minha compaixão.  
 **9** Não desafogarei o furor da minha ira, não destruirei mais Efraim, porque sou Deus e não um homem; sou o Santo no meio de ti, não gosto de destruir.  
 **10** Eles seguirão o Senhor que rugirá como um leão; quando ele rugir, os filhos do ocidente tremerão.  
-**11** Voarão do Egito como uma ave, e da terra dos Assírios como uma pomba, e estabelecê-los-ei em suas casas diz o Senhor.  
+**11** Voarão do Egipto como uma ave, e da terra dos Assírios como uma pomba, e estabelecê-los-ei em suas casas diz o Senhor.  
 **12** Efraim cercou-me de mentira, e a casa de Israel, de engano; Judá, porém, conduziu-se com Deus e com os santos como uma testemunha fiel.  
 
 ## Capítulo 12
 
-**1** Efraim apascenta-se de vento, vai atrás do vento do oriente. Todos os dias multiplica a mentira e a violência; faz aliança com os Assírios e leva o seu (excelente) azeite ao Egito.  
+**1** Efraim apascenta-se de vento, vai atrás do vento do oriente. Todos os dias multiplica a mentira e a violência; faz aliança com os Assírios e leva o seu (excelente) azeite ao Egipto.  
 **2** O Senhor virá, pois, a juízo com Judá; castigará Jacob pelo seu proceder, dar-lhe-á o pago que merecem as suas obras.  
 **3** Jacob suplantou seu irmão no ventre de sua mãe, e com a sua fortaleza lutou com Deus;  
 **4** lutou com o anjo e ficou vencedor, chorou e suplicou-lhe; encontrou-o em Betel, onde (o Senhor) falou connosco,  
@@ -202,11 +202,11 @@
 **6** Converte-te pois, ao teu Deus; guarda a misericórdia e a justiça, e espera sempre no teu Deus.  
 **7** Canaan, que tem na mão uma balança enganosa, ama a fraude.  
 **8** Efraim disse; Em verdade tornei-me rico, adquiri fortuna; em todos os meus ganhos, não se encontrará que eu tenha cometido injustiça alguma.  
-**9** Eu, que sou o Senhor teu Deus, desde a terra do Egito, far-te-ei repousar ainda nas tuas tendas, (apesar da tua obstinação), como nos dias da festa (dos Tabernáculos).  
+**9** Eu, que sou o Senhor teu Deus, desde a terra do Egipto, far-te-ei repousar ainda nas tuas tendas, (apesar da tua obstinação), como nos dias da festa (dos Tabernáculos).  
 **10** Também falei aos profetas e multipliquei as visões; por meio dos mesmos profetas apresentei-vos parábolas.  
 **11** Se os galaaditas são ímpios, serão reduzidos a nada, em Galgala, onde imolam touros; além disso os seus altares se transformarão em montões de escombros sobre os sulcos dos campos.  
 **12** Jacob fugiu para a planície de Aram, Israel serviu (a Labão) para adquirir uma esposa, para adquirir uma mulher guardou o gado.  
-**13** O Senhor fez sair Israel do Egito por meio dum profeta, e por meio dum profeta o povo foi guardado.  
+**13** O Senhor fez sair Israel do Egipto por meio dum profeta, e por meio dum profeta o povo foi guardado.  
 **14** (Não obstante) Efraim provocou a ira (divina) mas o sangue que derramou recairá sobre ele, e o seu Senhor lhe dará (a paga) do seu ultraje.  
 
 ## Capítulo 13
@@ -214,7 +214,7 @@
 **1** Quando Efraim, terrível pelas suas palavras, se tornava forte em Israel, delinquiu, adorando Baal e morreu.  
 **2** Agora continuam a pecar; fizeram para si com sua prata, estátuas fundidas, ídolos de sua invenção, o que tudo é obra de artistas. A estes (ídolos) é que se dirigem, oferecem-lhes sacrifícios humanos, e dão beijos nos bezerros.  
 **3** Por isso serão como a nuvem da manhã, como o orvalho matinal, que logo passa, como o pó arrebatado da eira pelo torvelinho, como o fumo que sai pela janela.  
-**4** Todavia eu sou o Senhor teu Deus desde (que saíste da) terra do Egito; tu não conhecerás outro Deus fora de mim; não há Salvador senão eu.  
+**4** Todavia eu sou o Senhor teu Deus desde (que saíste da) terra do Egipto; tu não conhecerás outro Deus fora de mim; não há Salvador senão eu.  
 **5** Conheci-te (tratando-te como filho) no deserto, numa terra estéril.  
 **6** Eles fartaram-se quando tiveram a sua pastagem; uma vez saciados, levantaram o seu coração e esqueceram-se de mim.  
 **7** Serei para eles como um leão, como uma pantera no caminho, a espreitar.  
@@ -225,7 +225,7 @@
 **12** As iniquidades de Efraim, estão atadas juntas, o seu pecado está posto em reserva.  
 **13** Sobre ele virão as dores, como de uma mulher que está de parto; seu filho é insensato, o qual, na hora devida, não se põe em termos de sair do seio materno.  
 **14** (Não obstante) livrá-los-ei do poder do sepulcro, resgatá-los-ei da morte? Ó morte, onde está o teu flagelo? ó inferno, onde a tua destruição? O arrependimento está escondido a meus olhos.  
-**15** Entretanto que (Efraim) frutificar entre seus irmãos, virá o vento do oriente, o vento do Senhor, que se levanta do deserto, o qual secará a sua nascente, estancará a sua fonte, roubará o tesouro de todos os objetos preciosos.  
+**15** Entretanto que (Efraim) frutificar entre seus irmãos, virá o vento do oriente, o vento do Senhor, que se levanta do deserto, o qual secará a sua nascente, estancará a sua fonte, roubará o tesouro de todos os objectos preciosos.  
 
 ## Capítulo 14
 
@@ -233,12 +233,12 @@
 **2** Converte-te, ó Israel, ao Senhor teu Deus, porque pela iniquidade é que caíste.  
 **3** Tomai convosco palavras (de arrependimento), convertei-vos ao Senhor, dizei-lhe; Tira-nos todas as nossas iniquidades, aceita este bem (ou bom desejo que temos); queremos oferecer-te, como sacrifício, os louvores dos nossos lábios.  
 **4** Assur não nos salvará (mas sim tu Senhor); não montaremos (arrogantes) em cavalos e nunca mais chamaremos Deus à obra das nossas mãos. (Fazemos esta súplica) porque em ti o órfão encontra compaixão,  
-**5** Curarei a sua infidelidade (responde o Senhor), amá-los-ei espontaneamente, porque já o meu furor se afastou deles.  
+**5** Curarei a sua infidelidade (responde o Senhor), amá-los-ei espontâneamente, porque já o meu furor se afastou deles.  
 **6** Serei como o orvalho para Israel; crescerá como um lírio, e deitará raízes como o Líbano.  
 **7** Estender-se-ão os seus ramos, a sua glória será como a da oliveira, o seu perfume como o do Líbano.  
 **8** Virão repousar debaixo da sua sombra; viverão de trigo e propagar-se-ão como a vinha; a sua nomeada será como a do vinho do Líbano.  
 **9** (Depois disto) que terá Efraim de comum com os ídolos? Fui eu que o afligi e que o tornei feliz; sou como um cipreste sempre verdejante; em mim terão origem os teus frutos (ó Israel).  
-**10** Quem é o sábio que compreenderá estas coisas (que escrevi)? Quem tem inteligência para as conhecer? Porque os caminhos do Senhor são retos; por eles andarão os justos, mas neles cairão os prevaricadores.
+**10** Quem é o sábio que compreenderá estas coisas (que escrevi)? Quem tem inteligência para as conhecer? Porque os caminhos do Senhor são rectos; por eles andarão os justos, mas neles cairão os prevaricadores.
 
 ---
 

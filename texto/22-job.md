@@ -2,18 +2,18 @@
 
 ## Capítulo 1
 
-**1** Havia na terra de Hus um homem, chamado Job. Este homem era sincero, reto, temia a Deus e fugia do mal.  
+**1** Havia na terra de Hus um homem, chamado Job. Este homem era sincero, recto, temia a Deus e fugia do mal.  
 **2** Nasceram-lhe sete filhos e três filhas.  
 **3** Possuía sete mil ovelhas, três mil camelos, quinhentas juntas de bois, quinhentas jumentas e um grande número de servos. Este homem era o maior entre todos os Orientais.  
 **4** Seus filhos iam e banqueteavam-se em suas casas, cada um em seu dia, e mandavam convidar suas três irmãs para irem comer e beber com eles.  
 **5** Tendo decorrido o turno dos dias de banquete, Job mandava chamar seus filhos, purificava-os e, levantando-se de madrugada, oferecia holocausto por cada um deles, porque dizia: Talvez meus filhos tenham pecado, ofendido a Deus nos seus corações. Assim fazia Job de cada vez.  
 **6** Porém um certo dia, tendo-se os filhos de Deus (isto é, os anjos) apresentado diante do Senhor, encontrou-se também Satanás entre eles.  
 **7** O Senhor disse-lhe: Donde vens tu? Ele respondeu: Venho de dar uma volta pela terra e de passear por ela.  
-**8** O Senhor disse-lhe: Porventura consideraste o meu servo Job? Não há semelhante a ele na terra: homem sincero e reto, teme a Deus e foge do mal?  
+**8** O Senhor disse-lhe: Porventura consideraste o meu servo Job? Não há semelhante a ele na terra: homem sincero e recto, teme a Deus e foge do mal?  
 **9** Satanás, respondeu: Porventura Job teme (ou serve) debalde a Deus?  
-**10** Não o cercaste de um valado protetor, a ele, à sua casa e a todos os seus bens? Não abençoaste as obras de suas mãos, e os seus bens não se têm multiplicado sobre a terra?  
+**10** Não o cercaste de um valado protector, a ele, à sua casa e a todos os seus bens? Não abençoaste as obras de suas mãos, e os seus bens não se têm multiplicado sobre a terra?  
 **11** Mas estende tu um pouco a tua mão, toca em tudo o que ele possui, e verás se ele te não amaldiçoa na tua face.  
-**12** Disse, pois, o Senhor a Satanás: Pois bem, tudo o que ele tem está em teu poder; somente não estendas a tua mão contra ele. Satanás saiu da presença do Senhor.  
+**12** Disse, pois, o Senhor a Satanás: Pois bem, tudo o que ele tem está em teu poder; sòmente não estendas a tua mão contra ele. Satanás saiu da presença do Senhor.  
 **13** Um dia, enquanto os filhos e as filhas de Job estavam comendo e bebendo vinho em casa do seu irmão primogénito,  
 **14** foi ter com Job um mensageiro, que lhe disse: Os bois lavravam, e as jumentas pastavam junto deles;  
 **15** de repente acometeram-nos os Sabeus, que levaram tudo e passaram à espada os criados; só eu escapei para te trazer a nova.  
@@ -29,7 +29,7 @@
 
 **1** Ora sucedeu que, em certo dia, tendo comparecido os filhos de Deus diante do Senhor, foi também Satanás entre eles, e pôs-se na sua presença.  
 **2** O Senhor disse a Satanás: Donde vens tu? Ele respondeu: De dar uma volta pela terra e de passear por ela.  
-**3** O Senhor disse a Satanás: Não consideraste o meu servo Job? Não há outro semelhante a ele na terra: homem sincero e reto, teme a Deus e foge do mal. Ainda conserva a sua perfeição, apesar de me haveres incitado contra ele, para o afligir em vão.  
+**3** O Senhor disse a Satanás: Não consideraste o meu servo Job? Não há outro semelhante a ele na terra: homem sincero e recto, teme a Deus e foge do mal. Ainda conserva a sua perfeição, apesar de me haveres incitado contra ele, para o afligir em vão.  
 **4** Satanás respondeu: Pele por pele! O homem dará tudo o que possui pela sua vida.  
 **5** Mas (experimenta), estende a tua mão, toca-lhe nos ossos e na carne, e então verás se ele te não amaldiçoa cara a cara.  
 **6** Disse o Senhor a Satanás: Eis que ele está na tua mão; conserva, porém, a sua vida.  
@@ -84,10 +84,10 @@
 **10** (Assim é abafado) o rugido do leão, o grito da leoa; (assim) os dentes dos cachorros dos leões são despedaçados.  
 **11** O leão morre por falta de presa, e os cachorros dos leões são dispersos.  
 **12** A mim foi dita uma palavra em segredo, os meus ouvidos, como às furtadelas, perceberam o seu débil som.  
-**13** No horror de uma visão noturna, quando o sono costuma apoderar-se dos homens,  
+**13** No horror de uma visão nocturna, quando o sono costuma apoderar-se dos homens,  
 **14** o medo e o tremor me assaltaram, e todos os meus ossos estremeceram.  
 **15** Ao passar diante de mim um espírito, os meus cabelos se arripiaram.  
-**16** Parou alguém diante (de mim), cujo rosto eu não conhecia, um espetro diante dos meus olhos, e ouvi uma voz como de branda viração (que dista):  
+**16** Parou alguém diante (de mim), cujo rosto eu não conhecia, um espectro diante dos meus olhos, e ouvi uma voz como de branda viração (que dista):  
 **17** Porventura o homem, em confronto com Deus, será tido por justo? ou será puro diante do seu Criador?  
 **18** Ainda os mesmos que o servem, não são estáveis, e (até) nos seus anjos encontrou defeito.  
 **19** Quanto mais aqueles que habitam casas de barro, os quais têm a terra por fundamento, serão consumidos como pela traça?  
@@ -112,7 +112,7 @@
 **14** De dia se encontram em trevas, e ao meio-dia andam às apalpadelas como de noite.  
 **15** Ele salva o desvalido da espada da sua boca, e o pobre da mão do (homem) poderoso.  
 **16** Volta a esperança ao indigente, e a iniquidade fecha a sua boca.  
-**17** Bem-aventurado o homem a quem Deus corrige. Não desprezes, pois, a correção do Omnipotente,  
+**17** Bem-aventurado o homem a quem Deus corrige. Não desprezes, pois, a correcção do Omnipotente,  
 **18** porque ele fere e sara; dá o golpe e as suas mãos curam.  
 **19** Seis vezes te livrará da angústia, e à sétima o mal não te tocará.  
 **20** No tempo da fome ele te salvará da morte, e no tempo da guerra do poder da espada.  
@@ -140,7 +140,7 @@
 **12** A minha fortaleza não é como a das pedras, nem a minha carne é de bronze.  
 **13** Bem vedes que eu não encontro socorro em mim, e que até os meus mais íntimos me abandonaram.  
 **14** Aquele que não tem compaixão do seu amigo, abandona o temor do Senhor.  
-**15** Meus irmãos enganaram-me como a torrente, que rapidamente se escoa.  
+**15** Meus irmãos enganaram-me como a torrente, que ràpidamente se escoa.  
 **16** (As águas) que antes se perturbavam com os gelos, e sobre que se acumulava a neve,  
 **17** Começam a dissipar-se, logo que vier calor, desaparecem do seu lugar.  
 **18** Por diversas veredas se perdem, evaporam-se e extinguem-se.  
@@ -188,7 +188,7 @@
 **3** Porventura Deus perverte os seus juízos, ou o Omnipotente subverte a justiça?  
 **4** Se teus filhos pecaram contra ele, abandonou-os ao poder da própria iniquidade.  
 **5** Contudo, se tu recorreres prontamente a Deus, e, humilde, rogares ao Omnipotente,  
-**6** se caminhares com pureza e retidão, logo despertará para te acudir, e fará prosperar a morada da tua justiça,  
+**6** se caminhares com pureza e rectidão, logo despertará para te acudir, e fará prosperar a morada da tua justiça,  
 **7** de tal sorte que os teus primeiros bens parecerão pequenos, de tão grandes que hão-de ser os últimos.  
 **8** Interroga, pois, as gerações passadas, examina com cuidado as memórias de nossos pais.  
 **9** - Com efeito, nós somos de ontem, e somos uns ignorantes, porquanto os nossos dias sobre a terra passam como a sombra. -  
@@ -215,7 +215,7 @@
 **5** Ele transporta os montes, sem que eles o saibam, revolve-os na sua ira.  
 **6** Ele sacode a terra do seu lugar, e as suas colunas são abaladas.  
 **7** Ele manda ao sol, e o sol não nasce; põe um selo nas estrelas.  
-**8** Ele formou, sozinho, a extensão dos céus, e caminha sobre as ondas do mar.  
+**8** Ele formou, sòzinho, a extensão dos céus, e caminha sobre as ondas do mar.  
 **9** Ele criou a Ursa, o Orião e as Pléiades, e os astros (que estão) no fundo do austro.  
 **10** Ele faz coisas grandes e incompreensíveis, prodígios que não têm número.  
 **11** Se ele vem a mim, eu não o verei, se se retira não o perceberei.  
@@ -297,7 +297,7 @@
 **1** Mas Job, respondendo, disse:1  
 **2** Em verdade, só vós sois homens (sábios), e convosco morrerá a sabedoria!  
 **3** Eu também tenho entendimento como vós, e não vos sou inferior; pois quem ignora isso que vós sabeis?  
-**4** Sou objeto de riso dos meus amigos, eu que invocava Deus e a quem Deus respondia; objeto de riso o justo, o inocente!...  
+**4** Sou objecto de riso dos meus amigos, eu que invocava Deus e a quem Deus respondia; objecto de riso o justo, o inocente!...  
 **5** Desprezo ao desgraçado! Assim pensa o que é ditoso. Desprezo aquele cujos pés vacilam.  
 **6** As casas dos ladrões estão na abundância, seguros estão os que atrevidamente provocam a Deus e que não têm outro deus senão o seu braço.  
 **7** Pergunta, porém, aos animais, e eles te ensinarão, às aves do céu, e elas te indicarão.  
@@ -318,7 +318,7 @@
 **22** Tira das trevas as coisas mais ocultas, e traz à luz a (própria) sombra da morte.  
 **23** Multiplica as nações e as destrói, e, depois de destruídas, as restitui ao seu primeiro estado.  
 **24** Ele muda o coração dos príncipes do povo da terra, transvia-os em desertos sem caminhos;  
-**25** Job faz uma longa enumeração dos males que, por permissão de Deus, sobrevêm a toda a classe de pessoas e de povos, para mostrar não tanto o seu poder como a independência em que está a sua ação dos méritos dessas pessoas e povos.  
+**25** Job faz uma longa enumeração dos males que, por permissão de Deus, sobrevêm a toda a classe de pessoas e de povos, para mostrar não tanto o seu poder como a independência em que está a sua acção dos méritos dessas pessoas e povos.  
 **26** andam às apalpadelas nas trevas, longe da luz; fá-los andar errantes como ébrios.  
 
 ## Capítulo 13
@@ -342,14 +342,14 @@
 **17** Ouvi as minhas palavras, dai ouvidos ao meu discorrer.  
 **18** Se eu for julgado, sei que ei-de ser encontrado justo.  
 **19** Quem há que queira entrar comigo em juízo? Venha: por que me consumo eu em silêncio?  
-**20** Duas coisas somente te peço (ó Senhor) que me faças, e então não me esconderei da tua face:  
+**20** Duas coisas sòmente te peço (ó Senhor) que me faças, e então não me esconderei da tua face:  
 **21** Afasta de mim a tua mão, e não me consterne o teu terror.  
 **22** Chama por mim, e eu te responderei; ou então falarei eu, e tu responde-me.  
 **23** Quantas iniquidades e pecados tenho eu? Mostra-me as minhas maldades e delitos.  
 **24** Por que escondes tu de mim o teu rosto, e por que me consideras teu inimigo?  
 **25** Contra uma folha que é arrebatada ao vento, queres mostrar o teu poder, perseguir uma palha seca?  
 **26** Com efeito, escreves contra mim amarguras, e queres-me consumir pelos pecados de minha mocidade.  
-**27** Tu puseste os meus pés no cepo, observaste todas as minhas veredas (ou ações), consideraste os vestígios de meus pés,  
+**27** Tu puseste os meus pés no cepo, observaste todas as minhas veredas (ou acções), consideraste os vestígios de meus pés,  
 **28** sendo certo que eu sou consumido como podridão, como um vestido que é comido pela traça.  
 
 ## Capítulo 14
@@ -397,7 +397,7 @@
 **16** quanto mais o homem, ser abominável e corrompido, que bebe a iniquidade como a água?  
 **17** Eu to mostrarei, ouve-me; eu te contarei o que tenho visto,  
 **18** o que os sábios dizem, eles que não ocultam (os ensinamentos) de seus pais,  
-**19** - aos quais somente foi dada esta terra, sem que passasse nenhum estranho por meio deles. -  
+**19** - aos quais sòmente foi dada esta terra, sem que passasse nenhum estranho por meio deles. -  
 **20** Em todos os seus dias o ímpio é atormentado, e o número dos anos do opressor é reduzido.  
 **21** Um estrondo de terror está sempre em seus ouvidos, e, mesmo quando há paz, receia o assalto do devastador  
 **22** Não crê que se possa voltar das trevas à luz, vendo a espada de todos os lados,  
@@ -448,12 +448,12 @@
 **3** Livra-me, Senhor, e põe-me junto de ti, e (então) combata contra mim a mão de quem quer que for.  
 **4** Tu afastaste da inteligência o seu coração, por isso não serão exaltados.  
 **5** Há quem prometa a presa aos companheiros, quando os olhos de seus filhos desfalecem.  
-**6** Ele me reduziu a ser objeto de riso do povo, sou um (homem) a quem se cospe no rosto.  
+**6** Ele me reduziu a ser objecto de riso do povo, sou um (homem) a quem se cospe no rosto.  
 **7** Os meus olhos escureceram-se de amargura, todos os meus membros são como uma sombra.  
 **8** Os justos pasmam disto (que me acontece), e o inocente se levanta contra o ímpio.  
 **9** Mas o justo persistirá no seu caminho, e aquele que tem as mãos puras crescerá em fortaleza.  
 **10** Voltai, enfim, vós todos, vinde; não acharei entre vós nenhum sapiente?  
-**11** Os meus dias passaram, os meus projetos ruíram, os projetos queridos do meu coração.  
+**11** Os meus dias passaram, os meus projectos ruíram, os projectos queridos do meu coração.  
 **12** Tornam a noite em dia; em face das trevas (dizem que) a luz está próxima.  
 **13** Ainda que eu espere com paciência, o sepulcro será a minha casa, e tenho preparado o meu leito nas trevas.  
 **14** Eu disse à podridão: Tu és meu pai! E aos vermes: Vós sois minha mãe e minha irmã.  
@@ -463,7 +463,7 @@
 ## Capítulo 18
 
 **1** Respondendo, Baldad de Suhé disse:  
-**2** Até quando dirás palavras vãs? Reflete primeiro, e depois falaremos.  
+**2** Até quando dirás palavras vãs? Reflecte primeiro, e depois falaremos.  
 **3** Por que nos consideras como animais, e nos tornas por estúpidos?  
 **4** Ó tu, que no teu furor te despedaças, porventura, por causa de ti, será despovoada a terra, e serão transferidos os rochedos do seu lugar?  
 **5** Sim, é certo que a luz (ou prosperidade) do ímpio se apagará, e que não resplandecerá a chama do seu fogo.  
@@ -525,7 +525,7 @@
 **5** é breve a glória dos ímpios, e a alegria do ímpio dura um momento?  
 **6** Se a sua soberba subir até ao céu, e a sua cabeça tocar nas nuvens,  
 **7** por fim perecerá como o esterco; aqueles que o tinham visto dirão: Onde está ele?  
-**8** Como um sonho, ele voa, e não será achado, desaparecerá como uma visão noturna.  
+**8** Como um sonho, ele voa, e não será achado, desaparecerá como uma visão nocturna.  
 **9** Os olhos, que o tinham visto, não o verão mais, nem o verá mais a sua morada.  
 **10** Os seus filhos indemnizarão os pobres, e as suas mãos restituirão as suas rapinas.  
 **11** Os seus ossos estavam cheios das suas iniquidades ocultas, as quais com ele dormirão no pó.  
@@ -607,14 +607,14 @@
 **18** Mas era ele que havia cumulado de bens as suas casas. Esteja longe de mim o conselho dos ímpios.  
 **19** Os justos verão (a sua ruína) e alegrar-se-ão, e o inocente escarnecerá deles (e da sua falsa doutrina):  
 **20** Porventura não foi lançada por terra a sua soberba, e o fogo não devorou as suas relíquias?  
-**21** Submete-te, pois, a Deus, e lerás paz, e assim colherás ótimos frutos.  
+**21** Submete-te, pois, a Deus, e lerás paz, e assim colherás óptimos frutos.  
 **22** Recebe lições da sua boca, e grava as palavras no teu coração.  
 **23** Se voltares para o Omnipotente, de novo serás levantado, se afastares de tua casa a iniquidade.  
 **24** Se lançares ao pó os lingotes de ouro, e o ouro de Ofir aos seixos da torrente,  
 **25** o Omnipotente será o teu ouro, será para ti prata brilhante.  
 **26** Então porás tuas delícias no Omnipotente, e levantarás o teu rosto para Deus.  
 **27** Tu lhe rogarás, e ele te ouvirá, e cumprirás os teus votos.  
-**28** Formarás os teus projetos, que terão feliz êxito, e a luz brilhará em teus caminhos.  
+**28** Formarás os teus projectos, que terão feliz êxito, e a luz brilhará em teus caminhos.  
 **29** Porque quem se humilha, será glorificado, e quem (arrependido) tiver abaixado os olhos, será salvo.  
 **30** O inocente será salvo, e será salvo pela pureza das suas mãos.  
 
@@ -633,14 +633,14 @@
 **11** O meu pé seguiu as suas pisadas, eu guardei o seu caminho, e não me desviei dele.  
 **12** Não me apartei dos preceitos de seus lábios, escondi no meu seio as palavras da sua boca,  
 **13** Porém, quando decide uma coisa, ninguém pode frustrar os seus desígnios; e a sua vontade realiza o que quer.  
-**14** Assim cumprirá em mim a sua vontade, e ainda tem à mão outros muitos projetos semelhantes.  
+**14** Assim cumprirá em mim a sua vontade, e ainda tem à mão outros muitos projectos semelhantes.  
 **15** Por isso eu estou turbado na sua presença, e, quando o considero, sou agitado de temor.  
 **16** Deus tirou a coragem ao meu coração, e o Omnipotente me aterrou.  
 **17** Realmente não são as trevas que me fazem perecer, nem a escuridão (das tribulações) de que está coberto o meu rosto.  
 
 ## Capítulo 24
 
-**1** Por que não reserva o Omnipotente para si os seus tempos, e os seus fiéis não veem os dias dele?  
+**1** Por que não reserva o Omnipotente para si os seus tempos, e os seus fiéis não vêem os dias dele?  
 **2** Uns invadem terrenos alheios, roubam rebanhos e os apascentam.  
 **3** Levam o jumento dos órfãos, e tomam em penhor o boi da viúva.  
 **4** Põem os pobres fora do caminho, e obrigam a esconder-se os humildes camponeses.  
@@ -729,7 +729,7 @@
 **7** A águia não conhece esses caminhos, e olho do abutre não os viu;  
 **8** as feras não os trilharam, nem o leão passou por lá.  
 **9** Estende a sua mão contra os rochedos, remexe os montes desde as suas raízes.  
-**10** Cortando os penhascos, abre galerias, e os seus olhos veem aí tudo o que há de precioso.  
+**10** Cortando os penhascos, abre galerias, e os seus olhos vêem aí tudo o que há de precioso.  
 **11** Investiga também a profundidade dos rios, e põe a descoberto o que estava escondido.  
 **12** Mas a sabedoria, onde se encontra ela? Qual é o lugar da inteligência?  
 **13** O homem não conhece o seu caminho, nem ela se encontra na terra dos mortais.  
@@ -787,7 +787,7 @@
 **6** habitam em horríveis desfiladeiros, nas cavernas da terra, ou nos penhascos,  
 **7** rugindo entre os silvados e reunindo-se debaixo dos espinheiros.  
 **8** Filhos de ignóbeis e desprezíveis, são mais pisados que a terra.  
-**9** Agora cheguei a ser o assunto das cantigas, o objeto dos escárnios destes tais.  
+**9** Agora cheguei a ser o assunto das cantigas, o objecto dos escárnios destes tais.  
 **10** Eles abominam-me, fogem para longe de mim, e não receiam cuspir-me no rosto.  
 **11** Perdido todo o respeito, me insultam, não se refreiam na minha presença.  
 **12** A meu lado se levanta a gentalha, e procura caminhos para me perder.  
@@ -829,7 +829,7 @@
 **14** que será de mim quando Deus se levantar para me julgar? Quando me interrogar, que lhe responderei?  
 **15** Porventura o que me formou no ventre materno não o criou também a ele, e não foi o mesmo Deus que nos formou no ventre materno?  
 **16** Porventura neguei aos pobres o que pediam, e deixei desfalecer os olhos da viúva,  
-**17** ou comi sozinho o meu bocado de pão, e o órfão não comeu dele?  
+**17** ou comi sòzinho o meu bocado de pão, e o órfão não comeu dele?  
 **18** Com efeito, desde a minha infância cresceu comigo a comiseração, e do ventre de minha mãe saiu comigo.  
 **19** Se desprezei o que perecia, porque não tinha de que vestir-se, e o pobre que não tinha com que cobrir-se,  
 **20** se os seus membros me não abençoaram, ele (o pobre) não se aqueceu com a lã das minhas ovelhas;  
@@ -887,7 +887,7 @@
 **12** Nisto pois (ó Job) mostraste que não és justo, porque Deus é maior do que o homem.  
 **13** Por que te queixas dele, pelo facto de não dar razão de tudo o que faz?  
 **14** Deus fala de um modo, fala de outro, mas o homem não o entende.  
-**15** Em sonho, em visão noturna, quando o sono cai sobre os homens, quando estão dormindo no seu leito,  
+**15** Em sonho, em visão nocturna, quando o sono cai sobre os homens, quando estão dormindo no seu leito,  
 **16** então (Deus) abre os ouvidos dos homens, e, com as suas censuras os aterra,  
 **17** para os apartar do mal, para os livrar da soberba,  
 **18** para salvar a sua alma da corrupção, e a sua vida de um fim desastrado.  
@@ -943,7 +943,7 @@
 **32** Se eu errei, corrigi-me, se falei com iniquidade, não direi mais nada.  
 **33** Porventura pedir-te-á Deus conta do que eu falei, que te desagradou? mas tu foste o primeiro a falar, e não eu; e, se sabes coisa melhor, dize-a.  
 **34** Falem-me homens atilados, assim conto o homem sábio que me escuta.  
-**35** Job falou nesciamente, as sua palavras não foram acertadas.  
+**35** Job falou nèsciamente, as sua palavras não foram acertadas.  
 **36** Oxalá que seja provado Job até ao fim, pelas suas respostas de homem iníquo,  
 **37** porque ao seu pecado junta a revolta; bate palmas contra nós, e multiplica queixas contra Deus.  
 
@@ -977,10 +977,10 @@
 **7** Não tirará (nunca) os seus olhos dos justos, e, ao fim, os colocará, com os reis, sobre o trono, numa glória eterna.  
 **8** E, se estiverem em cadeias, atados com os laços da pobreza,  
 **9** ele lhes fará ver as suas obras, as suas maldades, cometidas por orgulho.  
-**10** Abrir-lhes-ã os ouvidos à correção e lhes falará para que se convertam da sua iniquidade.  
+**10** Abrir-lhes-ã os ouvidos à correcção e lhes falará para que se convertam da sua iniquidade.  
 **11** Se ouvirem e obedecerem, acabarão os seus dias na felicidade, os seus anos em delícias.  
 **12** Porém, se não ouvirem, serão passados à espada, e perecerão na sua cegueira.  
-**13** Os corações ímpios entregam-se à cólera, não clamam a Deus, quando se veem aprisionados.  
+**13** Os corações ímpios entregam-se à cólera, não clamam a Deus, quando se vêem aprisionados.  
 **14** Morrerão em plena juventude, e a sua vida acabará como a dos dissolutos.  
 **15** Pelo contrário Deus livra o pobre, pela sua angústia, e abre-lhe o ouvido com a tribulação,  
 **16** Ele te salvará (ó Job) do abismo estreito da angústia e te porá ao largo, em plena liberdade, (se te converteres), e tu repousarás à tua mesa cheia de gordas viandas.  
@@ -992,7 +992,7 @@
 **22** Olha como Deus é excelso na sua fortaleza. Quem, como ele, é terrível?  
 **23** Quem lhe prescreveu normas de conduta? Ou quem poderá dizer-lhe: Tu fizeste mal?  
 **24** Lembra-te que deves celebrar a sua obra, a qual tantos homens cantaram.  
-**25** Todos os homens o veem, mas cada um o vê de longe.  
+**25** Todos os homens o vêem, mas cada um o vê de longe.  
 **26** Com efeito, Deus é grande e ultrapassa toda a nossa ciência, o número dos seus anos é incalculável.  
 **27** Ele atrai as gotas de água, e derrama-as em (forma de) chuva, na cerração.  
 **28** Caem dás nuvens, abundantemente sobre os homens.  
@@ -1015,7 +1015,7 @@
 **9** Do austro sai a tempestade, e o frio do setentrião.  
 **10** O gelo forma-se ao sopro de Deus, e depois derramam-se as águas em abundância.  
 **11** Carrega de vapores as nuvens, e as nuvens (com relâmpagos) espalham a sua luz,  
-**12** em todas as direções, girando por onde quer que as conduz a vontade daquele que as governa, executando tudo quanto ele lhes manda sobre a face de toda a terra,  
+**12** em todas as direcções, girando por onde quer que as conduz a vontade daquele que as governa, executando tudo quanto ele lhes manda sobre a face de toda a terra,  
 **13** quer para castigo do mundo, quer para seu beneficio.  
 **14** Ouve, Job, estas coisas: para e considera as maravilhas de Deus.  
 **15** Sabes tu porventura como ele as opera, como faz brilhar o relâmpago nas suas nuvens?  
@@ -1024,7 +1024,7 @@
 **18** Formaste tu porventura juntamente com ele os céus, que são tão sólidos como um espelho de bronze!  
 **19** (Se é assim) mostra-nos o que lhe poderemos dizer, porque nós, envolvidos em trevas, não sabemos.  
 **20** Quem lhe referirá o que eu digo? Se um homem se atrever a falar, ficará oprimido.  
-**21** Agora (os homens) não veem a luz, (porque) o ar repentinamente se condensa em nuvens; mas (daqui a um instante, já poderão ver, porque) um vento que passa as dissipará.  
+**21** Agora (os homens) não vêem a luz, (porque) o ar repentinamente se condensa em nuvens; mas (daqui a um instante, já poderão ver, porque) um vento que passa as dissipará.  
 **22** Do setentrião vem áureo resplendor, e Deus veste-se de terrível majestade.  
 **23** Não podemos alcançar o Omnipotente: ele é grande em fortaleza, em equidade, em sua justiça, não responde a ninguém.  
 **24** Por isso os homens o temerão! Ele não olha para os que se julgam sábios.  
@@ -1067,7 +1067,7 @@
 **34** Porventura mandarás os relâmpagos, e eles irão, dizendo-te: Aqui estamos?  
 **35** Porventura mandarás os relâmpagos, e eles irão, dizendo-te: Aqui estamos?  
 **36** Quem pôs sabedoria nas nuvens, e inteligência nos meteoros?  
-**37** Quem pode contar exatamente as nuvens e inclinar as urnas do céu,  
+**37** Quem pode contar exactamente as nuvens e inclinar as urnas do céu,  
 **38** para o pó se tornar em massa, e os torrões (com a água) aderirem uns aos outros?  
 **39** Porventura caçarás tu presa para a leoa, e saciarás a fome dos seus cachorros,  
 **40** quando estes estão deitados nos seus covis, ou à espreita nas suas brenhas?  
@@ -1173,13 +1173,13 @@
 ## Capítulo 42
 
 **1** Respondendo Job ao Senhor, disse:  
-**2** Sei que podes tudo, e que nenhum projeto é, para ti, demasiado difícil.  
-**3** Quem é este que, falto de ciência, encobre o conselho (de Deus)? (Confesso que) falei nesciamente, sobre coisas que me ultrapassam e que eu ignoro.  
+**2** Sei que podes tudo, e que nenhum projecto é, para ti, demasiado difícil.  
+**3** Quem é este que, falto de ciência, encobre o conselho (de Deus)? (Confesso que) falei nèsciamente, sobre coisas que me ultrapassam e que eu ignoro.  
 **4** "Ouve, e eu falarei, interrogar-te-ei, e responder-me-às."  
-**5** Os meus ouvidos haviam escutado falar de ti, mas agora os meus próprios olhos te veem.  
+**5** Os meus ouvidos haviam escutado falar de ti, mas agora os meus próprios olhos te vêem.  
 **6** Por isso acuso-me a mim mesmo, e faço penitência no pó e na cinza.  
-**7** O Senhor, depois que falou naquela sorte de Job, disse a Elifaz de Teman: O meu furor se acendeu contra ti e contra os teus dois amigos, porque vós não falastes de mim, retamente, como falou o meu servo Job.  
-**8** Tomai, pois, sete touros e sete carneiros, e ide ao meu servo Job. Oferecei um holocausto por vós; o meu servo Job orará por vós. Admitirei propicio a sua intercessão para que se vos não impute esta estultícia, porque vós não falastes de mim o que era reto, como o meu servo Job.  
+**7** O Senhor, depois que falou naquela sorte de Job, disse a Elifaz de Teman: O meu furor se acendeu contra ti e contra os teus dois amigos, porque vós não falastes de mim, rectamente, como falou o meu servo Job.  
+**8** Tomai, pois, sete touros e sete carneiros, e ide ao meu servo Job. Oferecei um holocausto por vós; o meu servo Job orará por vós. Admitirei propicio a sua intercessão para que se vos não impute esta estultícia, porque vós não falastes de mim o que era recto, como o meu servo Job.  
 **9** Foram pois, Elifaz de Teman, Baldad de Subé, e Sofar de Naama, e fizeram como o Senhor lhes tinha dito, e o Senhor atendeu a Job.  
 **10** O Senhor também se deixou mover à vista da penitência de Job, quando orava pelos seus amigos, e deu-lhe o duplo de tudo o que ele antes possuía,  
 **11** Foram ter com ele todos os seus irmãos, todas as suas irmãs e todos os que antes o tinham conhecido, e comeram com ele em sua casa. Moveram sobre ele a cabeça (em sinal de terna compaixão) e consolaram-no de todas as tribulações que o Senhor lhe tinha enviado. Cada um deles deu-lhe uma peça de prata e um anel de ouro.  

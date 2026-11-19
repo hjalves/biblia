@@ -27,7 +27,7 @@
 **4** Naquele dia será composta sobre vós uma sátira e cantar-se-á uma elegia: Estamos inteiramente devastados; a parte do meu povo passa a outros! Como ma arrebatam? Os nossos campos foram repartidos entre os infiéis.  
 **5** Por isso dão terás (ó Israel) quem meça com cordel as porções na assembleia do Senhor.  
 **6** Não profetizeis, dizem eles, não se profetize mais assim; isto não afastará o opróbrio porque não receberão, nem lhes causarão confusão alguma.  
-**7** A casa de Jacob diz: Acaso o Senhor é pronto para a cólera? E esta a sua forma de agir? Não são as minhas palavras (responde o Senhor) cheias de bondade para com aquele que caminha com retidão?  
+**7** A casa de Jacob diz: Acaso o Senhor é pronto para a cólera? E esta a sua forma de agir? Não são as minhas palavras (responde o Senhor) cheias de bondade para com aquele que caminha com rectidão?  
 **8** O meu povo, pelo contrário, levanta-se como inimigo; com a túnica (ó Israelitas) tirais a capa, e tratais como inimigos aqueles que passam (ou viviam) em paz.  
 **9** Lançais fora dos seus amados lares as mulheres do meu povo; tirais para sempre a minha glória aos seus filhinhos.  
 **10** Levantai-vos e parti (para o exílio), porque não tereis aqui descanso. Por causa da vossa imundície, ser-vos-á infligido um cruel tormento.  
@@ -40,12 +40,12 @@
 **1** Eu disse: Ouvi, príncipes de Jacob e chefes da casa de Israel: Porventura não é a vós que pertence saber o que é justo?  
 **2** Não obstante isso, aborreceis o bem e achais o mal; arrancais a pele (ao povo) e a carne de cima dos seus ossos.  
 **3** Comem a carne do meu povo, arrancam-lhe a pele, quebram-lhe os ossos, partem-no como (carne) para por num tacho como carne para dentro duma panela.  
-**4** Um dia clamarão ao Senhor, e ele não os ouvirá; esconder-lhes-á a sua face nesse tempo, como o merece a iniquidade das suas ações.  
+**4** Um dia clamarão ao Senhor, e ele não os ouvirá; esconder-lhes-á a sua face nesse tempo, como o merece a iniquidade das suas acções.  
 **5** Isto diz o Senhor acerca dos (falsos) profetas que seduzem o meu povo, que, quando têm alguma coisa para mastigar, pregam a paz, e, àquele que não lhes põe na boca coisa alguma, declaram a guerra.  
 **6** Por Isso, em lugar de visões, tereis a noite, e as trevas em vez de revelação; por-se-á o sol para estes profetas, para eles se obscurecerá o dia.  
 **7** Serão confundidos os videntes, cobrir-se-ão de vergonha os adivinhos; todos esconderão a barba, porque não haverá resposta de Deus (para eles).  
 **8** Pelo que toca a mim, contudo, estou cheio da força do espírito do Senhor, da justiça e do vigor, para anunciar a Jacob a sua maldade, e a Israel o seu pecado.  
-**9** Ouvi isto, príncipes da casa de Jacob e juízes da casa de Israel, vós que abominais a justiça e perverteis tudo o que ó reto,  
+**9** Ouvi isto, príncipes da casa de Jacob e juízes da casa de Israel, vós que abominais a justiça e perverteis tudo o que ó recto,  
 **10** edificando Sião com sangue, e Jerusalém com a iniquidade.  
 **11** Os seus príncipes dão as sentenças por presentes, os seus sacerdotes decidem por interesse, os seus profetas adivinham por dinheiro; e (não obstante) apoiam-se no Senhor, dizendo: Não está o Senhor no meio de nós? A desgraça não virá sobre nós.  
 **12** Em consequência disto, por vossa causa será lavrada Sião como um campo, Jerusalém será reduzida a um montão de pedras, e o monte do templo tornar-se-á como um cume brenhoso.  
@@ -88,7 +88,7 @@
 **1** Ouvi o que (me) diz o Senhor: Levanta-te (ó profeta), expõe o teu processo diante das montanhas, e ouçam as colinas a tua voz.  
 **2** Ouvi, montanhas e sólidos fundamentos da terra, o processo do Senhor, porque o Senhor quer entrar em juízo com o seu povo, vai pleitear com Israel.  
 **3** Povo meu, que é que te fiz, ou em que te fui molesto? Responde-me.  
-**4** Tirei-te da terra do Egito, livrei-te da casa da escravidão e enviei diante de ti Moisés, Aarão e Maria.  
+**4** Tirei-te da terra do Egipto, livrei-te da casa da escravidão e enviei diante de ti Moisés, Aarão e Maria.  
 **5** Povo meu, peço-te que te lembres do desígnio (contra ti) de Balac, rei de Moab, e do que lhe respondeu Balaão, filho de Beor, (em teu favor, obrigado por mim); (lembra-te de como te protegi) desde Setim até Gálgala, para reconheceres as mercês do Senhor.  
 **6** Com que (ofertas) me apresentarei ao Senhor (responde o povo) e me prostrarei diante do Deus excelso? Oferecer-lhe porventura holocaustos, novilhos de um ano?  
 **7** Porventura o Senhor receberá com agrado milhares de carneiros ou miriades de torrentes de azeite? Porventura sacrificar-lhe-ei pela minha maldade o meu filho primogénito, o fruto das minhas entranhas pelo pecado da minha alma?  
@@ -115,10 +115,10 @@
 **9** Sofrerei o castigo do Senhor, porque tenho pecado contra ele, até que ele julgue a minha causa e me faça justiça. Ele me conduzirá para a luz; verei a sua justiça.  
 **10** A minha inimiga verá isto e ficará coberta de confusão, ela que me dizia: Onde está o Senhor teu Deus? Os meus olhos olharão para ela; agora será pisada aos pés, como a lama das ruas.  
 **11** (Chega) o dia em que os teus muros serão reedificados; nesse dia será retirada de ti a lei.  
-**12** Nesse dia virão a ti da Assíria e das cidades do Egito, do Egito até ao rio, dum mar até outro mar, e dum monte até outro monte.  
+**12** Nesse dia virão a ti da Assíria e das cidades do Egipto, do Egipto até ao rio, dum mar até outro mar, e dum monte até outro monte.  
 **13** A terra será desolada por causa dos seus habitantes, por causa do fruto das suas obras.  
 **14** Apascenta (ó Senhor) com a tua vara o teu povo, o rebanho da tua herança, os que habitam sós no bosque, no meio do Carmelo. (Um dia) se apascentarão em (territórios férteis, como) Basah e Galaad, como nos dias antigos.  
-**15** (Sim, diz o Senhor) como no dia da tua saída da terra do Egito, eu te farei ver maravilhas.  
+**15** (Sim, diz o Senhor) como no dia da tua saída da terra do Egipto, eu te farei ver maravilhas.  
 **16** As nações as verão e serão confundidas, apesar da sua fortaleza: porão a mão sobre a sua boca, e os seus ouvidos ficarão surdos.  
 **17** Lamberão o pó como as serpentes; sairão com terror dos seus retiros, como os répteis da terra; virão a tremer para o Senhor nosso Deus e terão medo diante de ti (ó Israel).  
 **18** Qual o Deus que, semelhante a ti, apaga a iniquidade e perdoa os pecados dos restos da sua herança? Não permanece sempre obstinado na sua cólera, porque é amante da misericórdia.  

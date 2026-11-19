@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -31,7 +31,7 @@
     },
     {
      "n": 4,
-     "texto": "Não sejais como vossos pais, aos quais os profetas que vos precederam lançaram este apelo: Isto diz o Senhor dos exércitos: Convertei-vos dos vossos maus caminhos, das vossas malvadas ações. Eles não me ouviram, não me deram atenção, diz o Senhor."
+     "texto": "Não sejais como vossos pais, aos quais os profetas que vos precederam lançaram este apelo: Isto diz o Senhor dos exércitos: Convertei-vos dos vossos maus caminhos, das vossas malvadas acções. Eles não me ouviram, não me deram atenção, diz o Senhor."
     },
     {
      "n": 5,
@@ -75,7 +75,7 @@
     },
     {
      "n": 15,
-     "texto": "e estou sumamente irritado contra estas nações que vivem satisfeitas, porque eu somente estava um pouco agastado (contra Israel), mas elas excederam a medida (do castigo que eu planeava)."
+     "texto": "e estou sumamente irritado contra estas nações que vivem satisfeitas, porque eu sòmente estava um pouco agastado (contra Israel), mas elas excederam a medida (do castigo que eu planeava)."
     },
     {
      "n": 16,
@@ -128,7 +128,7 @@
     },
     {
      "n": 6,
-     "texto": "De pé! De pé! Fugi da terra do aquilão, diz o Senhor, porque eu vos espalhei para os quatro ventos do céu, diz o Senhor, (somente para vos castigar)."
+     "texto": "De pé! De pé! Fugi da terra do aquilão, diz o Senhor, porque eu vos espalhei para os quatro ventos do céu, diz o Senhor, (sòmente para vos castigar)."
     },
     {
      "n": 7,
@@ -652,11 +652,11 @@
     },
     {
      "n": 10,
-     "texto": "Reconduzi-los-ei da terra do Egito, congregá-los-ei da Assíria, introduzi-los-ei na terra de Galaad e no Líbano, e não se achará lá lugar (bastante) para eles (por serem numerosos)."
+     "texto": "Reconduzi-los-ei da terra do Egipto, congregá-los-ei da Assíria, introduzi-los-ei na terra de Galaad e no Líbano, e não se achará lá lugar (bastante) para eles (por serem numerosos)."
     },
     {
      "n": 11,
-     "texto": "Israel passará o mar, do Egito, (o Senhor) ferirá as ondas do mar, todas as profundidades do Nilo ficarão descobertas. A soberba de Assur será humilhada, e o cetro do Egito será tirado."
+     "texto": "Israel passará o mar, do Egipto, (o Senhor) ferirá as ondas do mar, todas as profundidades do Nilo ficarão descobertas. A soberba de Assur será humilhada, e o ceptro do Egipto será tirado."
     }
    ]
   },
@@ -811,7 +811,7 @@
     },
     {
      "n": 4,
-     "texto": "Naquele dia serão confundidos os (falsos) profetas, cada um pela sua visão, quando profetizarem; não mais se cobrirão (hipocritamente) com o manto de pelos para mentirem,"
+     "texto": "Naquele dia serão confundidos os (falsos) profetas, cada um pela sua visão, quando profetizarem; não mais se cobrirão (hipòcritamente) com o manto de pelos para mentirem,"
     },
     {
      "n": 5,
@@ -864,7 +864,7 @@
     },
     {
      "n": 7,
-     "texto": "Será um dia contínuo, conhecido (somente) do Senhor, sem alternativas de dia e de noite: pela tarde não cessará a luz."
+     "texto": "Será um dia contínuo, conhecido (sòmente) do Senhor, sem alternativas de dia e de noite: pela tarde não cessará a luz."
     },
     {
      "n": 8,
@@ -908,11 +908,11 @@
     },
     {
      "n": 18,
-     "texto": "Se a família do Egito não subir nem vier, não cairá sobre ela (a chuva), mas será ferida da ruína, com que o Senhor atingirá todas as nações que não subirem a celebrar a festa dos tabernáculos."
+     "texto": "Se a família do Egipto não subir nem vier, não cairá sobre ela (a chuva), mas será ferida da ruína, com que o Senhor atingirá todas as nações que não subirem a celebrar a festa dos tabernáculos."
     },
     {
      "n": 19,
-     "texto": "Este será o (castigo do) pecado do Egito, este o (castigo do) pecado de todas as nações que não subirem para celebrar a festa dos tabernáculos."
+     "texto": "Este será o (castigo do) pecado do Egipto, este o (castigo do) pecado de todas as nações que não subirem para celebrar a festa dos tabernáculos."
     },
     {
      "n": 20,

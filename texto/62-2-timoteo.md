@@ -27,9 +27,9 @@
 **2** e o que ouviste de mim, diante de muitas testemunhas, confia-o a homens fiéis, capazes de instruir também a outros.  
 **3** Suporta os trabalhos como um bom soldado de Jesus Cristo,  
 **4** Ninguém, que se alistou na milícia, se embaraça com negócios civis, se quer agradar àquele que o alistou.  
-**5** Efetivamente também o que combate nos jogos públicos não é coroado, senão depois que combateu segundo as regras.  
+**5** Efectivamente também o que combate nos jogos públicos não é coroado, senão depois que combateu segundo as regras.  
 **6** O lavrador que trabalha, deve ser o primeiro a ter parte nos frutos da colheita.  
-**7** Reflete no que te digo, porque o Senhor te dará a inteligência em todas as coisas.  
+**7** Reflecte no que te digo, porque o Senhor te dará a inteligência em todas as coisas.  
 **8** Lembra-te que o Senhor Jesus Cristo, que descende do sangue de David, ressuscitou dos mortos, segundo o meu Evangelho,  
 **9** pelo qual sofro até estar em prisões, como um malfeitor; mas a palavra de Deus não está presa (como eu).  
 **10** Portanto sofro tudo por amor dos escolhidos, para que também eles consigam a salvação que está em Jesus Cristo, com a glória eterna.  
@@ -37,12 +37,12 @@
 **12** se perseverarmos, reinaremos também com ele; se o negarmos, ele também nos negará a nós  
 **13** se formos infiéis, ele permanecerá fiel, porque não pode negar-se a si mesmo.  
 **14** Recorda estas coisas, dando testemunho, diante do Senhor, de que é preciso evitar contendas de palavras, porque isto nada aproveita, senão para perverter os que as ouvem,  
-**15** Esforça-te por te apresentares a Deus digno de aprovação, como um operário que não tem de que se envergonhar, que distribui retamente a palavra da verdade.  
+**15** Esforça-te por te apresentares a Deus digno de aprovação, como um operário que não tem de que se envergonhar, que distribui rectamente a palavra da verdade.  
 **16** Evita as conversas vãs e ímpias porque contribuem muito para a impiedade,  
 **17** e a palavra de quem se entrega a tais conversas vai lavrando como gangrena; neste caso estão Himeneu e Fileto,  
 **18** que se extraviaram da verdade, dizendo que já se deu a ressurreição, e perverteram a fé de alguns.  
 **19** Porém o fundamento de Deus está firme, tendo este selo: O senhor conhece os que são seus (Nm. 16, 5), e: Afaste se da iniquidade todo aquele que invoca o nome do Senhor (Is. 26, 13).  
-**20** Ora numa grande casa há não somente vasos de ouro e de prata, mas também vasos de pau e de barro; uns (são destinados) para usos honrosos, outros para usos vulgares.  
+**20** Ora numa grande casa há não sòmente vasos de ouro e de prata, mas também vasos de pau e de barro; uns (são destinados) para usos honrosos, outros para usos vulgares.  
 **21** Se algum, pois, se purificar destas coisas, será um vaso de honra, santificado e útil ao Senhor, preparado para toda a obra boa.  
 **22** Foge das paixões da juventude, segue a justiça, a fé, a caridade e a paz com aqueles que invocam o Senhor com um coração puro.  
 **23** Evita questões loucas e desacertadas, sabendo que produzem contendas.  

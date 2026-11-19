@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -35,7 +35,7 @@
     },
     {
      "n": 5,
-     "texto": "Quebrarei o ferrolho (ou poder) de Damasco; exterminarei de Bigath-Aven os que lá habitam, e de Beth-Eden o que tem na mão o cetro; e o povo da Síria será transferido a Quir, diz o Senhor."
+     "texto": "Quebrarei o ferrolho (ou poder) de Damasco; exterminarei de Bigath-Aven os que lá habitam, e de Beth-Eden o que tem na mão o ceptro; e o povo da Síria será transferido a Quir, diz o Senhor."
     },
     {
      "n": 6,
@@ -47,7 +47,7 @@
     },
     {
      "n": 8,
-     "texto": "Exterminarei de Azoto os que a habitam, e de Ascalon o que tem o cetro; descarregarei a minha mão sobre Acaron, e perecerão os restos dos Filisteus, diz o Senhor Deus."
+     "texto": "Exterminarei de Azoto os que a habitam, e de Ascalon o que tem o ceptro; descarregarei a minha mão sobre Acaron, e perecerão os restos dos Filisteus, diz o Senhor Deus."
     },
     {
      "n": 9,
@@ -120,7 +120,7 @@
     },
     {
      "n": 10,
-     "texto": "Eu sou o que vos fiz sair da terra do Egito e vos conduzi no deserto durante quarenta anos, a fim de que possuísseis a terra dos Amorreus."
+     "texto": "Eu sou o que vos fiz sair da terra do Egipto e vos conduzi no deserto durante quarenta anos, a fim de que possuísseis a terra dos Amorreus."
     },
     {
      "n": 11,
@@ -153,7 +153,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Ouvi a palavra que o Senhor pronunciou a respeito de vós, filhos de Israel - a respeito de todo o povo, diz o Senhor, que tirei da terra do Egito -:"
+     "texto": "Ouvi a palavra que o Senhor pronunciou a respeito de vós, filhos de Israel - a respeito de todo o povo, diz o Senhor, que tirei da terra do Egipto -:"
     },
     {
      "n": 2,
@@ -185,11 +185,11 @@
     },
     {
      "n": 9,
-     "texto": "Fazei ouvir isto nos palácios (dos Filisteus) de Azot e nos palácios da terra do Egito. Dizei: Juntai-vos sobre os montes de Samaria e vede quantas desordens há no meio dela, que violências se praticam no seu interior."
+     "texto": "Fazei ouvir isto nos palácios (dos Filisteus) de Azot e nos palácios da terra do Egipto. Dizei: Juntai-vos sobre os montes de Samaria e vede quantas desordens há no meio dela, que violências se praticam no seu interior."
     },
     {
      "n": 10,
-     "texto": "Não sabem agir retamente, diz o Senhor, eles que amontoam em suas casas tesouros de violências e de rapinas."
+     "texto": "Não sabem agir rectamente, diz o Senhor, eles que amontoam em suas casas tesouros de violências e de rapinas."
     },
     {
      "n": 11,
@@ -234,7 +234,7 @@
     },
     {
      "n": 5,
-     "texto": "Queimai com pão lêvedo, as vossas oferendas de ação de graças, proclamai e publicai oblações voluntárias, porque isto é o que amais, filhos de Israel, diz o Senhor Deus."
+     "texto": "Queimai com pão lêvedo, as vossas oferendas de acção de graças, proclamai e publicai oblações voluntárias, porque isto é o que amais, filhos de Israel, diz o Senhor Deus."
     },
     {
      "n": 6,
@@ -254,7 +254,7 @@
     },
     {
      "n": 10,
-     "texto": "Enviei a mortandade contra vós semelhante à (de outrora) do Egito, feri com a espada os vossos jovens e deixei tomar os vossos cavalos; fiz chegar ao vosso nariz o cheiro infeto dos cadáveres do vosso exército, mas (apesar disso) não voltastes para mim, diz o Senhor."
+     "texto": "Enviei a mortandade contra vós semelhante à (de outrora) do Egipto, feri com a espada os vossos jovens e deixei tomar os vossos cavalos; fiz chegar ao vosso nariz o cheiro infecto dos cadáveres do vosso exército, mas (apesar disso) não voltastes para mim, diz o Senhor."
     },
     {
      "n": 11,
@@ -554,7 +554,7 @@
     },
     {
      "n": 8,
-     "texto": "Depois disto, não estremecerá a terra (de Israel), e não chorará todo o seu habitante? Todo o solo crescerá como o Nilo, agitar-se-á e abaixar-se-á como o rio do Egito (ao chegar ao mar)."
+     "texto": "Depois disto, não estremecerá a terra (de Israel), e não chorará todo o seu habitante? Todo o solo crescerá como o Nilo, agitar-se-á e abaixar-se-á como o rio do Egipto (ao chegar ao mar)."
     },
     {
      "n": 9,
@@ -603,7 +603,7 @@
     },
     {
      "n": 5,
-     "texto": "(Assim falou) o Senhor Deus dos exércitos, (esse que) ao tocar a terra, ela se funde e todos os seus habitantes ficam de luto; todo o solo aumenta de volume, como o Nilo, e decresce como o rio do Egito (ao chegar ao mar)."
+     "texto": "(Assim falou) o Senhor Deus dos exércitos, (esse que) ao tocar a terra, ela se funde e todos os seus habitantes ficam de luto; todo o solo aumenta de volume, como o Nilo, e decresce como o rio do Egipto (ao chegar ao mar)."
     },
     {
      "n": 6,
@@ -611,7 +611,7 @@
     },
     {
      "n": 7,
-     "texto": "Porventura vós, ó filhos de Israel, diz o Senhor, não sois para comigo como os filhos dos Etíopes? Porventura não fiz sair Israel da terra do Egito, como os Filisteus de Caftor, e os Sírios de Quir?"
+     "texto": "Porventura vós, ó filhos de Israel, diz o Senhor, não sois para comigo como os filhos dos Etíopes? Porventura não fiz sair Israel da terra do Egipto, como os Filisteus de Caftor, e os Sírios de Quir?"
     },
     {
      "n": 8,

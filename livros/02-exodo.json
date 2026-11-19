@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -19,7 +19,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Estes são os nomes dos filhos de Israel que entraram no Egito com Jacob cada um deles entrou com sua família:"
+     "texto": "Estes são os nomes dos filhos de Israel que entraram no Egipto com Jacob cada um deles entrou com sua família:"
     },
     {
      "n": 2,
@@ -35,7 +35,7 @@
     },
     {
      "n": 5,
-     "texto": "Eram setenta todas as pessoas provindas de Jacob. José estava (já) no Egito."
+     "texto": "Eram setenta todas as pessoas provindas de Jacob. José estava (já) no Egipto."
     },
     {
      "n": 6,
@@ -47,7 +47,7 @@
     },
     {
      "n": 8,
-     "texto": "Entretanto levantou-se no Egito um novo rei, que não conhecia José,"
+     "texto": "Entretanto levantou-se no Egipto um novo rei, que não conhecia José,"
     },
     {
      "n": 9,
@@ -59,7 +59,7 @@
     },
     {
      "n": 11,
-     "texto": "Portanto estabeleceu sobre eles inspetores de obras, para os oprimirem com trabalhos penosos; assim edificaram a Faraó, para servirem de armazéns, as cidades de Fitom e Ramessés."
+     "texto": "Portanto estabeleceu sobre eles inspectores de obras, para os oprimirem com trabalhos penosos; assim edificaram a Faraó, para servirem de armazéns, as cidades de Fitom e Ramessés."
     },
     {
      "n": 12,
@@ -75,7 +75,7 @@
     },
     {
      "n": 15,
-     "texto": "O rei do Egito falou também às parteiras dos hebreus, uma das quais se chamava Séfoira, e a outra Fua,"
+     "texto": "O rei do Egipto falou também às parteiras dos hebreus, uma das quais se chamava Séfoira, e a outra Fua,"
     },
     {
      "n": 16,
@@ -83,7 +83,7 @@
     },
     {
      "n": 17,
-     "texto": "Contudo as parteiras temeram a Deus e não obedeceram à ordem do rei do Egito, mas conservavam os meninos."
+     "texto": "Contudo as parteiras temeram a Deus e não obedeceram à ordem do rei do Egipto, mas conservavam os meninos."
     },
     {
      "n": 18,
@@ -95,7 +95,7 @@
     },
     {
      "n": 20,
-     "texto": "Por isto, Deus fez bem às parteiras: e o povo cresceu, e se fortificou extraordinariamente."
+     "texto": "Por isto, Deus fez bem às parteiras: e o povo cresceu, e se fortificou extraordinàriamente."
     },
     {
      "n": 21,
@@ -148,7 +148,7 @@
     },
     {
      "n": 10,
-     "texto": "que o adotou por filho, e pôs-lhe o nome de Moisés, dizendo: eu o tirei da água."
+     "texto": "que o adoptou por filho, e pôs-lhe o nome de Moisés, dizendo: eu o tirei da água."
     },
     {
      "n": 11,
@@ -200,7 +200,7 @@
     },
     {
      "n": 23,
-     "texto": "Muito tempo depois, porém, morreu o rei do Egito. Os filhos de Israel, gemendo debaixo do peso dos trabalhos, clamaram, e o seu clamor, por causa dos trabalhos, subiu até Deus,"
+     "texto": "Muito tempo depois, porém, morreu o rei do Egipto. Os filhos de Israel, gemendo debaixo do peso dos trabalhos, clamaram, e o seu clamor, por causa dos trabalhos, subiu até Deus,"
     },
     {
      "n": 24,
@@ -241,7 +241,7 @@
     },
     {
      "n": 7,
-     "texto": "O Senhor disse-lhe: Eu vi a aflição do meu povo no Egito, ouvi o seu clamor causado pela crueza daqueles que têm a superintendência das obras."
+     "texto": "O Senhor disse-lhe: Eu vi a aflição do meu povo no Egipto, ouvi o seu clamor causado pela crueza daqueles que têm a superintendência das obras."
     },
     {
      "n": 8,
@@ -253,15 +253,15 @@
     },
     {
      "n": 10,
-     "texto": "Mas vem e eu te enviarei a Faraó, a fim de que tires do Egito o meu povo, os filhos de Israel."
+     "texto": "Mas vem e eu te enviarei a Faraó, a fim de que tires do Egipto o meu povo, os filhos de Israel."
     },
     {
      "n": 11,
-     "texto": "Moisés disse a Deus: Quem sou eu, para ir ter com Faraó e tirar os filhos de Israel do Egito?"
+     "texto": "Moisés disse a Deus: Quem sou eu, para ir ter com Faraó e tirar os filhos de Israel do Egipto?"
     },
     {
      "n": 12,
-     "texto": "Deus disse-lhe: Eu serei contigo; terás isto por sinal de que eu te mandarei: Quando tiveres tirado o meu povo do Egito, oferecerás sacrifícios a Deus sobre este monte."
+     "texto": "Deus disse-lhe: Eu serei contigo; terás isto por sinal de que eu te mandarei: Quando tiveres tirado o meu povo do Egipto, oferecerás sacrifícios a Deus sobre este monte."
     },
     {
      "n": 13,
@@ -277,7 +277,7 @@
     },
     {
      "n": 16,
-     "texto": "Vai, ajunta os anciães de Israel e dize-lhes: O Senhor Deus de vossos pais apareceu-me, o Deus de Abraão, o Deus de Isaac, o Deus de Jacob, e disse: Eu vos visitei atentamente e vi tudo o que vos tem sucedido no Egito."
+     "texto": "Vai, ajunta os anciães de Israel e dize-lhes: O Senhor Deus de vossos pais apareceu-me, o Deus de Abraão, o Deus de Isaac, o Deus de Jacob, e disse: Eu vos visitei atentamente e vi tudo o que vos tem sucedido no Egipto."
     },
     {
      "n": 17,
@@ -285,15 +285,15 @@
     },
     {
      "n": 18,
-     "texto": "Eles ouvirão a tua voz, e tu com os anciães de Israel irás ao rei do Egito e lhe dirás: O Senhor Deus dos Hebreus chamou-nos; nós faremos viagem de três dias no deserto para sacrificarmos ao Senhor nosso Deus."
+     "texto": "Eles ouvirão a tua voz, e tu com os anciães de Israel irás ao rei do Egipto e lhe dirás: O Senhor Deus dos Hebreus chamou-nos; nós faremos viagem de três dias no deserto para sacrificarmos ao Senhor nosso Deus."
     },
     {
      "n": 19,
-     "texto": "Bem sei que o rei do Egito não vos deixará ir, se não for (obrigado) por mão forte:"
+     "texto": "Bem sei que o rei do Egipto não vos deixará ir, se não for (obrigado) por mão forte:"
     },
     {
      "n": 20,
-     "texto": "mas, por isso, eu estenderei a minha mão e ferirei o Egito com toda a sorte de prodígios, que farei no meio deles. Depois disto vos deixará partir."
+     "texto": "mas, por isso, eu estenderei a minha mão e ferirei o Egipto com toda a sorte de prodígios, que farei no meio deles. Depois disto vos deixará partir."
     },
     {
      "n": 21,
@@ -301,7 +301,7 @@
     },
     {
      "n": 22,
-     "texto": "Cada mulher pedirá à sua vizinha e àquela que mora na sua casa, objetos de prata e de ouro, e vestidos: pô-los-eis sobre vossos filhos e filhas, e despojareis o Egito."
+     "texto": "Cada mulher pedirá à sua vizinha e àquela que mora na sua casa, objectos de prata e de ouro, e vestidos: pô-los-eis sobre vossos filhos e filhas, e despojareis o Egipto."
     }
    ]
   },
@@ -378,19 +378,19 @@
     },
     {
      "n": 18,
-     "texto": "Moisés partiu, voltou para Jetro, seu sogro, e disse-lhe; Peço-te que me deixes ir aos meus irmãos (que estão) no Egito, a ver se ainda são vivos. Jetro disse-lhe: Vai em paz."
+     "texto": "Moisés partiu, voltou para Jetro, seu sogro, e disse-lhe; Peço-te que me deixes ir aos meus irmãos (que estão) no Egipto, a ver se ainda são vivos. Jetro disse-lhe: Vai em paz."
     },
     {
      "n": 19,
-     "texto": "Ora o Senhor disse a Moisés, em Madian: Vai, e volta ao Egito, porque morreram todos aqueles que procuravam a tua vida."
+     "texto": "Ora o Senhor disse a Moisés, em Madian: Vai, e volta ao Egipto, porque morreram todos aqueles que procuravam a tua vida."
     },
     {
      "n": 20,
-     "texto": "Tomou, pois, Moisés sua mulher e os seus filhos, pô-los sobre um jumento e voltou para o Egito, levando na mão a vara de Deus."
+     "texto": "Tomou, pois, Moisés sua mulher e os seus filhos, pô-los sobre um jumento e voltou para o Egipto, levando na mão a vara de Deus."
     },
     {
      "n": 21,
-     "texto": "O Senhor disse-lhe enquanto voltava para o Egito: Cuida de fazer diante de Faraó todos os prodígios que eu pus na tua mão. Eu endurecerei o seu coração, e ele não deixará partir o povo."
+     "texto": "O Senhor disse-lhe enquanto voltava para o Egipto: Cuida de fazer diante de Faraó todos os prodígios que eu pus na tua mão. Eu endurecerei o seu coração, e ele não deixará partir o povo."
     },
     {
      "n": 22,
@@ -451,7 +451,7 @@
     },
     {
      "n": 4,
-     "texto": "O rei do Egito respondeu-lhes: Moisés e Aarão, por que distraís o povo dos seus trabalhos? Ide para as vossas tarefas."
+     "texto": "O rei do Egipto respondeu-lhes: Moisés e Aarão, por que distraís o povo dos seus trabalhos? Ide para as vossas tarefas."
     },
     {
      "n": 5,
@@ -459,7 +459,7 @@
     },
     {
      "n": 6,
-     "texto": "Naquele mesmo dia ordenou aos prefeitos das obras e aos exatores do povo:"
+     "texto": "Naquele mesmo dia ordenou aos prefeitos das obras e aos exactores do povo:"
     },
     {
      "n": 7,
@@ -475,7 +475,7 @@
     },
     {
      "n": 10,
-     "texto": "Saíram, pois, os prefeitos das obras e os exatores, e disseram ao povo: Assim diz Faraó: Não vos dou mais palha:"
+     "texto": "Saíram, pois, os prefeitos das obras e os exactores, e disseram ao povo: Assim diz Faraó: Não vos dou mais palha:"
     },
     {
      "n": 11,
@@ -483,7 +483,7 @@
     },
     {
      "n": 12,
-     "texto": "O povo, pois, espalhou-se por toda a terra do Egito a juntar palha."
+     "texto": "O povo, pois, espalhou-se por toda a terra do Egipto a juntar palha."
     },
     {
      "n": 13,
@@ -491,7 +491,7 @@
     },
     {
      "n": 14,
-     "texto": "Foram castigados os escribas dos filhos de Israel que os exatores tinham colocado à frente deles. Diziam-lhes: Por que não completastes vós nem ontem nem hoje a mesma quantidade de tijolos que (fazíeis) antes?"
+     "texto": "Foram castigados os escribas dos filhos de Israel que os exactores tinham colocado à frente deles. Diziam-lhes: Por que não completastes vós nem ontem nem hoje a mesma quantidade de tijolos que (fazíeis) antes?"
     },
     {
      "n": 15,
@@ -576,7 +576,7 @@
     },
     {
      "n": 11,
-     "texto": "Vai dizer a Faraó, rei do Egito, que deixe partir da sua terra os filhos de Israel."
+     "texto": "Vai dizer a Faraó, rei do Egipto, que deixe partir da sua terra os filhos de Israel."
     },
     {
      "n": 12,
@@ -584,7 +584,7 @@
     },
     {
      "n": 13,
-     "texto": "O Senhor falou a Moisés e a Aarão, e deu-lhes ordens para os filhos de Israel e para Faraó, rei dó Egito, a fim de tirarem os filhos de Israel da terra do Egito."
+     "texto": "O Senhor falou a Moisés e a Aarão, e deu-lhes ordens para os filhos de Israel e para Faraó, rei dó Egipto, a fim de tirarem os filhos de Israel da terra do Egipto."
     },
     {
      "n": 14,
@@ -636,19 +636,19 @@
     },
     {
      "n": 26,
-     "texto": "Estes são o Aarão e o Moisés a quem o Senhor ordenou que tirassem da terra do Egito os filhos de Israel segundo os seus grupos."
+     "texto": "Estes são o Aarão e o Moisés a quem o Senhor ordenou que tirassem da terra do Egipto os filhos de Israel segundo os seus grupos."
     },
     {
      "n": 27,
-     "texto": "Este Moisés e este Aarão são aqueles que falaram a Faraó, rei do Egito, para tirarem do Egito os filhos de Israel."
+     "texto": "Este Moisés e este Aarão são aqueles que falaram a Faraó, rei do Egipto, para tirarem do Egipto os filhos de Israel."
     },
     {
      "n": 28,
-     "texto": "No dia em que o Senhor falou a Moisés na terra do Egito,"
+     "texto": "No dia em que o Senhor falou a Moisés na terra do Egipto,"
     },
     {
      "n": 29,
-     "texto": "o Senhor disse a Moisés: Eu sou o Senhor; dize a Faraó, rei do Egito, tudo o que eu te digo."
+     "texto": "o Senhor disse a Moisés: Eu sou o Senhor; dize a Faraó, rei do Egipto, tudo o que eu te digo."
     },
     {
      "n": 30,
@@ -669,19 +669,19 @@
     },
     {
      "n": 3,
-     "texto": "Eu endurecerei o seu coração, e multiplicarei os meus sinais e os meus prodígios na terra do Egito."
+     "texto": "Eu endurecerei o seu coração, e multiplicarei os meus sinais e os meus prodígios na terra do Egipto."
     },
     {
      "n": 4,
-     "texto": "Faraó não vos ouvirá, mas eu estenderei a minha mão sobre o Egito e farei sair do Egito o meu exército, o meu povo, os filhos de Israel, por meio dos maiores juízos."
+     "texto": "Faraó não vos ouvirá, mas eu estenderei a minha mão sobre o Egipto e farei sair do Egipto o meu exército, o meu povo, os filhos de Israel, por meio dos maiores juízos."
     },
     {
      "n": 5,
-     "texto": "Os Egípcios saberão que eu sou o Senhor, quando eu estender a minha mão sobre o Egito, e fizer sair do meio deles os filhos de Israel."
+     "texto": "Os Egípcios saberão que eu sou o Senhor, quando eu estender a minha mão sobre o Egipto, e fizer sair do meio deles os filhos de Israel."
     },
     {
      "n": 6,
-     "texto": "Fizeram, pois, Moisés e Aarão como o Senhor tinha mandado; fizeram-no exatamente."
+     "texto": "Fizeram, pois, Moisés e Aarão como o Senhor tinha mandado; fizeram-no exactamente."
     },
     {
      "n": 7,
@@ -733,7 +733,7 @@
     },
     {
      "n": 19,
-     "texto": "O Senhor disse também a Moisés; Dize a Aarão: Toma a tua vara, e estende a tua mão sobre as águas do Egito, sobre os seus rios, ribeiros, lagoas, e todos os reservatórios de águas, para que se convertam em sangue; e haverá sangue em toda a terra do Egito, tanto nos vasos de madeira, como nos de pedra."
+     "texto": "O Senhor disse também a Moisés; Dize a Aarão: Toma a tua vara, e estende a tua mão sobre as águas do Egipto, sobre os seus rios, ribeiros, lagoas, e todos os reservatórios de águas, para que se convertam em sangue; e haverá sangue em toda a terra do Egipto, tanto nos vasos de madeira, como nos de pedra."
     },
     {
      "n": 20,
@@ -741,11 +741,11 @@
     },
     {
      "n": 21,
-     "texto": "Os peixes, que havia no rio, morreram, e o rio, corrompeu-se, e os Egípcios não podiam beber da água do rio, e houve sangue por toda a terra do Egito."
+     "texto": "Os peixes, que havia no rio, morreram, e o rio, corrompeu-se, e os Egípcios não podiam beber da água do rio, e houve sangue por toda a terra do Egipto."
     },
     {
      "n": 22,
-     "texto": "Porém os magos do Egito fizeram coisas semelhantes com os seus encantamentos, e o coração de Faraó endureceu-se, e não os ouviu, como o Senhor tinha predito."
+     "texto": "Porém os magos do Egipto fizeram coisas semelhantes com os seus encantamentos, e o coração de Faraó endureceu-se, e não os ouviu, como o Senhor tinha predito."
     },
     {
      "n": 23,
@@ -782,15 +782,15 @@
     },
     {
      "n": 5,
-     "texto": "O Senhor disse a Moisés: Dize a Aarão: Estende a tua mão sobre os rios, ribeiras e lagoas, e faze sair rãs sobre a terra do Egito."
+     "texto": "O Senhor disse a Moisés: Dize a Aarão: Estende a tua mão sobre os rios, ribeiras e lagoas, e faze sair rãs sobre a terra do Egipto."
     },
     {
      "n": 6,
-     "texto": "Aarão estendeu a sua mão sobre as águas do Egito, e as rãs sairam e cobriram a terra do Egito."
+     "texto": "Aarão estendeu a sua mão sobre as águas do Egipto, e as rãs sairam e cobriram a terra do Egipto."
     },
     {
      "n": 7,
-     "texto": "Os magos, porém, fizeram coisa semelhante, por meio dos seus encantamentos, e fizeram sair rãs sobre a terra do Egito."
+     "texto": "Os magos, porém, fizeram coisa semelhante, por meio dos seus encantamentos, e fizeram sair rãs sobre a terra do Egipto."
     },
     {
      "n": 8,
@@ -798,7 +798,7 @@
     },
     {
      "n": 9,
-     "texto": "Moisés disse a Faraó: Determina-me quando deverei rogar por ti, pelos teus servos e pelo teu povo, a fim de que as rãs sejam afastadas de ti, da tua casa, dos teus servos e do teu povo, e somente fiquem no rio."
+     "texto": "Moisés disse a Faraó: Determina-me quando deverei rogar por ti, pelos teus servos e pelo teu povo, a fim de que as rãs sejam afastadas de ti, da tua casa, dos teus servos e do teu povo, e sòmente fiquem no rio."
     },
     {
      "n": 10,
@@ -806,7 +806,7 @@
     },
     {
      "n": 11,
-     "texto": "As rãs afastar-se-ão de ti, da tua casa, dos teus servos e do teu povo, e somente ficarão no rio."
+     "texto": "As rãs afastar-se-ão de ti, da tua casa, dos teus servos e do teu povo, e sòmente ficarão no rio."
     },
     {
      "n": 12,
@@ -826,11 +826,11 @@
     },
     {
      "n": 16,
-     "texto": "O Senhor disse a Moisés: Dize a Aarão: Estende a tua vara, fere o pó da terra, e haja mosquitos em toda a terra do Egito."
+     "texto": "O Senhor disse a Moisés: Dize a Aarão: Estende a tua vara, fere o pó da terra, e haja mosquitos em toda a terra do Egipto."
     },
     {
      "n": 17,
-     "texto": "Eles fizeram assim. Aarão, pegando na vara, estendeu a mão, feriu o pó da terra, e os mosquitos caíram sobre os homens e sobre os animais; todo o pó da terra se converteu em mosquitos por toda a terra do Egito."
+     "texto": "Eles fizeram assim. Aarão, pegando na vara, estendeu a mão, feriu o pó da terra, e os mosquitos caíram sobre os homens e sobre os animais; todo o pó da terra se converteu em mosquitos por toda a terra do Egipto."
     },
     {
      "n": 18,
@@ -858,7 +858,7 @@
     },
     {
      "n": 24,
-     "texto": "E o Senhor assim fez. Vieram moscas molestíssimas sobre as casas de Faraó e dos seus servos, e sobre toda a terra do Egito; e a terra foi devastada por tais moscas."
+     "texto": "E o Senhor assim fez. Vieram moscas molestíssimas sobre as casas de Faraó e dos seus servos, e sobre toda a terra do Egipto; e a terra foi devastada por tais moscas."
     },
     {
      "n": 25,
@@ -931,7 +931,7 @@
     },
     {
      "n": 9,
-     "texto": "para que se converta num pó fino, sobre toda a terra do Egito, donde resultarão nos homens e nos animais úlceras e tumores, por toda essa terra."
+     "texto": "para que se converta num pó fino, sobre toda a terra do Egipto, donde resultarão nos homens e nos animais úlceras e tumores, por toda essa terra."
     },
     {
      "n": 10,
@@ -967,7 +967,7 @@
     },
     {
      "n": 18,
-     "texto": "Pois fica sabendo que amanhã, a esta mesma hora, farei chover granizo abundantíssimo, qual se não viu nunca no Egito, desde o dia em que foi fundado até ao presente."
+     "texto": "Pois fica sabendo que amanhã, a esta mesma hora, farei chover granizo abundantíssimo, qual se não viu nunca no Egipto, desde o dia em que foi fundado até ao presente."
     },
     {
      "n": 19,
@@ -983,19 +983,19 @@
     },
     {
      "n": 22,
-     "texto": "O Senhor disse a Moisés; Estende a tua mão para o céu, a fim de que chova granizo em toda a terra do Egito sobre os homens, sobre os animais e sobre toda a verdura do campo, na terra do Egito."
+     "texto": "O Senhor disse a Moisés; Estende a tua mão para o céu, a fim de que chova granizo em toda a terra do Egipto sobre os homens, sobre os animais e sobre toda a verdura do campo, na terra do Egipto."
     },
     {
      "n": 23,
-     "texto": "Moisés estendeu a vara para o céu, e o Senhor despediu trovões, granizo e raios, que se precipitavam sobre a terra. O Senhor fez cair granizo sobre a terra do Egito,"
+     "texto": "Moisés estendeu a vara para o céu, e o Senhor despediu trovões, granizo e raios, que se precipitavam sobre a terra. O Senhor fez cair granizo sobre a terra do Egipto,"
     },
     {
      "n": 24,
-     "texto": "e, misturado com ele, caiu fogo; o granizo foi de tal grandeza, que nunca antes se viu igual em toda a terra do Egito, desde que aquela nação foi fundada."
+     "texto": "e, misturado com ele, caiu fogo; o granizo foi de tal grandeza, que nunca antes se viu igual em toda a terra do Egipto, desde que aquela nação foi fundada."
     },
     {
      "n": 25,
-     "texto": "O granizo feriu em toda a terra do Egito tudo o que estava nos campos, desde os homens até aos animais, feriu toda a erva do campo e destroçou todas as árvores do país."
+     "texto": "O granizo feriu em toda a terra do Egipto tudo o que estava nos campos, desde os homens até aos animais, feriu toda a erva do campo e destroçou todas as árvores do país."
     },
     {
      "n": 26,
@@ -1035,7 +1035,7 @@
     },
     {
      "n": 35,
-     "texto": "o seu coração se obstinou e endureceu extraordinariamente, e não deixou partir os filhos de Israel, como o Senhor tinha mandado por meio de Moisés."
+     "texto": "o seu coração se obstinou e endureceu extraordinàriamente, e não deixou partir os filhos de Israel, como o Senhor tinha mandado por meio de Moisés."
     }
    ]
   },
@@ -1068,7 +1068,7 @@
     },
     {
      "n": 7,
-     "texto": "Mas os servos de Faraó disseram-lhe: Até quando sofreremos nós este escândalo? Deixa ir estes homens, a fim de que ofereçam sacrifícios ao Senhor seu Deus; não vês que o Egito está perdido?"
+     "texto": "Mas os servos de Faraó disseram-lhe: Até quando sofreremos nós este escândalo? Deixa ir estes homens, a fim de que ofereçam sacrifícios ao Senhor seu Deus; não vês que o Egipto está perdido?"
     },
     {
      "n": 8,
@@ -1084,23 +1084,23 @@
     },
     {
      "n": 11,
-     "texto": "Não, não; ide somente vós, os homens, e oferecei sacrifícios ao Senhor, porque isto é o que vós mesmos pedistes. E, imediatamente, foram expulsos da presença de Faraó."
+     "texto": "Não, não; ide sòmente vós, os homens, e oferecei sacrifícios ao Senhor, porque isto é o que vós mesmos pedistes. E, imediatamente, foram expulsos da presença de Faraó."
     },
     {
      "n": 12,
-     "texto": "O Senhor disse a Moisés: Estende a tua mão sobre a terra do Egito, para que venham sobre ela os gafanhotos, a fim de que subam pelo Egito e devorem toda a erva, tudo o que tenha ficado do granizo."
+     "texto": "O Senhor disse a Moisés: Estende a tua mão sobre a terra do Egipto, para que venham sobre ela os gafanhotos, a fim de que subam pelo Egipto e devorem toda a erva, tudo o que tenha ficado do granizo."
     },
     {
      "n": 13,
-     "texto": "Moisés estendeu a vara sobre a terra do Egito, e o Senhor mandou um vento abrasador durante todo aquele dia e noite. Quando foi manhã, o vento abrasador havia trazido os gafanhotos"
+     "texto": "Moisés estendeu a vara sobre a terra do Egipto, e o Senhor mandou um vento abrasador durante todo aquele dia e noite. Quando foi manhã, o vento abrasador havia trazido os gafanhotos"
     },
     {
      "n": 14,
-     "texto": "que avançaram sobre toda a terra do Egito, e pousaram em todo o território egípcio, em tão grande número, como nunca antes daquele tempo tinha havido, nem haverá."
+     "texto": "que avançaram sobre toda a terra do Egipto, e pousaram em todo o território egípcio, em tão grande número, como nunca antes daquele tempo tinha havido, nem haverá."
     },
     {
      "n": 15,
-     "texto": "Cobriram toda a superfície da terra, obscurecendo tudo. Foi devorada a erva da terra, tudo o que havia de frutos nas árvores, que o granizo tinha deixado; não ficou nada de verde nas árvores e nas ervas da terra em todo o Egito."
+     "texto": "Cobriram toda a superfície da terra, obscurecendo tudo. Foi devorada a erva da terra, tudo o que havia de frutos nas árvores, que o granizo tinha deixado; não ficou nada de verde nas árvores e nas ervas da terra em todo o Egipto."
     },
     {
      "n": 16,
@@ -1116,7 +1116,7 @@
     },
     {
      "n": 19,
-     "texto": "o qual fez soprar do poente um vento fortíssimo que arrebatou os gafanhotos e os lançou no mar Vermelho: não ficou um só em todos os limites do Egito."
+     "texto": "o qual fez soprar do poente um vento fortíssimo que arrebatou os gafanhotos e os lançou no mar Vermelho: não ficou um só em todos os limites do Egipto."
     },
     {
      "n": 20,
@@ -1124,11 +1124,11 @@
     },
     {
      "n": 21,
-     "texto": "O Senhor disse a Moisés: Estende a tua mão para o céu, e haja sobre a terra do Egito trevas tão espessas, que se possam apalpar."
+     "texto": "O Senhor disse a Moisés: Estende a tua mão para o céu, e haja sobre a terra do Egipto trevas tão espessas, que se possam apalpar."
     },
     {
      "n": 22,
-     "texto": "Moisés estendeu a sua mão para o céu, e houve trevas espessas em toda a terra do Egito durante três dias."
+     "texto": "Moisés estendeu a sua mão para o céu, e houve trevas espessas em toda a terra do Egipto durante três dias."
     },
     {
      "n": 23,
@@ -1136,7 +1136,7 @@
     },
     {
      "n": 24,
-     "texto": "Faraó chamou Moisés e Aarão, e disse-lhes: Ide, oferecei sacrifícios ao Senhor; fiquem somente as vossas ovelhas e o vosso gado, os vossos meninos podem ir convosco."
+     "texto": "Faraó chamou Moisés e Aarão, e disse-lhes: Ide, oferecei sacrifícios ao Senhor; fiquem sòmente as vossas ovelhas e o vosso gado, os vossos meninos podem ir convosco."
     },
     {
      "n": 25,
@@ -1165,27 +1165,27 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "O Senhor disse a Moisés: Flagelarei ainda com uma praga a Faraó e ao Egito, e, depois disso, vos deixará partir, e até vos constrangerá a sair."
+     "texto": "O Senhor disse a Moisés: Flagelarei ainda com uma praga a Faraó e ao Egipto, e, depois disso, vos deixará partir, e até vos constrangerá a sair."
     },
     {
      "n": 2,
-     "texto": "Dirás, pois, a todo o povo que cada homem peça ao seu amigo, e cada mulher à sua vizinha objetos de prata e ouro."
+     "texto": "Dirás, pois, a todo o povo que cada homem peça ao seu amigo, e cada mulher à sua vizinha objectos de prata e ouro."
     },
     {
      "n": 3,
-     "texto": "O Senhor fez que o seu povo achasse graça diante dos Egipcios. O próprio Moisés foi um homem muito grande na terra do Egito, aos olhos dos servos de Faraó e de todo o povo."
+     "texto": "O Senhor fez que o seu povo achasse graça diante dos Egipcios. O próprio Moisés foi um homem muito grande na terra do Egipto, aos olhos dos servos de Faraó e de todo o povo."
     },
     {
      "n": 4,
-     "texto": "Moisés disse: Estas coisas diz o Senhor: A meia-noite passarei pelo Egito,"
+     "texto": "Moisés disse: Estas coisas diz o Senhor: A meia-noite passarei pelo Egipto,"
     },
     {
      "n": 5,
-     "texto": "e todo o primogénito morrerá na terra do Egito, desde o primogénito de Faraó que se assenta sobre o seu trono, até ao primogénito da escrava, que está à mó, e até aos primogénitos dos animais."
+     "texto": "e todo o primogénito morrerá na terra do Egipto, desde o primogénito de Faraó que se assenta sobre o seu trono, até ao primogénito da escrava, que está à mó, e até aos primogénitos dos animais."
     },
     {
      "n": 6,
-     "texto": "Haverá em toda a terra do Egito um grande clamor qual nunca antes houve, nem haverá jamais."
+     "texto": "Haverá em toda a terra do Egipto um grande clamor qual nunca antes houve, nem haverá jamais."
     },
     {
      "n": 7,
@@ -1197,7 +1197,7 @@
     },
     {
      "n": 9,
-     "texto": "E Moisés saiu da presença de Faraó muito irado. O Senhor disse a Moisés: Faraó não vos ouvirá, para que se multipliquem os meus prodígios na terra do Egito."
+     "texto": "E Moisés saiu da presença de Faraó muito irado. O Senhor disse a Moisés: Faraó não vos ouvirá, para que se multipliquem os meus prodígios na terra do Egipto."
     },
     {
      "n": 10,
@@ -1210,7 +1210,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "O Senhor disse também a Moisés e a Aarão na terra do Egito:"
+     "texto": "O Senhor disse também a Moisés e a Aarão na terra do Egipto:"
     },
     {
      "n": 2,
@@ -1242,7 +1242,7 @@
     },
     {
      "n": 9,
-     "texto": "Não comereis dele nada cru, nem cozido em água, mas somente assado ao fogo, com a cabeça, os pés e as entranhas."
+     "texto": "Não comereis dele nada cru, nem cozido em água, mas sòmente assado ao fogo, com a cabeça, os pés e as entranhas."
     },
     {
      "n": 10,
@@ -1254,11 +1254,11 @@
     },
     {
      "n": 12,
-     "texto": "Nessa noite eu passarei pela terra do Egito, e ferirei (de morte) todo o primogénito na terra do Egito, desde os homens até aos animais, e exercerei a minha justiça contra todos os deuses do Egito, eu que sou o Senhor."
+     "texto": "Nessa noite eu passarei pela terra do Egipto, e ferirei (de morte) todo o primogénito na terra do Egipto, desde os homens até aos animais, e exercerei a minha justiça contra todos os deuses do Egipto, eu que sou o Senhor."
     },
     {
      "n": 13,
-     "texto": "O sangue, porém, será para vós um sinal (em vosso favor) nas casas em que morardes, pois eu verei o sangue e passarei adiante, e não haverá para vós a praga destruidora, quando eu ferir a terra do Egito."
+     "texto": "O sangue, porém, será para vós um sinal (em vosso favor) nas casas em que morardes, pois eu verei o sangue e passarei adiante, e não haverá para vós a praga destruidora, quando eu ferir a terra do Egipto."
     },
     {
      "n": 14,
@@ -1270,11 +1270,11 @@
     },
     {
      "n": 16,
-     "texto": "O primeiro dia será santo e solene, e o dia sétimo será festa igualmente venerável. Neles não fareis obra alguma servil, exceto aqueles que pertencem ao comer."
+     "texto": "O primeiro dia será santo e solene, e o dia sétimo será festa igualmente venerável. Neles não fareis obra alguma servil, excepto aqueles que pertencem ao comer."
     },
     {
      "n": 17,
-     "texto": "Observareis, pois, a festa dos ázimos, porque nesse mesmo dia farei sair o vosso exército da terra do Egito, e vós observareis este dia com culto perpétuo, de geração em geração."
+     "texto": "Observareis, pois, a festa dos ázimos, porque nesse mesmo dia farei sair o vosso exército da terra do Egipto, e vós observareis este dia com culto perpétuo, de geração em geração."
     },
     {
      "n": 18,
@@ -1302,7 +1302,7 @@
     },
     {
      "n": 24,
-     "texto": "Guarda este (preceito) como uma lei para ti e teus filhos perpetuamente."
+     "texto": "Guarda este (preceito) como uma lei para ti e teus filhos perpètuamente."
     },
     {
      "n": 25,
@@ -1314,7 +1314,7 @@
     },
     {
      "n": 27,
-     "texto": "respondereis: É o sacrifício da Páscoa do Senhor, quando ele passou adiante as casas dos filhos de Israel no Egito, ferindo os Egípcios e livrando as nossas casas. Então o povo, ao ouvir isto, prostrando-se adorou (o Senhor)."
+     "texto": "respondereis: É o sacrifício da Páscoa do Senhor, quando ele passou adiante as casas dos filhos de Israel no Egipto, ferindo os Egípcios e livrando as nossas casas. Então o povo, ao ouvir isto, prostrando-se adorou (o Senhor)."
     },
     {
      "n": 28,
@@ -1322,11 +1322,11 @@
     },
     {
      "n": 29,
-     "texto": "Aconteceu, pois, que, à meia-noite, o Senhor feriu todos os primogénitos na terra do Egito, desde o primogénito de Faraó, que se assentava sobre o seu trono, até ao primogénito do escravo, que estava no cárcere e a todo o primogénito dos animais."
+     "texto": "Aconteceu, pois, que, à meia-noite, o Senhor feriu todos os primogénitos na terra do Egipto, desde o primogénito de Faraó, que se assentava sobre o seu trono, até ao primogénito do escravo, que estava no cárcere e a todo o primogénito dos animais."
     },
     {
      "n": 30,
-     "texto": "Faraó levantou-se de noite, assim como todos os seus servos, todos os Egípcios, e houve um grande clamor no Egito, porque não havia casa onde não houvesse um morto."
+     "texto": "Faraó levantou-se de noite, assim como todos os seus servos, todos os Egípcios, e houve um grande clamor no Egipto, porque não havia casa onde não houvesse um morto."
     },
     {
      "n": 31,
@@ -1362,19 +1362,19 @@
     },
     {
      "n": 39,
-     "texto": "Cozeram a farinha, que tinham levado do Egito já amassada, e fizeram dela pães ázimos, cozidos no borralho, pois não puderam fazê-la levedar, visto que foram obrigados a partir muito apressadamente, sem haverem podido preparar nada de comer."
+     "texto": "Cozeram a farinha, que tinham levado do Egipto já amassada, e fizeram dela pães ázimos, cozidos no borralho, pois não puderam fazê-la levedar, visto que foram obrigados a partir muito apressadamente, sem haverem podido preparar nada de comer."
     },
     {
      "n": 40,
-     "texto": "A duração do tempo que os filhos de Israel moraram no Egito, foi de quatrocentos e trinta anos,"
+     "texto": "A duração do tempo que os filhos de Israel moraram no Egipto, foi de quatrocentos e trinta anos,"
     },
     {
      "n": 41,
-     "texto": "completos os quais, todo o exército do Senhor saiu no mesmo dia da terra do Egito."
+     "texto": "completos os quais, todo o exército do Senhor saiu no mesmo dia da terra do Egipto."
     },
     {
      "n": 42,
-     "texto": "Esta noite, em que os tirou da terra do Egito, deve ser consagrada ao Senhor; todos os filhos de Israel a devem celebrar nas suas gerações."
+     "texto": "Esta noite, em que os tirou da terra do Egipto, deve ser consagrada ao Senhor; todos os filhos de Israel a devem celebrar nas suas gerações."
     },
     {
      "n": 43,
@@ -1410,7 +1410,7 @@
     },
     {
      "n": 51,
-     "texto": "Naquele mesmo dia, o Senhor tirou da terra do Egito os filhos de Israel, repartidos nas suas turmas."
+     "texto": "Naquele mesmo dia, o Senhor tirou da terra do Egipto os filhos de Israel, repartidos nas suas turmas."
     }
    ]
   },
@@ -1427,7 +1427,7 @@
     },
     {
      "n": 3,
-     "texto": "Moisés disse ao povo: Lembrai-vos deste dia em que saístes do Egito e da casa da escravidão, porque foi o Senhor quem vos tirou desde lugar com mão forte. Não comereis pão fermentado."
+     "texto": "Moisés disse ao povo: Lembrai-vos deste dia em que saístes do Egipto e da casa da escravidão, porque foi o Senhor quem vos tirou desde lugar com mão forte. Não comereis pão fermentado."
     },
     {
      "n": 4,
@@ -1447,11 +1447,11 @@
     },
     {
      "n": 8,
-     "texto": "Então dirás a teu filho: Isto é em memória do que o Senhor fez por mim, quando saí do Egito."
+     "texto": "Então dirás a teu filho: Isto é em memória do que o Senhor fez por mim, quando saí do Egipto."
     },
     {
      "n": 9,
-     "texto": "Isto será como um sinal na tua mão, e como um memorial diante dos teus olhos, a fim de que a lei do Senhor ande sempre na tua boca, pois que o Senhor te tirou do Egito com mão forte."
+     "texto": "Isto será como um sinal na tua mão, e como um memorial diante dos teus olhos, a fim de que a lei do Senhor ande sempre na tua boca, pois que o Senhor te tirou do Egipto com mão forte."
     },
     {
      "n": 10,
@@ -1471,23 +1471,23 @@
     },
     {
      "n": 14,
-     "texto": "E, quando teu filho te interrogar um dia: Que é isto? responder-lhe-ás: O Senhor tirou-nos do Egito, da casa da escravidão, com mão forte."
+     "texto": "E, quando teu filho te interrogar um dia: Que é isto? responder-lhe-ás: O Senhor tirou-nos do Egipto, da casa da escravidão, com mão forte."
     },
     {
      "n": 15,
-     "texto": "Visto que Faraó, tendo-se obstinado, não quis deixar-nos partir, o Senhor matou todos os primogénitos na terra do Egito, desde o primogénito do homem até ao primogénito dos animais: por isso eu sacrifico ao Senhor todos os machos primogénitos (dos animais), e resgato todos os primogénitos de meus filhos."
+     "texto": "Visto que Faraó, tendo-se obstinado, não quis deixar-nos partir, o Senhor matou todos os primogénitos na terra do Egipto, desde o primogénito do homem até ao primogénito dos animais: por isso eu sacrifico ao Senhor todos os machos primogénitos (dos animais), e resgato todos os primogénitos de meus filhos."
     },
     {
      "n": 16,
-     "texto": "Isto, pois, será como um sinal na tua mão, e como uma coisa pendente ante os teus olhos para lembrança, porque o Senhor nos tirou do Egito com mão forte."
+     "texto": "Isto, pois, será como um sinal na tua mão, e como uma coisa pendente ante os teus olhos para lembrança, porque o Senhor nos tirou do Egipto com mão forte."
     },
     {
      "n": 17,
-     "texto": "Ora, quando Faraó deixou partir o povo, Deus não os conduziu pelo caminho do país dos Filisteus, que é (mais) vizinho, julgando que o povo talvez se arrependesse, se visse levantarem-se guerras contra ele, e retrocedesse para o Egito."
+     "texto": "Ora, quando Faraó deixou partir o povo, Deus não os conduziu pelo caminho do país dos Filisteus, que é (mais) vizinho, julgando que o povo talvez se arrependesse, se visse levantarem-se guerras contra ele, e retrocedesse para o Egipto."
     },
     {
      "n": 18,
-     "texto": "Fê-los dar uma volta pelo caminho do deserto, até junto do Mar Vermelho. Os filhos de Israel saíram em boa ordem do Egito."
+     "texto": "Fê-los dar uma volta pelo caminho do deserto, até junto do Mar Vermelho. Os filhos de Israel saíram em boa ordem do Egipto."
     },
     {
      "n": 19,
@@ -1540,7 +1540,7 @@
     },
     {
      "n": 8,
-     "texto": "O Senhor endureceu o coração de Faraó, rei do Egito, que foi no alcance dos filhos de Israel. Mas eles tinham saído debaixo da proteção duma poderosa mão."
+     "texto": "O Senhor endureceu o coração de Faraó, rei do Egipto, que foi no alcance dos filhos de Israel. Mas eles tinham saído debaixo da protecção duma poderosa mão."
     },
     {
      "n": 9,
@@ -1552,11 +1552,11 @@
     },
     {
      "n": 11,
-     "texto": "Disseram a Moisés: Não havia talvez sepulturas no Egito, e por isso nos tiraste de lá para morrermos no deserto. Que fizeste, tirando-nos do Egito?"
+     "texto": "Disseram a Moisés: Não havia talvez sepulturas no Egipto, e por isso nos tiraste de lá para morrermos no deserto. Que fizeste, tirando-nos do Egipto?"
     },
     {
      "n": 12,
-     "texto": "Não é isto que te dizíamos no Egito: Retira-te de nós, a fim de que sirvamos os Egípcios, porque é muito melhor servi-los do que morrer no deserto?"
+     "texto": "Não é isto que te dizíamos no Egipto: Retira-te de nós, a fim de que sirvamos os Egípcios, porque é muito melhor servi-los do que morrer no deserto?"
     },
     {
      "n": 13,
@@ -1681,7 +1681,7 @@
     },
     {
      "n": 11,
-     "texto": "Quem, de entre os outros deuses, é igual a ti Senhor? Quem igual a ti, augusto em santidade, terrível em atos gloriosos, realizador de maravilhas?"
+     "texto": "Quem, de entre os outros deuses, é igual a ti Senhor? Quem igual a ti, augusto em santidade, terrível em actos gloriosos, realizador de maravilhas?"
     },
     {
      "n": 12,
@@ -1741,7 +1741,7 @@
     },
     {
      "n": 26,
-     "texto": "Disse: Se obedeceres à voz do Senhor teu Deus, fizeres o que é reto diante dele, obedeceres aos seus mandamentos, guardares todos os seus preceitos, eu não mandarei sobre ti nenhuma das enfermidades que mandei contra o Egito, porque eu sou o Senhor que te sara."
+     "texto": "Disse: Se obedeceres à voz do Senhor teu Deus, fizeres o que é recto diante dele, obedeceres aos seus mandamentos, guardares todos os seus preceitos, eu não mandarei sobre ti nenhuma das enfermidades que mandei contra o Egipto, porque eu sou o Senhor que te sara."
     },
     {
      "n": 27,
@@ -1754,7 +1754,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Partiram de Elim, e toda a multidão dos filhos de Israel foi para o deserto de Sin, o qual está entre Elim e o Sinai, no décimo quinto dia do segundo mês. depois que tinham saído da terra do Egito."
+     "texto": "Partiram de Elim, e toda a multidão dos filhos de Israel foi para o deserto de Sin, o qual está entre Elim e o Sinai, no décimo quinto dia do segundo mês. depois que tinham saído da terra do Egipto."
     },
     {
      "n": 2,
@@ -1762,7 +1762,7 @@
     },
     {
      "n": 3,
-     "texto": "Os filhos de Israel disseram-lhes: Antes fôssemos mortos na terra do Egito pela mão do Senhor, quando estávamos sentados junto às panelas das carnes, e comíamos pão com fartura. Por que nos trouxestes a este deserto, para matar à fome toda esta multidão?"
+     "texto": "Os filhos de Israel disseram-lhes: Antes fôssemos mortos na terra do Egipto pela mão do Senhor, quando estávamos sentados junto às panelas das carnes, e comíamos pão com fartura. Por que nos trouxestes a este deserto, para matar à fome toda esta multidão?"
     },
     {
      "n": 4,
@@ -1774,7 +1774,7 @@
     },
     {
      "n": 6,
-     "texto": "Moisés e Aarão disseram a todos os filhos de Israel: Esta tarde reconhecereis que o Senhor é quem vos tirou da terra do Egito;"
+     "texto": "Moisés e Aarão disseram a todos os filhos de Israel: Esta tarde reconhecereis que o Senhor é quem vos tirou da terra do Egipto;"
     },
     {
      "n": 7,
@@ -1878,7 +1878,7 @@
     },
     {
      "n": 32,
-     "texto": "Moisés disse: Eis o que ordenou o Senhor: Enche um gomor dele, e guarde-se para as gerações futuras, a fim de que saibam com que pão vos sustentei no deserto, quando fostes tiradas da terra do Egito."
+     "texto": "Moisés disse: Eis o que ordenou o Senhor: Enche um gomor dele, e guarde-se para as gerações futuras, a fim de que saibam com que pão vos sustentei no deserto, quando fostes tiradas da terra do Egipto."
     },
     {
      "n": 33,
@@ -1911,7 +1911,7 @@
     },
     {
      "n": 3,
-     "texto": "Todavia ai mesmo, por causa da falta de água, o povo sequioso murmurou contra Moisés, dizendo: Por que nos fizeste sair do Egito, para nos fazer morrer à sede a nós e aos nossos filhos e aos nossos animais?"
+     "texto": "Todavia ai mesmo, por causa da falta de água, o povo sequioso murmurou contra Moisés, dizendo: Por que nos fizeste sair do Egipto, para nos fazer morrer à sede a nós e aos nossos filhos e aos nossos animais?"
     },
     {
      "n": 4,
@@ -1972,7 +1972,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Ora, tendo ouvido Jetro, sacerdote de Madian, sogro de Moisés, tudo o que Deus tinha feito a Moisés e a Israel, seu povo, tirando-o do Egito,"
+     "texto": "Ora, tendo ouvido Jetro, sacerdote de Madian, sogro de Moisés, tudo o que Deus tinha feito a Moisés e a Israel, seu povo, tirando-o do Egipto,"
     },
     {
      "n": 2,
@@ -2056,7 +2056,7 @@
     },
     {
      "n": 22,
-     "texto": "os quais julguem o povo em todo o tempo, te deem conta das coisas mais graves, e eles julguem somente as coisas menos graves. Desta sorte o peso que te oprime será mais leve, sendo repartido com outros."
+     "texto": "os quais julguem o povo em todo o tempo, te dêem conta das coisas mais graves, e eles julguem sòmente as coisas menos graves. Desta sorte o peso que te oprime será mais leve, sendo repartido com outros."
     },
     {
      "n": 23,
@@ -2072,7 +2072,7 @@
     },
     {
      "n": 26,
-     "texto": "Eles faziam justiça ao povo em todo o tempo, e davam conta a Moisés de todas as coisas mais graves, julgando eles somente as mais fáceis."
+     "texto": "Eles faziam justiça ao povo em todo o tempo, e davam conta a Moisés de todas as coisas mais graves, julgando eles sòmente as mais fáceis."
     },
     {
      "n": 27,
@@ -2085,7 +2085,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "No primeiro dia do terceiro mês, depois da saída dos Israelitas da terra do Egito, chegaram ao deserto de Sinai."
+     "texto": "No primeiro dia do terceiro mês, depois da saída dos Israelitas da terra do Egipto, chegaram ao deserto de Sinai."
     },
     {
      "n": 2,
@@ -2194,7 +2194,7 @@
     },
     {
      "n": 2,
-     "texto": "Eu sou o Senhor teu Deus, que te tirei da terra do Egito, da casa da servidão."
+     "texto": "Eu sou o Senhor teu Deus, que te tirei da terra do Egipto, da casa da servidão."
     },
     {
      "n": 3,
@@ -2472,7 +2472,7 @@
     },
     {
      "n": 7,
-     "texto": "Se alguém confiar a um amigo dinheiro ou qualquer objeto para guardar, e se for roubado aquele que os recebeu, o ladrão, quando encontrado, pagará o dobro."
+     "texto": "Se alguém confiar a um amigo dinheiro ou qualquer objecto para guardar, e se for roubado aquele que os recebeu, o ladrão, quando encontrado, pagará o dobro."
     },
     {
      "n": 8,
@@ -2528,7 +2528,7 @@
     },
     {
      "n": 21,
-     "texto": "Não molestarás nem afligirás o estrangeiro, por que também vós fostes estrangeiros na terra do Egito."
+     "texto": "Não molestarás nem afligirás o estrangeiro, por que também vós fostes estrangeiros na terra do Egipto."
     },
     {
      "n": 22,
@@ -2544,7 +2544,7 @@
     },
     {
      "n": 25,
-     "texto": "Se emprestares dinheiro ao meu povo pobre, que habita contigo, não o apertarás como um exator, nem o oprimirás com usuras."
+     "texto": "Se emprestares dinheiro ao meu povo pobre, que habita contigo, não o apertarás como um exactor, nem o oprimirás com usuras."
     },
     {
      "n": 26,
@@ -2609,7 +2609,7 @@
     },
     {
      "n": 9,
-     "texto": "Não serás molesto ao estrangeiro, porque vós sabeis o que é ser estrangeiro, pois que também fostes estrangeiros na terra do Egito."
+     "texto": "Não serás molesto ao estrangeiro, porque vós sabeis o que é ser estrangeiro, pois que também fostes estrangeiros na terra do Egipto."
     },
     {
      "n": 10,
@@ -2633,7 +2633,7 @@
     },
     {
      "n": 15,
-     "texto": "Observarás a solenidade dos ázimos. Comerás, como eu te mandei, pães ázimos durante sete dias, no mês dos trigos novos, (que foi) quando saíste do Egito; não aparecerás em minha presença com as mãos vazias."
+     "texto": "Observarás a solenidade dos ázimos. Comerás, como eu te mandei, pães ázimos durante sete dias, no mês dos trigos novos, (que foi) quando saíste do Egipto; não aparecerás em minha presença com as mãos vazias."
     },
     {
      "n": 16,
@@ -2778,7 +2778,7 @@
     },
     {
      "n": 17,
-     "texto": "O aspeto da glória do Senhor era como o de um fogo ardente sobre o, cimo do monte, à vista dos filhos de Israel."
+     "texto": "O aspecto da glória do Senhor era como o de um fogo ardente sobre o, cimo do monte, à vista dos filhos de Israel."
     },
     {
      "n": 18,
@@ -2795,7 +2795,7 @@
     },
     {
      "n": 2,
-     "texto": "Dize aos filhos de Israel que me tragam as primícias; vós as recebereis de todo o homem, que voluntariamente as oferecer,"
+     "texto": "Dize aos filhos de Israel que me tragam as primícias; vós as recebereis de todo o homem, que voluntàriamente as oferecer,"
     },
     {
      "n": 3,
@@ -2935,7 +2935,7 @@
     },
     {
      "n": 37,
-     "texto": "Farás, além disso, sete lâmpadas, e pô-las-ás sobre o candeeiro, a fim de que deem luz para a frente."
+     "texto": "Farás, além disso, sete lâmpadas, e pô-las-ás sobre o candeeiro, a fim de que dêem luz para a frente."
     },
     {
      "n": 38,
@@ -3322,7 +3322,7 @@
     },
     {
      "n": 32,
-     "texto": "no meio da qual no alto haverá uma abertura para a cabeça, e em volta uma orla tecida, como se costuma fazer na ourela dos vestidos, para que (a túnica) se não rompa facilmente."
+     "texto": "no meio da qual no alto haverá uma abertura para a cabeça, e em volta uma orla tecida, como se costuma fazer na ourela dos vestidos, para que (a túnica) se não rompa fàcilmente."
     },
     {
      "n": 33,
@@ -3523,7 +3523,7 @@
     },
     {
      "n": 38,
-     "texto": "Eis o que sacrificarás sobre o altar: Dois cordeiros de um ano todos os dias, perpetuamente,"
+     "texto": "Eis o que sacrificarás sobre o altar: Dois cordeiros de um ano todos os dias, perpètuamente,"
     },
     {
      "n": 39,
@@ -3555,7 +3555,7 @@
     },
     {
      "n": 46,
-     "texto": "e saberão que eu sou o Senhor seu Deus que os tirei da terra do Egito para habitar entre eles, eu o Senhor seu Deus."
+     "texto": "e saberão que eu sou o Senhor seu Deus que os tirei da terra do Egipto para habitar entre eles, eu o Senhor seu Deus."
     }
    ]
   },
@@ -3798,7 +3798,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Mas o povo, vendo que Moisés tardava em descer do monte, juntou-se contra Aarão, e disse: Levanta-te, faze-nos um deus que vá diante de nós, porque não sabemos o que aconteceu a Moisés, esse homem que nos tirou da terra do Egito."
+     "texto": "Mas o povo, vendo que Moisés tardava em descer do monte, juntou-se contra Aarão, e disse: Levanta-te, faze-nos um deus que vá diante de nós, porque não sabemos o que aconteceu a Moisés, esse homem que nos tirou da terra do Egipto."
     },
     {
      "n": 2,
@@ -3810,7 +3810,7 @@
     },
     {
      "n": 4,
-     "texto": "Ele, tendo-as tomado, mandou-as fundir, e formou delas um bezerro fundido. Eles disseram: Este, ó Israel, é o teu deus que te tirou da terra do Egito."
+     "texto": "Ele, tendo-as tomado, mandou-as fundir, e formou delas um bezerro fundido. Eles disseram: Este, ó Israel, é o teu deus que te tirou da terra do Egipto."
     },
     {
      "n": 5,
@@ -3822,11 +3822,11 @@
     },
     {
      "n": 7,
-     "texto": "O Senhor falou a Moisés, dizendo; Vai, desce, pois o teu povo, que tiraste da terra do Egito, pecou."
+     "texto": "O Senhor falou a Moisés, dizendo; Vai, desce, pois o teu povo, que tiraste da terra do Egipto, pecou."
     },
     {
      "n": 8,
-     "texto": "Depressa se apartaram do caminho que lhes mostraste: fizeram para si um bezerro fundido, adoraram-no e, imolando-lhe hóstias, disseram: Este, ó Israel, é o teu deus que te tirou da terra do Egito."
+     "texto": "Depressa se apartaram do caminho que lhes mostraste: fizeram para si um bezerro fundido, adoraram-no e, imolando-lhe hóstias, disseram: Este, ó Israel, é o teu deus que te tirou da terra do Egipto."
     },
     {
      "n": 9,
@@ -3838,11 +3838,11 @@
     },
     {
      "n": 11,
-     "texto": "Moisés, porém, suplicava ao Senhor seu Deus, dizendo: Senhor, porque se acende o teu furor contra o teu povo, que tiraste da terra do Egito com uma grande fortaleza e com uma poderosa mão?"
+     "texto": "Moisés, porém, suplicava ao Senhor seu Deus, dizendo: Senhor, porque se acende o teu furor contra o teu povo, que tiraste da terra do Egipto com uma grande fortaleza e com uma poderosa mão?"
     },
     {
      "n": 12,
-     "texto": "Não permitas, te rogo, que os Egípcios digam: Ele tirou-os (do Egito) astutamente para os matar nos montes e exterminar da terra; aplaque-se a tua ira, e perdoa a iniquidade do teu povo."
+     "texto": "Não permitas, te rogo, que os Egípcios digam: Ele tirou-os (do Egipto) astutamente para os matar nos montes e exterminar da terra; aplaque-se a tua ira, e perdoa a iniquidade do teu povo."
     },
     {
      "n": 13,
@@ -3886,7 +3886,7 @@
     },
     {
      "n": 23,
-     "texto": "Eles disseram-me: Faze-nos um deus que vá diante de nós, porque não sabemos o que aconteceu àquele que nos tirou da terra do Egito."
+     "texto": "Eles disseram-me: Faze-nos um deus que vá diante de nós, porque não sabemos o que aconteceu àquele que nos tirou da terra do Egipto."
     },
     {
      "n": 24,
@@ -3943,7 +3943,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "O Senhor falou a Moisés, dizendo: Vai, sai deste lugar tu e o teu povo, que tiraste da terra do Egito, para a terra que jurei (dar)_ a Abraão, a Isaac e a Jacob, dizendo: Eu a darei à tua posteridade."
+     "texto": "O Senhor falou a Moisés, dizendo: Vai, sai deste lugar tu e o teu povo, que tiraste da terra do Egipto, para a terra que jurei (dar)_ a Abraão, a Isaac e a Jacob, dizendo: Eu a darei à tua posteridade."
     },
     {
      "n": 2,
@@ -4108,7 +4108,7 @@
     },
     {
      "n": 18,
-     "texto": "Observarás a solenidade dos ázimos. Durante sete dias comerás ázimos, como te mandei, no mês dos trigos novos, porque no mês da Primavera é que tu saíste do Egito."
+     "texto": "Observarás a solenidade dos ázimos. Durante sete dias comerás ázimos, como te mandei, no mês dos trigos novos, porque no mês da Primavera é que tu saíste do Egipto."
     },
     {
      "n": 19,
@@ -4201,7 +4201,7 @@
     },
     {
      "n": 5,
-     "texto": "Ponde à parte junto de vós primícias para o Senhor. Cada um, voluntária e espontaneamente, ofereça ao Senhor ouro, prata e cobre,"
+     "texto": "Ponde à parte junto de vós primícias para o Senhor. Cada um, voluntária e espontâneamente, ofereça ao Senhor ouro, prata e cobre,"
     },
     {
      "n": 6,
@@ -4265,7 +4265,7 @@
     },
     {
      "n": 21,
-     "texto": "ofereceram ao Senhor com uma vontade pronta e cheia de afeto as primícias para fazer a obra do tabernáculo da reunião e para tudo aquilo que era necessário para o culto e vestes sagradas."
+     "texto": "ofereceram ao Senhor com uma vontade pronta e cheia de afecto as primícias para fazer a obra do tabernáculo da reunião e para tudo aquilo que era necessário para o culto e vestes sagradas."
     },
     {
      "n": 22,
@@ -4334,7 +4334,7 @@
     },
     {
      "n": 2,
-     "texto": "Moisés tendo-os chamado, e igualmente todos os homens hábeis, a quem o Senhor tinha dado habilidade, e que espontaneamente se tinham oferecido para trabalhar nestas obras,"
+     "texto": "Moisés tendo-os chamado, e igualmente todos os homens hábeis, a quem o Senhor tinha dado habilidade, e que espontâneamente se tinham oferecido para trabalhar nestas obras,"
     },
     {
      "n": 3,
@@ -4382,7 +4382,7 @@
     },
     {
      "n": 14,
-     "texto": "Fez também onze cobertas de pelos de cabra para cobrir o teto do tabernáculo."
+     "texto": "Fez também onze cobertas de pelos de cabra para cobrir o tecto do tabernáculo."
     },
     {
      "n": 15,
@@ -4688,7 +4688,7 @@
     },
     {
      "n": 21,
-     "texto": "Estas são as partes em redor do tabernáculo do testemunho que foram enumeradas segundo a ordem de Moisés por trabalho dos Levitas sob a direção de Itamar, filho do Sacerdote Aarão,"
+     "texto": "Estas são as partes em redor do tabernáculo do testemunho que foram enumeradas segundo a ordem de Moisés por trabalho dos Levitas sob a direcção de Itamar, filho do Sacerdote Aarão,"
     },
     {
      "n": 22,
@@ -4978,7 +4978,7 @@
     },
     {
      "n": 17,
-     "texto": "e estendeu o teto sobre o tabernáculo, pondo por cima dele a coberta, como o Senhor tinha mandado."
+     "texto": "e estendeu o tecto sobre o tabernáculo, pondo por cima dele a coberta, como o Senhor tinha mandado."
     },
     {
      "n": 18,

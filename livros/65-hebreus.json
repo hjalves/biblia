@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -47,7 +47,7 @@
     },
     {
      "n": 8,
-     "texto": "Mas ao Filho diz: O teu trono ó Deus, subsistirá pelos séculos dos séculos; é um cetro de equidade o cetro do teu reino."
+     "texto": "Mas ao Filho diz: O teu trono ó Deus, subsistirá pelos séculos dos séculos; é um ceptro de equidade o ceptro do teu reino."
     },
     {
      "n": 9,
@@ -88,7 +88,7 @@
     },
     {
      "n": 3,
-     "texto": "como escaparemos nós (ao castigo de Deus), se desprezarmos tão grande salvação, a qual, tendo começado a ser anunciada pelo Senhor, foi depois confirmada entre nós pelos que a ouviram (diretamente dele),"
+     "texto": "como escaparemos nós (ao castigo de Deus), se desprezarmos tão grande salvação, a qual, tendo começado a ser anunciada pelo Senhor, foi depois confirmada entre nós pelos que a ouviram (directamente dele),"
     },
     {
      "n": 4,
@@ -169,7 +169,7 @@
     },
     {
      "n": 4,
-     "texto": "Efetivamente toda a casa é edificada por alguém; mas o que construiu todas as coisas, é Deus."
+     "texto": "Efectivamente toda a casa é edificada por alguém; mas o que construiu todas as coisas, é Deus."
     },
     {
      "n": 5,
@@ -209,7 +209,7 @@
     },
     {
      "n": 14,
-     "texto": "Em realidade, (é verdade que) nós somos participantes de Cristo, mas contanto que conservemos inviolavelmente até ao fim a nossa firmeza dos primeiros dias,"
+     "texto": "Em realidade, (é verdade que) nós somos participantes de Cristo, mas contanto que conservemos inviolàvelmente até ao fim a nossa firmeza dos primeiros dias,"
     },
     {
      "n": 15,
@@ -217,7 +217,7 @@
     },
     {
      "n": 16,
-     "texto": "Quais foram os que, depois de terem ouvido a sua voz, se revoltaram? Não foram todos aqueles, que tinham saído do Egito, sob a direção de Moisés?"
+     "texto": "Quais foram os que, depois de terem ouvido a sua voz, se revoltaram? Não foram todos aqueles, que tinham saído do Egipto, sob a direcção de Moisés?"
     },
     {
      "n": 17,
@@ -294,7 +294,7 @@
     },
     {
      "n": 15,
-     "texto": "Não temos um pontífice que não possa compadecer-se das nossas enfermidades, mas que foi tentado em tudo á nossa semelhança, exceto no pecado."
+     "texto": "Não temos um pontífice que não possa compadecer-se das nossas enfermidades, mas que foi tentado em tudo á nossa semelhança, excepto no pecado."
     },
     {
      "n": 16,
@@ -372,7 +372,7 @@
     },
     {
      "n": 2,
-     "texto": "da doutrina sobre os batismos e da imposição das mãos, da ressurreição dos mortos e do juízo eterno."
+     "texto": "da doutrina sobre os baptismos e da imposição das mãos, da ressurreição dos mortos e do juízo eterno."
     },
     {
      "n": 3,
@@ -549,7 +549,7 @@
     },
     {
      "n": 25,
-     "texto": "Por isso pode salvar perpetuamente os que por ele mesmo se aproximam de Deus, vivendo sempre para interceder em seu favor."
+     "texto": "Por isso pode salvar perpètuamente os que por ele mesmo se aproximam de Deus, vivendo sempre para interceder em seu favor."
     },
     {
      "n": 26,
@@ -602,7 +602,7 @@
     },
     {
      "n": 9,
-     "texto": "diferente da aliança que fiz com os seus pais, no dia em que lhes peguei pela mão para os tirar da terra do Egito; porém, visto que eles não perseveraram na minha aliança, também me desinteressei deles, diz o Senhor."
+     "texto": "diferente da aliança que fiz com os seus pais, no dia em que lhes peguei pela mão para os tirar da terra do Egipto; porém, visto que eles não perseveraram na minha aliança, também me desinteressei deles, diz o Senhor."
     },
     {
      "n": 10,
@@ -663,7 +663,7 @@
     },
     {
      "n": 10,
-     "texto": "Tudo isto apenas se refere a alimentos e bebidas, a diversas abluções e determinações carnais, impostas somente até ao tempo da reforma."
+     "texto": "Tudo isto apenas se refere a alimentos e bebidas, a diversas abluções e determinações carnais, impostas sòmente até ao tempo da reforma."
     },
     {
      "n": 11,
@@ -699,7 +699,7 @@
     },
     {
      "n": 19,
-     "texto": "Efetivamente Moisés, tendo lido a todo o povo todos os preceitos da lei, tomou o sangue dos bezerros e dos bodes, com água, com lã tinta de escarlate e com hissopo aspergiu o mesmo livro (que continha a lei) assim como todo o povo,"
+     "texto": "Efectivamente Moisés, tendo lido a todo o povo todos os preceitos da lei, tomou o sangue dos bezerros e dos bodes, com água, com lã tinta de escarlate e com hissopo aspergiu o mesmo livro (que continha a lei) assim como todo o povo,"
     },
     {
      "n": 20,
@@ -744,7 +744,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Efetivamente a lei, tendo apenas a sombra dos bens futuros, não a própria realidade, nunca pode, com aquelas mesmas vítimas que se oferecem incessantemente, cada ano, tornar perfeitos os que se aproximam de Deus."
+     "texto": "Efectivamente a lei, tendo apenas a sombra dos bens futuros, não a própria realidade, nunca pode, com aquelas mesmas vítimas que se oferecem incessantemente, cada ano, tornar perfeitos os que se aproximam de Deus."
     },
     {
      "n": 2,
@@ -828,7 +828,7 @@
     },
     {
      "n": 22,
-     "texto": "aproximemo-nos (de Deus) com um coração sincero, com plenitude de fé, purificados os corações de todo o mal de que tivermos consciência, e lavado o corpo com uma água limpa (do batismo)."
+     "texto": "aproximemo-nos (de Deus) com um coração sincero, com plenitude de fé, purificados os corações de todo o mal de que tivermos consciência, e lavado o corpo com uma água limpa (do baptismo)."
     },
     {
      "n": 23,
@@ -844,7 +844,7 @@
     },
     {
      "n": 26,
-     "texto": "Se pecamos voluntariamente depois de termos recebido o conhecimento da verdade, não resta mais sacrifício pelos pecados,"
+     "texto": "Se pecamos voluntàriamente depois de termos recebido o conhecimento da verdade, não resta mais sacrifício pelos pecados,"
     },
     {
      "n": 27,
@@ -905,7 +905,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Ora a fé é o fundamento das coisas que se esperam, e o argumento das que não se veem."
+     "texto": "Ora a fé é o fundamento das coisas que se esperam, e o argumento das que não se vêem."
     },
     {
      "n": 2,
@@ -941,7 +941,7 @@
     },
     {
      "n": 10,
-     "texto": "porque esperava ( o céu, que é) aquela cidade de sólidos fundamentos, cujo arquiteto e construtor é Deus."
+     "texto": "porque esperava ( o céu, que é) aquela cidade de sólidos fundamentos, cujo arquitecto e construtor é Deus."
     },
     {
      "n": 11,
@@ -985,11 +985,11 @@
     },
     {
      "n": 21,
-     "texto": "Pela fé, Jacob, estando para morrer, abençoou cada um dos filhos de José e prostrou-se ante a extremidade do cetro dele."
+     "texto": "Pela fé, Jacob, estando para morrer, abençoou cada um dos filhos de José e prostrou-se ante a extremidade do ceptro dele."
     },
     {
      "n": 22,
-     "texto": "Pela fé, José, quando estava para morrer, anunciou a saída dos filhos de Israel (do Egito) e fez disposições sobre os seus ossos."
+     "texto": "Pela fé, José, quando estava para morrer, anunciou a saída dos filhos de Israel (do Egipto) e fez disposições sobre os seus ossos."
     },
     {
      "n": 23,
@@ -1009,7 +1009,7 @@
     },
     {
      "n": 27,
-     "texto": "Pela fé deixou o Egito, não temendo a cólera do rei: permaneceu firme, como se visse (a auxiliá-lo) aquele que é invisível."
+     "texto": "Pela fé deixou o Egipto, não temendo a cólera do rei: permaneceu firme, como se visse (a auxiliá-lo) aquele que é invisível."
     },
     {
      "n": 28,
@@ -1110,7 +1110,7 @@
     },
     {
      "n": 11,
-     "texto": "Na verdade toda a correção no presente não parece um motivo de gozo, mas de tristeza; porém, depois dará frutos de paz e de justiça aos que por ela foram exercitados,"
+     "texto": "Na verdade toda a correcção no presente não parece um motivo de gozo, mas de tristeza; porém, depois dará frutos de paz e de justiça aos que por ela foram exercitados,"
     },
     {
      "n": 12,
@@ -1223,7 +1223,7 @@
     },
     {
      "n": 9,
-     "texto": "Não vos deixeis levar por doutrinas várias e estranhas. É ótimo fortificar o coração com a graça, não com alimentos, que nada aproveitaram aos que usaram deles."
+     "texto": "Não vos deixeis levar por doutrinas várias e estranhas. É óptimo fortificar o coração com a graça, não com alimentos, que nada aproveitaram aos que usaram deles."
     },
     {
      "n": 10,

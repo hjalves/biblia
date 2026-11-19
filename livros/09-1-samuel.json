@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -144,7 +144,7 @@
     },
     {
      "n": 3,
-     "texto": "Não queirais multiplicar palavras altivas, vangloriando-vos; afaste-se da vossa boca a linguagem arrogante, porque o Senhor é o Deus das ciências, e as ações (do homem) não subsistem."
+     "texto": "Não queirais multiplicar palavras altivas, vangloriando-vos; afaste-se da vossa boca a linguagem arrogante, porque o Senhor é o Deus das ciências, e as acções (do homem) não subsistem."
     },
     {
      "n": 4,
@@ -176,7 +176,7 @@
     },
     {
      "n": 11,
-     "texto": "Depois disto, Elcana retirou-se para sua casa em Rama, e o menino servia na presença do Senhor, sob a direção do sacerdote Heli."
+     "texto": "Depois disto, Elcana retirou-se para sua casa em Rama, e o menino servia na presença do Senhor, sob a direcção do sacerdote Heli."
     },
     {
      "n": 12,
@@ -224,7 +224,7 @@
     },
     {
      "n": 23,
-     "texto": "(Em vez de os castigar com severidade) disse-lhes (somente): Por que fazeis estas coisas péssimas, que eu ouço de todo o povo?"
+     "texto": "(Em vez de os castigar com severidade) disse-lhes (sòmente): Por que fazeis estas coisas péssimas, que eu ouço de todo o povo?"
     },
     {
      "n": 24,
@@ -240,7 +240,7 @@
     },
     {
      "n": 27,
-     "texto": "Um homem de Deus foi ter com Heli e disse-lhe: Eis o que disse o Senhor: Porventura não me revelei eu visivelmente à casa de teu pai, quando eles estavam no Egito na casa de Faraó?"
+     "texto": "Um homem de Deus foi ter com Heli e disse-lhe: Eis o que disse o Senhor: Porventura não me revelei eu visivelmente à casa de teu pai, quando eles estavam no Egipto na casa de Faraó?"
     },
     {
      "n": 28,
@@ -285,7 +285,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Entretanto o menino Samuel servia o Senhor sob a direção de Heli. A palavra do Senhor era rara, naqueles dias, e a visão não era frequente."
+     "texto": "Entretanto o menino Samuel servia o Senhor sob a direcção de Heli. A palavra do Senhor era rara, naqueles dias, e a visão não era frequente."
     },
     {
      "n": 2,
@@ -402,7 +402,7 @@
     },
     {
      "n": 8,
-     "texto": "Ai de nós! Coisa assim não havia acontecido até agora! Ai de nós! Quem nos salvará da mão destes Deuses excelsos? Estes são os Deuses que feriram o Egito com toda a sorte de pragas no deserto."
+     "texto": "Ai de nós! Coisa assim não havia acontecido até agora! Ai de nós! Quem nos salvará da mão destes Deuses excelsos? Estes são os Deuses que feriram o Egipto com toda a sorte de pragas no deserto."
     },
     {
      "n": 9,
@@ -442,7 +442,7 @@
     },
     {
      "n": 18,
-     "texto": "Logo que ele nomeou a arca de Deus, Heli caiu da cadeira para trás junto da porta, e, fraturando o crânio, expirou, porque era um homem velho, muito avançado em anos. Tinha julgado Israel durante quarenta anos."
+     "texto": "Logo que ele nomeou a arca de Deus, Heli caiu da cadeira para trás junto da porta, e, fracturando o crânio, expirou, porque era um homem velho, muito avançado em anos. Tinha julgado Israel durante quarenta anos."
     },
     {
      "n": 19,
@@ -540,7 +540,7 @@
     },
     {
      "n": 6,
-     "texto": "Por que endureceis os vossos corações, como o Egito e Faraó endureceram o seu coração? Porventura não tiveram de deixar sair os filhos de Israel, depois de ele os haver castigado?"
+     "texto": "Por que endureceis os vossos corações, como o Egipto e Faraó endureceram o seu coração? Porventura não tiveram de deixar sair os filhos de Israel, depois de ele os haver castigado?"
     },
     {
      "n": 7,
@@ -564,7 +564,7 @@
     },
     {
      "n": 12,
-     "texto": "As vacas foram diretamente pela estrada que conduz a Betsames; seguiram sempre o mesmo caminho sem parar e mugindo, e não declinaram nem para a direita nem para a esquerda. Os príncipes dos Filisteus também iam seguindo atrás, até os confins de Betsames."
+     "texto": "As vacas foram directamente pela estrada que conduz a Betsames; seguiram sempre o mesmo caminho sem parar e mugindo, e não declinaram nem para a direita nem para a esquerda. Os príncipes dos Filisteus também iam seguindo atrás, até os confins de Betsames."
     },
     {
      "n": 13,
@@ -710,7 +710,7 @@
     },
     {
      "n": 8,
-     "texto": "É assim que eles sempre têm feito, desde o dia que os tirei do Egito até hoje; como me abandonaram a mim e serviram a deuses estranhos, o mesmo te fazem a ti."
+     "texto": "É assim que eles sempre têm feito, desde o dia que os tirei do Egipto até hoje; como me abandonaram a mim e serviram a deuses estranhos, o mesmo te fazem a ti."
     },
     {
      "n": 9,
@@ -956,7 +956,7 @@
     },
     {
      "n": 18,
-     "texto": "e disse aos filhos de Israel: Eis o que diz o Senhor Deus de Israel: Eu tirei Israel do Egito, livrei-vos da mão dos Egípcios e do poder de todos os reis que vos oprimiam."
+     "texto": "e disse aos filhos de Israel: Eis o que diz o Senhor Deus de Israel: Eu tirei Israel do Egipto, livrei-vos da mão dos Egípcios e do poder de todos os reis que vos oprimiam."
     },
     {
      "n": 19,
@@ -1086,7 +1086,7 @@
     },
     {
      "n": 6,
-     "texto": "Samuel disse ao povo: (Sim, é testemunha) aquele Senhor que fez Moisés e, Aarão, e que tirou os nossos pais da terra do Egito."
+     "texto": "Samuel disse ao povo: (Sim, é testemunha) aquele Senhor que fez Moisés e, Aarão, e que tirou os nossos pais da terra do Egipto."
     },
     {
      "n": 7,
@@ -1094,7 +1094,7 @@
     },
     {
      "n": 8,
-     "texto": "Depois que Jacob entrou no Egito, os vossos pais clamaram ao Senhor, e o Senhor enviou Moisés e Aarão, tirou vossos pais do Egito e colocou-os neste lugar."
+     "texto": "Depois que Jacob entrou no Egipto, os vossos pais clamaram ao Senhor, e o Senhor enviou Moisés e Aarão, tirou vossos pais do Egipto e colocou-os neste lugar."
     },
     {
      "n": 9,
@@ -1219,7 +1219,7 @@
     },
     {
      "n": 13,
-     "texto": "Samuel disse a Saul: Procedeste nesciamente e não observaste as ordens que te deu o Senhor teu Deus. Se não tivesses feito isto, já desde agora teria o Senhor confirmado para sempre o teu reino sobre Israel;"
+     "texto": "Samuel disse a Saul: Procedeste nèsciamente e não observaste as ordens que te deu o Senhor teu Deus. Se não tivesses feito isto, já desde agora teria o Senhor confirmado para sempre o teu reino sobre Israel;"
     },
     {
      "n": 14,
@@ -1255,7 +1255,7 @@
     },
     {
      "n": 22,
-     "texto": "Quando chegou o dia do combate, não se encontrou nem espada nem lança na mão de todo o povo que estava com Saul e Jónatas, exceto as de Saul e Jónatas, seu filho."
+     "texto": "Quando chegou o dia do combate, não se encontrou nem espada nem lança na mão de todo o povo que estava com Saul e Jónatas, excepto as de Saul e Jónatas, seu filho."
     },
     {
      "n": 23,
@@ -1485,7 +1485,7 @@
     },
     {
      "n": 2,
-     "texto": "Estas coisas diz o Senhor dos exércitos: Eu recordei tudo o que Amalec tem feito a Israel, de que modo se lhe opôs no caminho, quando saia do Egito."
+     "texto": "Estas coisas diz o Senhor dos exércitos: Eu recordei tudo o que Amalec tem feito a Israel, de que modo se lhe opôs no caminho, quando saia do Egipto."
     },
     {
      "n": 3,
@@ -1501,11 +1501,11 @@
     },
     {
      "n": 6,
-     "texto": "Saul disse aos Cineus: Ide-vos, retirai-vos, separai-vos dos Amalecitas, não suceda que eu vos envolva com eles, porque vós usastes de misericórdia com todos os filhos de Israel, quando vinham do Egito. Retiraram-se, pois, os Cineus do meio dos Amelecitas."
+     "texto": "Saul disse aos Cineus: Ide-vos, retirai-vos, separai-vos dos Amalecitas, não suceda que eu vos envolva com eles, porque vós usastes de misericórdia com todos os filhos de Israel, quando vinham do Egipto. Retiraram-se, pois, os Cineus do meio dos Amelecitas."
     },
     {
      "n": 7,
-     "texto": "Saul bateu os Amalecitas desde Hevila até Sur, que está defronte do Egito."
+     "texto": "Saul bateu os Amalecitas desde Hevila até Sur, que está defronte do Egipto."
     },
     {
      "n": 8,
@@ -1670,7 +1670,7 @@
     },
     {
      "n": 12,
-     "texto": "Mandou-o, pois, chamar e apresentou-o (a Samuel). Ele era loiro, de olhos formosos e belo aspeto. O Senhor disse: Levanta-te, unge-o, porque é esse mesmo (que eu escolhi)."
+     "texto": "Mandou-o, pois, chamar e apresentou-o (a Samuel). Ele era loiro, de olhos formosos e belo aspecto. O Senhor disse: Levanta-te, unge-o, porque é esse mesmo (que eu escolhi)."
     },
     {
      "n": 13,
@@ -1887,7 +1887,7 @@
     },
     {
      "n": 42,
-     "texto": "Quando o Filisteu olhou e viu Davide, desprezou-o, porque era muito novo, loiro, de aspeto gentil."
+     "texto": "Quando o Filisteu olhou e viu Davide, desprezou-o, porque era muito novo, loiro, de aspecto gentil."
     },
     {
      "n": 43,
@@ -2056,7 +2056,7 @@
     },
     {
      "n": 25,
-     "texto": "Saul, porém, disse: Falai assim a Davide: O rei não necessita de dons para os esponsais, mas somente de cem prepúcios dos Filisteus, para tomar vingança dos seus inimigos. O desígnio de Saul era entregar Davide nas mãos dos Filisteus."
+     "texto": "Saul, porém, disse: Falai assim a Davide: O rei não necessita de dons para os esponsais, mas sòmente de cem prepúcios dos Filisteus, para tomar vingança dos seus inimigos. O desígnio de Saul era entregar Davide nas mãos dos Filisteus."
     },
     {
      "n": 26,
@@ -2375,7 +2375,7 @@
     },
     {
      "n": 4,
-     "texto": "Respondendo o sacerdote a Davide, disse-lhe: Eu não tenho à mão pães vulgares, mas somente o pão santo; (todavia eu tos darei) se os teus servos estão limpos, principalmente no que toca a mulheres."
+     "texto": "Respondendo o sacerdote a Davide, disse-lhe: Eu não tenho à mão pães vulgares, mas sòmente o pão santo; (todavia eu tos darei) se os teus servos estão limpos, principalmente no que toca a mulheres."
     },
     {
      "n": 5,
@@ -2646,7 +2646,7 @@
     },
     {
      "n": 3,
-     "texto": "Saul, tomando consigo três mil homens escolhidos entre todo o Israel, saiu em busca de Davide e de sua gente, indo até pelos rochedos mais escarpados, somente acessíveis às cabras."
+     "texto": "Saul, tomando consigo três mil homens escolhidos entre todo o Israel, saiu em busca de Davide e de sua gente, indo até pelos rochedos mais escarpados, sòmente acessíveis às cabras."
     },
     {
      "n": 4,
@@ -2996,7 +2996,7 @@
     },
     {
      "n": 21,
-     "texto": "Saul disse: Pequei; volta, meu filho Davide, porque não te tornarei a fazer mal daqui em diante, pois que a minha vida foi hoje preciosa aos teus olhos, porque é manifesto que procedi nesciamente e que cometi uma grande falta."
+     "texto": "Saul disse: Pequei; volta, meu filho Davide, porque não te tornarei a fazer mal daqui em diante, pois que a minha vida foi hoje preciosa aos teus olhos, porque é manifesto que procedi nèsciamente e que cometi uma grande falta."
     },
     {
      "n": 22,
@@ -3049,7 +3049,7 @@
     },
     {
      "n": 8,
-     "texto": "Davide saía com a sua gente e fazia incursões contra os Gessurianos, Gerzianos e Amalecitas, porque naquela terra era antigamente habitada (por estes povos) sobre o caminho de Sur até à terra do Egito."
+     "texto": "Davide saía com a sua gente e fazia incursões contra os Gessurianos, Gerzianos e Amalecitas, porque naquela terra era antigamente habitada (por estes povos) sobre o caminho de Sur até à terra do Egipto."
     },
     {
      "n": 9,
@@ -3183,7 +3183,7 @@
     },
     {
      "n": 2,
-     "texto": "Os príncipes dos Filisteus marchavam à frente das suas tropas, divididas em companhias de cem e de mil homens. Davide e a sua gente iam na retaguarda com Aquis."
+     "texto": "Os príncipes dos Filisteus marchavam à frente das suas tropas, divididas em companhias de cem e de mil homens. Davide e a sua gente iam na rectaguarda com Aquis."
     },
     {
      "n": 3,
@@ -3256,7 +3256,7 @@
     },
     {
      "n": 8,
-     "texto": "Davide consultou o Senhor, dizendo: Perseguirei eu estes ladrões e apanhá-los-ei, ou não? O Senhor respondeu-lhe: Persegue-os, porque indubitavelmente os apanharás, e os esbulharás da presa."
+     "texto": "Davide consultou o Senhor, dizendo: Perseguirei eu estes ladrões e apanhá-los-ei, ou não? O Senhor respondeu-lhe: Persegue-os, porque indubitàvelmente os apanharás, e os esbulharás da presa."
     },
     {
      "n": 9,
@@ -3292,7 +3292,7 @@
     },
     {
      "n": 17,
-     "texto": "Davide deu sobre eles, desde aquela tarde até á tarde do outro dia, e nenhum deles escapou, exceto quatrocentos jovens, que montaram nos camelos e fugiram"
+     "texto": "Davide deu sobre eles, desde aquela tarde até á tarde do outro dia, e nenhum deles escapou, excepto quatrocentos jovens, que montaram nos camelos e fugiram"
     },
     {
      "n": 18,
@@ -3308,7 +3308,7 @@
     },
     {
      "n": 21,
-     "texto": "Foi Davide juntar-se com os duzentos homens, que, de cansados, tinham parado, e não puderam seguir Davide, aos quais tinha dado ordem de ficar junto da torrente de Besor. Eles foram ao encontro de Davide e dos que o acompanhavam. Davide, ao aproximar-se deles, saudou-os amigavelmente."
+     "texto": "Foi Davide juntar-se com os duzentos homens, que, de cansados, tinham parado, e não puderam seguir Davide, aos quais tinha dado ordem de ficar junto da torrente de Besor. Eles foram ao encontro de Davide e dos que o acompanhavam. Davide, ao aproximar-se deles, saudou-os amigàvelmente."
     },
     {
      "n": 22,

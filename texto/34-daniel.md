@@ -3,7 +3,7 @@
 ## Capítulo 1
 
 **1** No ano terceiro do reinado de Joaquim, rei de Judá, veio Nabucodonosor rei de Babilónia, contra Jerusalém, e sitiou-a.  
-**2** O Senhor entregou nas suas mãos Joaquim, rei de Judá e uma parte dos objetos da casa de Deus. Ele levou-os para a terra de Senaar, para a casa do seu deus; pôs os objetos na casa do tesouro do seu deus.  
+**2** O Senhor entregou nas suas mãos Joaquim, rei de Judá e uma parte dos objectos da casa de Deus. Ele levou-os para a terra de Senaar, para a casa do seu deus; pôs os objectos na casa do tesouro do seu deus.  
 **3** Então disse o rei a Asfenez, seu eunuco-mor, que lhe destinasse, dentre os filhos de Israel, da linhagem dos reis e dos nobres,  
 **4** alguns meninos em que não houvesse defeito algum, de gentil presença, hábeis para toda a sabedoria, versados nas ciências e inteligentes, que pudessem estar no palácio do rei, para que lhes fossem ensinadas as letras e a língua dos Caldeus  
 **5** O rei ordenou que se lhes desse cada dia de comer das Iguarias reais, e de beber do vinho que ele mesmo bebia, a fim de que, mantidos deste modo durante três anos, servissem depois na presença do rei.  
@@ -36,10 +36,10 @@
 **8** Respondeu o rei: Conheço bem que procurais ganhar tempo, pois sabeis da minha decisão.  
 **9** Se me não disserdes o que sonhei, é porque também estais a forjar uma interpretação falsa e funesta, para me entreterdes com palavras até que tenha passado o tempo. Dizei, pois, qual foi o meu sonho, para que eu saiba que a interpretação que lhe derdes é verdadeira.  
 **10** Dando os Caldeus a sua resposta na presença do rei, disseram: Não há homem, ó rei, sobre a terra, que possa executar a ordem do rei, e nenhum rei há, por grande e poderoso que seja, que pergunte semelhante coisa a um adivinho, a um mago, ou a um Caldeu,  
-**11** O que o rei pergunta, é difícil; não se achará pessoa alguma que declare isso ao rei, exceto os deuses, os quais não têm a morada entre os homens.  
+**11** O que o rei pergunta, é difícil; não se achará pessoa alguma que declare isso ao rei, excepto os deuses, os quais não têm a morada entre os homens.  
 **12** Ao ouvir isto, o rei, todo enfurecido, cheio de uma grande ira, ordenou que fossem mortos todos os sábios de Babilónia.  
 **13** Publicada que foi esta sentença, ia-se já proceder à matança dos sábios, e andava-se em busca de Daniel e dos seus companheiros para também serem mortos.  
-**14** Então Daniel falou prudente e sabiamente a Arioc chefe da guarda do rei, que tinha saído para fazer matar os sábios de Babilónia.  
+**14** Então Daniel falou prudente e sàbiamente a Arioc chefe da guarda do rei, que tinha saído para fazer matar os sábios de Babilónia.  
 **15** Perguntou a Arioc, oficial do rei, por que causa havia pronunciado o lei uma sentença tão cruel. Tendo Arioc declarado a Daniel o que havia sobre isso,  
 **16** apresentou-se Daniel ao rei e suplicou-lhe que lhe concedesse algum tempo para revelar ao rei a interpretação (do sonho).  
 **17** (Daniel) foi para sua casa e contou o que se passava aos seus companheiros Ananias, Misael e Azarias,  
@@ -56,7 +56,7 @@
 **28** Mas no céu há um Deus que revela os mistérios, o qual mostrou ao rei Nabucodonosor as coisas que hão-de acontecer nos últimos tempos. O teu sonho e as visões, que a tua cabeça teve no teu leito, são as seguintes:  
 **29** Tu, ó rei, começaste a pensar, estando na tua cama, no que havia de acontecer no futuro, e aquele que revela os mistérios te descobriu as coisas que hão-de vir.  
 **30** A mim também me foi revelado este segredo, não porque a sabedoria, que há em mim, seja maior que a de todos os outros viventes, mas para que ficasse manifesta ao rei a Interpretação do seu sonho, e para que soubesses os pensamentos do teu coração.  
-**31** Tu, ó rei, estavas olhando, e eis (que te apareceu) uma grande estátua; esta estátua grande, dum brilho extraordinário, erguia-se de pé diante de ti, de aspeto aterrador.  
+**31** Tu, ó rei, estavas olhando, e eis (que te apareceu) uma grande estátua; esta estátua grande, dum brilho extraordinário, erguia-se de pé diante de ti, de aspecto aterrador.  
 **32** A sua cabeça era de ouro fino, o peito e os braços eram de prata, o ventre e as coxas de bronze;  
 **33** as pernas eram de ferro; uma parte dos pés era de ferro, e a outra de barro.  
 **34** Estavas a olhá-la, quando uma pedra se desprendeu da montanha, sem intervir mão (de nenhum homem), a qual feriu a estátua nos seus pés de ferro e de barro, e os fez em pedaços.  
@@ -99,12 +99,12 @@
 **19** A estas palavras, encheu-se Nabucodonosor de furor, e mudou-se o seu semblante contra Sidrac, Misac e Abdenago. Mandou que se acendesse a fornalha com um fogo sete vezes mais ardente do que se costumava acender.  
 **20** Ordenou (então) a valentes soldados do seu exército que, ligados os pés a Sidrac, Misac, e Abdenago, os lançassem na fornalha incandescente.  
 **21** Imediatamente foram aqueles (três) homens ligados e lançados no meio da fornalha de fogo ardente, com as suas roupas, tiaras, sapatos e vestidos.  
-**22** Porque o mandado do rei era urgente e a fornalha estava extraordinariamente aquecida, as chamas do fogo mataram aqueles homens que tinham lançado nelas a Sidrac, Misac e Abdenago.  
+**22** Porque o mandado do rei era urgente e a fornalha estava extraordinàriamente aquecida, as chamas do fogo mataram aqueles homens que tinham lançado nelas a Sidrac, Misac e Abdenago.  
 **23** Entretanto estes três homens, Sidrac. Misac e Abdenago caíram ligados no meio da fornalha de fogo ardente.  
 **24** Ora eles passeavam pelo meio das chamas, louvando a Deus e bem-dizendo ao Senhor.  
 **25** Azarias de pé, abrindo a sua boca no meio do fogo, orou, dizendo assim:  
 **26** Bem-dito sejas Senhor Deus de nossos pais! Seja o teu nome louvado e glorificado por todos os séculos  
-**27** Porque tu és justo em todas as coisas que fizeste, e todas as tuas obras são verdadeiras, e os teus caminhos retos, e todos os teus juízos a verdade.  
+**27** Porque tu és justo em todas as coisas que fizeste, e todas as tuas obras são verdadeiras, e os teus caminhos rectos, e todos os teus juízos a verdade.  
 **28** Porque exerceste justos juízos em todas as coisas (más) que fizeste vir sobre nós e sobre Jerusalém, cidade santa de nossos pais; mandaste-nos todos estes castigos em verdade e justiça, por causa dos nossos pecados.  
 **29** Pecámos e procedemos iniquamente, retirando-nos de ti, em todas as coisas temos delinquido;  
 **30** não atendemos aos teus preceitos, não os observámos, não os praticámos, como nos tinhas ordenado, para que fôssemos, felizes.  
@@ -167,9 +167,9 @@
 **87** Santos e humildes do coração bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **88** Ananias, Azarias e Misael, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos; porque ele nos tirou da morada dos mortos, salvou-nos da mão da morte, livrou-nos do meio das chamas ardentes, tirou-nos do meio do fogo.  
 **89** Dai graças ao Senhor, porque ele é bom, porque a sua misericórdia é eterna.  
-**90** Vós todos que adorais o Senhor, bem-dizei o Deus dos deuses, louvai-o e rendei-lhe ações de graças.porque a sua misericórdia permanece por todos os séculos.  
+**90** Vós todos que adorais o Senhor, bem-dizei o Deus dos deuses, louvai-o e rendei-lhe acções de graças.porque a sua misericórdia permanece por todos os séculos.  
 **91** Então o rei Nabucodonosor ficou estupefacto: levantou-se de repente e disse para os seus conselheiros: Não lançámos nós no meio do fogo três homens atados? Eles, respondendo ao rei, disseram: Assim é, ó rei.  
-**92** Ao que ele replicou: Contudo eu vejo quatro homens soltos, passeando no meio do fogo, sem sofrer mal algum; o aspeto do quarto é semelhante ao dum filho dos deuses.  
+**92** Ao que ele replicou: Contudo eu vejo quatro homens soltos, passeando no meio do fogo, sem sofrer mal algum; o aspecto do quarto é semelhante ao dum filho dos deuses.  
 **93** Então Nabucodonosor aproximou-se da porta da fornalha incandescente e disse; Sidrac, Misac e Abdenago, servos do Deus Altíssimo, saí e vinde. E logo Sidrac, Misac e Abdenago saíram do meio do fogo.  
 **94** Reunidos os sátrapas, os prefeitos, os governadores e os conselheiros do rei, olharam para aqueles homens e viram que o fogo não tinha tido poder algum sobre os seus corpos, que nem um só cabelo da sua cabeça se tinha queimado, que as suas roupas estavam intactas e que nem sequer cheiravam a chamusco.  
 **95** Então Nabucodonosor exclamou: Bem-dito seja o Deus de Sidrac, Misac e Abdenago, que enviou o seu anjo e livrou os seus servos, que creram nele e que resistindo ao mandamento do rei, entregaram os seus corpos para não servirem e não adorarem a nenhum outro deus, além do seu Deus.  
@@ -240,7 +240,7 @@
 **20** Porém, depois que o seu coração se elevou, e o seu espírito se endureceu até à arrogância, foi deposto do trono da sua realeza, e foi-lhe tirada a sua glória.  
 **21** Foi expulso do meio dos filhos dos homens, o seu coração ficou semelhante ao dos brutos, e a sua habitação era com os asnos selvagens; comia erva como os bois, e o seu corpo foi molhado com o orvalho do céu, até que reconheceu que o Altíssimo tem um poder soberano sobre a realeza dos homens, e que eleva a ela quem lhe apraz.  
 **22** E tu, Baltasar. que és seu filho, não humilhaste o teu coração, apesar de saberes todas estas coisas;  
-**23** antes, pelo contrário, te elevaste contra o Senhor do céu, fizeste vir para diante de ti os vasos da sua casa, e bebeste por eles vinho, tu, com os teus grandes, as tuas mulheres e as tuas concubinas; ao mesmo tempo louvaste os deuses de prata e de ouro, de bronze, de ferro, de pau e pedra, que não veem, nem ouvem, nem entendem, e não deste glória ao Deus, que tem na sua mão o teu sopro (vital) e todos os teus caminhos  
+**23** antes, pelo contrário, te elevaste contra o Senhor do céu, fizeste vir para diante de ti os vasos da sua casa, e bebeste por eles vinho, tu, com os teus grandes, as tuas mulheres e as tuas concubinas; ao mesmo tempo louvaste os deuses de prata e de ouro, de bronze, de ferro, de pau e pedra, que não vêem, nem ouvem, nem entendem, e não deste glória ao Deus, que tem na sua mão o teu sopro (vital) e todos os teus caminhos  
 **24** Por isso é que ele mandou os dedos daquela mão que escreveu o que está traçado (na parede).  
 **25** Eis o significado do que ali está escrito: Mene, Mene, Tequel, Farsin.  
 **26** Esta é a interpretação das palavras; Mene: Deus contou (os dias do) teu reinado, e pôs-lhe termo.  
@@ -261,7 +261,7 @@
 **7** Todos os chefes do teu reino, os prefeitos, os sátrapas, os conselheiros e os governadores são de parecer que o rei promulgue um decreto ordenando que todo aquele que, por espaço de trinta dias, pedir alguma coisa a qualquer deus ou a qualquer homem, que não tu, ó rei, seja lançado na cova dos leões.  
 **8** Agora, pois, ó rei, estabelece esta proibição, assina este decreto, para que, segundo o estabelecido pela lei dos Medos e dos Persas — lei irrevogável — não possa ser alterado.  
 **9** O rei Dario, pois, assinou o decreto com a (dita) proibição.  
-**10** Tendo sabido Daniel que havia sido publicada esta lei, entrou em casa e, abrindo as janelas da sua câmara superior, voltadas para o lado de Jerusalém, cada dia a três horas diferentes, punha-se de joelhos, orava a Deus e rendia-lhe ações de graças, como antes costumava fazer.  
+**10** Tendo sabido Daniel que havia sido publicada esta lei, entrou em casa e, abrindo as janelas da sua câmara superior, voltadas para o lado de Jerusalém, cada dia a três horas diferentes, punha-se de joelhos, orava a Deus e rendia-lhe acções de graças, como antes costumava fazer.  
 **11** Então aqueles homens vieram todos e encontraram Daniel orando e fazendo súplicas ao seu Deus.  
 **12** Indo ter com o rei, falaram-lhe acerca do decreto dizendo: Ó rei, não ordenaste que, durante o espaço de trinta dias, todo o homem que fizesse oração a qualquer dos deuses ou dos homens, que não fosses tu, ó rei fosse lançado na cova dos leões? O rei, respondendo-lhes disse: O que vós dizeis é verdade, segundo a lei dos Medos e dos Persas, que é irrevogável.  
 **13** Então, tornando eles disseram ao rei: Pois Daniel, um dos cativos dos filhos de Judá, não fez caso de ti, ó rei, nem da proibição que assinaste antes faz a sua oração três vezes ao dia.  
@@ -284,18 +284,18 @@
 ## Capítulo 7
 
 **1** No primeiro ano de Baltasar, rei de Babilónia, teve Daniel um sonho e visões da sua cabeça, estando na sua cama. Escreveu o seu sonho, apontando a substância do acontecido. Exprimiu-se assim:  
-**2** Eu estava vendo na minha visão noturna, e eis que os quatro ventos do céu agitavam o Grande Mar.  
+**2** Eu estava vendo na minha visão nocturna, e eis que os quatro ventos do céu agitavam o Grande Mar.  
 **3** E quatro grandes animais, diferentes uns dos outros, saíram do mar.  
 **4** O primeiro era como um leão e tinha asas de águia. Quando eu estava olhando para ele, foram-lhe arrancadas as asas, e foi levantado da terra e erguido sobre os seus pés, como um homem, e foi-lhe dado um coração de homem.  
 **5** E vi outro animal semelhante a um urso, que se levantava sobre um lado, o qual tinha três costelas na sua boca, entre os dentes, e diziam-'lhe assim: Levanta-te, como carne em abundância.  
 **6** Depois disto, quando estava olhando, vi outro (animal), semelhante a um leopardo que tinha no dorso quatro asas, como asas dum pássaro; este animal possuía quatro cabeças, e foi-lhe dado o poder.  
-**7** Depois disto, continuando a contemplar esta visão noturna, vi um quarto animal, terrível, espantoso e extraordinariamente forte, com uns grandes dentes de ferro; devorava e despedaçava, e calcava aos pés o que sobejava; era diferente dos outros animais que eu tinha visto antes dele, e tinha dez hastes.  
+**7** Depois disto, continuando a contemplar esta visão nocturna, vi um quarto animal, terrível, espantoso e extraordinàriamente forte, com uns grandes dentes de ferro; devorava e despedaçava, e calcava aos pés o que sobejava; era diferente dos outros animais que eu tinha visto antes dele, e tinha dez hastes.  
 **8** Estava eu contemplando as hastes quando vi uma outra haste pequena, que nascia do meio delas; três das primeiras hastes foram arrancadas de diante dela (à medida que crescia); nesta haste havia uns olhos como olhos de homem, e uma boca que falava com Insolência.  
 **9** Eu continuava atento a ver: foram postos uns tronos, e um Ancião sentou-se; a sua roupa era branca como a neve, e os cabelos da sua cabeça como a pura lã; o seu trono era de chamas de fogo, e as rodas neste trono um fogo ardente.  
 **10** De diante dele saía um impetuoso rio de fogo; eram milhares de milhares os que o serviam, e miríades e miríades (ou inumeráveis) os que assistiam diante dele. Procedeu-se ao julgamento, e foram abertos os livros  
 **11** Eu olhava atentamente por causa do ruído das palavras arrogantes que esta haste proferia; enquanto eu olhava, o animal foi morto, e o seu corpo destruído e entregue ao fogo.  
 **12** (Vi) também que tinha sido tirado o poder aos outros animais mas a duração da sua vida foi-lhes prolongada até um tempo e um período.  
-**13** Eu estava, pois, observando estas coisas durante a visão noturna, e eis que vi um (personagem) que parecia um Filho de homem, que veio sobre as nuvens do céu; chegou até ao Ancião e foi apresentado diante dele.  
+**13** Eu estava, pois, observando estas coisas durante a visão nocturna, e eis que vi um (personagem) que parecia um Filho de homem, que veio sobre as nuvens do céu; chegou até ao Ancião e foi apresentado diante dele.  
 **14** Foram-lhe dados império, honra e reino; e todos os povos, nações e línguas o serviram; o seu império é um império eterno, que não passará, e o seu reino não será jamais destruído.  
 **15** O meu espírito encheu-se de horror; eu, Daniel, fiquei atemorizado com estas coisas, as visões da minha cabeça perturbaram-me.  
 **16** Aproximei-me dum dos assistentes e perguntei-lhe a verdade sobre tudo isto. Ele deu-me a interpretação destas visões, ensinou-me;  
@@ -318,10 +318,10 @@
 **2** Nesta visão que tive, encontrava-me na fortaleza de Susa, na província de Elam; contemplando a visão, eu estava à porta de Ulai.  
 **3** Levantei os meus olhos para olhar, e eis que vi, em pé diante da ribeira, um carneiro, que tinha duas hastes elevadas; uma era mais alta do que a outra, mas cresceu depois dela.  
 **4** Vi que o carneiro dava marradas contra o ocidente, contra o aquilão e contra o meio-dia e nenhuma besta lhe podia resistir, ninguém podia livrar-se do seu poder; fazia quanto queria e tornava-se poderoso.  
-**5** Estava eu considerando isto e eis que um bode vinha do ocidente sobre a face de toda a terra, e (tão rapidamente que) não tocava na terra; este bode tinha uma grande haste entre os seus olhos.  
+**5** Estava eu considerando isto e eis que um bode vinha do ocidente sobre a face de toda a terra, e (tão ràpidamente que) não tocava na terra; este bode tinha uma grande haste entre os seus olhos.  
 **6** Dirigiu-se contra aquele carneiro que tinha hastes, o qual eu tinha visto em pé. diante da ribeira, e correu para ele com todo o ímpeto da sua força.  
 **7** Vi-o chegar perto do carneiro: atacou-o com fúria, feriu-o e quebrou-lhe as duas hastes, sem que o carneiro lhe pudesse resistir; tendo-o lançado por terra, pisou-o aos pés, e não houve quem pudesse livrar o carneiro do seu poder.  
-**8** Ora o bode tornou-se extraordinariamente grande; mas, quando se fez forte, quebrou-se o sua grande haste, e formaram-se em lugar dela quatro hastes para os quatro ventos do céu.  
+**8** Ora o bode tornou-se extraordinàriamente grande; mas, quando se fez forte, quebrou-se o sua grande haste, e formaram-se em lugar dela quatro hastes para os quatro ventos do céu.  
 **9** Porém, duma destas saiu uma haste pequena, que se tornou grande para o meio-dia, para o oriente e para a terra esplêndida (de Israel).  
 **10** Elevou-se até ao exército do céu e deitou abaixo legiões e estrelas, e pisou-as aos pés.  
 **11** Elevou-se até contra o príncipe do exército (do céu), tirou-lhe o sacrifício perpétuo e destruiu o lugar do seu santuário.  
@@ -358,15 +358,15 @@
 **12** Cumpriu as palavras que proferiu contra nós e contra os príncipes que nos governavam; fez vir sobre nós uma calamidade tão grande, que nunca se viu, debaixo de todo o céu, igual à que aconteceu a Jerusalém.  
 **13** Todo este mal caiu sobre nós, segundo está escrito na lei de Moisés, e nós não acalmámos a face do Senhor nosso Deus, afastando-nos das nossas iniquidades e aplicando-nos ao conhecimento da tua verdade.  
 **14** Assim o Senhor vigiou sobre a desgraça e fê-la cair sobre nós, porque o Senhor nosso Deus é justo em todas as obras que fez, mas nós não ouvimos a sua voz.  
-**15** Agora, Senhor nosso Deus, que tiraste o teu povo da terra do Egito com mão poderosa e que adquiriste então um nome, que dura até ao dia de hoje, (confessamos que) temos pecado, que temos cometido a iniquidade.  
+**15** Agora, Senhor nosso Deus, que tiraste o teu povo da terra do Egipto com mão poderosa e que adquiriste então um nome, que dura até ao dia de hoje, (confessamos que) temos pecado, que temos cometido a iniquidade.  
 **16** Senhor, por toda a tua justiça (ou misericórdia), digna-te afastar a tua ira e o teu furor da cidade de Jerusalém, do teu santo monte (Sião), porque Jerusalém e o teu povo são hoje o escárnio de todos os que nos cercam, por causa dos nossos pecados e das iniquidades de nossos pais.  
 **17** Atende, pois, agora. Deus nosso, à oração do teu servo, às suas preces, e, sobre o teu santuário devastado, faze brilhar a tua face, por amor de ti mesmo.  
 **18** Inclina, Deus meu, o teu ouvido e ouve; abre os teus olhos e vê as nossas ruínas e (contempla) a cidade sobre a qual se invoca o teu nome. Não trazemos à tua presença as nossas súplicas (humildes) fundados em merecimentos da nossa justiça, mas sim nas tuas grandes misericórdias.  
 **19** Ouve, Senhor, perdoa. Senhor; atende e põe mãos à obra; não tardes mais. Deus meu, por amor de ti mesmo, porque esta cidade e este teu povo têm a glória de lhes haver sido dado o teu nome.  
 **20** Quando eu ainda falava, orando e confessando os meus pecados e os pecados do meu povo de Israel, apresentando as minhas súplicas na presença do Senhor meu Deus, a favor do santo monte do meu Deus;  
-**21** quando eu, digo, ainda não tinha bem acabado as palavras da minha súplica, eis que Gabriel, aquele homem que, anteriormente, eu tinha visto na visão, voando rapidamente, se aproximou de mim, à hora da oblação da tarde.  
+**21** quando eu, digo, ainda não tinha bem acabado as palavras da minha súplica, eis que Gabriel, aquele homem que, anteriormente, eu tinha visto na visão, voando ràpidamente, se aproximou de mim, à hora da oblação da tarde.  
 **22** Instruiu-me, falando-me assim; Daniel, eu vim agora para te ensinar, de modo que entendas (os desígnios de Deus).  
-**23** Desde o princípio das tuas preces, foi enviada uma palavra e eu vim para ta anunciar, porque tu és um predileto (de Deus); toma, pois, bem sentido nesta palavra e compreende a visão.  
+**23** Desde o princípio das tuas preces, foi enviada uma palavra e eu vim para ta anunciar, porque tu és um predilecto (de Deus); toma, pois, bem sentido nesta palavra e compreende a visão.  
 **24** Setenta semanas foram decretadas sobre o teu povo e sobre a tua cidade santa a fim de que a prevaricação termine, os pecados sejam selados, a iniquidade expiada; a justiça eterna trazida, as visões e profecias seladas, e o Santo dos santos ungido.  
 **25** Sabe, pois, isto e compreende-o: Desde a saída da ordem para Jerusalém ser reedificada até a um ungido, um chefe, passarão sete semanas e sessenta e duas semanas; e serão reedificadas as praças e os muros na angústia dos tempos.  
 **26** Depois das sessenta e duas semanas, será exterminado um ungido, sem haver quem lhe suceda. E o povo dum chefe que há-de vir, destruirá a cidade e o santuário; o seu fim será uma ruína total, e, até ao fim, haverá a guerra e a devastação decretada.  
@@ -380,11 +380,11 @@
 **4** No dia vinte e quatro do primeiro mês, estava eu junto do grande rio, que é o Tigre.  
 **5** Levantei os olhos e vi um homem vestido de roupas de linho e cingido pelos rins com um cinto de ouro de Ufaz;  
 **6** o seu corpo era (brilhante) como o crisólito, o seu rosto como o relâmpago, e os seus olhos pareciam fachos ardentes; os seus braços e todo o resto do corpo até aos pés eram semelhantes ao bronze reluzente, e o som das suas palavras era como o ruído das multidões.  
-**7** Somente eu, Daniel, tive esta visão; os homens que estavam comigo não a tiveram, mas caiu sobre eles um terror tão grande que fugiram para lugares ocultos.  
-**8** Tendo eu, pois, ficado sozinho, vi esta grande aparição. Não ficou vigor em mim, mudou-se o meu semblante, fiquei desfigurado e perdi todas as forças.  
+**7** Sòmente eu, Daniel, tive esta visão; os homens que estavam comigo não a tiveram, mas caiu sobre eles um terror tão grande que fugiram para lugares ocultos.  
+**8** Tendo eu, pois, ficado sòzinho, vi esta grande aparição. Não ficou vigor em mim, mudou-se o meu semblante, fiquei desfigurado e perdi todas as forças.  
 **9** Ouvi o som das suas palavras, e, ouvindo-o, caí desfalecido, de rosto contra a terra.  
 **10** E eis que uma mão me tocou e me fez levantar sobre os meus joelhos e sobre as palmas das minhas mãos.  
-**11** Depois disse-me: Daniel, homem predileto (de Deus), entende as palavras que te venho dizer, e põ-te de pé, porque fui agora enviado a ti. Quando proferiu estas palavras, pus-me de pé, tremendo.  
+**11** Depois disse-me: Daniel, homem predilecto (de Deus), entende as palavras que te venho dizer, e põ-te de pé, porque fui agora enviado a ti. Quando proferiu estas palavras, pus-me de pé, tremendo.  
 **12** Disse-me: Não tenhas medo, Daniel, porque desde o primeiro dia, em que aplicaste o teu coração a compreender e a mortificar-te na presença do teu Deus, foram ouvidas as tuas palavras, e eu vim por causa delas.  
 **13** O príncipe do reino dos Persas resistiu-me durante vinte e um dias; mas eis que veio em meu socorro Miguel, um dos primeiros príncipes, e eu fiquei lá junto do rei dos Persas.  
 **14** Vim para te ensinar as coisas que estão para suceder ao teu povo nos últimos dias, porque o cumprimento desta visão ainda está para esses dias (longínquos).  
@@ -392,7 +392,7 @@
 **16** E eis que um ser semelhante a um filho de homem, me tocou os lábios e eu, abrindo a minha boca, falei; disse ao que estava em pé diante de mim: Meu Senhor, esta visão angustiou-me, e não me ficou força alguma.  
 **17** Como poderá o servo do meu Senhor falar com o meu Senhor? Estou sem força, falta-me o alento.  
 **18** Então aquele que eu via sob a aparência dum homem, tornou-me a tocar, confortou-me,  
-**19** e disse; Não temas, homem predileto (de Deus)! A paz seja contigo! Tem vigor! Coragem! Quando ele ainda me falava, recobrei as forças e disse; Fala, meu Senhor, porque me fortaleceste.  
+**19** e disse; Não temas, homem predilecto (de Deus)! A paz seja contigo! Tem vigor! Coragem! Quando ele ainda me falava, recobrei as forças e disse; Fala, meu Senhor, porque me fortaleceste.  
 **20** Então disse-me ele; Sabes tu por que é que vim ter contigo? Agora volto a pelejar contra o príncipe dos, Persas. Quando eu sair, virá o príncipe dos Gregos.  
 **21** Mas (antes disso) anunciar-te-ei o que está expresso no seguir, livro da verdade. Em todas estas coisas ninguém me ajuda senão Miguel, que é o vosso príncipe.  
 
@@ -405,7 +405,7 @@
 **5** O rei do Meio-dia se fortificará, mas um dos seus príncipes será mais poderoso do que ele, e o seu império maior.  
 **6** Alguns anos depois, farão aliança um com o outro, e a filha do rei do Meio-dia irá ter com o rei do Aquilão para estabelecer um acordo. Ela, porém, não conservará o apoio de um braço (ou de seu pai) nem do seu próprio braço (ou de seu marido). Será entregue (à morte) com os que a conduziram, o que a criou e o que a tinha sustentado durante algum tempo,  
 **7** Das suas raízes sairá um rebento, a ocupar o seu lugar. Virá contra o seu exército, entrará nos fortes do rei do Aquilão, atacá-los-á e tornar-se-á senhor deles.  
-**8** Além disso, levará cativos para o Egito os seus deuses, as suas estátuas e os seus vasos preciosos de prata e ouro. Quando, durante alguns anos, deixar de atacar o rei do Aquilão,  
+**8** Além disso, levará cativos para o Egipto os seus deuses, as suas estátuas e os seus vasos preciosos de prata e ouro. Quando, durante alguns anos, deixar de atacar o rei do Aquilão,  
 **9** este entrará no reino do Meio-dia, mas voltará depois para a sua terra,  
 **10** Seus filhos se levantarão e reunirão grande exército que marchará á maneira de inundação; voltará e avançará até à sua fortaleza.  
 **11** O rei do Meio-dia, enfurecer-se-á, sairá e pelejará contra o rei do Aquilão; preparará um exército imenso, e lhe será entregue entre as mãos uma grande multidão de inimigos.  
@@ -417,14 +417,14 @@
 **17** Formará o desígnio de se apoderar de todo o reino do Meio-dia; fará um acordo com o seu rei e dar-lhe-á em casamento sua filha (Cleópatra), a fim de o perder; mas não lhe sairá a coisa conforme o seu intento, esse reino não será dele.  
 **18** Depois dirigir-se-á contra as ilhas e tomará muitas delas; porém um chefe deterá a sua soberba, e far-lhe-á pagar o seu insulto.  
 **19** Então voltará para os fortes do seu país, mas tropeçará, cairá, e não será mais achado.  
-**20** Tomará o seu lugar um outro, que enviará um exator para esmagar a glória do reino, mas perecerá em poucos dias; porém isto não acontecerá nem pela cólera nem pela guerra.  
+**20** Tomará o seu lugar um outro, que enviará um exactor para esmagar a glória do reino, mas perecerá em poucos dias; porém isto não acontecerá nem pela cólera nem pela guerra.  
 **21** Ocupará o seu lugar um homem desprezível, mas não lhe será dada honra de rei; virá subitamente e apoderar-se-á do reino com enganos.  
 **22** Os braços do combatente serão vencidos diante dele e quebrados, e também o chefe da aliança.  
-**23** Apesar do acordo feito, usará com ele de engano, subirá (ao Egito) e vencê-lo-á com pouca gente.  
-**24** Entrará inesperadamente nas mais ricas regiões do país e fará o que nunca fizeram seus pais, nem os pais de seus pais; repartirá pelos seus os despojos, a presa e as riquezas; formará projetos contra as mais fortes cidades, mas isto até certo tempo (determinado por Deus).  
+**23** Apesar do acordo feito, usará com ele de engano, subirá (ao Egipto) e vencê-lo-á com pouca gente.  
+**24** Entrará inesperadamente nas mais ricas regiões do país e fará o que nunca fizeram seus pais, nem os pais de seus pais; repartirá pelos seus os despojos, a presa e as riquezas; formará projectos contra as mais fortes cidades, mas isto até certo tempo (determinado por Deus).  
 **25** Excitará o seu poder e o seu coração contra o rei do Meio-dia com um grande exército; o rei do Meio-dia animar-se-á a sair á batalha com muitas e fortes tropas, mas elas não perseverão firmes, porque maquinarão desígnios contra ele.  
 **26** Aqueles mesmos que comiam o pão com ele, o arruinarão; o seu exército será oprimido, e um grande número dos seus cairão mortos.  
-**27** Os dois reis somente pensarão em fazer o mal um ao outro, e, sentados à mesma mesa, dirão palavras de mentira, mas nenhum conseguirá os seus intentos, porque o prazo (marcado por Deus) é para outro tempo.  
+**27** Os dois reis sòmente pensarão em fazer o mal um ao outro, e, sentados à mesma mesa, dirão palavras de mentira, mas nenhum conseguirá os seus intentos, porque o prazo (marcado por Deus) é para outro tempo.  
 **28** Voltará para o seu pais com muitas riquezas; o seu coração será hostil à santa aliança (do Senhor), fará (muitos males), e, depois, voltará para o seu pais.  
 **29** No tempo determinado, tornará a vir para o Meio-dia, mas esta última expedição não será semelhante à primeira,  
 **30** Os navios de Kittim virão contra ele, que ficará desanimado; voltará e conceberá uma grande indignação contra a aliança santa, empreenderá muitas coisas contra ela. fazendo acordo com os que a tinham abandonado.  
@@ -439,14 +439,14 @@
 **39** Fortificará as suas praças com um deus estranho; aqueles que o reconhecerem, cumulá-los-á de honras, dar-lhes-á poder sobre muitas coisas e repartirá por eles terras gratuitamente.  
 **40** O rei do Meio-dia pelejará contra ele no tempo do fim; o rei do Aquilão marchará também contra ele como uma tempestade, com grande multidão de carros, de gente a cavalo e com uma grande armada; entrará nas suas terras, como torrente transbordante.  
 **41** Depois entrará na terra esplêndida (ou da Judeia), onde muitíssimos cairão. Todavia hão-de escapar às suas mãos, Edom, Moab e os principais dos filhos de Amon.  
-**42** Estenderá a sua mão contra outros países, e a terra do Egito não escapará.  
-**43** Tornar-se-á senhor dos tesouros de ouro, de prata e de tudo o que há de precioso no Egito. Segui-lo-ão os Líbios e os Etíopes.  
+**42** Estenderá a sua mão contra outros países, e a terra do Egipto não escapará.  
+**43** Tornar-se-á senhor dos tesouros de ouro, de prata e de tudo o que há de precioso no Egipto. Segui-lo-ão os Líbios e os Etíopes.  
 **44** Turbá-lo-ão, porém, notícias vindas do oriente e do Aquilão, e partirá com grande furor para destruir e matar muitos.  
 **45** Erguerá a sua tenda entre os mares e o ínclito e santo monte. Então chegará ao termo da sua vida, e ninguém lhe dará auxilio.  
 
 ## Capítulo 12
 
-**1** Nesse tempo se levantará Miguel, o grande príncipe, protetor dos filhos do teu povo. Será um tempo de tal angústia, qual não houve desde que os povos começaram a existir até então. Nesse tempo o teu povo será salvo; (sê-lo-á) todo aquele que estiver inscrito no livro (da vida).  
+**1** Nesse tempo se levantará Miguel, o grande príncipe, protector dos filhos do teu povo. Será um tempo de tal angústia, qual não houve desde que os povos começaram a existir até então. Nesse tempo o teu povo será salvo; (sê-lo-á) todo aquele que estiver inscrito no livro (da vida).  
 **2** Muitos dos que dormem no pó da terra acordarão, uns para a vida eterna, e outros para a vergonha, o horror eterno.  
 **3** Aqueles que tiverem sido doutos, resplandecerão como a luz do firmamento; e os que tiverem ensinado a muitos o caminho da justiça, brilharão como as estrelas por toda a eternidade.  
 **4** Tu, porém, Daniel, conserva guardadas estas palavras e sela o livro até ao tempo do fim; muitos o passarão pelos olhos e acrescentarão a sua ciência.  
@@ -476,7 +476,7 @@
 **12** Observavam todos os dias com grande cuidado o tempo em que a poderiam ver. (Um, dia) disseram entre si:  
 **13** Vamos para casa, porque são horas de comer. (Realmente), tendo saído separaram-se um do outro.  
 **14** Mas, tornando logo (cada um) a vir, encontraram-se de novo num mesmo lugar. Depois de se terem perguntado mutuamente a causa, confessaram a sua paixão, e, então, de comum acordo, fixaram o tempo em que a poderiam encontrar só.  
-**15** Aconteceu, pois, que, aguardando eles uma ocasião oportuna, entrou ela, como de costume, acompanhada somente de duas donzelas, e quis banhar-se no jardim, porque fazia (muito) calor.  
+**15** Aconteceu, pois, que, aguardando eles uma ocasião oportuna, entrou ela, como de costume, acompanhada sòmente de duas donzelas, e quis banhar-se no jardim, porque fazia (muito) calor.  
 **16** Não se encontrava então ali ninguém, senão os dois velhos, que estavam escondidos e a contemplavam.  
 **17** Disse Susana às donzelas: Trazei-me os óleos e os perfumes, e fechai as portas do jardim, para eu tomar banho.  
 **18** Elas fizeram o que lhes tinha mandado; fecharam as portas do jardim e saíram por uma porta escusa, para trazerem o que lhes havia ordenado, ignorando que os velhos estavam dentro escondidos.  
@@ -499,7 +499,7 @@
 **35** Ela, chorando, levantou os olhos ao céu, porque o seu coração tinha uma firme confiança no Senhor.  
 **36** Os velhos disseram: Quando passeávamos sós na jardim, entrou esta mulher com duas donzelas; fechou as portas do jardim e despediu as donzelas.  
 **37** Então um jovem, que estava escondido, foi ao seu encontro e pecou com ela.  
-**38** Nós, que estávamos a um canto do jardim, vendo esta maldade, corremos para eles e vimo-los ambos neste ato.  
+**38** Nós, que estávamos a um canto do jardim, vendo esta maldade, corremos para eles e vimo-los ambos neste acto.  
 **39** Não pudemos apanhar o jovem, porque era mais forte do que nós, o qual, tendo aberto a porta, fugiu.  
 **40** A ela conseguimos apanhá-la e perguntámos-lhe que jovem era aquele, mas não no-lo quis dizer. Deste sucesso somos nós testemunhas.  
 **41** Todo o ajuntamento lhes deu crédito, como a velhos e a juízes do povo, e ela foi condenada à morte.  

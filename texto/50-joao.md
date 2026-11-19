@@ -13,7 +13,7 @@
 **9** O Verbo era a luz verdadeira, que ilumina todo o homem que vem a este mundo.  
 **10** Estava no mundo, e o mundo foi feito por ele, e o mundo não o conheceu.  
 **11** Veio para o que era seu, e os seus não o receberam.  
-**12** Mas a todos os que o receberam, deu poder de se tornarem filhos de Deus, àqueles que creem no seu nome;  
+**12** Mas a todos os que o receberam, deu poder de se tornarem filhos de Deus, àqueles que crêem no seu nome;  
 **13** os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus.  
 **14** E o Verbo se fez carne, e habitou entre nós; e nós vimos a sua glória, glória como de Filho Unigénito do Pai, cheio de graça e de verdade.  
 **15** João dá testemunho dele e clama: Este era aquele de quem eu disse: O que há-de vir depois de mim, é mais do que eu, porque existia antes de mim.  
@@ -26,15 +26,15 @@
 **22** Disseram-lhe então: "Quem és, pois, para que possamos dar resposta aos que nos enviaram? Que dizes de ti mesmo?"  
 **23** Disse-lhes então: Eu sou a voz do que clama no deserto: Endireitai o caminho do Senhor, como disse o profeta Isaías (Is. 40, 3)."  
 **24** Ora os que tinham sido enviados eram fariseus.  
-**25** Interrogaram-no, dizendo: "Como batizas, pois, se não és o Cristo, nem Elias, nem o profeta?"  
-**26** João respondeu-lhes: "Eu batizo em água, mas no meio de vós está quem vós não conheceis.  
+**25** Interrogaram-no, dizendo: "Como baptizas, pois, se não és o Cristo, nem Elias, nem o profeta?"  
+**26** João respondeu-lhes: "Eu baptizo em água, mas no meio de vós está quem vós não conheceis.  
 **27** Esse é o que há-de vir depois de mim, ao qual eu não sou digno de desatar a correia das sandálias."  
-**28** Estas coisas passaram-se em Betânia, da banda de além do Jordão, onde João estava batizando.  
+**28** Estas coisas passaram-se em Betânia, da banda de além do Jordão, onde João estava baptizando.  
 **29** No dia seguinte João viu Jesus, que vinha ter com ele, e disse: "Eis o Cordeiro de Deus, eis o que tira o pecado do mundo.  
 **30** Este é aquele, de quem eu disse: Depois de mim vem um homem que é superior a mim, porque era antes de mim,  
-**31** e eu não o conhecia, mas vim batizar em água, para ele ser reconhecido em Israel."  
+**31** e eu não o conhecia, mas vim baptizar em água, para ele ser reconhecido em Israel."  
 **32** João deu este testemunho: "Vi o Espírito descer do céu em forma de pomba, e repousou sobre ele.  
-**33** Eu não o conhecia, mas o que me mandou batizar em água, disse-me: Aquele, sobre quem vires descer e repousar o Espírito, esse é o que batiza no Espírito Santo.  
+**33** Eu não o conhecia, mas o que me mandou baptizar em água, disse-me: Aquele, sobre quem vires descer e repousar o Espírito, esse é o que baptiza no Espírito Santo.  
 **34** Eu o vi, e dei testemunho de que ele é o Filho de Deus."  
 **35** Ao outro dia João lá estava novamente com dois de seus discípulos.  
 **36** Vendo Jesus que ia passando, disse: "Eis o Cordeiro de Deus."  
@@ -105,11 +105,11 @@
 **19** A condenação está nisto: A luz veio ao mundo, e os homens amaram mais as trevas do que a luz, porque as suas obras eram más.  
 **20** Porque todo aquele que faz o mal, aborrece a luz, e não se chega para a luz, a fim de que não sejam reprovadas as as suas obras;  
 **21** mas aquele que procede segundo a verdade, chega-se para a luz, a fim de que seja manifesto que as suas obras são feitas segundo Deus.  
-**22** Depois disto, foi Jesus com seus discípulos para a terra da Judeia. Habitava com eles, e batizava.  
-**23** João estava também batizando em Enon, junto a Salím, porque havia ali muita água, e o povo concorria para ser batizado.  
+**22** Depois disto, foi Jesus com seus discípulos para a terra da Judeia. Habitava com eles, e baptizava.  
+**23** João estava também baptizando em Enon, junto a Salím, porque havia ali muita água, e o povo concorria para ser baptizado.  
 **24** João ainda não tinha sido posto na prisão.  
 **25** Levantou-se uma questão entre os discípulos de João e um judeu acerca da purificação.  
-**26** Foram ter com João, e disseram-lhe: "Mestre, o que estava contigo da banda de além do Jordão, de quem tu deste testemunho ei-lo que está batizando, e todos vão a ele."  
+**26** Foram ter com João, e disseram-lhe: "Mestre, o que estava contigo da banda de além do Jordão, de quem tu deste testemunho ei-lo que está baptizando, e todos vão a ele."  
 **27** João respondeu: O homem não pode receber coisa alguma, se lhe não for dada do céu.  
 **28** Vós mesmo me sois testemunhas de que vos disse: Eu não sou o Cristo, mas fui enviado diante dele.  
 **29** O que tem a esposa é o esposo, mas o amigo do esposo, que está de pé e o ouve, enche-se de gozo com a voz do esposo. Esta é a minha alegria, e ela é perfeita.  
@@ -123,8 +123,8 @@
 
 ## Capítulo 4
 
-**1** Quando Jesus soube que os fariseus tinham ouvido que ele fazia mais discípulos e batizava mais que João,  
-**2** (todavia não era o próprio Jesus que batizava, mas os seus discípulos),  
+**1** Quando Jesus soube que os fariseus tinham ouvido que ele fazia mais discípulos e baptizava mais que João,  
+**2** (todavia não era o próprio Jesus que baptizava, mas os seus discípulos),  
 **3** deixou a Judeia, e foi outra vez para a Galileia.  
 **4** Devia, por isso, passar pela Samaria.  
 **5** Chegou, pois, a uma cidade da Samaria chamada Sicar, junto da herdade que Jacó deu a seu filho José.  
@@ -197,8 +197,8 @@
 **15** Foi aquele homem anunciar aos Judeus que era Jesus quem o tinha curado.  
 **16** Por isto os Judeus perseguiam Jesus, porque fazia estas coisas ao sábado.  
 **17** Mas Jesus respondeu-lhes: "Meu Pai não cessa de operar, e eu opero também."  
-**18** Por isso, os Judeus procuravam com maior ardor matá-lo, porque não somente violava o sábado, mas também dizia que Deus era seu Pai, fazendo-se igual a Deus, Jesus respondeu, pois, e disse-lhes:  
-**19** Em verdade, em verdade vos digo: O Filho não pode de si mesmo fazer coisa alguma, mas somente o que vir fazer ao Pai; porque tudo o que fizer o Pai, o faz igualmente o Filho.  
+**18** Por isso, os Judeus procuravam com maior ardor matá-lo, porque não sòmente violava o sábado, mas também dizia que Deus era seu Pai, fazendo-se igual a Deus, Jesus respondeu, pois, e disse-lhes:  
+**19** Em verdade, em verdade vos digo: O Filho não pode de si mesmo fazer coisa alguma, mas sòmente o que vir fazer ao Pai; porque tudo o que fizer o Pai, o faz igualmente o Filho.  
 **20** Porque o Pai ama o Filho, e mostra-lhe tudo o que faz; e lhe mostrará maiores obras do que estas, até ao ponto de vós ficardes admirados.  
 **21** Porque assim como o Pai ressuscita os mortos e lhes dá vida, assim também o Filho dá vida àqueles que quer  
 **22** O Pai a ninguém julga, mas deu ao Filho todo o poder de julgar,  
@@ -246,9 +246,9 @@
 **14** Vendo então aqueles homens o milagre que Jesus fizera, diziam: "Este é verdadeiramente o profeta que deve vir ao mundo."  
 **15** Jesus, sabendo que o viriam arrebatar para o fazerem rei, retirou-se, de novo, ele só para o monte.  
 **16** Quando chegou a tarde, seus discípulos desceram para junto do mar,  
-**17** e, tendo subido para uma barca, atravessaram o mar em direção a Cafarnaum. Era já escuro, e Jesus ainda não tinha ido ter com eles.  
+**17** e, tendo subido para uma barca, atravessaram o mar em direcção a Cafarnaum. Era já escuro, e Jesus ainda não tinha ido ter com eles.  
 **18** Entretanto o mar começava a empolar-se, por causa do vento forte que soprava.  
-**19** Tendo remado cerca de vinte e cinco ou trinta estádios, viram Jesus caminhando sobre o mar, em direção à barca, e ficaram atemorizados.  
+**19** Tendo remado cerca de vinte e cinco ou trinta estádios, viram Jesus caminhando sobre o mar, em direcção à barca, e ficaram atemorizados.  
 **20** Mas ele disse-lhes: "Sou eu, não temais."  
 **21** Quiseram então recebê-lo na barca; e logo a barca chegou à terra, para onde iam.  
 **22** No dia seguinte, a multidão, que tinha ficado da outra banda do mar, advertiu que não havia ali mais que uma barca, e que Jesus não tinha entrado nela com seus discípulos, mas que os seus discípulos tinham partido sós.  
@@ -275,7 +275,7 @@
 **43** Jesus, replicando, disse-lhes: "Não murmureis entre vós.  
 **44** Ninguém pode vir a mim, se o Pai que me enviou, o não atrair; e eu o ressuscitarei no último dia.  
 **45** Está escrito nos profetas: E serão todos ensinados por Deus (Is. 54, 13). Portanto todo aquele que ouve e aprende do Pai; vem a mim.  
-**46** Não porque alguém tenha visto o Pai, exceto aquele que vem de Deus; esse viu o Pai.  
+**46** Não porque alguém tenha visto o Pai, excepto aquele que vem de Deus; esse viu o Pai.  
 **47** Em verdade, em verdade, vos digo: O que crê em mim, tem a vida eterna.  
 **48** Eu sou o pão da vida.  
 **49** Vossos pais comeram o maná, no deserto, e morreram.  
@@ -293,7 +293,7 @@
 **61** Jesus, conhecendo em si mesmo que seus discípulos murmuravam por isto, disse-lhes: "Isto escandaliza- vos?  
 **62** Que será quando virdes subir o Filho do homem para onde estava antes?  
 **63** E o espírito que vivifica; a carne para nada aproveita. As palavras que eu vos disse, são espírito e vida.  
-**64** Mas há alguns de vós que não creem. Com efeito Jesus sabia desde o princípio quais eram os que não criam, e quem havia de o entregar  
+**64** Mas há alguns de vós que não crêem. Com efeito Jesus sabia desde o princípio quais eram os que não criam, e quem havia de o entregar  
 **65** Depois acrescentou: "Por isso eu vos disse que ninguém pode vir a mim, se lhe não for concedido por meu Pai."  
 **66** Desde então muitos de seus discípulos tornaram atrás, e já não andavam com ele.  
 **67** Por isso Jesus disse aos doze: "Quereis vós também retirar-vos?"  
@@ -384,7 +384,7 @@
 **22** Diziam, pois, os Judeus: "Será que ele se mate a si mesmo, pois diz: Para onde eu vou, vós não podeis ir?"  
 **23** Ele disse-lhes: "Vós sois cá de baixo, eu sou lá de cima. Vós sois deste mundo, eu não sou deste mundo.  
 **24** Por isso eu vos disse que morreríeis nos vossos pecados; sim, se não crerdes em quem eu sou, morrereis no vosso pecado."  
-**25** Disseram-lhe então eles: "Quem és tu?" Jesus respondeu-lhes: "É exatamente isso que eu vos estou dizendo.  
+**25** Disseram-lhe então eles: "Quem és tu?" Jesus respondeu-lhes: "É exactamente isso que eu vos estou dizendo.  
 **26** Muitas coisas tenho a dizer e a julgar a vosso respeito, mas o que me enviou é verdadeiro, e o que ouvi dele é o que digo ao mundo."  
 **27** Eles não compreenderam que Jesus lhes falava do Pai.  
 **28** Jesus disse-lhes mais: "Quando tiverdes levantado o Filho do homem, então conhecereis quem eu sou, e que nada faço de mim mesmo, mas que, como o Pai me ensinou, assim falo.  
@@ -460,7 +460,7 @@
 **36** Ele respondeu: "Quem é, Senhor, para eu crer nele?"  
 **37** Jesus disse-lhe: "Tu o vês, é aquele mesmo que fala contigo."  
 **38** Então ele disse: "Creio, Senhor." E, prostrando-se, o adorou.  
-**39** Jesus disse: "Eu vim a este mundo para exercer um justo juízo, a fim de que os que não veem vejam, e os que veem se tornem cegos."  
+**39** Jesus disse: "Eu vim a este mundo para exercer um justo juízo, a fim de que os que não vêem vejam, e os que vêem se tornem cegos."  
 **40** Ouviram isto alguns dos fariseus, que estavam com ele, e disseram-lhe: "Porventura também nós somos cegos?"  
 **41** Jesus disse- lhes: "Se vós fosseis cegos, não teríeis culpa; mas, pelo contrário, vós dizeis: Nós vemos. Fica, pois subsistindo o vosso pecado.  
 
@@ -505,7 +505,7 @@
 **37** Se eu não faço as obras de meu Pai, não me acrediteis;  
 **38** mas se as faço, quando não queirais crer em mim, crede nas minhas obras, para que saibais e reconheçais que o Pai está em mim, e eu no Pai."  
 **39** Então os Judeus procuravam novamente prendê-lo, mas ele escapou-se das suas mãos.  
-**40** Retirou-se novamente para a banda de além do Jordão, para o lugar em que João tinha começado a batizar; e ficou lá.  
+**40** Retirou-se novamente para a banda de além do Jordão, para o lugar em que João tinha começado a baptizar; e ficou lá.  
 **41** Foram muitos ter com ele, e diziam: "João não fez nenhum milagre,  
 **42** mas tudo o que disse deste era verdadeiro." E muitos creram nele.  
 
@@ -539,7 +539,7 @@
 **26** e todo o que vive e crê em mim, não morrerá eternamente. Crês isto?"  
 **27** Ela respondeu: "Sim, Senhor, eu creio que tu és o Cristo, o Filho de Deus, que devia vir a este mundo."  
 **28** Dito isto, retirou-se, e foi chamar em segredo sua irmã Maria, dizendo: "O Mestre está cá, e chama-te."  
-**29** Ela, logo que ouviu isto, levantou-se rapidamente, e foi ter com ele.  
+**29** Ela, logo que ouviu isto, levantou-se ràpidamente, e foi ter com ele.  
 **30** Jesus ainda não tinha entrado na aldeia, mas estava ainda naquele lugar, onde Marta saíra ao seu encontro.  
 **31** Então os Judeus, que estavam com ela em casa, e a consolavam, vendo que Maria se tinha levantado tão depressa e tinha saído, seguiram-na, julgando que ia chorar ao sepulcro.  
 **32** Maria, porém, tendo chegado onde Jesus estava, logo que o viu, lançou-se aos seus pés, e disse-lhe:"Senhor, se tivesses estado aqui, não teria morrido meu irmão."  
@@ -562,7 +562,7 @@
 **49** Mas um deles, chamado Caifás, que era o pontífice daquele ano, disse-lhes: "Vós não sabeis nada,  
 **50** nem considerais que vos convém que morra um homem pelo povo, e que não pereça toda a nação."  
 **51** Ora ele não disse isto por si mesmo, mas, como era pontífice daquele ano, profetizou que Jesus devia morrer pela nação,  
-**52** e não somente pela nação, mas também para unir num só corpo os filhos de Deus dispersos.  
+**52** e não sòmente pela nação, mas também para unir num só corpo os filhos de Deus dispersos.  
 **53** Desde aquele dia tomaram a resolução de o matar.  
 **54** Jesus, pois, já não andava em público entre os Judeus, mas retirou-se para uma terra vizinha do deserto, para a cidade chamada Efraim e lã esteve com seus discípulos.  
 **55** Estava próxima a Páscoa dos Judeus, e muitos daquela terra subiram a Jerusalém antes da Páscoa para se purificarem.  
@@ -578,7 +578,7 @@
 **6** Disse isto, não porque se importasse com os pobres, mas porque era ladrão, e, tendo a bolsa, roubava o que se lançava nela.  
 **7** Mas Jesus respondeu: "Deixa-a; ela reservou este perfume para o dia da minha sepultura;  
 **8** porque sempre tereis pobres convosco, mas a mim não me tereis sempre."  
-**9** Uma grande multidão de Judeus soube que Jesus estava ali e foi lá, não somente por causa de Jesus, mas também para ver Lázaro, a quem ele tinha ressuscitado dos mortos.  
+**9** Uma grande multidão de Judeus soube que Jesus estava ali e foi lá, não sòmente por causa de Jesus, mas também para ver Lázaro, a quem ele tinha ressuscitado dos mortos.  
 **10** Os príncipes dos sacerdotes deliberaram então matar também Lázaro,  
 **11** porque muitos Judeus, por causa dele, retiravam-se e criam em Jesus.  
 **12** No dia seguinte, uma grande multidão de povo, que tinha ido à festa, ouvindo dizer que Jesus ia a Jerusalém,  
@@ -631,7 +631,7 @@
 **6** Chegou, pois, a Simão Pedro. Pedro disse-lhe: "Senhor, tu lavares-me os pés?"  
 **7** Jesus respondeu-lhe: "O que eu faço, tu não o compreendes agora, mas compreendê-lo-ás depois."  
 **8** Pedro disse-lhe: "Não me lavarás jamais os pés." Jesus respondeu-lhe: "Se eu não te lavar, não terás parte comigo."  
-**9** Simão Pedro disse-lhe: "Senhor, não somente os meus pés, mas também as mãos e a cabeça."  
+**9** Simão Pedro disse-lhe: "Senhor, não sòmente os meus pés, mas também as mãos e a cabeça."  
 **10** Jesus disse-lhe: "Aquele que se banhou, não tem necessidade de se lavar, pois todo ele está limpo. Vós estais limpos, mas não todos."  
 **11** Ele sabia qual era o que o ia entregar, por isso disse: "Não estais todos limpos."  
 **12** Depois que lhes lavou os pés e que retomou as suas vestes, tendo-se tornado a pôr à mesa disse-lhes: "Compreendeis o que vos fiz?"  
@@ -775,7 +775,7 @@
 **9** É por eles que eu rogo; não rogo pelo mundo, mas por aqueles que me deste, porque são teus.  
 **10** Todas as minhas coisas são tuas, e todas as tuas coisas são minhas; e sou glorificado neles.  
 **11** Já não estou no mundo, mas eles estão no mundo, e eu vou para ti. Pai Santo, guarda em teu nome aqueles que me deste, para que sejam um, assim como nós.  
-**12** Quando eu estava com eles, os guardava em teu nome. Conservei os que me deste; nenhum deles se perdeu, exceto o filho da perdição, cumprindo-se a Escritura.  
+**12** Quando eu estava com eles, os guardava em teu nome. Conservei os que me deste; nenhum deles se perdeu, excepto o filho da perdição, cumprindo-se a Escritura.  
 **13** Mas agora vou para ti e digo estas coisas, estando ainda no mundo, para que eles tenham em si mesmos a plenitude do meu gozo.  
 **14** Dei-lhes a tua palavra, o mundo os odiou, porque não são do mundo, como também eu não sou do mundo.  
 **15** Não peço que os tires do mundo, mas que os guardes do mal.  
@@ -783,7 +783,7 @@
 **17** Santifica-os pela verdade. A tua palavra é a verdade.  
 **18** Assim como tu me enviaste ao mundo, também eu os enviei ao mundo.  
 **19** Por eles eu me consagro a mim mesmo, para que também sejam verdadeiramente santificados.  
-**20** Não rogo somente por eles, mas também por aqueles que hão-de crer em mim por meio da sua palavra,  
+**20** Não rogo sòmente por eles, mas também por aqueles que hão-de crer em mim por meio da sua palavra,  
 **21** para que sejam todos um, como tu, Pai, o és em mim, e eu em ti, para que também eles sejam um em nós, a fim de que o mundo creia que me enviaste.  
 **22** Dei-lhes a glória que me deste, para que sejam um, como também nós somos um:  
 **23** Eu neles, e tu em mim, para que a sua seriedade seja perfeita, e para que o mundo conheça que me enviaste e que os amaste, como me amaste.  

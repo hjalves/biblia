@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -59,7 +59,7 @@
     },
     {
      "n": 11,
-     "texto": "Por isso oramos incessantemente por vós, para que o nosso Deus vos faça dignos da vossa vocação (isto é, do estado a que vos chamou), que realize com o seu poder todo o desejo de fazer bem e a atividade da vossa fé,"
+     "texto": "Por isso oramos incessantemente por vós, para que o nosso Deus vos faça dignos da vossa vocação (isto é, do estado a que vos chamou), que realize com o seu poder todo o desejo de fazer bem e a actividade da vossa fé,"
     },
     {
      "n": 12,
@@ -76,7 +76,7 @@
     },
     {
      "n": 2,
-     "texto": "que não deixeis facilmente perturbar o vosso espírito nem alarmar por qualquer pretensa revelação, ou palavra, ou por qualquer carta atribuída a nós, como se o dia do Senhor estivesse perto."
+     "texto": "que não deixeis fàcilmente perturbar o vosso espírito nem alarmar por qualquer pretensa revelação, ou palavra, ou por qualquer carta atribuída a nós, como se o dia do Senhor estivesse perto."
     },
     {
      "n": 3,
@@ -96,7 +96,7 @@
     },
     {
      "n": 7,
-     "texto": "Com efeito, o mistério da iniquidade (posto que ainda não tenha aparecido o Anticristo) já se opera, somente falta que aquele, que agora o retém, desapareça."
+     "texto": "Com efeito, o mistério da iniquidade (posto que ainda não tenha aparecido o Anticristo) já se opera, sòmente falta que aquele, que agora o retém, desapareça."
     },
     {
      "n": 8,

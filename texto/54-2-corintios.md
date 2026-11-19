@@ -62,10 +62,10 @@
 **12** Tendo, pois, uma tal esperança, procedemos com grande firmeza,  
 **13** e não como Moisés, o qual punha um véu sobre o seu rosto, para que os filhos de Israel não vissem o fim do que devia desaparecer.  
 **14** Mas o seu espírito endurece-se, porque até ao dia de hoje permanece, quando fazem a leitura do Antigo Testamento, o mesmo véu, sem se levantar, porque é por Cristo que ele se tira.  
-**15** Mas, ainda hoje, quando leem Moisés, um véu está posto, sobre o seu coração.  
+**15** Mas, ainda hoje, quando lêem Moisés, um véu está posto, sobre o seu coração.  
 **16** Todavia, quando (Israel) se converter ao Senhor, será tirado o véu.  
 **17** Ora o Senhor é o Espírito, e, onde está o Espírito do Senhor, aí está a liberdade.  
-**18** Todos nós, pois, vendo de cara descoberta como num espelho a glória do Senhor, somos transformados na mesma imagem, de glória em glória, pela ação do Senhor que é Espírito.  
+**18** Todos nós, pois, vendo de cara descoberta como num espelho a glória do Senhor, somos transformados na mesma imagem, de glória em glória, pela acção do Senhor que é Espírito.  
 
 ## Capítulo 4
 
@@ -79,19 +79,19 @@
 **8** Em tudo sofremos tribulação, mas não somos oprimidos; somos cercados de dificuldades, mas não desesperamos;  
 **9** somos perseguidos, mas não desamparados; somos abatidos, mas não perecemos,  
 **10** trazendo sempre em nosso corpo os traços da morte de Jesus, para que também a vida de Jesus se manifeste nos nossos corpos.  
-**11** Efetivamente, nós, que vivemos, somos continuamente entregues à morte por amor de Jesus, para que também a vida de Jesus se manifeste na nossa carne mortal.  
+**11** Efectivamente, nós, que vivemos, somos continuamente entregues à morte por amor de Jesus, para que também a vida de Jesus se manifeste na nossa carne mortal.  
 **12** A morte, pois, opera em nós, e a vida em vós.  
 **13** Mas, tendo o mesmo espírito de fé, segundo está escrito: Eu cri, por isso falei (Ps. 114, 1), também nós cremos, e por isso também é que falamos,  
 **14** sabendo que aquele, que ressuscitou o Senhor Jesus, nos ressuscitará também com Jesus e nos colocará convosco diante dele (para sermos glorificados).  
 **15** Tudo, com efeito, é por amor de vós, para que a graça, multiplicando-se, faça abundar o reconhecimento no coração de um número cada vez maior, para glória de Deus.  
 **16** E’ por isto que não desfalecemos; antes, pelo contrário, embora se destrua em nós o homem exterior, todavia o (homem) interior vai-se renovando de dia para dia.  
 **17** Sim, o que presentemente é para nós uma tribulação momentânea e ligeira, prepara-nos, além de toda a medida, um peso eterno de gloria,  
-**18** não atendendo nós às coisas que se veem, mas sim às que se não veem. Com efeito, as coisas que se veem são passageiras; as que não se veem, são eternas.  
+**18** não atendendo nós às coisas que se vêem, mas sim às que se não vêem. Com efeito, as coisas que se vêem são passageiras; as que não se vêem, são eternas.  
 
 ## Capítulo 5
 
 **1** Em realidade sabemos que, se a casa terrestre desta nossa morada for desfeita, temos de Deus um edifício, uma casa não feita por mãos humanas, que será eterna nos céus.  
-**2** E por isso também suspiramos, no nosso estado atual, por ser revestidos da nossa, habitação celeste, por cima da outra,  
+**2** E por isso também suspiramos, no nosso estado actual, por ser revestidos da nossa, habitação celeste, por cima da outra,  
 **3** se todavia formos encontrados vestidos, e não nus.  
 **4** Realmente nós, que estamos neste tabernáculo, gememos carregados (com o horror natural da morte), porque não queremos ser despojados dele, mas sim revestidos por cima, a fim de que, o que é (em nós) mortal, seja absorvido pela vida (imortal).  
 **5** Ora, o que nos formou para este destino, foi Deus, que nos deu o penhor do Espírito.  
@@ -106,7 +106,7 @@
 **14** Sim, o amor de Cristo nos constrange, considerando nós que, se um morreu por todos, todos pois morreram;  
 **15** e que (Cristo) morreu por todos, a fim de que aqueles que vivem, não vivam mais para si, mas para aquele que morreu e ressuscitou por eles.  
 **16** Desta sorte, desde agora, a ninguém conhecemos segundo a carne. E, se (houve tempo em que) conhecemos a Cristo segundo a carne, agora já o não conhecemos (deste modo).  
-**17** Se algum, pois, está em Cristo (por meio do batismo), é uma nova criatura: passaram as coisas velhas; eis que tudo se fez novo.  
+**17** Se algum, pois, está em Cristo (por meio do baptismo), é uma nova criatura: passaram as coisas velhas; eis que tudo se fez novo.  
 **18** Tudo isso vem de Deus, que nos reconciliou consigo por Cristo e nos deu a nós o ministério da reconciliação,  
 **19** porque era Deus que reconciliava consigo o mundo em Cristo, não lhes imputando os seus pecados e encarregando-nos a nós da palavra de reconciliação,  
 **20** Logo, nós desempenhamos as funções de embaixadores por Cristo, exortando-vos Deus por meio de nós. Por Cristo vos rogamos, reconciliai-vos com Deus.  
@@ -141,7 +141,7 @@
 **4** Tenho muita confiança em vós, muito me glorio de vós, estou cheio de consolação, inundado de alegria no meio de todas as nossas tribulações.  
 **5** Em realidade, desde a nossa chegada à Macedónia, a nossa carne nenhum repouso teve, antes sofremos toda a tribulação: no exterior, combates; no interior, temores.  
 **6** Deus, porém, que consola os humildes, consolou-nos com a chegada de Tito;  
-**7** e, não somente com a sua chegada, mas também com a consolação que recebeu de vós, referindo-me ele o vosso desejo (de me ver), o vosso pranto, o vosso zelo por mim, de sorte que a minha alegria aumentou.  
+**7** e, não sòmente com a sua chegada, mas também com a consolação que recebeu de vós, referindo-me ele o vosso desejo (de me ver), o vosso pranto, o vosso zelo por mim, de sorte que a minha alegria aumentou.  
 **8** Desta forma, embora eu vos tenha entristecido com a minha carta, não me arrependo disso; se bem que (a princípio) tenha sentido pesar, vendo que tal carta (ainda que por breve tempo) vos entristeceu,  
 **9** agora folgo, não de vos ter entristecido, mas de que a vossa tristeza vos levou à penitência. Entristecestes-vos segundo Deus, de sorte que em nada recebestes detrimento de nós,  
 **10** porque a tristeza, que é segundo Deus, produz uma penitência estável para a salvação, pelo contrário, a tristeza do século produz a morte (eterna).  
@@ -156,23 +156,23 @@
 
 **1** Ora nós vos fazemos conhecer, Irmãos, a graça de Deus que foi dada às igrejas da Macedónia:  
 **2** no meio das muitas tribulações com que foram provados (os cristãos), superabundou a sua alegria, e a sua extrema pobreza difundiu-se em riquezas da sua liberalidade.  
-**3** Dou testemunho de que foram espontaneamente liberais, segundo as suas posses e ainda acima das suas posses,  
+**3** Dou testemunho de que foram espontâneamente liberais, segundo as suas posses e ainda acima das suas posses,  
 **4** rogando-nos com muito encarecimento a graça de tomar parte nesta assistência aos santos.  
 **5** Ultrapassaram as nossas esperanças. Deram-se a si mesmos, primeiro ao Senhor, depois a nós pela vontade de Deus,  
 **6** de maneira que rogamos a Tito que, assim como começou, acabe também entre vós esta obra de generosidade.  
 **7** Mas, assim como em tudo abundais; na fé, na eloquência, na ciência, em toda a solicitude e na caridade para connosco — assim também abundeis nesta sua obra de generosidade.  
 **8** Não falo como quem manda, experimentar com (o exemplo da) solicitude dos outros a sinceridade da vossa caridade.  
 **9** Com efeito conheceis a liberalidade de Nosso Senhor Jesus Cristo, que, sendo rico, se fez pobre por vós, a fim de que fósseis ricos pela sua pobreza.  
-**10** Isto é um conselho que vos dou, porque é útil para vós, que (primeiro) começastes não só a fazer, mas também a desejar (tirar a coleta) desde o ano passado.  
+**10** Isto é um conselho que vos dou, porque é útil para vós, que (primeiro) começastes não só a fazer, mas também a desejar (tirar a colecta) desde o ano passado.  
 **11** Agora, pois, acabai a obra, para que, assim como a vontade está pronta para querer, também o esteja para cumprir, segundo os vossos meios.  
 **12** Se a vontade está pronta para dar, é aceite segundo aquilo que se tem, não segundo aquilo que se não tem.  
 **13** Não se pretende que os outros tenham alivio e vós fiqueis em aflição, mas que haja igualdade.  
 **14** Na circunstância presente a vossa abundância supra a sua indigência, para que também a sua abundância supra a vossa indigência, de maneira que haja igualdade, como está escrito;  
 **15** O que havia colhido muito, não teve de mais, e o que havia colhido pouco, não teve de menos (Ex. 16, 18).  
 **16** Graças a Deus, que pôs no coração de Tito a mesma solicitude por vós,  
-**17** porque não só recebeu bem o meu pedido, mas, sendo mais solícito, espontaneamente partiu a visitar-vos.  
+**17** porque não só recebeu bem o meu pedido, mas, sendo mais solícito, espontâneamente partiu a visitar-vos.  
 **18** Enviamos também com ele aquele irmão, que é louvado em todas as igrejas, pelo que tem feito pelo Evangelho,  
-**19** e, não somente por isto, mas também porque foi escolhido pelas igrejas por companheiro da nossa peregrinação para esta beneficência, em que nos empenhamos, para glória do Senhor e satisfação do nosso coração,  
+**19** e, não sòmente por isto, mas também porque foi escolhido pelas igrejas por companheiro da nossa peregrinação para esta beneficência, em que nos empenhamos, para glória do Senhor e satisfação do nosso coração,  
 **20** evitando assim (senão acompanhado de pessoas escolhidas pelas igrejas) que ninguém nos possa censurar (por qualquer irregularidade) a respeito desta abundante quantia, de que temos o encargo.  
 **21** Verdadeiramente procuramos fazer o bem, não só diante de Deus, mas também diante dos homens.  
 **22** Com eles enviamos também um nosso irmão, cuja solicitude muitas vezes temos experimentado em muitas coisas, e que agora é muito mais solícito, pela grande confiança que tem em vós.  
@@ -191,8 +191,8 @@
 **8** Deus é poderoso para fazer abundar em vós todos os bens, para que, tendo sempre em todas as coisas tudo o que é suficiente, abundeis em toda a obra boa,  
 **9** como está escrito: Espalhou, deu aos pobres; a sua justiça dura para sempre (Ps. 111, 9).  
 **10** Aquele (Deus), que subministra semente ao semeador, dará também pão para comer, multiplicará a vossa semente e aumentará sempre mais os frutos da vossa justiça,  
-**11** para que, enriquecidos com todas as coisas, tenhais abundantemente com que fazer toda a sorte de liberalidades, que, por meio de nós, provoquem ações de graças a Deus (por parte dos cristãos pobres de Jerusalém, que as receberem).  
-**12** Em realidade, a administração desta oferenda não somente supre o que falta aos santos, mas também redunda em muitas ações de graças ao Senhor;  
+**11** para que, enriquecidos com todas as coisas, tenhais abundantemente com que fazer toda a sorte de liberalidades, que, por meio de nós, provoquem acções de graças a Deus (por parte dos cristãos pobres de Jerusalém, que as receberem).  
+**12** Em realidade, a administração desta oferenda não sòmente supre o que falta aos santos, mas também redunda em muitas acções de graças ao Senhor;  
 **13** por causa da virtude provada que esta oferta mostra em vós, dão glória a Deus pela submissão que mostrais ao Evangelho de Cristo e pela sinceridade da vossa liberal união com eles e com todos.  
 **14** Eles pedem por vós, amando-vos muito, por causa da eminente graça de Deus, que há em vós.  
 **15** Graças a Deus pelo seu dom inefável.  
@@ -203,7 +203,7 @@
 **2** Suplico-vos pois, que, quando estiver presente, não me obrigueis a usar com liberdade da ousadia que me proponho demonstrar contra alguns que julgam que andamos segundo a carne.  
 **3** De facto, embora vivendo na carne, não militamos segundo a carne.  
 **4** Porquanto as armas da nossa milícia não são carnais, mas poderosas em Deus para destruir as fortificações;  
-**5** derribamos todos os projetos (que se opõem à pregação do Evangelho) e todo o poder altivo que se levanta contra o conhecimento de Deus, reduzimos à sujeição todo o pensamento para o tornar obediente a Cristo.  
+**5** derribamos todos os projectos (que se opõem à pregação do Evangelho) e todo o poder altivo que se levanta contra o conhecimento de Deus, reduzimos à sujeição todo o pensamento para o tornar obediente a Cristo.  
 **6** Estamos preparados, para castigar toda a desobediência, depois que for cumprida a vossa obediência.  
 **7** Considerai as coisas (mesmo só) pela aparência. Se alguém se ufana de que é de Cristo, considere igualmente dentro de si que, como é, de Cristo, assim também nós o somos.  
 **8** Realmente, ainda que eu me gloriasse um pouco mais do poder, que o Senhor me deu para vossa edificação e não para vossa destruição, não me envergonharia por isso.  
@@ -239,7 +239,7 @@
 **17** O que vou dizer, para minha glória, não o digo segundo Deus, mas como que por loucura.  
 **18** Visto que muitos se gloriam segundo a carne, também me gloriarei,  
 **19** porque vós, sendo sensatos, sofreis de bom grado os insensatos.  
-**20** Efetivamente, sofreis quem vos põe em escravidão, quem vos devora, quem vos rouba, quem se exalta, quem vos dá na cara.  
+**20** Efectivamente, sofreis quem vos põe em escravidão, quem vos devora, quem vos rouba, quem se exalta, quem vos dá na cara.  
 **21** Digo-o para minha vergonha, como se tivéssemos sido fracos neste ponto. Mas, naquilo em que qualquer tem ousadia (falo como louco), também eu tenho.  
 **22** São Hebreus? Também eu. São Israelitas? Também eu. São descendentes de Abraão? Também eu.  
 **23** São ministros de Cristo? Vou dizer uma insensatez; mais do que eles o sou eu. Mais nos trabalhos, mais nos cárceres, em açoutes sem medida, frequentemente em perigos de morte.  
@@ -267,15 +267,15 @@
 **9** mas disse-me: "Basta-te a minha graça, porque é na fraqueza que o (meu) poder se manifesta por completo." Portanto, de boa vontade me gloriarei nas minhas fraquezas, para que habite em mim o poder de Cristo.  
 **10** Por isso, sinto complacência nas minhas, enfermidades, nas afrontas, nas necessidades, nas perseguições, nas angústias por amor de Cristo, porque, quando estou fraco (quanto às forças da natureza), então sou forte (na graça).  
 **11** Tornei-me insensato (falando de mim mesmo), mas fostes vós que me obrigastes a isso. De facto, era por vós que eu devia ser louvado, pois que em nada fui inferior a esses super-apóstolos, ainda que (por mim) nada sou:  
-**12** entre vós contudo foram realizados os sinais do meu apostolado em toda a paciência, nos milagres, nos prodígios e atos de poder.  
-**13** Porque, em que tendes sido inferiores às outras igrejas, exceto que em nada vos fui pesado? Perdoai-me esta injúria.  
+**12** entre vós contudo foram realizados os sinais do meu apostolado em toda a paciência, nos milagres, nos prodígios e actos de poder.  
+**13** Porque, em que tendes sido inferiores às outras igrejas, excepto que em nada vos fui pesado? Perdoai-me esta injúria.  
 **14** Eis que, pela terceira vez, estou disposto a ir ter convosco, e (também agora) não vos serei pesado, porque não busco as vossas coisas, mas a vós. Pois que não são os filhos que devem entesourar para os pais, mas os pais, para os filhos.  
 **15** E eu de mui boa vontade darei o que é meu e me darei a mim pelas vossas almas, ainda que, amando-vos eu mais, seja por vós menos amado.  
 **16** Mas seja assim (direis vós)! Eu (confirmo o que vos disse) não vos fui pesado, porém, como sou astuto (segundo dizem os meus adversários), tomei-vos por dolo.  
 **17** Porventura por meio de algum daqueles que vos enviei, tirei de vós algum proveito?  
 **18** Roguei a Tito e enviei com ele um irmão. Porventura Tito explorou-vos? Não andamos com o mesmo espírito? Não seguimos as mesmas pisadas?  
 **19** Cuidais, desde há muito, que nos justificamos diante de vós. É diante de Deus, em Cristo, que falamos; e tudo, meus muito amados, para vossa edificação.  
-**20** Pois temo que, quando eu for, vos não encontre quais vos quero, e que vós me acheis qual não quereis; (temo) que haja entre vós contendas, invejas, rixas, dissensões, detrações, mexericos, soberbas, sedições;  
+**20** Pois temo que, quando eu for, vos não encontre quais vos quero, e que vós me acheis qual não quereis; (temo) que haja entre vós contendas, invejas, rixas, dissensões, detracções, mexericos, soberbas, sedições;  
 **21** (temo) que, quando eu for outra vez, me humilhe Deus, entre vós, e que tenha de chorar a muitos daqueles que antes pecaram e não fizeram penitência da impureza, fornicação e dissolução que cometeram.  
 
 ## Capítulo 13

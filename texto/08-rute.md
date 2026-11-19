@@ -28,7 +28,7 @@
 ## Capítulo 2
 
 **1** Elimelec, marido (de Noemi), tinha um parente, homem poderoso e de grandes riquezas, chamado Booz.  
-**2** Rute Moabita disse a sua sogra: Se o mandas, irei ao campo apanhar as espigas que escapam das mãos dos segadores, onde quer que me acolham favoravelmente. Ela respondeu-lhe: Vai, minha filha.  
+**2** Rute Moabita disse a sua sogra: Se o mandas, irei ao campo apanhar as espigas que escapam das mãos dos segadores, onde quer que me acolham favoràvelmente. Ela respondeu-lhe: Vai, minha filha.  
 **3** Foi Rute pois, e apanhava as espigas por detrás dos segadores. Ora aconteceu que aquele campo tinha por dono um homem chamado Booz, que era da família de Elimelec.  
 **4** E eis que ele chegou de Belém, e disse aos segadores: O Senhor seja convosco. Eles responderam-lhe: O Senhor te abençoe.  
 **5** Booz disse para o jovem que tomava sentido nos segadores: De quem é esta moça?  
@@ -79,7 +79,7 @@
 **3** Estando eles sentados, (Booz) disse ao parente: Noemi, que voltou do país de Moab, está para vender uma parte do campo de Elimelec, nosso irmão;  
 **4** eu quis informar-te disso e dizer-to diante de todos os que estão aqui sentados, dos anciãos do meu povo. Se o queres possuir pelo direito de parentesco, compra-o e fica com ele, mas, se te desagrada, dize-mo, para que eu saiba o que devo fazer; com efeito, não há outro parente senão tu, que és o primeiro, e eu, que sou o segundo. Ele respondeu: Eu comprarei o campo.  
 **5** Booz disse-lhe: Logo que compres o campo de Noemi, é também necessário que cases com Rute Moabita, que foi mulher do defunto, para que faças reviver o nome do teu parente na sua herança.  
-**6** Ele respondeu: Eu cedo o direito de parentesco, com receio de prejudicar os meus herdeiros; usa tu do meu privilégio, ao qual eu declaro que renuncio espontaneamente.  
+**6** Ele respondeu: Eu cedo o direito de parentesco, com receio de prejudicar os meus herdeiros; usa tu do meu privilégio, ao qual eu declaro que renuncio espontâneamente.  
 **7** Era um costume antigo em Israel, entre os parentes, que quando um cedia o seu direito a outro, para a cessão ser válida, o que cedia tirava o seu sapato e dava-o ao seu parente. Este era o testemunho da cessão em Israel.  
 **8** Disse pois Booz ao seu parente: Tira o teu sapato. E ele o tirou logo do pé.  
 **9** (Booz) disse aos anciãos e a todo o povo: Vós sois hoje testemunhas de que entro a possuir tudo o que era de Elimelec, Quelion e Maalon, entregando-mo Noemi,  

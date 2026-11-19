@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -124,7 +124,7 @@
     },
     {
      "n": 6,
-     "texto": "Isto, porém, tens (de bom) que aborreces as ações dos Nicolaítas, que eu também aborreço."
+     "texto": "Isto, porém, tens (de bom) que aborreces as acções dos Nicolaítas, que eu também aborreço."
     },
     {
      "n": 7,
@@ -326,7 +326,7 @@
     },
     {
      "n": 3,
-     "texto": "Aquele que estava sentado era no aspeto semelhante a uma pedra de jaspe e de sardónica; e em volta do trono estava um arco-íris que se assemelhava à cor de esmeralda."
+     "texto": "Aquele que estava sentado era no aspecto semelhante a uma pedra de jaspe e de sardónica; e em volta do trono estava um arco-íris que se assemelhava à cor de esmeralda."
     },
     {
      "n": 4,
@@ -350,7 +350,7 @@
     },
     {
      "n": 9,
-     "texto": "E, quando aqueles animais dão glória, honra e ação de graças ao que está sentado sobre o trono e que vive pelos séculos dos séculos,"
+     "texto": "E, quando aqueles animais dão glória, honra e acção de graças ao que está sentado sobre o trono e que vive pelos séculos dos séculos,"
     },
     {
      "n": 10,
@@ -545,7 +545,7 @@
     },
     {
      "n": 12,
-     "texto": "dizendo: \"Amen! Bênção, glória, sabedoria, ação de graças, honra, poder e fortaleza, ao nosso Deus, pelos séculos dos séculos! Amen!\""
+     "texto": "dizendo: \"Amen! Bênção, glória, sabedoria, acção de graças, honra, poder e fortaleza, ao nosso Deus, pelos séculos dos séculos! Amen!\""
     },
     {
      "n": 13,
@@ -643,7 +643,7 @@
     },
     {
      "n": 4,
-     "texto": "E foi-lhes ordenado que não fizessem dano á erva da terra, nem a verdura alguma, nem a árvore alguma, mas somente aos homens que não têm o selo de Deus sobre as suas frontes."
+     "texto": "E foi-lhes ordenado que não fizessem dano á erva da terra, nem a verdura alguma, nem a árvore alguma, mas sòmente aos homens que não têm o selo de Deus sobre as suas frontes."
     },
     {
      "n": 5,
@@ -797,7 +797,7 @@
     },
     {
      "n": 8,
-     "texto": "Os seus cadáveres ficam estendidos nas praças da grande cidade, que se chama espiritualmente Sodoma e Egito, onde também o Senhor deles foi crucificado."
+     "texto": "Os seus cadáveres ficam estendidos nas praças da grande cidade, que se chama espiritualmente Sodoma e Egipto, onde também o Senhor deles foi crucificado."
     },
     {
      "n": 9,
@@ -991,7 +991,7 @@
     },
     {
      "n": 17,
-     "texto": "e que ninguém possa comprar ou vender, exceto aquele que tenha o sinal ou o nome da Besta ou o número do seu nome."
+     "texto": "e que ninguém possa comprar ou vender, excepto aquele que tenha o sinal ou o nome da Besta ou o número do seu nome."
     },
     {
      "n": 18,
@@ -1336,7 +1336,7 @@
     },
     {
      "n": 12,
-     "texto": "carregamentos de ouro, de prata, de pedras preciosas, de pérolas, de linho fino, de púrpura, de seda, de escarlate, de toda a madeira odorífera, de todos os objetos de marfim, de todos os objetos da mais preciosa madeira, de bronze, de ferro, de mármore,"
+     "texto": "carregamentos de ouro, de prata, de pedras preciosas, de pérolas, de linho fino, de púrpura, de seda, de escarlate, de toda a madeira odorífera, de todos os objectos de marfim, de todos os objectos da mais preciosa madeira, de bronze, de ferro, de mármore,"
     },
     {
      "n": 13,
@@ -1421,7 +1421,7 @@
     },
     {
      "n": 8,
-     "texto": "E foi-lhe dado o vestir-se de linho fino, resplandecente e puro.\" Este linho fino são os atos de justiça dos santos."
+     "texto": "E foi-lhe dado o vestir-se de linho fino, resplandecente e puro.\" Este linho fino são os actos de justiça dos santos."
     },
     {
      "n": 9,
@@ -1469,7 +1469,7 @@
     },
     {
      "n": 20,
-     "texto": "A Besta foi presa, e com ela o falso profeta, que tinha feito prodígios na sua presença, com os quais tinha seduzido os que haviam recebido o caráter da Besta e os que se prostravam diante da sua estátua. Foram ambos lançados vivos no tanque de fogo a arder com enxofre."
+     "texto": "A Besta foi presa, e com ela o falso profeta, que tinha feito prodígios na sua presença, com os quais tinha seduzido os que haviam recebido o carácter da Besta e os que se prostravam diante da sua estátua. Foram ambos lançados vivos no tanque de fogo a arder com enxofre."
     },
     {
      "n": 21,
@@ -1651,7 +1651,7 @@
     },
     {
      "n": 27,
-     "texto": "Não entrará nela coisa alguma contaminada, nem quem cometa abominação ou mentira, mas somente aqueles que estão inscritos no livro da vida do Cordeiro."
+     "texto": "Não entrará nela coisa alguma contaminada, nem quem cometa abominação ou mentira, mas sòmente aqueles que estão inscritos no livro da vida do Cordeiro."
     }
    ]
   },

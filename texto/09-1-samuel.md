@@ -35,7 +35,7 @@
 
 **1** O meu coração exulta no Senhor, e a minha força foi exaltada pelo meu Deus; a minha boca abriu-se para responder aos meus inimigos, porque me alegrei na salvação que recebi de ti.  
 **2** Não há quem seja santo como o Senhor, porque não há outro (Deus) fora de ti, não há quem seja forte como o nosso Deus.  
-**3** Não queirais multiplicar palavras altivas, vangloriando-vos; afaste-se da vossa boca a linguagem arrogante, porque o Senhor é o Deus das ciências, e as ações (do homem) não subsistem.  
+**3** Não queirais multiplicar palavras altivas, vangloriando-vos; afaste-se da vossa boca a linguagem arrogante, porque o Senhor é o Deus das ciências, e as acções (do homem) não subsistem.  
 **4** O arco dos fortes quebrou-se, e os fracos foram revestidos de força.  
 **5** Os que, antes, estavam cheios de bens, assalariaram-se para terem pão; os famintos foram saciados; até a estéril teve sete filhos, e a que tinha muitos, perdeu a força (de os ter).  
 **6** O Senhor é quem tira a vida e a dá, leva à habitação dos mortos e tira dela.  
@@ -43,7 +43,7 @@
 **8** Levanta o pobre do pó, e do esterco eleva o indigente, para que se sente com os príncipes, e ocupe um trono de glória. Porque do Senhor são as colunas da terra, sobre elas pôs o mundo.  
 **9** Ele guardará os pés dos seus santos, e os ímpios perecerão nas trevas; porque o homem não vencerá pela sua robustez,  
 **10** Tremerão diante do Senhor os seus inimigos, e ele trovejará sobre eles dos céus; o Senhor julgará as extremidades da terra, e dará o império ao seu rei, e exaltará a cabeça do seu ungido.  
-**11** Depois disto, Elcana retirou-se para sua casa em Rama, e o menino servia na presença do Senhor, sob a direção do sacerdote Heli.  
+**11** Depois disto, Elcana retirou-se para sua casa em Rama, e o menino servia na presença do Senhor, sob a direcção do sacerdote Heli.  
 **12** Ora os filhos de Heli eram filhos de Belial (pela sua impiedade), não conheciam o Senhor,  
 **13** nem as obrigações de sacerdotes para com o povo. Quando alguém imolava uma vítima, vinha o servo do sacerdote, enquanto se coziam as carnes, com um garfo de três dentes na mão,  
 **14** e metia-o no caldeirão, ou na caldeira, ou na panela, ou na marmita, e, tudo o que o garfo trazia, tomava-o para o sacerdote; assim faziam a todos os Israelitas que iam a Silo.  
@@ -55,11 +55,11 @@
 **20** Heli abençoou Elcana e sua mulher dizendo: O Senhor te dê sucessão desta mulher, em recompensa da prenda que ela ofereceu ao Senhor. E eles voltaram para sua casa.  
 **21** O Senhor visitou Ana, e ela concebeu e deu à luz três filhos e duas filhas. O menino Samuel ia crescendo diante do Senhor.  
 **22** Heli era muito velho, e soube tudo o que seus filhos faziam a todos os de Israel, e que dormiam com as mulheres que vigiavam a porta do tabernáculo.  
-**23** (Em vez de os castigar com severidade) disse-lhes (somente): Por que fazeis estas coisas péssimas, que eu ouço de todo o povo?  
+**23** (Em vez de os castigar com severidade) disse-lhes (sòmente): Por que fazeis estas coisas péssimas, que eu ouço de todo o povo?  
 **24** Não procedais assim, meus filhos, porque não é boa a fama, que eu ouço. Estais a fazer pecar o povo do Senhor.  
 **25** Se um homem pecar contra outro, está no meio Deus, que pode aplacar o ofendido; mas, se um homem pecar contra o Senhor quem intercederá por ele? Mas eles não ouviram a voz de seu pai, porque o Senhor queria faze-los morrer.  
 **26** Entretanto o menino Samuel crescia, e era agradável tanto ao Senhor como aos homens.  
-**27** Um homem de Deus foi ter com Heli e disse-lhe: Eis o que disse o Senhor: Porventura não me revelei eu visivelmente à casa de teu pai, quando eles estavam no Egito na casa de Faraó?  
+**27** Um homem de Deus foi ter com Heli e disse-lhe: Eis o que disse o Senhor: Porventura não me revelei eu visivelmente à casa de teu pai, quando eles estavam no Egipto na casa de Faraó?  
 **28** Eu o escolhi entre todas de as tribos de Israel para meu sacerdote, para subir ao meu altar, para me queimar incenso, e para trazer o éfode diante de mim. De todos os sacrifícios de combustão dos filhos de Israel dei parte à casa de teu pai.  
 **29** Por que calcastes vós aos pés as minhas vítimas e os meus dons, que eu mandei que fossem oferecidos no templo? Por que honraste tu mais os teus filhos do que a mim, comendo com eles as primícias de todos os sacrifícios de Israel, meu povo?  
 **30** Portanto o Senhor Deus de Israel diz: Eu disse e repeti que a tua casa e a casa de teu pai serviria para sempre (no sumo sacerdócio) diante da minha face. Mas agora o Senhor diz: Longe de mim tal coisa; antes, glorificarei a quem me glorificar, e desprezarei a quem me desprezar.  
@@ -72,7 +72,7 @@
 
 ## Capítulo 3
 
-**1** Entretanto o menino Samuel servia o Senhor sob a direção de Heli. A palavra do Senhor era rara, naqueles dias, e a visão não era frequente.  
+**1** Entretanto o menino Samuel servia o Senhor sob a direcção de Heli. A palavra do Senhor era rara, naqueles dias, e a visão não era frequente.  
 **2** Ora aconteceu, certo dia, que Heli estava deitado no seu aposento. (Os seus olhos tinham-se escurecido, e não podia ver).  
 **3** Antes que fosse apagada a lâmpada de Deus, Samuel dormia no templo do Senhor, onde estava a arca de Deus.  
 **4** O Senhor chamou Samuel, o qual respondendo, disse: Eis-me aqui.  
@@ -103,7 +103,7 @@
 **5** Logo que a arca da aliança do Senhor chegou ao acampamento, todo o Israel rompeu num grande clamor, que ressoou pela terra.  
 **6** Os Filisteus ouviram o ruído do clamor e disseram: Que gritaria é esta tão grande no acampamento dos Hebreus? E souberam que a arca do Senhor tinha chegado ao acampamento.  
 **7** Os Filisteus temeram, porque diziam: Deus chegou ao acampamento. E disseram:  
-**8** Ai de nós! Coisa assim não havia acontecido até agora! Ai de nós! Quem nos salvará da mão destes Deuses excelsos? Estes são os Deuses que feriram o Egito com toda a sorte de pragas no deserto.  
+**8** Ai de nós! Coisa assim não havia acontecido até agora! Ai de nós! Quem nos salvará da mão destes Deuses excelsos? Estes são os Deuses que feriram o Egipto com toda a sorte de pragas no deserto.  
 **9** Mas coragem, ó Filisteus! Portai-vos varonilmente, não venhais a ser escravos dos Hebreus, como eles o foram de nós; tende coragem e combatei.  
 **10** Combateram, pois, os Filisteus, e Israel foi derrotado, fugindo cada um para a sua tenda; a derrota foi sobremaneira grande, tendo sido mortos de Israel trinta mil homens de pé.  
 **11** A arca de Deus foi tomada, e os dois filhos de Heli, Ofni e Finéias, foram mortos.  
@@ -113,7 +113,7 @@
 **15** Heli tinha noventa e oito anos; os seus olhos estavam parados, e ele não podia ver.  
 **16** (O homem) disse a Heli: Eu venho da batalha, escapei hoje do campo de combate. Heli disse-lhe: Que sucedeu, meu filho?  
 **17** O que trazia a nova respondeu: Israel fugiu diante dos Filisteus e houve grande mortandade no povo; além disto também os teus dois filhos, Ofni e Finéias, foram mortos, e a arca de Deus foi tomada.  
-**18** Logo que ele nomeou a arca de Deus, Heli caiu da cadeira para trás junto da porta, e, fraturando o crânio, expirou, porque era um homem velho, muito avançado em anos. Tinha julgado Israel durante quarenta anos.  
+**18** Logo que ele nomeou a arca de Deus, Heli caiu da cadeira para trás junto da porta, e, fracturando o crânio, expirou, porque era um homem velho, muito avançado em anos. Tinha julgado Israel durante quarenta anos.  
 **19** Sua nora, mulher de Finéias, estava grávida e próxima do parto. Tendo ouvido a nova de que a arca de Deus havia sido tomada, e que seu sogro e seu marido tinham morrido, inclinou-se e deu á luz, porque de repente foi acometida das dores.  
 **20** Quando estava para expirar, disseram-lhe as que estavam em volta dela: Não temas, pois deste à luz um filho. Mas ela não respondeu, nem deu atenção a isto.  
 **21** Chamou o filho Icabod, dizendo: Foi levada a glória (para longe) de Israel; (ela disse isto) por causa de ter sido tomada a arca de Deus, e por ter sido morto o seu sogro e o seu marido.  
@@ -141,13 +141,13 @@
 **3** Se vós remeteis a arca do Deus de Israel, não a remetais vazia, mas dai-lhe o que deveis pelo pecado; então sereis curados e sabereis por que a sua mão (de Deus) se não afastou de vós.  
 **4** Eles disseram: Que devemos nós dar-lhe pelo delito? Eles responderam:  
 **5** Fareis cinco tumores de ouro e cinco ratos de ouro, segundo o número de príncipes dos Filisteus, porque vós e os vossos príncipes fostes feridos de uma mesma praga. Fareis pois figuras dos vossos tumores e dos ratos que devastaram a terra, e dareis glória ao Deus de Israel, para ver se tira a sua mão de cima de vós, dos vossos deuses e da vossa terra.  
-**6** Por que endureceis os vossos corações, como o Egito e Faraó endureceram o seu coração? Porventura não tiveram de deixar sair os filhos de Israel, depois de ele os haver castigado?  
+**6** Por que endureceis os vossos corações, como o Egipto e Faraó endureceram o seu coração? Porventura não tiveram de deixar sair os filhos de Israel, depois de ele os haver castigado?  
 **7** Agora pois fazei um carro novo, metei ao carro duas vacas que tenham tido há pouco as suas crias, às quais ainda se não tenha posto jugo, e encerrai os seus bezerros no curral.  
 **8** Tomareis a arca do Senhor, pô-la-eis no carro, e poreis ao seu lado, numa pequena caixa, as figuras de ouro que lhe pagastes pelo pecado; depois deixai-a ir.  
 **9** Segui-a com os olhos: se ela for pelo caminho dos seus limites para a banda, de Betsames, (sabei que) o Deus de Israel foi quem nos fez este grande mal; se (ela porém) não (for para lá), conheceremos que não foi a sua mão que nos feriu, mas que isso sucedeu por acaso.  
 **10** Eles assim o fizeram: tomando duas vacas, que davam leite aos seus bezerros, puseram-nas ao carro e encerraram no curral os seus bezerros.  
 **11** E puseram a arca do Senhor sobre o carro e a pequena caixa que continha os ratos de ouro e as figuras dos seus tumores.  
-**12** As vacas foram diretamente pela estrada que conduz a Betsames; seguiram sempre o mesmo caminho sem parar e mugindo, e não declinaram nem para a direita nem para a esquerda. Os príncipes dos Filisteus também iam seguindo atrás, até os confins de Betsames.  
+**12** As vacas foram directamente pela estrada que conduz a Betsames; seguiram sempre o mesmo caminho sem parar e mugindo, e não declinaram nem para a direita nem para a esquerda. Os príncipes dos Filisteus também iam seguindo atrás, até os confins de Betsames.  
 **13** Ora os Betsamitas segavam trigo no vale. Levantando os olhos, viram a arca, e alegraram-se quando a viram.  
 **14** O carro foi para o campo de Josué Betsamita e parou ali. Havia lá uma grande pedra, e (os Betsamitas) fizeram em pedaços a madeira do carro, e puseram as vacas em cima em holocausto ao Senhor.  
 **15** Os Levitas desceram a arca do Senhor e a pequena caixa que estava ao seu lado, onde vinham as figuras de ouro, e colocaram-na sobre aquela grande pedra. Os Betsamitas ofereceram holocaustos e imolaram vítimas naquele dia ao Senhor.  
@@ -187,7 +187,7 @@
 **5** e disseram-lhe: Bem vês que estás velho e que teus filhos não seguem as tuas pisadas; dá-nos um rei, que nos julgue, como o têm todas as nações.  
 **6** Esta linguagem desagradou a Samuel, porque lhe diziam: Dá-nos um rei para que nos julgue. Samuel fez oração ao Senhor,  
 **7** e o Senhor disse a Samuel: Ouve a voz do povo em tudo o que te dizem, porque não é a ti que eles rejeitaram mas a mim, para eu não reinar sobre eles.  
-**8** É assim que eles sempre têm feito, desde o dia que os tirei do Egito até hoje; como me abandonaram a mim e serviram a deuses estranhos, o mesmo te fazem a ti.  
+**8** É assim que eles sempre têm feito, desde o dia que os tirei do Egipto até hoje; como me abandonaram a mim e serviram a deuses estranhos, o mesmo te fazem a ti.  
 **9** Ouve, pois, a sua voz, mas dá testemunho contra eles e declara-lhe o direito do rei que reinar sobre eles.  
 **10** Samuel referiu todas as palavras do Senhor ao povo, que lhe tinha pedido um rei,  
 **11** e disse: Este será o direito do rei que vos há-de governar: Tomará os vossos filhos, pô-los-á nos seus carros, fará deles moços de cavalo, e correrão diante dos seus coches.  
@@ -252,7 +252,7 @@
 **15** Seu tio perguntou-lhe: Conta-me o que te disse Samuel.  
 **16** Saul respondeu ao seu tio: Disse-nos que se tinham encontrado as jumentas. Contudo não lhe descobriu nada do que Samuel lhe tinha dito relativamente ao reino.  
 **17** Samuel convocou o povo diante do Senhor, em Masfa,  
-**18** e disse aos filhos de Israel: Eis o que diz o Senhor Deus de Israel: Eu tirei Israel do Egito, livrei-vos da mão dos Egípcios e do poder de todos os reis que vos oprimiam.  
+**18** e disse aos filhos de Israel: Eis o que diz o Senhor Deus de Israel: Eu tirei Israel do Egipto, livrei-vos da mão dos Egípcios e do poder de todos os reis que vos oprimiam.  
 **19** Vós rejeitastes hoje o vosso Deus, que vos salvou de todos os males e de todas as tribulações, e dissestes: Não há-de ser assim, mas estabelece um rei sobre nós. Agora ponde-vos diante do Senhor, segundo as vossas tribos e famílias.  
 **20** Samuel sorteou todas as tribos de Israel, e caiu a sorte sobre a tribo de Benjamim  
 **21** Deitou sortes sobre a tribo de Benjamim, sobre suas famílias, e a sorte caiu sobre a família de Metri; finalmente chegou até Saul, filho de Cis. Procuraram-no, pois, mas não o encontraram.  
@@ -288,9 +288,9 @@
 **3** Dai testemunho de mim, diante do Senhor e diante de (Saul que é o) seu ungido: Tomei o boi ou o jumento de alguém? Oprimi ou prejudiquei alguém? Aceitei presentes da mão de alguém, para fechar os olhos ao seu proceder? Entregar-vo-los-ei.  
 **4** Eles disseram: Tu não nos prejudicaste, nem oprimiste, nem recebeste coisa alguma da mão de ninguém.  
 **5** (Samuel) disse-lhes: O Senhor é testemunha hoje contra vós, e também o seu ungido é hoje testemunha de que vós não encontrastes na minha mão coisa alguma. Responderam: É testemunha.  
-**6** Samuel disse ao povo: (Sim, é testemunha) aquele Senhor que fez Moisés e, Aarão, e que tirou os nossos pais da terra do Egito.  
+**6** Samuel disse ao povo: (Sim, é testemunha) aquele Senhor que fez Moisés e, Aarão, e que tirou os nossos pais da terra do Egipto.  
 **7** Agora, pois, apresentai-vos, para eu vos acusar diante do Senhor, de (tão mal que tendes correspondido a) todas as misericórdias do Senhor, que vos fez a vós e a vossos pais:  
-**8** Depois que Jacob entrou no Egito, os vossos pais clamaram ao Senhor, e o Senhor enviou Moisés e Aarão, tirou vossos pais do Egito e colocou-os neste lugar.  
+**8** Depois que Jacob entrou no Egipto, os vossos pais clamaram ao Senhor, e o Senhor enviou Moisés e Aarão, tirou vossos pais do Egipto e colocou-os neste lugar.  
 **9** Eles esqueceram-se do Senhor seu Deus, e ele entregou-os na mão de Sisara, general do exército de Hasor, nas mãos dos Filisteus e na mão do rei de Moab, os quais combateram contra eles.  
 **10** Depois clamaram ao Senhor, dizendo: Pecamos, porque deixamos o Senhor e servimos Baal e Astarot; agora livra-nos da mão de nossos inimigos, e servir-te-emos.  
 **11** E o Senhor enviou Jerobaal, Badan, Jefté, Samuel, e livrou-vos da mão dos vossos inimigos que vos rodeavam, e habitastes em vossas casas sem receio.  
@@ -323,7 +323,7 @@
 **10** Ao acabar de oferecer o holocausto, chegava Samuel, e Saul saiu-lhe ao encontro para o saudar.  
 **11** Samuel disse-lhe: Que fizeste? Saul respondeu: Porque vi que o povo debandava e que tu não vinhas no dia aprazado, e que os Filisteus se tinham juntado em Macmas,  
 **12** disse: Agora virão os Filisteus contra mim a Galgala, e eu não aplaquei o Senhor. Obrigado pela necessidade, ofereci o holocausto.  
-**13** Samuel disse a Saul: Procedeste nesciamente e não observaste as ordens que te deu o Senhor teu Deus. Se não tivesses feito isto, já desde agora teria o Senhor confirmado para sempre o teu reino sobre Israel;  
+**13** Samuel disse a Saul: Procedeste nèsciamente e não observaste as ordens que te deu o Senhor teu Deus. Se não tivesses feito isto, já desde agora teria o Senhor confirmado para sempre o teu reino sobre Israel;  
 **14** porém o teu reino não subsistirá. O Senhor buscará para si um homem, segundo o seu coração, e mandar-lhe-á que seja o chefe do seu povo, porque tu não observaste o que o Senhor te ordenou.  
 **15** Samuel levantou-se e foi de Galgala a Gabaa de Benjamim. O resto do povo seguiu Saul contra a multidão dos Filisteus, que iam de Galgala a Gabaa, sobre as colinas de Benjamim. Saul fez o recenseamento do povo, que se encontrava com ele, (e achou) uns seiscentos homens.  
 **16** Saul, Jónatas, seu filho, e a gente que tinha ficado com eles, estavam em Gabaa de Benjamim; os Filisteus estavam em Macmas.  
@@ -332,7 +332,7 @@
 **19** Ora em toda a terra de Israel não se encontrava um ferreiro, porque os Filisteus tinham procurado evitar que os Hebreus forjassem espadas e lanças.  
 **20** Pelo que todo o Israel tinha que ir aos Filisteus, para cada um afiar a sua relha, o enxadão, a machadinha e o sacho.  
 **21** Estavam, portanto, embotados os fios das relhas e dos enxadões e das forquilhas e das machadinhas, nem sequer tendo com que aguçar um aguilhão.  
-**22** Quando chegou o dia do combate, não se encontrou nem espada nem lança na mão de todo o povo que estava com Saul e Jónatas, exceto as de Saul e Jónatas, seu filho.  
+**22** Quando chegou o dia do combate, não se encontrou nem espada nem lança na mão de todo o povo que estava com Saul e Jónatas, excepto as de Saul e Jónatas, seu filho.  
 **23** Uma guarnição dos Filisteus avançou a fim de ir para Macmas.  
 
 ## Capítulo 14
@@ -393,12 +393,12 @@
 ## Capítulo 15
 
 **1** Samuel disse a Saul: O Senhor enviou-me para que te ungisse rei sobre o seu povo de Israel. Ouve, agora, a voz do Senhor.  
-**2** Estas coisas diz o Senhor dos exércitos: Eu recordei tudo o que Amalec tem feito a Israel, de que modo se lhe opôs no caminho, quando saia do Egito.  
+**2** Estas coisas diz o Senhor dos exércitos: Eu recordei tudo o que Amalec tem feito a Israel, de que modo se lhe opôs no caminho, quando saia do Egipto.  
 **3** Vai, pois, agora, fere Amalec, destroi tudo o que lhe pertence; não o poupes e não cobices nada das suas coisas, mas mata homens e mulheres, crianças e meninos de leite, bois e ovelhas, camelos e jumentos.  
 **4** Saul convocou o povo, recenseou-o, (e foram encontrados) duzentos mil homens de pé e dez mil homens (da tribo) de Judá.  
 **5** Tendo marchado Saul até à cidade de Amalec, dispôs emboscadas na torrente.  
-**6** Saul disse aos Cineus: Ide-vos, retirai-vos, separai-vos dos Amalecitas, não suceda que eu vos envolva com eles, porque vós usastes de misericórdia com todos os filhos de Israel, quando vinham do Egito. Retiraram-se, pois, os Cineus do meio dos Amelecitas.  
-**7** Saul bateu os Amalecitas desde Hevila até Sur, que está defronte do Egito.  
+**6** Saul disse aos Cineus: Ide-vos, retirai-vos, separai-vos dos Amalecitas, não suceda que eu vos envolva com eles, porque vós usastes de misericórdia com todos os filhos de Israel, quando vinham do Egipto. Retiraram-se, pois, os Cineus do meio dos Amelecitas.  
+**7** Saul bateu os Amalecitas desde Hevila até Sur, que está defronte do Egipto.  
 **8** Tomou vivo Agag, rei de Amalec, e passou ao fio da espada todo o povo.  
 **9** Porém Saul e o povo perdoaram a Agag e (reservaram) o melhor dos rebanhos de ovelhas e de bois, os cordeiros e, em geral, tudo o que era bom, e não o quiseram destruir; mas tudo o que era vil e desprezível, isso destruíram.  
 **10** O Senhor dirigiu a palavra a Samuel, dizendo:  
@@ -441,7 +441,7 @@
 **9** Isaí trouxe Sarna, do qual (Samuel) disse: Também a este não escolheu o Senhor.  
 **10** Isai mandou, pois, vir os seus sete filhos diante de Samuel, e Samuel disse a Isaí: A nenhum destes escolheu o Senhor.  
 **11** Samuel disse a Isaí: Porventura não tens mais filhos? Isaí respondeu: Ainda falta um pequeno, que anda apascentando as ovelhas. Samuel disse a Isaí: Manda-o vir, porque não nos sentaremos à mesa sem que ele venha aqui.  
-**12** Mandou-o, pois, chamar e apresentou-o (a Samuel). Ele era loiro, de olhos formosos e belo aspeto. O Senhor disse: Levanta-te, unge-o, porque é esse mesmo (que eu escolhi).  
+**12** Mandou-o, pois, chamar e apresentou-o (a Samuel). Ele era loiro, de olhos formosos e belo aspecto. O Senhor disse: Levanta-te, unge-o, porque é esse mesmo (que eu escolhi).  
 **13** Tomou, pois, Samuel o (vaso de) chifre com o óleo, e o ungiu no meio de seus Irmãos. Daquele dia em diante comunicou-se o espírito do Senhor a Davide, e Samuel, levantando-se, partiu para Rama.  
 **14** O espírito do Senhor retirou-se de Saul, e atormentava-o um espírito maligno, por permissão do Senhor.  
 **15** Os servos de Saul disseram-lhe: Um espírito maligno, enviado por Deus, te atormenta.  
@@ -497,7 +497,7 @@
 **39** Cingido Davide com a espada de Saul sobre a sua armadura, começou a experimentar se poderia andar com ela, pois nunca tinha usado nenhuma. Davide disse a Saul: Eu não posso caminhar assim, porque não estou acostumado. E depôs as armas,  
 **40** tomou o seu cajado, que trazia sempre na mão, escolheu na torrente cinco pedras bem lisas, meteu-as no surrão de pastor, que trazia consigo, tomou a funda na mão e saiu contra o Filisteu.  
 **41** O Filisteu ia andando e aproximando-se de Davide, e o seu escudeiro ia diante dele.  
-**42** Quando o Filisteu olhou e viu Davide, desprezou-o, porque era muito novo, loiro, de aspeto gentil.  
+**42** Quando o Filisteu olhou e viu Davide, desprezou-o, porque era muito novo, loiro, de aspecto gentil.  
 **43** O Filisteu disse a Davide: Porventura eu sou algum cão, para vires contra mim com um pau? — O Filisteu amaldiçoou Davide, pelos seus deuses,  
 **44** e disse a Davide: Vem a mim, e eu lançarei as tuas carnes às aves do céu e aos animais da terra.  
 **45** Davide disse ao Filisteu: Tu vens a mim com espada, lança e escudo, eu porém venho a ti em nome do Senhor dos Exércitos, do Deus das tropas de Israel, as quais tu insultaste hoje;  
@@ -541,7 +541,7 @@
 **22** Saul mandou aos seus servos: Falai a Davide como coisa vossa, dizendo: Estás no agrado do rei, e todos os servos te amam. Cuida, pois, em ser genro do rei.  
 **23** Os servos de Saul disseram todas estas palavras a Davide. Davide respondeu: Porventura parece-vos pouca coisa ser genro do rei? Eu sou pobre e de humilde condição.  
 **24** E os servos de Saul referiram-lhe (isto), dizendo: Davide deu-nos esta resposta.  
-**25** Saul, porém, disse: Falai assim a Davide: O rei não necessita de dons para os esponsais, mas somente de cem prepúcios dos Filisteus, para tomar vingança dos seus inimigos. O desígnio de Saul era entregar Davide nas mãos dos Filisteus.  
+**25** Saul, porém, disse: Falai assim a Davide: O rei não necessita de dons para os esponsais, mas sòmente de cem prepúcios dos Filisteus, para tomar vingança dos seus inimigos. O desígnio de Saul era entregar Davide nas mãos dos Filisteus.  
 **26** Tendo os servos de Saul referido a Davide as palavras que Saul tinha dito, a proposta agradou a Davide para chegar a ser genro do rei.  
 **27** Poucos dias depois, saindo Davide, marchou com os homens, que estavam sob o seu comando, matou duzentos filisteus, levou os prepúcios deles, entregando-lhe o número completo para vir a ser seu genro. Saul, então, deu-lhe a sua filha Micol por mulher.  
 **28** Saul viu e compreendeu que o Senhor era com Davide. Micol, filha de Saul, amava-o.  
@@ -626,7 +626,7 @@
 **1** Partiu depois Davide para Nobe, para junto do (Sumo) sacerdote Aquimelec. Aquimelec ficou surpreendido com a chegada de Davide e disse-lhe: Como vens tu só, e ninguém vem contigo?  
 **2** Davide respondeu ao (Sumo) sacerdote Aquimelec: O rei deu-me uma ordem e disse: Não saiba ninguém a causa por que te enviei, nem quais as ordens que te dei. Por isso também eu disse aos meus criados que lhe esperassem num certo lugar.  
 **3** E, agora, se tens à mão alguma coisa, ainda que não seja mais que cinco pães, dá-ma, ou o que quer que encontrares.  
-**4** Respondendo o sacerdote a Davide, disse-lhe: Eu não tenho à mão pães vulgares, mas somente o pão santo; (todavia eu tos darei) se os teus servos estão limpos, principalmente no que toca a mulheres.  
+**4** Respondendo o sacerdote a Davide, disse-lhe: Eu não tenho à mão pães vulgares, mas sòmente o pão santo; (todavia eu tos darei) se os teus servos estão limpos, principalmente no que toca a mulheres.  
 **5** Davide, respondendo ao sacerdote, disse-lhe: No tocante a mulheres, certamente temo-nos abstido desde ontem e ante-ontem, depois que partimos, e os vasos dos (meus) criados conservaram-se puros; e, se a nossa missão é profana, pode ser santificada por aquele que a cumpre.  
 **6** O sacerdote deu-lhe, então, do pão santificado, porque não havia ali senão os pães da proposição, que tinham sido tirados da presença do Senhor, para se porem outros quentes.  
 **7** Achava-se ali naquele dia dentro do tabernáculo do Senhor um certo homem dos criados de Saul, chamado Doeg, Idumeu, o mais poderoso dos pastores de Saul.  
@@ -699,7 +699,7 @@
 
 **1** Saiu Davide dali e habitou nos lugares mais seguros de Engadi.  
 **2** Voltando Saul de ter perseguido os Filisteus, vieram dizer-lhe: Davide está no deserto de Engadi.  
-**3** Saul, tomando consigo três mil homens escolhidos entre todo o Israel, saiu em busca de Davide e de sua gente, indo até pelos rochedos mais escarpados, somente acessíveis às cabras.  
+**3** Saul, tomando consigo três mil homens escolhidos entre todo o Israel, saiu em busca de Davide e de sua gente, indo até pelos rochedos mais escarpados, sòmente acessíveis às cabras.  
 **4** Chegou a uns currais de ovelhas, que encontrou no caminho, e havia lá uma caverna, onde Saul entrou para fazer as suas necessidades. Davide e os seus estavam escondidos no interior da mesma caverna.  
 **5** Os servos de Davide disseram -lhe: Eis o dia, do qual o Senhor te disse: Eu te entregarei o teu inimigo, para fazeres dele o que te parecer. Então Davide levantou-se e cortou muito de mansinho a orla do manto de Saul.  
 **6** Logo depois o coração de Davide bateu-lhe, porque tinha cortado a orla do manto a Saul.  
@@ -790,7 +790,7 @@
 **18** E acrescentou: Por que motivo persegue o meu senhor o seu servo? Que fiz eu? Que maldade está na minha mão?  
 **19** Ouve, pois, agora, te rogo, ó rei meu senhor, as palavras de teu servo: Se o Senhor te incita contra mim, receba ele o perfume do meu sacrifício; se, porém, são os filhos dos homens, malditos sejam diante do Senhor, porque me expulsaram hoje, para que eu não habite na herança do Senhor, dizendo: Vai, serve a deuses estranhos.  
 **20** E agora não seja derramado o meu sangue na terra, diante do Senhor, porque o rei de Israel saiu em busca duma pulga, assim como se persegue uma perdiz pelos montes.  
-**21** Saul disse: Pequei; volta, meu filho Davide, porque não te tornarei a fazer mal daqui em diante, pois que a minha vida foi hoje preciosa aos teus olhos, porque é manifesto que procedi nesciamente e que cometi uma grande falta.  
+**21** Saul disse: Pequei; volta, meu filho Davide, porque não te tornarei a fazer mal daqui em diante, pois que a minha vida foi hoje preciosa aos teus olhos, porque é manifesto que procedi nèsciamente e que cometi uma grande falta.  
 **22** Respondendo Davide, disse: Eis a lança do rei; venha cá um de seus criados, e leve-a.  
 **23** O Senhor retribuirá a cada um conforme a sua justiça e fidelidade; o Senhor entregou-te hoje na minha mão, e eu não quis estender a minha mão contra o ungido do Senhor.  
 **24** Assim como a tua vida foi hoje preciosa aos meus olhos, assim a minha seja preciosa aos olhos do Senhor, e ele me livre de toda a tribulação.  
@@ -805,7 +805,7 @@
 **5** Davide disse a Aquis: Se eu encontrei graça diante dos teus olhos, seja-me dado lugar numa das cidades deste país, onde eu habite; pois por que há-de residir o teu servo contigo na cidade real?  
 **6** Aquis deu-lhe naquele dia (a cidade de) Siceleg, e, deste modo, Siceleg tornou-se dos reis de Judá até ao dia de hoje.  
 **7** O número de dias que Davide habitou nas terras dos Filisteus, foi de quatro meses.  
-**8** Davide saía com a sua gente e fazia incursões contra os Gessurianos, Gerzianos e Amalecitas, porque naquela terra era antigamente habitada (por estes povos) sobre o caminho de Sur até à terra do Egito.  
+**8** Davide saía com a sua gente e fazia incursões contra os Gessurianos, Gerzianos e Amalecitas, porque naquela terra era antigamente habitada (por estes povos) sobre o caminho de Sur até à terra do Egipto.  
 **9** Davide assolava toda aquela região sem deixar com vida nem homem nem mulher, tirando ovelhas, bois, jumentos, camelos e roupas. Depois voltava e ia para Aquis.  
 **10** Aquis perguntava-lhe: Para que lado fizeste tu hoje incursão? Davide respondia; Para a parte meridional de Judá, ou para a parte meridional de Jerameel, ou para a parte meridional de Ceni.  
 **11** Não deixava Davide com vida nem homem nem mulher, nem levava prisioneiro algum a Get, por temor de que dessem informações contra ele (e os seus) dizendo: Davide fez isto ou aquilo. Foi este o seu proceder durante todo o tempo que habitou no país dos Filisteus.  
@@ -842,7 +842,7 @@
 ## Capítulo 29
 
 **1** Juntaram-se todos os esquadrões dos Filisteus em Afec. Israel também acampou junto da fonte que havia em Jezrael  
-**2** Os príncipes dos Filisteus marchavam à frente das suas tropas, divididas em companhias de cem e de mil homens. Davide e a sua gente iam na retaguarda com Aquis.  
+**2** Os príncipes dos Filisteus marchavam à frente das suas tropas, divididas em companhias de cem e de mil homens. Davide e a sua gente iam na rectaguarda com Aquis.  
 **3** Os príncipes dos Filisteus disseram a Aquis: A que fim vêm aqui esses Hebreus? Aquis respondeu aos príncipes dos Filisteus: Não conheceis vós Davide, que foi servo de Saul, rei de Israel, e que está em minha companhia há muitos dias, ou antes anos, e no qual nunca encontrei coisa que me desagradasse, desde o dia em que se refugiou junto de mim até hoje?  
 **4** Os príncipes dos Filisteus iraram-se contra ele e disseram-lhe: Vá-se embora esse homem, para o lugar em que tu o puseste, e não venha connosco à batalha, não suceda voltar-se contra nós, quando começarmos a combater; pois como poderá ele aplacar o seu senhor, senão com as nossas cabeças?  
 **5** Porventura não é este aquele Davide, em cujo louvor cantavam dançando: Saul matou mil, e Davide dez mil?  
@@ -862,7 +862,7 @@
 **5** Também tinham ido cativas as duas mulheres de Davide, Aquinoão de Jezrael, e Abigail, viúva de Nabal do Carmelo.  
 **6** Davide afligiu-se em extremo, porque o povo queria apedrejá-lo, estando todos amargurados em seu coração por causa de seus filhos e filhas, mas Davide confortou-se no Senhor seu Deus.  
 **7** Disse ao sacerdote Abiatar, filho de Aquimelec: Traze-me o éfode. Abiatar levou o éfode a Davide,  
-**8** Davide consultou o Senhor, dizendo: Perseguirei eu estes ladrões e apanhá-los-ei, ou não? O Senhor respondeu-lhe: Persegue-os, porque indubitavelmente os apanharás, e os esbulharás da presa.  
+**8** Davide consultou o Senhor, dizendo: Perseguirei eu estes ladrões e apanhá-los-ei, ou não? O Senhor respondeu-lhe: Persegue-os, porque indubitàvelmente os apanharás, e os esbulharás da presa.  
 **9** Partiu Davide, com os seiscentos homens que o acompanhavam, e foram até à torrente de Besor; alguns, que iam cansados, fizeram alto.  
 **10** Prosseguiu Davide com quatrocentos homens, porque duzentos tinham ficado atrás, os quais, estando muito cansados, não podiam passar a torrente de Besor.  
 **11** Encontraram no campo um Egípcio, levaram-no a Davide, deram-lhe pão a comer, água a beber,  
@@ -871,11 +871,11 @@
 **14** Nós fizemos uma incursão para a banda meridional de Cereti, para a banda de Judá e para o meio-dia de Caleb, e pusemos fogo a Siceleg.  
 **15** Davide disse-lhe: Poderás tu guiar-me até onde está essa quadrilha? Ele respondeu: Jura-me por Deus, que me não matarás e que me não entregarás nas mãos do meu senhor, e eu te guiarei até onde está essa quadrilha. Davide jurou-lhe.  
 **16** Tendo-o guiado, viram que (os Amalecitas) estavam recostados em terra por todo o campo, comendo, bebendo e dançando, por causa dos grandes despojos que tinham tomado do País dos Filisteus e do país de Judá.  
-**17** Davide deu sobre eles, desde aquela tarde até á tarde do outro dia, e nenhum deles escapou, exceto quatrocentos jovens, que montaram nos camelos e fugiram  
+**17** Davide deu sobre eles, desde aquela tarde até á tarde do outro dia, e nenhum deles escapou, excepto quatrocentos jovens, que montaram nos camelos e fugiram  
 **18** Recobrou Davide, pois, tudo o que os Amalecitas tinham tomado, e libertou as suas duas mulheres.  
 **19** Não faltou coisa alguma nem pequena nem grande, assim de filhos como de filhas, e do despojo; tudo o que tinham apanhado, Davide o recuperou.  
 **20** Davide tomou todos os rebanhos e manadas, e os fez caminhar com os seus homens, que diziam; Esta é a presa de Davide.  
-**21** Foi Davide juntar-se com os duzentos homens, que, de cansados, tinham parado, e não puderam seguir Davide, aos quais tinha dado ordem de ficar junto da torrente de Besor. Eles foram ao encontro de Davide e dos que o acompanhavam. Davide, ao aproximar-se deles, saudou-os amigavelmente.  
+**21** Foi Davide juntar-se com os duzentos homens, que, de cansados, tinham parado, e não puderam seguir Davide, aos quais tinha dado ordem de ficar junto da torrente de Besor. Eles foram ao encontro de Davide e dos que o acompanhavam. Davide, ao aproximar-se deles, saudou-os amigàvelmente.  
 **22** Porém, todos os malvados e perversos, dentre aqueles que tinham ido com Davide, começaram a dizer: Visto que eles não foram connosco, não lhe havemos de dar nada da presa que tomámos; contente-se cada um com reaver sua mulher e filhos; e, logo que os receberem, vão-se.  
 **23** Mas Davide disse: Não fareis assim, meus irmãos, do que o Senhor nos entregou; ele nos conservou, e entregou em nossas mãos esses ladrões, que se tinham lançado sobre nós.  
 **24** Ninguém dará ouvidos a essa proposta que fazeis; tanto o que pelejou, como o que ficou guardando a bagagem, terão igual parte na presa: ela se dividirá igualmente.  

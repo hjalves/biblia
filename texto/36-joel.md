@@ -28,7 +28,7 @@
 **1** Tocai a trombeta em Sião, soltai gritos sobre o meu santo monte! Estremeçam todos os habitantes da terra, porque se aproxima o dia do Senhor, está perto,  
 **2** Dia de trevas e de escuridão, dia de nublados e de sombras! Como a luz da aurora se espalha sobre os montes, assim um povo numeroso e possante (se difundirá por toda a vossa terra de Israel), semelhante ao qual não houve desde o princípio, nem depois haverá outro no decorrer dos séculos.  
 **3** Diante dele (virá) um fogo devorador, e atrás uma chama abrasadora; a terra que, antes dele (chegar), era um jardim de Eden, depois dele ficará sendo a desolação dum deserto, sem haver nada que lhe escape.  
-**4** O seu aspeto é como o aspeto de cavalos; avançam como corcéis.  
+**4** O seu aspecto é como o aspecto de cavalos; avançam como corcéis.  
 **5** (O seu ruído é) como o estrondo de carros a saltar sobre os cumes dos montes, como o crepitar da chama que queima a palha seca; dir-se-ia uma multidão de gente armada para o combate.  
 **6** A sua vista ficam atormentados os povos; todos os rostos empalidecem,  
 **7** Correm como valentes, escalam as muralhas como homens de guerra; cada um segue a sua via, sem confusão de caminhos.  
@@ -44,7 +44,7 @@
 **17** Chorem os sacerdotes, ministros do Senhor, postos entre o pórtico e o altar, e digam; Perdoa, Senhor, ao teu povo, e não deixes cair a tua herança em opróbrio, de sorte que as nações a escarneçam. Porque os povos diriam; Onde está o seu Deus?  
 **18** O Senhor, tomado de zelo pela sua terra, perdoou ao seu povo.  
 **19** O Senhor, respondendo, disse ao seu povo; Vou enviar-vos trigo, vinho novo e azeite, e ficareis saciados destes géneros; não vos entregarei mais ao insulto das nações.  
-**20** Afastarei de vós aquele (inimigo) que vem da parte do Aquilão, e lançá-lo-ei para uma terra árida e deserta; a sua vanguarda para a banda do mar oriental, e a sua retaguarda para o mar ocidental; (ali) exalar-se-á um cheiro infeto um cheiro de podridão, porque (o Senhor, castigando) fez grandes coisas.  
+**20** Afastarei de vós aquele (inimigo) que vem da parte do Aquilão, e lançá-lo-ei para uma terra árida e deserta; a sua vanguarda para a banda do mar oriental, e a sua rectaguarda para o mar ocidental; (ali) exalar-se-á um cheiro infecto um cheiro de podridão, porque (o Senhor, castigando) fez grandes coisas.  
 **21** Não temas, terra (de Judá), exulta e alegra-te, porque o Senhor fez grandes coisas (em teu favor).  
 **22** Não temais, animais do campo, porque as pastagens do deserto reverdecerão, porque toda a árvore dará o seu fruto, a figueira e a vinha produzirão abundantemente.  
 **23** Filhos de Sião, exultai e alegrai-vos no Senhor vosso Deus, porque ele vos dará a primeira chuva, mandar-vos-á chuvas copiosas, fará descer sobre vós, como no princípio, chuvas do outono e da primavera.  
@@ -78,7 +78,7 @@
 **16** O Senhor rugirá de Sião, de Jerusalém fará ouvir a sua voz; os céus e a terra serão abalados. Todavia o Senhor será um refúgio para o seu povo, uma fortaleza para os filhos de Israel.  
 **17** Sabereis então que eu sou o Senhor vosso Deus, que habito no meu santo monte de Sião; Jerusalém será um lugar santo, onde os estrangeiros não tornarão mais a passar.  
 **18** Acontecerá naquele dia que os montes destilarão vinho doce, os outeiros manarão leite, e as águas Jorrarão em todas as correntes de Judá. Da casa do Senhor sairá uma fonte (maravilhosa) que regará o vale das Acácias.  
-**19** O Egito será todo assolado, e a Idumeia ficará sendo um deserto de devastação, porque oprimiram injustamente os filhos de Judá, e derramaram na sua terra o sangue inocente.  
+**19** O Egipto será todo assolado, e a Idumeia ficará sendo um deserto de devastação, porque oprimiram injustamente os filhos de Judá, e derramaram na sua terra o sangue inocente.  
 **20** Pelo contrário a Judeia será habitada eternamente, e Jerusalém de geração em geração.  
 **21** Lavarei o seu sangue, que não tinha ainda lavado; e o Senhor habitará em Sião.
 

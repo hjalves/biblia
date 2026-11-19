@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -107,7 +107,7 @@
     },
     {
      "n": 23,
-     "texto": "mas somente tinham ouvido dizer: \"Aquele que outrora nos perseguia, agora prega a fé que noutro tempo impugnava\""
+     "texto": "mas sòmente tinham ouvido dizer: \"Aquele que outrora nos perseguia, agora prega a fé que noutro tempo impugnava\""
     },
     {
      "n": 24,
@@ -156,7 +156,7 @@
     },
     {
      "n": 10,
-     "texto": "(recomendando) somente que nos lembrássemos dos pobres (da Judeia); o que eu fui solícito em cumprir."
+     "texto": "(recomendando) sòmente que nos lembrássemos dos pobres (da Judeia); o que eu fui solícito em cumprir."
     },
     {
      "n": 11,
@@ -313,7 +313,7 @@
     },
     {
      "n": 27,
-     "texto": "pois todos os que fostes batizados em Cristo, revestistes-vos de Cristo."
+     "texto": "pois todos os que fostes baptizados em Cristo, revestistes-vos de Cristo."
     },
     {
      "n": 28,
@@ -394,11 +394,11 @@
     },
     {
      "n": 17,
-     "texto": "Esses (falsos apóstolos)mostram-se cheios de afeto por vós, mas não retamente; antes querem-vos separar de nós, para serem objeto do vosso afeto."
+     "texto": "Esses (falsos apóstolos)mostram-se cheios de afecto por vós, mas não rectamente; antes querem-vos separar de nós, para serem objecto do vosso afecto."
     },
     {
      "n": 18,
-     "texto": "É bom ser objeto de afeição, mas sempre, e não só quando estou presente entre vós."
+     "texto": "É bom ser objecto de afeição, mas sempre, e não só quando estou presente entre vós."
     },
     {
      "n": 19,
@@ -426,7 +426,7 @@
     },
     {
      "n": 25,
-     "texto": "porque o Sinai é um monte da Arábia, o qual corresponde à Jerusalém atual (isto é, a Sinagoga) a qual é escrava com seus filhos."
+     "texto": "porque o Sinai é um monte da Arábia, o qual corresponde à Jerusalém actual (isto é, a Sinagoga) a qual é escrava com seus filhos."
     },
     {
      "n": 26,
@@ -507,7 +507,7 @@
     },
     {
      "n": 13,
-     "texto": "Vós, irmãos, fostes chamados à liberdade; convém somente que não façais desta liberdade um pretexto para viver segundo a carne, mas servi-vos uns aos outros pela caridade,"
+     "texto": "Vós, irmãos, fostes chamados à liberdade; convém sòmente que não façais desta liberdade um pretexto para viver segundo a carne, mas servi-vos uns aos outros pela caridade,"
     },
     {
      "n": 14,
@@ -523,7 +523,7 @@
     },
     {
      "n": 17,
-     "texto": "Efetivamente, a carne tem desejos contrários ao espírito, e o espírito desejos contrários à carne: estas coisas (a carne e o espírito) são contrárias entre si, para que não façais tudo aquilo que quereis."
+     "texto": "Efectivamente, a carne tem desejos contrários ao espírito, e o espírito desejos contrários à carne: estas coisas (a carne e o espírito) são contrárias entre si, para que não façais tudo aquilo que quereis."
     },
     {
      "n": 18,
@@ -580,7 +580,7 @@
     },
     {
      "n": 4,
-     "texto": "Cada um examine a sua obra, e então terá glória somente em si mesmo, e não em outro."
+     "texto": "Cada um examine a sua obra, e então terá glória sòmente em si mesmo, e não em outro."
     },
     {
      "n": 5,

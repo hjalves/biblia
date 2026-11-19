@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -333,7 +333,7 @@
     },
     {
      "n": 11,
-     "texto": "O meu escudo é Deus, que salva os retos de coração."
+     "texto": "O meu escudo é Deus, que salva os rectos de coração."
     },
     {
      "n": 12,
@@ -584,7 +584,7 @@
     },
     {
      "n": 3,
-     "texto": "Eis que os ímpios retesam o seu arco, ajustam a sua flecha sobre a corda, para dispararem às ocultas contra os que são de coração reto. (2)"
+     "texto": "Eis que os ímpios retesam o seu arco, ajustam a sua flecha sobre a corda, para dispararem às ocultas contra os que são de coração recto. (2)"
     },
     {
      "n": 4,
@@ -604,7 +604,7 @@
     },
     {
      "n": 8,
-     "texto": "Com efeito, o Senhor é justo e ama a justiça; os homens retos verão a sua face. (7)"
+     "texto": "Com efeito, o Senhor é justo e ama a justiça; os homens rectos verão a sua face. (7)"
     }
    ]
   },
@@ -621,7 +621,7 @@
     },
     {
      "n": 3,
-     "texto": "Cada um somente diz falsidade ao seu próximo;"
+     "texto": "Cada um sòmente diz falsidade ao seu próximo;"
     },
     {
      "n": 4,
@@ -683,7 +683,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Ao mestre do coro. De Davide. o insensato diz no seu coração: \"Não há Deus.\" (Os homens) corromperam-se, praticaram ações abomináveis; não há quem faça o bem."
+     "texto": "Ao mestre do coro. De Davide. o insensato diz no seu coração: \"Não há Deus.\" (Os homens) corromperam-se, praticaram acções abomináveis; não há quem faça o bem."
     },
     {
      "n": 2,
@@ -724,7 +724,7 @@
     },
     {
      "n": 3,
-     "texto": "e pensa o que é reto no seu coração, e não calunia com a sua língua; o que ao seu próximo não faz mal. nem dirige opróbrio ao seu vizinho;"
+     "texto": "e pensa o que é recto no seu coração, e não calunia com a sua língua; o que ao seu próximo não faz mal. nem dirige opróbrio ao seu vizinho;"
     },
     {
      "n": 4,
@@ -749,7 +749,7 @@
     },
     {
      "n": 3,
-     "texto": "Para com os santos, que estão na sua terra, quão admirável tornou todo o meu afeto!"
+     "texto": "Para com os santos, que estão na sua terra, quão admirável tornou todo o meu afecto!"
     },
     {
      "n": 4,
@@ -794,7 +794,7 @@
     },
     {
      "n": 2,
-     "texto": "Proceda de ti a minha sentença: os teus olhos veem o que é reto."
+     "texto": "Proceda de ti a minha sentença: os teus olhos vêem o que é recto."
     },
     {
      "n": 3,
@@ -927,7 +927,7 @@
     },
     {
      "n": 19,
-     "texto": "Eles atacaram-me no dia da minha aflição, mas o Senhor fez-se meu protetor,"
+     "texto": "Eles atacaram-me no dia da minha aflição, mas o Senhor fez-se meu protector,"
     },
     {
      "n": 20,
@@ -955,7 +955,7 @@
     },
     {
      "n": 26,
-     "texto": "Com o homem piedoso mostras-te piedoso, com o reto usas de retidão,"
+     "texto": "Com o homem piedoso mostras-te piedoso, com o recto usas de rectidão,"
     },
     {
      "n": 27,
@@ -1096,7 +1096,7 @@
     },
     {
      "n": 9,
-     "texto": "Os preceitos do Senhor são retos, deleitam o coração; o preceito do Senhor é límpido, esclarece os olhos;"
+     "texto": "Os preceitos do Senhor são rectos, deleitam o coração; o preceito do Senhor é límpido, esclarece os olhos;"
     },
     {
      "n": 10,
@@ -1218,7 +1218,7 @@
     },
     {
      "n": 12,
-     "texto": "Se projetarem algum mal contra ti, se maquinarem algum engano, não prevalecerão,"
+     "texto": "Se projectarem algum mal contra ti, se maquinarem algum engano, não prevalecerão,"
     },
     {
      "n": 13,
@@ -1259,11 +1259,11 @@
     },
     {
      "n": 7,
-     "texto": "Eu, porém, sou um verme e não um homem, O opróbrio dos homens e a abjeção da plebe."
+     "texto": "Eu, porém, sou um verme e não um homem, O opróbrio dos homens e a abjecção da plebe."
     },
     {
      "n": 8,
-     "texto": "Todos os que me veem, escarnecem de mim, franzem os lábios, meneiam a cabeça (dizendo):"
+     "texto": "Todos os que me vêem, escarnecem de mim, franzem os lábios, meneiam a cabeça (dizendo):"
     },
     {
      "n": 9,
@@ -1376,7 +1376,7 @@
     },
     {
      "n": 3,
-     "texto": "reconforta a minha alma, guia-me por veredas retas, por causa do seu nome."
+     "texto": "reconforta a minha alma, guia-me por veredas rectas, por causa do seu nome."
     },
     {
      "n": 4,
@@ -1401,7 +1401,7 @@
     },
     {
      "n": 2,
-     "texto": "Efetivamente ele a fundou sobre os mares, e a consolidou sobre os rios."
+     "texto": "Efectivamente ele a fundou sobre os mares, e a consolidou sobre os rios."
     },
     {
      "n": 3,
@@ -1470,7 +1470,7 @@
     },
     {
      "n": 8,
-     "texto": "Bom e reto é o Senhor: por isso ele ensina aos pecadores o caminho (que devem seguir)."
+     "texto": "Bom e recto é o Senhor: por isso ele ensina aos pecadores o caminho (que devem seguir)."
     },
     {
      "n": 9,
@@ -1522,7 +1522,7 @@
     },
     {
      "n": 21,
-     "texto": "Protejam-me a inocência e a retidão, porque espero em ti, Senhor."
+     "texto": "Protejam-me a inocência e a rectidão, porque espero em ti, Senhor."
     },
     {
      "n": 22,
@@ -1579,7 +1579,7 @@
     },
     {
      "n": 12,
-     "texto": "O meu pé está no caminho reto, nas reuniões bendirei o Senhor."
+     "texto": "O meu pé está no caminho recto, nas reuniões bendirei o Senhor."
     }
    ]
   },
@@ -1759,7 +1759,7 @@
     },
     {
      "n": 6,
-     "texto": "Efetivamente a sua indignação dura um instante, e a sua benevolência dura toda a vida. De tarde estaremos em lágrimas, e de manhã em alegria."
+     "texto": "Efectivamente a sua indignação dura um instante, e a sua benevolência dura toda a vida. De tarde estaremos em lágrimas, e de manhã em alegria."
     },
     {
      "n": 7,
@@ -1779,7 +1779,7 @@
     },
     {
      "n": 11,
-     "texto": "Ouve-me, Senhor, e compadece-te de mim; Senhor sê o meu protetor."
+     "texto": "Ouve-me, Senhor, e compadece-te de mim; Senhor sê o meu protector."
     },
     {
      "n": 12,
@@ -1840,7 +1840,7 @@
     },
     {
      "n": 12,
-     "texto": "Para todos os meus inimigos tornei-me um objeto de opróbrio, de ludibrio para os meus vizinhos, de terror para os meus conhecidos; os que me veem fora (pelos caminhos) fogem de mim."
+     "texto": "Para todos os meus inimigos tornei-me um objecto de opróbrio, de ludibrio para os meus vizinhos, de terror para os meus conhecidos; os que me vêem fora (pelos caminhos) fogem de mim."
     },
     {
      "n": 13,
@@ -1876,7 +1876,7 @@
     },
     {
      "n": 21,
-     "texto": "Sob a proteção do teu rosto os defendes das conjuras dos homens, oculta-los no tabernáculo contra as altercações das línguas."
+     "texto": "Sob a protecção do teu rosto os defendes das conjuras dos homens, oculta-los no tabernáculo contra as altercações das línguas."
     },
     {
      "n": 22,
@@ -1941,7 +1941,7 @@
     },
     {
      "n": 11,
-     "texto": "Alegrai-vos no Senhor e regozijai-vos, ó justos, exultai vós todos os que sois de coração reto."
+     "texto": "Alegrai-vos no Senhor e regozijai-vos, ó justos, exultai vós todos os que sois de coração recto."
     }
    ]
   },
@@ -1950,7 +1950,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Exultai, ó justos, no Senhor: e aos retos (do coração) que fica bem o louvá-lo."
+     "texto": "Exultai, ó justos, no Senhor: e aos rectos (do coração) que fica bem o louvá-lo."
     },
     {
      "n": 2,
@@ -1962,7 +1962,7 @@
     },
     {
      "n": 4,
-     "texto": "De facto, a palavra do Senhor é reta, e toda a sua obra é fiel."
+     "texto": "De facto, a palavra do Senhor é recta, e toda a sua obra é fiel."
     },
     {
      "n": 5,
@@ -1986,7 +1986,7 @@
     },
     {
      "n": 10,
-     "texto": "O Senhor dissipa os projetos das nações, e frustra os intentos dos povos."
+     "texto": "O Senhor dissipa os projectos das nações, e frustra os intentos dos povos."
     },
     {
      "n": 11,
@@ -2297,7 +2297,7 @@
     },
     {
      "n": 11,
-     "texto": "Conserva a tua graça aos que te adoram, e a tua equidade aos que têm o coração reto."
+     "texto": "Conserva a tua graça aos que te adoram, e a tua equidade aos que têm o coração recto."
     },
     {
      "n": 12,
@@ -2366,7 +2366,7 @@
     },
     {
      "n": 14,
-     "texto": "Os ímpios desembainham a espada e retesam o seu arco, para abaterem o desgraçado e o pobre, para trucidarem os que seguem caminho reto."
+     "texto": "Os ímpios desembainham a espada e retesam o seu arco, para abaterem o desgraçado e o pobre, para trucidarem os que seguem caminho recto."
     },
     {
      "n": 15,
@@ -2499,7 +2499,7 @@
     },
     {
      "n": 6,
-     "texto": "As minhas chagas estão infetas e purulentas, por causa da minha loucura."
+     "texto": "As minhas chagas estão infectas e purulentas, por causa da minha loucura."
     },
     {
      "n": 7,
@@ -2815,7 +2815,7 @@
     },
     {
      "n": 11,
-     "texto": "Fraturam-se os meus ossos, quando os meus adversários me ultrajam, quando todos os dias me dizem: \"Onde está o teu Deus?\""
+     "texto": "Fracturam-se os meus ossos, quando os meus adversários me ultrajam, quando todos os dias me dizem: \"Onde está o teu Deus?\""
     },
     {
      "n": 12,
@@ -2905,7 +2905,7 @@
     },
     {
      "n": 14,
-     "texto": "Tornaste-nos o opróbrio dos nossos vizinhos; um objeto de escárnio a zombaria para aqueles que estão ao redor de nós."
+     "texto": "Tornaste-nos o opróbrio dos nossos vizinhos; um objecto de escárnio a zombaria para aqueles que estão ao redor de nós."
     },
     {
      "n": 15,
@@ -2990,7 +2990,7 @@
     },
     {
      "n": 7,
-     "texto": "O teu trono, ó Deus, subsistirá por todos os séculos; o cetro do teu reino é um cetro de equidade."
+     "texto": "O teu trono, ó Deus, subsistirá por todos os séculos; o ceptro do teu reino é um ceptro de equidade."
     },
     {
      "n": 8,
@@ -3112,7 +3112,7 @@
     },
     {
      "n": 5,
-     "texto": "Escolhe para nós a nossa herança, a glória de Jacob seu predileto."
+     "texto": "Escolhe para nós a nossa herança, a glória de Jacob seu predilecto."
     },
     {
      "n": 6,
@@ -3258,7 +3258,7 @@
     },
     {
      "n": 14,
-     "texto": "Este é o caminho dos que presumem nesciamente, e este é o fim dos que se deleitam na sua sorte."
+     "texto": "Este é o caminho dos que presumem nèsciamente, e este é o fim dos que se deleitam na sua sorte."
     },
     {
      "n": 15,
@@ -3286,7 +3286,7 @@
     },
     {
      "n": 21,
-     "texto": "O homem que vive na opulência e não reflete, é semelhante às alimárias que perecem."
+     "texto": "O homem que vive na opulência e não reflecte, é semelhante às alimárias que perecem."
     }
    ]
   },
@@ -3383,7 +3383,7 @@
     },
     {
      "n": 23,
-     "texto": "O que oferece sacrifício de louvor (é o que) me honra, e ao que caminha com retidão mostrarei a salvação de Deus.\""
+     "texto": "O que oferece sacrifício de louvor (é o que) me honra, e ao que caminha com rectidão mostrarei a salvação de Deus.\""
     }
    ]
   },
@@ -3412,7 +3412,7 @@
     },
     {
      "n": 6,
-     "texto": "Pequei contra ti só, fiz o que é mau diante dos teus olhos, para que te manifestes justo na tua sentença, reto no teu juízo."
+     "texto": "Pequei contra ti só, fiz o que é mau diante dos teus olhos, para que te manifestes justo na tua sentença, recto no teu juízo."
     },
     {
      "n": 7,
@@ -3534,7 +3534,7 @@
     },
     {
      "n": 2,
-     "texto": "Perverteram-se (os homens), cometeram ações abomináveis; não há quem faça o bem."
+     "texto": "Perverteram-se (os homens), cometeram acções abomináveis; não há quem faça o bem."
     },
     {
      "n": 3,
@@ -3819,7 +3819,7 @@
     },
     {
      "n": 2,
-     "texto": "Porventura, ó poderosos, fazeis verdadeiramente justiça? Porventura, ó filhos dos homens, é com retidão que julgais?"
+     "texto": "Porventura, ó poderosos, fazeis verdadeiramente justiça? Porventura, ó filhos dos homens, é com rectidão que julgais?"
     },
     {
      "n": 3,
@@ -3977,7 +3977,7 @@
     },
     {
      "n": 9,
-     "texto": "Minha é a tua terra Galaad, minha a terra de Manassés, Efraim é o elmo da minha cabeça, Judá o meu cetro,"
+     "texto": "Minha é a tua terra Galaad, minha a terra de Manassés, Efraim é o elmo da minha cabeça, Judá o meu ceptro,"
     },
     {
      "n": 10,
@@ -4063,11 +4063,11 @@
     },
     {
      "n": 5,
-     "texto": "Sim, projetam precipitar-me do meu posto elevado, comprazem-se na mentira; com a sua boca me bendizem, mas em seu coração maldizem."
+     "texto": "Sim, projectam precipitar-me do meu posto elevado, comprazem-se na mentira; com a sua boca me bendizem, mas em seu coração maldizem."
     },
     {
      "n": 6,
-     "texto": "Somente em Deus repousa, ó minha alma, porque dele vem o que espero,"
+     "texto": "Sòmente em Deus repousa, ó minha alma, porque dele vem o que espero,"
     },
     {
      "n": 7,
@@ -4181,7 +4181,7 @@
     },
     {
      "n": 7,
-     "texto": "Projetam infâmias, ocultam os planos arquitetados, o espírito e o coração de cada um deles são insondáveis."
+     "texto": "Projectam infâmias, ocultam os planos arquitectados, o espírito e o coração de cada um deles são insondáveis."
     },
     {
      "n": 8,
@@ -4189,7 +4189,7 @@
     },
     {
      "n": 9,
-     "texto": "e a sua própria língua lhes prepara a ruína: todos os que os veem abanam a cabeça."
+     "texto": "e a sua própria língua lhes prepara a ruína: todos os que os vêem abanam a cabeça."
     },
     {
      "n": 10,
@@ -4197,7 +4197,7 @@
     },
     {
      "n": 11,
-     "texto": "Alegra-se o justo no Senhor e refugia-se nele, e gloriam-se todos os de coração reto."
+     "texto": "Alegra-se o justo no Senhor e refugia-se nele, e gloriam-se todos os de coração recto."
     }
    ]
   },
@@ -4453,7 +4453,7 @@
     },
     {
      "n": 17,
-     "texto": "ó montes escarpados, por que olhais com inveja o monte, no qual aprouve a Deus morar e no qual o Senhor habitará perpetuamente?"
+     "texto": "ó montes escarpados, por que olhais com inveja o monte, no qual aprouve a Deus morar e no qual o Senhor habitará perpètuamente?"
     },
     {
      "n": 18,
@@ -4513,7 +4513,7 @@
     },
     {
      "n": 32,
-     "texto": "Venham os magnates do Egito, estenda a Etiópia as suas mãos para Deus."
+     "texto": "Venham os magnates do Egipto, estenda a Etiópia as suas mãos para Deus."
     },
     {
      "n": 33,
@@ -4582,7 +4582,7 @@
     },
     {
      "n": 12,
-     "texto": "Tomei por vestido um saco, e fui para eles objeto de escárnio."
+     "texto": "Tomei por vestido um saco, e fui para eles objecto de escárnio."
     },
     {
      "n": 13,
@@ -4658,7 +4658,7 @@
     },
     {
      "n": 31,
-     "texto": "Glorificarei o nome de Deus com cânticos, e proclamá-lo-ei com uma ação de graças."
+     "texto": "Glorificarei o nome de Deus com cânticos, e proclamá-lo-ei com uma acção de graças."
     },
     {
      "n": 32,
@@ -4711,7 +4711,7 @@
     },
     {
      "n": 6,
-     "texto": "Eu, porém, sou miserável e pobre, ó Deus, socorre-me. Tu és o meu protetor e o meu libertador: Senhor, não te demores."
+     "texto": "Eu, porém, sou miserável e pobre, ó Deus, socorre-me. Tu és o meu protector e o meu libertador: Senhor, não te demores."
     }
    ]
   },
@@ -4740,11 +4740,11 @@
     },
     {
      "n": 6,
-     "texto": "Em ti me firmei desde o meu nascimento, tu és o meu protetor desde o ventre de minha mãe: em ti esperei sempre."
+     "texto": "Em ti me firmei desde o meu nascimento, tu és o meu protector desde o ventre de minha mãe: em ti esperei sempre."
     },
     {
      "n": 7,
-     "texto": "Fui considerado por muitos como um prodígio; tu, foste, realmente, o meu poderoso protetor."
+     "texto": "Fui considerado por muitos como um prodígio; tu, foste, realmente, o meu poderoso protector."
     },
     {
      "n": 8,
@@ -4825,7 +4825,7 @@
     },
     {
      "n": 2,
-     "texto": "governe o teu povo com justiça, e os teus humildes com retidão."
+     "texto": "governe o teu povo com justiça, e os teus humildes com rectidão."
     },
     {
      "n": 3,
@@ -4902,7 +4902,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Salmo. De Asaf. Quão bom é Deus para com os retos, o Senhor para com os puros de coração!"
+     "texto": "Salmo. De Asaf. Quão bom é Deus para com os rectos, o Senhor para com os puros de coração!"
     },
     {
      "n": 2,
@@ -4962,7 +4962,7 @@
     },
     {
      "n": 16,
-     "texto": "Refletia pois para compreender isto; pareceu-me porém coisa bastante difícil,"
+     "texto": "Reflectia pois para compreender isto; pareceu-me porém coisa bastante difícil,"
     },
     {
      "n": 17,
@@ -5246,7 +5246,7 @@
     },
     {
      "n": 7,
-     "texto": "eu recordo: medito (nisto) de noite em meu coração, reflito, e o meu espírito esquadrinha."
+     "texto": "eu recordo: medito (nisto) de noite em meu coração, reflicto, e o meu espírito esquadrinha."
     },
     {
      "n": 8,
@@ -5270,7 +5270,7 @@
     },
     {
      "n": 13,
-     "texto": "Medito em todas as tuas obras e vou refletindo sobre as tuas proezas."
+     "texto": "Medito em todas as tuas obras e vou reflectindo sobre as tuas proezas."
     },
     {
      "n": 14,
@@ -5339,7 +5339,7 @@
     },
     {
      "n": 8,
-     "texto": "para que não sejam como seus pais, uma geração rebelde e contumaz: uma geração, que não teve coração reto, nem espírito fiel a Deus."
+     "texto": "para que não sejam como seus pais, uma geração rebelde e contumaz: uma geração, que não teve coração recto, nem espírito fiel a Deus."
     },
     {
      "n": 9,
@@ -5355,7 +5355,7 @@
     },
     {
      "n": 12,
-     "texto": "Diante de seus pais fez maravilhas na terra do Egito, no campo de Tanis."
+     "texto": "Diante de seus pais fez maravilhas na terra do Egipto, no campo de Tanis."
     },
     {
      "n": 13,
@@ -5439,7 +5439,7 @@
     },
     {
      "n": 33,
-     "texto": "E consumiu rapidamente os seus dias, e os seus anos com extermínio repentino."
+     "texto": "E consumiu ràpidamente os seus dias, e os seus anos com extermínio repentino."
     },
     {
      "n": 34,
@@ -5455,7 +5455,7 @@
     },
     {
      "n": 37,
-     "texto": "O seu coração não era reto com ele, nem eram fiéis à sua aliança."
+     "texto": "O seu coração não era recto com ele, nem eram fiéis à sua aliança."
     },
     {
      "n": 38,
@@ -5479,7 +5479,7 @@
     },
     {
      "n": 43,
-     "texto": "quando fez resplandecer no Egito os seus prodígios, e as suas maravilhas no campo de Tanis,"
+     "texto": "quando fez resplandecer no Egipto os seus prodígios, e as suas maravilhas no campo de Tanis,"
     },
     {
      "n": 44,
@@ -5511,7 +5511,7 @@
     },
     {
      "n": 51,
-     "texto": "Feriu todo o primogénito no Egito, as primícias dos seus partos, nas tendas de Cam."
+     "texto": "Feriu todo o primogénito no Egipto, as primícias dos seus partos, nas tendas de Cam."
     },
     {
      "n": 52,
@@ -5543,7 +5543,7 @@
     },
     {
      "n": 59,
-     "texto": "Ouviu-os Deus, ardeu em furor e repudiou asperamente Israel."
+     "texto": "Ouviu-os Deus, ardeu em furor e repudiou àsperamente Israel."
     },
     {
      "n": 60,
@@ -5685,7 +5685,7 @@
     },
     {
      "n": 7,
-     "texto": "Fizeste de nós um objeto de disputa para os nossos vizinhos, e os nossos inimigos fazem escárnio de nós."
+     "texto": "Fizeste de nós um objecto de disputa para os nossos vizinhos, e os nossos inimigos fazem escárnio de nós."
     },
     {
      "n": 8,
@@ -5693,7 +5693,7 @@
     },
     {
      "n": 9,
-     "texto": "Uma videira arrancaste do Egito, expulsaste as gentes e a plantaste."
+     "texto": "Uma videira arrancaste do Egipto, expulsaste as gentes e a plantaste."
     },
     {
      "n": 10,
@@ -5750,7 +5750,7 @@
     },
     {
      "n": 2,
-     "texto": "Regozijai-vos em Deus, nosso protetor, aclamai o Deus de Jacob."
+     "texto": "Regozijai-vos em Deus, nosso protector, aclamai o Deus de Jacob."
     },
     {
      "n": 3,
@@ -5766,7 +5766,7 @@
     },
     {
      "n": 6,
-     "texto": "Prescreveu esta lei a José, quando saiu da terra do Egito. Ouvi uma língua que não entendia"
+     "texto": "Prescreveu esta lei a José, quando saiu da terra do Egipto. Ouvi uma língua que não entendia"
     },
     {
      "n": 7,
@@ -5786,7 +5786,7 @@
     },
     {
      "n": 11,
-     "texto": "Eu sou o Senhor teu Deus, que te tirei da terra do Egito; abre a tua boca, e eu a encherei."
+     "texto": "Eu sou o Senhor teu Deus, que te tirei da terra do Egipto; abre a tua boca, e eu a encherei."
     },
     {
      "n": 12,
@@ -5860,7 +5860,7 @@
     },
     {
      "n": 2,
-     "texto": "Não emudeças Senhor; não estejas calado, ó Deus, nem inativo!"
+     "texto": "Não emudeças Senhor; não estejas calado, ó Deus, nem inactivo!"
     },
     {
      "n": 3,
@@ -6471,7 +6471,7 @@
     },
     {
      "n": 4,
-     "texto": "Mil anos, aos teus olhos, são como o dia de ontem; que passou, e como uma vigília da noite (que somente dura três horas)."
+     "texto": "Mil anos, aos teus olhos, são como o dia de ontem; que passou, e como uma vigília da noite (que sòmente dura três horas)."
     },
     {
      "n": 5,
@@ -6532,7 +6532,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Tu que vives sob a proteção do Altíssimo, que moras à sombra do Omnipotente,"
+     "texto": "Tu que vives sob a protecção do Altíssimo, que moras à sombra do Omnipotente,"
     },
     {
      "n": 2,
@@ -6548,7 +6548,7 @@
     },
     {
      "n": 5,
-     "texto": "Não terás medo do terror noturno, nem da seta que voa de dia,"
+     "texto": "Não terás medo do terror nocturno, nem da seta que voa de dia,"
     },
     {
      "n": 6,
@@ -6661,7 +6661,7 @@
     },
     {
      "n": 16,
-     "texto": "para anunciar quão reto é o Senhor, minha Rocha, e que não há nele iniquidade."
+     "texto": "para anunciar quão recto é o Senhor, minha Rocha, e que não há nele iniquidade."
     }
    ]
   },
@@ -6723,7 +6723,7 @@
     },
     {
      "n": 8,
-     "texto": "Refleti, insensatos do povo, e vós, néscios, quando sereis atilados?"
+     "texto": "Reflecti, insensatos do povo, e vós, néscios, quando sereis atilados?"
     },
     {
      "n": 9,
@@ -6751,7 +6751,7 @@
     },
     {
      "n": 15,
-     "texto": "antes o julgamento voltará à justiça, e segui-la-ão todos os retos de coração."
+     "texto": "antes o julgamento voltará à justiça, e segui-la-ão todos os rectos de coração."
     },
     {
      "n": 16,
@@ -6918,7 +6918,7 @@
     },
     {
      "n": 6,
-     "texto": "Os céus proclamam a sua justiça, e todos os povos veem a sua glória."
+     "texto": "Os céus proclamam a sua justiça, e todos os povos vêem a sua glória."
     },
     {
      "n": 7,
@@ -6938,7 +6938,7 @@
     },
     {
      "n": 11,
-     "texto": "Nasce a luz para os justos, e a alegria para os retos de coração."
+     "texto": "Nasce a luz para os justos, e a alegria para os rectos de coração."
     },
     {
      "n": 12,
@@ -7004,7 +7004,7 @@
     },
     {
      "n": 4,
-     "texto": "Reina o poderoso que ama a justiça: tu estabeleceste as normas da retidão, tu exerces em Jacob a justiça e o direito."
+     "texto": "Reina o poderoso que ama a justiça: tu estabeleceste as normas da rectidão, tu exerces em Jacob a justiça e o direito."
     },
     {
      "n": 5,
@@ -7033,7 +7033,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Salmo. Para ação de graças. Aclamai o Senhor, todas as terras,"
+     "texto": "Salmo. Para acção de graças. Aclamai o Senhor, todas as terras,"
     },
     {
      "n": 2,
@@ -7542,11 +7542,11 @@
     },
     {
      "n": 23,
-     "texto": "Então Israel entrou no Egito, e Jacob foi hóspede na terra de Cam."
+     "texto": "Então Israel entrou no Egipto, e Jacob foi hóspede na terra de Cam."
     },
     {
      "n": 24,
-     "texto": "E (Deus) multiplicou extraordinariamente o povo, e tornou-o mais forte que os seus inimigos."
+     "texto": "E (Deus) multiplicou extraordinàriamente o povo, e tornou-o mais forte que os seus inimigos."
     },
     {
      "n": 25,
@@ -7663,7 +7663,7 @@
     },
     {
      "n": 7,
-     "texto": "Nossos pais no Egito não consideraram as tuas maravilhas, não se lembraram da multidão das tuas graças, antes se revoltaram contra o Altíssimo junto do Mar Vermelho."
+     "texto": "Nossos pais no Egipto não consideraram as tuas maravilhas, não se lembraram da multidão das tuas graças, antes se revoltaram contra o Altíssimo junto do Mar Vermelho."
     },
     {
      "n": 8,
@@ -7719,7 +7719,7 @@
     },
     {
      "n": 21,
-     "texto": "Esqueceram-se de Deus, que os tinha salvado, que tinha operado prodígios no Egito,"
+     "texto": "Esqueceram-se de Deus, que os tinha salvado, que tinha operado prodígios no Egipto,"
     },
     {
      "n": 22,
@@ -7775,7 +7775,7 @@
     },
     {
      "n": 35,
-     "texto": "(Pelo contrário) misturaram-se com os gentios, aprenderam as suas ações,"
+     "texto": "(Pelo contrário) misturaram-se com os gentios, aprenderam as suas acções,"
     },
     {
      "n": 36,
@@ -7864,7 +7864,7 @@
     },
     {
      "n": 8,
-     "texto": "Deem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens,"
+     "texto": "Dêem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens,"
     },
     {
      "n": 9,
@@ -7892,7 +7892,7 @@
     },
     {
      "n": 15,
-     "texto": "Deem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens,"
+     "texto": "Dêem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens,"
     },
     {
      "n": 16,
@@ -7916,7 +7916,7 @@
     },
     {
      "n": 21,
-     "texto": "Deem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens."
+     "texto": "Dêem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens."
     },
     {
      "n": 22,
@@ -7956,7 +7956,7 @@
     },
     {
      "n": 31,
-     "texto": "Deem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens"
+     "texto": "Dêem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens"
     },
     {
      "n": 32,
@@ -8000,7 +8000,7 @@
     },
     {
      "n": 42,
-     "texto": "Os justos veem (estes coisas) e alegram-se, e toda a maldade fecha a sua boca."
+     "texto": "Os justos vêem (estes coisas) e alegram-se, e toda a maldade fecha a sua boca."
     },
     {
      "n": 43,
@@ -8037,7 +8037,7 @@
     },
     {
      "n": 7,
-     "texto": "Para que sejam livres os teus diletos, socorre-nos com a tua direita e ouve-nos."
+     "texto": "Para que sejam livres os teus dilectos, socorre-nos com a tua direita e ouve-nos."
     },
     {
      "n": 8,
@@ -8045,7 +8045,7 @@
     },
     {
      "n": 9,
-     "texto": "minha é a terra de Galaad, minha a terra de Manassés; Efraim é o elmo da minha cabeça, Judá o meu cetro;"
+     "texto": "minha é a terra de Galaad, minha a terra de Manassés; Efraim é o elmo da minha cabeça, Judá o meu ceptro;"
     },
     {
      "n": 10,
@@ -8170,7 +8170,7 @@
     },
     {
      "n": 25,
-     "texto": "Tornei-me para eles um objeto de opróbrio; ao verem-me, abanam a cabeça (insultando-me)."
+     "texto": "Tornei-me para eles um objecto de opróbrio; ao verem-me, abanam a cabeça (insultando-me)."
     },
     {
      "n": 26,
@@ -8207,7 +8207,7 @@
     },
     {
      "n": 2,
-     "texto": "O Senhor estenderá o cetro do teu poder (do alto) de Sião: \"Impera no meio dos teus inimigos!"
+     "texto": "O Senhor estenderá o ceptro do teu poder (do alto) de Sião: \"Impera no meio dos teus inimigos!"
     },
     {
      "n": 3,
@@ -8260,7 +8260,7 @@
     },
     {
      "n": 7,
-     "texto": "As obras das suas mãos são retas e justas; todos os seus preceitos são imutáveis,"
+     "texto": "As obras das suas mãos são rectas e justas; todos os seus preceitos são imutáveis,"
     },
     {
      "n": 8,
@@ -8293,7 +8293,7 @@
     },
     {
      "n": 4,
-     "texto": "Nas trevas (do infortúnio) surge como uma luz para os retos; (ele é) clemente, misericordioso e justo."
+     "texto": "Nas trevas (do infortúnio) surge como uma luz para os rectos; (ele é) clemente, misericordioso e justo."
     },
     {
      "n": 5,
@@ -8367,7 +8367,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Aleluia. Quando Israel saiu do Egito, a casa de Jacob do meio dum povo bárbaro,"
+     "texto": "Aleluia. Quando Israel saiu do Egipto, a casa de Jacob do meio dum povo bárbaro,"
     },
     {
      "n": 2,
@@ -8415,7 +8415,7 @@
     },
     {
      "n": 13,
-     "texto": "Têm boca, e não falam; têm olhos, e não veem. (115,5)"
+     "texto": "Têm boca, e não falam; têm olhos, e não vêem. (115,5)"
     },
     {
      "n": 14,
@@ -8631,11 +8631,11 @@
     },
     {
      "n": 15,
-     "texto": "Grito de júbilo e de salvação, (ouve-se) nas tendas dos justos: A dextra do Senhor atuou com firmeza,"
+     "texto": "Grito de júbilo e de salvação, (ouve-se) nas tendas dos justos: A dextra do Senhor actuou com firmeza,"
     },
     {
      "n": 16,
-     "texto": "a dextra do Senhor levantou-me, a dextra do Senhor atuou com firmeza."
+     "texto": "a dextra do Senhor levantou-me, a dextra do Senhor actuou com firmeza."
     },
     {
      "n": 17,
@@ -8720,7 +8720,7 @@
     },
     {
      "n": 7,
-     "texto": "Eu te louvarei com retidão de coração, quando tiver aprendido os decretos da tua justiça."
+     "texto": "Eu te louvarei com rectidão de coração, quando tiver aprendido os decretos da tua justiça."
     },
     {
      "n": 8,
@@ -8908,7 +8908,7 @@
     },
     {
      "n": 54,
-     "texto": "Os teus estatutos são objeto dos meus cantares no lugar da minha peregrinação."
+     "texto": "Os teus estatutos são objecto dos meus cantares no lugar da minha peregrinação."
     },
     {
      "n": 55,
@@ -8956,7 +8956,7 @@
     },
     {
      "n": 66,
-     "texto": "Ensina-me o sentido reto e a ciência, porque confio nos teus mandamentos."
+     "texto": "Ensina-me o sentido recto e a ciência, porque confio nos teus mandamentos."
     },
     {
      "n": 67,
@@ -9080,7 +9080,7 @@
     },
     {
      "n": 97,
-     "texto": "Quanto eu amo a tua lei, Senhor! Ela é (o objeto da) minha meditação todo o dia."
+     "texto": "Quanto eu amo a tua lei, Senhor! Ela é (o objecto da) minha meditação todo o dia."
     },
     {
      "n": 98,
@@ -9140,7 +9140,7 @@
     },
     {
      "n": 112,
-     "texto": "Inclinei o meu coração a praticar sempre os teus estatutos: perpetuamente e com perfeição."
+     "texto": "Inclinei o meu coração a praticar sempre os teus estatutos: perpètuamente e com perfeição."
     },
     {
      "n": 113,
@@ -9148,7 +9148,7 @@
     },
     {
      "n": 114,
-     "texto": "Tu és o meu protetor e o meu escudo: espero na tua palavra."
+     "texto": "Tu és o meu protector e o meu escudo: espero na tua palavra."
     },
     {
      "n": 115,
@@ -9240,7 +9240,7 @@
     },
     {
      "n": 137,
-     "texto": "Tu és justo, Senhor, e o teu juízo é reto."
+     "texto": "Tu és justo, Senhor, e o teu juízo é recto."
     },
     {
      "n": 138,
@@ -9284,7 +9284,7 @@
     },
     {
      "n": 148,
-     "texto": "Os meus olhos antecedem as vigílias noturnas, para meditar as tuas palavras."
+     "texto": "Os meus olhos antecedem as vigílias nocturnas, para meditar as tuas palavras."
     },
     {
      "n": 149,
@@ -9454,7 +9454,7 @@
     },
     {
      "n": 5,
-     "texto": "O Senhor te guarda, o Senhor é a tua proteção, ao teu lado direito."
+     "texto": "O Senhor te guarda, o Senhor é a tua protecção, ao teu lado direito."
     },
     {
      "n": 6,
@@ -9528,7 +9528,7 @@
     },
     {
      "n": 4,
-     "texto": "a nossa alma está muito farta de ser o objeto de escárnio dos ricos, de desprezo dos soberbos."
+     "texto": "a nossa alma está muito farta de ser o objecto de escárnio dos ricos, de desprezo dos soberbos."
     }
    ]
   },
@@ -9582,11 +9582,11 @@
     },
     {
      "n": 3,
-     "texto": "Porque não permanecerá o cetro dos ímpios sobre a herança dos justos, para que os justos não estendam à iniquidade as suas mãos."
+     "texto": "Porque não permanecerá o ceptro dos ímpios sobre a herança dos justos, para que os justos não estendam à iniquidade as suas mãos."
     },
     {
      "n": 4,
-     "texto": "Faz bem, Senhor, aos bons e aos retos do coração."
+     "texto": "Faz bem, Senhor, aos bons e aos rectos do coração."
     },
     {
      "n": 5,
@@ -9805,7 +9805,7 @@
     },
     {
      "n": 9,
-     "texto": "Revistam-se os teus sacerdotes de justiça (ou santidade), e deem os teus fiéis largas à sua alegria."
+     "texto": "Revistam-se os teus sacerdotes de justiça (ou santidade), e dêem os teus fiéis largas à sua alegria."
     },
     {
      "n": 10,
@@ -9850,7 +9850,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Cântico das subidas. Eia! bendizei ao Senhor, vós, todos os servos do Senhor, vós que assistis na casa do Senhor, durante as horas noturnas."
+     "texto": "Cântico das subidas. Eia! bendizei ao Senhor, vós, todos os servos do Senhor, vós que assistis na casa do Senhor, durante as horas nocturnas."
     },
     {
      "n": 2,
@@ -9867,7 +9867,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Cântico das subidas. Eia! bendizei ao Senhor, vós, todos os servos do Senhor, vós que assistis na casa do Senhor, durante as horas noturnas."
+     "texto": "Cântico das subidas. Eia! bendizei ao Senhor, vós, todos os servos do Senhor, vós que assistis na casa do Senhor, durante as horas nocturnas."
     },
     {
      "n": 2,
@@ -9912,11 +9912,11 @@
     },
     {
      "n": 8,
-     "texto": "Feriu os primogénitos do Egito, desde os homens até aos animais."
+     "texto": "Feriu os primogénitos do Egipto, desde os homens até aos animais."
     },
     {
      "n": 9,
-     "texto": "Operou sinais e prodígios no meio de ti, ó Egito, contra Faraó e contra todos os seus servos."
+     "texto": "Operou sinais e prodígios no meio de ti, ó Egipto, contra Faraó e contra todos os seus servos."
     },
     {
      "n": 10,
@@ -9944,7 +9944,7 @@
     },
     {
      "n": 16,
-     "texto": "têm boca, e não falam: têm olhos, e não veem;"
+     "texto": "têm boca, e não falam: têm olhos, e não vêem;"
     },
     {
      "n": 17,
@@ -10220,7 +10220,7 @@
     },
     {
      "n": 16,
-     "texto": "Os teus olhos viram os meus atos, e no teu livro todos estão inscritos; são fixados os dias, antes que um só deles existisse."
+     "texto": "Os teus olhos viram os meus actos, e no teu livro todos estão inscritos; são fixados os dias, antes que um só deles existisse."
     },
     {
      "n": 17,
@@ -10313,7 +10313,7 @@
     },
     {
      "n": 14,
-     "texto": "Sim, os justos celebrarão o teu nome, os homens retos habitarão na tua presença."
+     "texto": "Sim, os justos celebrarão o teu nome, os homens rectos habitarão na tua presença."
     }
    ]
   },
@@ -10326,7 +10326,7 @@
     },
     {
      "n": 2,
-     "texto": "Suba direta a ti a minha oração, como incenso, seja a elevação das minhas mãos (tão agradável) como o sacrifício da tarde."
+     "texto": "Suba directa a ti a minha oração, como incenso, seja a elevação das minhas mãos (tão agradável) como o sacrifício da tarde."
     },
     {
      "n": 3,
@@ -10558,7 +10558,7 @@
     },
     {
      "n": 10,
-     "texto": "Deem-te glória, Senhor, todas as tuas obras, e os teus santos te bendigam."
+     "texto": "Dêem-te glória, Senhor, todas as tuas obras, e os teus santos te bendigam."
     },
     {
      "n": 11,
@@ -10623,11 +10623,11 @@
     },
     {
      "n": 4,
-     "texto": "Quando sair o seu espírito, voltará ao seu pó; então se desvanecerão (como fumo) todos os seus projetos."
+     "texto": "Quando sair o seu espírito, voltará ao seu pó; então se desvanecerão (como fumo) todos os seus projectos."
     },
     {
      "n": 5,
-     "texto": "Ditoso aquele de quem é protetor o Deus de Jacob, cuja esperança está no Senhor, seu Deus,"
+     "texto": "Ditoso aquele de quem é protector o Deus de Jacob, cuja esperança está no Senhor, seu Deus,"
     },
     {
      "n": 6,
@@ -10680,7 +10680,7 @@
     },
     {
      "n": 7,
-     "texto": "Cantai ao Senhor um cântico de ação de graças, cantai salmos ao som da cítara ao nosso Deus,"
+     "texto": "Cantai ao Senhor um cântico de acção de graças, cantai salmos ao som da cítara ao nosso Deus,"
     },
     {
      "n": 8,
@@ -10798,7 +10798,7 @@
     },
     {
      "n": 14,
-     "texto": "e (ele) deu ao seu povo um poder sublime. É objeto de louvor para todos os seus santos, para os filhos de Israel, povo que está perto dele. Aleluia."
+     "texto": "e (ele) deu ao seu povo um poder sublime. É objecto de louvor para todos os seus santos, para os filhos de Israel, povo que está perto dele. Aleluia."
     }
    ]
   },

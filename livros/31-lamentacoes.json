@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -453,7 +453,7 @@
     },
     {
      "n": 63,
-     "texto": "SIN. Observa-os, quando sentados ou quando de pé: eu sou o objeto das suas canções (burlescas)."
+     "texto": "SIN. Observa-os, quando sentados ou quando de pé: eu sou o objecto das suas canções (burlescas)."
     },
     {
      "n": 64,
@@ -498,7 +498,7 @@
     },
     {
      "n": 7,
-     "texto": "ZAIN. Os seus príncipes eram mais brilhante que a neve, mais brancos que o leite; mais vermelho que o coral, era o seu corpo; o seu aspeto era duma safira."
+     "texto": "ZAIN. Os seus príncipes eram mais brilhante que a neve, mais brancos que o leite; mais vermelho que o coral, era o seu corpo; o seu aspecto era duma safira."
     },
     {
      "n": 8,
@@ -587,7 +587,7 @@
     },
     {
      "n": 6,
-     "texto": "Estendemos a mão ao Egito e aos Assírios para nos saciarmos de pão."
+     "texto": "Estendemos a mão ao Egipto e aos Assírios para nos saciarmos de pão."
     },
     {
      "n": 7,

@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -91,11 +91,11 @@
     },
     {
      "n": 19,
-     "texto": "Desde o dia em que tirou nossos pais da terra do Egito até hoje temos sido rebeldes ao Senhor nosso Deus, e, levianamente, não ouvimos a sua voz,"
+     "texto": "Desde o dia em que tirou nossos pais da terra do Egipto até hoje temos sido rebeldes ao Senhor nosso Deus, e, levianamente, não ouvimos a sua voz,"
     },
     {
      "n": 20,
-     "texto": "(Por isso) se nos têm pegado muitos males e a maldição que o Senhor predisse a Moisés, seu servo, quando tirou nossos pais da terra do Egito, para nos dar a terra que mana leite e mel, como se vê no dia de hoje."
+     "texto": "(Por isso) se nos têm pegado muitos males e a maldição que o Senhor predisse a Moisés, seu servo, quando tirou nossos pais da terra do Egipto, para nos dar a terra que mana leite e mel, como se vê no dia de hoje."
     },
     {
      "n": 21,
@@ -152,7 +152,7 @@
     },
     {
      "n": 11,
-     "texto": "E agora, ó Senhor Deus de Israel, que tiraste o teu povo da terra do Egito com mão forte, com sinais e prodígios, com grande poder e braço levantado, e adquiriste para ti um renome como se está vendo neste dia,"
+     "texto": "E agora, ó Senhor Deus de Israel, que tiraste o teu povo da terra do Egipto com mão forte, com sinais e prodígios, com grande poder e braço levantado, e adquiriste para ti um renome como se está vendo neste dia,"
     },
     {
      "n": 12,
@@ -285,7 +285,7 @@
     },
     {
      "n": 8,
-     "texto": "Eis aqui estamos nós hoje no nosso cativeiro, em que nos puseste dispersos, para sermos um objeto de afronta e de maldição, para sentirmos a pena do pecado, segundo todas as maldades de nossos pais, que se apartaram do Senhor nosso Deus."
+     "texto": "Eis aqui estamos nós hoje no nosso cativeiro, em que nos puseste dispersos, para sermos um objecto de afronta e de maldição, para sentirmos a pena do pecado, segundo todas as maldades de nossos pais, que se apartaram do Senhor nosso Deus."
     },
     {
      "n": 9,
@@ -656,7 +656,7 @@
     },
     {
      "n": 13,
-     "texto": "(Eis um que) tem um cetro na mão, corno governador de província, mas não mata a quem ofende."
+     "texto": "(Eis um que) tem um ceptro na mão, corno governador de província, mas não mata a quem ofende."
     },
     {
      "n": 14,
@@ -768,7 +768,7 @@
     },
     {
      "n": 41,
-     "texto": "São incapazes de refletir sobre tudo isto e de abandonar esses deuses, tamanha é a sua insensatez! Mesmo, quando se desenganam, os abandonam, porque os seus deuses são insensíveis."
+     "texto": "São incapazes de reflectir sobre tudo isto e de abandonar esses deuses, tamanha é a sua insensatez! Mesmo, quando se desenganam, os abandonam, porque os seus deuses são insensíveis."
     },
     {
      "n": 42,

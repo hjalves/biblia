@@ -5,9 +5,9 @@
 **1** No primeiro ano de Ciro, rei dos Persas, a fim de se cumprir a palavra do Senhor pronunciada pela boca de Jeremias, o Senhor suscitou o espírito de Ciro, rei dos Persas, que mandou publicar em todo o seu reino, de viva voz e por escrito, esta ordem:  
 **2** Eis o que diz Ciro, rei dos Persas: O Senhor Deus do céu deu-me todos os reinos da terra, e ele mesmo me mandou que lhe edificasse um templo em Jerusalém, que está na Judeia.  
 **3** Quem é dentre vós pertencente ao seu povo? O seu Deus seja com ele. Vá para Jerusalém, que está na Judeia, e edifique a casa do Senhor Deus de Israel. O Deus (verdadeiro) é aquele que está em Jerusalém.  
-**4** Todos aqueles que ainda restam (de Judá), em qualquer lugar onde habitem, sejam ajudados pelas populações desse lugar com prata, com ouro, com (outros) bens e com gados, com dons voluntariamente oferecidos para o templo de Deus, que está em Jerusalém.  
+**4** Todos aqueles que ainda restam (de Judá), em qualquer lugar onde habitem, sejam ajudados pelas populações desse lugar com prata, com ouro, com (outros) bens e com gados, com dons voluntàriamente oferecidos para o templo de Deus, que está em Jerusalém.  
 **5** Então os chefes das famílias de Judá e de Benjamim, os sacerdotes, os Levitas, e todos aqueles cujo coração Deus tinha tocado, prepararam-se para ir reedificar o templo do Senhor, que estava em Jerusalém.  
-**6** Todos os que moravam perto deles ajudaram-nos, pondo em suas mãos objetos de prata e de ouro, utensílios, gados e coisas preciosas, além daquilo que tinham oferecido voluntariamente.  
+**6** Todos os que moravam perto deles ajudaram-nos, pondo em suas mãos objectos de prata e de ouro, utensílios, gados e coisas preciosas, além daquilo que tinham oferecido voluntàriamente.  
 **7** O rei Ciro entregou também os vasos do templo do Senhor, que Nabucodonosor tinha levado de Jerusalém e que tinha posto no templo do seu deus.  
 **8** Ciro, rei dos Persas, mandou-os entregar por mão de Mitridates, filho de Gazabar, e deu-os por conta a Sassabasar, príncipe de Judá.  
 **9** Eis o número deles; Trinta copos de ouro, mil copos de prata, vinte e nove facas, trinta taças de ouro,  
@@ -97,7 +97,7 @@
 **6** Desde o primeiro dia do sétimo mês começaram a oferecer o holocausto ao Senhor, porém ainda não tinham sido lançados os fundamentos do templo de Deus.  
 **7** Deram dinheiro aos canteiros e carpinteiros, e deram víveres, bebidas e azeite aos Sidónios e aos Tirios, para que transportassem madeira de cedro do Líbano, por mar, até Jope, conforme o que lhes linha ordenado Ciro, rei dos Persas.  
 **8** No segundo ano da sua chegada ao (lugar do) templo de Deus em Jerusalém, no segundo mês, Zorobabel, filho de Salatiel, e Josué, filho de Josedec, e os outros seus irmãos sacerdotes e Levitas, bem como todos os que tinham vindo do cativeiro para Jerusalém, puseram mãos à obra e encarregaram os Levitas, de vinte anos para cima, de vigiar os trabalhos do templo do Senhor.  
-**9** Josué, com seus filhos e seus irmãos, Cedmiel e seus filhos, filhos de Judá, dispuseram-se unanimemente a dirigir os que trabalhavam no templo de Deus; igualmente (se dispuseram) os filhos de Henadad, com seus filhos e irmãos, Levitas.  
+**9** Josué, com seus filhos e seus irmãos, Cedmiel e seus filhos, filhos de Judá, dispuseram-se unânimemente a dirigir os que trabalhavam no templo de Deus; igualmente (se dispuseram) os filhos de Henadad, com seus filhos e irmãos, Levitas.  
 **10** Lançados, pois, os fundamentos do templo do Senhor pelos pedreiros, apresentaram-se os sacerdotes revestidos dos seus ornamentos e com as trombetas, e os Levitas, filhos de Asaf, com címbalos, para louvarem a Deus com os salmos de David, rei de Israel.  
 **11** Cantavam hinos e davam glória ao Senhor (dizendo): Que ele é bom, e é eterna a sua misericórdia sobre Israel. Todo o povo também levantava grandes clamores, louvando o Senhor, por terem sido lançados os fundamentos do templo do Senhor.  
 **12** Muitos dos sacerdotes, dos Levitas, dos chefes das famílias e dos anciãos, que tinham visto o primeiro templo, vendo lançar diante dos seus olhos os fundamentos deste outro templo, choravam em alta voz; (por outro lado) muitos soltavam gritos de alegria, de contentamento.  
@@ -107,9 +107,9 @@
 
 **1** Quando os inimigos de Judá e de Benjamim souberam que os filhos do cativeiro edificavam o templo do Senhor Deus de Israel,  
 **2** indo ter com Zorobabel e com os chefes das famílias, disseram-lhes: Deixai-nos edificar convosco, porque nós buscamos o vosso Deus, do mesmo modo que vós; temos-lhe sempre imolado vitimas, desde o tempo de Assaradão, rei da Assíria, que nos mandou para aqui.  
-**3** Zorobabel, Josué e os outros chefes das famílias de Israel responderam-lhes: Não convém a vós e a nós edificar juntamente a casa ao nosso Deus; nós, sozinhos, a edificaremos ao Senhor nosso Deus, como Ciro, rei dos Persas, no-lo ordenou.  
+**3** Zorobabel, Josué e os outros chefes das famílias de Israel responderam-lhes: Não convém a vós e a nós edificar juntamente a casa ao nosso Deus; nós, sòzinhos, a edificaremos ao Senhor nosso Deus, como Ciro, rei dos Persas, no-lo ordenou.  
 **4** Daqui resultou que o povo da terra intimidava o povo de Judá e estorvava-o na obra.  
-**5** (Os inimigos de Judá) subornaram alguns conselheiros (do rei), para destruírem o seu projeto. Isto durou todo o tempo de Ciro, rei dos Persas, até ao reinado de Dario, rei dos Persas.  
+**5** (Os inimigos de Judá) subornaram alguns conselheiros (do rei), para destruírem o seu projecto. Isto durou todo o tempo de Ciro, rei dos Persas, até ao reinado de Dario, rei dos Persas.  
 **6** No reinado de Assuero, quando ele começou a reinar, fizeram por escrito uma acusação contra os habitantes de Judá e Jerusalém.  
 **7** No reinado de Artaxerxes, Beselão, Mitridates, Tabeel e os outros, que eram do partido destes, escreveram a Artaxerxes, rei dos Persas. A carta de acusação foi traduzida em arameu e transcrita em caracteres arameus.  
 **8** Reum, governador, e Samsai, secretário, escreveram (sobre as coisas) de Jerusalém uma caria ao rei Artaxerxes, do teor seguinte:  
@@ -136,7 +136,7 @@
 **2** Então Zorobabel, filho de Salatiel, e Josué, filho de Josedec, recomeçaram a edificar o templo de Deus em Jerusalém, e com eles os profetas de Deus que os ajudavam.  
 **3** No mesmo tempo foram ter com eles Tatanai, que era governador da banda de além do rio, Starbuzanai e os seus colegas, e disseram-lhes assim: Quem vos deu autorização de edificar este templo e de levantar estes muros?  
 **4** E perguntaram também: Quais são os nomes dos que trabalham nesta construção?  
-**5** Mas Deus olhou favoravelmente para os anciãos dos Judeus, e não se impôs a cessação dos trabalhos, até que se expusesse este assunto a Dario e que se recebesse carta sobre ele.  
+**5** Mas Deus olhou favoràvelmente para os anciãos dos Judeus, e não se impôs a cessação dos trabalhos, até que se expusesse este assunto a Dario e que se recebesse carta sobre ele.  
 **6** Eis a cópia da carta que mandaram ao rei Dario Tatanai, governador da província de além do rio, e Starbuzanai e seus companheiros Afarsaqueus, que habitavam da banda de além do rio.  
 **7** A carta, que eles lhe mandaram, está escrita nestes termos: Ao rei Dario toda a paz.  
 **8** Saiba o rei que nós fomos à província da Judeia, à casa do grande Deus, que se está edificando de pedras toscas, sobre cujas paredes se estão colocando as vigas; esta obra edifica-se com toda a diligência e avança nas suas mãos.  
@@ -160,7 +160,7 @@
 **6** Agora, pois, Talanai, governador das terras, que estão da banda de além do rio, Starbuzanai, e vossos colegas Afarsaqueus, que viveis da banda de além do rio, retirai-vos dos Judeus.  
 **7** Deixai que prossigam os trabalhos do templo de Deus, e que o governador dos Judeus e os seus anciãos edifiquem aquela casa de Deus no seu lugar.  
 **8** Também ordeno como é que se deve proceder com aqueles anciãos dos Judeus, pelo que diz respeito à edificação da casa de Deus: do erário do rei, isto é, dos tributos que pagam as terras de além do rio, pague-se com pontualidade àqueles homens o que for necessário para as despesas, para que não se embarace a obra.  
-**9** Sendo necessário, deem-se-lhes, sem falta, todos os dias novilhos, cordeiros e cabritos, para se oferecerem em holocausto ao Deus do céu, e trigo, sal, vinho e azeite, conforme o regulamento dos sacerdotes que assistem em Jerusalém, para que  
+**9** Sendo necessário, dêem-se-lhes, sem falta, todos os dias novilhos, cordeiros e cabritos, para se oferecerem em holocausto ao Deus do céu, e trigo, sal, vinho e azeite, conforme o regulamento dos sacerdotes que assistem em Jerusalém, para que  
 **10** ofereçam sacrifícios de agradável odor ao Deus do céu, e roguem pela vida do rei e de seus filhos.  
 **11** Além disso, também ordeno que, se alguém contrariar este edito, se arranque um pau de sua casa, se levante ao alto, e seja pregado nele, e a sua casa seja confiscada.  
 **12** Deus, que estabeleceu o seu nome naquele lugar, dissipe todos os reinos e o povo que estender a sua mão para o contradizer e para destruir aquela casa de Deus, que está em Jerusalém. Eu, Dario, fiz este decreto, e quero que ele seja cumprido pontualmente.  
@@ -186,13 +186,13 @@
 **7** Vários dos filhos de Israel, dos filhos dos sacerdotes, dos filhos dos Levitas, dos cantores, dos porteiros e dos Natineus foram para Jerusalém no sétimo ano do reinado de Artaxerxes.  
 **8** Chegaram a Jerusalém no quinto mês do sétimo ano deste rei.  
 **9** Ele partiu de Babilónia no primeiro dia do primeiro mês, e chegou a Jerusalém no primeiro dia do quinto mês, porque a mão benéfica do seu Deus era com ele.  
-**10** Esdras tinha efetivamente preparado o seu coração para buscar a lei do Senhor e para cumprir e ensinar em Israel os seus preceitos e as suas ordenações.  
+**10** Esdras tinha efectivamente preparado o seu coração para buscar a lei do Senhor e para cumprir e ensinar em Israel os seus preceitos e as suas ordenações.  
 **11** Esta é a cópia da carta, que o rei Artaxerxes deu a Esdras, sacerdote e escriba, instruído nas palavras da lei e dos preceitos do Senhor relativos a Israel:  
 **12** Artaxerxes, rei dos reis, a Esdras, sacerdote e escriba versado na lei do Deus do céu, etc.  
 **13** Foi decretado por mim que no meu reino todo aquele do povo de Israel, e dos seus sacerdotes e Levitas, que queira ir para Jerusalém, vá contigo.  
 **14** Com efeito, tu és enviado pelo rei e pelos seus sete conselheiros a inspeccionar a Judeia e Jerusalém, no que diz respeito à lei do teu Deus, a qual está na tua mão,  
-**15** e a levar a prata e o ouro, que o rei e os seus conselheiros ofereceram espontaneamente ao Deus de Israel, cujo tabernáculo está em Jerusalém.  
-**16** Toda a prata e o ouro, que encontrares em toda a província de Babilónia e que o povo quiser oferecer, e tudo o que os sacerdotes espontaneamente oferecerem à casa do seu Deus, que está em Jerusalém,  
+**15** e a levar a prata e o ouro, que o rei e os seus conselheiros ofereceram espontâneamente ao Deus de Israel, cujo tabernáculo está em Jerusalém.  
+**16** Toda a prata e o ouro, que encontrares em toda a província de Babilónia e que o povo quiser oferecer, e tudo o que os sacerdotes espontâneamente oferecerem à casa do seu Deus, que está em Jerusalém,  
 **17** recebe-o com liberdade; cuida de comprar com este dinheiro novilhos, carneiros, cordeiros, assim como o necessário para as oblações e libações, e oferece-as sobre o altar do templo do vosso Deus, que está em Jerusalém.  
 **18** Tu e teus irmãos disporeis, como vos aprouver, do resto da prata e do ouro, conforme a vontade do vosso Deus.  
 **19** Os utensílios, que te foram dados para o serviço de casa do teu Deus, coloca-os na presença do Deus de Jerusalém.  
@@ -202,7 +202,7 @@
 **23** Tudo o que pertence ao culto do Deus do céu, seja dado pontualmente à casa do Deus do céu, não suceda irar-se ele contra o reino do rei e de seus filhos.  
 **24** Nós vos notificamos também que, relativamente a todos os sacerdotes, Levitas, cantores, porteiros, Natineus e ministros da casa deste Deus, não tereis poder de lhes impor imposto, nem tributo, nem outros encargos.  
 **25** E tu, Esdras, segundo a sabedoria que recebeste do teu Deus, estabelece juízes e presidentes, que julguem todo o povo que está além do rio, isto é, todos aqueles que conhecem a lei do teu Deus, e ensina também livremente aos que a ignoram.  
-**26** "Todo o que não observar exatamente a lei do teu Deus e a ordem do rei, será condenado ou à morte ou a desterro, ou a alguma multa sobre os seus bens, ou à prisão."  
+**26** "Todo o que não observar exactamente a lei do teu Deus e a ordem do rei, será condenado ou à morte ou a desterro, ou a alguma multa sobre os seus bens, ou à prisão."  
 **27** Bendito seja o Senhor Deus de nossos pais, que pôs no coração do rei este pensamento de glorificar a casa do Senhor, que está em Jerusalém,  
 **28** e que inclinou para mim a benevolência do rei, dos seus conselheiros e de todos os príncipes poderosos da corte do rei. Eu, confortado pela mão do Senhor meu Deus, que estava sobre mim, juntei os principais de Israel para virem comigo.  
 
@@ -229,12 +229,12 @@
 **20** dos Natineus, que David e os príncipes tinham destinado ao serviço dos Levitas, duzentos e vinte Natineus, todos designados pelos seus nomes.  
 **21** Estando junto do rio Aava, publiquei ali um jejum para nos humilharmos diante do Senhor nosso Deus e para lhe pedirmos uma feliz viagem para nós, para nossos filhos e para tudo o que levávamos connosco.  
 **22** Com efeito, tive vergonha de pedir ao rei uma escolta de soldados a cavalo, que nos defendesse dos nossos inimigos pelo caminho, porque tínhamos dito ao rei: A mão do nosso Deus está com todos os que o buscam com sinceridade, mas o seu poder e o seu furor estão contra todos os que o abandonam.  
-**23** Nós, com este fim jejuámos e fizemos oração ao nosso Deus, e tudo nos sucedeu prosperamente.  
+**23** Nós, com este fim jejuámos e fizemos oração ao nosso Deus, e tudo nos sucedeu pròsperamente.  
 **24** Escolhi doze dentre os príncipes dos sacerdotes, Sarabias e Hasabias, e com eles dez de seus irmãos.  
 **25** Pesei diante deles a prata, o ouro e os vasos consagrados da casa do nosso Deus, que o rei, os seus conselheiros, os seus príncipes e todos os Israelitas, que se encontraram lá, tinham oferecido.  
 **26** Entreguei nas suas mãos o peso de seiscentos e cinquenta talentos de prata, cem vasos de prata, cem talentos de ouro.  
 **27** vinte taças de ouro, que tinham o peso de mil dáricos, dois vasos dum bronze muito claro e brilhante, tão belos como ouro,  
-**28** e disse-lhes: Vós sois os santos do Senhor, e santos são os vasos, a prata e o ouro, que foram espontaneamente oferecidos ao Senhor Deus de nossos pais;  
+**28** e disse-lhes: Vós sois os santos do Senhor, e santos são os vasos, a prata e o ouro, que foram espontâneamente oferecidos ao Senhor Deus de nossos pais;  
 **29** vigiai e guardai-os, até que os peseis em Jerusalém na presença dos príncipes dos sacerdotes e dos Levitas, e dos chefes das famílias de Israel, para se conservarem no tesouro da casa do Senhor.  
 **30** Os sacerdotes e os Levitas receberam o peso da prata, do ouro e dos vasos, para o levarem a Jerusalém à casa do nosso Deus.  
 **31** Partimos do rio Aava no dia doze do primeiro mês, a fim de irmos para Jerusalém; a mão do nosso Deus foi connosco e livrou-nos das mãos do inimigo, dos que nos armavam ciladas pelo caminho.  

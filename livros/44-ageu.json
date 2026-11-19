@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -100,7 +100,7 @@
     },
     {
      "n": 6,
-     "texto": "Há o pacto que fiz convosco, quando saístes da terra do Egito; o meu espírito estará no meio de vós. Não temais!"
+     "texto": "Há o pacto que fiz convosco, quando saístes da terra do Egipto; o meu espírito estará no meio de vós. Não temais!"
     },
     {
      "n": 7,
@@ -140,7 +140,7 @@
     },
     {
      "n": 16,
-     "texto": "Agora refleti nos vossos corações sobre o que tem acontecido desde este dia para trás, antes que se lançasse pedra sobre pedra no templo do Senhor."
+     "texto": "Agora reflecti nos vossos corações sobre o que tem acontecido desde este dia para trás, antes que se lançasse pedra sobre pedra no templo do Senhor."
     },
     {
      "n": 17,
@@ -172,7 +172,7 @@
     },
     {
      "n": 24,
-     "texto": "Naquele dia, diz o Senhor dos exércitos, eu te tomarei (debaixo da minha proteção) ó Zorobabel, meu servo, filho de Salatiel, diz o Senhor, e te guardarei como um sinete, porque te escolhi, diz o Senhor dos exércitos."
+     "texto": "Naquele dia, diz o Senhor dos exércitos, eu te tomarei (debaixo da minha protecção) ó Zorobabel, meu servo, filho de Salatiel, diz o Senhor, e te guardarei como um sinete, porque te escolhi, diz o Senhor dos exércitos."
     }
    ]
   }

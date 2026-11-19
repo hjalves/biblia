@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -119,7 +119,7 @@
     },
     {
      "n": 26,
-     "texto": "Por isso Deus entregou-os a paixões de ignomínia. Efetivamente, as suas próprias mulheres mudaram o uso natural em uso contra a natureza,"
+     "texto": "Por isso Deus entregou-os a paixões de ignomínia. Efectivamente, as suas próprias mulheres mudaram o uso natural em uso contra a natureza,"
     },
     {
      "n": 27,
@@ -135,15 +135,15 @@
     },
     {
      "n": 30,
-     "texto": "detratores, odiados por Deus, injuriadores, soberbos, altivos, inventores de maldades, desobedientes aos pais,"
+     "texto": "detractores, odiados por Deus, injuriadores, soberbos, altivos, inventores de maldades, desobedientes aos pais,"
     },
     {
      "n": 31,
-     "texto": "insensatos, sem lealdade, sem afeto, sem lei, sem misericórdia."
+     "texto": "insensatos, sem lealdade, sem afecto, sem lei, sem misericórdia."
     },
     {
      "n": 32,
-     "texto": "Os quais, conhecedores da justiça de Deus, sabendo que os que fazem tais coisas são dignos de morte, não somente as fazem mas também aprovam aqueles que as fazem."
+     "texto": "Os quais, conhecedores da justiça de Deus, sabendo que os que fazem tais coisas são dignos de morte, não sòmente as fazem mas também aprovam aqueles que as fazem."
     }
    ]
   },
@@ -349,7 +349,7 @@
     },
     {
      "n": 20,
-     "texto": "Pelas obras da lei não será justificado nenhum homem diante dele. Efetivamente, pela lei vem o conhecimento do pecado."
+     "texto": "Pelas obras da lei não será justificado nenhum homem diante dele. Efectivamente, pela lei vem o conhecimento do pecado."
     },
     {
      "n": 21,
@@ -357,7 +357,7 @@
     },
     {
      "n": 22,
-     "texto": "A justiça de Deus (é infundada) pela fé de Jesus Cristo em todos e sobre todos os que creem nele, sem distinção,"
+     "texto": "A justiça de Deus (é infundada) pela fé de Jesus Cristo em todos e sobre todos os que crêem nele, sem distinção,"
     },
     {
      "n": 23,
@@ -434,7 +434,7 @@
     },
     {
      "n": 9,
-     "texto": "Ora esta bem-aventurança é somente para os circuncidados, ou também para os incircuncidados? Porquanto, dizemos que a fé foi imputada a Abraão como justiça."
+     "texto": "Ora esta bem-aventurança é sòmente para os circuncidados, ou também para os incircuncidados? Porquanto, dizemos que a fé foi imputada a Abraão como justiça."
     },
     {
      "n": 10,
@@ -446,7 +446,7 @@
     },
     {
      "n": 12,
-     "texto": "e seja pai dos circuncisos, daqueles que não têm somente a circuncisão, mas, além disso, seguem as pisadas da fé que teve nosso pai Abraão antes de ser circuncidado."
+     "texto": "e seja pai dos circuncisos, daqueles que não têm sòmente a circuncisão, mas, além disso, seguem as pisadas da fé que teve nosso pai Abraão antes de ser circuncidado."
     },
     {
      "n": 13,
@@ -462,7 +462,7 @@
     },
     {
      "n": 16,
-     "texto": "Por isso da fé é (que vem) a herança, a fim de que (esta) seja gratuita e certa para toda a posteridade, não somente para o que é da lei, mas também para o que é da fé de Abraão, que é pai de todos nós,"
+     "texto": "Por isso da fé é (que vem) a herança, a fim de que (esta) seja gratuita e certa para toda a posteridade, não sòmente para o que é da lei, mas também para o que é da fé de Abraão, que é pai de todos nós,"
     },
     {
      "n": 17,
@@ -490,7 +490,7 @@
     },
     {
      "n": 23,
-     "texto": "Ora não está escrito somente por causa dele que lhe foi imputado (como justiça)"
+     "texto": "Ora não está escrito sòmente por causa dele que lhe foi imputado (como justiça)"
     },
     {
      "n": 24,
@@ -515,7 +515,7 @@
     },
     {
      "n": 3,
-     "texto": "E não somente (nesta esperança), mas também nos gloriamos nas tribulações, sabendo que a tribulação produz a paciência,"
+     "texto": "E não sòmente (nesta esperança), mas também nos gloriamos nas tribulações, sabendo que a tribulação produz a paciência,"
     },
     {
      "n": 4,
@@ -604,11 +604,11 @@
     },
     {
      "n": 3,
-     "texto": "Não sabeis que todos os que fomos batizados em Jesus Cristo, fomos batizados na sua morte?"
+     "texto": "Não sabeis que todos os que fomos baptizados em Jesus Cristo, fomos baptizados na sua morte?"
     },
     {
      "n": 4,
-     "texto": "Fomos, pois, sepultados com ele, a fim de morrer (para o pecado) pelo batismo, para que, assim como Cristo ressuscitou dos mortos pela glória do Pai, assim nós vivamos uma vida nova."
+     "texto": "Fomos, pois, sepultados com ele, a fim de morrer (para o pecado) pelo baptismo, para que, assim como Cristo ressuscitou dos mortos pela glória do Pai, assim nós vivamos uma vida nova."
     },
     {
      "n": 5,
@@ -709,7 +709,7 @@
     },
     {
      "n": 5,
-     "texto": "Enquanto estávamos na carne, os afetos pecaminosos, excitados pela lei, atuavam em nossos membros, para produzirem frutos de morte."
+     "texto": "Enquanto estávamos na carne, os afectos pecaminosos, excitados pela lei, actuavam em nossos membros, para produzirem frutos de morte."
     },
     {
      "n": 6,
@@ -745,7 +745,7 @@
     },
     {
      "n": 14,
-     "texto": "Efetivamente sabemos que a lei é espiritual, mas eu sou carnal, vendido como escravo ao pecado."
+     "texto": "Efectivamente sabemos que a lei é espiritual, mas eu sou carnal, vendido como escravo ao pecado."
     },
     {
      "n": 15,
@@ -846,7 +846,7 @@
     },
     {
      "n": 13,
-     "texto": "Efetivamente, se viverdes segundo a carne, morrereis (para a vida da graça), mas se, pelo espírito, fizerdes morrer as obras da carne, vivereis."
+     "texto": "Efectivamente, se viverdes segundo a carne, morrereis (para a vida da graça), mas se, pelo espírito, fizerdes morrer as obras da carne, vivereis."
     },
     {
      "n": 14,
@@ -995,7 +995,7 @@
     },
     {
      "n": 10,
-     "texto": "E não somente ela, mas também (recebeu a promessa) Rebeca, a qual, de um só homem, Isaac, nosso pai, concebeu (dois filhos)."
+     "texto": "E não sòmente ela, mas também (recebeu a promessa) Rebeca, a qual, de um só homem, Isaac, nosso pai, concebeu (dois filhos)."
     },
     {
      "n": 11,
@@ -1055,7 +1055,7 @@
     },
     {
      "n": 25,
-     "texto": "Como diz em Oseias( Os. 2, 23; Os. 1, 10 ): Chamarei meu povo o povo não meu, e amado o não amado, e objeto de misericórdia o que não tinha alcançado misericórdia,"
+     "texto": "Como diz em Oseias( Os. 2, 23; Os. 1, 10 ): Chamarei meu povo o povo não meu, e amado o não amado, e objecto de misericórdia o que não tinha alcançado misericórdia,"
     },
     {
      "n": 26,
@@ -1063,7 +1063,7 @@
     },
     {
      "n": 27,
-     "texto": "Acerca de Israel, Isaías exclama: Se for o número dos filhos de Israel como a areia do mar, somente as relíquias serão salvas."
+     "texto": "Acerca de Israel, Isaías exclama: Se for o número dos filhos de Israel como a areia do mar, sòmente as relíquias serão salvas."
     },
     {
      "n": 28,
@@ -1112,7 +1112,7 @@
     },
     {
      "n": 5,
-     "texto": "Efetivamente Moisés escreveu, a respeito da justiça que vem da lei: O homem que a cumprir, por ela viverá (Lv. 18, 5)."
+     "texto": "Efectivamente Moisés escreveu, a respeito da justiça que vem da lei: O homem que a cumprir, por ela viverá (Lv. 18, 5)."
     },
     {
      "n": 6,
@@ -1309,7 +1309,7 @@
     },
     {
      "n": 32,
-     "texto": "Efetivamente, Deus a todos encerrou na desobediência, a fim de usar com todos de misericórdia."
+     "texto": "Efectivamente, Deus a todos encerrou na desobediência, a fim de usar com todos de misericórdia."
     },
     {
      "n": 33,
@@ -1431,7 +1431,7 @@
     },
     {
      "n": 3,
-     "texto": "Com efeito, os príncipes não são para temer pelas ações boas, mas pelas más. Queres, pois, não temer a autoridade? Faze o bem, e terás o louvor dela,"
+     "texto": "Com efeito, os príncipes não são para temer pelas acções boas, mas pelas más. Queres, pois, não temer a autoridade? Faze o bem, e terás o louvor dela,"
     },
     {
      "n": 4,
@@ -1439,7 +1439,7 @@
     },
     {
      "n": 5,
-     "texto": "É pois, necessário que lhe estejais sujeitos, não somente pelo temor da ira, mas também por motivo de consciência."
+     "texto": "É pois, necessário que lhe estejais sujeitos, não sòmente pelo temor da ira, mas também por motivo de consciência."
     },
     {
      "n": 6,
@@ -1488,7 +1488,7 @@
     },
     {
      "n": 2,
-     "texto": "Um crê que pode comer de tudo; o outro, porém, que é fraco, come (somente) legumes."
+     "texto": "Um crê que pode comer de tudo; o outro, porém, que é fraco, come (sòmente) legumes."
     },
     {
      "n": 3,
@@ -1544,7 +1544,7 @@
     },
     {
      "n": 16,
-     "texto": "Não façais que seja objeto de critica o que é vosso bem."
+     "texto": "Não façais que seja objecto de critica o que é vosso bem."
     },
     {
      "n": 17,
@@ -1681,7 +1681,7 @@
     },
     {
      "n": 26,
-     "texto": "porque a Macedónia e Acaia tiveram por bem fazer uma coleta para os pobres, que existem entre os santos de Jerusalém."
+     "texto": "porque a Macedónia e Acaia tiveram por bem fazer uma colecta para os pobres, que existem entre os santos de Jerusalém."
     },
     {
      "n": 27,

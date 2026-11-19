@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -67,11 +67,11 @@
     },
     {
      "n": 13,
-     "texto": "Este testemunho é verdadeiro. Portanto repreende-os asperamente, para que sejam sãos na fé,"
+     "texto": "Este testemunho é verdadeiro. Portanto repreende-os àsperamente, para que sejam sãos na fé,"
     },
     {
      "n": 14,
-     "texto": "não deem ouvidos a fábulas judaicas nem a mandamentos de homens que se afastam da verdade."
+     "texto": "não dêem ouvidos a fábulas judaicas nem a mandamentos de homens que se afastam da verdade."
     },
     {
      "n": 15,
@@ -169,7 +169,7 @@
     },
     {
      "n": 5,
-     "texto": "não pelas obras de justiça que tivéssemos feito, mas por sua misericórdia, salvou-nos mediante o batismo de regeneração e de renovação do Espírito Santo,"
+     "texto": "não pelas obras de justiça que tivéssemos feito, mas por sua misericórdia, salvou-nos mediante o baptismo de regeneração e de renovação do Espírito Santo,"
     },
     {
      "n": 6,
@@ -181,7 +181,7 @@
     },
     {
      "n": 8,
-     "texto": "Esta é uma verdade infalível e quero que a afirmes, para que procurem ser os primeiros nas boas obras aqueles que creem em Deus. Estas coisas são boas e úteis aos homens."
+     "texto": "Esta é uma verdade infalível e quero que a afirmes, para que procurem ser os primeiros nas boas obras aqueles que crêem em Deus. Estas coisas são boas e úteis aos homens."
     },
     {
      "n": 9,
@@ -189,7 +189,7 @@
     },
     {
      "n": 10,
-     "texto": "Foge do herético, depois da primeira e segunda correção,"
+     "texto": "Foge do herético, depois da primeira e segunda correcção,"
     },
     {
      "n": 11,

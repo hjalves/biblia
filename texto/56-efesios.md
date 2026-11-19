@@ -6,7 +6,7 @@
 **2** Graça e paz vos sejam dadas da parte de Deus nosso Pai e do Senhor Jesus Cristo.  
 **3** Bendito (seja) Deus e Pai de Nosso Senhor Jesus Cristo, que nos abençoou, do alto dos céus, com toda a bênção espiritual, em Cristo,  
 **4** escolhendo-nos nele, antes da criação do mundo, para sermos santos e imaculados, a seus olhos,  
-**5** o qual (também) nos predestinou, no seu amor, para sermos seus filhos adotivos por (meio de) Jesus Cristo, por sua livre vontade,  
+**5** o qual (também) nos predestinou, no seu amor, para sermos seus filhos adoptivos por (meio de) Jesus Cristo, por sua livre vontade,  
 **6** para louvor da sua graça esplendorosa, a qual nos concedeu no muito Amado (Filho).  
 **7** É nele que temos a redenção pelo seu sangue, a remissão dos pecados, segundo as riquezas da sua graça,  
 **8** a qual derramou abundantemente sobre nós, em toda a sabedoria e prudência,  
@@ -81,7 +81,7 @@
 **2** com toda a humildade, mansidão e paciência, suportando-vos uns aos outros por caridade,  
 **3** solícitos em conservar a unidade do espírito pelo vínculo da paz.  
 **4** Há um só corpo e um só Espírito, como também fostes chamados a uma só esperança pela vossa vocação.  
-**5** Há um só Senhor, uma só fé, um só batismo.  
+**5** Há um só Senhor, uma só fé, um só baptismo.  
 **6** Há um só Deus e Pai de todos, que está acima de todos, que opera em todos e está em todos.  
 **7** Mas a cada um de nós foi repartida a graça segundo a medida do dom de Cristo.  
 **8** Pelo que (a Escritura) diz: Tendo subido ao alto, levou cativos e distribuiu dons pelos homens (Ps. 67, 19).  
@@ -115,7 +115,7 @@
 **1** Sede, pois, imitadores de Deus, como filhos muito amados.  
 **2** Andai no amor, a exemplo de Cristo, que nos amou e se entregou a si mesmo por nós a Deus, como oferenda e sacrifício de suave odor.  
 **3** Nem sequer se nomeie entre vós a fornicação ou qualquer impureza ou avareza, como convém a santos;  
-**4** nem conversas torpes, nem loucas, nem chocarrices, que são coisas inconvenientes, mas antes (saiam da vossa boca) ações de graças (a Deus).  
+**4** nem conversas torpes, nem loucas, nem chocarrices, que são coisas inconvenientes, mas antes (saiam da vossa boca) acções de graças (a Deus).  
 **5** Com efeito, sabei-o bem, nenhum fornicador ou impudico ou avaro, o qual é um idólatra (do dinheiro), terá herança no reino de Cristo e de Deus.  
 **6** Ninguém vos seduza com palavras vãs, porque por estas desordens vem a ira de Deus sobre os filhos rebeldes.  
 **7** Não queirais, pois, ter comunicação com eles.  
@@ -127,7 +127,7 @@
 **13** Mas todas as coisas condenadas são postas a descoberto pela luz, e tudo o que é manifestado torna-se luz.  
 **14** Por isso (a Escritura) diz: Desperta, tu que dormes (no sono do pecado); levanta-te dentre os mortos, e Cristo te alumiará (com a sua graça) (Is. 26, 19).  
 **15** Cuidai, pois, Irmãos, em andar com prudência, não como insensatos,  
-**16** mas como circunspetos. Aproveitai o tempo, pois que os dias são maus.  
+**16** mas como circunspectos. Aproveitai o tempo, pois que os dias são maus.  
 **17** Portanto não sejais imprudentes, mas considerai qual a vontade do Senhor.  
 **18** Não vos embriagueis com vinho, no qual está a luxúria, mas enchei-vos do Espírito Santo,  
 **19** recitando entre vós salmos, hinos e canções espirituais, cantando e salmodiando ao Senhor com todo o vosso coração,  
@@ -137,7 +137,7 @@
 **23** porque o marido é cabeça da mulher, como Cristo é cabeça da Igreja, seu corpo, do qual ele é o Salvador.  
 **24** Assim como a Igreja está sujeita a Cristo, assim o estejam também as mulheres a seus maridos em tudo (o que não é contra a lei de Deus).  
 **25** Maridos, amai as vossas mulheres, como também Cristo amou a Igreja e por ela se entregou a si mesmo,  
-**26** para a santificar, purificando-a no batismo da água pela palavra,  
+**26** para a santificar, purificando-a no baptismo da água pela palavra,  
 **27** para apresentar a si mesmo esta Igreja gloriosa, sem mácula, nem ruga ou coisa semelhante, mas santa e imaculada.  
 **28** Do mesmo modo os maridos devem amar as suas mulheres, como ao seu próprio corpo. O que ama a sua mulher, ama-se a si mesmo.  
 **29** Com efeito, ninguém aborreceu jamais a sua própria carne, mas nutre-a e cuida dela, como também Cristo o faz à Igreja,  
@@ -159,7 +159,7 @@
 **9** E vós, senhores, fazei o mesmo com eles, pondo de parte as ameaças, sabendo que o Senhor, tanto deles como vosso, está nos céus, e que não faz aceção de pessoas.  
 **10** De resto, irmãos, fortalecei-vos no Senhor, no seu poder soberano.  
 **11** Revesti-vos da armadura de Deus, para que possais resistir às ciladas do demónio,  
-**12** porque nós não temos que lutar (somente) contra a carne e o sangue, mas sim contra os principados e potestades (do inferno), contra os dominadores deste mundo tenebroso, contra os espíritos malignos (espalhados) pelos ares.  
+**12** porque nós não temos que lutar (sòmente) contra a carne e o sangue, mas sim contra os principados e potestades (do inferno), contra os dominadores deste mundo tenebroso, contra os espíritos malignos (espalhados) pelos ares.  
 **13** Portanto, tomai a armadura de Deus, para que possais resistir no dia mau e ficar de pé depois de ter vencido tudo.  
 **14** Estai, pois, firmes, tendo cingido os vossos rins com a verdade, vestindo a couraça da justiça,  
 **15** tendo os pés calçados de zelo para ir anunciar o Evangelho da paz;  

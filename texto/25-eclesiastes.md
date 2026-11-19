@@ -14,7 +14,7 @@
 **10** Não há nada novo debaixo do sol, e ninguém pode dizer; Eis aqui está uma coisa nova, porque ela já existiu nos séculos que passaram antes de nós.  
 **11** Não há memória das coisas antigas, mas também não haverá memória das coisas que hão-de suceder depois de nós, entre aqueles que viverão mais tarde.  
 **12** Eu, o Eclesiaste, fui rei de Israel em Jerusalém,  
-**13** e propus no meu coração inquirir e investigar sabiamente todas as coisas que se fazem debaixo dos céus: Deus deu esta penosa ocupação aos filhos dos homens, para que se dedicassem a ela.  
+**13** e propus no meu coração inquirir e investigar sàbiamente todas as coisas que se fazem debaixo dos céus: Deus deu esta penosa ocupação aos filhos dos homens, para que se dedicassem a ela.  
 **14** Vi tudo o que se faz debaixo do sol, e achei que tudo era vaidade e a aflição de espírito.  
 **15** O torto não se pode endireitar e o que falta não se pode contar.  
 **16** Eu disse no meu coração: Eis que cheguei a ser grande, que excedi em sabedoria a todos os que antes de mim houve em Jerusalém; o meu espírito possuiu largamente a sabedoria e a ciência.  
@@ -33,7 +33,7 @@
 **8** Amontoei prata e ouro, riquezas de reis e de províncias. (Para me deleitarem os ouvidos) escolhi cantores e cantoras, e tudo o que faz as delícias dos filhos dos homens, taças e jarros (preciosos) para o serviço do vinho.  
 **9** Ultrapassei em grandeza todos os que viveram antes de mim em Jerusalém, conservando, porém, a minha sabedoria.  
 **10** Não recusei aos meus olhos coisa alguma de tudo o que eles desejaram; nem proibi ao meu coração que gozasse de todo o prazer, e se deleitasse nas coisas que eu lhe tinha preparado; e julguei que seria esta a minha sorte, o disfrutar do meu trabalho.  
-**11** Depois, refletindo em todas as obras que as minhas mãos tinham feito, e nos trabalhos em que eu debalde tinha suado, vi em tudo vaidade e aflição de espírito (reconheci) que nada havia de proveito debaixo do sol.  
+**11** Depois, reflectindo em todas as obras que as minhas mãos tinham feito, e nos trabalhos em que eu debalde tinha suado, vi em tudo vaidade e aflição de espírito (reconheci) que nada havia de proveito debaixo do sol.  
 **12** Passei à contemplação da sabedoria, dos desvarios, e da loucura. Qual é o homem que virá depois do rei, que há muito tempo foi designado?  
 **13** E reconheci que a sabedoria leva tanta vantagem sobre a loucura, quanta a luz sobre as trevas.  
 **14** Os olhos do sábio estão na sua cabeça; o Insensato anda nas trevas.  
@@ -65,7 +65,7 @@
 **11** Todas as coisas que Deus fez são boas, no seu tempo. Além disso, pôs no seu coração a duração inteira, sem que ninguém possa compreender a obra divina, dum extremo ao outro.  
 **12** E eu reconheci que não havia nada melhor, do que alegrar-se o homem, e fazer o bem, enquanto lhe dura a vida.  
 **13** Todo o homem que come, bebe e tira o bem do seu trabalho, recebe isto por um dom de Deus.  
-**14** Aprendi também que todas as obras que Deus faz duram perpetuamente; nós não lhes podemos acrescentar nem tirar nada: Deus procede assim para que seja temido.  
+**14** Aprendi também que todas as obras que Deus faz duram perpètuamente; nós não lhes podemos acrescentar nem tirar nada: Deus procede assim para que seja temido.  
 **15** O que foi feito, é o que existe; as coisas que hão-de ser, já foram; Deus faz voltar aquilo que passou.  
 **16** Eu vi debaixo do sol a injustiça no lugar do direito, e a iniquidade no lugar da justiça.  
 **17** E disse no meu coração: Deus (um dia) julgará o justo e o ímpio, porque há um tempo para todas as coisas e para todas as obras.  
@@ -88,12 +88,12 @@
 **9** Melhor é estarem dois juntos, do que um só, porque têm a vantagem da sua sociedade.  
 **10** Se um vai a cair, o outro o sustentará. Ai do que está só, porque, quando cair, não tem quem o levante!  
 **11** Da mesma forma, se dormirem dois juntos, aquecer-se-ão mutuamente, mas um só como se há-de aquecer?  
-**12** Se um dominar outro que está sozinho, dois resistem-lhe; o cordel triplicado dificultosamente se quebra.  
+**12** Se um dominar outro que está sòzinho, dois resistem-lhe; o cordel triplicado dificultosamente se quebra.  
 **13** Vale mais um jovem pobre, mas sábio, do que um rei velho e insensato, que já não sabe escutar conselhos,  
 **14** Aquele poderá sair, mesmo do cárcere e dos ferros, para ser rei. e outro que nasceu rei acaba na miséria.  
 **15** Eu vi todos os viventes, que andam debaixo do sol, com o jovem (príncipe) que se elevava a ocupar o lugar (do velho rei).  
 **16** Todos aqueles, à frente dos quais ele estava, (e o encheram de aplausos) eram um povo infinito em número. Contudo os descendentes (desse povo) não se hão-de regozijar nele; até isto é vaidade e aflição de espírito.  
-**17** Vê onde pões o pé, quando entras na casa de Deus. Aproximar-se, docilmente, para escutar, é muito melhor do que oferecer vítimas à maneira dos insensatos, que só sabem fazer mal.  
+**17** Vê onde pões o pé, quando entras na casa de Deus. Aproximar-se, dòcilmente, para escutar, é muito melhor do que oferecer vítimas à maneira dos insensatos, que só sabem fazer mal.  
 
 ## Capítulo 5
 
@@ -113,7 +113,7 @@
 **14** Do modo que ele saiu nu do ventre de sua mãe, assim mesmo sairá desta vida, não levará nada consigo do seu trabalho.  
 **15** Sim, é um triste mal que um (homem) vá como veio. De que lhe serve ter trabalhado para o vento?  
 **16** Todos os dias da sua vida comeu nas trevas (do infortúnio), no meio de muitos cuidados, em miséria e tristeza.  
-**17** Pareceu-me, pois, bem que o homem coma e beba (sobriamente), e colha com alegria o fruto do seu trabalho com que se afadiga debaixo do Sol durante o número dos dias da vida, que Deus lhe dá; esta é a sua parte.  
+**17** Pareceu-me, pois, bem que o homem coma e beba (sòbriamente), e colha com alegria o fruto do seu trabalho com que se afadiga debaixo do Sol durante o número dos dias da vida, que Deus lhe dá; esta é a sua parte.  
 **18** Quando um homem recebe de Deus riquezas e bens, e a possibilidade de comer deles, disfrutar a sua parte e viver alegre no seu trabalho, (tudo) isto é um dom de Deus.  
 **19** Não terá que pensar muito nos dias da sua vida, visto que Deus ocupa de delícias o seu coração.  
 
@@ -144,10 +144,10 @@
 **9** É melhor o fim duma coisa do que o princípio. É melhor o homem paciente, do que o arrogante.  
 **10** Não sejas fácil em te irar, porque a ira repousa no coração do insensato.  
 **11** Não digas: Donde vem que os tempos passados foram melhores que os de agora? Semelhante pergunta não é inspirada pela sabedoria.  
-**12** A sabedoria com riqueza é útil, e aproveita aos que veem o sol.  
+**12** A sabedoria com riqueza é útil, e aproveita aos que vêem o sol.  
 **13** Porque, assim como a sabedoria protege, assim também protege o dinheiro; mas a sabedoria tem a vantagem de dar a vida (sobrenatural) ao seu possuidor.  
 **14** Considera as obras de Deus: quem poderá endireitar o que ele fez curvado?  
-**15** Goza dos bens no dia bom, reflete no dia mau, porque Deus, assim como fez este, assim também fez aquele de forma que o homem não descubra o que há-de acontecer.  
+**15** Goza dos bens no dia bom, reflecte no dia mau, porque Deus, assim como fez este, assim também fez aquele de forma que o homem não descubra o que há-de acontecer.  
 **16** Eu também vi isto nos dias da minha vaidade: um justo que perece na sua justiça, e um ímpio que vive muito tempo na sua malícia.  
 **17** Não sejas demasiado justo nem demasiado sábio; pois, para que te queres arruinar?  
 **18** Não faças muito mal e não sejas insensato, para que não venhas a morrer antes do tempo.  
@@ -162,7 +162,7 @@
 **27** Achei que é mais amargosa do que a morte a mulher (corrompida), a qual é um laço de caçadores, sendo o seu coração uma rede, e as suas mãos umas cadeias. Aquele que agrada a Deus, fugirá dela; o que, porém, é pecador, será apanhado por ela.  
 **28** Eis o que eu achei, diz o Eclesiaste, depois de ter conferido uma coisa com outra, para encontrar a razão.  
 **29** O que, porém, a minha alma ainda busca, sem ter encontrado (é o seguinte): Entre mil homens achei um (digno deste nome), e entre todas as mulheres nem uma só achei.  
-**30** O que eu unicamente achei foi que Deus criou o homem reto, e que ele mesmo se meteu em infinitas questões (e perigos). Quem é como o sábio? E quem conhece a explicação das coisas?  
+**30** O que eu unicamente achei foi que Deus criou o homem recto, e que ele mesmo se meteu em infinitas questões (e perigos). Quem é como o sábio? E quem conhece a explicação das coisas?  
 
 ## Capítulo 8
 
@@ -179,7 +179,7 @@
 **11** Pelo facto de não ser proferida logo sentença contra os maus, o coração dos filhos dos homens enche-se de desejos de fazer o mal.  
 **12** Todavia, posto que o pecador cometa cem vezes o mal, e prolongue os seus dias, eu tenho conhecido que serão felizes os que temem a Deus e que respeitam a sua face.  
 **13** A felicidade não é para o mau; como a sombra, não terá largos dias de vida, porque não teme ao Senhor.  
-**14** Ainda há uma outra vaidade sobre a terra: há justos que sofrem males, como se eles tivessem feito obras de ímpios; e há ímpios que vivem tão seguros, como se tivessem feito ações de justos. Mas eu creio que também isto é uma coisa muito vã.  
+**14** Ainda há uma outra vaidade sobre a terra: há justos que sofrem males, como se eles tivessem feito obras de ímpios; e há ímpios que vivem tão seguros, como se tivessem feito acções de justos. Mas eu creio que também isto é uma coisa muito vã.  
 **15** Portanto louvei a alegria (do justo), visto não ter o homem debaixo do sol outro bem, senão comer, beber e alegrar-se; é isto que o acompanha no seu trabalho, durante os dias de vida, que Deus lhe dá debaixo do sol.  
 **16** Quando apliquei o meu coração a conhecer a sabedoria e a considerar o trabalho que se faz sobre a terra há homens que, nem de dia nem de noite, deixam ver o sono aos seus olhos  
 **17** vi todas as obras de Deus (e notei) que o homem não pode descobrir as obras que se fazem debaixo do sol. Por mais que o homem se afadigue a procurar, não encontra; até o sábio, se pretender conhecer, não conseguirá descobrir.  
@@ -207,7 +207,7 @@
 
 ## Capítulo 10
 
-**1** A mosca que morre no unguento do perfumista infeta-o e corrompe-o. Um pouco de insensatez estraga a sabedoria e a glória (mais brilhante).  
+**1** A mosca que morre no unguento do perfumista infecta-o e corrompe-o. Um pouco de insensatez estraga a sabedoria e a glória (mais brilhante).  
 **2** O coração do sábio está na sua mão direita, e o coração do insensato na sua esquerda.  
 **3** O Insensato, mal se põe a caminho (mostra que) lhe falta o senso, e todos dizem: É um louco.  
 **4** Se a cólera do príncipe se elevar contra ti, não abandones o teu posto, porque a calma evita grandes males.  
@@ -224,7 +224,7 @@
 **15** O trabalho dos insensatos aflige-os; nem sequer sabem (o caminho para ir) à cidade.  
 **16** Desgraçada de ti, terra, cujo rei é um menino (que não sabe governar), e cujos príncipes comem desde manhã (em orgias).  
 **17** Ditosa a terra, cujo rei é de uma família ilustre, e cujos príncipes comem a seu tempo para se nutrirem, e não por prazer.  
-**18** Pela preguiça (em fazer reparações) se irá abatendo o madeiramento do teto, e pela incúria das mãos virá a chover em toda a casa.  
+**18** Pela preguiça (em fazer reparações) se irá abatendo o madeiramento do tecto, e pela incúria das mãos virá a chover em toda a casa.  
 **19** Fazem-se festins para haver satisfação; o vinho alegra a vida e o dinheiro serve para tudo.  
 **20** Não digas mal do rei, nem mesmo no teu pensamento, e não fales mal do rico, nem mesmo no retiro do teu quarto, porque as aves do céu levarão a tua voz, e os pássaros publicarão as tuas palavras.  
 
@@ -245,14 +245,14 @@
 
 **1** Lembra-te do teu Criador nos dias da tua juventude, antes que venham os dias maus e cheguem os anos, de que tu dirás: Esta idade não me agrada;  
 **2** antes que se escureça o sol, e a luz, e a lua, e as estrelas, e voltem as nuvens depois da chuva;  
-**3** quando os guardas de tua casa começarem a tremer, e os homens fortes a vergar, quando as que moem deixarem de moer por serem poucas e as que veem pelas janelas principiarem a cobrir-se de trevas;  
+**3** quando os guardas de tua casa começarem a tremer, e os homens fortes a vergar, quando as que moem deixarem de moer por serem poucas e as que vêem pelas janelas principiarem a cobrir-se de trevas;  
 **4** quando se fecharem as portas sobre a rua, quando enfraquecer a voz do moinho, quando se calar a voz do pássaro e emudecerem as canções.  
 **5** Nessa altura (da vida) terão medo também (de subir) aos lugares altos, terão sobressaltos no caminho. A amendoeira florescerá, o gafanhoto engordará, e a alcaparra perderá as suas propriedades, porque o homem irá para a 'casa da sua eternidade, enquanto os carpidores percorrem as ruas.  
 **6** (Lembra-te do teu Criador) antes que se quebre o cordão de prata e se despedace a lâmpada de oiro, e se parta o cântaro sobre a fonte, e se desfaça a roda sobre a cisterna,  
 **7** e o pó volte à terra donde saiu, e o espírito volte para Deus que o deu.  
 **8** Vaidade de vaidade, disse o Eclesiaste, e tudo é vaidade.  
 **9** O Eclesiaste. além de ser um sábio, ensinou a ciência ao povo; estudou, investigou e compôs sentenças.  
-**10** Aplicou-se a encontrar palavras agradáveis e a escrever corretamente palavras de verdade.  
+**10** Aplicou-se a encontrar palavras agradáveis e a escrever correctamente palavras de verdade.  
 **11** As palavras dos sábios são como aguilhões, como cravos profundamente pregados, que, por meio do conselho dos mestres, nos foram comunicados pelo único pastor (que é Deus).  
 **12** Não busques, pois, meu filho, mais coisa alguma além destas (verdades). Não se põe termo em multiplicar os livros, e a meditação frequente é aflição da carne.  
 **13** Ouçamos todos juntos o fim deste discurso: Teme a Deus e observa os seus mandamentos, porque isso é o homem todo.  

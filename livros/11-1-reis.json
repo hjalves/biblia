@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -328,7 +328,7 @@
     },
     {
      "n": 24,
-     "texto": "Juro pelo Senhor, que me estabeleceu solidamente no trono de Davide, meu pai, e que fundou a minha casa como tinha dito, que Adonias será hoje morto."
+     "texto": "Juro pelo Senhor, que me estabeleceu sòlidamente no trono de Davide, meu pai, e que fundou a minha casa como tinha dito, que Adonias será hoje morto."
     },
     {
      "n": 25,
@@ -425,7 +425,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Confirmou-se o reino na mão de Salomão, que se aparentou com Faraó, rei do Egito, porque casou com uma sua filha. Levou a para a cidade de Davide, até que acabasse de edificar a sua casa e a do Senhor, e o muro à roda de Jerusalém"
+     "texto": "Confirmou-se o reino na mão de Salomão, que se aparentou com Faraó, rei do Egipto, porque casou com uma sua filha. Levou a para a cidade de Davide, até que acabasse de edificar a sua casa e a do Senhor, e o muro à roda de Jerusalém"
     },
     {
      "n": 2,
@@ -433,7 +433,7 @@
     },
     {
      "n": 3,
-     "texto": "Ora Salomão amava o Senhor, conduzindo-se segundo os preceitos de Davide, seu pai; somente sacrificava e queimava incenso nos lugares altos."
+     "texto": "Ora Salomão amava o Senhor, conduzindo-se segundo os preceitos de Davide, seu pai; sòmente sacrificava e queimava incenso nos lugares altos."
     },
     {
      "n": 4,
@@ -445,7 +445,7 @@
     },
     {
      "n": 6,
-     "texto": "Salomão disse: Tu usaste de grande misericórdia com meu pai Davide, teu servo, segundo a verdade e justiça com que ele andou na tua presença, segundo a retidão de coração para contigo; tu conservaste para com ele a tua grande misericórdia, dando-lhe um filho que se sentasse sobre o seu trono, como hoje se verifica."
+     "texto": "Salomão disse: Tu usaste de grande misericórdia com meu pai Davide, teu servo, segundo a verdade e justiça com que ele andou na tua presença, segundo a rectidão de coração para contigo; tu conservaste para com ele a tua grande misericórdia, dando-lhe um filho que se sentasse sobre o seu trono, como hoje se verifica."
     },
     {
      "n": 7,
@@ -622,11 +622,11 @@
     },
     {
      "n": 21,
-     "texto": "Salomão tinha sob o seu domínio todos os reinos, desde o rio do país dos Filisteus até à fronteira do Egito; todos lhe pagavam tributo e lhe estiveram sujeitos durante todos os dias da sua vida."
+     "texto": "Salomão tinha sob o seu domínio todos os reinos, desde o rio do país dos Filisteus até à fronteira do Egipto; todos lhe pagavam tributo e lhe estiveram sujeitos durante todos os dias da sua vida."
     },
     {
      "n": 22,
-     "texto": "A casa de Salomão consumia, diariamente, trinta coros de flor de farinha, sessenta coros de farinha ordinária,"
+     "texto": "A casa de Salomão consumia, diàriamente, trinta coros de flor de farinha, sessenta coros de farinha ordinária,"
     },
     {
      "n": 23,
@@ -760,7 +760,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Sucedeu, pois, que, aos quatrocentos e oitenta anos de saída dos filhos de Israel da terra do Egito, no quarto ano do reinado de Salomão, no mês de Zio, (que é o segundo mês do ano) se começou a edificar a casa do Senhor."
+     "texto": "Sucedeu, pois, que, aos quatrocentos e oitenta anos de saída dos filhos de Israel da terra do Egipto, no quarto ano do reinado de Salomão, no mês de Zio, (que é o segundo mês do ano) se começou a edificar a casa do Senhor."
     },
     {
      "n": 2,
@@ -792,7 +792,7 @@
     },
     {
      "n": 9,
-     "texto": "Depois de concluído o edifício, forrou as paredes interiores de tábuas de cedro, desde o pavimento ao teto."
+     "texto": "Depois de concluído o edifício, forrou as paredes interiores de tábuas de cedro, desde o pavimento ao tecto."
     },
     {
      "n": 10,
@@ -816,7 +816,7 @@
     },
     {
      "n": 15,
-     "texto": "Guarneceu as paredes do edifício pelo interior, de tábuas de cedro, desde o pavimento até ao mais alto das paredes, até ao teto; revestiu-as por dentro com madeira de cedro, e cobriu o pavimento da casa com tábuas de cipreste."
+     "texto": "Guarneceu as paredes do edifício pelo interior, de tábuas de cedro, desde o pavimento até ao mais alto das paredes, até ao tecto; revestiu-as por dentro com madeira de cedro, e cobriu o pavimento da casa com tábuas de cipreste."
     },
     {
      "n": 16,
@@ -925,7 +925,7 @@
     },
     {
      "n": 3,
-     "texto": "Forrou de madeira de cedro todo o teto, que se sustentava em quarenta e cinco colunas. Cada ordem tinha quinze colunas,"
+     "texto": "Forrou de madeira de cedro todo o tecto, que se sustentava em quarenta e cinco colunas. Cada ordem tinha quinze colunas,"
     },
     {
      "n": 4,
@@ -941,11 +941,11 @@
     },
     {
      "n": 7,
-     "texto": "Fez também o pórtico do trono, onde estava o tribunal, e forrou-o de madeiras de cedro desde o pavimento até ao teto."
+     "texto": "Fez também o pórtico do trono, onde estava o tribunal, e forrou-o de madeiras de cedro desde o pavimento até ao tecto."
     },
     {
      "n": 8,
-     "texto": "A sua residência, construída no outro átrio, dentro do pórtico, era de trabalho semelhante. Fez também para a filha de Faraó (com a qual se tinha casado) uma casa da mesma arquitetura que este pórtico."
+     "texto": "A sua residência, construída no outro átrio, dentro do pórtico, era de trabalho semelhante. Fez também para a filha de Faraó (com a qual se tinha casado) uma casa da mesma arquitectura que este pórtico."
     },
     {
      "n": 9,
@@ -1158,7 +1158,7 @@
     },
     {
      "n": 9,
-     "texto": "Na arca não havia senão as duas tábuas de pedra, que Moisés tinha metido nela em Horeb, quando o Senhor fez aliança com os filhos de Israel, logo que saíram da terra do Egito."
+     "texto": "Na arca não havia senão as duas tábuas de pedra, que Moisés tinha metido nela em Horeb, quando o Senhor fez aliança com os filhos de Israel, logo que saíram da terra do Egipto."
     },
     {
      "n": 10,
@@ -1186,7 +1186,7 @@
     },
     {
      "n": 16,
-     "texto": "Desde o dia em que eu tirei do Egito o meu povo de Israel, não escolhi cidade alguma de todas as tribos de Israel, para que me fosse edificada nela uma casa onde se invocasse o meu nome, mas escolhi Davide para ser o chefe do meu povo de Israel."
+     "texto": "Desde o dia em que eu tirei do Egipto o meu povo de Israel, não escolhi cidade alguma de todas as tribos de Israel, para que me fosse edificada nela uma casa onde se invocasse o meu nome, mas escolhi Davide para ser o chefe do meu povo de Israel."
     },
     {
      "n": 17,
@@ -1206,7 +1206,7 @@
     },
     {
      "n": 21,
-     "texto": "Nela escolhi o lugar para a arca, dentro da qual está (a lei que é) a aliança que o Senhor fez com os nossos pais, quando saíram da terra do Egito."
+     "texto": "Nela escolhi o lugar para a arca, dentro da qual está (a lei que é) a aliança que o Senhor fez com os nossos pais, quando saíram da terra do Egipto."
     },
     {
      "n": 22,
@@ -1326,7 +1326,7 @@
     },
     {
      "n": 51,
-     "texto": "porque eles são o teu povo e a tua herança, que tiraste da terra do Egito, do meio duma fornalha (ou crisol) de ferro."
+     "texto": "porque eles são o teu povo e a tua herança, que tiraste da terra do Egipto, do meio duma fornalha (ou crisol) de ferro."
     },
     {
      "n": 52,
@@ -1334,7 +1334,7 @@
     },
     {
      "n": 53,
-     "texto": "visto que tu, ó Senhor Deus, os separaste de todos os povos da terra para tua herança, como o declaraste por meio de teu servo Moisés, quando tiraste os nossos pais do Egito."
+     "texto": "visto que tu, ó Senhor Deus, os separaste de todos os povos da terra para tua herança, como o declaraste por meio de teu servo Moisés, quando tiraste os nossos pais do Egipto."
     },
     {
      "n": 54,
@@ -1382,7 +1382,7 @@
     },
     {
      "n": 65,
-     "texto": "Tal foi a festa que Salomão celebrou nesse tempo, e todo o Israel com ele, tendo concorrido gente em grande número desde a entrada de Emat até ao rio do Egito, diante do Senhor, nosso Deus, durante sete dias, e (em seguida) durante outros sete dias, isto é, durante catorze dias."
+     "texto": "Tal foi a festa que Salomão celebrou nesse tempo, e todo o Israel com ele, tendo concorrido gente em grande número desde a entrada de Emat até ao rio do Egipto, diante do Senhor, nosso Deus, durante sete dias, e (em seguida) durante outros sete dias, isto é, durante catorze dias."
     },
     {
      "n": 66,
@@ -1407,7 +1407,7 @@
     },
     {
      "n": 4,
-     "texto": "E tu, se andares na minha presença, como andou teu pai, em simplicidade e retidão de coração, se fizeres tudo o que tenho mandado, guardando as minhas leis e as minhas ordenações,"
+     "texto": "E tu, se andares na minha presença, como andou teu pai, em simplicidade e rectidão de coração, se fizeres tudo o que tenho mandado, guardando as minhas leis e as minhas ordenações,"
     },
     {
      "n": 5,
@@ -1419,7 +1419,7 @@
     },
     {
      "n": 7,
-     "texto": "eu exterminarei Israel da terra que lhe dei, dançarei para longe da minha presença o templo que consagrei ao meu nome, e Israel será objeto de sarcasmo e de troça para todos os povos."
+     "texto": "eu exterminarei Israel da terra que lhe dei, dançarei para longe da minha presença o templo que consagrei ao meu nome, e Israel será objecto de sarcasmo e de troça para todos os povos."
     },
     {
      "n": 8,
@@ -1427,7 +1427,7 @@
     },
     {
      "n": 9,
-     "texto": "Responder-lhe-ão: Porque estes povos deixaram o Senhor, seu Deus, que tirou seus pais da terra do Egito, porque seguiram deuses estranhos, prostraram-se diante deles e adoraram-nos; por isso o Senhor descarregou sobre eles todo este mal."
+     "texto": "Responder-lhe-ão: Porque estes povos deixaram o Senhor, seu Deus, que tirou seus pais da terra do Egipto, porque seguiram deuses estranhos, prostraram-se diante deles e adoraram-nos; por isso o Senhor descarregou sobre eles todo este mal."
     },
     {
      "n": 10,
@@ -1455,7 +1455,7 @@
     },
     {
      "n": 16,
-     "texto": "Faraó, rei do Egito, subiu, tomou Gazer e queimou-a, matando os Cananeus que habitavam na cidade, e deu-a em dote a sua filha, mulher de Salomão."
+     "texto": "Faraó, rei do Egipto, subiu, tomou Gazer e queimou-a, matando os Cananeus que habitavam na cidade, e deu-a em dote a sua filha, mulher de Salomão."
     },
     {
      "n": 17,
@@ -1620,11 +1620,11 @@
     },
     {
      "n": 28,
-     "texto": "Do Egito e de Coa eram trazidos cavalos para Salomão, pois os mercadores do rei os compravam em Coa e lhos traziam, por um preço estabelecido."
+     "texto": "Do Egipto e de Coa eram trazidos cavalos para Salomão, pois os mercadores do rei os compravam em Coa e lhos traziam, por um preço estabelecido."
     },
     {
      "n": 29,
-     "texto": "Uma quadriga trazida do Egito custava-lhe seiscentos siclos de prata, e um cavalo cento e cinquenta. Também, da mesma forma, traziam cavalos para todos os reis dos Heteus e da Síria."
+     "texto": "Uma quadriga trazida do Egipto custava-lhe seiscentos siclos de prata, e um cavalo cento e cinquenta. Também, da mesma forma, traziam cavalos para todos os reis dos Heteus e da Síria."
     }
    ]
   },
@@ -1697,11 +1697,11 @@
     },
     {
      "n": 17,
-     "texto": "(nessa altura) este Adad fugiu de lá, e com ele os Idumeus, servos de seu pai, para se retirar ao Egito. Adad era então de mui tenra idade."
+     "texto": "(nessa altura) este Adad fugiu de lá, e com ele os Idumeus, servos de seu pai, para se retirar ao Egipto. Adad era então de mui tenra idade."
     },
     {
      "n": 18,
-     "texto": "Saindo de Madian, foram a Faran, levaram consigo homens de Faran e, entrando no Egito, apresentaram-se a Faraó, rei do Egito, o qual deu a Adad casa, consignou-lhe alimentos e adjudicou-lhe terras."
+     "texto": "Saindo de Madian, foram a Faran, levaram consigo homens de Faran e, entrando no Egipto, apresentaram-se a Faraó, rei do Egipto, o qual deu a Adad casa, consignou-lhe alimentos e adjudicou-lhe terras."
     },
     {
      "n": 19,
@@ -1713,7 +1713,7 @@
     },
     {
      "n": 21,
-     "texto": "Quando Adad ouviu dizer, no Egito, que Davide tinha adormecido com seus pais e que Joab, general do seu exército, tinha sido morto, disse a Faraó; Deixa-me ir para a minha terra."
+     "texto": "Quando Adad ouviu dizer, no Egipto, que Davide tinha adormecido com seus pais e que Joab, general do seu exército, tinha sido morto, disse a Faraó; Deixa-me ir para a minha terra."
     },
     {
      "n": 22,
@@ -1741,7 +1741,7 @@
     },
     {
      "n": 28,
-     "texto": "Jeroboão era um homem valente e poderoso; Salomão, vendo que era um jovem de boa índole e ativo, tinha-o feito intendente dos tributos de toda a casa de José."
+     "texto": "Jeroboão era um homem valente e poderoso; Salomão, vendo que era um jovem de boa índole e activo, tinha-o feito intendente dos tributos de toda a casa de José."
     },
     {
      "n": 29,
@@ -1781,7 +1781,7 @@
     },
     {
      "n": 38,
-     "texto": "Se tu ouvires tudo o que eu te ordenar, se andares pelos meus caminhos, se fizeres o que é reto diante de mim, guardando as minhas leis e os meus preceitos, como fez Davide, meu servo, eu serei contigo e te edificarei uma casa, que seja estável, como a que edifiquei a meu servo Davide, e te entregarei Israel."
+     "texto": "Se tu ouvires tudo o que eu te ordenar, se andares pelos meus caminhos, se fizeres o que é recto diante de mim, guardando as minhas leis e os meus preceitos, como fez Davide, meu servo, eu serei contigo e te edificarei uma casa, que seja estável, como a que edifiquei a meu servo Davide, e te entregarei Israel."
     },
     {
      "n": 39,
@@ -1789,11 +1789,11 @@
     },
     {
      "n": 40,
-     "texto": "Quis Salomão matar Jeroboão, mas ele retirou-se e fugiu para o Egito, para junto de Sesac, rei do Egito, onde ficou até à morte de Salomão."
+     "texto": "Quis Salomão matar Jeroboão, mas ele retirou-se e fugiu para o Egipto, para junto de Sesac, rei do Egipto, onde ficou até à morte de Salomão."
     },
     {
      "n": 41,
-     "texto": "O resto dos feitos de Salomão, tudo que ele fez, a sua sabedoria, tudo está escrito no livro dos Atos de Salomão."
+     "texto": "O resto dos feitos de Salomão, tudo que ele fez, a sua sabedoria, tudo está escrito no livro dos Actos de Salomão."
     },
     {
      "n": 42,
@@ -1814,7 +1814,7 @@
     },
     {
      "n": 2,
-     "texto": "Porém Jeroboão, filho de Nabat, achando-se ainda no Egito, refugiado da face do rei Salomão, ao saber da sua morte, voltou do Egito,"
+     "texto": "Porém Jeroboão, filho de Nabat, achando-se ainda no Egipto, refugiado da face do rei Salomão, ao saber da sua morte, voltou do Egipto,"
     },
     {
      "n": 3,
@@ -1886,7 +1886,7 @@
     },
     {
      "n": 20,
-     "texto": "Quando todo o Israel soube que Jeroboão tinha voltado, reunidos em cortes, mandaram-no chamar e aclamaram-no rei sobre todo o Israel. Não houve ninguém que seguisse a casa de Davide, senão somente a tribo de Judá."
+     "texto": "Quando todo o Israel soube que Jeroboão tinha voltado, reunidos em cortes, mandaram-no chamar e aclamaram-no rei sobre todo o Israel. Não houve ninguém que seguisse a casa de Davide, senão sòmente a tribo de Judá."
     },
     {
      "n": 21,
@@ -1918,7 +1918,7 @@
     },
     {
      "n": 28,
-     "texto": "Depois de ter considerado bem, fez dois bezerros de ouro e disse ao povo: Não torneis mais a Jerusalém. Eis aqui, ó Israel, os teus deuses, que te tiraram da terra do Egito."
+     "texto": "Depois de ter considerado bem, fez dois bezerros de ouro e disse ao povo: Não torneis mais a Jerusalém. Eis aqui, ó Israel, os teus deuses, que te tiraram da terra do Egipto."
     },
     {
      "n": 29,
@@ -2136,7 +2136,7 @@
     },
     {
      "n": 13,
-     "texto": "Todo o Israel o chorará e o sepultará, porque só este da casa de Jeroboão será posto no sepulcro, porque o Senhor Deus de Israel, entre os da casa de Jeroboão, somente a ele olhou com agrado."
+     "texto": "Todo o Israel o chorará e o sepultará, porque só este da casa de Jeroboão será posto no sepulcro, porque o Senhor Deus de Israel, entre os da casa de Jeroboão, sòmente a ele olhou com agrado."
     },
     {
      "n": 14,
@@ -2160,7 +2160,7 @@
     },
     {
      "n": 19,
-     "texto": "O mais, porém, das ações de Jeroboão, as guerras que teve, o seu modo de reinar, tudo isso está escrito no livro das Crónicas dos reis de Israel."
+     "texto": "O mais, porém, das acções de Jeroboão, as guerras que teve, o seu modo de reinar, tudo isso está escrito no livro das Crónicas dos reis de Israel."
     },
     {
      "n": 20,
@@ -2184,7 +2184,7 @@
     },
     {
      "n": 25,
-     "texto": "No quinto ano do reinado de Roboão, Sesac, rei do Egito, avançou contra Jerusalém"
+     "texto": "No quinto ano do reinado de Roboão, Sesac, rei do Egipto, avançou contra Jerusalém"
     },
     {
      "n": 26,
@@ -2200,7 +2200,7 @@
     },
     {
      "n": 29,
-     "texto": "O resto das ações de Roboão, tudo o que ele fez, encontra-se escrito no livro das Crónicas dos reis de Judá."
+     "texto": "O resto das acções de Roboão, tudo o que ele fez, encontra-se escrito no livro das Crónicas dos reis de Judá."
     },
     {
      "n": 30,
@@ -2233,7 +2233,7 @@
     },
     {
      "n": 5,
-     "texto": "porque Davide tinha feito o que era reto aos olhos do Senhor, e em nada se tinha afastado de tudo o que lhe mandara em todos os dias da sua vida, exceto o que se passou com Urlas Heteu."
+     "texto": "porque Davide tinha feito o que era recto aos olhos do Senhor, e em nada se tinha afastado de tudo o que lhe mandara em todos os dias da sua vida, excepto o que se passou com Urlas Heteu."
     },
     {
      "n": 6,
@@ -2241,7 +2241,7 @@
     },
     {
      "n": 7,
-     "texto": "O resto das ações de Abião, tudo o que ele fez, está escrito no livro das Crónicas dos reis de Judá. Houve também guerra entre Abião e Jeroboão."
+     "texto": "O resto das acções de Abião, tudo o que ele fez, está escrito no livro das Crónicas dos reis de Judá. Houve também guerra entre Abião e Jeroboão."
     },
     {
      "n": 8,
@@ -2257,7 +2257,7 @@
     },
     {
      "n": 11,
-     "texto": "Asa fez o que era reto aos olhos do Senhor, como seu pai Davide."
+     "texto": "Asa fez o que era recto aos olhos do Senhor, como seu pai Davide."
     },
     {
      "n": 12,
@@ -2305,7 +2305,7 @@
     },
     {
      "n": 23,
-     "texto": "O resto de todas as ações de Asa, todas as suas empresas de valor, todos os seus feitos, as cidades que edificou, tudo se acha escrito no livro das Crónicas dos reis de Judá. No tempo da sua velhice, sofreu dos pés."
+     "texto": "O resto de todas as acções de Asa, todas as suas empresas de valor, todos os seus feitos, as cidades que edificou, tudo se acha escrito no livro das Crónicas dos reis de Judá. No tempo da sua velhice, sofreu dos pés."
     },
     {
      "n": 24,
@@ -2337,7 +2337,7 @@
     },
     {
      "n": 31,
-     "texto": "O resto das ações de Nadab, tudo o que ele fez, está escrito no livro das Crónicas dos reis de Israel."
+     "texto": "O resto das acções de Nadab, tudo o que ele fez, está escrito no livro das Crónicas dos reis de Israel."
     },
     {
      "n": 32,
@@ -2374,7 +2374,7 @@
     },
     {
      "n": 5,
-     "texto": "O resto das ações de Baasa, todos os seus feitos e batalhas, estão escritos no livro das Crónicas dos reis de Israel."
+     "texto": "O resto das acções de Baasa, todos os seus feitos e batalhas, estão escritos no livro das Crónicas dos reis de Israel."
     },
     {
      "n": 6,
@@ -2382,7 +2382,7 @@
     },
     {
      "n": 7,
-     "texto": "O oráculo do Senhor, transmitido pelo profeta Jeú, filho de Hanani, foi dirigido contra Baasa e contra a sua casa, não somente em castigo de todos os males que ele tinha feito aos olhos do Senhor, irritando-o com as obras das suas mãos, imitando a casa de Jeroboão, mas também por Baasa haver destruído esta casa (de Jeroboão)."
+     "texto": "O oráculo do Senhor, transmitido pelo profeta Jeú, filho de Hanani, foi dirigido contra Baasa e contra a sua casa, não sòmente em castigo de todos os males que ele tinha feito aos olhos do Senhor, irritando-o com as obras das suas mãos, imitando a casa de Jeroboão, mas também por Baasa haver destruído esta casa (de Jeroboão)."
     },
     {
      "n": 8,
@@ -2410,7 +2410,7 @@
     },
     {
      "n": 14,
-     "texto": "O resto das ações de Ela, tudo o que ele fez, está escrito ao livro das Crónicas dos reis de Israel."
+     "texto": "O resto das acções de Ela, tudo o que ele fez, está escrito ao livro das Crónicas dos reis de Israel."
     },
     {
      "n": 15,
@@ -2434,7 +2434,7 @@
     },
     {
      "n": 20,
-     "texto": "O resto das ações de Zambri, a sua conjuração, tudo está escrito no livro das Crónicas dos reis de Israel."
+     "texto": "O resto das acções de Zambri, a sua conjuração, tudo está escrito no livro das Crónicas dos reis de Israel."
     },
     {
      "n": 21,
@@ -2462,7 +2462,7 @@
     },
     {
      "n": 27,
-     "texto": "O resto das ações de Anri, as guerras que teve, tudo isso está escrito no livro das Crónicas dos reis de Israel."
+     "texto": "O resto das acções de Anri, as guerras que teve, tudo isso está escrito no livro das Crónicas dos reis de Israel."
     },
     {
      "n": 28,
@@ -2543,7 +2543,7 @@
     },
     {
      "n": 12,
-     "texto": "Ela respondeu-lhe: Viva o Senhor teu Deus, que eu não tenho pão, senão somente um pouco de farinha na panela, e um pouco de azeite na almotolia. Ando a apanhar um pouco de lenha, a fim de a ir cozer para mim e para meu filho, para comermos e depois (de gasto estes restos) morreremos (de fome)."
+     "texto": "Ela respondeu-lhe: Viva o Senhor teu Deus, que eu não tenho pão, senão sòmente um pouco de farinha na panela, e um pouco de azeite na almotolia. Ando a apanhar um pouco de lenha, a fim de a ir cozer para mim e para meu filho, para comermos e depois (de gasto estes restos) morreremos (de fome)."
     },
     {
      "n": 13,
@@ -2688,11 +2688,11 @@
     },
     {
      "n": 23,
-     "texto": "(Contudo) deem-nos dois bois, e eles escolham para si um boi, façam-no em pedaços, ponham-no sobre a lenha, mas não lhe metam fogo por baixo; eu tomarei o outro boi e o porei sobre a lenha, mas também não lhe meterei fogo por baixo."
+     "texto": "(Contudo) dêem-nos dois bois, e eles escolham para si um boi, façam-no em pedaços, ponham-no sobre a lenha, mas não lhe metam fogo por baixo; eu tomarei o outro boi e o porei sobre a lenha, mas também não lhe meterei fogo por baixo."
     },
     {
      "n": 24,
-     "texto": "Invocai vós os nomes dos vossos deuses, e eu invocarei o nome do meu Senhor; o Deus que ouvir, mandando fogo, esse seja considerado o (verdadeiro) Deus. Todo o povo, respondendo, disse: Ótima proposta."
+     "texto": "Invocai vós os nomes dos vossos deuses, e eu invocarei o nome do meu Senhor; o Deus que ouvir, mandando fogo, esse seja considerado o (verdadeiro) Deus. Todo o povo, respondendo, disse: Óptima proposta."
     },
     {
      "n": 25,
@@ -3296,7 +3296,7 @@
     },
     {
      "n": 31,
-     "texto": "O rei da Síria tinha dado, aos trinta e dois capitães dos seus carros, esta ordem: Não pelejareis contra algum, pequeno ou grande, mas somente contra o rei de Israel."
+     "texto": "O rei da Síria tinha dado, aos trinta e dois capitães dos seus carros, esta ordem: Não pelejareis contra algum, pequeno ou grande, mas sòmente contra o rei de Israel."
     },
     {
      "n": 32,
@@ -3328,7 +3328,7 @@
     },
     {
      "n": 39,
-     "texto": "O resto das ações de Acab, tudo o que ele fez, o palácio de marfim que construiu, as cidades que fundou, tudo isso está escrito no livro das Crónicas dos reis de Israel."
+     "texto": "O resto das acções de Acab, tudo o que ele fez, o palácio de marfim que construiu, as cidades que fundou, tudo isso está escrito no livro das Crónicas dos reis de Israel."
     },
     {
      "n": 40,
@@ -3344,7 +3344,7 @@
     },
     {
      "n": 43,
-     "texto": "Andou em todos os caminhos de Asa, seu pai, e não se desviou deles: fez o que era reto diante do Senhor."
+     "texto": "Andou em todos os caminhos de Asa, seu pai, e não se desviou deles: fez o que era recto diante do Senhor."
     },
     {
      "n": 44,
@@ -3356,7 +3356,7 @@
     },
     {
      "n": 46,
-     "texto": "O resto das ações de Josafat, os seus feitos, as suas guerras, tudo isso está escrito no livro das Crónicas dos reis de Judá."
+     "texto": "O resto das acções de Josafat, os seus feitos, as suas guerras, tudo isso está escrito no livro das Crónicas dos reis de Judá."
     },
     {
      "n": 47,

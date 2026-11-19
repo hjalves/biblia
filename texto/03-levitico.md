@@ -33,7 +33,7 @@
 **9** o qual, oferecendo-a, tomará uma parte da oblação como um memorial, e a queimará sobre o altar em cheiro de suavidade ao Senhor.  
 **10** Tudo o que ficar será de Aarão e de seus filhos, e será uma coisa santíssima entre os sacrifícios feitos pelo fogo ao Senhor.  
 **11** Toda a oferta, que se fizer ao Senhor, será sem fermento, e no sacrifício ao Senhor não se queimará em cima do altar coisa de fermento ou de mel.  
-**12** Destas coisas oferecereis somente primícias e dons, mas não serão postos sobre o altar em odor de suavidade.  
+**12** Destas coisas oferecereis sòmente primícias e dons, mas não serão postos sobre o altar em odor de suavidade.  
 **13** Temperarás com sal toda a oblação que fizeres; não deixarás que falte à tua oferenda o sal da aliança do teu Deus. Em toda a tua oblação oferecerás sal.  
 **14** Se, porém, fizeres ao Senhor uma oferta das primícias dos teus frutos, de espigas ainda verdes, torrá-las-ás ao fogo, e moê-las-ás como se faz (aos grãos) de trigo, e assim oferecerás as tuas primícias ao Senhor,  
 **15** derramando azeite sobre (elas) e pondo-lhes por cima incenso, porque é uma oblação.  
@@ -73,7 +73,7 @@
 **10** do mesmo modo que se tiram do novilho da hóstia pacifica, e queimará isso sobre o altar dos holocaustos.  
 **11** Porém, a pele e toda a carne com a cabeça e os pés e os intestinos e os excrementos,  
 **12** e o resto do corpo, lavá-los-á fora dos acampamentos, a um lugar limpo, onde se costumam deitar as cinzas, e queimá-los-á sobre um feixe de lenha; será queimado no lugar onde se costumam deitar as cinzas.  
-**13** Porém, se toda a multidão de Israel pecar involuntariamente, por inadvertência, e se fizer alguma coisa que é contra o mandamento do Senhor,  
+**13** Porém, se toda a multidão de Israel pecar involuntàriamente, por inadvertência, e se fizer alguma coisa que é contra o mandamento do Senhor,  
 **14** depois que reconheceu o seu pecado, oferecerá um novilho, e conduzi-lo-á à porta do tabernáculo.  
 **15** Os anciães do povo porão as mãos sobre a sua cabeça diante do Senhor. Imolado o novilho na presença do Senhor,  
 **16** o sacerdote, que foi ungido, levará sangue dele ao tabernáculo da reunião,  
@@ -165,11 +165,11 @@
 **9** Toda a oblação de flor de farinha, que se coze no forno, e tudo o que se prepara sobre a grelha. Ou na sertã, será do sacerdote que oferece.  
 **10** Toda a oblação amassada em azeite, ou seca, será dividida por todos os filhos de Aarão em igual porção a cada um.  
 **11** Esta é a lei da hóstia dos sacrifícios pacíficos que oferecerão ao Senhor.  
-**12** Se a oferta for em ação de graças, oferecer-se-ão pães, em fermento amassados em azeite, tortas ázimas untadas com azeite e flor de farinha cozida, e filhós amassadas e misturadas com azeite.  
-**13** Juntar-se-ão também pães fermentados à oferenda que se apresentar com a vítima de ação de graças, a qual se imola por sacrifício pacífico.  
+**12** Se a oferta for em acção de graças, oferecer-se-ão pães, em fermento amassados em azeite, tortas ázimas untadas com azeite e flor de farinha cozida, e filhós amassadas e misturadas com azeite.  
+**13** Juntar-se-ão também pães fermentados à oferenda que se apresentar com a vítima de acção de graças, a qual se imola por sacrifício pacífico.  
 **14** Um destes pães será oferecido ao Senhor por primícias, e será do sacerdote que derramar o sangue da vítima,  
 **15** cujas carnes serão comidas no mesmo dia, e não ficará nada até de manhã.  
-**16** Se alguém oferecer uma vítima por voto ou espontaneamente, também esta será comida no mesmo dia; se, porém, ficar algum resto para o outro dia, será lícito comê-lo.  
+**16** Se alguém oferecer uma vítima por voto ou espontâneamente, também esta será comida no mesmo dia; se, porém, ficar algum resto para o outro dia, será lícito comê-lo.  
 **17** Tudo o que (ainda) restar (da carne da vítima) ao terceiro dia, será consumido no fogo.  
 **18** Se alguém comer ao terceiro dia das carnes da hóstia dos sacrifícios pacíficos, a oferta tornar-se-á inútil, e não aproveitará ao oferente: pelo contrário, todo o que se contaminar com tal comida, será réu de prevaricação.  
 **19** À carne que tiver tocado alguma coisa impura, não se comerá, mas será consumida no fogo. Aquele que estiver puro poderá comer da vítima (pacífica).  
@@ -306,7 +306,7 @@
 **20** Todo o volátil que anda sobre quatro patas será abominável para vós.  
 **21** Todo o animal volátil porém, que assim anda sobre quatro patas, mas tem mais compridas as posteriores, com que salta sobre a terra,  
 **22** podeis comê-lo, e tal é o brugo na sua espécie, o ataco, o ofíómaco e o gafanhoto, cada um na sua espécie.  
-**23** Mas os insetos alados que têm somente quatro patas, serão execráveis para vós;  
+**23** Mas os insectos alados que têm sòmente quatro patas, serão execráveis para vós;  
 **24** todo o que tocar os seus corpos mortos, ficará contaminado e será impuro até à tarde;  
 **25** se for necessário que ele leve algum destes animais mortos, lavará as suas vestes e ficará imundo até ao pôr do sol.  
 **26** Todo o animal que tem unha, mas sem ser fendida, e que não rumina, será impuro; aquele que o tocar, ficará contaminado.  
@@ -318,7 +318,7 @@
 **32** Tudo aquilo sobre que cair alguma coisa dos seus cadáveres, ficará contaminado, quer seja um vaso de pau, ou uma veste ou uma pele, ou um pano da Cilícia: qualquer instrumento que serve para fazer alguma obra, se lavará em água, e será impuro até à tarde, e deste modo será depois purificado.  
 **33** Mas o vaso de barro, dentro do qual cair alguma coisa destas, ficará contaminado, e por isso se deve quebrar.  
 **34** Todo o alimento que comerdes, se se derramar água (destes vasos contaminados) sobre ele, será impuro: todo o líquido que se bebe de qualquer vaso (contaminado), será impuro.  
-**35** Se alguma coisa destes animais mortos cair sobre um objeto, este ficará impuro; ou sejam fornos ou marmitas, deverão destruir-se; serão impuros.  
+**35** Se alguma coisa destes animais mortos cair sobre um objecto, este ficará impuro; ou sejam fornos ou marmitas, deverão destruir-se; serão impuros.  
 **36** As fontes, porém, as cisternas e todos os depósitos de água serão puros. Aquele que tocar o corpo morto destes animais, ficará impuro.  
 **37** Se cair (alguma coisa desse corpo) sobre semente, não a tornará impura.  
 **38** Mas, se alguém derramar água sobre a semente, e esta depois for tocada por algum destes corpos mortos, imediatamente ficará contaminada.  
@@ -328,7 +328,7 @@
 **42** Não comereis nenhum daqueles animais rastejantes, quer se arrastem sobre o ventre quer se movam com quatro ou com muitas patas. Considerá-lo-eis coisa abominável.  
 **43** Não vos torneis abomináveis por todos estes animais rastejantes, nem toqueis alguma destas coisas, para não ficardes impuros.  
 **44** Eu sou o Senhor vosso Deus; sede santos, porque eu sou santo; não vos mancheis com o toque de algum réptil que se arrasta sobre a terra.  
-**45** Porque eu sou o Senhor, que vos tirei da terra do Egito para ser o vosso Deus. Vós sereis santos, porque eu sou santo.  
+**45** Porque eu sou o Senhor, que vos tirei da terra do Egipto para ser o vosso Deus. Vós sereis santos, porque eu sou santo.  
 **46** Esta é a lei sobre os quadrúpedes, as aves, e sobre todo o animal vivente, que se move na água, ou que anda de rastos pela terra,  
 **47** a fim de que vós conheçais a diferença entre o puro e o impuro, e saibais o que deveis comer e o que deveis rejeitar.  
 
@@ -347,7 +347,7 @@
 
 **1** O Senhor falou a Moisés e a Aarão, dizendo;  
 **2** O homem, em cuja pele e carne aparecer cor diversa, ou uma pústula, ou mancha branca luzente, como chaga de lepra, será levado ao sacerdote Aarão, ou a um dos seus filhos.  
-**3** Este examinará a lepra na pele: se vir que os pelos se tornam brancos e que a parte afetada está mais funda do que o resto da pele e da carne, o sacerdote que examinar este homem, declará-lo-á impuro.  
+**3** Este examinará a lepra na pele: se vir que os pelos se tornam brancos e que a parte afectada está mais funda do que o resto da pele e da carne, o sacerdote que examinar este homem, declará-lo-á impuro.  
 **4** Porém, se aparecer sobre a cútis uma cor branca luzente, e não (estiver) mais funda do que o resto da carne, e os pelos forem da cor primitiva, o sacerdote o isolará durante sete dias,  
 **5** e, ao sétimo dia: o examinará; e se o mal não tiver crescido mais, nem se tiver alastrado mais além sobre a pele, isolá-lo-á novamente durante outros sete dias.  
 **6** Ao sétimo dia, examiná-lo-á: se a parte enferma for mais escura, e não se tiver alastrado sobre a pele, declará-lo-á limpo, porque é sarna: este homem lavará as suas vestes e será puro.  
@@ -393,17 +393,17 @@
 **46** Durante todo o tempo que estiver leproso e impuro, habitará só, fora dos acampamentos.  
 **47** Se uma veste de lã ou de linho for manchada de uma ferida,  
 **48** na urdidura ou na trama, ou se uma pele, ou qualquer coisa feita de pele,  
-**49** for igualmente infetada, (mostrando vestígios de) mancha esverdeada ou avermelhada, reputar-se-á de lepra, e se mostrará ao sacerdote.  
-**50** Ele, tendo examinado esse objeto, o isolará durante sete dias;  
-**51** no sétimo dia:, tomando-o a ver de novo, se achar que (a mancha) alastrou, é uma lepra pertinaz: declarará, impuro o objeto e tudo aquilo em que se encontrar tal mancha,  
+**49** for igualmente infectada, (mostrando vestígios de) mancha esverdeada ou avermelhada, reputar-se-á de lepra, e se mostrará ao sacerdote.  
+**50** Ele, tendo examinado esse objecto, o isolará durante sete dias;  
+**51** no sétimo dia:, tomando-o a ver de novo, se achar que (a mancha) alastrou, é uma lepra pertinaz: declarará, impuro o objecto e tudo aquilo em que se encontrar tal mancha,  
 **52** e por isso queimar-se-á nas chamas.  
 **53** Se, porém, vir que não alastrou,  
 **54** mandará que se lave aquilo em que está a mancha e o isolará durante outros sete dias.  
-**55** Quando vir que não tornou ao seu aspeto primitivo, ainda que a mancha não tenha alastrado, declarará o objeto impuro, e queimá-lo-á no fogo, porque a lepra se espalhou sobre a superfície ou por toda a espessura do vestido.  
+**55** Quando vir que não tornou ao seu aspecto primitivo, ainda que a mancha não tenha alastrado, declarará o objecto impuro, e queimá-lo-á no fogo, porque a lepra se espalhou sobre a superfície ou por toda a espessura do vestido.  
 **56** Mas, se depois de lavado, o lugar da mancha estiver mais escuro, cortá-lo-á, e o separará do resto do tecido ou da pele.  
-**57** Porém, depois disto, reaparecer ainda a mancha naqueles lugares que antes estavam sem mancha, deve queimar-se (todo o objeto) no fogo.  
-**58** Todavia se, no objeto lavado, (a mancha) desaparecer, lavará de novo com água as partes que estão puras, e ficarão limpas.  
-**59** Esta é a lei sobre a lepra da veste de lã e de linho, da urdidura e da trama, de todo o objeto feito de pele, (para se saber) como (estas coisas) se devem declarar limpas ou impuras.  
+**57** Porém, depois disto, reaparecer ainda a mancha naqueles lugares que antes estavam sem mancha, deve queimar-se (todo o objecto) no fogo.  
+**58** Todavia se, no objecto lavado, (a mancha) desaparecer, lavará de novo com água as partes que estão puras, e ficarão limpas.  
+**59** Esta é a lei sobre a lepra da veste de lã e de linho, da urdidura e da trama, de todo o objecto feito de pele, (para se saber) como (estas coisas) se devem declarar limpas ou impuras.  
 
 ## Capítulo 14
 
@@ -470,7 +470,7 @@
 **1** O Senhor falou a Moisés e a Aarão, dizendo;  
 **2** Falai aos filhos de Israel, e dizei-lhes: O homem que padece de gomorreia, será impuro.  
 **3** Será julgado sujeito a esta enfermidade, quando a cada momento se pegar à sua carne e se juntar aquele humor impuro.  
-**4** Todo o leito em que dormir, e todo o objeto sobre o qual se sentar, será impuro.  
+**4** Todo o leito em que dormir, e todo o objecto sobre o qual se sentar, será impuro.  
 **5** Se alguém tocar o seu leito, lavará as suas vestes, e esse mesmo, depois de lavado em água, será impuro até à tarde.  
 **6** Se se sentar onde ele estava sentado, lavará também as suas vestes, e, lavando-se em água, será impuro até à tarde.  
 **7** O que tocar a sua carne, lavará as suas vestes, e, lavado ele mesmo em água, será impuro até à tarde.  
@@ -561,7 +561,7 @@
 
 **1** O Senhor falou a Moisés, dizendo:  
 **2** Fala aos filhos de Israel, e dize-lhes: Eu sou o Senhor vosso Deus:  
-**3** vós não procediereis conforme os costumes do país do Egito, em que habitastes, nem vos portareis segundo o costume da terra de Canaan, na qual eu vos hei-de introduzir, nem andareis segundo as suas leis.  
+**3** vós não procediereis conforme os costumes do país do Egipto, em que habitastes, nem vos portareis segundo o costume da terra de Canaan, na qual eu vos hei-de introduzir, nem andareis segundo as suas leis.  
 **4** Praticareis os meus mandamentos, observareis os meus preceitos, andareis neles. Eu Sou o Senhor vosso Deus.  
 **5** Guardai as minhas leis e os meus mandamentos; o homem que os observa, viverá por eles. Eu sou o Senhor.  
 **6** Nenhum homem se aproximará duma mulher, que lhe é próxima por sangue, para descobrir a sua nudez. Eu sou o Senhor.  
@@ -625,9 +625,9 @@
 **31** Não vos dirijais aos magos, nem interrogueis os adivinhos, para que vos não contamineis por meio deles. Eu sou o Senhor vosso Deus.  
 **32** Levanta-te diante duma cabeça encanecida, e honra a pessoa do velho. Teme ao Senhor teu Deus. Eu sou o Senhor.  
 **33** Se algum estrangeiro habitar na vossa terra, e morar entre vós, não o impropereis;  
-**34** mas esteja entre vós como um natural, e amaí-o como a vós mesmos, porque também vós fostes estrangeiros na terra do Egito. Eu sou o Senhor vosso Deus.  
+**34** mas esteja entre vós como um natural, e amaí-o como a vós mesmos, porque também vós fostes estrangeiros na terra do Egipto. Eu sou o Senhor vosso Deus.  
 **35** Não façais coisa injusta nos juízos, nas medidas de comprimento, nos pesos, nas medidas de capacidade.  
-**36** Sejam justas as balanças, e justos os pesos, justo o efa e justo o hin. Eu sou o Senhor vosso Deus, que vos tirei da terra do Egito.  
+**36** Sejam justas as balanças, e justos os pesos, justo o efa e justo o hin. Eu sou o Senhor vosso Deus, que vos tirei da terra do Egipto.  
 **37** Guardai todos os meus preceitos e todas as minhas leis, e executai-as. Eu sou o Senhor.  
 
 ## Capítulo 20
@@ -663,7 +663,7 @@
 ## Capítulo 21
 
 **1** Disse também o Senhor a Moisés: Fala aos sacerdotes, filhos de Aarão, e dize-lhes: Não se contamine o sacerdote na morte dos seus concidadãos,  
-**2** exceto na dos seus consanguíneos e parentes próximos, isto é, na do pai, mãe, filho e filha, e também na do irmão  
+**2** excepto na dos seus consanguíneos e parentes próximos, isto é, na do pai, mãe, filho e filha, e também na do irmão  
 **3** e da irmã virgem, que não se casou.  
 **4** Nem mesmo se contaminará na morte do príncipe do seu povo.  
 **5** Os sacerdotes não raparão a cabeça nem a barba, nem farão incisões nas suas carnes.  
@@ -717,11 +717,11 @@
 **26** O Senhor falou a Moisés, dizendo:  
 **27** O bezerro, o cordeiro ou o cabrito, quando nascerem, estarão sete dias mamando debaixo da mãe: ao oitavo dia, e daí por diante, poderão ser oferecidos ao Senhor.  
 **28** Quer se trate dum boi, ou duma ovelha, não serão imolados no mesmo dia com as suas crias.  
-**29** Se oferecerdes um sacrifício em ação de graças ao Senhor, oferecei-o de maneira que seja agradável (ao Senhor);  
+**29** Se oferecerdes um sacrifício em acção de graças ao Senhor, oferecei-o de maneira que seja agradável (ao Senhor);  
 **30** comereis a vítima no mesmo dia, e não ficará coisa alguma para a manhã do dia seguinte. Eu sou o Senhor.  
 **31** Guardai os meus mandamentos, ponde-os em prática. Eu sou o Senhor.  
 **32** Não profaneis o meu santo nome, para que eu seja santificado no meio dos filhos de Israel. Eu sou o Senhor que vos santifico  
-**33** e vos tirei da terra do Egito, para ser o vosso Deus. Eu sou o Senhor.  
+**33** e vos tirei da terra do Egipto, para ser o vosso Deus. Eu sou o Senhor.  
 
 ## Capítulo 23
 
@@ -762,12 +762,12 @@
 **35** No primeiro dia haverá assembleia santa; não fareis nele trabalho algum servil.  
 **36** Durante sete dias oferecereis holocaustos ao Senhor; no dia oitavo haverá assembleia santa e oferecereis um holocausto ao Senhor, porque é dia de ajuntamento e de assembleia; não fareis nele obra alguma servil.  
 **37** Estas são as festas do Senhor, que publicareis para haver assembleias santas, para oferecer ao Senhor oblações, holocaustos e libações, conforme o rito de cada dia,  
-**38** independentemente dos sábados do Senhor, dos vossos dons, dos vossos votos e de todas as ofertas que voluntariamente fizerdes ao Senhor.  
+**38** independentemente dos sábados do Senhor, dos vossos dons, dos vossos votos e de todas as ofertas que voluntàriamente fizerdes ao Senhor.  
 **39** Desde o dia quinze do sétimo mês, quando tiverdes colhido todos os frutos da vossa terra, celebrareis as festas do Senhor durante sete dias: o primeiro dia e o oitavo serão de completo descanso.  
 **40** No primeiro dia tomareis dos frutos de árvores formosas, folhas de palmeira, ramos de árvores frondosas, salgueiros da torrente, e alegrar-vos-eis diante do Senhor vosso Deus.  
 **41** Celebrareis todos os anos durante sete dias esta solenidade. Esta será uma lei perpétua em vossas gerações. Celebrá-la-eis no sétimo mês,  
 **42** e habitareis à sombra dos ramos durante sete dias: todo o homem da geração de Israel habitará em tendas.  
-**43** para que os vossos descendentes saibam que eu fiz habitar em tendas os filhos de Israel, depois de os ter tirado da terra do Egito. Eu sou o Senhor vosso Deus.  
+**43** para que os vossos descendentes saibam que eu fiz habitar em tendas os filhos de Israel, depois de os ter tirado da terra do Egipto. Eu sou o Senhor vosso Deus.  
 **44** Moisés, pois, falou aos filhos de Israel sobre as festas do Senhor.  
 
 ## Capítulo 24
@@ -803,13 +803,13 @@
 **3** Durante seis anos semearás o teu campo, durante seis anos podarás a tua vinha, e recolherás os seus frutos.  
 **4** O sétimo ano, porém, será o sábado de completo descanso para a terra, um descanso em honra do Senhor; não semearás o campo, nem podarás a vinha.  
 **5** Não segarás o que a terra por si mesmo produzir, e não colherás as uvas da tua vinha porque é ano do descanso da terra:  
-**6** o que a terra der, espontaneamente, servir-vos-á de alimento a ti e ao teu servo, à tua serva, ao teu jornaleiro, e ao estrangeiro que vive contigo:  
+**6** o que a terra der, espontâneamente, servir-vos-á de alimento a ti e ao teu servo, à tua serva, ao teu jornaleiro, e ao estrangeiro que vive contigo:  
 **7** tudo o que nascer servirá de alimento também aos teus animais e aos da terra.  
 **8** Contarás também sete semanas de anos, isto é, sete vezes sete, que fazem ao todo quarenta e nove anos.  
 **9** No sétimo mês, no dia décimo do mês, no tempo da expiação, tocarás a trombeta por toda a vossa terra.  
 **10** Santificarás o ano quinquagésimo, anunciarás a remissão a todos os habitantes da terra, porque é jubileu. Voltará o homem à posse das suas propriedades, e cada um tornará para a sua primeira família.  
 **11** O ano quinquagésimo é ano jubilar. Não semeareis nem segareis o que nascer por si mesmo no campo, nem vindimareis a vinha não podada,  
-**12** por causa da santificação do jubileu, mas comereis o que os campos derem espontaneamente.  
+**12** por causa da santificação do jubileu, mas comereis o que os campos derem espontâneamente.  
 **13** No ano do jubileu voltarão todos à posse dos seus bens.  
 **14** Quando venderes qualquer coisa ao teu concidadão, ou lha comprares, não agraves o teu irmão, mas compra segundo o número dos anos do jubileu,  
 **15** e ele ta venderá segundo a conta das messes.  
@@ -835,11 +835,11 @@
 **35** Se teu irmão se tornou pobre e cair em indigência, a teu lado, e tu o recolheres como estrangeiro e peregrino, e viver contigo,  
 **36** não recebas usuras dele, nem mais do que lhe deste; teme o teu Deus, para que teu irmão possa viver contigo.  
 **37** Não lhe darás o teu dinheiro com usuras e dos grãos não exigerás dele mais do que lhe deres.  
-**38** Eu sou o Senhor vosso Deus, que vos tirei da terra do Egito, para vos dar a terra de Canaan, e ser vosso Deus.  
+**38** Eu sou o Senhor vosso Deus, que vos tirei da terra do Egipto, para vos dar a terra de Canaan, e ser vosso Deus.  
 **39** Se, obrigado pela pobreza, o teu irmão se vender a ti, não o oprimirás com a servidão de escravo,  
 **40** mas (em tua casa) será como um jornaleiro e um hóspede; trabalhará em tua casa até ao ano do jubileu,  
 **41** e depois sairá com seus filhos, e voltará para a sua família e para a herança de seus pais.  
-**42** Com efeito, eles são meus servos, e eu tirei-os da terra do Egito: não sejam vendidos na condição dos escravos.  
+**42** Com efeito, eles são meus servos, e eu tirei-os da terra do Egipto: não sejam vendidos na condição dos escravos.  
 **43** Não o aflijas com o teu poder, mas teme o teu Deus.  
 **44** Os escravos e escravas que tiverdes, sejam das nações que vos cercam.  
 **45** Também podeis comprar dos estrangeiros que vivem entre vós, ou que destes nasceram na vossa terra: serão propriedade vossa.  
@@ -847,12 +847,12 @@
 **47** Se um adventício ou um estrangeiro enriquecer entre vós, e um teu irmão pobre se vender a ele ou algum da sua família,  
 **48** depois da venda pode ser resgatado. Qualquer de seus irmãos que quiser, o resgatará;  
 **49** igualmente o poderá resgatar seu tio, seu primo, ou qualquer parente próximo. Se ele o puder fazer por si mesmo, resgatar-se-á,  
-**50** sendo contados somente os anos desde o tempo da sua venda até ao ano do jubileu, e sendo contada a quantia, por que foi vendido, segundo o número dos anos, e segundo se paga ao jornaleiro.  
+**50** sendo contados sòmente os anos desde o tempo da sua venda até ao ano do jubileu, e sendo contada a quantia, por que foi vendido, segundo o número dos anos, e segundo se paga ao jornaleiro.  
 **51** Se forem ainda muitos os anos que restam até ao jubileu, o preço (do resgate) será em proporção destes (anos).  
 **52** Se (faltarem) poucos, fará com o comprador a conta segundo o número dos anos, e pagar-lhe-á em proporção dos anos que faltam,  
 **53** levando em conta o salário do tempo que serviu: (o comprador) não o tratará com aspereza à tua vista.  
 **54** Se ele não puder ser resgatado por nenhum destes modos, sairá com seus filhos no ano do jubileu.  
-**55** Com efeito, os filhos de Israel são meus servos, que eu tirei da terra do Egito. Eu sou o Senhor vosso Deus.  
+**55** Com efeito, os filhos de Israel são meus servos, que eu tirei da terra do Egipto. Eu sou o Senhor vosso Deus.  
 
 ## Capítulo 26
 
@@ -873,10 +873,10 @@
 **15** se desprezardes as minhas leis, e não fizerdes caso das minhas ordenações, de sorte que não façais o que por mim vos foi prescrito, e torneis vão o meu pacto,  
 **16** eu vos tratarei desta maneira; Visitar-vos-ei prontamente com a indigência e com um ardor que vos seque os vossos olhos, e consuma as vossas almas. Baldadamente semeareis a vossa semente, a qual será destruída pelos vossos inimigos.  
 **17** Porei a minha face contra vós, caireis diante dos vossos inimigos, sereis sujeitos aos que vos aborrecem e fugireis sem que ninguém vos persiga.  
-**18** Se nem ainda assim me obedecerdes, acrescentarei o sétuplo ao vosso castigo, por causa dos vossos pecados,  
+**18** Se nem ainda assim me obedecerdes, acrescentarei o séptuplo ao vosso castigo, por causa dos vossos pecados,  
 **19** quebrarei a soberba da vossa dureza, farei que o céu lá em cima seja como ferro, e a terra como bronze.  
 **20** O vosso trabalho será baldado, a terra não dará os seus produtos, nem as árvores darão frutos.  
-**21** Se andardes ao contrário de mim, e não quiserdes ouvir-me, acrescentarei o sétuplo às vossas pragas, por causa dos vossos pecados:  
+**21** Se andardes ao contrário de mim, e não quiserdes ouvir-me, acrescentarei o séptuplo às vossas pragas, por causa dos vossos pecados:  
 **22** mandarei contra vós as feras do campo, que vos devorem a vós e aos vossos gados, que reduzam tudo a um pequeno número, de modo que os vossos caminhos fiquem desertos.  
 **23** Se nem ainda assim quiserdes corrigir-vos, mas se andardes contra mim,  
 **24** também andarei contra vós, e vos ferirei sete vezes mais, por causa dos vossos pecados:  
@@ -900,7 +900,7 @@
 **42** recordar-me-ei da aliança que fiz com Jacob, Isaac e Abraão e lembrar-me-ei também da terra,  
 **43** a qual, depois que eles a tiverem deixado, se comprazerá com os seus sábados, sofrendo a solidão por causa deles. Mas eles pedirão perdão dos seus pecados, porque rejeitaram os meus preceitos, e desprezaram as minhas leis.  
 **44** Apesar de tudo isto, ainda quando eles estavam em terra inimiga, eu não os rejeitei de todo, nem os desprezei de sorte que os deixasse perecer inteiramente, e tornasse vã a minha aliança com eles. Com efeito, sou o Senhor seu Deus,  
-**45** e lembrar-me-ei da minha antiga aliança, quando os tirei da terra do Egito, à vista das gentes, para ser o seu Deus. Eu sou o Senhor. Estas são as ordenações e os preceitos e as leis que o Senhor estabeleceu entre si e os filhos de Israel no monte Sinai, por mão de Moisés.  
+**45** e lembrar-me-ei da minha antiga aliança, quando os tirei da terra do Egipto, à vista das gentes, para ser o seu Deus. Eu sou o Senhor. Estas são as ordenações e os preceitos e as leis que o Senhor estabeleceu entre si e os filhos de Israel no monte Sinai, por mão de Moisés.  
 
 ## Capítulo 27
 

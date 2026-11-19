@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -168,7 +168,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "O anjo do Senhor subiu de Galgala ao lugar (chamado) dos Chorosos, e disse: Eu vos tirei do Egito e vos introduzi na terra, que eu tinha jurado a vossos pais (dar-vos), e prometi-vos não mais romper o pacto (que fiz) convosco,"
+     "texto": "O anjo do Senhor subiu de Galgala ao lugar (chamado) dos Chorosos, e disse: Eu vos tirei do Egipto e vos introduzi na terra, que eu tinha jurado a vossos pais (dar-vos), e prometi-vos não mais romper o pacto (que fiz) convosco,"
     },
     {
      "n": 2,
@@ -212,7 +212,7 @@
     },
     {
      "n": 12,
-     "texto": "e abandonaram o Senhor Deus de seus pais, que os tinha tirado da terra do Egito; seguiram deuses estranhos, deuses dos povos, que habitavam em torno deles, e adoraram-nos; provocaram o Senhor à ira,"
+     "texto": "e abandonaram o Senhor Deus de seus pais, que os tinha tirado da terra do Egipto; seguiram deuses estranhos, deuses dos povos, que habitavam em torno deles, e adoraram-nos; provocaram o Senhor à ira,"
     },
     {
      "n": 13,
@@ -499,7 +499,7 @@
     },
     {
      "n": 2,
-     "texto": "ó vós (filhos) de Israel que expusestes voluntariamente as vossas vidas ao perigo, bendizei ao Senhor."
+     "texto": "ó vós (filhos) de Israel que expusestes voluntàriamente as vossas vidas ao perigo, bendizei ao Senhor."
     },
     {
      "n": 3,
@@ -527,7 +527,7 @@
     },
     {
      "n": 9,
-     "texto": "O meu coração ama os príncipes de Israel; vós os que voluntariamente vos expusestes ao perigo, bendizei ao Senhor."
+     "texto": "O meu coração ama os príncipes de Israel; vós os que voluntàriamente vos expusestes ao perigo, bendizei ao Senhor."
     },
     {
      "n": 10,
@@ -611,7 +611,7 @@
     },
     {
      "n": 30,
-     "texto": "Talvez que a esta hora reparta os despojos, e escolha para si a mais formosa das cativas; vestidos de várias cores são dados dos despojos a Sisara, e várias joias se lhe destinam para adorno do seu pescoço."
+     "texto": "Talvez que a esta hora reparta os despojos, e escolha para si a mais formosa das cativas; vestidos de várias cores são dados dos despojos a Sisara, e várias jóias se lhe destinam para adorno do seu pescoço."
     },
     {
      "n": 31,
@@ -656,7 +656,7 @@
     },
     {
      "n": 8,
-     "texto": "o Senhor mandou-lhes um profeta, que lhes disse; Eis o que diz o Senhor Deus de Israel: Eu vos fiz sair do Egito e vos tirei da casa da escravidão,"
+     "texto": "o Senhor mandou-lhes um profeta, que lhes disse; Eis o que diz o Senhor Deus de Israel: Eu vos fiz sair do Egipto e vos tirei da casa da escravidão,"
     },
     {
      "n": 9,
@@ -676,7 +676,7 @@
     },
     {
      "n": 13,
-     "texto": "Gedeão disse-lhe: Se o Senhor é connosco, peço-te, senhor meu, (que me digas) por que nos aconteceram todas estas coisas? Onde estão aquelas suas maravilhas, que nossos pais nos contaram, dizendo: O Senhor tirou-nos do Egito? Agora o Senhor abandonou-nos e entregou-nos nas mãos do Madianitas."
+     "texto": "Gedeão disse-lhe: Se o Senhor é connosco, peço-te, senhor meu, (que me digas) por que nos aconteceram todas estas coisas? Onde estão aquelas suas maravilhas, que nossos pais nos contaram, dizendo: O Senhor tirou-nos do Egipto? Agora o Senhor abandonou-nos e entregou-nos nas mãos do Madianitas."
     },
     {
      "n": 14,
@@ -813,7 +813,7 @@
     },
     {
      "n": 6,
-     "texto": "Ora o número dos que lamberam a água, lançando-a com a mão à boca, foi de trezentos homens; todo o resto da gente tinha dobrado os joelhos para beber (mais comodamente)."
+     "texto": "Ora o número dos que lamberam a água, lançando-a com a mão à boca, foi de trezentos homens; todo o resto da gente tinha dobrado os joelhos para beber (mais còmodamente)."
     },
     {
      "n": 7,
@@ -1059,7 +1059,7 @@
     },
     {
      "n": 5,
-     "texto": "Foi à casa de seu pai, em Efra, e matou, sobre uma só pedra, os seus irmãos, filhos de Jerobaal, setenta homens; escapou somente Joatão, filho mais novo de Jerobaal, que se escondeu."
+     "texto": "Foi à casa de seu pai, em Efra, e matou, sobre uma só pedra, os seus irmãos, filhos de Jerobaal, setenta homens; escapou sòmente Joatão, filho mais novo de Jerobaal, que se escondeu."
     },
     {
      "n": 6,
@@ -1103,7 +1103,7 @@
     },
     {
      "n": 16,
-     "texto": "Agora pois, se, com retidão e sem pecado, constituistes vosso rei a Abimelec, se vos portastes bem com Jerobaal e com a sua casa, correspondendo aos benefícios daquele que combateu por vós,"
+     "texto": "Agora pois, se, com rectidão e sem pecado, constituistes vosso rei a Abimelec, se vos portastes bem com Jerobaal e com a sua casa, correspondendo aos benefícios daquele que combateu por vós,"
     },
     {
      "n": 17,
@@ -1115,7 +1115,7 @@
     },
     {
      "n": 19,
-     "texto": "se, pois, procedestes com retidão e sem pecado, com Jerobaal e com a sua casa, alegrai-vos hoje com Abimelec, e ele se alegre convosco."
+     "texto": "se, pois, procedestes com rectidão e sem pecado, com Jerobaal e com a sua casa, alegrai-vos hoje com Abimelec, e ele se alegre convosco."
     },
     {
      "n": 20,
@@ -1251,7 +1251,7 @@
     },
     {
      "n": 53,
-     "texto": "Então uma mulher, lançando de cima um pedaço de mó, feriu Abimelec na cabeça e fraturou-lhe o crânio."
+     "texto": "Então uma mulher, lançando de cima um pedaço de mó, feriu Abimelec na cabeça e fracturou-lhe o crânio."
     },
     {
      "n": 54,
@@ -1332,7 +1332,7 @@
     },
     {
      "n": 15,
-     "texto": "Mas os filhos de Israel disseram ao Senhor: Pecamos, faz tu de nós o que te parecer; somente livra-nos agora."
+     "texto": "Mas os filhos de Israel disseram ao Senhor: Pecamos, faz tu de nós o que te parecer; sòmente livra-nos agora."
     },
     {
      "n": 16,
@@ -1401,7 +1401,7 @@
     },
     {
      "n": 13,
-     "texto": "O rei respondeu-lhes: Porque Israel, vindo do Egito, tomou o meu país, desde os confins do Arnon até Jaboc e até ao Jordão. Entrega-mo, portanto pacificamente."
+     "texto": "O rei respondeu-lhes: Porque Israel, vindo do Egipto, tomou o meu país, desde os confins do Arnon até Jaboc e até ao Jordão. Entrega-mo, portanto pacificamente."
     },
     {
      "n": 14,
@@ -1413,7 +1413,7 @@
     },
     {
      "n": 16,
-     "texto": "Com efeito, quando saiu do Egito, andou pelo deserto até ao Mar Vermelho, chegou a Cades,"
+     "texto": "Com efeito, quando saiu do Egipto, andou pelo deserto até ao Mar Vermelho, chegou a Cades,"
     },
     {
      "n": 17,
@@ -1497,7 +1497,7 @@
     },
     {
      "n": 37,
-     "texto": "E disse (mais) a seu pai: Concede-me somente o que te peço: Deixa-me que vá pelos montes durante dois meses, e que chore a minha virgindade com as minhas companheiras."
+     "texto": "E disse (mais) a seu pai: Concede-me sòmente o que te peço: Deixa-me que vá pelos montes durante dois meses, e que chore a minha virgindade com as minhas companheiras."
     },
     {
      "n": 38,
@@ -1962,7 +1962,7 @@
     },
     {
      "n": 27,
-     "texto": "A casa estava cheia de homens e mulheres, e estavam ali todos os príncipes dos Filisteus; havia cerca de três mil pessoas de um e outro sexo, que do teto e do pavimento estavam vendo Sansão que dançava."
+     "texto": "A casa estava cheia de homens e mulheres, e estavam ali todos os príncipes dos Filisteus; havia cerca de três mil pessoas de um e outro sexo, que do tecto e do pavimento estavam vendo Sansão que dançava."
     },
     {
      "n": 28,
@@ -2060,7 +2060,7 @@
     },
     {
      "n": 5,
-     "texto": "Eles pediram-lhe que consultasse o Senhor, para poderem saber se a sua jornada seria feliz, se a sua empresa se efetuaria."
+     "texto": "Eles pediram-lhe que consultasse o Senhor, para poderem saber se a sua jornada seria feliz, se a sua empresa se efectuaria."
     },
     {
      "n": 6,
@@ -2241,7 +2241,7 @@
     },
     {
      "n": 18,
-     "texto": "Ele respondeu-lhe: Nós partimos de Belém de Judá e vamos para nossa casa, que é ao lado do monte de Efraim, donde tínhamos ido a Belém; agora vamos à casa de Deus, mas ninguém nos quer acolher sob o seu teto,"
+     "texto": "Ele respondeu-lhe: Nós partimos de Belém de Judá e vamos para nossa casa, que é ao lado do monte de Efraim, donde tínhamos ido a Belém; agora vamos à casa de Deus, mas ninguém nos quer acolher sob o seu tecto,"
     },
     {
      "n": 19,
@@ -2249,7 +2249,7 @@
     },
     {
      "n": 20,
-     "texto": "O velho respondeu-lhe: A paz seja contigo, eu te darei tudo o que for necessário; rogo-te somente que não fiques na praça."
+     "texto": "O velho respondeu-lhe: A paz seja contigo, eu te darei tudo o que for necessário; rogo-te sòmente que não fiques na praça."
     },
     {
      "n": 21,
@@ -2265,7 +2265,7 @@
     },
     {
      "n": 24,
-     "texto": "Eu tenho uma filha virgem e este homem tem a sua mulher, eu vo-las tirarei cá para fora, para abusardes delas e satisfazerdes a vossa paixão; somente vos peço que não cometais contra este homem tal infâmia."
+     "texto": "Eu tenho uma filha virgem e este homem tem a sua mulher, eu vo-las tirarei cá para fora, para abusardes delas e satisfazerdes a vossa paixão; sòmente vos peço que não cometais contra este homem tal infâmia."
     },
     {
      "n": 25,
@@ -2289,7 +2289,7 @@
     },
     {
      "n": 30,
-     "texto": "Quando tal viram, exclamavam: Nunca tal coisa se fez em Israel, desde o dia em que os nossos pais saíram do Egito até hoje; pronunciai uma sentença e resolvei de comum acordo o que se deve fazer."
+     "texto": "Quando tal viram, exclamavam: Nunca tal coisa se fez em Israel, desde o dia em que os nossos pais saíram do Egipto até hoje; pronunciai uma sentença e resolvei de comum acordo o que se deve fazer."
     }
    ]
   },
@@ -2474,7 +2474,7 @@
     },
     {
      "n": 45,
-     "texto": "Vendo isto os que tinham ficado de Benjamim, fugiram para o deserto e encaminharam-se para o rochedo chamado Remon. Também nesta fuga, errando por um e outro lugar, tomando diversas direções, foram mortos (pelos filhos de Israel) cinco mil homens. Passando eles mais adiante, (os filhos de Israel) perseguiram-nos e mataram ainda mais dois mil."
+     "texto": "Vendo isto os que tinham ficado de Benjamim, fugiram para o deserto e encaminharam-se para o rochedo chamado Remon. Também nesta fuga, errando por um e outro lugar, tomando diversas direcções, foram mortos (pelos filhos de Israel) cinco mil homens. Passando eles mais adiante, (os filhos de Israel) perseguiram-nos e mataram ainda mais dois mil."
     },
     {
      "n": 46,

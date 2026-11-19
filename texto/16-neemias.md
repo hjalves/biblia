@@ -22,17 +22,17 @@
 **4** O rei disse-me: Que queres tu pedir? Eu, encomendando-me ao Deus do céu,  
 **5** disse ao rei: Se é do agrado do rei, se o teu servo te é agradável, peço-te que me mandes à Judeia, à cidade do sepulcro de meus pais, que eu a reedificarei.  
 **6** O rei, estando a rainha sentada a seu lado, perguntou-me: Que tempo durará a tua jornada? Quando voltarás tu? Eu disse-lhe o tempo, e aprouve ao rei enviar-me.  
-**7** Depois disse ao rei: Se é do agrado do rei, sejam-me dadas cartas para os governadores das províncias de além do rio, para que me deem passagem, até eu chegar à Judeia,  
+**7** Depois disse ao rei: Se é do agrado do rei, sejam-me dadas cartas para os governadores das províncias de além do rio, para que me dêem passagem, até eu chegar à Judeia,  
 **8** assim como uma carta para Asaf, guarda do bosque do rei, a fim de me fornecer madeiras para as portas das torres da casa (de Deus), para os muros da cidade e para a casa em que eu me alojar. O rei concedeu-me tudo, porque a mão favorável do meu Deus era comigo.  
 **9** Fui ter com os governadores de além do rio, e apresentei-lhes as cartas do rei. O rei tinha enviado comigo oficiais do exército e cavaleiros.  
 **10** Sanabalat Honorita, e Tobias Amonita, servo (do rei), souberam-no, e ficaram em extremo tristes, por ter chegado um homem que buscava o bem dos filhos de Israel.  
 **11** Cheguei a Jerusalém, e estive lá três dias,  
 **12** passados os quais, levantei-me de noite, com poucas pessoas, sem dizer a ninguém o que Deus me tinha inspirado no meu coração para fazer em Jerusalém. Não tinha comigo outro cavalo, senão aquele em que cavalgava.  
-**13** Saí de noite pela porta do Vale, em direção à fonte do Dragão e à porta da Esterqueira, e contemplei os muros de Jerusalém deitados abaixo e as suas portas consumidas pelo fogo.  
+**13** Saí de noite pela porta do Vale, em direcção à fonte do Dragão e à porta da Esterqueira, e contemplei os muros de Jerusalém deitados abaixo e as suas portas consumidas pelo fogo.  
 **14** Dali passei à porta da Fonte (de Siloé) e à piscina do Rei, mas não havia lugar por onde pudesse passar o cavalo em que ia montado.  
 **15** Subi de noite pela torrente e inspeccionei os muros. Voltando, cheguei à porta do Vale e recolhi-me.  
 **16** Os magistrados não sabiam onde eu tinha ido, nem o que eu fazia; até então não tinham descoberto nada, nem aos Judeus, nem aos sacerdotes, nem aos grandes, nem aos magistrados, nem aos outros que se deviam ocupar das obras.  
-**17** Então disse-lhes: Vós vedes a aflição em que estamos; Jerusalém está deserta, e as suas portas foram consumidas pelo fogo; vinde e restauremos os muros de Jerusalém, não sejamos mais (um objeto de) opróbrio (para os nossos inimigos),  
+**17** Então disse-lhes: Vós vedes a aflição em que estamos; Jerusalém está deserta, e as suas portas foram consumidas pelo fogo; vinde e restauremos os muros de Jerusalém, não sejamos mais (um objecto de) opróbrio (para os nossos inimigos),  
 **18** Depois referi-lhes como a mão do meu Deus me era favorável, as palavras que o rei me tinha dito, e acrescentei: Vamos e empreendamos a obra. Eles puseram, com coragem, as suas mãos a esta boa obra.  
 **19** Sanabalat Honorita, Tobias Amonita e Gossem, o Arabe, souberam-no, fizeram zombaria de nós, desprezaram-nos e disseram: Que é isso que vós fazeis? Quereis porventura revoltar-vos contra o rei?  
 **20** Eu respondi-lhe: O Deus do céu é o que nos ajuda. Nós somos seus servos; levantemo-nos e reedifiquemos. Quanto a vós, não tendes parte, nem direito, nem lembrança em Jerusalém.  
@@ -55,8 +55,8 @@
 **14** A porta da Esterqueira ediflicou-a Melquias, filho de Recab, chefe do distrito de Betacarão: edificou-a e pôs-lhe os batentes, as fechaduras e as trancas.  
 **15** A porta da Fonte edificou-a Selum, filho de Colboza, chefe do distrito de Masfa; ele a edificou e a cobriu e lhe pôs as fechaduras e as trancas; além disso, refez os muros desde a piscina de Siloé, ao longo do jardim do rei, até aos degraus que descem da cidade de David.  
 **16** Depois dele, trabalhou nas reparações Neemias, filho de Azboc, chefe de metade do distrito de Betsur, até defronte do sepulcro de David, até à piscina que tinha sido feita com grande trabalho, e até à casa dos Valentes (de David).  
-**17** Depois dele trabalharam nas reparações os Levitas, (sob a direção de) Reum, filho de Beni; depois dele, Hasebias, chefe de metade do distrito de Ceila, no seu distrito;  
-**18** depois dele, seus irmãos, sob a direção de Bavai, filho de Enadad, chefe da (outra) metade de Ceila;  
+**17** Depois dele trabalharam nas reparações os Levitas, (sob a direcção de) Reum, filho de Beni; depois dele, Hasebias, chefe de metade do distrito de Ceila, no seu distrito;  
+**18** depois dele, seus irmãos, sob a direcção de Bavai, filho de Enadad, chefe da (outra) metade de Ceila;  
 **19** ao lado dele, Azer, filho de Josué, chefe de Masfa, reparou outro pedaço da muralha, em frente à subida do arsenal, no ângulo fortificado.  
 **20** Depois dele, Baruc, filho de Zacai, edificou no monte outro tanto espaço, desde o ângulo até à porta da casa do sumo sacerdote Eliasib.  
 **21** Depois dele Merimut, filho de Urias, filho de Haco, edificou outro tanto espaço, desde a poria da casa de Eliasib até onde se estendia a casa de Eliasib.  
@@ -95,7 +95,7 @@
 **20** em qualquer lugar que ouvirdes o som da trombeta, correi ali a socorrer-nos; o nosso Deus pelejará por nós.  
 **21** Desta forma, ao continuarmos a obra, metade dos nossos conservava as lanças empunhadas desde o despontar da aurora até que saiam as estrelas.  
 **22** Naquela mesma ocasião disse eu também ao povo: Cada um fique com o seu servo no meio de Jerusalém, e revezemo-nos de noite e de dia para trabalhar.  
-**23** Eu, porém, meus irmãos, meus servos e os guardas que me acompanhavam, não largávamos as nossas roupas; cada um despia-se somente para se lavar.  
+**23** Eu, porém, meus irmãos, meus servos e os guardas que me acompanhavam, não largávamos as nossas roupas; cada um despia-se sòmente para se lavar.  
 
 ## Capítulo 5
 
@@ -105,7 +105,7 @@
 **4** Outros diziam: Tomemos dinheiro emprestado para pagarmos os tributos do rei, e empenhemos os nossos campos e vinhas.  
 **5** Apesar de a nossa carne ser como a carne dos nossos irmãos (ricos), os nossos filhos como os deles, contudo reduzimos os nossos filhos e as nossas filhas à escravidão, e algumas das nossas filhas são (já) escravas! E não temos com que poder resgatá-las, pois são estranhos que possuem os nossos campos e as nossas vinhas.  
 **6** Eu irritei-me muito, ao ouvir os seus clamores e as suas reclamações.  
-**7** Depois de ter refletido maduramente, repreendi os grandes e os magistrados, dizendo-lhes: Porventura sois usurários para vossos irmãos? Então convoquei contra eles uma grande assembleia  
+**7** Depois de ter reflectido maduramente, repreendi os grandes e os magistrados, dizendo-lhes: Porventura sois usurários para vossos irmãos? Então convoquei contra eles uma grande assembleia  
 **8** e disse-lhe: Nós, como sabeis, segundo as nossas posses, resgatámos os Judeus nossos irmãos, que tinham sido vendidos aos gentios; e vós vendereis agora vossos irmãos, para que nós os tenhamos de resgatar (novamente)? Eles ficaram em silêncio, e não souberam que me responder.  
 **9** Acrescentei: Não é bem o que fazeis. Por que não andais vós no temor do nosso Deus, para que não cheguemos a ser escarnecidos pelos povos nossos inimigos?  
 **10** Também eu, meus irmãos e meus criados temos emprestado a muitos dinheiro e trigo; concordemos todos em não lhes pedir nada, em os dar por quites do que nos devem.  
@@ -129,12 +129,12 @@
 **6** Divulgou-se entre as gentes, e Gossem o publicou, que tu e os Judeus intentais revoltar-vos e que, por isso, reedificas os muros; (também se divulgou que) pretendes constituir-te rei sobre eles, por cuja causa  
 **7** dispuseste profetas, que falem de ti com louvor em Jerusalém, dizendo: Há rei na Judeia. O rei há-de ser informado destas coisas, por isso vem agora, para de acordo deliberarmos.  
 **8** Eu mandei-lhes dizer: Não é como dizes; tu inventas isto da tua cabeça.  
-**9** Efetivamente todos estes procuravam aterrar-nos, imaginando que nós cessaríamos a obra, que largaríamos o trabalho; porém, eu por isso mesmo cobrei mais ânimo.  
+**9** Efectivamente todos estes procuravam aterrar-nos, imaginando que nós cessaríamos a obra, que largaríamos o trabalho; porém, eu por isso mesmo cobrei mais ânimo.  
 **10** Fui logo secretamente a casa de Semaias, filho de Dalaias, filho de Metabeei, e ele disse-me: Vamos juntos à casa de Deus, ao meio do templo, e fechemos as portas do templo; eles hão-de vir para te matarem, hão-de vir de noite para te darem a morte.  
 **11** Eu respondi-lhe: Porventura um homem como eu há-de fugir? Um homem como eu entrará no templo, sem morrer? Não entrarei.  
 **12** Conheci que não era Deus quem o tinha enviado; ele tinha-me falado como se fosse profeta, porque Tobias e Sanabalat o tinham subornado.  
 **13** Haviam-no subornado para me intimidar e fazer pecar, e para que eles tivessem maldades de que me arguir.  
-**14** Lembra-te, Senhor, destas más ações de Tobias e Sanabalat; lembra-te também do profeta Noadias e dos outros profetas, que me atemorizavam.  
+**14** Lembra-te, Senhor, destas más acções de Tobias e Sanabalat; lembra-te também do profeta Noadias e dos outros profetas, que me atemorizavam.  
 **15** Acabaram-se de reedificar os muros no dia vinte e cinco do mês de Elul, em cinquenta e dois dias.  
 **16** Aconteceu que, tendo ouvido isto os nossos inimigos, atemorizaram-se todos os povos nossos circunvizinhos, sentiram um grande desfalecimento e reconheceram que esta obra era obra de Deus.  
 **17** Por aqueles dias, muitas cartas eram enviadas dos magnates dos Judeus a Tobias, e de Tobias a eles,  
@@ -149,7 +149,7 @@
 **4** A cidade, porém, era muito larga e grande, e dentro dela era pouco o povo, e não estavam reconstruídas todas as casas.  
 **5** Deus, pois, inspirou no meu coração o juntar os grandes, os magistrados e o povo, para fazer o seu recenseamento. Encontrei o registo genealógico daqueles que tinham vindo primeiro, e nele se achou escrito o seguinte:  
 **6** Estes são os filhos da província (da Judeia) que vieram do cativeiro, os quais Nabucodonosor, rei de Babilónia, tinha deportado, e que voltaram para Jerusalém e para a Judeia, cada um para a sua cidade.  
-**7** Vieram sob a direção de Zorobabel, Josué, Neemias, Azarias, Raamias, Nabamani, Hordoqueu, Belsão, Mesfarat, Begoai, Naum, Baana. O número dos homens (que vieram) do povo de Israel é este:  
+**7** Vieram sob a direcção de Zorobabel, Josué, Neemias, Azarias, Raamias, Nabamani, Hordoqueu, Belsão, Mesfarat, Begoai, Naum, Baana. O número dos homens (que vieram) do povo de Israel é este:  
 **8** Filhos de Faros, dois mil cento e setenta e dois;  
 **9** filhos de Safatias, trezentos e setenta e dois;  
 **10** filhos de Aréa, seiscentos e cinquenta e dois;  
@@ -248,7 +248,7 @@
 **6** Foste tu, Senhor, tu só que fizeste o céu, o céu dos céus e toda a sua milícia, a terra e tudo o que há nela, os mares e tudo o que neles se contém; tu dás vida a todas estas coisas, e a milícia do céu te adora.  
 **7** Foste tu, ó Senhor Deus, que escolheste Abrão, que o tiraste de Ur dos Caldeus e lhe deste o nome de Abraão.  
 **8** Achaste o seu coração fiel aos teus olhos e fizeste aliança com ele de que lhe darias a terra dos Cananeus, dos Heteus, dos Amorreus, dos Fereseus, dos Jesubeus, dos Gergeseus, para a entregares à sua descendência, e cumpriste as tuas palavras, porque és justo.  
-**9** Viste a aflição de nossos pais no Egito, ouviste os seus clamores perto do mar vermelho,  
+**9** Viste a aflição de nossos pais no Egipto, ouviste os seus clamores perto do mar vermelho,  
 **10** operaste maravilhas e prodígios sobre Faraó, sobre todos os seus servos e sobre todo o povo daquele país, porque sabias que eles os tinham tratado com soberba, e alcançaste o renome que conservas ainda hoje.  
 **11** Dividiste o mar diante deles, e eles passaram a pé enxuto pelo meio, mas precipitaste os seus perseguidores no fundo, como uma pedra que caí em águas profundas.  
 **12** Foste o seu condutor de dia numa coluna de nuvem, e de noite numa coluna de fogo, para conhecerem o caminho por onde deviam seguir.  
@@ -257,7 +257,7 @@
 **15** Tu lhes deste também o pão do céu, quando tiveram fome, e lhes fizeste brotar água dum rochedo, quando tiveram sede, e lhes disseste que entrassem e possuíssem a terra, sobre a qual levantaste a tua mão, jurando que lha darias.  
 **16** Porém eles e nossos pais procederam com soberba, endureceram as suas cervizes e não ouviram os teus mandamentos.  
 **17** Não quiseram ouvir, não se lembraram das tuas maravilhas, que tinhas operado em seu favor. Endureceram as suas cervizes e, levados pela sua rebeldia, escolheram um chefe, a fim de voltarem para a sua escravidão, mas tu, ó Deus propício, clemente e misericordioso, sempre paciente, e de muita compaixão, tu não os desamparaste,  
-**18** ainda mesmo quando eles fizeram para si um bezerro fundido e disseram: Este é o teu Deus (ó Israel) que te tirou do Egito - ofendendo-te com graves ultrajes.  
+**18** ainda mesmo quando eles fizeram para si um bezerro fundido e disseram: Este é o teu Deus (ó Israel) que te tirou do Egipto - ofendendo-te com graves ultrajes.  
 **19** Tu, pela tua grande misericórdia, não os desamparaste no deserto; a coluna de nuvem não se apartou deles de dia, para os guiar pelo caminho, nem a coluna de fogo durante a noite, para lhes mostrar o caminho por onde deviam ir.  
 **20** Deste-lhes o teu bom espírito, que os ensinasse, e não retiraste o teu maná da sua boca, e deste-lhes água na sua sede.  
 **21** Tu os sustentaste durante quarenta anos no deserto, e não lhes faltou nada; as suas vestes não se fizeram velhas, e os seus pés não se magoaram.  
@@ -324,7 +324,7 @@
 ## Capítulo 11
 
 **1** Os príncipes do povo habitaram em Jerusalém, mas o resto do povo deitou sortes, para tirarem uma parte de dez, a qual habitaria em Jerusalém, cidade santa, ficando as restantes nove partes nas outras cidades.  
-**2** O povo abençoou todos os homens que se ofereceram voluntariamente para habitar em Jerusalém.  
+**2** O povo abençoou todos os homens que se ofereceram voluntàriamente para habitar em Jerusalém.  
 **3** Estes são os principais da província que habitaram em Jerusalém. Nas cidades de Judá, cada um se estabeleceu na sua possessão, na sua cidade: os Israelitas, os sacerdotes, os Levitas, os Natineus e os filhos dos servos de Solomão.  
 **4** Em Jerusalém habitaram filhos de Judá e filhos de Benjamim. Dos filhos de Judá: Ataias, filho de Azião, filho de Zacarias, filho de Amarias, filho de Safatias, filho de Malaleel, dos filhos de Farés;  
 **5** Maasias, filho de Baruque, filho de Colboza, filho de Hazias, filho de Adaias, filho de Joiarib, filho de Zacarias, filho de Sela.  
@@ -388,7 +388,7 @@
 **24** Os chefes dos Levitas eram: Hesebias, Serebías e Josué, filho de Cedmiel, encarregados com seus irmãos, pelas suas classes, de louvarem e darem glória (a Deus), segundo o preceito de David, homem de Deus, e de fazerem igualmente o seu serviço por ordem.  
 **25** Matanias, Becbecias, Obedias, Mosolão, Teimou, Acub, eram os guardas das portas e dos vestíbulos que estavam em frente das portas.  
 **26** Estes viviam no tempo de Joaquim, filho de Josué, filho de Josedec, e no tempo de Neemias, governador, e de Esdras, sacerdote e escriba.  
-**27** Para a dedicação dos muros de Jerusalém buscaram-se os Levitas de todos os seus lugares, para virem a Jerusalém celebrar a dedicação com alegria, com ações de graças, cânticos, ao toque de címbalos, de saltérios e de cítaras.  
+**27** Para a dedicação dos muros de Jerusalém buscaram-se os Levitas de todos os seus lugares, para virem a Jerusalém celebrar a dedicação com alegria, com acções de graças, cânticos, ao toque de címbalos, de saltérios e de cítaras.  
 **28** Juntaram-se os filhos dos cantores do campo dos arredores de Jerusalém, assim como das aldeias de Netufati,  
 **29** de Bel-Galgal e dos territórios de Geba e de Azmavet, porque os cantores tinham edificado aldeias para si em volta de Jerusalém.  
 **30** Tendo-se purificado os sacerdotes e os Levitas, purificaram também o povo, as portas e os muros.  
@@ -425,7 +425,7 @@
 **12** Então todo o Judá trouxe para os celeiros os dízimos do trigo, do vinho e do azeite.  
 **13** Estabeleci por superintendentes dos celeiros a Selemias, sacerdote, a Sadoc, escriba, a Fadais, dos Levitas, e agreguei-lhes Hanan, filho de Zacur, filho de Matatias, porque tinham sido encontrados fiéis. Ficaram encarregados de fazer a distribuição das porções aos seus irmãos.  
 **14** Lembra-te por isto de mim, ó meu Deus, e não apagues as boas obras que fiz na casa do meu Deus e nas suas cerimónias.  
-**15** Naqueles dias vi em Judá homens, que pisavam nos lagares ao sábado, que acarretavam molhos, que carregavam sobre jumentos vinho, uvas, figos e toda a casta de fardos, que levavam a Jerusalém em dia de sábado. Ordenei-lhes expressamente que vendessem somente nos dias em que era lícito vender.  
+**15** Naqueles dias vi em Judá homens, que pisavam nos lagares ao sábado, que acarretavam molhos, que carregavam sobre jumentos vinho, uvas, figos e toda a casta de fardos, que levavam a Jerusalém em dia de sábado. Ordenei-lhes expressamente que vendessem sòmente nos dias em que era lícito vender.  
 **16** Havia também Tirios estabelecidos na cidade, que traziam peixe e mercadorias de toda a espécie, para vender em Jerusalém, aos filhos de Judá, nos sábados.  
 **17** Repreendi os grandes de Judá, dizendo-lhes: Que maldade é esta que cometeis, profanando o dia de sábado?  
 **18** Não é isto o mesmo que fizeram nossos pais, e não foi por isso que nosso Deus fez cair toda esta calamidade sobre nós e sobre esta cidade? Ides vós aumentar a sua ira sobre Israel, violando o sábado?  

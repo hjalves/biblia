@@ -10,7 +10,7 @@
 **6** Diante da sua indignação quem poderá subsistir? Quem resistirá ao ardor da sua ira? A sua indignação derrama-se como um fogo e destrói as (mesmas) pedras.  
 **7** O Senhor é bom, é um refúgio (para seus filhos) no dia da tribulação; conhece (e protege) os que esperam nele.  
 **8** Com uma inundação impetuosa (de inimigos) aniquilará este lugar (de Nínive) e lançará os seus inimigos para as trevas.  
-**9** Que projetos formais contra o Senhor? É ele mesmo que aniquilará (Nínive); esta inimiga não surgirá duas vezes.  
+**9** Que projectos formais contra o Senhor? É ele mesmo que aniquilará (Nínive); esta inimiga não surgirá duas vezes.  
 **10** Como espinhos entrelaçados uns nos outros, ébrios do seu vinho generoso, serão consumidos como palha completamente seca.  
 **11** De ti saiu (ó Nínive) quem pensa mal (ou impiamente) contra o Senhor, quem trama desígnios perversos.  
 **12** Isto diz o Senhor: Por mais fortes e numerosos que (os Assirios) sejam, ainda assim serão ceifados e desaparecerão. Eu te afligi (ó meu povo), mas não te afligirei mais (por meio deles).  
@@ -23,12 +23,12 @@
 **1** Já vem (ó Nínive) contra ti um destruidor: guarda a fortaleza, vigia o caminho, reforça os teus rins, acrescenta as tuas forças.  
 **2** Porque o Senhor restabelece o brilho de Jacob, bem como o brilho de Israel, depois que os (teus exércitos) destruidores devastaram e destruíram os seus sarmentos.  
 **3** O escudo dos seus combatentes está pintado de vermelho, os guerreiros estão vestidos de púrpura; os carros de guerra avançam cintilantes no dia da preparação (para o combate); há brandir de lanças.  
-**4** Os carros precipitam-se furiosamente pelos caminhos, chocam uns com os outros nas ruas; o seu aspeto é como de fachos ardentes, como relâmpagos que discorrem duma parte para a outra.  
+**4** Os carros precipitam-se furiosamente pelos caminhos, chocam uns com os outros nas ruas; o seu aspecto é como de fachos ardentes, como relâmpagos que discorrem duma parte para a outra.  
 **5** (O Ninivita) lembra-se dos seus valentes (e manda-os ao combate); eles tropeçam pelos caminhos. Rápidamente se precipitam sobre os muros e preparam abrigos.  
 **6** Enfim são abertas as portas dos rios, e o palácio, abalado, vacila.  
 **7** A rainha é levada prisioneira, as suas escravas são levadas cativas, gemendo como pombas, ferindo os seus peitos.  
 **8** Nínive é semelhante a um tanque, mas de águas que fogem. (E por mais que se gritasse): Parai! Parai! nenhum voltou (para trás).  
-**9** Saqueai a prata, saqueai o ouro; as suas riquezas são inúmeras, ela está cheia de objetos preciosos.  
+**9** Saqueai a prata, saqueai o ouro; as suas riquezas são inúmeras, ela está cheia de objectos preciosos.  
 **10** (Nínive) ficou destruída, rasgada e dilacerada; nela encontram-se corações desmaiados, tremem os joelhos, estão sem força os rins; todos os rostos empalidecem.  
 **11** Onde está agora (Nínive) essa habitação dos leões, esse pasto de leõezinhos, onde se iam recolher o leão e os seus cachorros, sem haver ninguém que os afugentasse?  
 **12** O leão (Assírio) despedaçava o preciso para os seus cachorros, levava caça para as suas leoas; enchia as suas covas de presa, a sua caverna de rapinas.  
@@ -41,10 +41,10 @@
 **3** espadas que reluzem, lanças que fuzilam! Multidão de feridos! Mortos em massa! Inumeráveis cadáveres, contra os quais se tropeça!  
 **4** (Tudo isto) por causa das numerosas fornicações da meretriz formosa e encantadora, mestra em feitiçarias, que enganava os povos pelas suas fornicações e as nações pelos seus malefícios.  
 **5** Eis-me contra ti, diz o Senhor dos exércitos! Vou lançar sobre o teu rosto o teu vestido e mostrar a tua nudez às nações, aos reinos a tua vergonha.  
-**6** Cobrir-te-ei de imundícies e de infâmia e dar-te-ei em espetáculo.  
+**6** Cobrir-te-ei de imundícies e de infâmia e dar-te-ei em espectáculo.  
 **7** Todos os que te virem, retrocederão para longe de ti (horrorizados) e dirão; Nínive está destruída. Quem te lamentará? Aonde te irei buscar consoladores?  
 **8** Porventura és tu melhor que No-Amon, sentada entre os rios (ou braços do Nilo), rodeada de águas, que tinha por defesa o mar, e as águas por muralhas?  
-**9** A Etiópia era a sua força, como também o Egito de população ilimitada; os Lídios e os Líbios eram seus auxiliares.  
+**9** A Etiópia era a sua força, como também o Egipto de população ilimitada; os Lídios e os Líbios eram seus auxiliares.  
 **10** Não obstante isto, ela foi levada cativa para uma terra estranha; os seus pequeninos foram esmagados nas esquinas de todas as ruas; sobre os seus nobres deitaram sortes, e todos os seus grandes senhores foram carregados de ferros.  
 **11** Também tu, pois, (ó Nínive), serás embriagada, e cairás no desprezo; também tu, (em vão) pedirás socorro contra o inimigo.  
 **12** Todas as tuas fortificações serão como a figueira com figos temporãos: se se sacudirem, cairão na boca do que quiser comer.  

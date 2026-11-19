@@ -6,10 +6,10 @@
 **2** Disse: O Senhor rugirá de Sião, de Jerusalém fará ouvir a sua voz; os prados dos pastores estarão de luto, o cume do Carmelo secará.  
 **3** Isto diz o Senhor: Por causa do triplo e do quádruplo crime de Damasco, não mudarei o meu decreto (de justiça). Porque eles, com carros armados de ferro, despedaçaram (os Israelitas de) Galaad,  
 **4** por isso porei fogo á casa (real) de Azael, e esse fogo devorará os palácios de Benadad.  
-**5** Quebrarei o ferrolho (ou poder) de Damasco; exterminarei de Bigath-Aven os que lá habitam, e de Beth-Eden o que tem na mão o cetro; e o povo da Síria será transferido a Quir, diz o Senhor.  
+**5** Quebrarei o ferrolho (ou poder) de Damasco; exterminarei de Bigath-Aven os que lá habitam, e de Beth-Eden o que tem na mão o ceptro; e o povo da Síria será transferido a Quir, diz o Senhor.  
 **6** Isto diz o Senhor: Pelos três crimes de Gaza, e pelos quatro, não mudarei o meu decreto (de castigo). Porque deportaram uma multidão de cativos para a entregarem à Idumeia,  
 **7** por isso porei fogo aos muros de Gaza, e ele reduzirá a cinza os seus edifícios.  
-**8** Exterminarei de Azoto os que a habitam, e de Ascalon o que tem o cetro; descarregarei a minha mão sobre Acaron, e perecerão os restos dos Filisteus, diz o Senhor Deus.  
+**8** Exterminarei de Azoto os que a habitam, e de Ascalon o que tem o ceptro; descarregarei a minha mão sobre Acaron, e perecerão os restos dos Filisteus, diz o Senhor Deus.  
 **9** Isto diz o Senhor: Pelos três crimes de Tiro, e pelos quatro, não mudarei o meu decreto (de castigo). Porque entregaram uma multidão de cativos à Idumeia, e não se lembraram da (antiga) aliança fraternal,  
 **10** por isso porei fogo aos muros de Tiro, e ele devorará os seus edifícios.  
 **11** Isto diz o Senhor: Pelos três crimes da Idumeia e pelos quatro, não mudarei o meu decreto (de castigo). Porque perseguiu a (Israel) seu irmão com a espada, abafando a compaixão (que lhe devia), porque o seu furor não cessa de despedaçar, e persiste até ao fim a sua indignação,  
@@ -29,7 +29,7 @@
 **7** esmagam sobre o pó da terra a cabeça do pobre, confundem os pequenos, porque o filho e o pai dormem com a mesma jovem, desonrando o meu santo nome,  
 **8** porque sobre as roupas, que lhes tinham sido dadas (pelo pobre) em penhor, se estendem (a banquetear-se) junto de toda a casta de altares, e bebem na casa do seu Deus o vinho proveniente de penas impostas.  
 **9** Apesar disso fui eu que exterminei diante deles os Amorreus, cuja altura era como a altura dos cedros, e que eram fortes como carvalhos; destruí o seu fruto por cima, e as suas raízes por baixo.  
-**10** Eu sou o que vos fiz sair da terra do Egito e vos conduzi no deserto durante quarenta anos, a fim de que possuísseis a terra dos Amorreus.  
+**10** Eu sou o que vos fiz sair da terra do Egipto e vos conduzi no deserto durante quarenta anos, a fim de que possuísseis a terra dos Amorreus.  
 **11** Entre os vossos filhos, suscitei profetas, e, entre os vossos jovens, suscitei nazarenos. Não é assim, filhos de Israel? - diz o Senhor.  
 **12** Mas vós fizestes com que os nazarenos bebessem vinho (o que lhes era proibido) e mandastes aos profetas: Não profetizeis.  
 **13** Eis que vou calcar-vos, como calca (a terra) um carro carregado de feno.  
@@ -39,7 +39,7 @@
 
 ## Capítulo 3
 
-**1** Ouvi a palavra que o Senhor pronunciou a respeito de vós, filhos de Israel - a respeito de todo o povo, diz o Senhor, que tirei da terra do Egito -:  
+**1** Ouvi a palavra que o Senhor pronunciou a respeito de vós, filhos de Israel - a respeito de todo o povo, diz o Senhor, que tirei da terra do Egipto -:  
 **2** De todas as raças da terra, só a vós vos reconheci (como meu povo); por isso vos castigarei por todas as vossas iniquidades.  
 **3** Porventura andarão dois homens juntos, sem que estejam de acordo?  
 **4** Porventura rugirá o leão nos bosques, sem que tenha achado alguma presa? Porventura fará o leãozinho soar a sua voz no covil, sem que tenha lançado a garra a alguma coisa?  
@@ -47,8 +47,8 @@
 **6** Soará a trombeta (de guerra) numa cidade, sem que o povo se assuste? Acontecerá alguma calamidade numa cidade, que não seja por disposição do Senhor?  
 **7** Porque o Senhor Deus não faz nada sem revelar o seu segredo aos seus servos, os profetas.  
 **8** O leão ruge; quem não temerá? O Senhor Deus falou; quem não profetizará?  
-**9** Fazei ouvir isto nos palácios (dos Filisteus) de Azot e nos palácios da terra do Egito. Dizei: Juntai-vos sobre os montes de Samaria e vede quantas desordens há no meio dela, que violências se praticam no seu interior.  
-**10** Não sabem agir retamente, diz o Senhor, eles que amontoam em suas casas tesouros de violências e de rapinas.  
+**9** Fazei ouvir isto nos palácios (dos Filisteus) de Azot e nos palácios da terra do Egipto. Dizei: Juntai-vos sobre os montes de Samaria e vede quantas desordens há no meio dela, que violências se praticam no seu interior.  
+**10** Não sabem agir rectamente, diz o Senhor, eles que amontoam em suas casas tesouros de violências e de rapinas.  
 **11** Portanto isto diz o Senhor Deus: Eis o inimigo a cercar o país. Tirar-te-á a tua força (ó Samaria), e os teus palácios serão saqueados.  
 **12** Isto diz o Senhor: Como acontece quando um pastor chega a arrancar da boca do leão as duas pernas, silvos, ou a ponta de uma orelha (da rês que devora), assim serão livrados (dos Assirios) os filhos de Israel que habitam em Samaria. descansados no ângulo dum leito, ou numa cama em Damasco.  
 **13** Ouvi isto e declarai-o à casa de Jacob, diz o Senhor Deus dos exércitos:  
@@ -61,12 +61,12 @@
 **2** O Senhor Deus jurou pela sua santidade: Eis que virão dias para vós, em que vos arrastarão com ganchos, e à vossa posteridade com arpões.  
 **3** Saireis pelas brechas, todas a direito, e sereis lançadas para Armon, diz o Senhor.  
 **4** Ide a Betei e cometei impiedades: (Ide) a Gálgala e amontoai prevaricações. Levai lá as vossas vítimas (para os ídolos) cada manhã, e os vossos dízimos todos os três dias.  
-**5** Queimai com pão lêvedo, as vossas oferendas de ação de graças, proclamai e publicai oblações voluntárias, porque isto é o que amais, filhos de Israel, diz o Senhor Deus.  
+**5** Queimai com pão lêvedo, as vossas oferendas de acção de graças, proclamai e publicai oblações voluntárias, porque isto é o que amais, filhos de Israel, diz o Senhor Deus.  
 **6** Por esta causa deixei-vos ficar os dentes sem nada, em todas as vossas cidades, e minguados de pão em, todas as vossas localidades. (Contudo) não vos voltastes para mim, diz o Senhor.  
 **7** Também vos suspendi a chuva, quando ainda faltavam três meses para a colheita; fiz que chovesse sobre uma cidade, e sobre outra cidade não chovesse; uma região ficou regada com a chuva, e outra sobre a qual não caiu chuva, secou.  
 **8** Duas e três (e mais) cidades foram a uma outra cidade para beber água, e não apagaram a sede; (apesar disso) não voltastes a mim, diz o Senhor.  
 **9** Eu vos feri com ferrugem e arejo; o gafanhoto devorou grande número dos vossos jardins e das vossas vinhas, dos vossos olivais e dos vossos figueirais, mas (apesar disso) não voltastes para mim, diz o Senhor.  
-**10** Enviei a mortandade contra vós semelhante à (de outrora) do Egito, feri com a espada os vossos jovens e deixei tomar os vossos cavalos; fiz chegar ao vosso nariz o cheiro infeto dos cadáveres do vosso exército, mas (apesar disso) não voltastes para mim, diz o Senhor.  
+**10** Enviei a mortandade contra vós semelhante à (de outrora) do Egipto, feri com a espada os vossos jovens e deixei tomar os vossos cavalos; fiz chegar ao vosso nariz o cheiro infecto dos cadáveres do vosso exército, mas (apesar disso) não voltastes para mim, diz o Senhor.  
 **11** Destruí-vos como Deus destruiu Sodoma e Gomorra, e ficastes como um tição que se tira dum incêndio, mas (apesar disso) não voltastes para mim, diz o Senhor.  
 **12** Portanto executarei contra ti estas coisas (que eu predisse), ó Israel. Visto que, pois, te tratarei assim, prepara-te, ó Israel, para sair ao encontro do teu Deus.  
 **13** É ele (Deus) que forma os montes e cria o vento, que descobre ao homem o seu próprio pensamento, que faz trevas da aurora e anda por cima das alturas da terra! O seu nome é Senhor Deus dos exércitos.  
@@ -148,7 +148,7 @@
 **5** dizendo: Quando passará a lua nova, para vendermos o nosso trigo, e o sábado para abrirmos os celeiros, diminuindo o efa, aumentando o siclo e falseando a balança para defraudar (o próximo)?  
 **6** Tornar-nos-emos senhores dos necessitados por dinheiro, e dos pobres por um par de sandálias, e venderemos (por bom preço) até as alimpas do nosso trigo.  
 **7** O Senhor fez este juramento pela soberba de Jacob: Juro que me não esquecerei jamais de qualquer das suas obras.  
-**8** Depois disto, não estremecerá a terra (de Israel), e não chorará todo o seu habitante? Todo o solo crescerá como o Nilo, agitar-se-á e abaixar-se-á como o rio do Egito (ao chegar ao mar).  
+**8** Depois disto, não estremecerá a terra (de Israel), e não chorará todo o seu habitante? Todo o solo crescerá como o Nilo, agitar-se-á e abaixar-se-á como o rio do Egipto (ao chegar ao mar).  
 **9** Naquele dia farei, diz o Senhor Deus, que o sol se ponha ao meio-dia, e em pleno dia farei cobrir a terra de trevas.  
 **10** Converterei as vossas festas em luto, e todos os vossos cânticos em pranto; porei um cilício sobre todos os rins e tornarei calva toda a cabeça; o luto será como o que se faz por um filho único, e o seu fim um dia de amargura.  
 **11** Eis que vem o tempo, diz o Senhor, em que enviarei fome sobre a terra; não fome de pão, nem sede de água, mas de ouvir a palavra do Senhor.  
@@ -162,9 +162,9 @@
 **2** Ainda que eles desçam até à morada dos mortos, a minha mão os tirará de lá; ainda que subam até ao céu, de lá os farei descer;  
 **3** se se esconderem no cume do Carmelo, eu os irei buscar e de lá os tirarei; se se esconderem de meus olhos no profundo do mar, ordenarei à serpente que os morda;  
 **4** se forem para o cativeiro diante dos seus inimigos, aí ordenarei à espada que os mate. Terei os meus olhos sobre eles para seu mal, não para seu bem.  
-**5** (Assim falou) o Senhor Deus dos exércitos, (esse que) ao tocar a terra, ela se funde e todos os seus habitantes ficam de luto; todo o solo aumenta de volume, como o Nilo, e decresce como o rio do Egito (ao chegar ao mar).  
+**5** (Assim falou) o Senhor Deus dos exércitos, (esse que) ao tocar a terra, ela se funde e todos os seus habitantes ficam de luto; todo o solo aumenta de volume, como o Nilo, e decresce como o rio do Egipto (ao chegar ao mar).  
 **6** Construiu a morada no céu, e fundou a sua abóbada sobre a terra; chama as águas do mar e derrama-as sobre a face da terra. O seu nome é: O Senhor.  
-**7** Porventura vós, ó filhos de Israel, diz o Senhor, não sois para comigo como os filhos dos Etíopes? Porventura não fiz sair Israel da terra do Egito, como os Filisteus de Caftor, e os Sírios de Quir?  
+**7** Porventura vós, ó filhos de Israel, diz o Senhor, não sois para comigo como os filhos dos Etíopes? Porventura não fiz sair Israel da terra do Egipto, como os Filisteus de Caftor, e os Sírios de Quir?  
 **8** Eis que os olhos do Senhor Deus estão abertos sobre este reino que peca; exterminá-lo-ei da face da terra; todavia não destruirei inteiramente a casa de Jacob, diz o Senhor.  
 **9** Porque vou dar ordens, vou fazer que a casa de Israel seja agitada entre as nações, como o trigo se sacode no crivo, mas sem cair por terra um só grão.  
 **10** Todos os pecadores do meu povo morrerão à espada, eles que dizem: Não nos atingirá, não virá sobre nós o mal.  

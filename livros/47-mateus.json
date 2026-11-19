@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -172,15 +172,15 @@
     },
     {
      "n": 13,
-     "texto": "Tendo eles partido, eis que um anjo do Senhor apareceu em sonhos a José, e lhe disse: \"Levanta-te, toma o menino e sua mãe, foge para Egito, e fica lá até que eu te avise, porque Herodes vai procurar o menino para lhe tirar a vida.\""
+     "texto": "Tendo eles partido, eis que um anjo do Senhor apareceu em sonhos a José, e lhe disse: \"Levanta-te, toma o menino e sua mãe, foge para Egipto, e fica lá até que eu te avise, porque Herodes vai procurar o menino para lhe tirar a vida.\""
     },
     {
      "n": 14,
-     "texto": "E ele, levantando-se de noite, tomou o menino e sua mãe, e retirou-se para o Egito."
+     "texto": "E ele, levantando-se de noite, tomou o menino e sua mãe, e retirou-se para o Egipto."
     },
     {
      "n": 15,
-     "texto": "Lá esteve até à morte de Herodes, cumprindo-se deste modo o que tinha sido dito pelo Senhor por meio do profeta: Do Egito chamei o meu filho (Os. 11, 1)."
+     "texto": "Lá esteve até à morte de Herodes, cumprindo-se deste modo o que tinha sido dito pelo Senhor por meio do profeta: Do Egipto chamei o meu filho (Os. 11, 1)."
     },
     {
      "n": 16,
@@ -196,7 +196,7 @@
     },
     {
      "n": 19,
-     "texto": "Morto Herodes, o anjo do Senhor apareceu em sonhos a José no Egito,"
+     "texto": "Morto Herodes, o anjo do Senhor apareceu em sonhos a José no Egipto,"
     },
     {
      "n": 20,
@@ -221,7 +221,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Naqueles dias apareceu João Batista pregando no deserto da Judeia."
+     "texto": "Naqueles dias apareceu João Baptista pregando no deserto da Judeia."
     },
     {
      "n": 2,
@@ -241,11 +241,11 @@
     },
     {
      "n": 6,
-     "texto": "e eram batizados por ele no rio Jordão, confessando os seus pecados."
+     "texto": "e eram baptizados por ele no rio Jordão, confessando os seus pecados."
     },
     {
      "n": 7,
-     "texto": "Vendo um grande número de fariseus e saduceus que vinham ao seu batismo, disse-lhes: \"Raça de víboras, quem vos ensinou a fugir à ira que vos ameaça?"
+     "texto": "Vendo um grande número de fariseus e saduceus que vinham ao seu baptismo, disse-lhes: \"Raça de víboras, quem vos ensinou a fugir à ira que vos ameaça?"
     },
     {
      "n": 8,
@@ -261,7 +261,7 @@
     },
     {
      "n": 11,
-     "texto": "Eu, na verdade, batizo-vos com água para (vos levar à) penitência, mas o que há-de vir depois de mim é mais poderoso do que eu, e eu não sou digno de lhe levar as sandálias; ele vos batizará no Espírito Santo e em fogo."
+     "texto": "Eu, na verdade, baptizo-vos com água para (vos levar à) penitência, mas o que há-de vir depois de mim é mais poderoso do que eu, e eu não sou digno de lhe levar as sandálias; ele vos baptizará no Espírito Santo e em fogo."
     },
     {
      "n": 12,
@@ -269,11 +269,11 @@
     },
     {
      "n": 13,
-     "texto": "Então foi Jesus da Galileia ao Jordão e apresentou-se a João, para ser batizado por ele."
+     "texto": "Então foi Jesus da Galileia ao Jordão e apresentou-se a João, para ser baptizado por ele."
     },
     {
      "n": 14,
-     "texto": "Mas João opunha-se-lhe, dizendo: \"Sou eu que devo ser batizado por ti, e tu vens a mim!\""
+     "texto": "Mas João opunha-se-lhe, dizendo: \"Sou eu que devo ser baptizado por ti, e tu vens a mim!\""
     },
     {
      "n": 15,
@@ -281,7 +281,7 @@
     },
     {
      "n": 16,
-     "texto": "Logo que foi batizado, Jesus saiu da água. E eis que se abriram os céus, e viu o Espírito de Deus descer como pomba, e vir sobre ele."
+     "texto": "Logo que foi baptizado, Jesus saiu da água. E eis que se abriram os céus, e viu o Espírito de Deus descer como pomba, e vir sobre ele."
     },
     {
      "n": 17,
@@ -579,11 +579,11 @@
     },
     {
      "n": 46,
-     "texto": "Porque, se amais (somente) os que vos amara, que recompensa haveis de ter? Não fazem os publicanos também o mesmo?"
+     "texto": "Porque, se amais (sòmente) os que vos amara, que recompensa haveis de ter? Não fazem os publicanos também o mesmo?"
     },
     {
      "n": 47,
-     "texto": "E se saudardes somente os vossos irmãos, que fazeis (nisso) de especial? Não fazem também assim os próprios gentios?"
+     "texto": "E se saudardes sòmente os vossos irmãos, que fazeis (nisso) de especial? Não fazem também assim os próprios gentios?"
     },
     {
      "n": 48,
@@ -1079,7 +1079,7 @@
     },
     {
      "n": 21,
-     "texto": "Dizia dentro de si: \"Ainda que eu toque somente o seu vestido, serei curada.\""
+     "texto": "Dizia dentro de si: \"Ainda que eu toque sòmente o seu vestido, serei curada.\""
     },
     {
      "n": 22,
@@ -1345,7 +1345,7 @@
     },
     {
      "n": 5,
-     "texto": "Os cegos veem, os coxos andam, os leprosos são limpos, os surdos ouvem, os mortos ressuscitam, os pobres são evangelizados;"
+     "texto": "Os cegos vêem, os coxos andam, os leprosos são limpos, os surdos ouvem, os mortos ressuscitam, os pobres são evangelizados;"
     },
     {
      "n": 6,
@@ -1369,11 +1369,11 @@
     },
     {
      "n": 11,
-     "texto": "Na verdade vos digo que entre os nascidos das mulheres não veio ao mundo outro maior que João Batista. Entretanto, o menor no reino dos céus é maior do que ele."
+     "texto": "Na verdade vos digo que entre os nascidos das mulheres não veio ao mundo outro maior que João Baptista. Entretanto, o menor no reino dos céus é maior do que ele."
     },
     {
      "n": 12,
-     "texto": "Desde os dias de João Batista até agora, o reino dos céus adquire-se à força, e são os violentos que o arrebatam."
+     "texto": "Desde os dias de João Baptista até agora, o reino dos céus adquire-se à força, e são os violentos que o arrebatam."
     },
     {
      "n": 13,
@@ -1707,7 +1707,7 @@
     },
     {
      "n": 13,
-     "texto": "Por isso lhes falo em parábolas, porque vendo não veem, e ouvindo não ouvem nem entendem."
+     "texto": "Por isso lhes falo em parábolas, porque vendo não vêem, e ouvindo não ouvem nem entendem."
     },
     {
      "n": 14,
@@ -1719,7 +1719,7 @@
     },
     {
      "n": 16,
-     "texto": "Ditosos, porém, os vossos olhos, porque veem, e os vossos ouvidos, porque ouvem."
+     "texto": "Ditosos, porém, os vossos olhos, porque vêem, e os vossos ouvidos, porque ouvem."
     },
     {
      "n": 17,
@@ -1900,7 +1900,7 @@
     },
     {
      "n": 2,
-     "texto": "e disse aos seus cortesãos: \"Este é João Batista, que ressuscitou dos mortos, e eis porque tantos milagres se operam por meio dele.\""
+     "texto": "e disse aos seus cortesãos: \"Este é João Baptista, que ressuscitou dos mortos, e eis porque tantos milagres se operam por meio dele.\""
     },
     {
      "n": 3,
@@ -1924,7 +1924,7 @@
     },
     {
      "n": 8,
-     "texto": "E ela, instigada por sua mãe: \"Dá-me, disse, aqui num prato a cabeça de João Batista.\""
+     "texto": "E ela, instigada por sua mãe: \"Dá-me, disse, aqui num prato a cabeça de João Baptista.\""
     },
     {
      "n": 9,
@@ -2129,7 +2129,7 @@
     },
     {
      "n": 22,
-     "texto": "E eis que uma Cananeia, que tinha saído daqueles arredores, gritou: \"Senhor, Filho de David, tem piedade de mim! Minha filha está miseravelmente atormentada do demónio.\""
+     "texto": "E eis que uma Cananeia, que tinha saído daqueles arredores, gritou: \"Senhor, Filho de David, tem piedade de mim! Minha filha está miseràvelmente atormentada do demónio.\""
     },
     {
      "n": 23,
@@ -2218,7 +2218,7 @@
     },
     {
      "n": 4,
-     "texto": "Sabeis, pois, distinguir o aspeto do céu e não podeis conhecer os sinais dos tempos? Esta geração perversa e adúltera pede um prodígio, mas não lhe será dado outro prodígio, senão o prodígio do profeta Jonas.\" E, deixando-os, retirou-se."
+     "texto": "Sabeis, pois, distinguir o aspecto do céu e não podeis conhecer os sinais dos tempos? Esta geração perversa e adúltera pede um prodígio, mas não lhe será dado outro prodígio, senão o prodígio do profeta Jonas.\" E, deixando-os, retirou-se."
     },
     {
      "n": 5,
@@ -2258,7 +2258,7 @@
     },
     {
      "n": 14,
-     "texto": "Eles responderam: \"Uns dizem que é João Batista, outros que é Elias, outros que é Jeremias ou algum dos profetas.\""
+     "texto": "Eles responderam: \"Uns dizem que é João Baptista, outros que é Elias, outros que é Jeremias ou algum dos profetas.\""
     },
     {
      "n": 15,
@@ -2339,7 +2339,7 @@
     },
     {
      "n": 5,
-     "texto": "Estando ele ainda a falar, eis que uma nuvem resplandecente os envolveu; e saiu da nuvem uma voz que dizia: 'Este é o meu Filho dileto em quem pus toda a minha complacência; ouvi-o.\""
+     "texto": "Estando ele ainda a falar, eis que uma nuvem resplandecente os envolveu; e saiu da nuvem uma voz que dizia: 'Este é o meu Filho dilecto em quem pus toda a minha complacência; ouvi-o.\""
     },
     {
      "n": 6,
@@ -2351,7 +2351,7 @@
     },
     {
      "n": 8,
-     "texto": "Eles, então, levantando os olhos, não viram ninguém, exceto só Jesus."
+     "texto": "Eles, então, levantando os olhos, não viram ninguém, excepto só Jesus."
     },
     {
      "n": 9,
@@ -2371,7 +2371,7 @@
     },
     {
      "n": 13,
-     "texto": "Então os discípulos compreenderam que lhes tinha falado de João Batista."
+     "texto": "Então os discípulos compreenderam que lhes tinha falado de João Baptista."
     },
     {
      "n": 14,
@@ -2456,7 +2456,7 @@
     },
     {
      "n": 6,
-     "texto": "Porém, o que escandalizar um destes pequeninos, que creem em mim, melhor lhe fora que se lhe pendurasse ao pescoço a mó de um moinho, e que o lançassem ao fundo do mar."
+     "texto": "Porém, o que escandalizar um destes pequeninos, que crêem em mim, melhor lhe fora que se lhe pendurasse ao pescoço a mó de um moinho, e que o lançassem ao fundo do mar."
     },
     {
      "n": 7,
@@ -2472,7 +2472,7 @@
     },
     {
      "n": 10,
-     "texto": "Vede, não desprezeis um só destes pequeninos, pois vos declaro que os seus anjos nos céus veem incessantemente a face de meu Pai, que está nos céus."
+     "texto": "Vede, não desprezeis um só destes pequeninos, pois vos declaro que os seus anjos nos céus vêem incessantemente a face de meu Pai, que está nos céus."
     },
     {
      "n": 11,
@@ -2621,7 +2621,7 @@
     },
     {
      "n": 11,
-     "texto": "Ele respondeu-lhes: \"Nem todos compreendem esta palavra, mas somente aqueles a quem foi concedido."
+     "texto": "Ele respondeu-lhes: \"Nem todos compreendem esta palavra, mas sòmente aqueles a quem foi concedido."
     },
     {
      "n": 12,
@@ -2750,7 +2750,7 @@
     },
     {
      "n": 12,
-     "texto": "dizendo: Estes últimos trabalharam somente uma hora, e os igualaste connosco, que suportamos o peso do dia e do calor."
+     "texto": "dizendo: Estes últimos trabalharam sòmente uma hora, e os igualaste connosco, que suportamos o peso do dia e do calor."
     },
     {
      "n": 13,
@@ -2794,7 +2794,7 @@
     },
     {
      "n": 23,
-     "texto": "Disse-lhes: \"Efetivamente habeis de beber o meu cálice, mas, quanto a estardes sentados à minha direita ou à esquerda, não pertence a mim conceder-vo-lo; será para aqueles, para quem está reservado por meu Pai.\""
+     "texto": "Disse-lhes: \"Efectivamente habeis de beber o meu cálice, mas, quanto a estardes sentados à minha direita ou à esquerda, não pertence a mim conceder-vo-lo; será para aqueles, para quem está reservado por meu Pai.\""
     },
     {
      "n": 24,
@@ -2943,7 +2943,7 @@
     },
     {
      "n": 25,
-     "texto": "Donde era o batismo de João? Do céu ou dos homens?\" Mas eles refletiam consigo:"
+     "texto": "Donde era o baptismo de João? Do céu ou dos homens?\" Mas eles reflectiam consigo:"
     },
     {
      "n": 26,
@@ -3233,7 +3233,7 @@
     },
     {
      "n": 3,
-     "texto": "Observai, pois, e fazei tudo o que eles vos disserem, mas não imiteis as suas ações, porque dizem e não fazem."
+     "texto": "Observai, pois, e fazei tudo o que eles vos disserem, mas não imiteis as suas acções, porque dizem e não fazem."
     },
     {
      "n": 4,
@@ -4366,7 +4366,7 @@
     },
     {
      "n": 3,
-     "texto": "O seu aspeto era como um relâmpago, e o seu vestido como a neve."
+     "texto": "O seu aspecto era como um relâmpago, e o seu vestido como a neve."
     },
     {
      "n": 4,
@@ -4430,7 +4430,7 @@
     },
     {
      "n": 19,
-     "texto": "Ide, pois, ensinai todas as gentes, batizando-as em nome do Pai, e do Filho, e do Espírito Santo,"
+     "texto": "Ide, pois, ensinai todas as gentes, baptizando-as em nome do Pai, e do Filho, e do Espírito Santo,"
     },
     {
      "n": 20,

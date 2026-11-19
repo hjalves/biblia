@@ -12,18 +12,18 @@
 **8** em uma chama de fogo, para tomar vingança daqueles que (por sua culpa) não conhecem a Deus e não obedecem ao Evangelho de Nosso Senhor Jesus.  
 **9** Esses tais serão punidos com a perdição eterna, longe da face do Senhor e da glória do seu poder,  
 **10** quando ele vier naquele dia, para ser glorificado nos seus santos, e para se fazer admirável em todos os que creram, porque vós crestes no testemunho que demos diante de vós.  
-**11** Por isso oramos incessantemente por vós, para que o nosso Deus vos faça dignos da vossa vocação (isto é, do estado a que vos chamou), que realize com o seu poder todo o desejo de fazer bem e a atividade da vossa fé,  
+**11** Por isso oramos incessantemente por vós, para que o nosso Deus vos faça dignos da vossa vocação (isto é, do estado a que vos chamou), que realize com o seu poder todo o desejo de fazer bem e a actividade da vossa fé,  
 **12** a fim de que o nome de Nosso Senhor Jesus Cristo seja glorificado em vós, e vós nele, pela graça do nosso Deus e do Senhor Jesus Cristo.  
 
 ## Capítulo 2
 
 **1** Rogamo-vos, irmãos, pela vinda de Nosso Senhor Jesus Cristo e pela nossa reunião com ele,  
-**2** que não deixeis facilmente perturbar o vosso espírito nem alarmar por qualquer pretensa revelação, ou palavra, ou por qualquer carta atribuída a nós, como se o dia do Senhor estivesse perto.  
+**2** que não deixeis fàcilmente perturbar o vosso espírito nem alarmar por qualquer pretensa revelação, ou palavra, ou por qualquer carta atribuída a nós, como se o dia do Senhor estivesse perto.  
 **3** Ninguém de modo algum vos engane, porque isto não se dará sem que antes venha a apostasia (quase geral dos fiéis), e sem que tenha aparecido o homem do pecado, o filho da perdição,  
 **4** o qual se oporá (a Deus) e se elevará sobre tudo o que se chama Deus ou que é adorado, de sorte que se sentará no templo de Deus, apresentando-se como se fosse Deus.  
 **5** Não vos lembrais que eu vos dizia estas coisas, quando ainda estava convosco?  
 **6** E vós agora sabeis o que é que o retém, até que chegue o tempo de se manifestar.  
-**7** Com efeito, o mistério da iniquidade (posto que ainda não tenha aparecido o Anticristo) já se opera, somente falta que aquele, que agora o retém, desapareça.  
+**7** Com efeito, o mistério da iniquidade (posto que ainda não tenha aparecido o Anticristo) já se opera, sòmente falta que aquele, que agora o retém, desapareça.  
 **8** E então se manifestará esse iníquo (a quem o Senhor Jesus destruirá com o sopro da sua boca e aniquilará com o resplendor da sua vinda).  
 **9** A vinda deste iníquo será acompanhada, por obra de Satanás, de toda a espécie de milagres, sinais e prodígios mentirosos,  
 **10** de todas as seduções da iniquidade para aqueles que se perdem, porque (por sua culpa) não abraçaram o amor da verdade, que os salvaria.  

@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -51,7 +51,7 @@
     },
     {
      "n": 9,
-     "texto": "Quem não tem estas coisas é um míope, um cego, e esquece-se de que foi purificado (pelo batismo) dos seus pecados antigos."
+     "texto": "Quem não tem estas coisas é um míope, um cego, e esquece-se de que foi purificado (pelo baptismo) dos seus pecados antigos."
     },
     {
      "n": 10,
@@ -79,7 +79,7 @@
     },
     {
      "n": 16,
-     "texto": "Efetivamente, não foi seguindo fábulas engenhosas que vos fizemos conhecer o poder e a vinda (no fim do mundo) de Nosso Senhor Jesus Cristo, mas foi depois de termos sido espetadores da sua grandeza."
+     "texto": "Efectivamente, não foi seguindo fábulas engenhosas que vos fizemos conhecer o poder e a vinda (no fim do mundo) de Nosso Senhor Jesus Cristo, mas foi depois de termos sido espectadores da sua grandeza."
     },
     {
      "n": 17,
@@ -124,7 +124,7 @@
     },
     {
      "n": 5,
-     "texto": "se não perdoou ao mundo antigo, mas somente salvou oito pessoas, incluindo Noé, pregador da justiça, quando fez vir o dilúvio sobre o mundo dos ímpios;"
+     "texto": "se não perdoou ao mundo antigo, mas sòmente salvou oito pessoas, incluindo Noé, pregador da justiça, quando fez vir o dilúvio sobre o mundo dos ímpios;"
     },
     {
      "n": 6,
@@ -136,7 +136,7 @@
     },
     {
      "n": 8,
-     "texto": "(esse justo que habitava entre eles sentia, diariamente, a sua alma atormentada, vendo e ouvindo as suas obras iníquas),"
+     "texto": "(esse justo que habitava entre eles sentia, diàriamente, a sua alma atormentada, vendo e ouvindo as suas obras iníquas),"
     },
     {
      "n": 9,
@@ -217,7 +217,7 @@
     },
     {
      "n": 5,
-     "texto": "Mas isto é porque eles ignoram voluntariamente que antigamente existiram os céus e uma terra, que a palavra de Deus fez surgir da água e pela água,"
+     "texto": "Mas isto é porque eles ignoram voluntàriamente que antigamente existiram os céus e uma terra, que a palavra de Deus fez surgir da água e pela água,"
     },
     {
      "n": 6,

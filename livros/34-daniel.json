@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -23,7 +23,7 @@
     },
     {
      "n": 2,
-     "texto": "O Senhor entregou nas suas mãos Joaquim, rei de Judá e uma parte dos objetos da casa de Deus. Ele levou-os para a terra de Senaar, para a casa do seu deus; pôs os objetos na casa do tesouro do seu deus."
+     "texto": "O Senhor entregou nas suas mãos Joaquim, rei de Judá e uma parte dos objectos da casa de Deus. Ele levou-os para a terra de Senaar, para a casa do seu deus; pôs os objectos na casa do tesouro do seu deus."
     },
     {
      "n": 3,
@@ -148,7 +148,7 @@
     },
     {
      "n": 11,
-     "texto": "O que o rei pergunta, é difícil; não se achará pessoa alguma que declare isso ao rei, exceto os deuses, os quais não têm a morada entre os homens."
+     "texto": "O que o rei pergunta, é difícil; não se achará pessoa alguma que declare isso ao rei, excepto os deuses, os quais não têm a morada entre os homens."
     },
     {
      "n": 12,
@@ -160,7 +160,7 @@
     },
     {
      "n": 14,
-     "texto": "Então Daniel falou prudente e sabiamente a Arioc chefe da guarda do rei, que tinha saído para fazer matar os sábios de Babilónia."
+     "texto": "Então Daniel falou prudente e sàbiamente a Arioc chefe da guarda do rei, que tinha saído para fazer matar os sábios de Babilónia."
     },
     {
      "n": 15,
@@ -228,7 +228,7 @@
     },
     {
      "n": 31,
-     "texto": "Tu, ó rei, estavas olhando, e eis (que te apareceu) uma grande estátua; esta estátua grande, dum brilho extraordinário, erguia-se de pé diante de ti, de aspeto aterrador."
+     "texto": "Tu, ó rei, estavas olhando, e eis (que te apareceu) uma grande estátua; esta estátua grande, dum brilho extraordinário, erguia-se de pé diante de ti, de aspecto aterrador."
     },
     {
      "n": 32,
@@ -393,7 +393,7 @@
     },
     {
      "n": 22,
-     "texto": "Porque o mandado do rei era urgente e a fornalha estava extraordinariamente aquecida, as chamas do fogo mataram aqueles homens que tinham lançado nelas a Sidrac, Misac e Abdenago."
+     "texto": "Porque o mandado do rei era urgente e a fornalha estava extraordinàriamente aquecida, as chamas do fogo mataram aqueles homens que tinham lançado nelas a Sidrac, Misac e Abdenago."
     },
     {
      "n": 23,
@@ -413,7 +413,7 @@
     },
     {
      "n": 27,
-     "texto": "Porque tu és justo em todas as coisas que fizeste, e todas as tuas obras são verdadeiras, e os teus caminhos retos, e todos os teus juízos a verdade."
+     "texto": "Porque tu és justo em todas as coisas que fizeste, e todas as tuas obras são verdadeiras, e os teus caminhos rectos, e todos os teus juízos a verdade."
     },
     {
      "n": 28,
@@ -665,7 +665,7 @@
     },
     {
      "n": 90,
-     "texto": "Vós todos que adorais o Senhor, bem-dizei o Deus dos deuses, louvai-o e rendei-lhe ações de graças.porque a sua misericórdia permanece por todos os séculos."
+     "texto": "Vós todos que adorais o Senhor, bem-dizei o Deus dos deuses, louvai-o e rendei-lhe acções de graças.porque a sua misericórdia permanece por todos os séculos."
     },
     {
      "n": 91,
@@ -673,7 +673,7 @@
     },
     {
      "n": 92,
-     "texto": "Ao que ele replicou: Contudo eu vejo quatro homens soltos, passeando no meio do fogo, sem sofrer mal algum; o aspeto do quarto é semelhante ao dum filho dos deuses."
+     "texto": "Ao que ele replicou: Contudo eu vejo quatro homens soltos, passeando no meio do fogo, sem sofrer mal algum; o aspecto do quarto é semelhante ao dum filho dos deuses."
     },
     {
      "n": 93,
@@ -943,7 +943,7 @@
     },
     {
      "n": 23,
-     "texto": "antes, pelo contrário, te elevaste contra o Senhor do céu, fizeste vir para diante de ti os vasos da sua casa, e bebeste por eles vinho, tu, com os teus grandes, as tuas mulheres e as tuas concubinas; ao mesmo tempo louvaste os deuses de prata e de ouro, de bronze, de ferro, de pau e pedra, que não veem, nem ouvem, nem entendem, e não deste glória ao Deus, que tem na sua mão o teu sopro (vital) e todos os teus caminhos"
+     "texto": "antes, pelo contrário, te elevaste contra o Senhor do céu, fizeste vir para diante de ti os vasos da sua casa, e bebeste por eles vinho, tu, com os teus grandes, as tuas mulheres e as tuas concubinas; ao mesmo tempo louvaste os deuses de prata e de ouro, de bronze, de ferro, de pau e pedra, que não vêem, nem ouvem, nem entendem, e não deste glória ao Deus, que tem na sua mão o teu sopro (vital) e todos os teus caminhos"
     },
     {
      "n": 24,
@@ -1020,7 +1020,7 @@
     },
     {
      "n": 10,
-     "texto": "Tendo sabido Daniel que havia sido publicada esta lei, entrou em casa e, abrindo as janelas da sua câmara superior, voltadas para o lado de Jerusalém, cada dia a três horas diferentes, punha-se de joelhos, orava a Deus e rendia-lhe ações de graças, como antes costumava fazer."
+     "texto": "Tendo sabido Daniel que havia sido publicada esta lei, entrou em casa e, abrindo as janelas da sua câmara superior, voltadas para o lado de Jerusalém, cada dia a três horas diferentes, punha-se de joelhos, orava a Deus e rendia-lhe acções de graças, como antes costumava fazer."
     },
     {
      "n": 11,
@@ -1105,7 +1105,7 @@
     },
     {
      "n": 2,
-     "texto": "Eu estava vendo na minha visão noturna, e eis que os quatro ventos do céu agitavam o Grande Mar."
+     "texto": "Eu estava vendo na minha visão nocturna, e eis que os quatro ventos do céu agitavam o Grande Mar."
     },
     {
      "n": 3,
@@ -1125,7 +1125,7 @@
     },
     {
      "n": 7,
-     "texto": "Depois disto, continuando a contemplar esta visão noturna, vi um quarto animal, terrível, espantoso e extraordinariamente forte, com uns grandes dentes de ferro; devorava e despedaçava, e calcava aos pés o que sobejava; era diferente dos outros animais que eu tinha visto antes dele, e tinha dez hastes."
+     "texto": "Depois disto, continuando a contemplar esta visão nocturna, vi um quarto animal, terrível, espantoso e extraordinàriamente forte, com uns grandes dentes de ferro; devorava e despedaçava, e calcava aos pés o que sobejava; era diferente dos outros animais que eu tinha visto antes dele, e tinha dez hastes."
     },
     {
      "n": 8,
@@ -1149,7 +1149,7 @@
     },
     {
      "n": 13,
-     "texto": "Eu estava, pois, observando estas coisas durante a visão noturna, e eis que vi um (personagem) que parecia um Filho de homem, que veio sobre as nuvens do céu; chegou até ao Ancião e foi apresentado diante dele."
+     "texto": "Eu estava, pois, observando estas coisas durante a visão nocturna, e eis que vi um (personagem) que parecia um Filho de homem, que veio sobre as nuvens do céu; chegou até ao Ancião e foi apresentado diante dele."
     },
     {
      "n": 14,
@@ -1234,7 +1234,7 @@
     },
     {
      "n": 5,
-     "texto": "Estava eu considerando isto e eis que um bode vinha do ocidente sobre a face de toda a terra, e (tão rapidamente que) não tocava na terra; este bode tinha uma grande haste entre os seus olhos."
+     "texto": "Estava eu considerando isto e eis que um bode vinha do ocidente sobre a face de toda a terra, e (tão ràpidamente que) não tocava na terra; este bode tinha uma grande haste entre os seus olhos."
     },
     {
      "n": 6,
@@ -1246,7 +1246,7 @@
     },
     {
      "n": 8,
-     "texto": "Ora o bode tornou-se extraordinariamente grande; mas, quando se fez forte, quebrou-se o sua grande haste, e formaram-se em lugar dela quatro hastes para os quatro ventos do céu."
+     "texto": "Ora o bode tornou-se extraordinàriamente grande; mas, quando se fez forte, quebrou-se o sua grande haste, e formaram-se em lugar dela quatro hastes para os quatro ventos do céu."
     },
     {
      "n": 9,
@@ -1387,7 +1387,7 @@
     },
     {
      "n": 15,
-     "texto": "Agora, Senhor nosso Deus, que tiraste o teu povo da terra do Egito com mão poderosa e que adquiriste então um nome, que dura até ao dia de hoje, (confessamos que) temos pecado, que temos cometido a iniquidade."
+     "texto": "Agora, Senhor nosso Deus, que tiraste o teu povo da terra do Egipto com mão poderosa e que adquiriste então um nome, que dura até ao dia de hoje, (confessamos que) temos pecado, que temos cometido a iniquidade."
     },
     {
      "n": 16,
@@ -1411,7 +1411,7 @@
     },
     {
      "n": 21,
-     "texto": "quando eu, digo, ainda não tinha bem acabado as palavras da minha súplica, eis que Gabriel, aquele homem que, anteriormente, eu tinha visto na visão, voando rapidamente, se aproximou de mim, à hora da oblação da tarde."
+     "texto": "quando eu, digo, ainda não tinha bem acabado as palavras da minha súplica, eis que Gabriel, aquele homem que, anteriormente, eu tinha visto na visão, voando ràpidamente, se aproximou de mim, à hora da oblação da tarde."
     },
     {
      "n": 22,
@@ -1419,7 +1419,7 @@
     },
     {
      "n": 23,
-     "texto": "Desde o princípio das tuas preces, foi enviada uma palavra e eu vim para ta anunciar, porque tu és um predileto (de Deus); toma, pois, bem sentido nesta palavra e compreende a visão."
+     "texto": "Desde o princípio das tuas preces, foi enviada uma palavra e eu vim para ta anunciar, porque tu és um predilecto (de Deus); toma, pois, bem sentido nesta palavra e compreende a visão."
     },
     {
      "n": 24,
@@ -1468,11 +1468,11 @@
     },
     {
      "n": 7,
-     "texto": "Somente eu, Daniel, tive esta visão; os homens que estavam comigo não a tiveram, mas caiu sobre eles um terror tão grande que fugiram para lugares ocultos."
+     "texto": "Sòmente eu, Daniel, tive esta visão; os homens que estavam comigo não a tiveram, mas caiu sobre eles um terror tão grande que fugiram para lugares ocultos."
     },
     {
      "n": 8,
-     "texto": "Tendo eu, pois, ficado sozinho, vi esta grande aparição. Não ficou vigor em mim, mudou-se o meu semblante, fiquei desfigurado e perdi todas as forças."
+     "texto": "Tendo eu, pois, ficado sòzinho, vi esta grande aparição. Não ficou vigor em mim, mudou-se o meu semblante, fiquei desfigurado e perdi todas as forças."
     },
     {
      "n": 9,
@@ -1484,7 +1484,7 @@
     },
     {
      "n": 11,
-     "texto": "Depois disse-me: Daniel, homem predileto (de Deus), entende as palavras que te venho dizer, e põ-te de pé, porque fui agora enviado a ti. Quando proferiu estas palavras, pus-me de pé, tremendo."
+     "texto": "Depois disse-me: Daniel, homem predilecto (de Deus), entende as palavras que te venho dizer, e põ-te de pé, porque fui agora enviado a ti. Quando proferiu estas palavras, pus-me de pé, tremendo."
     },
     {
      "n": 12,
@@ -1516,7 +1516,7 @@
     },
     {
      "n": 19,
-     "texto": "e disse; Não temas, homem predileto (de Deus)! A paz seja contigo! Tem vigor! Coragem! Quando ele ainda me falava, recobrei as forças e disse; Fala, meu Senhor, porque me fortaleceste."
+     "texto": "e disse; Não temas, homem predilecto (de Deus)! A paz seja contigo! Tem vigor! Coragem! Quando ele ainda me falava, recobrei as forças e disse; Fala, meu Senhor, porque me fortaleceste."
     },
     {
      "n": 20,
@@ -1561,7 +1561,7 @@
     },
     {
      "n": 8,
-     "texto": "Além disso, levará cativos para o Egito os seus deuses, as suas estátuas e os seus vasos preciosos de prata e ouro. Quando, durante alguns anos, deixar de atacar o rei do Aquilão,"
+     "texto": "Além disso, levará cativos para o Egipto os seus deuses, as suas estátuas e os seus vasos preciosos de prata e ouro. Quando, durante alguns anos, deixar de atacar o rei do Aquilão,"
     },
     {
      "n": 9,
@@ -1609,7 +1609,7 @@
     },
     {
      "n": 20,
-     "texto": "Tomará o seu lugar um outro, que enviará um exator para esmagar a glória do reino, mas perecerá em poucos dias; porém isto não acontecerá nem pela cólera nem pela guerra."
+     "texto": "Tomará o seu lugar um outro, que enviará um exactor para esmagar a glória do reino, mas perecerá em poucos dias; porém isto não acontecerá nem pela cólera nem pela guerra."
     },
     {
      "n": 21,
@@ -1621,11 +1621,11 @@
     },
     {
      "n": 23,
-     "texto": "Apesar do acordo feito, usará com ele de engano, subirá (ao Egito) e vencê-lo-á com pouca gente."
+     "texto": "Apesar do acordo feito, usará com ele de engano, subirá (ao Egipto) e vencê-lo-á com pouca gente."
     },
     {
      "n": 24,
-     "texto": "Entrará inesperadamente nas mais ricas regiões do país e fará o que nunca fizeram seus pais, nem os pais de seus pais; repartirá pelos seus os despojos, a presa e as riquezas; formará projetos contra as mais fortes cidades, mas isto até certo tempo (determinado por Deus)."
+     "texto": "Entrará inesperadamente nas mais ricas regiões do país e fará o que nunca fizeram seus pais, nem os pais de seus pais; repartirá pelos seus os despojos, a presa e as riquezas; formará projectos contra as mais fortes cidades, mas isto até certo tempo (determinado por Deus)."
     },
     {
      "n": 25,
@@ -1637,7 +1637,7 @@
     },
     {
      "n": 27,
-     "texto": "Os dois reis somente pensarão em fazer o mal um ao outro, e, sentados à mesma mesa, dirão palavras de mentira, mas nenhum conseguirá os seus intentos, porque o prazo (marcado por Deus) é para outro tempo."
+     "texto": "Os dois reis sòmente pensarão em fazer o mal um ao outro, e, sentados à mesma mesa, dirão palavras de mentira, mas nenhum conseguirá os seus intentos, porque o prazo (marcado por Deus) é para outro tempo."
     },
     {
      "n": 28,
@@ -1697,11 +1697,11 @@
     },
     {
      "n": 42,
-     "texto": "Estenderá a sua mão contra outros países, e a terra do Egito não escapará."
+     "texto": "Estenderá a sua mão contra outros países, e a terra do Egipto não escapará."
     },
     {
      "n": 43,
-     "texto": "Tornar-se-á senhor dos tesouros de ouro, de prata e de tudo o que há de precioso no Egito. Segui-lo-ão os Líbios e os Etíopes."
+     "texto": "Tornar-se-á senhor dos tesouros de ouro, de prata e de tudo o que há de precioso no Egipto. Segui-lo-ão os Líbios e os Etíopes."
     },
     {
      "n": 44,
@@ -1718,7 +1718,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Nesse tempo se levantará Miguel, o grande príncipe, protetor dos filhos do teu povo. Será um tempo de tal angústia, qual não houve desde que os povos começaram a existir até então. Nesse tempo o teu povo será salvo; (sê-lo-á) todo aquele que estiver inscrito no livro (da vida)."
+     "texto": "Nesse tempo se levantará Miguel, o grande príncipe, protector dos filhos do teu povo. Será um tempo de tal angústia, qual não houve desde que os povos começaram a existir até então. Nesse tempo o teu povo será salvo; (sê-lo-á) todo aquele que estiver inscrito no livro (da vida)."
     },
     {
      "n": 2,
@@ -1831,7 +1831,7 @@
     },
     {
      "n": 15,
-     "texto": "Aconteceu, pois, que, aguardando eles uma ocasião oportuna, entrou ela, como de costume, acompanhada somente de duas donzelas, e quis banhar-se no jardim, porque fazia (muito) calor."
+     "texto": "Aconteceu, pois, que, aguardando eles uma ocasião oportuna, entrou ela, como de costume, acompanhada sòmente de duas donzelas, e quis banhar-se no jardim, porque fazia (muito) calor."
     },
     {
      "n": 16,
@@ -1923,7 +1923,7 @@
     },
     {
      "n": 38,
-     "texto": "Nós, que estávamos a um canto do jardim, vendo esta maldade, corremos para eles e vimo-los ambos neste ato."
+     "texto": "Nós, que estávamos a um canto do jardim, vendo esta maldade, corremos para eles e vimo-los ambos neste acto."
     },
     {
      "n": 39,

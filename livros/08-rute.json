@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -116,7 +116,7 @@
     },
     {
      "n": 2,
-     "texto": "Rute Moabita disse a sua sogra: Se o mandas, irei ao campo apanhar as espigas que escapam das mãos dos segadores, onde quer que me acolham favoravelmente. Ela respondeu-lhe: Vai, minha filha."
+     "texto": "Rute Moabita disse a sua sogra: Se o mandas, irei ao campo apanhar as espigas que escapam das mãos dos segadores, onde quer que me acolham favoràvelmente. Ela respondeu-lhe: Vai, minha filha."
     },
     {
      "n": 3,
@@ -306,7 +306,7 @@
     },
     {
      "n": 6,
-     "texto": "Ele respondeu: Eu cedo o direito de parentesco, com receio de prejudicar os meus herdeiros; usa tu do meu privilégio, ao qual eu declaro que renuncio espontaneamente."
+     "texto": "Ele respondeu: Eu cedo o direito de parentesco, com receio de prejudicar os meus herdeiros; usa tu do meu privilégio, ao qual eu declaro que renuncio espontâneamente."
     },
     {
      "n": 7,

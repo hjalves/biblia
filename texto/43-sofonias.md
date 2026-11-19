@@ -43,7 +43,7 @@
 
 **1** Ai da (cidade) rebelde e imunda, da cidade opressora!  
 **2** Ela não ouviu a voz (que a admoestava), nem recebeu o aviso; não confiou no Senhor, não se aproximou do seu Deus.  
-**3** Os seus chefes são no meio dela como leões rugindo; os seus juízes como lobos noturnos, que não deixam nada (da presa) para a manhã seguinte.  
+**3** Os seus chefes são no meio dela como leões rugindo; os seus juízes como lobos nocturnos, que não deixam nada (da presa) para a manhã seguinte.  
 **4** Os seus profetas são impostores e pérfidos, os seus sacerdotes profanam as coisas santas, procedem contra a lei.  
 **5** O Senhor, que é justo e que está no meio dela, não faz iniquidade; de manhã estabelece à luz o seu juízo, sem falta; o ímpio, porém, não sabe que coisa é ter vergonha.  
 **6** Exterminei as nações (tuas inimigas, diz Deus); as suas torres foram deitadas abaixo; tornei os seus caminhos desertos, sem haver mais quem por eles passe; as suas cidades foram saqueadas, não havendo já um homem nelas, (não havendo) habitante algum.  

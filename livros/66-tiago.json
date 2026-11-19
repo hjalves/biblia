@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -59,7 +59,7 @@
     },
     {
      "n": 11,
-     "texto": "O sol rompeu ardente: secou a erva e a flor cai, perde a gala do seu aspeto. Assim também murchará o rico nos seus caminhos."
+     "texto": "O sol rompeu ardente: secou a erva e a flor cai, perde a gala do seu aspecto. Assim também murchará o rico nos seus caminhos."
     },
     {
      "n": 12,
@@ -91,7 +91,7 @@
     },
     {
      "n": 19,
-     "texto": "Sabei isto, meus diletíssimos irmãos: todo o homem seja pronto para ouvir, porém tardo para falar e tardo para se irar,"
+     "texto": "Sabei isto, meus dilectíssimos irmãos: todo o homem seja pronto para ouvir, porém tardo para falar e tardo para se irar,"
     },
     {
      "n": 20,
@@ -103,7 +103,7 @@
     },
     {
      "n": 22,
-     "texto": "Sede, pois, realizadores da palavra, e não ouvintes somente, enganando-vos a vós mesmos."
+     "texto": "Sede, pois, realizadores da palavra, e não ouvintes sòmente, enganando-vos a vós mesmos."
     },
     {
      "n": 23,
@@ -148,7 +148,7 @@
     },
     {
      "n": 5,
-     "texto": "Ouvi, meus irmãos diletíssimos: acaso não escolheu Deus os pobres segundo este mundo (para serem) ricos na fé e herdeiros do reino prometido (por Deus) aos que o amam?"
+     "texto": "Ouvi, meus irmãos dilectíssimos: acaso não escolheu Deus os pobres segundo este mundo (para serem) ricos na fé e herdeiros do reino prometido (por Deus) aos que o amam?"
     },
     {
      "n": 6,
@@ -204,7 +204,7 @@
     },
     {
      "n": 19,
-     "texto": "Tu crês que há um só Deus? Fazes bem; (mas isso não basta, porque) também os demónios creem, e (todavia) tremem (no inferno sob os golpes da justiça divina)."
+     "texto": "Tu crês que há um só Deus? Fazes bem; (mas isso não basta, porque) também os demónios crêem, e (todavia) tremem (no inferno sob os golpes da justiça divina)."
     },
     {
      "n": 20,
@@ -224,7 +224,7 @@
     },
     {
      "n": 24,
-     "texto": "vedes, pois, que o homem é justificado pelas obras e não pela fé somente."
+     "texto": "vedes, pois, que o homem é justificado pelas obras e não pela fé sòmente."
     },
     {
      "n": 25,
@@ -370,7 +370,7 @@
     },
     {
      "n": 14,
-     "texto": "vós, que não sabeis o que sucederá amanhã. Efetivamente, o que é a vossa vida? Sois um vapor que aparece por um instante e que em seguida se desvanece."
+     "texto": "vós, que não sabeis o que sucederá amanhã. Efectivamente, o que é a vossa vida? Sois um vapor que aparece por um instante e que em seguida se desvanece."
     },
     {
      "n": 15,

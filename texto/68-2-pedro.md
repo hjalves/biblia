@@ -10,14 +10,14 @@
 **6** à ciência a temperança, à temperança a constância, a constância a piedade,  
 **7** à piedade o amor fraterno, ao amor fraterno a caridade.  
 **8** Com efeito, se estas coisas se encontrarem e abundarem em vós, não vos deixarão vazios nem infrutuosos pelo conhecimento de Nosso Senhor Jesus Cristo.  
-**9** Quem não tem estas coisas é um míope, um cego, e esquece-se de que foi purificado (pelo batismo) dos seus pecados antigos.  
+**9** Quem não tem estas coisas é um míope, um cego, e esquece-se de que foi purificado (pelo baptismo) dos seus pecados antigos.  
 **10** Portanto, irmãos, ponde cada vez maior cuidado em tornardes certa a vossa vocação e eleição (por meio das boas obras). Fazendo isto, não pecareis jamais.  
 **11** Deste modo vos será concedida largamente a entrada no reino eterno de Nosso Senhor e Salvador Jesus Cristo.  
 **12** Pelo que não cessarei de vos admoestar sempre sobre estas coisas, embora estejais instruídos e confirmados na presente verdade.  
 **13** Sim, considero meu dever, enquanto estou neste tabernáculo, (do meu corpo), despertar-vos com admoestações.  
 **14** sabendo que, dentro em breve, deixarei o meu tabernáculo, segundo o que me deu a entender Nosso Senhor Jesus Cristo.  
 **15** Mas terei cuidado de que, mesmo depois da minha morte, possais, em qualquer ocasião, recordar estas coisas.  
-**16** Efetivamente, não foi seguindo fábulas engenhosas que vos fizemos conhecer o poder e a vinda (no fim do mundo) de Nosso Senhor Jesus Cristo, mas foi depois de termos sido espetadores da sua grandeza.  
+**16** Efectivamente, não foi seguindo fábulas engenhosas que vos fizemos conhecer o poder e a vinda (no fim do mundo) de Nosso Senhor Jesus Cristo, mas foi depois de termos sido espectadores da sua grandeza.  
 **17** De facto, ele recebeu de Deus Pai honra e glória, quando da majestosa glória desceu a ele uma voz que dizia: "Este é o meu Filho amado, em quem pus as minhas complacências."  
 **18** Nós mesmos ouvimos esta voz vinda do céu, quando estávamos com ele sobre o monte santo (da Transfiguração).  
 **19** Temos ainda a palavra mais firme dos profetas, à qual fazeis bem em prestar atenção, como a uma lucerna que alumia num lugar escuro, até que venha o dia, e a estrela da manhã nasça em vossos corações.  
@@ -30,10 +30,10 @@
 **2** Muitos seguirão as suas dissoluções, por causa dos quais será blasfemado o caminho da verdade.  
 **3** Por cobiça, com palavras fingidas, farão negócio de vós, mas a sua condenação já desde há muito (pronunciada na pessoa de outros culpados) não repousa e a sua perdição não dorme.  
 **4** Em realidade, se Deus não perdoou aos anjos que pecaram, mas, precipitados no Tártaro, os entregou às cadeias das trevas para serem reservados até ao juízo (final);  
-**5** se não perdoou ao mundo antigo, mas somente salvou oito pessoas, incluindo Noé, pregador da justiça, quando fez vir o dilúvio sobre o mundo dos ímpios;  
+**5** se não perdoou ao mundo antigo, mas sòmente salvou oito pessoas, incluindo Noé, pregador da justiça, quando fez vir o dilúvio sobre o mundo dos ímpios;  
 **6** se condenou a uma total ruína as cidades de Sodoma e de Gomorra, reduzindo-as a cinzas, para servir de exemplo àqueles que venham a viver impiamente;  
 **7** se, enfim, livrou o justo Loth, que se afligia pelo viver luxurioso desses infames,  
-**8** (esse justo que habitava entre eles sentia, diariamente, a sua alma atormentada, vendo e ouvindo as suas obras iníquas),  
+**8** (esse justo que habitava entre eles sentia, diàriamente, a sua alma atormentada, vendo e ouvindo as suas obras iníquas),  
 **9** (é porque) o Senhor sabe livrar os justos da tentação e reservar os maus para o dia do juízo, a fim de serem castigados,  
 **10** principalmente aqueles que vão atrás da carne, na imunda concupiscência, e desprezam a soberania (de Cristo). Audaciosos, arrogantes, não temem blasfemar contra as glórias (anjos inferiores),  
 **11** enquanto que os anjos (superiores), maiores em fortaleza e robustez, não levantam, diante do Senhor, acusação injuriosa contra elas.  
@@ -55,7 +55,7 @@
 **2** Lembrai-vos das coisas preditas pelos santos profetas e dos mandamentos do Senhor e Salvador, transmitidos pelos vossos Apóstolos,  
 **3** Sabei antes de tudo que nos últimos tempos virão zombadores cheios de zombarias, vivendo segundo as suas concupiscências.  
 **4** Dirão: "Onde está a promessa da sua vinda? Desde que os (nossos) pais morreram, tudo continua como no princípio da criação."  
-**5** Mas isto é porque eles ignoram voluntariamente que antigamente existiram os céus e uma terra, que a palavra de Deus fez surgir da água e pela água,  
+**5** Mas isto é porque eles ignoram voluntàriamente que antigamente existiram os céus e uma terra, que a palavra de Deus fez surgir da água e pela água,  
 **6** e que por estas mesmas causas o mundo de então pereceu submergido na água.  
 **7** Mas os céus e a terra, que agora existem, são guardados pela mesma palavra e reservados para o fogo, no dia do juízo e da perdição dos homens ímpios.  
 **8** Há porém, uma coisa, caríssimos, que não deveis ignorar: é que um dia, diante do Senhor, é como mil anos (diante dos homens), e mil anos (diante dos homens) como um dia (diante do Senhor).  

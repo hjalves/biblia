@@ -24,11 +24,11 @@
 **20** segundo a expectação e esperança que tenho, de que em nenhuma coisa serei confundido, mas que, com toda a confiança como sempre, também agora será Cristo glorificado no meu corpo, quer na vida, quer na morte.  
 **21** Com efeito, para mim o viver é Cristo, e morrer é um lucro (porque ficarei mais intimamente unido com ele).  
 **22** Mas, se o viver (mais tempo) na carne me é útil por causa do trabalho (do meu apostolado, que redunda em glória de Deus, então) não sei o que escolher.  
-**23** Estou em aperto por duas partes: tenho o desejo de partir para estar com Cristo, o que é incomparavelmente melhor,  
+**23** Estou em aperto por duas partes: tenho o desejo de partir para estar com Cristo, o que é incomparàvelmente melhor,  
 **24** mas o permanecer na carne é preferível por amor de vós.  
 **25** E, persuadido disto, sei que ficarei e que permanecerei com todos vós, para vosso proveito e gozo da vossa fé,  
 **26** a fim de que, pela minha volta e presença entre vós, vos dê motivo para vos glorificardes mais em Cristo Jesus.  
-**27** Cumpre somente que vos porteis de um modo digno do Evangelho de Cristo, a fim de que, quer eu vá ver-vos, quer esteja ausente, ouça dizer de vós que permaneceis constantes num mesmo espírito, lutando unânimes pela fé do Evangelho,  
+**27** Cumpre sòmente que vos porteis de um modo digno do Evangelho de Cristo, a fim de que, quer eu vá ver-vos, quer esteja ausente, ouça dizer de vós que permaneceis constantes num mesmo espírito, lutando unânimes pela fé do Evangelho,  
 **28** sem terdes medo dos adversários. Isto para eles, é sinal de perdição, como, para vós, de salvação. Tal é a vontade de Deus (que vos dá coragem).  
 **29** Porque a vós vos é dada a graça, em relação a Cristo, não só de crer nele, mas também de sofrer por ele,  
 **30** sustentando o mesmo combate que vistes em mim e que ainda agora ouvistes de mim.  
@@ -61,10 +61,10 @@
 **24** E confio no Senhor que também eu próprio brevemente irei ter convosco.  
 **25** Entretanto, julguei necessário mandar-vos Epafrodito, meu irmão, coadjutor e companheiro de luta, e vosso enviado para me socorrer nas minhas necessidades,  
 **26** pois que ele desejava, por certo, ver-vos de novo a todos e tinha pena de que tivésseis notícia da sua doença.  
-**27** Com efeito, esteve mortalmente enfermo, mas Deus compadeceu-se dele, e não somente dele, mas também de mim, para que eu não tivesse tristeza sobre tristeza.  
+**27** Com efeito, esteve mortalmente enfermo, mas Deus compadeceu-se dele, e não sòmente dele, mas também de mim, para que eu não tivesse tristeza sobre tristeza.  
 **28** Por isso o enviei mais depressa para que, vendo-o, de novo vos alegreis e eu fique com menor tristeza (sabendo que estais alegres).  
 **29** Recebei-o, pois, com todo o género de alegria no Senhor e tratai com honra tais pessoas (que se sacrificam pelo Evangelho).  
-**30** Efetivamente, pelo serviço de Cristo, chegou às portas da morte, arriscando a própria vida para vos suprir no serviço que vós me não podíeis prestar.  
+**30** Efectivamente, pelo serviço de Cristo, chegou às portas da morte, arriscando a própria vida para vos suprir no serviço que vós me não podíeis prestar.  
 
 ## Capítulo 3
 
@@ -80,13 +80,13 @@
 **10** a fim de o conhecer a ele e a virtude da sua ressurreição e a participação dos seus sofrimentos, assemelhando-me à sua morte,  
 **11** para ver se de algum modo posso chegar à ressurreição dos mortos.  
 **12** Não que eu tenha já alcançado o prémio ou seja já perfeito, mas prossigo para ver se de algum modo o poderei apreender, porque eu (que andava fugido e o perseguia) também fui apreendido por Jesus Cristo.  
-**13** Irmãos, não julgo ter já alcançado a meta (da perfeição cristã). Mas somente faço uma coisa: esquecendo-me do que fica para trás e avançando para as coisas que estão adiante,  
+**13** Irmãos, não julgo ter já alcançado a meta (da perfeição cristã). Mas sòmente faço uma coisa: esquecendo-me do que fica para trás e avançando para as coisas que estão adiante,  
 **14** prossigo para a meta, para o prémio da celeste vocação de Deus em Jesus Cristo.  
 **15** Todos nós, pois, que somos adultos (na vida cristã), tenhamos estes sentimentos; e, se em algum ponto tendes pensamentos diferentes. Deus também vos esclarecerá sobre isso.  
 **16** Quanto, porém, aquilo a que temos já chegado, continuemos na mesma regra.  
 **17** Sede meus imitadores, irmãos, e ponde os olhos naqueles que andam conforme o modelo que tendes em nós.  
 **18** Porque muitos, de quem muitas vezes vos falei e também agora falo com lágrimas, procedem (com a sua vida sensual) como inimigos da cruz de Cristo:  
-**19** o fim deles é a perdição, o deus deles é o ventre, e fazem consistir a sua glória naquilo que é a sua vergonha, gostando somente das coisas terrenas.  
+**19** o fim deles é a perdição, o deus deles é o ventre, e fazem consistir a sua glória naquilo que é a sua vergonha, gostando sòmente das coisas terrenas.  
 **20** Nós, porém, somos cidadãos dos céus, donde também esperamos o Salvador, o Senhor Jesus Cristo,  
 **21** o qual transformará o nosso corpo de miséria, fazendo-o semelhante ao seu corpo glorioso, com aquele poder com que pode também sujeitar a si todas as coisas.  
 
@@ -97,16 +97,16 @@
 **3** Também te rogo a ti, meu fiel companheiro, que as ajudes a elas que combateram comigo pelo Evangelho com Clemente e com os outros meus colaboradores, cujos nomes estão no livro da vida.  
 **4** Alegrai-vos incessantemente no Senhor; outra vez digo, alegrai-vos.  
 **5** A vossa afabilidade seja conhecida de todos os homens; o Senhor está perto (e contempla-vos).  
-**6** Não vos inquieteis com nada, mas em todas as circunstâncias manifestai a Deus as vossas necessidades por meio de orações e súplicas unidas à ação de graças.  
+**6** Não vos inquieteis com nada, mas em todas as circunstâncias manifestai a Deus as vossas necessidades por meio de orações e súplicas unidas à acção de graças.  
 **7** E a paz de Deus, que está acima de todo o entendimento, guarde os vossos corações e os vossos espíritos em Jesus Cristo.  
-**8** Quanto ao mais, irmãos, tudo o que é verdadeiro, tudo o que é digno, tudo o que é justo, tudo o que é santo, tudo o que é amável, tudo o que é de bom nome, qualquer virtude, qualquer coisa digna de louvor, seja isto o objeto dos vossos pensamentos.  
+**8** Quanto ao mais, irmãos, tudo o que é verdadeiro, tudo o que é digno, tudo o que é justo, tudo o que é santo, tudo o que é amável, tudo o que é de bom nome, qualquer virtude, qualquer coisa digna de louvor, seja isto o objecto dos vossos pensamentos.  
 **9** O que aprendestes, recebestes, ouvistes e vistes em mim, isso praticai; e o Deus da paz será convosco.  
 **10** Muito me alegrei no Senhor, porque enfim vi reflorescer os vossos sentimentos a meu respeito; é certo que os tínheis, porém só vos faltava a oportunidade (de os manifestar).  
 **11** Não digo isto, levado pela minha necessidade, porque aprendi a contentar-me com o que tenho.  
 **12** Sei viver nas privações, sei também viver na abundância; a tudo fui habituado: a ter fartura e a passar fome, a estar na abundância e a padecer necessidade.  
 **13** Tudo posso naquele que me conforta.  
 **14** Contudo, fizestes bem em me assistir na minha tribulação (socorrendo-me).  
-**15** Também sabeis, ó Filipenses, que, no princípio da evangelização, quando partida Macedónia, nenhuma igreja me ajudou, abrindo-me uma conta de deve e haver, senão vós somente.  
+**15** Também sabeis, ó Filipenses, que, no princípio da evangelização, quando partida Macedónia, nenhuma igreja me ajudou, abrindo-me uma conta de deve e haver, senão vós sòmente.  
 **16** Porque até a Tessalonica me mandastes, duas vezes, o que me era necessário.  
 **17** Não é que eu busque dádivas, mas busco o fruto que vá aumentando à vossa conta (diante de Deus).  
 **18** Agora tenho tudo e estou na abundância; estou cheio, depois que recebi de Epafrodito o que me mandastes, como perfume de suavidade, como sacrifício aceite e agradável a Deus.  

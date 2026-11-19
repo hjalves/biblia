@@ -16,7 +16,7 @@
 ## Capítulo 2
 
 **1** Filhinhos meus, eu vos escrevo estas coisas, para que não pequeis; mas, se algum pecar, (não desespere, pois) temos um advogado junto do Pai, Jesus Cristo, o justo.  
-**2** Ele é a vítima de propiciação pelos nossos pecados, e não somente pelos nossos, mas também pelos de todo o mundo.  
+**2** Ele é a vítima de propiciação pelos nossos pecados, e não sòmente pelos nossos, mas também pelos de todo o mundo.  
 **3** Sabemos que o conhecemos por isto: se guardamos os seus mandamentos.  
 **4** Quem diz que o conhece e não guarda os seus mandamentos, é um mentiroso e a verdade não está nele.  
 **5** Mas quem guarda a sua palavra, nesse o amor de Deus é verdadeiramente perfeito; por isto conhecemos que estamos nele.  
@@ -64,7 +64,7 @@
 **15** Todo o que tem ódio a seu irmão é um homicida, e vós sabeis que a vida eterna não tem morada em nenhum homicida.  
 **16** Nisto conhecemos o amor (de Deus): em ter dado a sua vida por nós. Igualmente nós devemos também (estar prontos a) dar a vida pelos nossos irmãos.  
 **17** Se alguém que possua bens deste mundo, vir o seu irmão em necessidade e lhe fechar o seu coração, como está nele a caridade de Deus?  
-**18** Meus filhinhos, não amemos (somente) de palavra e com a língua, mas por obra e em verdade.  
+**18** Meus filhinhos, não amemos (sòmente) de palavra e com a língua, mas por obra e em verdade.  
 **19** Por isto conhecemos que somos da verdade e tranquilizaremos os nossos corações diante de Deus,  
 **20** seja qual for a censura que o nosso coração nos dirija, porque Deus é maior do que o nosso coração e conhece todas as coisas.  
 **21** Caríssimos, se o nosso coração nos não condenar, tenhamos confiança diante de Deus;  
@@ -100,10 +100,10 @@
 
 **1** Todo o que crê que Jesus é Cristo, nasceu de Deus, E todo o que ama aquele que gerou, ama também aquele que nasceu dele.  
 **2** Nisto conhecemos que amamos os filhos de Deus, se amamos a Deus e guardamos os seus mandamentos.  
-**3** Efetivamente, o amor de Deus consiste em guardarmos os seus mandamentos, mandamentos que não são custosos.  
+**3** Efectivamente, o amor de Deus consiste em guardarmos os seus mandamentos, mandamentos que não são custosos.  
 **4** Tudo o que nasceu de Deus, vence o mundo; a vitória que venceu o mundo é a nossa fé.  
 **5** Quem é que vence o mundo, senão aquele que crê que Jesus é o Filho de Deus (e procede segundo esta fé)?  
-**6** Este Jesus Cristo é aquele que veio pela água e pelo sangue; não com água somente, mas com água e com sangue. E o Espírito é o que dá testemunho, porque o Espírito é a verdade.  
+**6** Este Jesus Cristo é aquele que veio pela água e pelo sangue; não com água sòmente, mas com água e com sangue. E o Espírito é o que dá testemunho, porque o Espírito é a verdade.  
 **7** Com efeito, são três os que dão testemunho:  
 **8** o Espírito, a água e o sangue (que derramou), e estes três estão de acordo.  
 **9** Se admitimos o testemunho dos homens, o testemunho de Deus é maior; ora este testemunho de Deus é o que ele deu de seu Filho.  

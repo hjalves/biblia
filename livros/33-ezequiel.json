@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -47,11 +47,11 @@
     },
     {
      "n": 8,
-     "texto": "Apareciam mãos de homem debaixo das suas asas aos quatro lados. As faces de todos os quatro estavam voltadas para as quatro direções."
+     "texto": "Apareciam mãos de homem debaixo das suas asas aos quatro lados. As faces de todos os quatro estavam voltadas para as quatro direcções."
     },
     {
      "n": 9,
-     "texto": "As asas dum estavam juntas às do outro; não se voltavam quando iam caminhando, mas cada um seguia segundo a direção do seu rosto."
+     "texto": "As asas dum estavam juntas às do outro; não se voltavam quando iam caminhando, mas cada um seguia segundo a direcção do seu rosto."
     },
     {
      "n": 10,
@@ -63,11 +63,11 @@
     },
     {
      "n": 12,
-     "texto": "Cada um deles caminhava segundo a direção do seu rosto; para onde os Impelia o espírito, para ali caminhavam, nem se voltavam quando iam andando."
+     "texto": "Cada um deles caminhava segundo a direcção do seu rosto; para onde os Impelia o espírito, para ali caminhavam, nem se voltavam quando iam andando."
     },
     {
      "n": 13,
-     "texto": "O aspeto destes seres vivos assemelhava-os a carvões ardentes, como archotes. Via-se discorrer pelo meio dos seres vivos, um resplendor de fogo, e sair relâmpagos do fogo."
+     "texto": "O aspecto destes seres vivos assemelhava-os a carvões ardentes, como archotes. Via-se discorrer pelo meio dos seres vivos, um resplendor de fogo, e sair relâmpagos do fogo."
     },
     {
      "n": 14,
@@ -79,11 +79,11 @@
     },
     {
      "n": 16,
-     "texto": "O aspeto das rodas e a sua estrutura pareciam ter o brilho de pedra de Tarsis; e todas quatro eram semelhantes; e o seu aspeto e estrutura eram como de uma roda que está no meio doutra roda."
+     "texto": "O aspecto das rodas e a sua estrutura pareciam ter o brilho de pedra de Tarsis; e todas quatro eram semelhantes; e o seu aspecto e estrutura eram como de uma roda que está no meio doutra roda."
     },
     {
      "n": 17,
-     "texto": "Avançavam nas quatro direções e não se voltavam quando iam rodando."
+     "texto": "Avançavam nas quatro direcções e não se voltavam quando iam rodando."
     },
     {
      "n": 18,
@@ -127,7 +127,7 @@
     },
     {
      "n": 28,
-     "texto": "qual arco íris que aparece numa nuvem em dia de chuva, tal era o aspeto do resplendor em roda."
+     "texto": "qual arco íris que aparece numa nuvem em dia de chuva, tal era o aspecto do resplendor em roda."
     }
    ]
   },
@@ -253,7 +253,7 @@
     },
     {
      "n": 20,
-     "texto": "Do mesmo modo, se o justo deixar a sua justiça e cometer a iniquidade, e se eu puser diante dele um tropeço, ele morrerá; porque tu lho não advertiste, morrerá no seu pecado, apagar-se-á a lembrança de todas as ações de justiça que praticou, mas eu requererei da tua mão o seu sangue."
+     "texto": "Do mesmo modo, se o justo deixar a sua justiça e cometer a iniquidade, e se eu puser diante dele um tropeço, ele morrerá; porque tu lho não advertiste, morrerá no seu pecado, apagar-se-á a lembrança de todas as acções de justiça que praticou, mas eu requererei da tua mão o seu sangue."
     },
     {
      "n": 21,
@@ -614,7 +614,7 @@
     },
     {
      "n": 2,
-     "texto": "E tive uma visão; Era uma figura que tinha o aspeto de fogo; dos seus rins para baixo, era de fogo; e dos rins para cima, era como uma luz resplandecente, como um metal brilhante."
+     "texto": "E tive uma visão; Era uma figura que tinha o aspecto de fogo; dos seus rins para baixo, era de fogo; e dos rins para cima, era como uma luz resplandecente, como um metal brilhante."
     },
     {
      "n": 3,
@@ -768,7 +768,7 @@
     },
     {
      "n": 9,
-     "texto": "Olhei ainda e (vi que) havia quatro rodas junto dos querubins: uma roda junto de cada querubim. O aspeto destas rodas era como ó duma pedra de crisólito."
+     "texto": "Olhei ainda e (vi que) havia quatro rodas junto dos querubins: uma roda junto de cada querubim. O aspecto destas rodas era como ó duma pedra de crisólito."
     },
     {
      "n": 10,
@@ -776,7 +776,7 @@
     },
     {
      "n": 11,
-     "texto": "Ao avançar, moviam-se nas quatro direções, e não tornavam para trás quando andavam, porque, para onde a que estava primeiro dirigia o seu caminho, para lá também as outras seguiam, sem voltar para nenhum outro lado."
+     "texto": "Ao avançar, moviam-se nas quatro direcções, e não tornavam para trás quando andavam, porque, para onde a que estava primeiro dirigia o seu caminho, para lá também as outras seguiam, sem voltar para nenhum outro lado."
     },
     {
      "n": 12,
@@ -938,7 +938,7 @@
     },
     {
      "n": 2,
-     "texto": "Filho de homem, tu moras no meio duma raça de rebeldes, que têm olhos para ver e não veem ouvidos para ouvir e não ouvem: é uma raça de rebeldes."
+     "texto": "Filho de homem, tu moras no meio duma raça de rebeldes, que têm olhos para ver e não vêem ouvidos para ouvir e não ouvem: é uma raça de rebeldes."
     },
     {
      "n": 3,
@@ -1059,7 +1059,7 @@
     },
     {
      "n": 3,
-     "texto": "Assim fala o Senhor Deus: Ai dos profetas insensatos, que seguem o seu próprio espírito e não veem nada!"
+     "texto": "Assim fala o Senhor Deus: Ai dos profetas insensatos, que seguem o seu próprio espírito e não vêem nada!"
     },
     {
      "n": 4,
@@ -1253,7 +1253,7 @@
     },
     {
      "n": 3,
-     "texto": "Porventura tomar-se-á dela um pau que sirva para se fazer alguma obra, ou fabricar-se-á dela uma estaca para que se lhe pendure qualquer objeto?"
+     "texto": "Porventura tomar-se-á dela um pau que sirva para se fazer alguma obra, ou fabricar-se-á dela uma estaca para que se lhe pendure qualquer objecto?"
     },
     {
      "n": 4,
@@ -1382,7 +1382,7 @@
     },
     {
      "n": 26,
-     "texto": "Prostituíste-te aos filhos do Egito, teus vizinhos, muito corpulentos, multiplicaste as tuas prostituições para me irritares."
+     "texto": "Prostituíste-te aos filhos do Egipto, teus vizinhos, muito corpulentos, multiplicaste as tuas prostituições para me irritares."
     },
     {
      "n": 27,
@@ -1466,7 +1466,7 @@
     },
     {
      "n": 47,
-     "texto": "Porém tu não somente não ficaste atrás em seguir os seus caminhos e em obrar segundo as suas maldades, mas foste mais perversa que elas em teu proceder,"
+     "texto": "Porém tu não sòmente não ficaste atrás em seguir os seus caminhos e em obrar segundo as suas maldades, mas foste mais perversa que elas em teu proceder,"
     },
     {
      "n": 48,
@@ -1486,7 +1486,7 @@
     },
     {
      "n": 52,
-     "texto": "Leva, pois, a ignomínia das tuas faltas, com que justificaste tuas irmãs, procedendo mais culpavelmente que elas: são mais justas do que tu. Por isso confunde-te, também, leva a tua ignomínia, tu que justificaste as suas irmãs."
+     "texto": "Leva, pois, a ignomínia das tuas faltas, com que justificaste tuas irmãs, procedendo mais culpàvelmente que elas: são mais justas do que tu. Por isso confunde-te, também, leva a tua ignomínia, tu que justificaste as suas irmãs."
     },
     {
      "n": 53,
@@ -1595,7 +1595,7 @@
     },
     {
      "n": 15,
-     "texto": "Porém este (príncipe), revoltou-se contra ele, enviando mensageiros ao Egito, para que lhe desse cavalos e muita gente. Porventura prosperará ou encontrará salvação, quem isto fez? O que violou a aliança, escapará?"
+     "texto": "Porém este (príncipe), revoltou-se contra ele, enviando mensageiros ao Egipto, para que lhe desse cavalos e muita gente. Porventura prosperará ou encontrará salvação, quem isto fez? O que violou a aliança, escapará?"
     },
     {
      "n": 16,
@@ -1785,7 +1785,7 @@
     },
     {
      "n": 4,
-     "texto": "As nações ouviram falar dele, e ele foi apanhado no fosso delas. Levaram-no preso com cadeias para a terra do Egito."
+     "texto": "As nações ouviram falar dele, e ele foi apanhado no fosso delas. Levaram-no preso com cadeias para a terra do Egipto."
     },
     {
      "n": 5,
@@ -1813,7 +1813,7 @@
     },
     {
      "n": 11,
-     "texto": "Os seus ramos vigorosos vieram a ser cetros de soberanos, e o seu tronco elevou-se no meio dos seus ramos frondosos. Mostrou-se em (toda a) sua grandeza, com a multidão dos seus sarmentos."
+     "texto": "Os seus ramos vigorosos vieram a ser ceptros de soberanos, e o seu tronco elevou-se no meio dos seus ramos frondosos. Mostrou-se em (toda a) sua grandeza, com a multidão dos seus sarmentos."
     },
     {
      "n": 12,
@@ -1825,7 +1825,7 @@
     },
     {
      "n": 14,
-     "texto": "Dos seus ramos saiu uma chama que devorou o seu fruto, e não mais houve nela ramo vigoroso. Cetro de soberanos. Cântico lúgubre é este, e para pranto servirá."
+     "texto": "Dos seus ramos saiu uma chama que devorou o seu fruto, e não mais houve nela ramo vigoroso. Ceptro de soberanos. Cântico lúgubre é este, e para pranto servirá."
     }
    ]
   },
@@ -1850,27 +1850,27 @@
     },
     {
      "n": 5,
-     "texto": "Dir-lhes-ás; Isto diz o Senhor Deus: No dia em que escolhi Israel, em que levantei a minha mão em favor da casa de Jacob e me dei a conhecer na terra do Egito, em que levantei a minha mão a favor deles, dizendo: Eu sou o Senhor vosso Deus —"
+     "texto": "Dir-lhes-ás; Isto diz o Senhor Deus: No dia em que escolhi Israel, em que levantei a minha mão em favor da casa de Jacob e me dei a conhecer na terra do Egipto, em que levantei a minha mão a favor deles, dizendo: Eu sou o Senhor vosso Deus —"
     },
     {
      "n": 6,
-     "texto": "nesse dia levantei a minha mão em seu favor, jurando transferi-los da terra do Egito para a terra que lhes tinha preparado, a qual mana leite e mel, a mais excelente de todas as terras."
+     "texto": "nesse dia levantei a minha mão em seu favor, jurando transferi-los da terra do Egipto para a terra que lhes tinha preparado, a qual mana leite e mel, a mais excelente de todas as terras."
     },
     {
      "n": 7,
-     "texto": "Disse-lhes então: Cada um afaste de si os ídolos sedutores dos seus olhos; não vos mancheis com os ídolos do Egito; eu sou o Senhor vosso Deus."
+     "texto": "Disse-lhes então: Cada um afaste de si os ídolos sedutores dos seus olhos; não vos mancheis com os ídolos do Egipto; eu sou o Senhor vosso Deus."
     },
     {
      "n": 8,
-     "texto": "Eles, porém, revoltaram-se contra mim, não me quiseram ouvir; nenhum lançou fora os abomináveis ídolos sedutores dos seus olhos; não abandonaram os ídolos do Egito. Pensei derramar a minha indignação sobre eles, saciar neles a minha ira no meio da terra do Egito;"
+     "texto": "Eles, porém, revoltaram-se contra mim, não me quiseram ouvir; nenhum lançou fora os abomináveis ídolos sedutores dos seus olhos; não abandonaram os ídolos do Egipto. Pensei derramar a minha indignação sobre eles, saciar neles a minha ira no meio da terra do Egipto;"
     },
     {
      "n": 9,
-     "texto": "porém procedi (de outra forma) por amor do meu nome, para que ele não ficasse desacreditado diante das gentes, no meio das quais estavam, entre as quais me tinha dado a conhecer, para os tirar da terra do Egito."
+     "texto": "porém procedi (de outra forma) por amor do meu nome, para que ele não ficasse desacreditado diante das gentes, no meio das quais estavam, entre as quais me tinha dado a conhecer, para os tirar da terra do Egipto."
     },
     {
      "n": 10,
-     "texto": "Tirei-os, pois, da terra do Egito e conduzi-os ao deserto."
+     "texto": "Tirei-os, pois, da terra do Egipto e conduzi-os ao deserto."
     },
     {
      "n": 11,
@@ -1958,7 +1958,7 @@
     },
     {
      "n": 32,
-     "texto": "Nem se efetuará o que pensais no vosso espírito quando dizeis: Seremos (felizes) como as nações e como os povos da terra, adorando os paus e as pedras."
+     "texto": "Nem se efectuará o que pensais no vosso espírito quando dizeis: Seremos (felizes) como as nações e como os povos da terra, adorando os paus e as pedras."
     },
     {
      "n": 33,
@@ -1974,11 +1974,11 @@
     },
     {
      "n": 36,
-     "texto": "Assim como entrei em juízo com vossos pais no deserto da terra do Egito, assim vos julgarei a vós, diz o Senhor Deus."
+     "texto": "Assim como entrei em juízo com vossos pais no deserto da terra do Egipto, assim vos julgarei a vós, diz o Senhor Deus."
     },
     {
      "n": 37,
-     "texto": "E vos submeterei ao meu cetro, e vos farei entrar nos laços da minha aliança."
+     "texto": "E vos submeterei ao meu ceptro, e vos farei entrar nos laços da minha aliança."
     },
     {
      "n": 38,
@@ -2071,7 +2071,7 @@
     },
     {
      "n": 10,
-     "texto": "Ela está aguçada para matar, polida para reluzir. Alegrar-nos-emos. O cetro de meu filho despreza toda a madeira."
+     "texto": "Ela está aguçada para matar, polida para reluzir. Alegrar-nos-emos. O ceptro de meu filho despreza toda a madeira."
     },
     {
      "n": 11,
@@ -2083,7 +2083,7 @@
     },
     {
      "n": 13,
-     "texto": "porque a prova foi feita; e que sucederia se não houvesse cetro desprezador? diz o Senhor Deus."
+     "texto": "porque a prova foi feita; e que sucederia se não houvesse ceptro desprezador? diz o Senhor Deus."
     },
     {
      "n": 14,
@@ -2127,7 +2127,7 @@
     },
     {
      "n": 24,
-     "texto": "Portanto isto diz o Senhor Deus: Porque (me) haveis recordado a vossa iniquidade, manifestando as vossas prevaricações, patenteando os vossos pecados em todas as vossas ações, porque, digo trouxestes isso à memória, sereis castigados."
+     "texto": "Portanto isto diz o Senhor Deus: Porque (me) haveis recordado a vossa iniquidade, manifestando as vossas prevaricações, patenteando os vossos pecados em todas as vossas acções, porque, digo trouxestes isso à memória, sereis castigados."
     },
     {
      "n": 25,
@@ -2305,7 +2305,7 @@
     },
     {
      "n": 3,
-     "texto": "as quais se prostituíram no Egito, prostituíram-se na sua mocidade (como povo). Aí lhes apertaram os peitos lhes apalparam o seio virginal."
+     "texto": "as quais se prostituíram no Egipto, prostituíram-se na sua mocidade (como povo). Aí lhes apertaram os peitos lhes apalparam o seio virginal."
     },
     {
      "n": 4,
@@ -2325,7 +2325,7 @@
     },
     {
      "n": 8,
-     "texto": "Porém não abandonou as prostituições que tinha tido no Egito, pois (os Egípcios) dormiram com ela na sua adolescência, apertaram o seu seio virginal, comunicaram-lhe todas as suas impurezas."
+     "texto": "Porém não abandonou as prostituições que tinha tido no Egipto, pois (os Egípcios) dormiram com ela na sua adolescência, apertaram o seu seio virginal, comunicaram-lhe todas as suas impurezas."
     },
     {
      "n": 9,
@@ -2369,7 +2369,7 @@
     },
     {
      "n": 19,
-     "texto": "Multiplicou as suas prostituições lembrando-se dos dias da sua mocidade, durante os quais se tinha prostituído na terra do Egito."
+     "texto": "Multiplicou as suas prostituições lembrando-se dos dias da sua mocidade, durante os quais se tinha prostituído na terra do Egipto."
     },
     {
      "n": 20,
@@ -2401,7 +2401,7 @@
     },
     {
      "n": 27,
-     "texto": "Farei cessar as tuas maldades e prostituições que tinhas aprendido na terra do Egito; não levantarás mais os olhos para eles, nem te lembrarás mais do Egito."
+     "texto": "Farei cessar as tuas maldades e prostituições que tinhas aprendido na terra do Egipto; não levantarás mais os olhos para eles, nem te lembrarás mais do Egipto."
     },
     {
      "n": 28,
@@ -2764,7 +2764,7 @@
     },
     {
      "n": 21,
-     "texto": "Tornar-te-ei um objeto de terror, e tu não existirás mais. Ainda que te busquem, nunca mais te acharão, diz o Senhor Deus."
+     "texto": "Tornar-te-ei um objecto de terror, e tu não existirás mais. Ainda que te busquem, nunca mais te acharão, diz o Senhor Deus."
     }
    ]
   },
@@ -2797,7 +2797,7 @@
     },
     {
      "n": 7,
-     "texto": "de fino linho do Egito, bordado, foi tecido o teu velame, que te servia de toldo; de jacinto e de púrpura das ilhas de Elisa era formado o teu pavilhão;"
+     "texto": "de fino linho do Egipto, bordado, foi tecido o teu velame, que te servia de toldo; de jacinto e de púrpura das ilhas de Elisa era formado o teu pavilhão;"
     },
     {
      "n": 8,
@@ -2909,11 +2909,11 @@
     },
     {
      "n": 35,
-     "texto": "Todos os habitantes das ilhas estão cheios de espanto pelo teu caso; os seus reis, tomados de pânico ficaram com o aspeto alterado."
+     "texto": "Todos os habitantes das ilhas estão cheios de espanto pelo teu caso; os seus reis, tomados de pânico ficaram com o aspecto alterado."
     },
     {
      "n": 36,
-     "texto": "Os negociantes dos povos assobiam-te (escarnecendo); tornaste-te um objeto de pavor, foste reduzida a nada, para sempre."
+     "texto": "Os negociantes dos povos assobiam-te (escarnecendo); tornaste-te um objecto de pavor, foste reduzida a nada, para sempre."
     }
    ]
   },
@@ -2974,7 +2974,7 @@
     },
     {
      "n": 14,
-     "texto": "Eras um querubim protetor que estendia, as suas asas, colocado sobre o monte santo de Deus; tu caminhavas no meio de pedras (brilhantes) de fogo."
+     "texto": "Eras um querubim protector que estendia, as suas asas, colocado sobre o monte santo de Deus; tu caminhavas no meio de pedras (brilhantes) de fogo."
     },
     {
      "n": 15,
@@ -2982,7 +2982,7 @@
     },
     {
      "n": 16,
-     "texto": "Com a atividade do teu comércio encheu-se o teu interior de iniquidade, caíste no pecado, e eu lancei-te fora do monte de Deus, exterminei-te, ó querubim protetor, do meio das pedras (brilhantes) de fogo."
+     "texto": "Com a actividade do teu comércio encheu-se o teu interior de iniquidade, caíste no pecado, e eu lancei-te fora do monte de Deus, exterminei-te, ó querubim protector, do meio das pedras (brilhantes) de fogo."
     },
     {
      "n": 17,
@@ -2994,7 +2994,7 @@
     },
     {
      "n": 19,
-     "texto": "Todos os que te conheciam entre as nações, ficaram espantados de ti. Tornaste-te. um objeto de espanto, e deixaste de existir, para sempre."
+     "texto": "Todos os que te conheciam entre as nações, ficaram espantados de ti. Tornaste-te. um objecto de espanto, e deixaste de existir, para sempre."
     },
     {
      "n": 20,
@@ -3035,11 +3035,11 @@
     },
     {
      "n": 2,
-     "texto": "Filho de homem, volta o teu rosto contra Faraó, rei do Egito, e profetiza contra ele e contra o Egito."
+     "texto": "Filho de homem, volta o teu rosto contra Faraó, rei do Egipto, e profetiza contra ele e contra o Egipto."
     },
     {
      "n": 3,
-     "texto": "Fala e dize: Isto diz o Senhor Deus; Eis que venho contra ti, ó Faraó, rei do Egito, crocodilo enorme, que te deitas no meio dos teus rios e que dizes: O rio (Nilo), é meu, fui eu que o fiz."
+     "texto": "Fala e dize: Isto diz o Senhor Deus; Eis que venho contra ti, ó Faraó, rei do Egipto, crocodilo enorme, que te deitas no meio dos teus rios e que dizes: O rio (Nilo), é meu, fui eu que o fiz."
     },
     {
      "n": 4,
@@ -3051,7 +3051,7 @@
     },
     {
      "n": 6,
-     "texto": "e todos os habitantes do Egito saberão que eu sou o Senhor, porque tu foste para a casa de Israel um apoio (frágil) de cana."
+     "texto": "e todos os habitantes do Egipto saberão que eu sou o Senhor, porque tu foste para a casa de Israel um apoio (frágil) de cana."
     },
     {
      "n": 7,
@@ -3063,11 +3063,11 @@
     },
     {
      "n": 9,
-     "texto": "A terra do Egito será reduzida a um deserto e a uma solidão, e saber-se-á que eu sou o Senhor. Porque tu disseste; O rio é meu, eu é que o fiz"
+     "texto": "A terra do Egipto será reduzida a um deserto e a uma solidão, e saber-se-á que eu sou o Senhor. Porque tu disseste; O rio é meu, eu é que o fiz"
     },
     {
      "n": 10,
-     "texto": "por isso, eis-me aqui contra ti e contra os teus rios; transformarei a terra do Egito num deserto e numa solidão, desde Mígdol até Siene, até aos confins da Etiópia."
+     "texto": "por isso, eis-me aqui contra ti e contra os teus rios; transformarei a terra do Egipto num deserto e numa solidão, desde Mígdol até Siene, até aos confins da Etiópia."
     },
     {
      "n": 11,
@@ -3075,7 +3075,7 @@
     },
     {
      "n": 12,
-     "texto": "Farei do país do Egito um deserto, no meio de outros países desertos, e as suas cidades ficarão destruídas no meio de outras cidades destruídas, estarão desoladas durante quarenta anos; espalharei por diversas nações os Egípcios, disseminá-los-ei por várias terras."
+     "texto": "Farei do país do Egipto um deserto, no meio de outros países desertos, e as suas cidades ficarão destruídas no meio de outras cidades destruídas, estarão desoladas durante quarenta anos; espalharei por diversas nações os Egípcios, disseminá-los-ei por várias terras."
     },
     {
      "n": 13,
@@ -3083,11 +3083,11 @@
     },
     {
      "n": 14,
-     "texto": "tornarei a trazer os cativos do Egito e estabelecê-los-ei na terra de Patros, na terra da sua nascença, onde formarão um reino humilde."
+     "texto": "tornarei a trazer os cativos do Egipto e estabelecê-los-ei na terra de Patros, na terra da sua nascença, onde formarão um reino humilde."
     },
     {
      "n": 15,
-     "texto": "(O Egito) será o mais humilde de todos os reinos, e não se tornará mais a levantar sobre as outras nações; diminui-los-ei, para que não dominem sobre elas."
+     "texto": "(O Egipto) será o mais humilde de todos os reinos, e não se tornará mais a levantar sobre as outras nações; diminui-los-ei, para que não dominem sobre elas."
     },
     {
      "n": 16,
@@ -3103,11 +3103,11 @@
     },
     {
      "n": 19,
-     "texto": "Portanto isto diz o Senhor Deus; Vou dar a Nabucodonosor, rei de Babilónia, o país do Egito: levará as suas riquezas, fará dele a sua presa, repartirá os seus despojos: esta será a recompensa do seu exército."
+     "texto": "Portanto isto diz o Senhor Deus; Vou dar a Nabucodonosor, rei de Babilónia, o país do Egipto: levará as suas riquezas, fará dele a sua presa, repartirá os seus despojos: esta será a recompensa do seu exército."
     },
     {
      "n": 20,
-     "texto": "Pelo serviço que prestou contra Tiro, dou-lhe o país do Egito, porque ele trabalhou para mim, diz o Senhor Deus."
+     "texto": "Pelo serviço que prestou contra Tiro, dou-lhe o país do Egipto, porque ele trabalhou para mim, diz o Senhor Deus."
     },
     {
      "n": 21,
@@ -3132,7 +3132,7 @@
     },
     {
      "n": 4,
-     "texto": "espada (inimiga) virá contra o Egito: o pavor se apossará da Etiópia, quando caírem os mortos no Egito, quando forem arrebatadas as suas riquezas, destruídos os seus fundamentos."
+     "texto": "espada (inimiga) virá contra o Egipto: o pavor se apossará da Etiópia, quando caírem os mortos no Egipto, quando forem arrebatadas as suas riquezas, destruídos os seus fundamentos."
     },
     {
      "n": 5,
@@ -3140,7 +3140,7 @@
     },
     {
      "n": 6,
-     "texto": "Isto diz o Senhor Deus: Os que sustinham o Egito, cairão, e a soberba da sua força será destruída: cairão aos golpes da espada, desde Migdol até Siene, diz o Senhor dos exércitos."
+     "texto": "Isto diz o Senhor Deus: Os que sustinham o Egipto, cairão, e a soberba da sua força será destruída: cairão aos golpes da espada, desde Migdol até Siene, diz o Senhor dos exércitos."
     },
     {
      "n": 7,
@@ -3148,19 +3148,19 @@
     },
     {
      "n": 8,
-     "texto": "Saberão que eu sou o Senhor, quando eu tiver posto fogo ao Egito, e forem derrotados todos os seus auxlliares."
+     "texto": "Saberão que eu sou o Senhor, quando eu tiver posto fogo ao Egipto, e forem derrotados todos os seus auxlliares."
     },
     {
      "n": 9,
-     "texto": "Naquele dia partirão em navios mensageiros despachados por mim para perturbar a Etiópia na sua segurança, e haverá terror nela no dia (do castigo) do Egito, dia que já está a chegar."
+     "texto": "Naquele dia partirão em navios mensageiros despachados por mim para perturbar a Etiópia na sua segurança, e haverá terror nela no dia (do castigo) do Egipto, dia que já está a chegar."
     },
     {
      "n": 10,
-     "texto": "Isto diz o Senhor Deus: Destruirei a multidão do Egito pela mão de Nabucodonosor, rei de Babilónia."
+     "texto": "Isto diz o Senhor Deus: Destruirei a multidão do Egipto pela mão de Nabucodonosor, rei de Babilónia."
     },
     {
      "n": 11,
-     "texto": "Ele e o seu povo com ele, o mais bárbaro dos povos, serão levados para assolar a terra: desembainharão a sua espada contra o Egito e encherão o país de mortos."
+     "texto": "Ele e o seu povo com ele, o mais bárbaro dos povos, serão levados para assolar a terra: desembainharão a sua espada contra o Egipto e encherão o país de mortos."
     },
     {
      "n": 12,
@@ -3168,7 +3168,7 @@
     },
     {
      "n": 13,
-     "texto": "Isto diz o Senhor: Destruirei os ídolos, aniquilarei os falsos deuses de Mênfis. Não tornará mais a haver príncipe na terra do Egito. Espalharei o terror pela terra do Egito."
+     "texto": "Isto diz o Senhor: Destruirei os ídolos, aniquilarei os falsos deuses de Mênfis. Não tornará mais a haver príncipe na terra do Egipto. Espalharei o terror pela terra do Egipto."
     },
     {
      "n": 14,
@@ -3176,11 +3176,11 @@
     },
     {
      "n": 15,
-     "texto": "Derramarei a minha indignação sobre Sin, baluarte do Egito, e farei morrer a multidão de Nô."
+     "texto": "Derramarei a minha indignação sobre Sin, baluarte do Egipto, e farei morrer a multidão de Nô."
     },
     {
      "n": 16,
-     "texto": "Porei fogo ao Egito. Sin sentirá dores angustiantes. Nô será destruída, e Mênfis assaltada em pleno dia."
+     "texto": "Porei fogo ao Egipto. Sin sentirá dores angustiantes. Nô será destruída, e Mênfis assaltada em pleno dia."
     },
     {
      "n": 17,
@@ -3188,11 +3188,11 @@
     },
     {
      "n": 18,
-     "texto": "O dia se fará noite em Tafnis, quando eu quebrar o jugo do Egito, e acabar nele a arrogância do seu poder. Uma nuvem cobrirá a cidade, e as suas filhas serão levadas para o cativeiro."
+     "texto": "O dia se fará noite em Tafnis, quando eu quebrar o jugo do Egipto, e acabar nele a arrogância do seu poder. Uma nuvem cobrirá a cidade, e as suas filhas serão levadas para o cativeiro."
     },
     {
      "n": 19,
-     "texto": "Exercerei contra o Egito os meus juízos, e saber-se-á que eu sou o Senhor."
+     "texto": "Exercerei contra o Egipto os meus juízos, e saber-se-á que eu sou o Senhor."
     },
     {
      "n": 20,
@@ -3200,11 +3200,11 @@
     },
     {
      "n": 21,
-     "texto": "Filho de homem, quebrei o braço de Faraó, rei do Egito, e eis que não foi pensado por ninguém, para se curar, não foi ligado, para que, tendo recobrado a força, pudesse manejar a espada."
+     "texto": "Filho de homem, quebrei o braço de Faraó, rei do Egipto, e eis que não foi pensado por ninguém, para se curar, não foi ligado, para que, tendo recobrado a força, pudesse manejar a espada."
     },
     {
      "n": 22,
-     "texto": "Portanto isto diz o Senhor Deus: Eis-me aqui contra Faraó rei do Egito: vou partir o seu braço válido, como o quebrado, e farei cair a espada da sua mão."
+     "texto": "Portanto isto diz o Senhor Deus: Eis-me aqui contra Faraó rei do Egipto: vou partir o seu braço válido, como o quebrado, e farei cair a espada da sua mão."
     },
     {
      "n": 23,
@@ -3216,7 +3216,7 @@
     },
     {
      "n": 25,
-     "texto": "Fortificarei os braços do rei de Babilónia, e os braços de Faraó cairão. Saber-se-á que eu sou o Senhor, quando meter a minha espada na mão do rei de Babilónia, e ele a voltar contra a terra do Egito."
+     "texto": "Fortificarei os braços do rei de Babilónia, e os braços de Faraó cairão. Saber-se-á que eu sou o Senhor, quando meter a minha espada na mão do rei de Babilónia, e ele a voltar contra a terra do Egipto."
     },
     {
      "n": 26,
@@ -3233,7 +3233,7 @@
     },
     {
      "n": 2,
-     "texto": "Filho de homem, dize a Faraó, rei do Egito, e ao seu numeroso povo: A quem te assemelhas na tua grandeza?"
+     "texto": "Filho de homem, dize a Faraó, rei do Egipto, e ao seu numeroso povo: A quem te assemelhas na tua grandeza?"
     },
     {
      "n": 3,
@@ -3310,7 +3310,7 @@
     },
     {
      "n": 2,
-     "texto": "Filho de homem, entoa uma lamentação sobre Faraó, rei do Egito. Dirás; Leão das gentes, pereceste! Eras como o crocodilo que está nos mares; atiravas-te pelos rios, turbavas as águas com as tuas patas, agitavas as suas correntes."
+     "texto": "Filho de homem, entoa uma lamentação sobre Faraó, rei do Egipto. Dirás; Leão das gentes, pereceste! Eras como o crocodilo que está nos mares; atiravas-te pelos rios, turbavas as águas com as tuas patas, agitavas as suas correntes."
     },
     {
      "n": 3,
@@ -3350,7 +3350,7 @@
     },
     {
      "n": 12,
-     "texto": "Com a espada dos fortes (Caldeus) desfarei a tua multidão. São os mais bárbaros de todos os povos. Destruirão a soberba do Egito, e toda a sua multidão será dissipada."
+     "texto": "Com a espada dos fortes (Caldeus) desfarei a tua multidão. São os mais bárbaros de todos os povos. Destruirão a soberba do Egipto, e toda a sua multidão será dissipada."
     },
     {
      "n": 13,
@@ -3362,11 +3362,11 @@
     },
     {
      "n": 15,
-     "texto": "Quando eu tiver desolado a terra do Egito, quando todo o país estiver despojado dos bens que contém, quando tiver ferido todos os seus habitantes, saberão que sou o Senhor."
+     "texto": "Quando eu tiver desolado a terra do Egipto, quando todo o país estiver despojado dos bens que contém, quando tiver ferido todos os seus habitantes, saberão que sou o Senhor."
     },
     {
      "n": 16,
-     "texto": "Esta é a lamentação que hão-de entoar as filhas das nações; entoá-la-ão sobre o Egito e sobre a sua multidão, diz o Senhor Deus."
+     "texto": "Esta é a lamentação que hão-de entoar as filhas das nações; entoá-la-ão sobre o Egipto e sobre a sua multidão, diz o Senhor Deus."
     },
     {
      "n": 17,
@@ -3374,7 +3374,7 @@
     },
     {
      "n": 18,
-     "texto": "Filho de homem, entoa um cântico lúgubre sobre o povo do Egito: (vaticinando) precipita-o a ele e ás filhas das nações fortes, no fundo da terra com aqueles que descem à fossa."
+     "texto": "Filho de homem, entoa um cântico lúgubre sobre o povo do Egipto: (vaticinando) precipita-o a ele e ás filhas das nações fortes, no fundo da terra com aqueles que descem à fossa."
     },
     {
      "n": 19,
@@ -3382,7 +3382,7 @@
     },
     {
      "n": 20,
-     "texto": "Cairão no meio daqueles que foram mortos à espada—foi dada a espada (por Deus aos Caldeus). Levaram após si o Egito e todos os seus povos."
+     "texto": "Cairão no meio daqueles que foram mortos à espada—foi dada a espada (por Deus aos Caldeus). Levaram após si o Egipto e todos os seus povos."
     },
     {
      "n": 21,
@@ -3491,7 +3491,7 @@
     },
     {
      "n": 14,
-     "texto": "Se, por outro lado, eu tiver dito ao ímpio: Tu certamente morrerás e ele se desviar do seu pecado e praticar obras retas e justas,"
+     "texto": "Se, por outro lado, eu tiver dito ao ímpio: Tu certamente morrerás e ele se desviar do seu pecado e praticar obras rectas e justas,"
     },
     {
      "n": 15,
@@ -3499,7 +3499,7 @@
     },
     {
      "n": 16,
-     "texto": "Nenhum dos pecados que cometeu lhe será imputado; praticou o que era reto e justo, e assim certamente viverá."
+     "texto": "Nenhum dos pecados que cometeu lhe será imputado; praticou o que era recto e justo, e assim certamente viverá."
     },
     {
      "n": 17,
@@ -3511,11 +3511,11 @@
     },
     {
      "n": 19,
-     "texto": "Pelo contrário, quando o ímpio deixar a sua impiedade e praticar obras de retidão e justiça, encontrará nelas a vida."
+     "texto": "Pelo contrário, quando o ímpio deixar a sua impiedade e praticar obras de rectidão e justiça, encontrará nelas a vida."
     },
     {
      "n": 20,
-     "texto": "Ainda assim vós dizeis: O caminho do Senhor não é reto! Ó casa de Israel, eu hei-de julgar cada um de vós segundo as suas obras."
+     "texto": "Ainda assim vós dizeis: O caminho do Senhor não é recto! Ó casa de Israel, eu hei-de julgar cada um de vós segundo as suas obras."
     },
     {
      "n": 21,
@@ -3531,7 +3531,7 @@
     },
     {
      "n": 24,
-     "texto": "Filho de homem, os que habitam entre essas ruínas da terra de Israel, falam assim: Abraão era sozinho, quando possuíu esta terra por herança; a nós, que somos muitos, a nós é que foi dada esta terra para a usufruirmos."
+     "texto": "Filho de homem, os que habitam entre essas ruínas da terra de Israel, falam assim: Abraão era sòzinho, quando possuíu esta terra por herança; a nós, que somos muitos, a nós é que foi dada esta terra para a usufruirmos."
     },
     {
      "n": 25,
@@ -3999,7 +3999,7 @@
     },
     {
      "n": 19,
-     "texto": "— responder-lhes-ás: Assim fala o Senhor Deus: Vou tomar o lenho de José, que está na mão de Efraim, e as tribos de Israel, que lhe estão unidas: pô-las-ei juntas com o lenho de Judá, fá-las-ei juntar num só lenho, (ou cetro) e serão um só lenho na minha mão."
+     "texto": "— responder-lhes-ás: Assim fala o Senhor Deus: Vou tomar o lenho de José, que está na mão de Efraim, e as tribos de Israel, que lhe estão unidas: pô-las-ei juntas com o lenho de Judá, fá-las-ei juntar num só lenho, (ou ceptro) e serão um só lenho na minha mão."
     },
     {
      "n": 20,
@@ -4027,7 +4027,7 @@
     },
     {
      "n": 26,
-     "texto": "Farei com eles uma aliança de paz; a minha aliança com eles será eterna; estabelecê-los-ei (solidamente), multiplicá-los-ei e porei para sempre o meu santuário no meio deles."
+     "texto": "Farei com eles uma aliança de paz; a minha aliança com eles será eterna; estabelecê-los-ei (sòlidamente), multiplicá-los-ei e porei para sempre o meu santuário no meio deles."
     },
     {
      "n": 27,
@@ -4080,7 +4080,7 @@
     },
     {
      "n": 10,
-     "texto": "Isto diz o Senhor Deus; Naquele dia formarás em teu coração altivos projetos, forjarás planos malignos."
+     "texto": "Isto diz o Senhor Deus; Naquele dia formarás em teu coração altivos projectos, forjarás planos malignos."
     },
     {
      "n": 11,
@@ -4270,7 +4270,7 @@
     },
     {
      "n": 3,
-     "texto": "Quando me introduziu lá, vi um homem, cujo aspeto era como de (lucidíssimo) bronze, o qual, tendo na mão um cordel de linho e uma cana de medir, estava à porta."
+     "texto": "Quando me introduziu lá, vi um homem, cujo aspecto era como de (lucidíssimo) bronze, o qual, tendo na mão um cordel de linho e uma cana de medir, estava à porta."
     },
     {
      "n": 4,
@@ -4310,7 +4310,7 @@
     },
     {
      "n": 13,
-     "texto": "E mediu o pórtico, desde o teto duma câmara até ao teto da outra: a largura era de vinte e cinco côvados de porta a porta."
+     "texto": "E mediu o pórtico, desde o tecto duma câmara até ao tecto da outra: a largura era de vinte e cinco côvados de porta a porta."
     },
     {
      "n": 14,
@@ -4354,7 +4354,7 @@
     },
     {
      "n": 24,
-     "texto": "Levou-me em seguida na direção do meio-dia onde havia um pórtico que olhava para o meio-dia; mediu as suas pilastras e o seu vestíbulo, que tinham as mesmas dimensões."
+     "texto": "Levou-me em seguida na direcção do meio-dia onde havia um pórtico que olhava para o meio-dia; mediu as suas pilastras e o seu vestíbulo, que tinham as mesmas dimensões."
     },
     {
      "n": 25,
@@ -4366,7 +4366,7 @@
     },
     {
      "n": 27,
-     "texto": "O átrio interior tinha também um pórtico do lado do meio-dia; mediu, dum pórtico ao outro, na direção do meio-dia, cem côvados."
+     "texto": "O átrio interior tinha também um pórtico do lado do meio-dia; mediu, dum pórtico ao outro, na direcção do meio-dia, cem côvados."
     },
     {
      "n": 28,
@@ -4866,7 +4866,7 @@
     },
     {
      "n": 25,
-     "texto": "Não se aproximarão dum cadáver, para que se não manchem exceto se for pai ou mãe, filho ou filha, irmão ou irmã que não tenha marido."
+     "texto": "Não se aproximarão dum cadáver, para que se não manchem excepto se for pai ou mãe, filho ou filha, irmão ou irmã que não tenha marido."
     },
     {
      "n": 26,
@@ -4931,7 +4931,7 @@
     },
     {
      "n": 9,
-     "texto": "Isto diz o Senhor Deus; Baste-vos, ó príncipes de Israel, (o que tendes feito)! Cessai de cometer a violência e as rapinas, praticai o direito e a justiça, não sobrecarregueis com mais exações o meu povo, diz o Senhor Deus."
+     "texto": "Isto diz o Senhor Deus; Baste-vos, ó príncipes de Israel, (o que tendes feito)! Cessai de cometer a violência e as rapinas, praticai o direito e a justiça, não sobrecarregueis com mais exacções o meu povo, diz o Senhor Deus."
     },
     {
      "n": 10,
@@ -5145,7 +5145,7 @@
     },
     {
      "n": 11,
-     "texto": "Nas suas lagunas, porém, e nos seus charcos, não serão salutíferas as águas, porque destinadas à extração de sal."
+     "texto": "Nas suas lagunas, porém, e nos seus charcos, não serão salutíferas as águas, porque destinadas à extracção de sal."
     },
     {
      "n": 12,
@@ -5177,7 +5177,7 @@
     },
     {
      "n": 19,
-     "texto": "O limite meridional irá desde Tamar até às águas de Meribot, de Cades, e até à torrente (do Egito) que vai para o Grande Mar (ou Mediterrâneo). Este é o limite do meio-dia."
+     "texto": "O limite meridional irá desde Tamar até às águas de Meribot, de Cades, e até à torrente (do Egipto) que vai para o Grande Mar (ou Mediterrâneo). Este é o limite do meio-dia."
     },
     {
      "n": 20,
@@ -5286,7 +5286,7 @@
     },
     {
      "n": 22,
-     "texto": "Excetuando a possessão dos levitas e a possessão da cidade, que estão no meio da porção do príncipe, pertencerá ao príncipe o que estiver entre os confins de Judá e os confins de Benjamim."
+     "texto": "Exceptuando a possessão dos levitas e a possessão da cidade, que estão no meio da porção do príncipe, pertencerá ao príncipe o que estiver entre os confins de Judá e os confins de Benjamim."
     },
     {
      "n": 23,

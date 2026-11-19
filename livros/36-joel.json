@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -116,7 +116,7 @@
     },
     {
      "n": 4,
-     "texto": "O seu aspeto é como o aspeto de cavalos; avançam como corcéis."
+     "texto": "O seu aspecto é como o aspecto de cavalos; avançam como corcéis."
     },
     {
      "n": 5,
@@ -180,7 +180,7 @@
     },
     {
      "n": 20,
-     "texto": "Afastarei de vós aquele (inimigo) que vem da parte do Aquilão, e lançá-lo-ei para uma terra árida e deserta; a sua vanguarda para a banda do mar oriental, e a sua retaguarda para o mar ocidental; (ali) exalar-se-á um cheiro infeto um cheiro de podridão, porque (o Senhor, castigando) fez grandes coisas."
+     "texto": "Afastarei de vós aquele (inimigo) que vem da parte do Aquilão, e lançá-lo-ei para uma terra árida e deserta; a sua vanguarda para a banda do mar oriental, e a sua rectaguarda para o mar ocidental; (ali) exalar-se-á um cheiro infecto um cheiro de podridão, porque (o Senhor, castigando) fez grandes coisas."
     },
     {
      "n": 21,
@@ -309,7 +309,7 @@
     },
     {
      "n": 19,
-     "texto": "O Egito será todo assolado, e a Idumeia ficará sendo um deserto de devastação, porque oprimiram injustamente os filhos de Judá, e derramaram na sua terra o sangue inocente."
+     "texto": "O Egipto será todo assolado, e a Idumeia ficará sendo um deserto de devastação, porque oprimiram injustamente os filhos de Judá, e derramaram na sua terra o sangue inocente."
     },
     {
      "n": 20,

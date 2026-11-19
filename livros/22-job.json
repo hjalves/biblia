@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -19,7 +19,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Havia na terra de Hus um homem, chamado Job. Este homem era sincero, reto, temia a Deus e fugia do mal."
+     "texto": "Havia na terra de Hus um homem, chamado Job. Este homem era sincero, recto, temia a Deus e fugia do mal."
     },
     {
      "n": 2,
@@ -47,7 +47,7 @@
     },
     {
      "n": 8,
-     "texto": "O Senhor disse-lhe: Porventura consideraste o meu servo Job? Não há semelhante a ele na terra: homem sincero e reto, teme a Deus e foge do mal?"
+     "texto": "O Senhor disse-lhe: Porventura consideraste o meu servo Job? Não há semelhante a ele na terra: homem sincero e recto, teme a Deus e foge do mal?"
     },
     {
      "n": 9,
@@ -55,7 +55,7 @@
     },
     {
      "n": 10,
-     "texto": "Não o cercaste de um valado protetor, a ele, à sua casa e a todos os seus bens? Não abençoaste as obras de suas mãos, e os seus bens não se têm multiplicado sobre a terra?"
+     "texto": "Não o cercaste de um valado protector, a ele, à sua casa e a todos os seus bens? Não abençoaste as obras de suas mãos, e os seus bens não se têm multiplicado sobre a terra?"
     },
     {
      "n": 11,
@@ -63,7 +63,7 @@
     },
     {
      "n": 12,
-     "texto": "Disse, pois, o Senhor a Satanás: Pois bem, tudo o que ele tem está em teu poder; somente não estendas a tua mão contra ele. Satanás saiu da presença do Senhor."
+     "texto": "Disse, pois, o Senhor a Satanás: Pois bem, tudo o que ele tem está em teu poder; sòmente não estendas a tua mão contra ele. Satanás saiu da presença do Senhor."
     },
     {
      "n": 13,
@@ -120,7 +120,7 @@
     },
     {
      "n": 3,
-     "texto": "O Senhor disse a Satanás: Não consideraste o meu servo Job? Não há outro semelhante a ele na terra: homem sincero e reto, teme a Deus e foge do mal. Ainda conserva a sua perfeição, apesar de me haveres incitado contra ele, para o afligir em vão."
+     "texto": "O Senhor disse a Satanás: Não consideraste o meu servo Job? Não há outro semelhante a ele na terra: homem sincero e recto, teme a Deus e foge do mal. Ainda conserva a sua perfeição, apesar de me haveres incitado contra ele, para o afligir em vão."
     },
     {
      "n": 4,
@@ -326,7 +326,7 @@
     },
     {
      "n": 13,
-     "texto": "No horror de uma visão noturna, quando o sono costuma apoderar-se dos homens,"
+     "texto": "No horror de uma visão nocturna, quando o sono costuma apoderar-se dos homens,"
     },
     {
      "n": 14,
@@ -338,7 +338,7 @@
     },
     {
      "n": 16,
-     "texto": "Parou alguém diante (de mim), cujo rosto eu não conhecia, um espetro diante dos meus olhos, e ouvi uma voz como de branda viração (que dista):"
+     "texto": "Parou alguém diante (de mim), cujo rosto eu não conhecia, um espectro diante dos meus olhos, e ouvi uma voz como de branda viração (que dista):"
     },
     {
      "n": 17,
@@ -431,7 +431,7 @@
     },
     {
      "n": 17,
-     "texto": "Bem-aventurado o homem a quem Deus corrige. Não desprezes, pois, a correção do Omnipotente,"
+     "texto": "Bem-aventurado o homem a quem Deus corrige. Não desprezes, pois, a correcção do Omnipotente,"
     },
     {
      "n": 18,
@@ -536,7 +536,7 @@
     },
     {
      "n": 15,
-     "texto": "Meus irmãos enganaram-me como a torrente, que rapidamente se escoa."
+     "texto": "Meus irmãos enganaram-me como a torrente, que ràpidamente se escoa."
     },
     {
      "n": 16,
@@ -714,7 +714,7 @@
     },
     {
      "n": 6,
-     "texto": "se caminhares com pureza e retidão, logo despertará para te acudir, e fará prosperar a morada da tua justiça,"
+     "texto": "se caminhares com pureza e rectidão, logo despertará para te acudir, e fará prosperar a morada da tua justiça,"
     },
     {
      "n": 7,
@@ -815,7 +815,7 @@
     },
     {
      "n": 8,
-     "texto": "Ele formou, sozinho, a extensão dos céus, e caminha sobre as ondas do mar."
+     "texto": "Ele formou, sòzinho, a extensão dos céus, e caminha sobre as ondas do mar."
     },
     {
      "n": 9,
@@ -1122,7 +1122,7 @@
     },
     {
      "n": 4,
-     "texto": "Sou objeto de riso dos meus amigos, eu que invocava Deus e a quem Deus respondia; objeto de riso o justo, o inocente!..."
+     "texto": "Sou objecto de riso dos meus amigos, eu que invocava Deus e a quem Deus respondia; objecto de riso o justo, o inocente!..."
     },
     {
      "n": 5,
@@ -1206,7 +1206,7 @@
     },
     {
      "n": 25,
-     "texto": "Job faz uma longa enumeração dos males que, por permissão de Deus, sobrevêm a toda a classe de pessoas e de povos, para mostrar não tanto o seu poder como a independência em que está a sua ação dos méritos dessas pessoas e povos."
+     "texto": "Job faz uma longa enumeração dos males que, por permissão de Deus, sobrevêm a toda a classe de pessoas e de povos, para mostrar não tanto o seu poder como a independência em que está a sua acção dos méritos dessas pessoas e povos."
     },
     {
      "n": 26,
@@ -1295,7 +1295,7 @@
     },
     {
      "n": 20,
-     "texto": "Duas coisas somente te peço (ó Senhor) que me faças, e então não me esconderei da tua face:"
+     "texto": "Duas coisas sòmente te peço (ó Senhor) que me faças, e então não me esconderei da tua face:"
     },
     {
      "n": 21,
@@ -1323,7 +1323,7 @@
     },
     {
      "n": 27,
-     "texto": "Tu puseste os meus pés no cepo, observaste todas as minhas veredas (ou ações), consideraste os vestígios de meus pés,"
+     "texto": "Tu puseste os meus pés no cepo, observaste todas as minhas veredas (ou acções), consideraste os vestígios de meus pés,"
     },
     {
      "n": 28,
@@ -1501,7 +1501,7 @@
     },
     {
      "n": 19,
-     "texto": "- aos quais somente foi dada esta terra, sem que passasse nenhum estranho por meio deles. -"
+     "texto": "- aos quais sòmente foi dada esta terra, sem que passasse nenhum estranho por meio deles. -"
     },
     {
      "n": 20,
@@ -1691,7 +1691,7 @@
     },
     {
      "n": 6,
-     "texto": "Ele me reduziu a ser objeto de riso do povo, sou um (homem) a quem se cospe no rosto."
+     "texto": "Ele me reduziu a ser objecto de riso do povo, sou um (homem) a quem se cospe no rosto."
     },
     {
      "n": 7,
@@ -1711,7 +1711,7 @@
     },
     {
      "n": 11,
-     "texto": "Os meus dias passaram, os meus projetos ruíram, os projetos queridos do meu coração."
+     "texto": "Os meus dias passaram, os meus projectos ruíram, os projectos queridos do meu coração."
     },
     {
      "n": 12,
@@ -1744,7 +1744,7 @@
     },
     {
      "n": 2,
-     "texto": "Até quando dirás palavras vãs? Reflete primeiro, e depois falaremos."
+     "texto": "Até quando dirás palavras vãs? Reflecte primeiro, e depois falaremos."
     },
     {
      "n": 3,
@@ -1978,7 +1978,7 @@
     },
     {
      "n": 8,
-     "texto": "Como um sonho, ele voa, e não será achado, desaparecerá como uma visão noturna."
+     "texto": "Como um sonho, ele voa, e não será achado, desaparecerá como uma visão nocturna."
     },
     {
      "n": 9,
@@ -2292,7 +2292,7 @@
     },
     {
      "n": 21,
-     "texto": "Submete-te, pois, a Deus, e lerás paz, e assim colherás ótimos frutos."
+     "texto": "Submete-te, pois, a Deus, e lerás paz, e assim colherás óptimos frutos."
     },
     {
      "n": 22,
@@ -2320,7 +2320,7 @@
     },
     {
      "n": 28,
-     "texto": "Formarás os teus projetos, que terão feliz êxito, e a luz brilhará em teus caminhos."
+     "texto": "Formarás os teus projectos, que terão feliz êxito, e a luz brilhará em teus caminhos."
     },
     {
      "n": 29,
@@ -2389,7 +2389,7 @@
     },
     {
      "n": 14,
-     "texto": "Assim cumprirá em mim a sua vontade, e ainda tem à mão outros muitos projetos semelhantes."
+     "texto": "Assim cumprirá em mim a sua vontade, e ainda tem à mão outros muitos projectos semelhantes."
     },
     {
      "n": 15,
@@ -2410,7 +2410,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Por que não reserva o Omnipotente para si os seus tempos, e os seus fiéis não veem os dias dele?"
+     "texto": "Por que não reserva o Omnipotente para si os seus tempos, e os seus fiéis não vêem os dias dele?"
     },
     {
      "n": 2,
@@ -2738,7 +2738,7 @@
     },
     {
      "n": 10,
-     "texto": "Cortando os penhascos, abre galerias, e os seus olhos veem aí tudo o que há de precioso."
+     "texto": "Cortando os penhascos, abre galerias, e os seus olhos vêem aí tudo o que há de precioso."
     },
     {
      "n": 11,
@@ -2956,7 +2956,7 @@
     },
     {
      "n": 9,
-     "texto": "Agora cheguei a ser o assunto das cantigas, o objeto dos escárnios destes tais."
+     "texto": "Agora cheguei a ser o assunto das cantigas, o objecto dos escárnios destes tais."
     },
     {
      "n": 10,
@@ -3117,7 +3117,7 @@
     },
     {
      "n": 17,
-     "texto": "ou comi sozinho o meu bocado de pão, e o órfão não comeu dele?"
+     "texto": "ou comi sòzinho o meu bocado de pão, e o órfão não comeu dele?"
     },
     {
      "n": 18,
@@ -3335,7 +3335,7 @@
     },
     {
      "n": 15,
-     "texto": "Em sonho, em visão noturna, quando o sono cai sobre os homens, quando estão dormindo no seu leito,"
+     "texto": "Em sonho, em visão nocturna, quando o sono cai sobre os homens, quando estão dormindo no seu leito,"
     },
     {
      "n": 16,
@@ -3552,7 +3552,7 @@
     },
     {
      "n": 35,
-     "texto": "Job falou nesciamente, as sua palavras não foram acertadas."
+     "texto": "Job falou nèsciamente, as sua palavras não foram acertadas."
     },
     {
      "n": 36,
@@ -3674,7 +3674,7 @@
     },
     {
      "n": 10,
-     "texto": "Abrir-lhes-ã os ouvidos à correção e lhes falará para que se convertam da sua iniquidade."
+     "texto": "Abrir-lhes-ã os ouvidos à correcção e lhes falará para que se convertam da sua iniquidade."
     },
     {
      "n": 11,
@@ -3686,7 +3686,7 @@
     },
     {
      "n": 13,
-     "texto": "Os corações ímpios entregam-se à cólera, não clamam a Deus, quando se veem aprisionados."
+     "texto": "Os corações ímpios entregam-se à cólera, não clamam a Deus, quando se vêem aprisionados."
     },
     {
      "n": 14,
@@ -3734,7 +3734,7 @@
     },
     {
      "n": 25,
-     "texto": "Todos os homens o veem, mas cada um o vê de longe."
+     "texto": "Todos os homens o vêem, mas cada um o vê de longe."
     },
     {
      "n": 26,
@@ -3819,7 +3819,7 @@
     },
     {
      "n": 12,
-     "texto": "em todas as direções, girando por onde quer que as conduz a vontade daquele que as governa, executando tudo quanto ele lhes manda sobre a face de toda a terra,"
+     "texto": "em todas as direcções, girando por onde quer que as conduz a vontade daquele que as governa, executando tudo quanto ele lhes manda sobre a face de toda a terra,"
     },
     {
      "n": 13,
@@ -3855,7 +3855,7 @@
     },
     {
      "n": 21,
-     "texto": "Agora (os homens) não veem a luz, (porque) o ar repentinamente se condensa em nuvens; mas (daqui a um instante, já poderão ver, porque) um vento que passa as dissipará."
+     "texto": "Agora (os homens) não vêem a luz, (porque) o ar repentinamente se condensa em nuvens; mas (daqui a um instante, já poderão ver, porque) um vento que passa as dissipará."
     },
     {
      "n": 22,
@@ -4020,7 +4020,7 @@
     },
     {
      "n": 37,
-     "texto": "Quem pode contar exatamente as nuvens e inclinar as urnas do céu,"
+     "texto": "Quem pode contar exactamente as nuvens e inclinar as urnas do céu,"
     },
     {
      "n": 38,
@@ -4416,11 +4416,11 @@
     },
     {
      "n": 2,
-     "texto": "Sei que podes tudo, e que nenhum projeto é, para ti, demasiado difícil."
+     "texto": "Sei que podes tudo, e que nenhum projecto é, para ti, demasiado difícil."
     },
     {
      "n": 3,
-     "texto": "Quem é este que, falto de ciência, encobre o conselho (de Deus)? (Confesso que) falei nesciamente, sobre coisas que me ultrapassam e que eu ignoro."
+     "texto": "Quem é este que, falto de ciência, encobre o conselho (de Deus)? (Confesso que) falei nèsciamente, sobre coisas que me ultrapassam e que eu ignoro."
     },
     {
      "n": 4,
@@ -4428,7 +4428,7 @@
     },
     {
      "n": 5,
-     "texto": "Os meus ouvidos haviam escutado falar de ti, mas agora os meus próprios olhos te veem."
+     "texto": "Os meus ouvidos haviam escutado falar de ti, mas agora os meus próprios olhos te vêem."
     },
     {
      "n": 6,
@@ -4436,11 +4436,11 @@
     },
     {
      "n": 7,
-     "texto": "O Senhor, depois que falou naquela sorte de Job, disse a Elifaz de Teman: O meu furor se acendeu contra ti e contra os teus dois amigos, porque vós não falastes de mim, retamente, como falou o meu servo Job."
+     "texto": "O Senhor, depois que falou naquela sorte de Job, disse a Elifaz de Teman: O meu furor se acendeu contra ti e contra os teus dois amigos, porque vós não falastes de mim, rectamente, como falou o meu servo Job."
     },
     {
      "n": 8,
-     "texto": "Tomai, pois, sete touros e sete carneiros, e ide ao meu servo Job. Oferecei um holocausto por vós; o meu servo Job orará por vós. Admitirei propicio a sua intercessão para que se vos não impute esta estultícia, porque vós não falastes de mim o que era reto, como o meu servo Job."
+     "texto": "Tomai, pois, sete touros e sete carneiros, e ide ao meu servo Job. Oferecei um holocausto por vós; o meu servo Job orará por vós. Admitirei propicio a sua intercessão para que se vos não impute esta estultícia, porque vós não falastes de mim o que era recto, como o meu servo Job."
     },
     {
      "n": 9,

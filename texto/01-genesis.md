@@ -12,7 +12,7 @@
 **8** E Deus chamou ao firmamento céu. E fez-se tarde e manhã, (e foi) o segundo dia.  
 **9** Disse também Deus: As águas, que estão debaixo do céu, juntem-se num só lugar, e apareça o (elemento) árido. E assim se fez.  
 **10** E Deus chamou ao (elemento) árido terra, e ao conjunto das águas chamou mares. E Deus viu que isto era bom.  
-**11** Deus disse: produza a terra verdura, plantas germinadoras de semente e árvores frutíferas, que deem fruto segundo a sua espécie, cuja semente esteja nelas mesmas (para se reproduzirem) sobre a terra. E assim se fez.  
+**11** Deus disse: produza a terra verdura, plantas germinadoras de semente e árvores frutíferas, que dêem fruto segundo a sua espécie, cuja semente esteja nelas mesmas (para se reproduzirem) sobre a terra. E assim se fez.  
 **12** E a terra produziu verdura, plantas germinadoras de semente e árvores que dão fruto, e cada uma das quais tem semente segundo a sua espécie. E viu Deus que isto era bom.  
 **13** E fez-se tarde e manhã, (e foi) o terceiro dia.  
 **14** Disse também Deus: Sejam feitos luzeiros no firmamento do céu, que separem o dia da noite e sirvam para sinais, e que distingam as estações, os dias e os anos,  
@@ -47,12 +47,12 @@
 **9** E o Senhor Deus tinha produzido da terra toda a casta de árvores formosas à vista, e de frutos doces para comer; e a árvore da vida no meio do paraíso, e a árvore da ciência do bem e do mal.  
 **10** Do Eden saía um rio para regar o jardim, o qual dali se dividiu em quatro braços.  
 **11** O nome do primeiro é Fison, e é aquele que torneia todo o pais de Evilath, onde se encontra o ouro.  
-**12** E o ouro deste país é ótimo; ali (também) se acha o bdélio e a pedra ónix.  
+**12** E o ouro deste país é óptimo; ali (também) se acha o bdélio e a pedra ónix.  
 **13** O nome do segundo rio é Geon, este é aquele que torneia toda a terra da Etiópia.  
 **14** O nome, porém, do terceiro rio é Tigre, que corre para a banda dos Assírios. E o quatro rio é o Eufrates.  
 **15** Tomou, pois, o Senhor Deus o homem, e colocou-o no jardim do Eden, para que o cultivasse e guardasse,  
 **16** E deu-lhe este preceito, dizendo: Come de todas as árvores do paraíso,  
-**17** mas não comas do fruto da árvore da ciência do bem e do mal, porque, em qualquer dia que comeres dele, morrerás indubitavelmente.  
+**17** mas não comas do fruto da árvore da ciência do bem e do mal, porque, em qualquer dia que comeres dele, morrerás indubitàvelmente.  
 **18** Disse mais o Senhor Deus: Não é bom que o homem esteja só: façamos-lhe um adjutório semelhante a ele.  
 **19** Tendo, pois, o Senhor Deus formado da terra todos os animais terrestres, e todas as aves do céu, levou-os diante de Adão, para este ver como os havia de chamar: e todo o nome que Adão pôs aos animais vivos, esse é o seu verdadeiro nome.  
 **20** E Adão pôs nomes convenientes a todos os animais (domésticos), a todas as aves do céu, e a todos os animais selváticos: mas não se achava para Adão um adjutório semelhante a ele.  
@@ -201,7 +201,7 @@
 **20** A água elevou-se quinze côvados acima delas,  
 **21** Toda a carne que se movia sobre a terra pereceu: as aves, os animais domesticados, as feras e todos os répteis que andam de rastos sobre a terra, e todos os homens.  
 **22** Tudo o que respira e tem vida sobre a terra, tudo morreu.  
-**23** Foram exterminados todos os sere.s (vivos) que havia sobre a terra, desde o homem até às bestas, tanto os répteis como as aves do céu, tudo foi exterminado da terra: ficou somente Noé, e os que estavam com ele na arca.  
+**23** Foram exterminados todos os sere.s (vivos) que havia sobre a terra, desde o homem até às bestas, tanto os répteis como as aves do céu, tudo foi exterminado da terra: ficou sòmente Noé, e os que estavam com ele na arca.  
 **24** As águas cobriram a terra durante cento e cinquenta dias.  
 
 ## Capítulo 8
@@ -218,7 +218,7 @@
 **10** Depois de ter esperado outros sete dias, novamente deitou a pomba fora da arca,  
 **11** a qual voltou a ele pela tarde, trazendo no bico um ramo de oliveira com as folhas verdes. Entendeu, pois, Noé que as águas já não cobriam a terra.  
 **12** Contudo esperou outros sete dias e mandou a pomba, que não tornou mais a ele.  
-**13** Portanto, no ano seiscentos e um (da vida de Noé), no primeiro mês, no primeiro dia do mês, as águas deixavam a terra: Noé, descoberto o teto da arca, olhou e viu que a superfície da terra se estava a secar.  
+**13** Portanto, no ano seiscentos e um (da vida de Noé), no primeiro mês, no primeiro dia do mês, as águas deixavam a terra: Noé, descoberto o tecto da arca, olhou e viu que a superfície da terra se estava a secar.  
 **14** No segundo mês, no vigésimo sétimo dia do mês, a terra ficou seca.  
 **15** Então Deus falou a Noé, dizendo:  
 **16** sai da arca, tu e tua mulher, teus filhos e as mulheres de teus filhos contigo.  
@@ -234,7 +234,7 @@
 **1** Deus abençoou Noé e seus filhos, e disse-lhes: crescei e multiplicai-vos, e enchei a terra.  
 **2** Temam e tremam na vossa presença todos os animais da terra, todas as aves do céu, tudo o que se move sobre a terra e todos os peixes do mar: todos ficam sujeitos ao vosso poder.  
 **3** Tudo o que Se move e vive será vosso alimento: eu vos dou todas estas coisas, como (vos dei) os legumes verdes.  
-**4** Somente não comereis carne com sangue,  
+**4** Sòmente não comereis carne com sangue,  
 **5** porque eu vingarei o vosso sangue da mão de todos os animais (que o derramarem); e ao homem que matar seu irmão, pedirei contas da vida deste homem.  
 **6** Todo o que derramar o sangue humano, (será castigado) com a efusão do seu próprio sangue, porque o homem foi feito à imagem de Deus.  
 **7** Crescei, pois, e multiplicai-vos, espalhai-vos sobre a terra e enchei-a.  
@@ -281,7 +281,7 @@
 **16** Hete, (sendo também o pai dos) Jebuseus, Amorreus, Gergeseus,  
 **17** Heveus, Araceus, Sineus,  
 **18** Aradeus, Samareus e Amateus. Depois disto, espalharam-se as famílias dos Cananeus,  
-**19** indo os limites dos seus territórios, desde Sidónia, na direção de Gerara, até Gaza, e, na direção de Sodoma, Gomorra, Adamam e Seboim, até Lesa.  
+**19** indo os limites dos seus territórios, desde Sidónia, na direcção de Gerara, até Gaza, e, na direcção de Sodoma, Gomorra, Adamam e Seboim, até Lesa.  
 **20** Estes são os filhos de Cam, segundo as suas famílias, línguas, regiões e nações.  
 **21** De Sem, pai de todos os filhos de Heber e irmão mais velho de Jafeth, nasceram também filhos.  
 **22** Filhos de Sem: Elam, Assur, Arfaxad, Lud e Arão.  
@@ -342,21 +342,21 @@
 **7** O Senhor apareceu a Abrão e disse-lhe: darei esta terra aos teus descendentes. Naquele lugar, (Abrão) edificou um altar ao Senhor, que lhe tinha aparecido.  
 **8** Passando dali ao monte, que estava ao oriente de Betel, ai levantou a sua tenda, tendo Betel ao ocidente, e Hai ao oriente. Aí edificou também um altar ao Senhor, e invocou o seu nome.  
 **9** Abrão continuou a sua viagem, andando e avançando para o meio-dia.  
-**10** Sobreveio, porém, uma fome no país, e Abrão desceu ao Egito, para ai viver algum tempo, porque a fome era muita no (seu) pais.  
-**11** Quando estava perto de entrar no Egito disse a Sarai, sua mulher: conheço que és uma mulher formosa  
+**10** Sobreveio, porém, uma fome no país, e Abrão desceu ao Egipto, para ai viver algum tempo, porque a fome era muita no (seu) pais.  
+**11** Quando estava perto de entrar no Egipto disse a Sarai, sua mulher: conheço que és uma mulher formosa  
 **12** e que, quando os Egípcios te virem, dirão: é sua mulher - e matar-me-ão, conservando-te a ti.  
 **13** Dize, pois, te peço, que és minha irmã, para que eu seja bem tratado por causa de ti, e me conservem a vida, em atenção a ti.  
-**14** Tendo pois Abrão entrado no Egito, viram os Egípcios que aquela mulher era muito formosa.  
+**14** Tendo pois Abrão entrado no Egipto, viram os Egípcios que aquela mulher era muito formosa.  
 **15** Os grandes de Faraó, vendo-a, gabaram-na muito diante dele: e a mulher foi levada ao palácio do Faraó.  
 **16** Trataram bem Abrão, por causa dela, e ele teve ovelhas, bois, jumentos, servos, servas, jumentas e camelos.  
 **17** O Senhor, porém, feriu Faraó e a sua casa com grandíssimas pragas, por causa de Sarai, mulher de Abrão.  
 **18** Então Faraó chamou Abrão e disse-lhe: por que te houveste comigo desta sorte? Por que não declaraste que ela era tua mulher?  
 **19** Por que disseste que ela era tua irmã, para que eu a tomasse por minha mulher? Agora, pois, aí tens a tua mulher, toma-a e vai-te.  
-**20** E Faraó deu ordens a seus homens para cuidarem de Abrão, e eles o acompanharam (até à saída do Egito) com sua mulher e com tudo o que possuía.  
+**20** E Faraó deu ordens a seus homens para cuidarem de Abrão, e eles o acompanharam (até à saída do Egipto) com sua mulher e com tudo o que possuía.  
 
 ## Capítulo 13
 
-**1** Abrão, pois, saiu do Egito com sua mulher e com tudo o que possuía, e Loth com ele, e caminhou para a parte meridional.  
+**1** Abrão, pois, saiu do Egipto com sua mulher e com tudo o que possuía, e Loth com ele, e caminhou para a parte meridional.  
 **2** Era Abrão muito rico em gado, ouro e prata.  
 **3** Voltou pelo caminho, por onde tinha vindo do meio-dia até Betei, até ao lugar onde primeiro tinha levantado a (sua) tenda, entre Betei e Hai,  
 **4** no lugar onde estava o altar que tinha levantado antes, e ai invocou o nome do Senhor.  
@@ -365,7 +365,7 @@
 **7** Daqui nasceu uma contenda entre os pastores dos rebanhos de Abrão e os de Loth. Cananeus e Fereseus habitavam, então, naquela terra.  
 **8** Disse, pois, Abrão a Loth: peço-te que não haja contendas entre mim e ti, nem entre os meus pastores e os teus pastores, porque somos irmãos.  
 **9** Eis diante de ti todo o país, rogo-te que te apartes de mim: se fores para a esquerda, eu tomarei para a direita; se escolheres a direita, eu irei para a esquerda.  
-**10** Loth, pois, levantando os olhos, contemplou toda a região do Jordão, a qual, antes que o Senhor destruísse Sodoma e Gomorra, era toda regada de água, como o paraíso do Senhor, e como o Egito, do lado de Segor.  
+**10** Loth, pois, levantando os olhos, contemplou toda a região do Jordão, a qual, antes que o Senhor destruísse Sodoma e Gomorra, era toda regada de água, como o paraíso do Senhor, e como o Egipto, do lado de Segor.  
 **11** Loth escolheu para si a região do Jordão, e retirou-se para o oriente: assim se separaram um do outro.  
 **12** Abrão habitou na terra de Canaan, e Loth nas cidades que estavam ao redor do Jordão, e fixou a sua residência em Sodoma.  
 **13** Ora os homens de Sodoma eram péssimos, e grandes pecadores diante de Deus.  
@@ -396,20 +396,20 @@
 **17** Quando voltava de derrotar Codorlaomor e os reis Abrão que estavam com ele, saiu-lhe ao encontro o rei de Sodoma, no vale de Save, que é o vale do Rei.  
 **18** E Melquisedech, rei de Salém, trazendo pão e vinho, porque era sacerdote do Deus Altíssimo,  
 **19** o abençoou e lhe disse: bendito esteja Abrão pelo Deus Altíssimo, que criou o céu e a terra,  
-**20** e bendito seja o Deus Altíssimo por cuja proteção os inimigos estão nas tuas mãos. E (Abrão) deu-lhe o dizimo de tudo.  
+**20** e bendito seja o Deus Altíssimo por cuja protecção os inimigos estão nas tuas mãos. E (Abrão) deu-lhe o dizimo de tudo.  
 **21** O rei de Sodoma disse a Abrão: dá-me os homens, e toma para ti o resto.  
 **22** Abrão respondeu-lhe: levanto a minha mão para o Senhor Deus Altíssimo, possuidor do céu e da terra.  
 **23** (e juro) que não receberei nada de tudo o que te pertence, desde o fio de trama até à correia dos sapatos, para que não digas: eu enriqueci Abrão;  
-**24** há a excetuar aquilo que estes jovens comeram, e a porção dos homens que vieram comigo, Aner, Escol e Mambré: estes hão-de receber a sua parte.  
+**24** há a exceptuar aquilo que estes jovens comeram, e a porção dos homens que vieram comigo, Aner, Escol e Mambré: estes hão-de receber a sua parte.  
 
 ## Capítulo 15
 
-**1** Passado isto, falou o Senhor a Abrão numa visão, dizendo: não temas, Abrão, eu sou o teu protetor e a tua recompensa (será) excessivamente grande.  
+**1** Passado isto, falou o Senhor a Abrão numa visão, dizendo: não temas, Abrão, eu sou o teu protector e a tua recompensa (será) excessivamente grande.  
 **2** Abrão respondeu; Senhor Deus, que me darás tu? Eu irei sem filhos, e o herdeiro da minha casa é este Eliezer de Damasco.  
 **3** E acrescentou Abrão: a mim não me deste filhos, e meu escravo será meu herdeiro.  
 **4** Imediatamente o Senhor lhe dirigiu a palavra, dizendo: este não será o teu herdeiro, mas terás por herdeiro aquele que nascer de ti.  
 **5** Depois conduziu-o fora, e disse-lhe: olha para o céu e conta, se podes, as estrelas. Depois acrescentou: assim será a tua descendência.  
-**6** Creu Abrão em Deus, e (este ato de fé) lhe foi imputado como justiça.  
+**6** Creu Abrão em Deus, e (este acto de fé) lhe foi imputado como justiça.  
 **7** Disse-lhe mais o Senhor: eu sou o Senhor que te tirei de Ur dos Caldeus, para te dar esta terra, e a possuíres.  
 **8** Abrão respondeu: Senhor Deus, por onde poderei eu conhecer que a hei-de possuir?  
 **9** E o Senhor continuou: toma-me (para sacrificar) uma vaca de três anos, uma cabra de três anos, um carneiro de três anos, e também uma rola e uma pomba.  
@@ -421,7 +421,7 @@
 **15** Tu, porém, irás em paz para teus pais, e serás sepultado numa ditosa velhice.  
 **16** Mas, à quarta geração, (os teus) voltarão para aqui, porque as iniquidades dos Amorreus não estão ainda completas.  
 **17** Quando, pois, se pôs o sol, formaram-se densas trevas, apareceu um forno fumegante e um facho ardente, que passavam pelo meio dos animais divididos.  
-**18** Naquele dia fez o Senhor aliança com Abrão, dizendo: darei à tua descendência esta terra, desde o rio do Egito até ao grande rio Eufrates,  
+**18** Naquele dia fez o Senhor aliança com Abrão, dizendo: darei à tua descendência esta terra, desde o rio do Egipto até ao grande rio Eufrates,  
 **19** os Cineus, os Cenezeus, os Oedmoneus,  
 **20** os Heteus, os Ferezeus e também os Rafaim,  
 **21** os Amorreus, os Cananeus, os Gergeseus e os Jebuseus.  
@@ -437,7 +437,7 @@
 **7** Tendo-a o anjo do Senhor achado no deserto junto da fonte, que está no caminho de Sur no deserto,  
 **8** disse-lhe: Agar, escrava de Sarai, donde vens e para onde vais? Ela respondeu: fujo da face de Sarai, minha senhora.  
 **9** E o anjo do Senhor disse-lhe: volta para a tua senhora, e humilha-te debaixo da sua mão.  
-**10** E acrescentou: multiplicarei extraordinariamente a tua descendência e a farei tão numerosa que se não poderá contar.  
+**10** E acrescentou: multiplicarei extraordinàriamente a tua descendência e a farei tão numerosa que se não poderá contar.  
 **11** Disse ainda mais: eis que concebeste, darás à luz um filho e lhe porás o nome de Ismael, porque o Senhor te ouviu na tua aflição.  
 **12** Este será como um cavalo selvagem: a sua mão (se levantará) contra todos, e as mãos de todos (se levantarão) contra ele; levantará as suas tendas defronte de todos os seus irmãos.  
 **13** Então (Agar) invocou o nome do Senhor que lhe falava, chamando-lhe Atta-El-Roi porque, dizia ela, não vi eu, aqui mesmo, o Deus que me via?  
@@ -448,11 +448,11 @@
 ## Capítulo 17
 
 **1** Mas, quando (Abrão) chegou à idade de noventa e nove anos, o Senhor apareceu-lhe e disse-lhe: Eu (sou) o Deus omnipotente; anda em minha presença e sê perfeito.  
-**2** Farei a minha aliança entre mim e ti, e te multiplicarei extraordinariamente.  
+**2** Farei a minha aliança entre mim e ti, e te multiplicarei extraordinàriamente.  
 **3** Abrão prostrou-se com o rosto por terra.  
 **4** Deus disse-lhe: Eis minha aliança contigo: tu serás pai de muitas gentes  
 **5** e não mais serás chamado com o nome de Abrão, mas chamar-te-ás Abraão, porque te destinei para pai de muitas gentes.  
-**6** Eu te farei crescer (na tua posteridade) extraordinariamente, farei de ti nações, e de ti sairão reis.  
+**6** Eu te farei crescer (na tua posteridade) extraordinàriamente, farei de ti nações, e de ti sairão reis.  
 **7** E estabelecerei a minha que eu seja o teu Deus, e da tua descendência, depois de ti, no decurso das suas gerações, por um pacto eterno, para que eu seja o teu Deus, e da tua descendência, depois de ti.  
 **8** Darei a ti e á tua posteridade a terra da tua peregrinação, (que é) toda a terra de Canaan, em possessão eterna.  
 **9** Disse mais Deus a Abraão: tu, pois, guardarás a minha aliança, tu e os teus descendentes depois de ti, nas suas gerações.  
@@ -466,7 +466,7 @@
 **17** Abraão prostrou-se com o rosto por terra e riu-se, dizendo no seu coração: é possível que a um homem de cem anos nasça um filho? e que Sara dê à luz aos noventa?  
 **18** E disse a Deus: Oxalá que Ismael viva em tua presença!  
 **19** Deus respondeu a Abraão: Sara, tua mulher, te dará à luz um filho, e lhe porás o nome de Isaac, e farei o meu pacto com ele e com a sua descendência, depois dele, por uma aliança eterna.  
-**20** Eu te ouvi também acerca de Ismael: abençoá-lo-ei, fá-lo-ei crescer e o multiplicarei extraordinariamente: gerará doze príncipes e farei dele uma grande nação.  
+**20** Eu te ouvi também acerca de Ismael: abençoá-lo-ei, fá-lo-ei crescer e o multiplicarei extraordinàriamente: gerará doze príncipes e farei dele uma grande nação.  
 **21** Mas o meu pacto, firmá-lo-ei com Isaac, que Sara te dará à luz no próximo ano, nesta mesma época.  
 **22** Acabada que foi esta sua conversação com ele, retirou-se Deus de Abraão.  
 **23** Tomou, pois, Abraão seu filho Ismael, todos os escravos nascidos em sua casa, todos os que tinha comprado, e, em geral, todos os homens de sua casa, e os circuncidou logo no mesmo dia, como Deus lhe tinha ordenado.  
@@ -496,7 +496,7 @@
 **17** Senhor disse: acaso poderei eu ocultar a Abraão o que estou para fazer.  
 **18** havendo de ser, como será, pai duma nação numerosíssima e poderosíssima, e havendo todas as nações da terra de ser benditas nele?  
 **19** Escolhi-o, com efeito, para ordenar a seus filhos e à sua casa, depois dele, que guardem os caminhos do Senhor e que pratiquem a equidade e a justiça, para que o Senhor cumpra a favor de Abraão tudo o que lhe prometeu.  
-**20** Disse, pois, o Senhor; o clamor de Sodoma e de Gomorra aumentou, e o seu pecado agravou-se extraordinariamente.  
+**20** Disse, pois, o Senhor; o clamor de Sodoma e de Gomorra aumentou, e o seu pecado agravou-se extraordinàriamente.  
 **21** Descerei e verei se as suas obras correspondem ao clamor que chegou até mim; ou, se assim não é, para o saber.  
 **22** Partiram dali e foram para Sodoma; mas Abraão estava ainda diante do Senhor.  
 **23** Aproximando-se (dele), disse: perderás tu o justo com o ímpio?  
@@ -504,7 +504,7 @@
 **25** Longe de ti que faças tal coisa, que mates o justo com o ímpio, e o justo seja tratado com o ímpio. Longe isso de ti! Tu que julgas toda a terra, de nenhuma sorte farás tal juízo.  
 **26** O Senhor disse-lhe: se eu achar no meio da cidade de Sodoma cinquenta justos, perdoarei por amor deles a toda a cidade.  
 **27** Respondendo Abraão, disse: uma vez que comecei, falarei ao meu Senhor, ainda que eu seja pó e cinza.  
-**28** Que sucederá, se faltarem cinco para os cinquenta justos? Destruirás toda a cidade, porque nela se acham somente quarenta e cinco? E (o Senhor) disse: não a destruirei, se achar nela quarenta e cinco.  
+**28** Que sucederá, se faltarem cinco para os cinquenta justos? Destruirás toda a cidade, porque nela se acham sòmente quarenta e cinco? E (o Senhor) disse: não a destruirei, se achar nela quarenta e cinco.  
 **29** (Abraão) continuou e disse-lhe: e se nela houver quarenta (justos), que farás tu? Não a castigarei, disse o Senhor, por amor dos quarenta.  
 **30** Rogo-te, Senhor, diz (Abraão), que te não indignes, se eu (ainda continuo a) falar. Que farás tu, se lá houver trinta (justos)? Respondeu: se eu achar nela trinta, não farei (a sua destruição).  
 **31** Visto que comecei, disse Abraão, falarei (ainda) ao meu Senhor. E se ali forem achados vinte? Respondeu: não a arruinarei por amor dos vinte.  
@@ -560,7 +560,7 @@
 **4** Abimelech, que não a tinha tocado, disse: Senhor, matarás tu assim mesmo um inocente?  
 **5** Porventura não me disse ele: ela é minha irmã? e não me disse ela: ele é meu irmão? Fiz isto na simplicidade do meu coração, e com pureza das minhas mãos.  
 **6** Deus disse-lhe: Sei que procedeste com um coração simples, e, por isso, te preservei de pecar contra mim, e não permiti que a tocasses.  
-**7** Agora, pois, entrega a mulher a seu marido, porque ele é profeta, rogará por ti, e viverás; se, porém, não quiseres restitui-la, sabe que morrerás indubitavelmente, tu e tudo o que é teu.  
+**7** Agora, pois, entrega a mulher a seu marido, porque ele é profeta, rogará por ti, e viverás; se, porém, não quiseres restitui-la, sabe que morrerás indubitàvelmente, tu e tudo o que é teu.  
 **8** Abimelech, levantando-se logo, Sendo ainda noite, chamou todos os seus servos, contou-lhes todas estas coisas, e eles ficaram muito atemorizados.  
 **9** Depois Abimelech chamou também Abraão e disse-lhe: que nos fizeste tu? Que mal te fizemos nós para atraíres sobre mim e sobre o meu reino um (tão) grande pecado? Fizeste-nos o que não deveras fazer.  
 **10** E, continuando ainda as suas queixas, disse: o que tiveste em vista fazendo isto?  
@@ -595,7 +595,7 @@
 **18** Levanta-te, toma o menino, tem-no pela mão, porque eu farei dele um grande povo.  
 **19** E Deus abriu-lhe os olhos, e ela, vendo um poço de água, foi a ele, encheu o odre e deu de beber ao menino.  
 **20** E (Deus) foi com ele, que cresceu, habitou no deserto e que, depois de crescido, se tornou frecheiro.  
-**21** Habitou no deserto de Faran, e sua mãe tomou para ele uma mulher do pais do Egito.  
+**21** Habitou no deserto de Faran, e sua mãe tomou para ele uma mulher do pais do Egipto.  
 **22** Por aquele mesmo tempo, Abimelech, acompanhado de Ficol, general do seu exército, disse a Abraão: Deus é contigo em tudo o que fazes.  
 **23** Portanto jura por Deus que me não farás mal, nem aos meus descendentes, nem à minha estirpe, mas que usarás comigo e com a terra onde tens vivido como estrangeiro, da mesma benevolência com que te tratei.  
 **24** Abraão disse: eu o jurarei.  
@@ -669,7 +669,7 @@
 **5** Respondeu o Servo: Se a mulher não quiser vir comigo para esta terra, porventura devo eu reconduzir teu filho para o lugar donde saíste?  
 **6** Abraão disse: Guarda-te de reconduzir jamais para lá o meu filho.  
 **7** O Senhor Deus do céu, que me tirou da casa de meu pai e da terra do meu nascimento, que me falou e me jurou dizendo: A tua estirpe darei esta terra — ele mandará o seu anjo diante de ti, e tomarás lá uma mulher para meu filho.  
-**8** Porém, se a mulher não quiser seguir-te, não estarás obrigado ao juramento: somente não reconduzas para lá o meu filho.  
+**8** Porém, se a mulher não quiser seguir-te, não estarás obrigado ao juramento: sòmente não reconduzas para lá o meu filho.  
 **9** Pôs, portanto, o Servo a mão debaixo da coxa de Abraão, seu Senhor, e jurou-lhe fazer o que lhe tinha sido dito.  
 **10** Tomou dez camelos do rebanho de seu senhor, e partiu, levando consigo de todos os seus bens; pôs-se a caminho, andando para a Mesopotâmia, para a cidade de Nacor.  
 **11** E, tendo pela tarde feito descansar os camelos fora da cidade junto a um poço de água, na ocasião em que as mulheres costumam sair a tirar água, disse:  
@@ -749,7 +749,7 @@
 **15** Hadar, Temia, Jetur, Nafis e Cedma.  
 **16** Estes são os filhos de Ismael, e estes os seus nomes segundo as suas aldeias e os seus acampamentos; eles foram os doze chefes das suas tribos.  
 **17** Os anos da vida de Ismael foram Cento e trinta e sete. Faltando-lhe as forças, morreu e foi unir-se ao seu povo.  
-**18** Seus filhos habitaram desde Hevila até Sur, que olha para o Egito, caminhando para a Assíria, em frente de todos os seus irmãos.  
+**18** Seus filhos habitaram desde Hevila até Sur, que olha para o Egipto, caminhando para a Assíria, em frente de todos os seus irmãos.  
 **19** Esta é a descendência de Isaac, filho de Abraão: Abraão gerou Isaac,  
 **20** o qual, tendo quarenta anos, se casou com Rebeca, filha de Batuel Siro, da Mesopotâmia, irmã de Labão.  
 **21** Isaac orou ao Senhor por sua mulher, porque ela era estéril, e ele o ouviu, e permitiu que Rebeca concebesse.  
@@ -770,7 +770,7 @@
 ## Capítulo 26
 
 **1** Sobrevindo, porém, uma fome naquela terra, depois da esterilidade que tinha havido nos dias de Abraão, Isaac foi ter com Abimelech, rei dos filisteus, a Gerara.  
-**2** O Senhor apareceu-lhe e disse: Não vás ao Egito, mas fica na terra que eu te disser.  
+**2** O Senhor apareceu-lhe e disse: Não vás ao Egipto, mas fica na terra que eu te disser.  
 **3** Habita nela como estrangeiro: eu serei contigo e te abençoarei, porque darei a ti e à tua descendência todas estas regiões, cumprindo o juramento que fiz a Abraão, teu pai.  
 **4** Multiplicarei a tua descendência como as estrelas do céu, e darei à tua posteridade todas estas regiões: nela serão abençoadas todas as nações da terra,  
 **5** porque Abraão obedeceu à minha voz, guardou os meus preceitos, os meus mandamentos, e observou as cerimónias e leis.  
@@ -819,7 +819,7 @@
 **10** a fim de que, quando lho apresentares e ele tiver comido, te abençoe antes de morrer.  
 **11** Ele respondeu: Tu sabes que Esaú, meu irmão, é um homem peludo, e eu não;  
 **12** se meu pai me apalpar e me reconhecer, temo que ele julgue que eu o quis enganar, e que assim eu atraia sobre mim a maldição em lugar de bênção.  
-**13** Sua mãe disse-lhe: Sobre mim caia essa maldição, meu filho: ouve somente a minha voz, e, partindo, traze o que eu disse.  
+**13** Sua mãe disse-lhe: Sobre mim caia essa maldição, meu filho: ouve sòmente a minha voz, e, partindo, traze o que eu disse.  
 **14** Ele foi, trouxe (os cabritos) e deu-os a sua mãe. Ela preparou o guisado, como sabia ser do gosto do pai dele.  
 **15** Vestiu Jacob com a melhor roupa de Esaú, que tinha junto de si, em casa;  
 **16** com as peles dos cabritos envolveu-lhe as mãos, e cobriu a parte nua do pescoço.  
@@ -870,7 +870,7 @@
 **12** Viu (então) em sonhos uma escada posta sobre a terra, cujo cimo tocava o céu, e os anjos de Deus subindo e descendo por ela,  
 **13** e o Senhor apoiado na escada, que lhe dizia: Eu sou o Senhor Deus de Abraão, teu pai e o Deus de Isaac: darei a ti e à tua descendência a terra em que dormes.  
 **14** A tua posteridade será como o pó da terra; dilatar-te-ás para o ocidente, para o oriente, para o setentrião te para o meio-dia, e serão abençoadas em ti e na tua geração todas as tribos da terra.  
-**15** Eu serei o teu protetor, para onde quer que fores, e te reconduzirei a esta terra, e não te abandonarei sem cumprir tudo o que disse.  
+**15** Eu serei o teu protector, para onde quer que fores, e te reconduzirei a esta terra, e não te abandonarei sem cumprir tudo o que disse.  
 **16** Tendo Jacob despertado do sono, disse: na verdade o Senhor está neste lugar, e eu não o sabia:  
 **17** e, cheio de pavor, acrescentou: quão terrível é este lugar! Não é aqui outra coisa senão a casa de Deus e a porta do céu.  
 **18** Levantando-se, pois, Jacob, ao amanhecer, tirou a pedra, que tinha posto debaixo da cabeça e erigiu-a em padrão, derramando óleo sobre ela.  
@@ -961,7 +961,7 @@
 **40** Jacob separou o seu gado, e pôs as varas nos canais diante dos olhos das cabras; tudo o que era branco ou negro pertencia a Labão, e o restante a Jacob, tendo os rebanhos separados entre si.  
 **41** Quando, pois, na primavera, as ovelhas deviam conceber, Jacob punha as varas nos canais da água diante dos olhos dos carneiros e das ovelhas, para que elas concebessem olhando para as varas.  
 **42** Mas, quando as ovelhas concebiam no outono pela segunda vez, não punha as varas. Assim o que era concebido no outono, era para Labão, e o que era concebido na primavera, era para Jacob.  
-**43** Assim tornou-se extraordinariamente rico, teve muitos rebanhos, escravas e escravos, camelos e jumentos.  
+**43** Assim tornou-se extraordinàriamente rico, teve muitos rebanhos, escravas e escravos, camelos e jumentos.  
 
 ## Capítulo 31
 
@@ -1016,7 +1016,7 @@
 **49** O Senhor nos veja e nos julgue, quando nos tivermos separado um do outro.  
 **50** Se tu maltratares minhas filhas, e se tomares outras mulheres além delas, ninguém é testemunha dás nossas palavras. Senão Deus, que está presente (e que nos) vê.  
 **51** Disse mais a Jacob: Eis que o cabeço e a pedra, que eu levantei entre mim e ti,  
-**52** será testemunha: este cabeço bem como esta pedra deem testemunho de que o não passarei, indo contra ti, nem tu o passarás com intento de me fazeres mal.  
+**52** será testemunha: este cabeço bem como esta pedra dêem testemunho de que o não passarei, indo contra ti, nem tu o passarás com intento de me fazeres mal.  
 **53** O Deus de Abraão, o Deus de Nacor, o Deus de seus pais, seja juiz entre nós. Jurou, pois, Jacob por aquele que era temido por seu pai Isaac.  
 **54** E, imoladas as vitimas sobre o monte, convidou seus irmãos para comer pão. Tendo comido, ficaram ali (a passar a noite).  
 **55** Labão, porém, levantando-se antes de amanhecer, beijou os filhos e as filhas, abençoou-os e voltou para sua casa.  
@@ -1087,12 +1087,12 @@
 **4** E, indo ter com seu pai Hemor, disse: Toma esta donzela para minha mulher.  
 **5** Jacob, tendo ouvido isto enquanto os filhos estavam ausentes e ocupados em apascentar os gados, não disse nada enquanto não voltaram.  
 **6** Mas, tendo Hemor, pai de Siquem, ido falar a Jacob.  
-**7** os filhos deste vinham do campo, e, tendo sabido o que acontecera, iraram-se muito, porque (Siquem) tinha feito uma ação vergonhosa contra Israel, violando a filha de Jacob, coisa que se não devia fazer.  
+**7** os filhos deste vinham do campo, e, tendo sabido o que acontecera, iraram-se muito, porque (Siquem) tinha feito uma acção vergonhosa contra Israel, violando a filha de Jacob, coisa que se não devia fazer.  
 **8** Hemor falou-lhes assim: A alma de meu filho Siquem afeiçoou-se fortemente à vossa filha: dai-lha por mulher,  
 **9** e façamos matrimónios reciprocamente: dai-nos as vossas filhas, recebei as nossas,  
 **10** e habitai connosco: a terra está ao vosso dispor, cultivai, negociai, e adquiri possessões.  
 **11** Siquem também disse ao pai e aos irmãos dela: Ache eu graça diante de vós, e darei tudo o que determinardes.  
-**12** Aumentai o dote, pedi dádivas, e eu, de boa vontade, darei o que pedirdes: somente me dai esta donzela por mulher.  
+**12** Aumentai o dote, pedi dádivas, e eu, de boa vontade, darei o que pedirdes: sòmente me dai esta donzela por mulher.  
 **13** Os filhos de Jacob, enfurecidos por causa do estupro da irmã, responderam dolosamente a Siquem e a seu pai:  
 **14** Não podemos fazer o que pedis, nem dar nossa irmã a um homem incircuncidado, porque isto é ilícito e abominável entre nós.  
 **15** Mas poderemos fazer aliança, se quiserdes ser semelhantes a nós, e se entre vós se circuncidar todo o indivíduo do sexo masculino.  
@@ -1103,7 +1103,7 @@
 **20** Tendo Hemor e Siquem entrado a porta da cidade, disseram ao povo:  
 **21** Estes homens são pacíficos e querem habitar connosco; negociem nesta terra e cultivem-na; sendo ela espaçosa e vasta, necessita de cultivadores: receberemos por mulheres as suas filhas, e dar-lhes-emos as nossas.  
 **22** Uma só coisa faz dilatar tanto bem: é o circuncidarmos os nossos varões imitando o rito deles.  
-**23** Com isto, a sua riqueza, gados e tudo o que possuem será nosso: somente acedamos (ao seu desejo) e, habitando juntamente, formaremos um só povo.  
+**23** Com isto, a sua riqueza, gados e tudo o que possuem será nosso: sòmente acedamos (ao seu desejo) e, habitando juntamente, formaremos um só povo.  
 **24** Assentiram todos, sendo circuncidados todos os vairões.  
 **25** Ao terceiro dia, quando a dor das feridas é mais violenta, os dois filhos de Jacob, Simeão e Levi, irmãos de Dina, empunhadas as espadas, entraram resolutamente na cidade, e, mortos todos os varões,  
 **26** trucidaram igualmente Hemor e Siquem, tirando sua irmã Dina da casa de Siquem.  
@@ -1217,10 +1217,10 @@
 **22** Não lhe tireis a vida, nem lhe derrameis o sangue, mas lançai-o nesta cisterna, que está no deserto, e conservai puras as vossas mãos. Dizia isto porque queria livrá-lo das suas mãos e restitui-lo a seu pai.  
 **23** Logo que (José) chegou junto de seus irmãos, despiram-no da túnica talar de várias cores  
 **24** e lançaram-no na cisterna velha, que não tinha água.  
-**25** Depois, sentando-se para comer pão, viram uns viajantes Ismaelitas, que vinham de Galaad, com seus camelos carregados de aromas, resina e mirra, para o Egito.  
+**25** Depois, sentando-se para comer pão, viram uns viajantes Ismaelitas, que vinham de Galaad, com seus camelos carregados de aromas, resina e mirra, para o Egipto.  
 **26** Judá então disse a seus irmãos: de que nos aproveita matar o nosso irmão e ocultar a sua morte?  
 **27** É melhor que se venda aos Ismaelitas, e que se não manchem as nossas mãos, porque é nosso irmão, é nossa carne. Concordaram os irmãos com o que ele diria.  
-**28** Quando passaram os negociantes Madianitas, tiraram-no da cisterna e venderam-no por vinte dinheiros de prata aos Ismaelitas: estes levaram-no para o Egito.  
+**28** Quando passaram os negociantes Madianitas, tiraram-no da cisterna e venderam-no por vinte dinheiros de prata aos Ismaelitas: estes levaram-no para o Egipto.  
 **29** Tendo voltado Ruben à cisterna não encontrou José.  
 **30** Rasgadas as suas vestes, foi ter com seus irmãos-e disse: O rapaz não aparece, e eu para onde irei?  
 **31** Tomaram então a sua túnica, tingiram-na no sangue de um cabrito, que mataram,  
@@ -1229,7 +1229,7 @@
 **34** Rasgadas as suas vestes, cobriu-se de cilício, chorando seu filho por muito tempo.  
 **35** E, tendo-se juntado todos os seus filhos para suavizarem a dor do pai, ele não quis admitir consolação, mas disse: Chorando, descerei até junto de meu filho, à morada dos mortos.  
 **36** Enquanto ele perseverava no pranto,  
-**37** os Madianitas venderam José no Egito a Putifar, eunuco de Faraó, general dos exércitos.  
+**37** os Madianitas venderam José no Egipto a Putifar, eunuco de Faraó, general dos exércitos.  
 
 ## Capítulo 38
 
@@ -1266,15 +1266,15 @@
 
 ## Capítulo 39
 
-**1** José foi, pois, conduzido ao Egito, e Putifar Egípcio, eunuco de Faraó e general do exército, comprou-o aos Ismaelitas, que o tinham levado.  
-**2** O Senhor era com ele, e tudo o que fazia lhe sucedia prosperamente: habitava em casa do seu senhor,  
+**1** José foi, pois, conduzido ao Egipto, e Putifar Egípcio, eunuco de Faraó e general do exército, comprou-o aos Ismaelitas, que o tinham levado.  
+**2** O Senhor era com ele, e tudo o que fazia lhe sucedia pròsperamente: habitava em casa do seu senhor,  
 **3** o qual conhecia muito bem que o Senhor era com ele, o qual (Deus) fazia prosperar em suas mãos tudo o que José fazia.  
 **4** José achou graça diante do Senhor, a quem prestava serviço: tendo recebido dele a superintendência de todas as coisas, governava a casa que lhe tinha sido confiada, e tudo o que lhe fora entregue.  
 **5** O Senhor abençoou a casa do Egípcio, por causa de José, e multiplicou todos os seus bens, tanto em casa como no campo.  
-**6** (Putifar) não tinha outro cuidado que pôr-se à mesa a comer. José era de rosto formoso e aspeto gentil.  
+**6** (Putifar) não tinha outro cuidado que pôr-se à mesa a comer. José era de rosto formoso e aspecto gentil.  
 **7** Pelo que, passados muitos dias, lançou sua senhora os olhos sobre José e disse: Dorme comigo.  
-**8** Mas ele, não consentindo de modo algum na execrável ação, disse-lhe: Se o meu Senhor, tendo entregue tudo nas minhas mãos, não pede contas do que tem em sua casa,  
-**9** e nada há que não esteja em meu poder, ou que me não tenha sido confiada, exceto tu, que és sua mulher, como posso eu cometer esta maldade, e pecar contra o meu Deus?  
+**8** Mas ele, não consentindo de modo algum na execrável acção, disse-lhe: Se o meu Senhor, tendo entregue tudo nas minhas mãos, não pede contas do que tem em sua casa,  
+**9** e nada há que não esteja em meu poder, ou que me não tenha sido confiada, excepto tu, que és sua mulher, como posso eu cometer esta maldade, e pecar contra o meu Deus?  
 **10** Ainda que, todos os dias, a mulher falasse (no mesmo assunto) ao jovem, ele recusava estar com ela.  
 **11** Mas aconteceu que, um dia, entrando José em casa, para fazer o seu serviço, sem que ninguém o visse,  
 **12** ela, segurando-o pela orla do seu vestido, disse-lhe: Dorme comigo. Mas ele, deixando a capa na sua mão, fugiu e saiu para fora.  
@@ -1292,7 +1292,7 @@
 
 ## Capítulo 40
 
-**1** Depois disto, aconteceu que dois eunucos, o copeiro do rei do Egito e o padeiro, pecaram contra o seu senhor.  
+**1** Depois disto, aconteceu que dois eunucos, o copeiro do rei do Egipto e o padeiro, pecaram contra o seu senhor.  
 **2** Faraó, irado contra eles (um era chefe dos copeiros, e outro dos padeiros)  
 **3** mandou-os meter no cárcere do chefe da guarda, no qual estava também preso José.  
 **4** O guarda do cárcere entregou-os a José que também os servia. Estiveram um certo tempo, ali, encarcerados.  
@@ -1305,27 +1305,27 @@
 **11** (Eu tinha) a taça de Faraó na minha mão; tomei as uvas, espremi-as na taça, que tinha na mão, e apresentei de beber a Faraó.  
 **12** José respondeu: A interpretação do sonho é esta: As três varas são três dias ainda (que aqui estarás),  
 **13** depois dos quais se lembrará Faraó dos teus serviços e te restituirá ao antigo cargo: tu lhe apresentarás a taça conforme o teu oficio, como costumavas fazer antes.  
-**14** Somente lembra-te de mim e usa para comigo de compaixão, quando fores feliz; solicita a Faraó que me tire deste cárcere,  
+**14** Sòmente lembra-te de mim e usa para comigo de compaixão, quando fores feliz; solicita a Faraó que me tire deste cárcere,  
 **15** porque, por fraude, fui tirado da terra dos Hebreus, e, estando inocente, fui lançado nesta prisão.  
-**16** Vendo o padeiro-mor que (José) tinha interpretado sabiamente o sonho, disse: Também eu tive um sonho: (parecia-me) ter três cestos de farinha sobre a minha cabeça,  
+**16** Vendo o padeiro-mor que (José) tinha interpretado sàbiamente o sonho, disse: Também eu tive um sonho: (parecia-me) ter três cestos de farinha sobre a minha cabeça,  
 **17** e que, no cesto que estava mais alto, levava todos os manjares, que a arte de padeiro pode preparar, e que as aves comiam dele.  
 **18** José respondeu: A interpretação do sonho é esta: Os três cestos são três dias ainda (que te restam),  
 **19** depois dos quais Faraó mandará tirar-te a cabeça, te suspenderá em uma forca, e as aves devorarão as tuas carnes.  
 **20** (Com efeito) três dias depois, era o dia do nascimento de Faraó, o qual, dando um grande banquete aos seus criados, se lembrou à mesa do copeiro-mór e do padeiro-mór.  
 **21** Restituiu um ao seu lugar, para lhe ministrar a taça,  
 **22** e mandou suspender o outro num patíbulo, pelo que foi comprovada a verdade do intérprete.  
-**23** Não obstante sucederem-lhe prosperamente as coisas, o copeiro-mór esqueceu-se do seu intérprete.  
+**23** Não obstante sucederem-lhe pròsperamente as coisas, o copeiro-mór esqueceu-se do seu intérprete.  
 
 ## Capítulo 41
 
 **1** Dois anos depois Faraó teve um sonho. Parecia-lhe que estava na margem do rio,  
 **2** do qual saiam sete vacas, muito formosas e gordas, as quais pastavam nos lugares palustres.  
 **3** Saiam também outras sete do rio, desfiguradas e consumidas de magreza, as quais pastavam na mesma margem do rio, em lugares cheios de erva:  
-**4** (estas) devoravam aquelas que eram belas de aspeto e gordas de corpo. Tendo Faraó despertado,  
+**4** (estas) devoravam aquelas que eram belas de aspecto e gordas de corpo. Tendo Faraó despertado,  
 **5** adormeceu novamente, e teve outro sonho; sete espigas saiam do mesmo caule, cheias de grãos e formosas;  
 **6** e nasciam também outras tantas espigas delgadas e queimadas do vento,  
 **7** as quais devoravam todas as primeiras que eram tão belas. Despertando Faraó do sono,  
-**8** de manhã, cheio de pavor, mandou chamar todos os adivinhos do Egito e todos os sábios; estando reunidos, contou-lhes o sonho e não havia quem lho explicasse.  
+**8** de manhã, cheio de pavor, mandou chamar todos os adivinhos do Egipto e todos os sábios; estando reunidos, contou-lhes o sonho e não havia quem lho explicasse.  
 **9** Então, finalmente, lembrando-se o copeiro-mór (de José) disse: Confesso a minha falta.  
 **10** Tendo-se o rei irado contra os seus servos, mandou que eu e o padeiro-mór fôssemos metidos no cárcere do chefe da guarda;  
 **11** ai, uma noite, ambos nós tivemos um sonho que presagiava o futuro.  
@@ -1336,7 +1336,7 @@
 **16** José respondeu: Não sou eu, é Deus quem dará uma resposta favorável a Faraó,  
 **17** Faraó, pois, contou o que tinha visto: Parecia-me estar sobre a margem do rio,  
 **18** e que saíam do rio sete vacas, em extremo formosas, e muito gordas, as quais pastavam a erva verde nos lugares palustres;  
-**19** a seguir, atrás destas, vinham outras sete vacas tão disformes e magras, que nunca as vi semelhantes na terra do Egito,  
+**19** a seguir, atrás destas, vinham outras sete vacas tão disformes e magras, que nunca as vi semelhantes na terra do Egipto,  
 **20** as quais devoraram e consumiram as primeiras,  
 **21** Sem que parecessem tê-las engolido, pois ficaram tão macilentas e feias como antes. Acordei, fui novamente oprimido pelo sono,  
 **22** e tive este sonho: sete espigas saíam do mesmo caule cheias (de grãos) e formosas:  
@@ -1346,44 +1346,44 @@
 **26** As sete vacas formosas, e as sete espigas cheias, (de grãos), são sete anos de abundância: no sonho têm a mesma significação.  
 **27** As sete vacas magras e macilentas, que subiram (do rio) após as primeiras, e as sete espigas delgadas e queimadas do vento, são sete anos de fome que estão para vir.  
 **28** Isto cumprir-se-á por esta ordem:  
-**29** virão sete anos de grande fertilidade por toda a terra do Egito,  
+**29** virão sete anos de grande fertilidade por toda a terra do Egipto,  
 **30** depois dos quais se seguirão outros sete anos de tanta esterilidade que será esquecida toda a abundância passada; com efeito, a fome há-de consumir toda a terra.  
 **31** e a grandeza da penúria há-de absorver a grandeza da abundância.  
 **32** Quanto ao segundo sonho que tivestes, que se refere à mesma coisa, é um sinal certo de que se há-de executar a palavra de Deus, e prontamente se cumprirá.  
-**33** Agora, pois, escolha, o rei um homem sábio e ativo, a quem dê autoridade sobre a terra do Egito:  
+**33** Agora, pois, escolha, o rei um homem sábio e activo, a quem dê autoridade sobre a terra do Egipto:  
 **34** este;(homem) estabeleça superintendentes por todas as províncias: a quinta parte dos frutos nos sete anos de fertilidade,  
 **35** que já estão para começar, seja recolhida nos celeiros: guarde-se todo o trigo debaixo do poder do Faraó, conserve-se nas cidades,  
-**36** e tenha-se preparado para a futura fome dos sete anos, que há-de oprimir o Egito. Assim o país não será consumido pela fome.  
+**36** e tenha-se preparado para a futura fome dos sete anos, que há-de oprimir o Egipto. Assim o país não será consumido pela fome.  
 **37** Agradou o conselho a Faraó e a todos os seus ministros.  
 **38** Disse-lhes: Poderemos nós encontrar um homem como este, que esteja (tão) cheio de espírito de Deus?  
 **39** Disse, pois, a José; Visto que Deus te manifestou tudo o que disseste, poderei eu encontrar alguém mais inteligente e sábio do que tu?  
 **40** Tu governarás a minha casa, e, ao mando da tua voz, obedecerá todo o povo; eu não terei sobre ti outra precedência além do trono.  
-**41** Faraó disse mais a José: Dou-te autoridade sobre toda a terra do Egito.  
+**41** Faraó disse mais a José: Dou-te autoridade sobre toda a terra do Egipto.  
 **42** E tirou o anel da sua mão, meteu-o na mão dele, mandou-lhe um hábito branco de linho fino, e pôs-lhe ao pescoço um colar de oiro;  
-**43** fê-lo subir para o seu segundo coche, clamando o pregoeiro que todos ajoelhassem, diante dele, e soubessem que era o superintendente de toda a terra do Egito.  
-**44** Disse também o rei a José: Eu sou Faraó; sem o teu mando ninguém moverá mão ou pé em toda a terra do Egito.  
-**45** Mudou-lhe o nome, e chamou-o, na língua egípcia, Salvador do Mundo. Deu-lhe por mulher a Aseneth, filha de Putifar, sacerdote de Heliópolis. Saiu, portanto, José a correr a terra do Egito,  
-**46** (tinha trinta anos quando se apresentou diante do rei Faraó), e percorreu todas as provindas do Egito.  
-**47** Veio a fertilidade dos sete anos, e, atado o trigo aos molhos, foi recolhido nos celeiros do Egito.  
+**43** fê-lo subir para o seu segundo coche, clamando o pregoeiro que todos ajoelhassem, diante dele, e soubessem que era o superintendente de toda a terra do Egipto.  
+**44** Disse também o rei a José: Eu sou Faraó; sem o teu mando ninguém moverá mão ou pé em toda a terra do Egipto.  
+**45** Mudou-lhe o nome, e chamou-o, na língua egípcia, Salvador do Mundo. Deu-lhe por mulher a Aseneth, filha de Putifar, sacerdote de Heliópolis. Saiu, portanto, José a correr a terra do Egipto,  
+**46** (tinha trinta anos quando se apresentou diante do rei Faraó), e percorreu todas as provindas do Egipto.  
+**47** Veio a fertilidade dos sete anos, e, atado o trigo aos molhos, foi recolhido nos celeiros do Egipto.  
 **48** Recolheu-se também em cada uma das cidades toda a abundância de frutos.  
 **49** Foi tanta a abundância do trigo, que igualava a areia do mar, e a quantidade excedia toda a medida.  
 **50** Nasceram a José dois filhos antes de chegar a fome, os quais lhe foram dados à luz por Aseneth, filha de Putifar, sacerdote de Heliópolis.  
 **51** Ao primogénito pôs o nome de Manassés, dizendo: Deus me fez esquecer de todos os meus trabalhos, e da casa de meu pai.  
 **52** Ao segundo pôs o nome de Efraim, dizendo: Deus me fez crescer, na terra da minha aflição.  
-**53** Passados os sete anos da abundância, que houve no Egito,  
-**54** começaram a vir os sete anos de escassez que José prognosticara. Em todo o mundo, se fez sentir a fome: porém em toda a terra do Egito havia pão.  
-**55** Quando também o Egito sentiu a fome, o povo clamou a Faraó, pedindo sustento. Ele respondeu-lhes: Ide a José e fazei tudo o que ele vos disser.  
+**53** Passados os sete anos da abundância, que houve no Egipto,  
+**54** começaram a vir os sete anos de escassez que José prognosticara. Em todo o mundo, se fez sentir a fome: porém em toda a terra do Egipto havia pão.  
+**55** Quando também o Egipto sentiu a fome, o povo clamou a Faraó, pedindo sustento. Ele respondeu-lhes: Ide a José e fazei tudo o que ele vos disser.  
 **56** Ora a fome crescia todos os dias em toda a terra, e José abriu todos os celeiros, e vendia aos Egípcios, porque também a eles oprimia a fome.  
-**57** De todas as partes vinham ao Egito, para comprar de comer porque a fome era grande em toda a terra.  
+**57** De todas as partes vinham ao Egipto, para comprar de comer porque a fome era grande em toda a terra.  
 
 ## Capítulo 42
 
-**1** Jacob, tendo ouvido dizer que no Egito se vendia de comer, disse a seus filhos: Por que estais a olhar uns para os outros?  
-**2** Ouvi dizer que no Egito se vendia trigo: ide e comprai-nos o necessário, para que possamos viver e não sejamos consumidos pela fome.  
-**3** Os dez irmãos de José foram, pois, ao Egito para comprar trigo.  
+**1** Jacob, tendo ouvido dizer que no Egipto se vendia de comer, disse a seus filhos: Por que estais a olhar uns para os outros?  
+**2** Ouvi dizer que no Egipto se vendia trigo: ide e comprai-nos o necessário, para que possamos viver e não sejamos consumidos pela fome.  
+**3** Os dez irmãos de José foram, pois, ao Egipto para comprar trigo.  
 **4** Benjamim ficou retido em casa por Jacob, o qual tinha dito aos teus irmãos: É de temer que lhe aconteça alguma desgraça na viagem.  
-**5** Eles entraram na terra do Egito com outros que iam comprar (trigo), porque existia a fome na terra de Canaan.  
-**6** José era governador na terra do Egito, e, conforme a sua vontade, se vendia o trigo aos povos. Tendo-se prostrado diante dele os seus irmãos, ele os reconheceu,  
+**5** Eles entraram na terra do Egipto com outros que iam comprar (trigo), porque existia a fome na terra de Canaan.  
+**6** José era governador na terra do Egipto, e, conforme a sua vontade, se vendia o trigo aos povos. Tendo-se prostrado diante dele os seus irmãos, ele os reconheceu,  
 **7** e falava-lhes com aspereza, como a estrangeiros, perguntando-lhes: Donde vindes? Eles responderam: Da terra de Canaan, a fim de comprar o necessário para o sustento.  
 **8** Embora ele reconhecesse os irmãos, todavia não foi reconhecido por eles.  
 **9** Lembrado dos sonhos que em outro tempo tivera, disse-lhes: Vós sois espiões; viestes reconhecer os lugares mais fracos do pais.  
@@ -1402,7 +1402,7 @@
 **22** Ruben, um deles, disse: Porventura não vos disse eu: Não pequeis contra o menino? E vós não me ouvistes. Eis que se requer (de nós) o seu sangue.  
 **23** Ora eles não sabiam que José os entendia, porque lhes falava por intérprete.  
 **24** (José) retirou-se, um momento, e chorou; e, voltando; falou com eles.  
-**25** Tendo mandado tomar e ligar Simeão na presença deles, mandou aos oficiais que enchessem os seus sacos de trigo e repusessem o dinheiro de cada um no seu (respetivo) saco, dando-lhes, além disso, mantimentos para o caminho. E assim se fez.  
+**25** Tendo mandado tomar e ligar Simeão na presença deles, mandou aos oficiais que enchessem os seus sacos de trigo e repusessem o dinheiro de cada um no seu (respectivo) saco, dando-lhes, além disso, mantimentos para o caminho. E assim se fez.  
 **26** Eles levando o trigo sobre os seus jumentos, partiram.  
 **27** Abrindo um deles o saco, para dar de comer ao (seu) jumento na estalagem, vendo o dinheiro, na boca do saco,  
 **28** disse para seus irmãos: Tornaram-me a dar o dinheiro, ei-lo aqui no (meu) saco. E, pasmados e perturbados, disseram uns para os outros: Que é isto que Deus nos fez?  
@@ -1420,7 +1420,7 @@
 ## Capítulo 43
 
 **1** Entretanto a fome oprimia cruelmente toda a terra.  
-**2** Consumidos os viventes que tinham levado do Egito, Jacob disse a seus filhos: Voltai e comprai-nos um pouco de viveres.  
+**2** Consumidos os viventes que tinham levado do Egipto, Jacob disse a seus filhos: Voltai e comprai-nos um pouco de viveres.  
 **3** Judá respondeu: Aquele homem intimou-nos com juramento, dizendo; Não vereis a minha face, se não trouxerdes convosco o vosso irmão mais novo.  
 **4** Se tu, pois, queres mandá-lo connosco, iremos juntos e te compraremos o necessário:  
 **5** mas, se não queres, não iremos, porque aquele homem, como temos dito muitas vezes, declarou-nos: Não vereis a minha face sem (trazerdes) o vosso irmão mais novo.  
@@ -1433,7 +1433,7 @@
 **12** Levai também convosco dobrado dinheiro, e tornai a levar aquele que encontrastes nos sacos, colocado neles talvez por engano.  
 **13** Tomai também o vosso irmão e ide ter com esse homem.  
 **14** O meu Deus omnipotente vo-lo torne propicio, e remeta convosco o vosso irmão que retém preso e este (meu) Benjamim. Quanto a mim, se me hei-de ver privado de meus filhos, seja!  
-**15** Eles, pois, tomaram os presentes, o dinheiro dobrado e Benjamim, desceram ao Egito e apresentaram-se a José.  
+**15** Eles, pois, tomaram os presentes, o dinheiro dobrado e Benjamim, desceram ao Egipto e apresentaram-se a José.  
 **16** Este, tendo-os visto, e a Benjamim com eles, deu ordens ao despenseiro de sua casa, dizendo: Manda entrar para dentro de casa (esses) homens, mata alguns animais e prepara um banquete, porque hão-de comer comigo ao meio-dia.  
 **17** Fez ele o que lhe tinha sido ordenado, e introduziu os homens em casa (de José).  
 **18** Ai, amedrontados, disseram uns para os outros: Por causa daquele dinheiro, que levamos em nossos sacos, somos introduzidos aqui para fazer cair sobre nós esta calúnia e sujeitar violentamente à escravidão nós e os nossos jumentos.  
@@ -1496,29 +1496,29 @@
 **1** José não se podia conter mais diante dos muitos circunstantes, pelo que ordenou que todos saíssem, e, nenhum estranho assistisse ao reconhecimento mútuo.  
 **2** José levantou a voz tão alto chorando, que a ouviram o Egípcios e toda a casa de Faraó.  
 **3** Disse a seus irmãos: Eu sou José; vive ainda meu pai? Não podiam responder-lhe seus irmãos, possuídos dum excessivo terror.  
-**4** Ele, porém, com benignidade. disse-lhes: Aproximai-vos de mim. E, tendo-se eles aproximado, disse: Eu sou José, vosso irmão, a quem vós vendestes para o Egito.  
-**5** Não temais, nem vos pareça ser coisa dura o terdes-me vendido para este país, porque para vossa salvação me mandou Deus adiante de vós para o Egito.  
+**4** Ele, porém, com benignidade. disse-lhes: Aproximai-vos de mim. E, tendo-se eles aproximado, disse: Eu sou José, vosso irmão, a quem vós vendestes para o Egipto.  
+**5** Não temais, nem vos pareça ser coisa dura o terdes-me vendido para este país, porque para vossa salvação me mandou Deus adiante de vós para o Egipto.  
 **6** Portanto há dois anos que principiou a haver fome neste país, e ainda restam cinco anos, nos quais nem se poderá lavrar, nem ceifar.  
 **7** Deus enviou-me adiante para que sejais conservados sobre a terra, e possais ter alimento para viver.  
-**8** Não (foi) por vosso conselho que fui mandado para aqui, mas por vontade de Deus, o qual me tornou quase pai de Faraó, senhor de toda a sua casa, e príncipe em toda a terra do Egito.  
-**9** Apressai-vos, ide a meu pai e lhe direis: Isto te manda dizer teu filho José: Deus fez-me senhor de toda a terra do Egito: vem para a minha companhia, não te demores,  
+**8** Não (foi) por vosso conselho que fui mandado para aqui, mas por vontade de Deus, o qual me tornou quase pai de Faraó, senhor de toda a sua casa, e príncipe em toda a terra do Egipto.  
+**9** Apressai-vos, ide a meu pai e lhe direis: Isto te manda dizer teu filho José: Deus fez-me senhor de toda a terra do Egipto: vem para a minha companhia, não te demores,  
 **10** e habitarás na terra de Gessen; estarás perto de mim, com teus filhos, com filhos de teus filhos, as tuas ovelhas, os teus rebanhos, e tudo o que possuis.  
 **11** Aí te sustentarei, porque ainda restam cinco anos de fome, para que não pereças tu, a tua casa e tudo o que possuis.  
-**12** Eis que os vossos olhos e os olhos de meu irmão Benjamim veem que é a minha boca que vos fala.  
-**13** Contai a meu pai toda a minha glória e tudo o que vistes no Egito; apressai-vos e trazei-mo.  
+**12** Eis que os vossos olhos e os olhos de meu irmão Benjamim vêem que é a minha boca que vos fala.  
+**13** Contai a meu pai toda a minha glória e tudo o que vistes no Egipto; apressai-vos e trazei-mo.  
 **14** E, tendo-se lançado ao pescoço de seu irmão Benjamim para o abraçar, chorou, chorando também (Benjamim) sobre o seu pescoço.  
 **15** José beijou todos os seus irmãos, e chorou sobre cada um deles. Depois disto, afoutaram-se a falar com ele.  
 **16** Ouviu-se e divulgou-se de boca em boca no palácio do rei: Chegaram os irmãos de José. Faraó e todos os seus cortesãos se alegraram com isso.  
 **17** Disse Faraó a José que ordenasse a seus irmãos: Carregai os vossos jumentos, ide para a terra de Canaan,  
-**18** tirai de lá vosso pai e família, e vinde para junto de mim; eu vos darei o que há de melhor no Egito, e comereis o melhor dá terra.  
-**19** Ordena também que tomem carros da terra do Egito para a condução de seus filhos e mulheres, e diz-lhes: Tomai vosso pai, e apressai-vos a vir quanto antes.  
-**20** Não tenhais pena de não trazer todas as vossas alfaias, porque todas as riquezas do Egito serão vossas.  
+**18** tirai de lá vosso pai e família, e vinde para junto de mim; eu vos darei o que há de melhor no Egipto, e comereis o melhor dá terra.  
+**19** Ordena também que tomem carros da terra do Egipto para a condução de seus filhos e mulheres, e diz-lhes: Tomai vosso pai, e apressai-vos a vir quanto antes.  
+**20** Não tenhais pena de não trazer todas as vossas alfaias, porque todas as riquezas do Egipto serão vossas.  
 **21** Os filhos de Israel fizeram como lhes fora mandado. José deu lhes carros, segundo a ordem de Faraó, e mantimentos para o caminho.  
-**22** Mandou também dar a cada um duas vestes: a Benjamim, porém, deu trezentas moedas de prata com cinco ótimas vestes,  
-**23** mandando a seu pai outro tanto de dinheiro e de roupa, acrescentando dez jumentos, que levavam de todas as riquezas do Egito, e outras tantas jumentas, que levavam trigo e pão para o caminho.  
+**22** Mandou também dar a cada um duas vestes: a Benjamim, porém, deu trezentas moedas de prata com cinco óptimas vestes,  
+**23** mandando a seu pai outro tanto de dinheiro e de roupa, acrescentando dez jumentos, que levavam de todas as riquezas do Egipto, e outras tantas jumentas, que levavam trigo e pão para o caminho.  
 **24** Despediu, pois seus irmãos, e, ao partir, disse-lhes: Não alterqueis durante a viagem.  
-**25** Eles, partindo do Egito, chegaram à terra de Canaan, a casa de seu pai Jacob,  
-**26** e deram-lhe a nova, dizendo: José, teu filho, vive, e governa toda a terra do Egito. Ouvindo isto, Jacob não se comoveu, pois não os acreditava.  
+**25** Eles, partindo do Egipto, chegaram à terra de Canaan, a casa de seu pai Jacob,  
+**26** e deram-lhe a nova, dizendo: José, teu filho, vive, e governa toda a terra do Egipto. Ouvindo isto, Jacob não se comoveu, pois não os acreditava.  
 **27** Eles, porém, contavam toda a série dos acontecimentos. Quando (Jacob) viu os carros e tudo o que (José) tinha mandado, reviveu o seu espírito,  
 **28** e disse: Basta-me que ainda viva meu filho José: irei, e vê-lo-ei antes de morrer.  
 
@@ -1526,12 +1526,12 @@
 
 **1** Partiu, pois, Israel com tudo o que possuía foi ao poço do juramento. Tendo imolado aí vítimas ao Deus de seu pai Isaac,  
 **2** ouviu-o numa visão de noite, que o chamava e lhe dizia: Jacob, Jacob! Ao qual ele respondeu: Eis-me aqui.  
-**3** Deus disse-lhe: Eu sou o Deus fortíssimo de teu pai; não temas, vai para o Egito, porque eu te farei ser uma grande nação.  
+**3** Deus disse-lhe: Eu sou o Deus fortíssimo de teu pai; não temas, vai para o Egipto, porque eu te farei ser uma grande nação.  
 **4** Eu irei para lá contigo e te reconduzirei de lá quando voltares: e José porá as suas mãos sobre os teus olhos.  
 **5** Jacob partiu do poço do juramento, e seus filhos colocaram-no com seus meninos e suas mulheres sobre os carros que Faraó tinha mandado para o transportar,  
-**6** com tudo o que ele possuía na terra de Canaan, e foi para o Egito com toda a sua família,  
+**6** com tudo o que ele possuía na terra de Canaan, e foi para o Egipto com toda a sua família,  
 **7** com seus filhos, netos e filhas, e toda a sua descendência juntamente.  
-**8** Eis os nomes dos filhos de Israel, que entraram no Egito, quando ele para lá foi com seus filhos. O primogénito (era) Ruben.  
+**8** Eis os nomes dos filhos de Israel, que entraram no Egipto, quando ele para lá foi com seus filhos. O primogénito (era) Ruben.  
 **9** Os filhos de Ruben (eram) Henoch, Fallu, Hesron e Carmi.  
 **10** Os filhos de Simeão (eram) Jamuel, Jarnin, Aod, Jaquin, Soar e Saul, filho duma Cananeia.  
 **11** Os filhos de Levi (eram) Gerson Caath e Merari.  
@@ -1543,14 +1543,14 @@
 **17** Os filhos de Aser (eram) Jame, Jesua Jessui e Béria, e também Sara, irmã deles. Os filhos de Béria (eram) Heber e Melquiel.  
 **18** Estes são os filhos de Zélfa, (a criada) que Labão tinha dado a sua filha Lia; ela os deu à luz a Jacob: (ao todo) dezasseis pessoas.  
 **19** Os filhos de Raquel, mulher de Jacob, (eram) José e Benjamim.  
-**20** A José, na terra do Egito, nasceram os filhos Manassés e Efraim, que lhe deu à luz Aseneth, filha de Putifar, sacerdote de Heliópolis.  
+**20** A José, na terra do Egipto, nasceram os filhos Manassés e Efraim, que lhe deu à luz Aseneth, filha de Putifar, sacerdote de Heliópolis.  
 **21** Os filhos de Benjamim (eram) Bela, Becor, Asbel, Gera, Naaman, Equi, Ros, Mofim, Ofim e Ared.  
 **22** Estes são os filhos que Raquel deu à luz a Jacob: ao todo catorze pessoas.  
 **23** Filhos de Dan: Husim.  
 **24** Os filhos de Neftali (eram) Jasiel, Guni, Jeser e Salem.  
 **25** Estes são os filhos de Bala, que Labão tinha dado a sua filha Raquel; ela os deu à luz a Jacob: ao todo sete pessoas.  
-**26** Todas as pessoas que entraram com Jacob no Egito, e que descendiam dele, não contando com as mulheres de seus filhos, eram sessenta e seis.  
-**27** Os filhos de José, que lhe tinham nascido no Egito, eram dois. Todas as pessoas da casa de Jacob, que entraram no Egito, foram setenta.  
+**26** Todas as pessoas que entraram com Jacob no Egipto, e que descendiam dele, não contando com as mulheres de seus filhos, eram sessenta e seis.  
+**27** Os filhos de José, que lhe tinham nascido no Egipto, eram dois. Todas as pessoas da casa de Jacob, que entraram no Egipto, foram setenta.  
 **28** (Jacob) enviou Judá adiante de si a José, para o avisar que lhe saísse ao encontro em Gessen.  
 **29** Quando chegou, José tendo mandado aparelhar o seu coche, foi ao encontro de seu pai no mesmo lugar, e, quando o viu, lançou-se ao seu pescoço, e, abraçando-o, chorou.  
 **30** O pai disse a José: Agora morrerei contente, porque vi a tua face e tu vives ainda.  
@@ -1566,30 +1566,30 @@
 **3** (Faraó) perguntou-lhes: Que ocupação tendes? Eles responderam: Nós, teus servos, somos proprietários de gado, (como o foram) nossos pais.  
 **4** Viemos habitar como peregrinos na tua terra, porque não há erva para os rebanhos dos teus servos, e a fome vai crescendo; suplicamos-te que ordenes que nós, teus servos, habitemos na terra de Gessen.  
 **5** O rei disse, pois, a José: Teu pai e teus irmãos vieram ter contigo.  
-**6** A terra do Egito está diante de ti: faze-os habitar no melhor lugar: entrega-lhes a terra de Gessen. Se sabes que há entre eles homens de capacidade, constitui-os superintendentes dos meus rebanhos.  
+**6** A terra do Egipto está diante de ti: faze-os habitar no melhor lugar: entrega-lhes a terra de Gessen. Se sabes que há entre eles homens de capacidade, constitui-os superintendentes dos meus rebanhos.  
 **7** Depois disto José conduziu seu pai ao rei, e apresentou-lho. Jacob abençoou o rei,  
 **8** que lhe perguntou: Quantos são os teus anos?  
 **9** Respondeu: Os dias da minha peregrinação são cento e trinta anos; poucos e trabalhosos, não chegaram aos dias da peregrinação de meus pais.  
 **10** Abençoado o rei, retirou-se.  
-**11** José deu a seu pai e a seus irmãos uma propriedade, em um ótimo lugar do país, em Ramsés, como Faraó tinha ordenado,  
+**11** José deu a seu pai e a seus irmãos uma propriedade, em um óptimo lugar do país, em Ramsés, como Faraó tinha ordenado,  
 **12** e sustentava-os a eles e a toda a família de seu pai, dando a cada um o seu sustento.  
-**13** Ora o pão faltava em toda aquela terra, a fome era muito grande, principalmente no Egito e em Canaan.  
+**13** Ora o pão faltava em toda aquela terra, a fome era muito grande, principalmente no Egipto e em Canaan.  
 **14** (José) recolheu destes países todo o dinheiro pela venda do trigo, e meteu-o no erário do rei.  
-**15** Faltando o dinheiro aos compradores, todo o Egito foi ter com José, dizendo: Dá-nos pão; por que razão morreremos nós na tua presença, por falta de dinheiro?  
+**15** Faltando o dinheiro aos compradores, todo o Egipto foi ter com José, dizendo: Dá-nos pão; por que razão morreremos nós na tua presença, por falta de dinheiro?  
 **16** Ele respondeu-lhes: Trazei os vossos gados, e eu vos darei por eles de comer, se não tendes (mais) dinheiro.  
 **17** Trouxeram-nos a José e ele deu-lhes alimento em troca de cavalos, de ovelhas, de bois e de jumentos, e sustentou-os aquele ano pela troca de gados.  
 **18** Voltaram também no ano seguinte e disseram-lhe: Não encobriremos ao nosso senhor, que, faltando o dinheiro, nos faltaram juntamente os gados; nem tu ignoras que não temos mais nada, além dos (nossos) corpos e da (nossa) terra.  
 **19** Por que morreremos, pois, à tua vista? Nós e a nossa terra seremos teus; compra-nos para sermos escravos do rei, dá-nos sementes, para que não morramos e a terra se não reduza a um deserto.  
-**20** Portanto José comprou toda a terra do Egito, vendendo cada um deles as suas possessões por causa do rigor da fome: assim a sujeitou a Faraó,  
-**21** com todos os seus povos, desde uma extremidade do Egito até à outra.  
-**22** Somente não comprou a terra dos sacerdotes, porque os sacerdotes tinham uma determinada provisão de Faraó, e comiam a provisão que lhes dava Faraó. Por isso não venderam as suas terras,  
+**20** Portanto José comprou toda a terra do Egipto, vendendo cada um deles as suas possessões por causa do rigor da fome: assim a sujeitou a Faraó,  
+**21** com todos os seus povos, desde uma extremidade do Egipto até à outra.  
+**22** Sòmente não comprou a terra dos sacerdotes, porque os sacerdotes tinham uma determinada provisão de Faraó, e comiam a provisão que lhes dava Faraó. Por isso não venderam as suas terras,  
 **23** (Depois disto) disse José aos povos: como vedes, Faraó é o Senhor de vós e da vossa terra: tomai sementes e semeai os campos,  
 **24** para que possais colher frutos. Dareis ao rei a quinta parte: as outras quatro deixo-as a vós para semente e para sustento das vossas famílias e filhos.  
 **25** Eles responderam: A nossa conservação está nas tuas mãos: que o nosso senhor apenas volva para nós o seu olhar, e alegres serviremos o rei.  
-**26** Desde aquele tempo até ao dia de hoje, em toda a terra do Egito, se paga aos reis a quinta parte; isto tornou-se lei (para todos) excetuada a terra sacerdotal, que ficou livre desta sujeição.  
-**27** Israel habitou, pois, no Egito, na terra do Gessen, e adquiriu, ali, bens, aumentando e multiplicando-se extraordinariamente.  
+**26** Desde aquele tempo até ao dia de hoje, em toda a terra do Egipto, se paga aos reis a quinta parte; isto tornou-se lei (para todos) exceptuada a terra sacerdotal, que ficou livre desta sujeição.  
+**27** Israel habitou, pois, no Egipto, na terra do Gessen, e adquiriu, ali, bens, aumentando e multiplicando-se extraordinàriamente.  
 **28** Viveu nela dezassete anos; e todo o tempo da sua vida foi de cento e quarenta e sete anos.  
-**29** Vendo que se aproximava o dia da sua morte, chamou seu filho José e disse-lhe: Se achei graça diante de ti, põe a tua mão debaixo da minha coxa; usarás comigo de bondade e fidelidade, e não me sepultarás no Egito.  
+**29** Vendo que se aproximava o dia da sua morte, chamou seu filho José e disse-lhe: Se achei graça diante de ti, põe a tua mão debaixo da minha coxa; usarás comigo de bondade e fidelidade, e não me sepultarás no Egipto.  
 **30** Quando for dormir com os meus pais, tu me tirarás desta terra e me sepultarás no túmulo dos meus antepassados. José respondeu-lhe: Farei o que mandaste.  
 **31** Ele acrescentou: Jura-mo. José fez o juramento e Israel (adorou a Deus) prostrado sobre a cabeceira do leito.  
 
@@ -1599,7 +1599,7 @@
 **2** Disseram ao velho: Teu filho José vem visitar-te. Ele, reunidas as suas forças, sentou-se sobre o leito.  
 **3** Logo que (José) entrou, disse-lhe: O Deus Omnipotente apareceu-me em Luza, que é a terra de Canaan, abençoou-me  
 **4** e disse: Eu te aumentarei e multiplicarei, e farei de ti uma multidão de povos: darei esta terra a ti e à tua descendência depois de ti, para sempre.  
-**5** Portanto os teus dois filhos, que te nasceram na terra do Egito, antes que eu para aqui viesse ter contigo, serão meus: Efraim e Manassés serão considerados meus (filhos), como Ruben e Simeão.  
+**5** Portanto os teus dois filhos, que te nasceram na terra do Egipto, antes que eu para aqui viesse ter contigo, serão meus: Efraim e Manassés serão considerados meus (filhos), como Ruben e Simeão.  
 **6** Mas os outro, que tiveres depois destes, serão teus, e serão chamados com o nome de seus irmãos nas suas possessões.  
 **7** Quando eu voltava da Mesopotâmia, morreu-me Raquel na terra de Canaan, mesmo durante a viagem, na Primavera; eu estava para entrar em Efrata, e enterrei-a junto do caminho de Efrata, que, por outro nome, se chama Belém,  
 **8** Vendo Israel os filhos (de José), disse-lhe: Quem são estes?  
@@ -1629,12 +1629,12 @@
 **7** Maldita a sua cólera porque (foi) violenta, e o seu furor, porque (foi) cruel. Eu os dividirei em Jacob, e os espalharei em Israel.  
 **8** Judá, teus irmãos te louvarão: a tua mão estará sobre as cervizes de teus inimigos: os filhos de teu pai se prostrarão diante de ti.  
 **9** Judá é um cachorro de leão. Correste, meu filho, para a presa, deitaste-te para descansar como o leão, e como a leoa, quem o despertará?  
-**10** O cetro não será tirado de Judá, nem o bastão soberano de entre os seus pés, até que venha aquele de quem é o mando, e a quem os povos devem obediência.  
+**10** O ceptro não será tirado de Judá, nem o bastão soberano de entre os seus pés, até que venha aquele de quem é o mando, e a quem os povos devem obediência.  
 **11** Ele atará à vinha o seu jumentinho, e à videira, ó meu filho, a sua jumenta, Lavará a sua túnica no vinho, e a sua capa no sangue da uva.  
 **12** Os seus olhos são mais escuros que o vinho, e os seus dentes mais brancos do que o leite.  
 **13** Zabulon habitará na praia do mar, e no ancoradouro dos navios, estendendo-se até Sidónia.  
 **14** Issacar é (como) jumento robusto que está deitado dentro do seu estábulo.  
-**15** Viu que o repouso era bom, e que a (sua) terra era ótima; curvou os seus ombros para levar pesos, e sujeitou-se aos tributos,  
+**15** Viu que o repouso era bom, e que a (sua) terra era óptima; curvou os seus ombros para levar pesos, e sujeitou-se aos tributos,  
 **16** Dan julgará o seu povo, como qualquer outra tribo de Israel.  
 **17** Dan é como uma serpente no caminho, uma víbora no atalho, que morde as unhas do cavalo, para que o cavaleiro caia para trás.  
 **18** A tua salvação esperarei, ó Senhor.  
@@ -1657,18 +1657,18 @@
 
 **1** José, vendo isto, lançou-se sobre o rosto do pai, chorando e beijando-o.  
 **2** Ordenou aos médicos que o serviam, que embalsamassem o seu pai.  
-**3** Enquanto eles cumpriam a ordem, passaram-se quarenta dias, porque este é o tempo gasto para embalsamar (um cadáver). O Egito chorou-o durante setenta dias.  
+**3** Enquanto eles cumpriam a ordem, passaram-se quarenta dias, porque este é o tempo gasto para embalsamar (um cadáver). O Egipto chorou-o durante setenta dias.  
 **4** Terminado o tempo do luto, disse José à família de Faraó; Se eu achei graça diante de vós, fazei chegar aos ouvidos de Faraó  
 **5** que meu pai me obrigou a jurar, quando disse: Vou morrer, sepultas-me-ás no meu sepulcro, que mandei abrir para mim na terra de Canaan. Irei, pois, sepultar meu pai, e depois voltarei.  
 **6** Faraó respondeu: Vai e sepulta teu pai, como prometeste com juramento.  
-**7** Partindo ele, acompanharam-no todos os anciães da casa de Faraó, e todos os principais da terra do Egito,  
+**7** Partindo ele, acompanharam-no todos os anciães da casa de Faraó, e todos os principais da terra do Egipto,  
 **8** a casa de José com seus irmãos, e a casa de seu pai, à exceção dos pequeninos, dos rebanhos, e dos armamentos, os quais deixaram na terra de Gessen.  
 **9** Teve também (José) o acompanhamento de carros e cavaleiros, de forma que o cortejo era enorme.  
 **10** Chegaram à eira de Atad, que está situada além do Jordão, onde gastaram sete dias a celebrar as exéquias com um pranto grande e profundo.  
-**11** Tendo observado isto os habitantes da terra de Canaan, disseram: Grande pranto é este dos egípcios. Por isto, se ficou chamando aquele lugar o Pranto do Egito.  
+**11** Tendo observado isto os habitantes da terra de Canaan, disseram: Grande pranto é este dos egípcios. Por isto, se ficou chamando aquele lugar o Pranto do Egipto.  
 **12** Fizeram, pois, os filhos de Jacob como ele lhes tinha mandado:  
 **13** levando-o à terra de Canaan, o sepultaram na caverna, em frente de Mambré, que Abraão tinha comprado a Efron, o Heteu, com o campo (em que ela está), para ter um sepulcro.  
-**14** José, sepultado seu pai, voltou para o Egito com seus irmãos e toda a comitiva.  
+**14** José, sepultado seu pai, voltou para o Egipto com seus irmãos e toda a comitiva.  
 **15** Depois da morte de Jacob, os irmãos (de José) ficaram temerosos, dizendo entre si: Quem sabe se José nos ganhará ódio lembrado da injúria que padeceu, e nos fará pagar todo o mal que lhe fizemos?  
 **16** Mandaram-lhe, pois, dizer: Teu pai antes de morrer ordenou-nos  
 **17** que em seu nome te disséssemos: Peço-te que esqueças o crime de teus irmãos, o pecado e a maldade que usaram contra ti; nós te suplicamos também que perdoes esta iniquidade aos servos do Deus de teu pai. Ouvindo isto, José chorou.  
@@ -1676,10 +1676,10 @@
 **19** Ele respondeu-lhes: Não temais: porventura podemos nós resistir à vontade de Deus?  
 **20** Vós tivestes intenção de me fazer mal, mas Deus o converteu em bem, para me exaltar, como presentemente vedes, e para salvar muitos povos.  
 **21** Não temais: eu vos sustentarei a vós e a vossos filhinhos. Assim os consolou, falando-lhes com doçura e mansidão.  
-**22** (José) habitou no Egito, com toda a família de seu pai. Viveu cento e dez anos, e viu os filhos de Efraim até à terceira geração. Os filhos de Maquir, filho de Manassés, nasceram também sobre os joelhos de José.  
+**22** (José) habitou no Egipto, com toda a família de seu pai. Viveu cento e dez anos, e viu os filhos de Efraim até à terceira geração. Os filhos de Maquir, filho de Manassés, nasceram também sobre os joelhos de José.  
 **23** Passado isto, disse a seus irmãos: Deus vos visitará, depois da minha morte, e vos fará sair desta terra para a terra prometida com juramento a Abraão, a Isaac e a Jacob.  
 **24** José obrigou os filhos de Israel a jurar, dizendo: Deus vos visitará, levai os meus ossos convosco deste lugar.  
-**25** Morreu, tendo completado os cento e dez anos da sua vida, e foi embalsamado e depositado num caixão no Egito.
+**25** Morreu, tendo completado os cento e dez anos da sua vida, e foi embalsamado e depositado num caixão no Egipto.
 
 ---
 

@@ -24,7 +24,7 @@
 **20** No que vos escrevo, digo diante de Deus que não minto.  
 **21** Depois fui para os países da Síria e da Cilícia.  
 **22** As igrejas da Judeia, que criam em Cristo, nem mesmo de vista me conheciam,  
-**23** mas somente tinham ouvido dizer: "Aquele que outrora nos perseguia, agora prega a fé que noutro tempo impugnava"  
+**23** mas sòmente tinham ouvido dizer: "Aquele que outrora nos perseguia, agora prega a fé que noutro tempo impugnava"  
 **24** e por minha causa davam glória a Deus.  
 
 ## Capítulo 2
@@ -38,7 +38,7 @@
 **7** Antes pelo contrário, tendo visto que me tinha sido confiado o Evangelho para os não circuncidados, como a Pedro para os circuncidados,  
 **8** (porque quem fez de Pedro o Apóstolo dos circuncidados, também fez de mim o Apóstolo dos gentios)  
 **9** e tendo reconhecido a graça que me foi dada, Tiago, Cefas e João, que eram considerados as colunas (da Igreja), deram as mãos a mim e a Barnabé, em sinal de comunhão, para que fôssemos aos gentios, e ele aos circuncidados,  
-**10** (recomendando) somente que nos lembrássemos dos pobres (da Judeia); o que eu fui solícito em cumprir.  
+**10** (recomendando) sòmente que nos lembrássemos dos pobres (da Judeia); o que eu fui solícito em cumprir.  
 **11** Mas, tendo vindo Cefas a Antioquia, eu lhe resisti na cara, porque merecia repreensão,  
 **12** pois que antes que chegassem alguns de Tiago, ele comia com os gentios, mas, depois que chegaram, retirava-se e separava-se (dos gentios), com receio dos que eram circuncidados.  
 **13** Os outros judeus imitaram-no na sua dissimulação, de sorte que até Barnabé foi induzido por eles àquela simulação.  
@@ -79,7 +79,7 @@
 **24** A lei, pois, foi o nosso pedagogo, para nos conduzir a Cristo, a fim de sermos justificados pela fé.  
 **25** Mas, depois que veio a fé, já não estamos sujeitos ao pedagogo,  
 **26** porque todos vós sois filhos de Deus pela fé em Jesus Cristo,  
-**27** pois todos os que fostes batizados em Cristo, revestistes-vos de Cristo.  
+**27** pois todos os que fostes baptizados em Cristo, revestistes-vos de Cristo.  
 **28** Não há judeu, nem grego; não há servo, nem livre; não há homem, nem mulher: todos vós sois um só em Jesus Cristo.  
 **29** Se sois de Cristo, sois a descendência de Abraão, os herdeiros segundo a promessa (sem necessitar para nada das cerimónias da lei).  
 
@@ -101,15 +101,15 @@
 **14** não o desprezastes nem rejeitastes, antes me recebestes como um anjo de Deus, como Cristo Jesus.  
 **15** Onde está, pois, (agora) aquela vossa felicidade? Porque posso testemunhar que (então), se fosse possível, vós arrancaríeis os olhos para nos dar.  
 **16** Tornei-me eu logo vosso inimigo, porque vos disse a verdade?  
-**17** Esses (falsos apóstolos)mostram-se cheios de afeto por vós, mas não retamente; antes querem-vos separar de nós, para serem objeto do vosso afeto.  
-**18** É bom ser objeto de afeição, mas sempre, e não só quando estou presente entre vós.  
+**17** Esses (falsos apóstolos)mostram-se cheios de afecto por vós, mas não rectamente; antes querem-vos separar de nós, para serem objecto do vosso afecto.  
+**18** É bom ser objecto de afeição, mas sempre, e não só quando estou presente entre vós.  
 **19** Filhinhos meus — por quem eu sinto de novo as dores do parto, até que Jesus Cristo se forme em vós —  
 **20** bem quisera eu estar agora convosco para adaptar a minha linguagem (segundo as vossas necessidades), porque estou perplexo a vosso respeito.  
 **21** Dizei-me: vós, que quereis estar debaixo da lei, não entendeis a lei?  
 **22** Com efeito, está escrito que Abraão teve dois filhos: um da escrava e outro da (mulher) livre.  
 **23** Mas o da escrava nasceu segundo a carne, e o da livre, (nasceu) em virtude da promessa;  
 **24** tais coisas foram ditas por alegoria, porque estas duas mulheres são as duas alianças. Uma, a do monte Sinai, que gera para a escravidão; esta é (figurada em) Agar,  
-**25** porque o Sinai é um monte da Arábia, o qual corresponde à Jerusalém atual (isto é, a Sinagoga) a qual é escrava com seus filhos.  
+**25** porque o Sinai é um monte da Arábia, o qual corresponde à Jerusalém actual (isto é, a Sinagoga) a qual é escrava com seus filhos.  
 **26** Mas aquela Jerusalém, que é de cima, (isto é, a Igreja de Jesus figurada em Sara) é livre e é nossa mãe.  
 **27** Porque está escrito: Alegra-te, ó estéril, que não dás à luz, exulta e clama de alegria, tu que não estás de parto; porque são muitos mais os filhos da abandonada (como estéril), que daquela que tem marido (Is. 54, 1).  
 **28** E vós, irmãos, sois filhos da promessa como Isaac.  
@@ -131,11 +131,11 @@
 **10** Eu confio de vós, no Senhor, que não tereis outros sentimentos; mas aquele que vos perturba, quem quer que ele seja, sofrerá a condenação.  
 **11** Quanto a mim, irmãos, se ainda prego a circuncisão (como falsamente dizem os que vos seduzem), por que sou ainda perseguido. Logo, cessou o escândalo da cruz!  
 **12** Oxalá que fossem mesmo mutilados os que vos perturbam.  
-**13** Vós, irmãos, fostes chamados à liberdade; convém somente que não façais desta liberdade um pretexto para viver segundo a carne, mas servi-vos uns aos outros pela caridade,  
+**13** Vós, irmãos, fostes chamados à liberdade; convém sòmente que não façais desta liberdade um pretexto para viver segundo a carne, mas servi-vos uns aos outros pela caridade,  
 **14** porque toda a lei se encerra nesta palavra: Amarás o teu próximo como a ti mesmo (Lv. 19, 18).  
 **15** Se vós, porém, vos mordeis e vos devorais uns aos outros (como fazem as feras), vede não vos consumais uns aos outros.  
 **16** Digo-vos pois: andai segundo o Espírito (de Deus) e não satisfareis os desejos da carne.  
-**17** Efetivamente, a carne tem desejos contrários ao espírito, e o espírito desejos contrários à carne: estas coisas (a carne e o espírito) são contrárias entre si, para que não façais tudo aquilo que quereis.  
+**17** Efectivamente, a carne tem desejos contrários ao espírito, e o espírito desejos contrários à carne: estas coisas (a carne e o espírito) são contrárias entre si, para que não façais tudo aquilo que quereis.  
 **18** Se, porém, sois guiados pelo Espírito, não estais debaixo da lei.  
 **19** Ora as obras da carne são manifestas: são a fornicação, a impureza, a luxúria,  
 **20** a idolatria, os malefícios, as inimizades, as contendas, as invejas, as iras, as rixas, as discórdias, as seitas,  
@@ -151,7 +151,7 @@
 **1** Irmãos, se algum homem cair por surpresa em algum delito, vós, que sois espirituais, admoestai-o com espírito de mansidão. Toma cuidado contigo; podes também ser tentado.  
 **2** Levai os fardos uns dos outros: desta maneira, cumprireis a lei de Cristo.  
 **3** Se alguém julga ser alguma coisa, não sendo nada, a si mesmo se engana.  
-**4** Cada um examine a sua obra, e então terá glória somente em si mesmo, e não em outro.  
+**4** Cada um examine a sua obra, e então terá glória sòmente em si mesmo, e não em outro.  
 **5** Com efeito, cada um levará o seu próprio fardo.  
 **6** O que é catequizado na palavra, reparta de todos os bens com o que o catequiza.  
 **7** Não vos enganeis: de Deus não se zomba.  

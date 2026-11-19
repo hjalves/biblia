@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -87,7 +87,7 @@
     },
     {
      "n": 18,
-     "texto": "Efetivamente, estabeleço-te hoje como uma cidade fortificada, como uma coluna de ferro, como um muro de bronze diante de toda esta terra, dos reis de Judá, dos seus príncipes, dos seus sacerdotes e do seu povo."
+     "texto": "Efectivamente, estabeleço-te hoje como uma cidade fortificada, como uma coluna de ferro, como um muro de bronze diante de toda esta terra, dos reis de Judá, dos seus príncipes, dos seus sacerdotes e do seu povo."
     },
     {
      "n": 19,
@@ -120,11 +120,11 @@
     },
     {
      "n": 6,
-     "texto": "Não disseram: Onde está o Senhor, que nos fez sair da terra do Egito, que nos conduziu pelo deserto, por uma terra árida e gretada, por uma terra de sede, imagem da morte, por uma terra por onde ninguém passa e onde ninguém mora?"
+     "texto": "Não disseram: Onde está o Senhor, que nos fez sair da terra do Egipto, que nos conduziu pelo deserto, por uma terra árida e gretada, por uma terra de sede, imagem da morte, por uma terra por onde ninguém passa e onde ninguém mora?"
     },
     {
      "n": 7,
-     "texto": "Introduzi-vos numa terra de vergéis, para que comêsseis os seus frutos e o melhor dela; depois de terdes lá entrado, profanastes a minha terra _(entregando-vos à idolatria) e fizestes da minha herança um objeto de abominação."
+     "texto": "Introduzi-vos numa terra de vergéis, para que comêsseis os seus frutos e o melhor dela; depois de terdes lá entrado, profanastes a minha terra _(entregando-vos à idolatria) e fizestes da minha herança um objecto de abominação."
     },
     {
      "n": 8,
@@ -168,7 +168,7 @@
     },
     {
      "n": 18,
-     "texto": "E agora que vais buscar no caminho do Egito, para beberes a água turva (do Nilo)? De que te vale tomar o caminho dos Assírios, para beberes a água do rio (Eufrates)?"
+     "texto": "E agora que vais buscar no caminho do Egipto, para beberes a água turva (do Nilo)? De que te vale tomar o caminho dos Assírios, para beberes a água do rio (Eufrates)?"
     },
     {
      "n": 19,
@@ -216,7 +216,7 @@
     },
     {
      "n": 30,
-     "texto": "Em vão castiguei os vossos filhos: eles não receberam a correção. A vossa espada devorou os vossos profetas, como um leão destruidor."
+     "texto": "Em vão castiguei os vossos filhos: eles não receberam a correcção. A vossa espada devorou os vossos profetas, como um leão destruidor."
     },
     {
      "n": 31,
@@ -240,7 +240,7 @@
     },
     {
      "n": 36,
-     "texto": "Com que pressa mudas de caminho! Hás-de ser confundida pelo Egito, como o foste já por Assur."
+     "texto": "Com que pressa mudas de caminho! Hás-de ser confundida pelo Egipto, como o foste já por Assur."
     },
     {
      "n": 37,
@@ -325,7 +325,7 @@
     },
     {
      "n": 19,
-     "texto": "Eu disse: Como te quererei contar entre os meus filhos, dar-te uma terra deliciosa, uma herança que seja a mais preciosa joia no concerto das nações! E acrescentei: Chamar-me-ás pai, e não cessarás de me seguir."
+     "texto": "Eu disse: Como te quererei contar entre os meus filhos, dar-te uma terra deliciosa, uma herança que seja a mais preciosa jóia no concerto das nações! E acrescentei: Chamar-me-ás pai, e não cessarás de me seguir."
     },
     {
      "n": 20,
@@ -362,7 +362,7 @@
     },
     {
      "n": 2,
-     "texto": "Se jurares pela vida do Senhor, em verdade, com retidão e justiça, nele serão abençoados os povos e nele se gloriarão."
+     "texto": "Se jurares pela vida do Senhor, em verdade, com rectidão e justiça, nele serão abençoados os povos e nele se gloriarão."
     },
     {
      "n": 3,
@@ -378,7 +378,7 @@
     },
     {
      "n": 6,
-     "texto": "levantai o estandarte na direção de Sião, procurai abrigo, não estejais parados, porque eu farei vir do Aquilão uma desgraça; uma grande calamidade."
+     "texto": "levantai o estandarte na direcção de Sião, procurai abrigo, não estejais parados, porque eu farei vir do Aquilão uma desgraça; uma grande calamidade."
     },
     {
      "n": 7,
@@ -495,11 +495,11 @@
     },
     {
      "n": 3,
-     "texto": "Os teus olhos, ó Senhor, não buscam a fidelidade? Tu os feriste, e eles não o sentiram; moeste-os a golpes, e eles recusaram aceitar a correção: endureceram as suas frontes mais que uma pedra, e não quiseram voltar (a ti)."
+     "texto": "Os teus olhos, ó Senhor, não buscam a fidelidade? Tu os feriste, e eles não o sentiram; moeste-os a golpes, e eles recusaram aceitar a correcção: endureceram as suas frontes mais que uma pedra, e não quiseram voltar (a ti)."
     },
     {
      "n": 4,
-     "texto": "Então eu disse: Talvez sejam somente os da classe baixa que ignoram o caminho do Senhor, a lei do seu Deus."
+     "texto": "Então eu disse: Talvez sejam sòmente os da classe baixa que ignoram o caminho do Senhor, a lei do seu Deus."
     },
     {
      "n": 5,
@@ -640,7 +640,7 @@
     },
     {
      "n": 7,
-     "texto": "Como uma nascente faz surgir a água, assim ela a sua maldade. Somente se ouve falar nela de injustiças e de ruínas; diante de mim estão sem cessar a tortura e o açoute."
+     "texto": "Como uma nascente faz surgir a água, assim ela a sua maldade. Sòmente se ouve falar nela de injustiças e de ruínas; diante de mim estão sem cessar a tortura e o açoute."
     },
     {
      "n": 8,
@@ -825,7 +825,7 @@
     },
     {
      "n": 22,
-     "texto": "Não falei com vossos pais, nem lhes mandei, no dia em que os tirei da terra do Egito, coisa alguma acerca dos holocaustos e dos sacrifícios,"
+     "texto": "Não falei com vossos pais, nem lhes mandei, no dia em que os tirei da terra do Egipto, coisa alguma acerca dos holocaustos e dos sacrifícios,"
     },
     {
      "n": 23,
@@ -837,7 +837,7 @@
     },
     {
      "n": 25,
-     "texto": "Desde o dia em que vossos pais saíram da terra do Egito até hoje, eu vos enviei todos os meus servos, os profetas, cada dia me apressei a enviá-los."
+     "texto": "Desde o dia em que vossos pais saíram da terra do Egipto até hoje, eu vos enviei todos os meus servos, os profetas, cada dia me apressei a enviá-los."
     },
     {
      "n": 26,
@@ -1075,7 +1075,7 @@
     },
     {
      "n": 26,
-     "texto": "o Egito, Judá, Edom, os filhos de Amon, Moab e todos os que rapam o cabelo das fontes e habitam no deserto; porque, se todas as (outras) nações são incircuncisas (segundo a carne), toda a casa de Israel é incircuncisa de coração."
+     "texto": "o Egipto, Judá, Edom, os filhos de Amon, Moab e todos os que rapam o cabelo das fontes e habitam no deserto; porque, se todas as (outras) nações são incircuncisas (segundo a carne), toda a casa de Israel é incircuncisa de coração."
     }
    ]
   },
@@ -1201,7 +1201,7 @@
     },
     {
      "n": 4,
-     "texto": "a qual eu fiz com vossos pais no dia em que os tirei da terra do Egito, daquela fornalha de ferro, dizendo: Ouvi a minha voz e fazei todas as coisas que vos mando, e sereis o meu povo e eu serei o vosso Deus."
+     "texto": "a qual eu fiz com vossos pais no dia em que os tirei da terra do Egipto, daquela fornalha de ferro, dizendo: Ouvi a minha voz e fazei todas as coisas que vos mando, e sereis o meu povo e eu serei o vosso Deus."
     },
     {
      "n": 5,
@@ -1213,7 +1213,7 @@
     },
     {
      "n": 7,
-     "texto": "porque avisei insistentemente vossos pais, desde o dia em que os tirei da terra do Egito até hoje, dizendo-lhes continuamente: Ouvi a minha voz."
+     "texto": "porque avisei insistentemente vossos pais, desde o dia em que os tirei da terra do Egipto até hoje, dizendo-lhes continuamente: Ouvi a minha voz."
     },
     {
      "n": 8,
@@ -1310,7 +1310,7 @@
     },
     {
      "n": 7,
-     "texto": "(Para os castigar, diz o Senhor) deixei a minha casa (ou templo), abandonei a minha herança; entreguei o objeto das delícias da minha alma às mãos dos seus inimigos."
+     "texto": "(Para os castigar, diz o Senhor) deixei a minha casa (ou templo), abandonei a minha herança; entreguei o objecto das delícias da minha alma às mãos dos seus inimigos."
     },
     {
      "n": 8,
@@ -1496,7 +1496,7 @@
     },
     {
      "n": 8,
-     "texto": "Ó esperança de Israel, seu salvador no tempo da tribulação, por que hás-de ser nesta (tua) terra como um estranho, como um viandante que somente para, a fim de passar a noite?"
+     "texto": "Ó esperança de Israel, seu salvador no tempo da tribulação, por que hás-de ser nesta (tua) terra como um estranho, como um viandante que sòmente para, a fim de passar a noite?"
     },
     {
      "n": 9,
@@ -1573,7 +1573,7 @@
     },
     {
      "n": 4,
-     "texto": "Farei deles um objeto de espanto para todos os reinos da terra, por causa de Manassés, filho de Ezequias, rei de Judá por tudo o que fez em Jerusalém."
+     "texto": "Farei deles um objecto de espanto para todos os reinos da terra, por causa de Manassés, filho de Ezequias, rei de Judá por tudo o que fez em Jerusalém."
     },
     {
      "n": 5,
@@ -1702,7 +1702,7 @@
     },
     {
      "n": 14,
-     "texto": "Dias virão, diz o Senhor, em que não se dirá mais: Vive o Senhor, que tirou os filhos de Israel da terra do Egito, -"
+     "texto": "Dias virão, diz o Senhor, em que não se dirá mais: Vive o Senhor, que tirou os filhos de Israel da terra do Egipto, -"
     },
     {
      "n": 15,
@@ -1839,7 +1839,7 @@
     },
     {
      "n": 26,
-     "texto": "Virão das cidades de Judá e das cercanias de Jerusalém, da terra de Benjamim, das planícies, dos montes e do meio-dia, oferecer holocaustos, sacrifícios, oblações, incenso e sacrifícios de ação de graças à casa do Senhor."
+     "texto": "Virão das cidades de Judá e das cercanias de Jerusalém, da terra de Benjamim, das planícies, dos montes e do meio-dia, oferecer holocaustos, sacrifícios, oblações, incenso e sacrifícios de acção de graças à casa do Senhor."
     },
     {
      "n": 27,
@@ -1892,7 +1892,7 @@
     },
     {
      "n": 11,
-     "texto": "Agora, pois, fala aos homens de Judá e aos moradores de Jerusalém, assim: Isto diz o Senhor: Estou preparando a desgraça contra vós, formando projetos contra vós, volte cada um de vós, portanto, do seu mau caminho, corrigi os vossos caminhos e as vossas obras."
+     "texto": "Agora, pois, fala aos homens de Judá e aos moradores de Jerusalém, assim: Isto diz o Senhor: Estou preparando a desgraça contra vós, formando projectos contra vós, volte cada um de vós, portanto, do seu mau caminho, corrigi os vossos caminhos e as vossas obras."
     },
     {
      "n": 12,
@@ -1912,7 +1912,7 @@
     },
     {
      "n": 16,
-     "texto": "reduzindo assim a sua terra à desolação e a ser sempre um objeto de escárnio; todo o que passar por ela ficará espantado e abanará a sua cabeça (escarnecendo)."
+     "texto": "reduzindo assim a sua terra à desolação e a ser sempre um objecto de escárnio; todo o que passar por ela ficará espantado e abanará a sua cabeça (escarnecendo)."
     },
     {
      "n": 17,
@@ -1920,7 +1920,7 @@
     },
     {
      "n": 18,
-     "texto": "Disseram: Vinde e formemos projetos contra Jeremias, porque (apesar do que Jeremias prediz) não perecerá a doutrina por falta de sacerdote, nem o conselho por falta de sábio, nem a palavra (do Senhor) por falta de profeta; vinde, firamo-lo com a língua (caluniando-o), e não atendamos a nenhuma das suas palavras."
+     "texto": "Disseram: Vinde e formemos projectos contra Jeremias, porque (apesar do que Jeremias prediz) não perecerá a doutrina por falta de sacerdote, nem o conselho por falta de sábio, nem a palavra (do Senhor) por falta de profeta; vinde, firamo-lo com a língua (caluniando-o), e não atendamos a nenhuma das suas palavras."
     },
     {
      "n": 19,
@@ -1977,7 +1977,7 @@
     },
     {
      "n": 8,
-     "texto": "Farei desta cidade um objeto de pasmo e de ludíbrio: todo o que passar por ela, ficará pasmado e se rirá de todos os seus castigos."
+     "texto": "Farei desta cidade um objecto de pasmo e de ludíbrio: todo o que passar por ela, ficará pasmado e se rirá de todos os seus castigos."
     },
     {
      "n": 9,
@@ -2034,7 +2034,7 @@
     },
     {
      "n": 7,
-     "texto": "Tu me seduziste, Senhor, e eu fui seduzido; foste mais forte do que eu e pudeste mais; tornei-me um objeto de escárnio todo o dia, todos me insultam."
+     "texto": "Tu me seduziste, Senhor, e eu fui seduzido; foste mais forte do que eu e pudeste mais; tornei-me um objecto de escárnio todo o dia, todos me insultam."
     },
     {
      "n": 8,
@@ -2131,7 +2131,7 @@
     },
     {
      "n": 12,
-     "texto": "casa de Davide: Assim fala o Senhor: Fazei justiça desde manhã, livrai o oprimido das mãos do opressor para que não suceda sair a minha indignação, como um fogo, e queimar sem haver quem o apague por causa da malícia das vossas ações."
+     "texto": "casa de Davide: Assim fala o Senhor: Fazei justiça desde manhã, livrai o oprimido das mãos do opressor para que não suceda sair a minha indignação, como um fogo, e queimar sem haver quem o apague por causa da malícia das vossas acções."
     },
     {
      "n": 13,
@@ -2200,7 +2200,7 @@
     },
     {
      "n": 14,
-     "texto": "que diz: Edificarei para mim uma casa espaçosa, magníficos salões, de amplas janelas, com tetos de cedro, pintados de vermelho!"
+     "texto": "que diz: Edificarei para mim uma casa espaçosa, magníficos salões, de amplas janelas, com tectos de cedro, pintados de vermelho!"
     },
     {
      "n": 15,
@@ -2212,7 +2212,7 @@
     },
     {
      "n": 17,
-     "texto": "Mas os teus olhos e coração somente buscam o teu interesse e derramar sangue inocente, praticar opressão e violência."
+     "texto": "Mas os teus olhos e coração sòmente buscam o teu interesse e derramar sangue inocente, praticar opressão e violência."
     },
     {
      "n": 18,
@@ -2256,7 +2256,7 @@
     },
     {
      "n": 28,
-     "texto": "Acaso este homem, Jeconias, é um utensílio vil e quebrado? Acaso é um objeto indesejável? Por que foram rejeitados, ele e a sua linhagem, e arrojados para uma terra que não conheciam?"
+     "texto": "Acaso este homem, Jeconias, é um utensílio vil e quebrado? Acaso é um objecto indesejável? Por que foram rejeitados, ele e a sua linhagem, e arrojados para uma terra que não conheciam?"
     },
     {
      "n": 29,
@@ -2297,7 +2297,7 @@
     },
     {
      "n": 7,
-     "texto": "Por esta causa eis que vêm dias, diz o Senhor, em que já não dirão: Vive o Senhor, que tirou os filhos de Israel da terra do Egito -"
+     "texto": "Por esta causa eis que vêm dias, diz o Senhor, em que já não dirão: Vive o Senhor, que tirou os filhos de Israel da terra do Egipto -"
     },
     {
      "n": 8,
@@ -2349,7 +2349,7 @@
     },
     {
      "n": 20,
-     "texto": "O furor do Senhor não retrocederá até que efetue e cumpra o desígnio do seu coração; nos últimos dias entenderás o desígnio (sobre vós)."
+     "texto": "O furor do Senhor não retrocederá até que efectue e cumpra o desígnio do seu coração; nos últimos dias entenderás o desígnio (sobre vós)."
     },
     {
      "n": 21,
@@ -2361,7 +2361,7 @@
     },
     {
      "n": 23,
-     "texto": "Porventura eu sou (somente) Deus de perto, diz o Senhor, e não também Deus de longe?"
+     "texto": "Porventura eu sou (sòmente) Deus de perto, diz o Senhor, e não também Deus de longe?"
     },
     {
      "n": 24,
@@ -2466,11 +2466,11 @@
     },
     {
      "n": 8,
-     "texto": "E assim como se rejeitam os figos muito maus, que se não podem comer, porque são maus, assim eu, diz o Senhor, desprezarei Sedecias, rei de Judá, os seus príncipes e o resto de Jerusalém: tanto os que ficaram nesta cidade, como os que moram na terra do Egito."
+     "texto": "E assim como se rejeitam os figos muito maus, que se não podem comer, porque são maus, assim eu, diz o Senhor, desprezarei Sedecias, rei de Judá, os seus príncipes e o resto de Jerusalém: tanto os que ficaram nesta cidade, como os que moram na terra do Egipto."
     },
     {
      "n": 9,
-     "texto": "Entregá-los-ei às vexações e à aflição em todos os reinos da terra; serão um objeto de opróbrio, de fábula, de escárnio e de maldição, em todos os lugares, para onde eu os tiver arrojado."
+     "texto": "Entregá-los-ei às vexações e à aflição em todos os reinos da terra; serão um objecto de opróbrio, de fábula, de escárnio e de maldição, em todos os lugares, para onde eu os tiver arrojado."
     },
     {
      "n": 10,
@@ -2515,7 +2515,7 @@
     },
     {
      "n": 9,
-     "texto": "vou mandar tomar todos os povos do Aquilão, diz o Senhor, (e levar) a meu servo Nabucodonosor rei de Babilónia; fá-los-ei vir contra esta terra e seus moradores, e contra todas as nações que a cercam. Destruí-los-ei e farei deles um objeto de horror, de ludíbrio e de vergonha eterna."
+     "texto": "vou mandar tomar todos os povos do Aquilão, diz o Senhor, (e levar) a meu servo Nabucodonosor rei de Babilónia; fá-los-ei vir contra esta terra e seus moradores, e contra todas as nações que a cercam. Destruí-los-ei e farei deles um objecto de horror, de ludíbrio e de vergonha eterna."
     },
     {
      "n": 10,
@@ -2535,7 +2535,7 @@
     },
     {
      "n": 14,
-     "texto": "Com efeito estas serão também submetidas a muitas nações e reis poderosos; eu lhes darei segundo as suas obras, segundo as ações das suas mãos."
+     "texto": "Com efeito estas serão também submetidas a muitas nações e reis poderosos; eu lhes darei segundo as suas obras, segundo as acções das suas mãos."
     },
     {
      "n": 15,
@@ -2551,11 +2551,11 @@
     },
     {
      "n": 18,
-     "texto": "A Jerusalém e às cidades de Judá, aos seus reis e aos seus príncipes, para fazer deles uma solidão, um pavor, um objeto de desprezo e de maldição, como hoje se vê;"
+     "texto": "A Jerusalém e às cidades de Judá, aos seus reis e aos seus príncipes, para fazer deles uma solidão, um pavor, um objecto de desprezo e de maldição, como hoje se vê;"
     },
     {
      "n": 19,
-     "texto": "a Faraó, rei do Egito, aos seus servos, aos seus príncipes e a todo o seu povo,"
+     "texto": "a Faraó, rei do Egipto, aos seus servos, aos seus príncipes e a todo o seu povo,"
     },
     {
      "n": 20,
@@ -2648,7 +2648,7 @@
     },
     {
      "n": 3,
-     "texto": "para ver se acaso eles te ouvem e se convertem cada um do seu mau caminho; então me arrependerei (ou desistirei) do mal que tenho tenção de lhes fazer, por causa da malícia das suas ações."
+     "texto": "para ver se acaso eles te ouvem e se convertem cada um do seu mau caminho; então me arrependerei (ou desistirei) do mal que tenho tenção de lhes fazer, por causa da malícia das suas acções."
     },
     {
      "n": 4,
@@ -2660,7 +2660,7 @@
     },
     {
      "n": 6,
-     "texto": "farei a esta casa o que fiz a Silo e farei que esta cidade seja objeto da maldição de todas as nações da terra."
+     "texto": "farei a esta casa o que fiz a Silo e farei que esta cidade seja objecto da maldição de todas as nações da terra."
     },
     {
      "n": 7,
@@ -2692,7 +2692,7 @@
     },
     {
      "n": 14,
-     "texto": "Quanto a mim, eis que estou nas vossas mãos; fazei de mim o que tiverdes por bom e reto aos vossos olhos;"
+     "texto": "Quanto a mim, eis que estou nas vossas mãos; fazei de mim o que tiverdes por bom e recto aos vossos olhos;"
     },
     {
      "n": 15,
@@ -2720,15 +2720,15 @@
     },
     {
      "n": 21,
-     "texto": "O rei Joaquim e todos os seus oficiais e príncipes ouviram estas palavras. O rei procurou matá-lo. Urias soube-o, temeu e fugiu para o Egito."
+     "texto": "O rei Joaquim e todos os seus oficiais e príncipes ouviram estas palavras. O rei procurou matá-lo. Urias soube-o, temeu e fugiu para o Egipto."
     },
     {
      "n": 22,
-     "texto": "Mas o rei Joaquim enviou ao Egito Elnatan, filho de Acobor, e outros homens com ele,"
+     "texto": "Mas o rei Joaquim enviou ao Egipto Elnatan, filho de Acobor, e outros homens com ele,"
     },
     {
      "n": 23,
-     "texto": "que tiraram Urias do Egito e levaram ao rei Joaquim, que o mandou matar à espada, lançando o seu cadáver nas sepulturas da plebe."
+     "texto": "que tiraram Urias do Egipto e levaram ao rei Joaquim, que o mandou matar à espada, lançando o seu cadáver nas sepulturas da plebe."
     },
     {
      "n": 24,
@@ -2801,7 +2801,7 @@
     },
     {
      "n": 16,
-     "texto": "Também falei aos sacerdotes e a este povo, nos seguintes termos: Assim diz o Senhor: Não queirais dar ouvidos às palavras dos vossos profetas, que vos anunciam que os objetos do templo do Senhor voltarão brevemente de Babilónia, porque vos profetizam a mentira."
+     "texto": "Também falei aos sacerdotes e a este povo, nos seguintes termos: Assim diz o Senhor: Não queirais dar ouvidos às palavras dos vossos profetas, que vos anunciam que os objectos do templo do Senhor voltarão brevemente de Babilónia, porque vos profetizam a mentira."
     },
     {
      "n": 17,
@@ -2809,11 +2809,11 @@
     },
     {
      "n": 18,
-     "texto": "Se são profetas (verdadeiros) e está neles a palavra do Senhor, intercedam junto do Senhor dos exércitos, para que os objetos que ficaram na casa do Senhor, na casa do rei de Judá e em Jerusalém, não sejam (também) levados para Babilónia."
+     "texto": "Se são profetas (verdadeiros) e está neles a palavra do Senhor, intercedam junto do Senhor dos exércitos, para que os objectos que ficaram na casa do Senhor, na casa do rei de Judá e em Jerusalém, não sejam (também) levados para Babilónia."
     },
     {
      "n": 19,
-     "texto": "Porque eis o que diz o Senhor dos exércitos acerca das colunas, do mar (de bronze), das bases e dos outros objetos, que ficaram nesta cidade,"
+     "texto": "Porque eis o que diz o Senhor dos exércitos acerca das colunas, do mar (de bronze), das bases e dos outros objectos, que ficaram nesta cidade,"
     },
     {
      "n": 20,
@@ -2821,7 +2821,7 @@
     },
     {
      "n": 21,
-     "texto": "eis (repito) o que diz o Senhor dos exércitos, o Deus de Israel, acerca dos objetos que foram deixados na casa do Senhor, na casa do rei de Judá e em Jerusalém;"
+     "texto": "eis (repito) o que diz o Senhor dos exércitos, o Deus de Israel, acerca dos objectos que foram deixados na casa do Senhor, na casa do rei de Judá e em Jerusalém;"
     },
     {
      "n": 22,
@@ -2842,7 +2842,7 @@
     },
     {
      "n": 3,
-     "texto": "Depois de passados ainda dois anos completos farei voltar a este lugar todos os objetos da casa do Senhor, que Nabucodonosor, rei de Babilónia, levou daqui e transportou a Babilónia."
+     "texto": "Depois de passados ainda dois anos completos farei voltar a este lugar todos os objectos da casa do Senhor, que Nabucodonosor, rei de Babilónia, levou daqui e transportou a Babilónia."
     },
     {
      "n": 4,
@@ -2854,7 +2854,7 @@
     },
     {
      "n": 6,
-     "texto": "O profeta Jeremias disse: Amen, oxalá que assim o faça o Senhor! Realize o Senhor as palavras que profetizaste: que sejam restituídos os objetos à casa do Senhor, e todos os cativos voltem de Babilónia a este lugar!"
+     "texto": "O profeta Jeremias disse: Amen, oxalá que assim o faça o Senhor! Realize o Senhor as palavras que profetizaste: que sejam restituídos os objectos à casa do Senhor, e todos os cativos voltem de Babilónia a este lugar!"
     },
     {
      "n": 7,
@@ -2975,7 +2975,7 @@
     },
     {
      "n": 18,
-     "texto": "Persegui-los-ei com a espada, com a fome e com a peste, e farei deles um objeto de horror para todos os reinos da terra, um objeto de maldição, de espanto, de escárnio e de opróbrio para todas as nações para onde os tiver lançado,"
+     "texto": "Persegui-los-ei com a espada, com a fome e com a peste, e farei deles um objecto de horror para todos os reinos da terra, um objecto de maldição, de espanto, de escárnio e de opróbrio para todas as nações para onde os tiver lançado,"
     },
     {
      "n": 19,
@@ -3265,7 +3265,7 @@
     },
     {
      "n": 32,
-     "texto": "diferente da aliança que fiz com seus pais no dia em que os tomei pela mão, para os tirar da terra do Egito, aliança que eles violaram. (Por isso) fiz sentir sobre eles o meu poder, diz o Senhor."
+     "texto": "diferente da aliança que fiz com seus pais no dia em que os tomei pela mão, para os tirar da terra do Egipto, aliança que eles violaram. (Por isso) fiz sentir sobre eles o meu poder, diz o Senhor."
     },
     {
      "n": 33,
@@ -3382,11 +3382,11 @@
     },
     {
      "n": 20,
-     "texto": "Fizeste sinais e prodígios na terra do Egito, e, até ao dia de hoje, em Israel e entre os homens. Granjeaste um (grande) nome como tens hoje."
+     "texto": "Fizeste sinais e prodígios na terra do Egipto, e, até ao dia de hoje, em Israel e entre os homens. Granjeaste um (grande) nome como tens hoje."
     },
     {
      "n": 21,
-     "texto": "Tiraste o teu povo de Israel da terra do Egito com sinais e prodígios, com mão forte e braço estendido, e com grande terror."
+     "texto": "Tiraste o teu povo de Israel da terra do Egipto com sinais e prodígios, com mão forte e braço estendido, e com grande terror."
     },
     {
      "n": 22,
@@ -3426,7 +3426,7 @@
     },
     {
      "n": 31,
-     "texto": "Esta cidade tornou-se objeto do meu furor e da minha indignação, desde o dia em que a edificaram até hoje, em que a vou tirar da minha presença."
+     "texto": "Esta cidade tornou-se objecto do meu furor e da minha indignação, desde o dia em que a edificaram até hoje, em que a vou tirar da minha presença."
     },
     {
      "n": 32,
@@ -3434,7 +3434,7 @@
     },
     {
      "n": 33,
-     "texto": "Voltaram para mim as costas e não o rosto, quando os ensinava infatigavelmente e os corrigia, não quiseram ouvir nem receber o ensino."
+     "texto": "Voltaram para mim as costas e não o rosto, quando os ensinava infatigàvelmente e os corrigia, não quiseram ouvir nem receber o ensino."
     },
     {
      "n": 34,
@@ -3466,7 +3466,7 @@
     },
     {
      "n": 41,
-     "texto": "A minha alegria será fazer-lhes bem; estabelecê-los-ei nesta terra solidamente, com todo o meu coração e com toda a minha alma."
+     "texto": "A minha alegria será fazer-lhes bem; estabelecê-los-ei nesta terra sòlidamente, com todo o meu coração e com toda a minha alma."
     },
     {
      "n": 42,
@@ -3644,7 +3644,7 @@
     },
     {
      "n": 13,
-     "texto": "Assim fala o Senhor Deus de Israel: Fiz um pacto com vossos pais no dia em que os tirei da terra do Egito, da casa da escravidão, dizendo-lhes:"
+     "texto": "Assim fala o Senhor Deus de Israel: Fiz um pacto com vossos pais no dia em que os tirei da terra do Egipto, da casa da escravidão, dizendo-lhes:"
     },
     {
      "n": 14,
@@ -3652,7 +3652,7 @@
     },
     {
      "n": 15,
-     "texto": "Vós tínheis-vos, agora, convertido (a mim) e feito o que é reto aos meus olhos, proclamando a liberdade cada um para o seu próximo; tínheis feito este pacto em minha presença, na casa sobre a qual é invocado o meu nome."
+     "texto": "Vós tínheis-vos, agora, convertido (a mim) e feito o que é recto aos meus olhos, proclamando a liberdade cada um para o seu próximo; tínheis feito este pacto em minha presença, na casa sobre a qual é invocado o meu nome."
     },
     {
      "n": 16,
@@ -3660,7 +3660,7 @@
     },
     {
      "n": 17,
-     "texto": "Por isso, assim fala o Senhor: Vós não me obedecestes, publicando a liberdade cada um para o seu irmão e para o seu próximo; eis que vos intimo eu a liberdade (para vos separar de mim), diz o Senhor, para ir à espada, à peste e à fome, fazendo de vós um objeto de terror para todos os reinos da terra."
+     "texto": "Por isso, assim fala o Senhor: Vós não me obedecestes, publicando a liberdade cada um para o seu irmão e para o seu próximo; eis que vos intimo eu a liberdade (para vos separar de mim), diz o Senhor, para ir à espada, à peste e à fome, fazendo de vós um objecto de terror para todos os reinos da terra."
     },
     {
      "n": 18,
@@ -3915,7 +3915,7 @@
     },
     {
      "n": 4,
-     "texto": "Jeremias andava livremente por entre o povo, porque ainda o não tinham metido no cárcere. Entretanto o exército de Faraó saiu do Egito; ouvindo esta nova, os Caldeus, que tinham cercado Jerusalém, retiraram-se de Jerusalém."
+     "texto": "Jeremias andava livremente por entre o povo, porque ainda o não tinham metido no cárcere. Entretanto o exército de Faraó saiu do Egipto; ouvindo esta nova, os Caldeus, que tinham cercado Jerusalém, retiraram-se de Jerusalém."
     },
     {
      "n": 5,
@@ -3923,7 +3923,7 @@
     },
     {
      "n": 6,
-     "texto": "Isto diz o Senhor Deus de Israel: Assim respondereis ao rei de Judá que vos enviou a consultar-me: O exército de Faraó, que saiu para vos dar socorro, voltará para a sua terra no Egito,"
+     "texto": "Isto diz o Senhor Deus de Israel: Assim respondereis ao rei de Judá que vos enviou a consultar-me: O exército de Faraó, que saiu para vos dar socorro, voltará para a sua terra no Egipto,"
     },
     {
      "n": 7,
@@ -3935,7 +3935,7 @@
     },
     {
      "n": 9,
-     "texto": "Mas, ainda que derrotásseis todo o exército dos Caldeus que pelejam contra vós, e ficassem deles somente alguns feridos, eles se levantariam, cada um da sua tenda, e queimariam esta cidade."
+     "texto": "Mas, ainda que derrotásseis todo o exército dos Caldeus que pelejam contra vós, e ficassem deles sòmente alguns feridos, eles se levantariam, cada um da sua tenda, e queimariam esta cidade."
     },
     {
      "n": 10,
@@ -3975,7 +3975,7 @@
     },
     {
      "n": 19,
-     "texto": "Agora, pois, ouve, te rogo, ó rei meu senhor. Ouve favoravelmente a minha súplica, e não me remetas à casa de Jonatan, o secretário, para que não morra lá."
+     "texto": "Agora, pois, ouve, te rogo, ó rei meu senhor. Ouve favoràvelmente a minha súplica, e não me remetas à casa de Jonatan, o secretário, para que não morra lá."
     },
     {
      "n": 20,
@@ -4092,7 +4092,7 @@
     },
     {
      "n": 27,
-     "texto": "Efetivamente todos os grandes foram ter com Jeremias e interrogaram-no; ele respondeu-lhes conforme tudo o que o rei lhe tinha mandado. Não o inquietaram mais, porque se não tinha divulgado nada."
+     "texto": "Efectivamente todos os grandes foram ter com Jeremias e interrogaram-no; ele respondeu-lhes conforme tudo o que o rei lhe tinha mandado. Não o inquietaram mais, porque se não tinha divulgado nada."
     },
     {
      "n": 28,
@@ -4315,7 +4315,7 @@
     },
     {
      "n": 17,
-     "texto": "Foram-se dali, e estiveram de passagem em Camaão, que está ao pé de Belém, com o fim de passarem depois adiante e entrar no Egito,"
+     "texto": "Foram-se dali, e estiveram de passagem em Camaão, que está ao pé de Belém, com o fim de passarem depois adiante e entrar no Egipto,"
     },
     {
      "n": 18,
@@ -4332,7 +4332,7 @@
     },
     {
      "n": 2,
-     "texto": "junto do profeta Jeremias e disseram: Seja aceita a nossa súplica na tua presença! Pede ao Senhor teu Deus por nós, por todo este resto, porque de muitos ficamos poucos, como veem os teus olhos."
+     "texto": "junto do profeta Jeremias e disseram: Seja aceita a nossa súplica na tua presença! Pede ao Senhor teu Deus por nós, por todo este resto, porque de muitos ficamos poucos, como vêem os teus olhos."
     },
     {
      "n": 3,
@@ -4380,27 +4380,27 @@
     },
     {
      "n": 14,
-     "texto": "se disserdes: De nenhum modo, mas iremos para a terra do Egito, onde não veremos guerra, nem ouviremos estrondo de trombeta, nem teremos falta de pão, e lá habitaremos -"
+     "texto": "se disserdes: De nenhum modo, mas iremos para a terra do Egipto, onde não veremos guerra, nem ouviremos estrondo de trombeta, nem teremos falta de pão, e lá habitaremos -"
     },
     {
      "n": 15,
-     "texto": "neste caso ouvi agora a palavra do Senhor, ó restos de Judá: Isto diz o Senhor dos exércitos, o Deus de Israel: Se vos obstinais em querer ir para o Egito e se lá entrardes com o fim de aí habitar,"
+     "texto": "neste caso ouvi agora a palavra do Senhor, ó restos de Judá: Isto diz o Senhor dos exércitos, o Deus de Israel: Se vos obstinais em querer ir para o Egipto e se lá entrardes com o fim de aí habitar,"
     },
     {
      "n": 16,
-     "texto": "a espada que temeis vos alcançará na terra do Egito, e a fome que receais, no Egito se vos pegará, e lá morrereis."
+     "texto": "a espada que temeis vos alcançará na terra do Egipto, e a fome que receais, no Egipto se vos pegará, e lá morrereis."
     },
     {
      "n": 17,
-     "texto": "Todos os que se obstinarem em entrar no Egito, com o fim de aí habitar, morrerão à espada, e de fome e de peste; não ficará nenhum deles, nenhum escapará ao castigo que farei vir sobre eles."
+     "texto": "Todos os que se obstinarem em entrar no Egipto, com o fim de aí habitar, morrerão à espada, e de fome e de peste; não ficará nenhum deles, nenhum escapará ao castigo que farei vir sobre eles."
     },
     {
      "n": 18,
-     "texto": "Porque isto diz o Senhor dos exércitos, o Deus de Israel: Assim como o meu furor, a minha indignação se acendeu contra os habitantes de Jerusalém, assim se acenderá a minha indignação contra vós, quando tiverdes entrado no Egito: vireis a ser objeto de execração, de pasmo, de maldição e de opróbrio, e não tornareis mais a ver este lugar."
+     "texto": "Porque isto diz o Senhor dos exércitos, o Deus de Israel: Assim como o meu furor, a minha indignação se acendeu contra os habitantes de Jerusalém, assim se acenderá a minha indignação contra vós, quando tiverdes entrado no Egipto: vireis a ser objecto de execração, de pasmo, de maldição e de opróbrio, e não tornareis mais a ver este lugar."
     },
     {
      "n": 19,
-     "texto": "Esta é a palavra do Senhor a vós, ó restos de Judá: Não entreis no Egito; tende bem presente que hoje vos advirto solenemente."
+     "texto": "Esta é a palavra do Senhor a vós, ó restos de Judá: Não entreis no Egipto; tende bem presente que hoje vos advirto solenemente."
     },
     {
      "n": 20,
@@ -4425,7 +4425,7 @@
     },
     {
      "n": 2,
-     "texto": "Azarias, filho de Osaias, e Joanan, filho de Carée, e todos os homens soberbos disseram a Jeremias: Estás a mentir. O Senhor nosso Deus não te enviou a dizer-nos: Não entreis no Egito para habitardes lá."
+     "texto": "Azarias, filho de Osaias, e Joanan, filho de Carée, e todos os homens soberbos disseram a Jeremias: Estás a mentir. O Senhor nosso Deus não te enviou a dizer-nos: Não entreis no Egipto para habitardes lá."
     },
     {
      "n": 3,
@@ -4445,7 +4445,7 @@
     },
     {
      "n": 7,
-     "texto": "e entraram na terra do Egito, porque não obedeceram à voz do Senhor. E chegaram a Tafnis."
+     "texto": "e entraram na terra do Egipto, porque não obedeceram à voz do Senhor. E chegaram a Tafnis."
     },
     {
      "n": 8,
@@ -4461,15 +4461,15 @@
     },
     {
      "n": 11,
-     "texto": "Virá e ferirá a terra do Egito: O que é para a morte, à morte! O que é para o cativeiro, ao cativeiro! O que é para a espada, à espada!"
+     "texto": "Virá e ferirá a terra do Egipto: O que é para a morte, à morte! O que é para o cativeiro, ao cativeiro! O que é para a espada, à espada!"
     },
     {
      "n": 12,
-     "texto": "Fará pegar fogo aos templos dos deuses do Egito, queimá-los-á, e levará cativos os ídolos; despojará o Egito (de todos os seus tesouros) como um pastor expurga o seu manto, e sairá dali em paz;"
+     "texto": "Fará pegar fogo aos templos dos deuses do Egipto, queimá-los-á, e levará cativos os ídolos; despojará o Egipto (de todos os seus tesouros) como um pastor expurga o seu manto, e sairá dali em paz;"
     },
     {
      "n": 13,
-     "texto": "quebrará as estátuas da Casa do Sol, que há na terra do Egito, e incendiará os templos dos deuses do Egito."
+     "texto": "quebrará as estátuas da Casa do Sol, que há na terra do Egipto, e incendiará os templos dos deuses do Egipto."
     }
    ]
   },
@@ -4478,7 +4478,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Palavra chegada a Jeremias para todos os Judeus que habitavam na terra do Egito, aos que moravam em Migdol, em Tafnis, em Menfis e na terra de Faturés:"
+     "texto": "Palavra chegada a Jeremias para todos os Judeus que habitavam na terra do Egipto, aos que moravam em Migdol, em Tafnis, em Menfis e na terra de Faturés:"
     },
     {
      "n": 2,
@@ -4506,7 +4506,7 @@
     },
     {
      "n": 8,
-     "texto": "pela provocação que me fazeis com as obras de vossas mãos, sacrificando a deuses estranhos na terra do Egito, na qual entrastes para nela habitar? Por que causais assim o vosso extermínio e vos tornais objeto de maldição e de opróbrio de todas as nações da terra?"
+     "texto": "pela provocação que me fazeis com as obras de vossas mãos, sacrificando a deuses estranhos na terra do Egipto, na qual entrastes para nela habitar? Por que causais assim o vosso extermínio e vos tornais objecto de maldição e de opróbrio de todas as nações da terra?"
     },
     {
      "n": 9,
@@ -4522,19 +4522,19 @@
     },
     {
      "n": 12,
-     "texto": "Tomarei os restos de Judá que se obstinaram em entrar na terra do Egito e habitar nela. Serão todos consumidos na terra do Egito: cairão mortos à espada e de fome; serão consumidos, desde o mais pequeno até ao maior, à espada e à fome; ficarão sendo um objeto de execração, de horror, de maldição e de opróbrio."
+     "texto": "Tomarei os restos de Judá que se obstinaram em entrar na terra do Egipto e habitar nela. Serão todos consumidos na terra do Egipto: cairão mortos à espada e de fome; serão consumidos, desde o mais pequeno até ao maior, à espada e à fome; ficarão sendo um objecto de execração, de horror, de maldição e de opróbrio."
     },
     {
      "n": 13,
-     "texto": "Castigarei os (Judeus) que habitam na terra do Egito, como castiguei Jerusalém com a espada, a fome e a peste."
+     "texto": "Castigarei os (Judeus) que habitam na terra do Egipto, como castiguei Jerusalém com a espada, a fome e a peste."
     },
     {
      "n": 14,
-     "texto": "Dos que restavam de Judá, que foram habitar na terra do Egito, não haverá quem escape, quem sobreviva e torne à terra de Judá, à qual eles tanto suspiram voltar para lá morarem. Não voltarão, senão alguns poucos fugitivos."
+     "texto": "Dos que restavam de Judá, que foram habitar na terra do Egipto, não haverá quem escape, quem sobreviva e torne à terra de Judá, à qual eles tanto suspiram voltar para lá morarem. Não voltarão, senão alguns poucos fugitivos."
     },
     {
      "n": 15,
-     "texto": "Então todos os homens que sabiam que suas mulheres sacrificavam a deuses estranhos, e todas as mulheres, de que havia ali grande multidão, e todo o povo que morava na terra do Egito, em Faturés, responderam a Jeremias:"
+     "texto": "Então todos os homens que sabiam que suas mulheres sacrificavam a deuses estranhos, e todas as mulheres, de que havia ali grande multidão, e todo o povo que morava na terra do Egipto, em Faturés, responderam a Jeremias:"
     },
     {
      "n": 16,
@@ -4562,7 +4562,7 @@
     },
     {
      "n": 22,
-     "texto": "Visto que o Senhor não podia já sofrer mais, por causa da malícia dos vossos atos e por causa das abominações que cometestes, a vossa terra se converteu num deserto, pavoroso e maldito, em que ninguém habita, como hoje se vê."
+     "texto": "Visto que o Senhor não podia já sofrer mais, por causa da malícia dos vossos actos e por causa das abominações que cometestes, a vossa terra se converteu num deserto, pavoroso e maldito, em que ninguém habita, como hoje se vê."
     },
     {
      "n": 23,
@@ -4570,7 +4570,7 @@
     },
     {
      "n": 24,
-     "texto": "Depois Jeremias disse a todo o povo e a todas as mulheres: Ouvi a palavra do Senhor, vós todos os de Judá, que estais na terra do Egito:"
+     "texto": "Depois Jeremias disse a todo o povo e a todas as mulheres: Ouvi a palavra do Senhor, vós todos os de Judá, que estais na terra do Egipto:"
     },
     {
      "n": 25,
@@ -4578,15 +4578,15 @@
     },
     {
      "n": 26,
-     "texto": "Porém ouvi a palavra do Senhor, vós todos os de Judá, que habitais na terra do Egito: Eis que juro pelo meu grande nome, diz o Senhor, que de nenhum modo será pronunciado mais o meu nome pela boca de nenhum homem judeu em toda a terra do Egito; nenhum dirá: Vive o Senhor Iavé!"
+     "texto": "Porém ouvi a palavra do Senhor, vós todos os de Judá, que habitais na terra do Egipto: Eis que juro pelo meu grande nome, diz o Senhor, que de nenhum modo será pronunciado mais o meu nome pela boca de nenhum homem judeu em toda a terra do Egipto; nenhum dirá: Vive o Senhor Iavé!"
     },
     {
      "n": 27,
-     "texto": "Eis que vigiarei sobre eles, para seu mal, não para seu bem; todos os varões de Judá, que há na terra do Egito, perecerão à espada e à fome, até que de todo sejam consumidos."
+     "texto": "Eis que vigiarei sobre eles, para seu mal, não para seu bem; todos os varões de Judá, que há na terra do Egipto, perecerão à espada e à fome, até que de todo sejam consumidos."
     },
     {
      "n": 28,
-     "texto": "Os que escaparem da espada, saindo da terra do Egito, voltarão à terra de Judá em pequeno número; todos os restos de Judá, que entraram na terra do Egito, para morarem nela, saberão qual é a palavra que será cumprida: se a minha, se a deles."
+     "texto": "Os que escaparem da espada, saindo da terra do Egipto, voltarão à terra de Judá em pequeno número; todos os restos de Judá, que entraram na terra do Egipto, para morarem nela, saberão qual é a palavra que será cumprida: se a minha, se a deles."
     },
     {
      "n": 29,
@@ -4594,7 +4594,7 @@
     },
     {
      "n": 30,
-     "texto": "Assim fala o Senhor: Vou entregar o Faraó Hofra, rei do Egito, nas mãos dos seus inimigos, nas mãos dos que querem tirar-lhe a vida, assim como entreguei Sedecias, rei de Judá, nas mãos de Nabucodonosor, rei de Babilónia, seu inimigo que procurava (também) tirar-lhe a vida."
+     "texto": "Assim fala o Senhor: Vou entregar o Faraó Hofra, rei do Egipto, nas mãos dos seus inimigos, nas mãos dos que querem tirar-lhe a vida, assim como entreguei Sedecias, rei de Judá, nas mãos de Nabucodonosor, rei de Babilónia, seu inimigo que procurava (também) tirar-lhe a vida."
     }
    ]
   },
@@ -4632,7 +4632,7 @@
     },
     {
      "n": 2,
-     "texto": "Contra o Egito, contra o exército do Faraó Necao rei do Egito, que estava junto ao rio Eufrates em Carcamis, a quem derrotou Nabucodonosor, rei de Babilónia, no ano quarto de Joaquim, filho de Josias, rei de Judá."
+     "texto": "Contra o Egipto, contra o exército do Faraó Necao rei do Egipto, que estava junto ao rio Eufrates em Carcamis, a quem derrotou Nabucodonosor, rei de Babilónia, no ano quarto de Joaquim, filho de Josias, rei de Judá."
     },
     {
      "n": 3,
@@ -4656,7 +4656,7 @@
     },
     {
      "n": 8,
-     "texto": "É o Egito que sobe como o Nilo, como um rio de águas tumultuantes. Dizia: Subindo, cobrirei a terra, destruirei as cidades e os seus habitantes."
+     "texto": "É o Egipto que sobe como o Nilo, como um rio de águas tumultuantes. Dizia: Subindo, cobrirei a terra, destruirei as cidades e os seus habitantes."
     },
     {
      "n": 9,
@@ -4668,7 +4668,7 @@
     },
     {
      "n": 11,
-     "texto": "Sobe a Galaad e toma bálsamo, ó virgem, filha do Egito! Em vão multiplicas os remédios: não haverá cura para ti."
+     "texto": "Sobe a Galaad e toma bálsamo, ó virgem, filha do Egipto! Em vão multiplicas os remédios: não haverá cura para ti."
     },
     {
      "n": 12,
@@ -4676,11 +4676,11 @@
     },
     {
      "n": 13,
-     "texto": "Palavra que o Senhor dirigiu ao profeta Jeremias sobre a vinda de Nabucodonosor, rei de Babilónia, para assolar a terra do Egito:"
+     "texto": "Palavra que o Senhor dirigiu ao profeta Jeremias sobre a vinda de Nabucodonosor, rei de Babilónia, para assolar a terra do Egipto:"
     },
     {
      "n": 14,
-     "texto": "Anunciai no Egito, publicai em Migdol, em Mênfis e em Tafnis. Dizei: Levanta-te, e prepara-te, porque a espada vai devorar o que está em volta de ti."
+     "texto": "Anunciai no Egipto, publicai em Migdol, em Mênfis e em Tafnis. Dizei: Levanta-te, e prepara-te, porque a espada vai devorar o que está em volta de ti."
     },
     {
      "n": 15,
@@ -4692,19 +4692,19 @@
     },
     {
      "n": 17,
-     "texto": "A Faraó, rei do Egito, ponde este nome: O tempo trouxe o tumulto."
+     "texto": "A Faraó, rei do Egipto, ponde este nome: O tempo trouxe o tumulto."
     },
     {
      "n": 18,
-     "texto": "Juro pela minha vida - disse aquele rei cujo nome é Senhor dos exércitos - que, assim como o Tabor (se eleva) entre os montes, e o Carmelo sobre o mar, assim virá (sobre o Egito o instrumento do meu castigo)."
+     "texto": "Juro pela minha vida - disse aquele rei cujo nome é Senhor dos exércitos - que, assim como o Tabor (se eleva) entre os montes, e o Carmelo sobre o mar, assim virá (sobre o Egipto o instrumento do meu castigo)."
     },
     {
      "n": 19,
-     "texto": "Prepara a tua bagagem para transmigrar, ó moradora do Egito, porque Mênfis será convertida num deserto, ficará devastada e despovoada."
+     "texto": "Prepara a tua bagagem para transmigrar, ó moradora do Egipto, porque Mênfis será convertida num deserto, ficará devastada e despovoada."
     },
     {
      "n": 20,
-     "texto": "O Egito é uma novilha mui formosa; do Aquilão vem um moscardão contra ela."
+     "texto": "O Egipto é uma novilha mui formosa; do Aquilão vem um moscardão contra ela."
     },
     {
      "n": 21,
@@ -4720,15 +4720,15 @@
     },
     {
      "n": 24,
-     "texto": "Confundida está a filha do Egito, entregue nas mãos dum povo do Aquilão."
+     "texto": "Confundida está a filha do Egipto, entregue nas mãos dum povo do Aquilão."
     },
     {
      "n": 25,
-     "texto": "O Senhor dos exércitos, o Deus de Israel, disse: Eis que castigarei Amon de Nó, Faraó, o Egito, os seus deuses e os seus reis; Faraó e aqueles que confiam nele."
+     "texto": "O Senhor dos exércitos, o Deus de Israel, disse: Eis que castigarei Amon de Nó, Faraó, o Egipto, os seus deuses e os seus reis; Faraó e aqueles que confiam nele."
     },
     {
      "n": 26,
-     "texto": "Entregá-los-ei nas mãos dos que procuram tirar-lhe a vida, nas mãos de Nabucodonosor, rei de Babilónia, e dos seus servos. Depois disto, o Egito será povoado, como nos dias antigos, diz o Senhor."
+     "texto": "Entregá-los-ei nas mãos dos que procuram tirar-lhe a vida, nas mãos de Nabucodonosor, rei de Babilónia, e dos seus servos. Depois disto, o Egipto será povoado, como nos dias antigos, diz o Senhor."
     },
     {
      "n": 27,
@@ -4842,7 +4842,7 @@
     },
     {
      "n": 17,
-     "texto": "Consolai-o todos os que estais em volta dele; todos os que sabeis o seu nome, dizei: Como se fez em pedaços um cetro tão forte (de Moab), um cetro tão glorioso?"
+     "texto": "Consolai-o todos os que estais em volta dele; todos os que sabeis o seu nome, dizei: Como se fez em pedaços um ceptro tão forte (de Moab), um ceptro tão glorioso?"
     },
     {
      "n": 18,
@@ -4878,7 +4878,7 @@
     },
     {
      "n": 26,
-     "texto": "Embriagai-o (com o cálice da ira do Senhor), porque se levantou contra o Senhor: Moab revolver-se-á sobre o que vomitou, será também um objeto de escárnio."
+     "texto": "Embriagai-o (com o cálice da ira do Senhor), porque se levantou contra o Senhor: Moab revolver-se-á sobre o que vomitou, será também um objecto de escárnio."
     },
     {
      "n": 27,
@@ -4926,11 +4926,11 @@
     },
     {
      "n": 38,
-     "texto": "Sobre todas as casas de Moab e nas suas praças somente se ouvem lamentos, porquanto fiz Moab em pedaços, como a vaso inútil, diz o Senhor."
+     "texto": "Sobre todas as casas de Moab e nas suas praças sòmente se ouvem lamentos, porquanto fiz Moab em pedaços, como a vaso inútil, diz o Senhor."
     },
     {
      "n": 39,
-     "texto": "Como foi despedaçado! Gemei! Como voltou Moab as costas, vergonhosamente! Moab tornou-se objeto de ludíbrio e de espanto para todos que o cercam."
+     "texto": "Como foi despedaçado! Gemei! Como voltou Moab as costas, vergonhosamente! Moab tornou-se objecto de ludíbrio e de espanto para todos que o cercam."
     },
     {
      "n": 40,
@@ -5019,7 +5019,7 @@
     },
     {
      "n": 13,
-     "texto": "Por mim mesmo o juro, diz o Senhor; Brosra será um objeto de pasmo e de opróbrio, um deserto e uma maldição; todas as suas cidades serão ruínas sempiternas."
+     "texto": "Por mim mesmo o juro, diz o Senhor; Brosra será um objecto de pasmo e de opróbrio, um deserto e uma maldição; todas as suas cidades serão ruínas sempiternas."
     },
     {
      "n": 14,
@@ -5035,7 +5035,7 @@
     },
     {
      "n": 17,
-     "texto": "A Idumeia será um objeto de pasmo; todo o que atravessar pelas suas terras, pasmará e fará mofa de todas as suas desgraças."
+     "texto": "A Idumeia será um objecto de pasmo; todo o que atravessar pelas suas terras, pasmará e fará mofa de todas as suas desgraças."
     },
     {
      "n": 18,
@@ -5047,7 +5047,7 @@
     },
     {
      "n": 20,
-     "texto": "Portanto ouvi a resolução que o Senhor formou contra Edom, os seus projetos contra os moradores de Teman: Como os mais pequenos do rebanho serão arrastados (à morte), e a sua pastagem será devastada."
+     "texto": "Portanto ouvi a resolução que o Senhor formou contra Edom, os seus projectos contra os moradores de Teman: Como os mais pequenos do rebanho serão arrastados (à morte), e a sua pastagem será devastada."
     },
     {
      "n": 21,
@@ -5087,7 +5087,7 @@
     },
     {
      "n": 30,
-     "texto": "Fugi, ide-vos a toda a pressa, escondei-vos nas cavernas, vós que morais em Hasor, diz o Senhor, porque Nabucodonosor, rei de Babilónia, forjou um plano contra vós, formou projetos contra vós."
+     "texto": "Fugi, ide-vos a toda a pressa, escondei-vos nas cavernas, vós que morais em Hasor, diz o Senhor, porque Nabucodonosor, rei de Babilónia, forjou um plano contra vós, formou projectos contra vós."
     },
     {
      "n": 31,
@@ -5220,7 +5220,7 @@
     },
     {
      "n": 23,
-     "texto": "Como se quebrou e se fez em pedaços (Babilónia que era) o martelo de toda a terra? Como se transformou num objeto de horror esta Babilónia entre as nações?"
+     "texto": "Como se quebrou e se fez em pedaços (Babilónia que era) o martelo de toda a terra? Como se transformou num objecto de horror esta Babilónia entre as nações?"
     },
     {
      "n": 24,
@@ -5308,7 +5308,7 @@
     },
     {
      "n": 45,
-     "texto": "Portanto ouvi a resolução que o Senhor formou contra Babilónia, os projetos que concebeu contra a terra dos Caldeus: Serão arrastados como os mais pequenos do rebanho, a sua pastagem será devastada."
+     "texto": "Portanto ouvi a resolução que o Senhor formou contra Babilónia, os projectos que concebeu contra a terra dos Caldeus: Serão arrastados como os mais pequenos do rebanho, a sua pastagem será devastada."
     },
     {
      "n": 46,
@@ -5465,7 +5465,7 @@
     },
     {
      "n": 37,
-     "texto": "Babilónia será reduzida a um montão de escombros, virá a ser a habitação de chacais, objeto de espanto e de escárnio, sem ter quem a habite."
+     "texto": "Babilónia será reduzida a um montão de escombros, virá a ser a habitação de chacais, objecto de espanto e de escárnio, sem ter quem a habite."
     },
     {
      "n": 38,
@@ -5481,7 +5481,7 @@
     },
     {
      "n": 41,
-     "texto": "Como foi tomada, vencida a (cidade mais) ilustre de toda a terra? Como é que Babilónia se tornou um objeto de espanto entre as nações?"
+     "texto": "Como foi tomada, vencida a (cidade mais) ilustre de toda a terra? Como é que Babilónia se tornou um objecto de espanto entre as nações?"
     },
     {
      "n": 42,
@@ -5489,7 +5489,7 @@
     },
     {
      "n": 43,
-     "texto": "As suas cidades tornaram-se um objeto de espanto, terra árida e deserta, terra em que ninguém habita, por onde não passa nenhum filho de homem."
+     "texto": "As suas cidades tornaram-se um objecto de espanto, terra árida e deserta, terra em que ninguém habita, por onde não passa nenhum filho de homem."
     },
     {
      "n": 44,

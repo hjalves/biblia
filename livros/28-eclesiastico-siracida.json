@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -75,7 +75,7 @@
     },
     {
      "n": 15,
-     "texto": "Aqueles a quem ela se manifesta, amam-na logo que a veem, desde que reconhecem as maravilhas que opera."
+     "texto": "Aqueles a quem ela se manifesta, amam-na logo que a vêem, desde que reconhecem as maravilhas que opera."
     },
     {
      "n": 16,
@@ -232,7 +232,7 @@
     },
     {
      "n": 13,
-     "texto": "Porque Deus é bom e misericordioso, e perdoará os pecados no dia da tribulação; ele é o protetor de todos os que o buscam em verdade."
+     "texto": "Porque Deus é bom e misericordioso, e perdoará os pecados no dia da tribulação; ele é o protector de todos os que o buscam em verdade."
     },
     {
      "n": 14,
@@ -244,7 +244,7 @@
     },
     {
      "n": 16,
-     "texto": "Ai dos que perderam a paciência, que deixaram os caminhos retos e se extraviaram por veredas malignas!"
+     "texto": "Ai dos que perderam a paciência, que deixaram os caminhos rectos e se extraviaram por veredas malignas!"
     },
     {
      "n": 17,
@@ -309,7 +309,7 @@
     },
     {
      "n": 9,
-     "texto": "Honra teu pai por ações, por palavras e com toda a paciência,"
+     "texto": "Honra teu pai por acções, por palavras e com toda a paciência,"
     },
     {
      "n": 10,
@@ -462,7 +462,7 @@
     },
     {
      "n": 12,
-     "texto": "A sabedoria infunde vida a seus filhos, toma debaixo da sua proteção os que a buscam, vai adiante deles no caminho da justiça."
+     "texto": "A sabedoria infunde vida a seus filhos, toma debaixo da sua protecção os que a buscam, vai adiante deles no caminho da justiça."
     },
     {
      "n": 13,
@@ -494,7 +494,7 @@
     },
     {
      "n": 20,
-     "texto": "Então ela o porá firme, encaminhar-se-á diretamente a ele, enchê-lo-á de alegria,"
+     "texto": "Então ela o porá firme, encaminhar-se-á directamente a ele, enchê-lo-á de alegria,"
     },
     {
      "n": 21,
@@ -575,7 +575,7 @@
     },
     {
      "n": 3,
-     "texto": "e não digas: Como sou poderoso! Quem poderá obrigar-me a dar contas das minhas ações? Com efeito Deus exercerá a sua vingança."
+     "texto": "e não digas: Como sou poderoso! Quem poderá obrigar-me a dar contas das minhas acções? Com efeito Deus exercerá a sua vingança."
     },
     {
      "n": 4,
@@ -668,11 +668,11 @@
     },
     {
      "n": 7,
-     "texto": "Se queres ter um amigo, toma-o depois de o teres provado, e não te fies facilmente nele."
+     "texto": "Se queres ter um amigo, toma-o depois de o teres provado, e não te fies fàcilmente nele."
     },
     {
      "n": 8,
-     "texto": "Com efeito, há tal amigo que somente o é quando nisso acha a sua conveniência, e que deixará de o ser no dia da tribulação."
+     "texto": "Com efeito, há tal amigo que sòmente o é quando nisso acha a sua conveniência, e que deixará de o ser no dia da tribulação."
     },
     {
      "n": 9,
@@ -696,7 +696,7 @@
     },
     {
      "n": 14,
-     "texto": "O amigo fiel é uma forte proteção; quem o encontrou, encontrou um tesouro."
+     "texto": "O amigo fiel é uma forte protecção; quem o encontrou, encontrou um tesouro."
     },
     {
      "n": 15,
@@ -760,7 +760,7 @@
     },
     {
      "n": 30,
-     "texto": "Os seus grilhões serão para ti uma forte proteção e um firme apoio, as suas cadeias um vestido de glória:"
+     "texto": "Os seus grilhões serão para ti uma forte protecção e um firme apoio, as suas cadeias um vestido de glória:"
     },
     {
      "n": 31,
@@ -1067,7 +1067,7 @@
     },
     {
      "n": 4,
-     "texto": "Não andes muito com uma bailarina, nem a ouças, para não pereceres à força dos seus atrativos."
+     "texto": "Não andes muito com uma bailarina, nem a ouças, para não pereceres à força dos seus atractivos."
     },
     {
      "n": 5,
@@ -1305,7 +1305,7 @@
     },
     {
      "n": 2,
-     "texto": "Não louves o homem pela sua beleza; nem o desprezes pelo seu aspeto."
+     "texto": "Não louves o homem pela sua beleza; nem o desprezes pelo seu aspecto."
     },
     {
      "n": 3,
@@ -1373,7 +1373,7 @@
     },
     {
      "n": 19,
-     "texto": "consiste em dizer: Encontrei repouso, e agora comerei sozinho dos meus bens."
+     "texto": "consiste em dizer: Encontrei repouso, e agora comerei sòzinho dos meus bens."
     },
     {
      "n": 20,
@@ -1958,7 +1958,7 @@
     },
     {
      "n": 23,
-     "texto": "O homem sem coração pensa em coisas vãs, e o imprudente e extraviado pensa (somente) em loucuras."
+     "texto": "O homem sem coração pensa em coisas vãs, e o imprudente e extraviado pensa (sòmente) em loucuras."
     },
     {
      "n": 24,
@@ -1966,7 +1966,7 @@
     },
     {
      "n": 25,
-     "texto": "Eu te darei instruções muito acertadas e te manifestarei os arcanos da sabedoria. Está atento em teu coração às minhas palavras, e te direi, com retidão de espírito, as maravilhas que desde o princípio Deus fez brilhar nas suas obras, e te mostrarei com verdade a sua ciência."
+     "texto": "Eu te darei instruções muito acertadas e te manifestarei os arcanos da sabedoria. Está atento em teu coração às minhas palavras, e te direi, com rectidão de espírito, as maravilhas que desde o princípio Deus fez brilhar nas suas obras, e te mostrarei com verdade a sua ciência."
     },
     {
      "n": 26,
@@ -2172,7 +2172,7 @@
     },
     {
      "n": 12,
-     "texto": "A misericórdia do homem tem por objeto o seu próximo, porém a misericórdia de Deus estende-se a todo o ser vivo."
+     "texto": "A misericórdia do homem tem por objecto o seu próximo, porém a misericórdia de Deus estende-se a todo o ser vivo."
     },
     {
      "n": 13,
@@ -2196,7 +2196,7 @@
     },
     {
      "n": 18,
-     "texto": "O insensato impropera asperamente; o dom do invejoso consome os olhos."
+     "texto": "O insensato impropera àsperamente; o dom do invejoso consome os olhos."
     },
     {
      "n": 19,
@@ -2281,7 +2281,7 @@
     },
     {
      "n": 5,
-     "texto": "Aquele que se deleita com a iniquidade será desonrado; o que aborrece a correção, abreviará a sua vida; o que aborrece a loquacidade, extingue a malícia."
+     "texto": "Aquele que se deleita com a iniquidade será desonrado; o que aborrece a correcção, abreviará a sua vida; o que aborrece a loquacidade, extingue a malícia."
     },
     {
      "n": 6,
@@ -2365,7 +2365,7 @@
     },
     {
      "n": 26,
-     "texto": "Pelo semblante se conhece o homem; pelo seu aspeto se conhece o homem sensato."
+     "texto": "Pelo semblante se conhece o homem; pelo seu aspecto se conhece o homem sensato."
     },
     {
      "n": 27,
@@ -2373,7 +2373,7 @@
     },
     {
      "n": 28,
-     "texto": "Há uma correção falsa, que nasce da ira dum insolente, e há um juízo, que se prova não ser justo, e há quem se cale mostrando ser prudente."
+     "texto": "Há uma correcção falsa, que nasce da ira dum insolente, e há um juízo, que se prova não ser justo, e há quem se cale mostrando ser prudente."
     }
    ]
   },
@@ -2426,7 +2426,7 @@
     },
     {
      "n": 12,
-     "texto": "Há quem compre muitas coisas por baixo prego, mas que (de facto) as paga pelo sétuplo do seu valor."
+     "texto": "Há quem compre muitas coisas por baixo prego, mas que (de facto) as paga pelo séptuplo do seu valor."
     },
     {
      "n": 13,
@@ -2470,7 +2470,7 @@
     },
     {
      "n": 23,
-     "texto": "Há quem se abstenha de pecar por falta de meios, e sofra por ter de estar na inação."
+     "texto": "Há quem se abstenha de pecar por falta de meios, e sofra por ter de estar na inacção."
     },
     {
      "n": 24,
@@ -2752,7 +2752,7 @@
     },
     {
      "n": 27,
-     "texto": "Ainda que tenhas dito ao teu amigo palavras contristadoras, não temas, porque a reconciliação é possível, exceto se se trata de afrontas, impropérios, orgulhoso desdém, revelação de segredo e golpes à traição: em todos estes casos fugirá de ti o amigo."
+     "texto": "Ainda que tenhas dito ao teu amigo palavras contristadoras, não temas, porque a reconciliação é possível, excepto se se trata de afrontas, impropérios, orgulhoso desdém, revelação de segredo e golpes à traição: em todos estes casos fugirá de ti o amigo."
     },
     {
      "n": 28,
@@ -2789,7 +2789,7 @@
     },
     {
      "n": 2,
-     "texto": "Quem aplicará ao meu pensamento o açoite (das correções)e (fará sentir) ao meu coração a disciplina da sabedoria, para eu não ser poupado no respeitante às minhas faltas, a fim de que não apareçam os meu pecados."
+     "texto": "Quem aplicará ao meu pensamento o açoite (das correcções)e (fará sentir) ao meu coração a disciplina da sabedoria, para eu não ser poupado no respeitante às minhas faltas, a fim de que não apareçam os meu pecados."
     },
     {
      "n": 3,
@@ -2809,7 +2809,7 @@
     },
     {
      "n": 7,
-     "texto": "Ouvi, filhos, as regras que vos dou sobre a moderação da língua Aquele que as guardar, não perecerá pelos lábios, nem cairá em ações criminosas."
+     "texto": "Ouvi, filhos, as regras que vos dou sobre a moderação da língua Aquele que as guardar, não perecerá pelos lábios, nem cairá em acções criminosas."
     },
     {
      "n": 8,
@@ -2889,7 +2889,7 @@
     },
     {
      "n": 27,
-     "texto": "(Esse homem) não considera que os olhos do Senhor veem todas as coisas, que um semelhante temor humano expele de si o temor de Deus, e que os olhos dos homens são unicamente os que o fazem temer."
+     "texto": "(Esse homem) não considera que os olhos do Senhor vêem todas as coisas, que um semelhante temor humano expele de si o temor de Deus, e que os olhos dos homens são unicamente os que o fazem temer."
     },
     {
      "n": 28,
@@ -3195,7 +3195,7 @@
     },
     {
      "n": 16,
-     "texto": "O temor de Deus é o princípio do seu amor, mas inseparavelmente se lhe deve ajuntar um princípio de fé."
+     "texto": "O temor de Deus é o princípio do seu amor, mas inseparàvelmente se lhe deve ajuntar um princípio de fé."
     },
     {
      "n": 17,
@@ -3227,7 +3227,7 @@
     },
     {
      "n": 24,
-     "texto": "A maldade da mulher faz-lhe mudar de rosto, dá-lhe um aspeto sombrio como o dum urso, torna-o (escuro e áspero) como um saco. No meio dos seus vizinhos"
+     "texto": "A maldade da mulher faz-lhe mudar de rosto, dá-lhe um aspecto sombrio como o dum urso, torna-o (escuro e áspero) como um saco. No meio dos seus vizinhos"
     },
     {
      "n": 25,
@@ -3538,7 +3538,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Aquele que quer vingar-se, encontrará a vingança do Senhor, o qual tirará exata conta dos seus pecados."
+     "texto": "Aquele que quer vingar-se, encontrará a vingança do Senhor, o qual tirará exacta conta dos seus pecados."
     },
     {
      "n": 2,
@@ -4017,7 +4017,7 @@
     },
     {
      "n": 27,
-     "texto": "Sê pronto em todas as tuas ações, e não te virá nenhuma enfermidade."
+     "texto": "Sê pronto em todas as tuas acções, e não te virá nenhuma enfermidade."
     },
     {
      "n": 28,
@@ -4138,7 +4138,7 @@
     },
     {
      "n": 14,
-     "texto": "Antes do trovão aparece o relâmpago e diante da modéstia vai a graça; pela tua circunspeção serás bem-quisto."
+     "texto": "Antes do trovão aparece o relâmpago e diante da modéstia vai a graça; pela tua circunspecção serás bem-quisto."
     },
     {
      "n": 15,
@@ -4299,7 +4299,7 @@
     },
     {
      "n": 25,
-     "texto": "Ao asno, penso, vara e carga; ao escravo, pão, correção e trabalho."
+     "texto": "Ao asno, penso, vara e carga; ao escravo, pão, correcção e trabalho."
     },
     {
      "n": 26,
@@ -4319,7 +4319,7 @@
     },
     {
      "n": 30,
-     "texto": "Põe-no ao trabalho, porque assim lhe convém. Mas, se ele te não obedecer, aperreia-o com grilhões; porém não cometas excessos seja com quem for, e não faças coisa alguma grave sem ter refletido."
+     "texto": "Põe-no ao trabalho, porque assim lhe convém. Mas, se ele te não obedecer, aperreia-o com grilhões; porém não cometas excessos seja com quem for, e não faças coisa alguma grave sem ter reflectido."
     },
     {
      "n": 31,
@@ -4412,7 +4412,7 @@
     },
     {
      "n": 19,
-     "texto": "Os olhos do Senhor estão sobre os que o temem; ele é um protetor poderoso, um esteio forte, um abrigo contra o calor, uma proteção contra o ardor do meio-dia,"
+     "texto": "Os olhos do Senhor estão sobre os que o temem; ele é um protector poderoso, um esteio forte, um abrigo contra o calor, uma protecção contra o ardor do meio-dia,"
     },
     {
      "n": 20,
@@ -4541,7 +4541,7 @@
     },
     {
      "n": 19,
-     "texto": "Efetivamente, elas das faces (da viúva) sobem até ao céu, e o Senhor, que a ouve, não gostará de a ver chorar."
+     "texto": "Efectivamente, elas das faces (da viúva) sobem até ao céu, e o Senhor, que a ouve, não gostará de a ver chorar."
     },
     {
      "n": 20,
@@ -4557,11 +4557,11 @@
     },
     {
      "n": 23,
-     "texto": "Vingar-se-á das nações, até desfazer a multidão dos soberbos e quebrar os cetros dos iníquos;"
+     "texto": "Vingar-se-á das nações, até desfazer a multidão dos soberbos e quebrar os ceptros dos iníquos;"
     },
     {
      "n": 24,
-     "texto": "até retribuir aos homens segundo as suas ações, segundo as obras e presunção de (qualquer descendente de) Adão;"
+     "texto": "até retribuir aos homens segundo as suas acções, segundo as obras e presunção de (qualquer descendente de) Adão;"
     },
     {
      "n": 25,
@@ -4695,7 +4695,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Todo o amigo dirá: Eu também contraí amizade contigo. Porém há amigos que o são somente de nome. Não causa isto uma dor que se avizinha da morte."
+     "texto": "Todo o amigo dirá: Eu também contraí amizade contigo. Porém há amigos que o são sòmente de nome. Não causa isto uma dor que se avizinha da morte."
     },
     {
      "n": 2,
@@ -4864,7 +4864,7 @@
     },
     {
      "n": 8,
-     "texto": "(Pela sua ação) a paz de Deus estende-se sobre a face da terra."
+     "texto": "(Pela sua acção) a paz de Deus estende-se sobre a face da terra."
     },
     {
      "n": 9,
@@ -4888,7 +4888,7 @@
     },
     {
      "n": 14,
-     "texto": "e eles mesmos rogarão ao Senhor que envie por meio deles o alívio e a saúde, em atenção à sua vida reta."
+     "texto": "e eles mesmos rogarão ao Senhor que envie por meio deles o alívio e a saúde, em atenção à sua vida recta."
     },
     {
      "n": 15,
@@ -4904,7 +4904,7 @@
     },
     {
      "n": 18,
-     "texto": "Toma este nojo segundo o merecimento da pessoa, um dia ou dois, para não dares lugar à detração."
+     "texto": "Toma este nojo segundo o merecimento da pessoa, um dia ou dois, para não dares lugar à detracção."
     },
     {
      "n": 19,
@@ -4936,7 +4936,7 @@
     },
     {
      "n": 26,
-     "texto": "o que pega no arado, que faz timbre de saber picar os bois com o aguilhão, que se ocupa constantemente com os trabalhos deles, e cuja conversação é somente sobre novilhos de touros?"
+     "texto": "o que pega no arado, que faz timbre de saber picar os bois com o aguilhão, que se ocupa constantemente com os trabalhos deles, e cuja conversação é sòmente sobre novilhos de touros?"
     },
     {
      "n": 27,
@@ -4944,7 +4944,7 @@
     },
     {
      "n": 28,
-     "texto": "Assim sucede com todo o carpinteiro e arquiteto, que passa trabalhando a noite e o dia; com o que grava as figuras dos sinetes, e que todo se cansa em as variar, que aplica o seu coração em reproduzir o debuxo, e, à força de vigílias, completa a obra."
+     "texto": "Assim sucede com todo o carpinteiro e arquitecto, que passa trabalhando a noite e o dia; com o que grava as figuras dos sinetes, e que todo se cansa em as variar, que aplica o seu coração em reproduzir o debuxo, e, à força de vigílias, completa a obra."
     },
     {
      "n": 29,
@@ -5089,7 +5089,7 @@
     },
     {
      "n": 24,
-     "texto": "Estão à sua vista as ações de todos os homens, não há nada escondido a seus olhos."
+     "texto": "Estão à sua vista as acções de todos os homens, não há nada escondido a seus olhos."
     },
     {
      "n": 25,
@@ -5210,7 +5210,7 @@
     },
     {
      "n": 12,
-     "texto": "Toda a dádiva (oferecida para corromper) e toda a (riqueza adquirida com) iniquidade perecerão, porém a retidão subsistirá eternamente."
+     "texto": "Toda a dádiva (oferecida para corromper) e toda a (riqueza adquirida com) iniquidade perecerão, porém a rectidão subsistirá eternamente."
     },
     {
      "n": 13,
@@ -5327,7 +5327,7 @@
     },
     {
      "n": 8,
-     "texto": "Os filhos dos pecadores tornam-se (ordinariamente) filhos de abominação, assim como os que frequentam as casas dos ímpios."
+     "texto": "Os filhos dos pecadores tornam-se (ordinàriamente) filhos de abominação, assim como os que frequentam as casas dos ímpios."
     },
     {
      "n": 9,
@@ -5359,7 +5359,7 @@
     },
     {
      "n": 16,
-     "texto": "A vida boa tem somente um certo número de dias, mas o bom nome permanecerá para sempre."
+     "texto": "A vida boa tem sòmente um certo número de dias, mas o bom nome permanecerá para sempre."
     },
     {
      "n": 17,
@@ -5432,7 +5432,7 @@
     },
     {
      "n": 5,
-     "texto": "do preço da venda dos negociantes, da correção frequente dos filhos, de açoutar o dorso do escravo péssimo até que salte o sangue."
+     "texto": "do preço da venda dos negociantes, da correcção frequente dos filhos, de açoutar o dorso do escravo péssimo até que salte o sangue."
     },
     {
      "n": 6,
@@ -5456,7 +5456,7 @@
     },
     {
      "n": 11,
-     "texto": "Sobre a filha desenvolta vigia com dobrado resguardo, para que não faça de ti o opróbrio dos teus inimigos, o objeto de detração da cidade e do ludíbrio da plebe, e te envergonhe diante da multidão do povo."
+     "texto": "Sobre a filha desenvolta vigia com dobrado resguardo, para que não faça de ti o opróbrio dos teus inimigos, o objecto de detracção da cidade e do ludíbrio da plebe, e te envergonhe diante da multidão do povo."
     },
     {
      "n": 12,
@@ -5480,7 +5480,7 @@
     },
     {
      "n": 17,
-     "texto": "Porventura não fez o Senhor que os Santos publicassem todas as suas maravilhas, as quais o mesmo Senhor omnipotente solidamente estabeleceu, para que subsistam para sua glória?"
+     "texto": "Porventura não fez o Senhor que os Santos publicassem todas as suas maravilhas, as quais o mesmo Senhor omnipotente sòlidamente estabeleceu, para que subsistam para sua glória?"
     },
     {
      "n": 18,
@@ -5525,7 +5525,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "O firmamento é a formosura do céu, e a abóbada celeste é um espetáculo de majestade."
+     "texto": "O firmamento é a formosura do céu, e a abóbada celeste é um espectáculo de majestade."
     },
     {
      "n": 2,
@@ -5665,7 +5665,7 @@
     },
     {
      "n": 36,
-     "texto": "Muitas obras suas, maiores do que estas, nos são escondidas, pois nós somente vemos um pequeno número delas."
+     "texto": "Muitas obras suas, maiores do que estas, nos são escondidas, pois nós sòmente vemos um pequeno número delas."
     },
     {
      "n": 37,
@@ -5851,7 +5851,7 @@
     },
     {
      "n": 17,
-     "texto": "Os seus sacrifícios eram diariamente consumidos pelo fogo."
+     "texto": "Os seus sacrifícios eram diàriamente consumidos pelo fogo."
     },
     {
      "n": 18,
@@ -5948,7 +5948,7 @@
     },
     {
      "n": 9,
-     "texto": "e nos dias de Moisés fez uma ação de misericórdia, ele e Caleb, filho de Jefone, resolvendo fazer frente ao inimigo, impedindo o povo de pecar, e apaziguando a murmuração que a malícia tinha excitado."
+     "texto": "e nos dias de Moisés fez uma acção de misericórdia, ele e Caleb, filho de Jefone, resolvendo fazer frente ao inimigo, impedindo o povo de pecar, e apaziguando a murmuração que a malícia tinha excitado."
     },
     {
      "n": 10,
@@ -5972,7 +5972,7 @@
     },
     {
      "n": 15,
-     "texto": "e dure perpetuamente o seu nome, passando aos seus filhos com a glória desses santos varões."
+     "texto": "e dure perpètuamente o seu nome, passando aos seus filhos com a glória desses santos varões."
     },
     {
      "n": 16,
@@ -6206,7 +6206,7 @@
     },
     {
      "n": 17,
-     "texto": "Ficou muito pouca gente (na Palestina), e (somente) um príncipe da casa de Davide."
+     "texto": "Ficou muito pouca gente (na Palestina), e (sòmente) um príncipe da casa de Davide."
     },
     {
      "n": 18,
@@ -6275,7 +6275,7 @@
     },
     {
      "n": 5,
-     "texto": "Exceto Davide, Ezequias e Josias, todos cometeram o pecado:"
+     "texto": "Excepto Davide, Ezequias e Josias, todos cometeram o pecado:"
     },
     {
      "n": 6,
@@ -6299,7 +6299,7 @@
     },
     {
      "n": 11,
-     "texto": "Anunciou a chuva para os inimigos de Deus, e os bens reservados para aqueles que seguiam o caminho reto."
+     "texto": "Anunciou a chuva para os inimigos de Deus, e os bens reservados para aqueles que seguiam o caminho recto."
     },
     {
      "n": 12,
@@ -6348,7 +6348,7 @@
     },
     {
      "n": 3,
-     "texto": "Em seus dias correram os mananciais das águas dos reservatórios, que se encheram extraordinariamente, como o mar (de bronze)."
+     "texto": "Em seus dias correram os mananciais das águas dos reservatórios, que se encheram extraordinàriamente, como o mar (de bronze)."
     },
     {
      "n": 4,
@@ -6473,7 +6473,7 @@
     },
     {
      "n": 2,
-     "texto": "Glorificarei o teu nome, porque te fizeste o meu auxílio e protetor,"
+     "texto": "Glorificarei o teu nome, porque te fizeste o meu auxílio e protector,"
     },
     {
      "n": 3,
@@ -6525,7 +6525,7 @@
     },
     {
      "n": 15,
-     "texto": "Louvarei incessantemente o teu nome, celebrá-lo-ei nas minhas ações de graças, pois foi atendida a minha oração."
+     "texto": "Louvarei incessantemente o teu nome, celebrá-lo-ei nas minhas acções de graças, pois foi atendida a minha oração."
     },
     {
      "n": 16,

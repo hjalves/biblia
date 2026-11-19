@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -63,7 +63,7 @@
     },
     {
      "n": 12,
-     "texto": "Mas a todos os que o receberam, deu poder de se tornarem filhos de Deus, àqueles que creem no seu nome;"
+     "texto": "Mas a todos os que o receberam, deu poder de se tornarem filhos de Deus, àqueles que crêem no seu nome;"
     },
     {
      "n": 13,
@@ -115,11 +115,11 @@
     },
     {
      "n": 25,
-     "texto": "Interrogaram-no, dizendo: \"Como batizas, pois, se não és o Cristo, nem Elias, nem o profeta?\""
+     "texto": "Interrogaram-no, dizendo: \"Como baptizas, pois, se não és o Cristo, nem Elias, nem o profeta?\""
     },
     {
      "n": 26,
-     "texto": "João respondeu-lhes: \"Eu batizo em água, mas no meio de vós está quem vós não conheceis."
+     "texto": "João respondeu-lhes: \"Eu baptizo em água, mas no meio de vós está quem vós não conheceis."
     },
     {
      "n": 27,
@@ -127,7 +127,7 @@
     },
     {
      "n": 28,
-     "texto": "Estas coisas passaram-se em Betânia, da banda de além do Jordão, onde João estava batizando."
+     "texto": "Estas coisas passaram-se em Betânia, da banda de além do Jordão, onde João estava baptizando."
     },
     {
      "n": 29,
@@ -139,7 +139,7 @@
     },
     {
      "n": 31,
-     "texto": "e eu não o conhecia, mas vim batizar em água, para ele ser reconhecido em Israel.\""
+     "texto": "e eu não o conhecia, mas vim baptizar em água, para ele ser reconhecido em Israel.\""
     },
     {
      "n": 32,
@@ -147,7 +147,7 @@
     },
     {
      "n": 33,
-     "texto": "Eu não o conhecia, mas o que me mandou batizar em água, disse-me: Aquele, sobre quem vires descer e repousar o Espírito, esse é o que batiza no Espírito Santo."
+     "texto": "Eu não o conhecia, mas o que me mandou baptizar em água, disse-me: Aquele, sobre quem vires descer e repousar o Espírito, esse é o que baptiza no Espírito Santo."
     },
     {
      "n": 34,
@@ -417,11 +417,11 @@
     },
     {
      "n": 22,
-     "texto": "Depois disto, foi Jesus com seus discípulos para a terra da Judeia. Habitava com eles, e batizava."
+     "texto": "Depois disto, foi Jesus com seus discípulos para a terra da Judeia. Habitava com eles, e baptizava."
     },
     {
      "n": 23,
-     "texto": "João estava também batizando em Enon, junto a Salím, porque havia ali muita água, e o povo concorria para ser batizado."
+     "texto": "João estava também baptizando em Enon, junto a Salím, porque havia ali muita água, e o povo concorria para ser baptizado."
     },
     {
      "n": 24,
@@ -433,7 +433,7 @@
     },
     {
      "n": 26,
-     "texto": "Foram ter com João, e disseram-lhe: \"Mestre, o que estava contigo da banda de além do Jordão, de quem tu deste testemunho ei-lo que está batizando, e todos vão a ele.\""
+     "texto": "Foram ter com João, e disseram-lhe: \"Mestre, o que estava contigo da banda de além do Jordão, de quem tu deste testemunho ei-lo que está baptizando, e todos vão a ele.\""
     },
     {
      "n": 27,
@@ -482,11 +482,11 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Quando Jesus soube que os fariseus tinham ouvido que ele fazia mais discípulos e batizava mais que João,"
+     "texto": "Quando Jesus soube que os fariseus tinham ouvido que ele fazia mais discípulos e baptizava mais que João,"
     },
     {
      "n": 2,
-     "texto": "(todavia não era o próprio Jesus que batizava, mas os seus discípulos),"
+     "texto": "(todavia não era o próprio Jesus que baptizava, mas os seus discípulos),"
     },
     {
      "n": 3,
@@ -771,11 +771,11 @@
     },
     {
      "n": 18,
-     "texto": "Por isso, os Judeus procuravam com maior ardor matá-lo, porque não somente violava o sábado, mas também dizia que Deus era seu Pai, fazendo-se igual a Deus, Jesus respondeu, pois, e disse-lhes:"
+     "texto": "Por isso, os Judeus procuravam com maior ardor matá-lo, porque não sòmente violava o sábado, mas também dizia que Deus era seu Pai, fazendo-se igual a Deus, Jesus respondeu, pois, e disse-lhes:"
     },
     {
      "n": 19,
-     "texto": "Em verdade, em verdade vos digo: O Filho não pode de si mesmo fazer coisa alguma, mas somente o que vir fazer ao Pai; porque tudo o que fizer o Pai, o faz igualmente o Filho."
+     "texto": "Em verdade, em verdade vos digo: O Filho não pode de si mesmo fazer coisa alguma, mas sòmente o que vir fazer ao Pai; porque tudo o que fizer o Pai, o faz igualmente o Filho."
     },
     {
      "n": 20,
@@ -960,7 +960,7 @@
     },
     {
      "n": 17,
-     "texto": "e, tendo subido para uma barca, atravessaram o mar em direção a Cafarnaum. Era já escuro, e Jesus ainda não tinha ido ter com eles."
+     "texto": "e, tendo subido para uma barca, atravessaram o mar em direcção a Cafarnaum. Era já escuro, e Jesus ainda não tinha ido ter com eles."
     },
     {
      "n": 18,
@@ -968,7 +968,7 @@
     },
     {
      "n": 19,
-     "texto": "Tendo remado cerca de vinte e cinco ou trinta estádios, viram Jesus caminhando sobre o mar, em direção à barca, e ficaram atemorizados."
+     "texto": "Tendo remado cerca de vinte e cinco ou trinta estádios, viram Jesus caminhando sobre o mar, em direcção à barca, e ficaram atemorizados."
     },
     {
      "n": 20,
@@ -1076,7 +1076,7 @@
     },
     {
      "n": 46,
-     "texto": "Não porque alguém tenha visto o Pai, exceto aquele que vem de Deus; esse viu o Pai."
+     "texto": "Não porque alguém tenha visto o Pai, excepto aquele que vem de Deus; esse viu o Pai."
     },
     {
      "n": 47,
@@ -1148,7 +1148,7 @@
     },
     {
      "n": 64,
-     "texto": "Mas há alguns de vós que não creem. Com efeito Jesus sabia desde o princípio quais eram os que não criam, e quem havia de o entregar"
+     "texto": "Mas há alguns de vós que não crêem. Com efeito Jesus sabia desde o princípio quais eram os que não criam, e quem havia de o entregar"
     },
     {
      "n": 65,
@@ -1498,7 +1498,7 @@
     },
     {
      "n": 25,
-     "texto": "Disseram-lhe então eles: \"Quem és tu?\" Jesus respondeu-lhes: \"É exatamente isso que eu vos estou dizendo."
+     "texto": "Disseram-lhe então eles: \"Quem és tu?\" Jesus respondeu-lhes: \"É exactamente isso que eu vos estou dizendo."
     },
     {
      "n": 26,
@@ -1795,7 +1795,7 @@
     },
     {
      "n": 39,
-     "texto": "Jesus disse: \"Eu vim a este mundo para exercer um justo juízo, a fim de que os que não veem vejam, e os que veem se tornem cegos.\""
+     "texto": "Jesus disse: \"Eu vim a este mundo para exercer um justo juízo, a fim de que os que não vêem vejam, e os que vêem se tornem cegos.\""
     },
     {
      "n": 40,
@@ -1968,7 +1968,7 @@
     },
     {
      "n": 40,
-     "texto": "Retirou-se novamente para a banda de além do Jordão, para o lugar em que João tinha começado a batizar; e ficou lá."
+     "texto": "Retirou-se novamente para a banda de além do Jordão, para o lugar em que João tinha começado a baptizar; e ficou lá."
     },
     {
      "n": 41,
@@ -2097,7 +2097,7 @@
     },
     {
      "n": 29,
-     "texto": "Ela, logo que ouviu isto, levantou-se rapidamente, e foi ter com ele."
+     "texto": "Ela, logo que ouviu isto, levantou-se ràpidamente, e foi ter com ele."
     },
     {
      "n": 30,
@@ -2189,7 +2189,7 @@
     },
     {
      "n": 52,
-     "texto": "e não somente pela nação, mas também para unir num só corpo os filhos de Deus dispersos."
+     "texto": "e não sòmente pela nação, mas também para unir num só corpo os filhos de Deus dispersos."
     },
     {
      "n": 53,
@@ -2246,7 +2246,7 @@
     },
     {
      "n": 9,
-     "texto": "Uma grande multidão de Judeus soube que Jesus estava ali e foi lá, não somente por causa de Jesus, mas também para ver Lázaro, a quem ele tinha ressuscitado dos mortos."
+     "texto": "Uma grande multidão de Judeus soube que Jesus estava ali e foi lá, não sòmente por causa de Jesus, mas também para ver Lázaro, a quem ele tinha ressuscitado dos mortos."
     },
     {
      "n": 10,
@@ -2451,7 +2451,7 @@
     },
     {
      "n": 9,
-     "texto": "Simão Pedro disse-lhe: \"Senhor, não somente os meus pés, mas também as mãos e a cabeça.\""
+     "texto": "Simão Pedro disse-lhe: \"Senhor, não sòmente os meus pés, mas também as mãos e a cabeça.\""
     },
     {
      "n": 10,
@@ -2999,7 +2999,7 @@
     },
     {
      "n": 12,
-     "texto": "Quando eu estava com eles, os guardava em teu nome. Conservei os que me deste; nenhum deles se perdeu, exceto o filho da perdição, cumprindo-se a Escritura."
+     "texto": "Quando eu estava com eles, os guardava em teu nome. Conservei os que me deste; nenhum deles se perdeu, excepto o filho da perdição, cumprindo-se a Escritura."
     },
     {
      "n": 13,
@@ -3031,7 +3031,7 @@
     },
     {
      "n": 20,
-     "texto": "Não rogo somente por eles, mas também por aqueles que hão-de crer em mim por meio da sua palavra,"
+     "texto": "Não rogo sòmente por eles, mas também por aqueles que hão-de crer em mim por meio da sua palavra,"
     },
     {
      "n": 21,

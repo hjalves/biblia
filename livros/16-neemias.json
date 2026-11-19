@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -92,7 +92,7 @@
     },
     {
      "n": 7,
-     "texto": "Depois disse ao rei: Se é do agrado do rei, sejam-me dadas cartas para os governadores das províncias de além do rio, para que me deem passagem, até eu chegar à Judeia,"
+     "texto": "Depois disse ao rei: Se é do agrado do rei, sejam-me dadas cartas para os governadores das províncias de além do rio, para que me dêem passagem, até eu chegar à Judeia,"
     },
     {
      "n": 8,
@@ -116,7 +116,7 @@
     },
     {
      "n": 13,
-     "texto": "Saí de noite pela porta do Vale, em direção à fonte do Dragão e à porta da Esterqueira, e contemplei os muros de Jerusalém deitados abaixo e as suas portas consumidas pelo fogo."
+     "texto": "Saí de noite pela porta do Vale, em direcção à fonte do Dragão e à porta da Esterqueira, e contemplei os muros de Jerusalém deitados abaixo e as suas portas consumidas pelo fogo."
     },
     {
      "n": 14,
@@ -132,7 +132,7 @@
     },
     {
      "n": 17,
-     "texto": "Então disse-lhes: Vós vedes a aflição em que estamos; Jerusalém está deserta, e as suas portas foram consumidas pelo fogo; vinde e restauremos os muros de Jerusalém, não sejamos mais (um objeto de) opróbrio (para os nossos inimigos),"
+     "texto": "Então disse-lhes: Vós vedes a aflição em que estamos; Jerusalém está deserta, e as suas portas foram consumidas pelo fogo; vinde e restauremos os muros de Jerusalém, não sejamos mais (um objecto de) opróbrio (para os nossos inimigos),"
     },
     {
      "n": 18,
@@ -217,11 +217,11 @@
     },
     {
      "n": 17,
-     "texto": "Depois dele trabalharam nas reparações os Levitas, (sob a direção de) Reum, filho de Beni; depois dele, Hasebias, chefe de metade do distrito de Ceila, no seu distrito;"
+     "texto": "Depois dele trabalharam nas reparações os Levitas, (sob a direcção de) Reum, filho de Beni; depois dele, Hasebias, chefe de metade do distrito de Ceila, no seu distrito;"
     },
     {
      "n": 18,
-     "texto": "depois dele, seus irmãos, sob a direção de Bavai, filho de Enadad, chefe da (outra) metade de Ceila;"
+     "texto": "depois dele, seus irmãos, sob a direcção de Bavai, filho de Enadad, chefe da (outra) metade de Ceila;"
     },
     {
      "n": 19,
@@ -370,7 +370,7 @@
     },
     {
      "n": 23,
-     "texto": "Eu, porém, meus irmãos, meus servos e os guardas que me acompanhavam, não largávamos as nossas roupas; cada um despia-se somente para se lavar."
+     "texto": "Eu, porém, meus irmãos, meus servos e os guardas que me acompanhavam, não largávamos as nossas roupas; cada um despia-se sòmente para se lavar."
     }
    ]
   },
@@ -403,7 +403,7 @@
     },
     {
      "n": 7,
-     "texto": "Depois de ter refletido maduramente, repreendi os grandes e os magistrados, dizendo-lhes: Porventura sois usurários para vossos irmãos? Então convoquei contra eles uma grande assembleia"
+     "texto": "Depois de ter reflectido maduramente, repreendi os grandes e os magistrados, dizendo-lhes: Porventura sois usurários para vossos irmãos? Então convoquei contra eles uma grande assembleia"
     },
     {
      "n": 8,
@@ -492,7 +492,7 @@
     },
     {
      "n": 9,
-     "texto": "Efetivamente todos estes procuravam aterrar-nos, imaginando que nós cessaríamos a obra, que largaríamos o trabalho; porém, eu por isso mesmo cobrei mais ânimo."
+     "texto": "Efectivamente todos estes procuravam aterrar-nos, imaginando que nós cessaríamos a obra, que largaríamos o trabalho; porém, eu por isso mesmo cobrei mais ânimo."
     },
     {
      "n": 10,
@@ -512,7 +512,7 @@
     },
     {
      "n": 14,
-     "texto": "Lembra-te, Senhor, destas más ações de Tobias e Sanabalat; lembra-te também do profeta Noadias e dos outros profetas, que me atemorizavam."
+     "texto": "Lembra-te, Senhor, destas más acções de Tobias e Sanabalat; lembra-te também do profeta Noadias e dos outros profetas, que me atemorizavam."
     },
     {
      "n": 15,
@@ -565,7 +565,7 @@
     },
     {
      "n": 7,
-     "texto": "Vieram sob a direção de Zorobabel, Josué, Neemias, Azarias, Raamias, Nabamani, Hordoqueu, Belsão, Mesfarat, Begoai, Naum, Baana. O número dos homens (que vieram) do povo de Israel é este:"
+     "texto": "Vieram sob a direcção de Zorobabel, Josué, Neemias, Azarias, Raamias, Nabamani, Hordoqueu, Belsão, Mesfarat, Begoai, Naum, Baana. O número dos homens (que vieram) do povo de Israel é este:"
     },
     {
      "n": 8,
@@ -947,7 +947,7 @@
     },
     {
      "n": 9,
-     "texto": "Viste a aflição de nossos pais no Egito, ouviste os seus clamores perto do mar vermelho,"
+     "texto": "Viste a aflição de nossos pais no Egipto, ouviste os seus clamores perto do mar vermelho,"
     },
     {
      "n": 10,
@@ -983,7 +983,7 @@
     },
     {
      "n": 18,
-     "texto": "ainda mesmo quando eles fizeram para si um bezerro fundido e disseram: Este é o teu Deus (ó Israel) que te tirou do Egito - ofendendo-te com graves ultrajes."
+     "texto": "ainda mesmo quando eles fizeram para si um bezerro fundido e disseram: Este é o teu Deus (ó Israel) que te tirou do Egipto - ofendendo-te com graves ultrajes."
     },
     {
      "n": 19,
@@ -1237,7 +1237,7 @@
     },
     {
      "n": 2,
-     "texto": "O povo abençoou todos os homens que se ofereceram voluntariamente para habitar em Jerusalém."
+     "texto": "O povo abençoou todos os homens que se ofereceram voluntàriamente para habitar em Jerusalém."
     },
     {
      "n": 3,
@@ -1486,7 +1486,7 @@
     },
     {
      "n": 27,
-     "texto": "Para a dedicação dos muros de Jerusalém buscaram-se os Levitas de todos os seus lugares, para virem a Jerusalém celebrar a dedicação com alegria, com ações de graças, cânticos, ao toque de címbalos, de saltérios e de cítaras."
+     "texto": "Para a dedicação dos muros de Jerusalém buscaram-se os Levitas de todos os seus lugares, para virem a Jerusalém celebrar a dedicação com alegria, com acções de graças, cânticos, ao toque de címbalos, de saltérios e de cítaras."
     },
     {
      "n": 28,
@@ -1627,7 +1627,7 @@
     },
     {
      "n": 15,
-     "texto": "Naqueles dias vi em Judá homens, que pisavam nos lagares ao sábado, que acarretavam molhos, que carregavam sobre jumentos vinho, uvas, figos e toda a casta de fardos, que levavam a Jerusalém em dia de sábado. Ordenei-lhes expressamente que vendessem somente nos dias em que era lícito vender."
+     "texto": "Naqueles dias vi em Judá homens, que pisavam nos lagares ao sábado, que acarretavam molhos, que carregavam sobre jumentos vinho, uvas, figos e toda a casta de fardos, que levavam a Jerusalém em dia de sábado. Ordenei-lhes expressamente que vendessem sòmente nos dias em que era lícito vender."
     },
     {
      "n": 16,

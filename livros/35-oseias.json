@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -124,7 +124,7 @@
     },
     {
      "n": 15,
-     "texto": "Dar-lhe-ei a suas vinhas e o vale de Acor, como porta de esperança; ali cantará (hinos a Deus) como nos dias da sua juventude, e como nos dias em que subiu da terra do Egito."
+     "texto": "Dar-lhe-ei a suas vinhas e o vale de Acor, como porta de esperança; ali cantará (hinos a Deus) como nos dias da sua juventude, e como nos dias em que subiu da terra do Egipto."
     },
     {
      "n": 16,
@@ -393,7 +393,7 @@
     },
     {
      "n": 2,
-     "texto": "Não dizem nos seus corações que me lembro de toda a sua malícia: atualmente cercam-nos as suas impiedades, que estão a descoberto diante da minha face."
+     "texto": "Não dizem nos seus corações que me lembro de toda a sua malícia: actualmente cercam-nos as suas impiedades, que estão a descoberto diante da minha face."
     },
     {
      "n": 3,
@@ -429,7 +429,7 @@
     },
     {
      "n": 11,
-     "texto": "Efraim tornou-se como uma pomba imbecil, som inteligência. Chamam o Egito, vão ter com os Assírios."
+     "texto": "Efraim tornou-se como uma pomba imbecil, som inteligência. Chamam o Egipto, vão ter com os Assírios."
     },
     {
      "n": 12,
@@ -441,7 +441,7 @@
     },
     {
      "n": 14,
-     "texto": "Não clamam a mim do fundo do seu coração, mas uivam (desesperados) nos seus leitos! Somente temem pelo trigo e pelo vinho, revoltam-se contra mim."
+     "texto": "Não clamam a mim do fundo do seu coração, mas uivam (desesperados) nos seus leitos! Sòmente temem pelo trigo e pelo vinho, revoltam-se contra mim."
     },
     {
      "n": 15,
@@ -449,7 +449,7 @@
     },
     {
      "n": 16,
-     "texto": "Voltam-se, mas não para o alto; são como um arco doloso; cairão mortos á espada os seus príncipes, por causa do furor (ou insolência) da sua língua. Isso fará com que riam deles na terra do Egito."
+     "texto": "Voltam-se, mas não para o alto; são como um arco doloso; cairão mortos á espada os seus príncipes, por causa do furor (ou insolência) da sua língua. Isso fará com que riam deles na terra do Egipto."
     }
    ]
   },
@@ -506,7 +506,7 @@
     },
     {
      "n": 13,
-     "texto": "Oferecem vítimas e comem-lhes a carne, mas o Senhor mão as aceita. Agora lembrar-se-á da sua iniquidade, castigará os seus pecados. Hão-de voltar para o Egito."
+     "texto": "Oferecem vítimas e comem-lhes a carne, mas o Senhor mão as aceita. Agora lembrar-se-á da sua iniquidade, castigará os seus pecados. Hão-de voltar para o Egipto."
     },
     {
      "n": 14,
@@ -527,7 +527,7 @@
     },
     {
      "n": 3,
-     "texto": "Não habitarão na terra do Senhor. Os de Efraim voltarão para o Egito, e comerão alimentos impuros entre os Assírios."
+     "texto": "Não habitarão na terra do Senhor. Os de Efraim voltarão para o Egipto, e comerão alimentos impuros entre os Assírios."
     },
     {
      "n": 4,
@@ -539,7 +539,7 @@
     },
     {
      "n": 6,
-     "texto": "Eles partem por causa da devastação (da sua terra). O Egito os recolherá, Menfis os sepultará; as suas preciosidades de prata serão das urtigas e, crescerão os abrolhos nas suas casas."
+     "texto": "Eles partem por causa da devastação (da sua terra). O Egipto os recolherá, Menfis os sepultará; as suas preciosidades de prata serão das urtigas e, crescerão os abrolhos nas suas casas."
     },
     {
      "n": 7,
@@ -657,7 +657,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Desde a aurora, será completamente destruído o rei de Israel. Quando Israel era menino, eu o amei, e chamei do Egito o meu filho."
+     "texto": "Desde a aurora, será completamente destruído o rei de Israel. Quando Israel era menino, eu o amei, e chamei do Egipto o meu filho."
     },
     {
      "n": 2,
@@ -673,7 +673,7 @@
     },
     {
      "n": 5,
-     "texto": "(Israel) não voltará para a terra do Egito, mas o Assírio será seu rei, porquanto não quiseram converter-se."
+     "texto": "(Israel) não voltará para a terra do Egipto, mas o Assírio será seu rei, porquanto não quiseram converter-se."
     },
     {
      "n": 6,
@@ -697,7 +697,7 @@
     },
     {
      "n": 11,
-     "texto": "Voarão do Egito como uma ave, e da terra dos Assírios como uma pomba, e estabelecê-los-ei em suas casas diz o Senhor."
+     "texto": "Voarão do Egipto como uma ave, e da terra dos Assírios como uma pomba, e estabelecê-los-ei em suas casas diz o Senhor."
     },
     {
      "n": 12,
@@ -710,7 +710,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Efraim apascenta-se de vento, vai atrás do vento do oriente. Todos os dias multiplica a mentira e a violência; faz aliança com os Assírios e leva o seu (excelente) azeite ao Egito."
+     "texto": "Efraim apascenta-se de vento, vai atrás do vento do oriente. Todos os dias multiplica a mentira e a violência; faz aliança com os Assírios e leva o seu (excelente) azeite ao Egipto."
     },
     {
      "n": 2,
@@ -742,7 +742,7 @@
     },
     {
      "n": 9,
-     "texto": "Eu, que sou o Senhor teu Deus, desde a terra do Egito, far-te-ei repousar ainda nas tuas tendas, (apesar da tua obstinação), como nos dias da festa (dos Tabernáculos)."
+     "texto": "Eu, que sou o Senhor teu Deus, desde a terra do Egipto, far-te-ei repousar ainda nas tuas tendas, (apesar da tua obstinação), como nos dias da festa (dos Tabernáculos)."
     },
     {
      "n": 10,
@@ -758,7 +758,7 @@
     },
     {
      "n": 13,
-     "texto": "O Senhor fez sair Israel do Egito por meio dum profeta, e por meio dum profeta o povo foi guardado."
+     "texto": "O Senhor fez sair Israel do Egipto por meio dum profeta, e por meio dum profeta o povo foi guardado."
     },
     {
      "n": 14,
@@ -783,7 +783,7 @@
     },
     {
      "n": 4,
-     "texto": "Todavia eu sou o Senhor teu Deus desde (que saíste da) terra do Egito; tu não conhecerás outro Deus fora de mim; não há Salvador senão eu."
+     "texto": "Todavia eu sou o Senhor teu Deus desde (que saíste da) terra do Egipto; tu não conhecerás outro Deus fora de mim; não há Salvador senão eu."
     },
     {
      "n": 5,
@@ -827,7 +827,7 @@
     },
     {
      "n": 15,
-     "texto": "Entretanto que (Efraim) frutificar entre seus irmãos, virá o vento do oriente, o vento do Senhor, que se levanta do deserto, o qual secará a sua nascente, estancará a sua fonte, roubará o tesouro de todos os objetos preciosos."
+     "texto": "Entretanto que (Efraim) frutificar entre seus irmãos, virá o vento do oriente, o vento do Senhor, que se levanta do deserto, o qual secará a sua nascente, estancará a sua fonte, roubará o tesouro de todos os objectos preciosos."
     }
    ]
   },
@@ -852,7 +852,7 @@
     },
     {
      "n": 5,
-     "texto": "Curarei a sua infidelidade (responde o Senhor), amá-los-ei espontaneamente, porque já o meu furor se afastou deles."
+     "texto": "Curarei a sua infidelidade (responde o Senhor), amá-los-ei espontâneamente, porque já o meu furor se afastou deles."
     },
     {
      "n": 6,
@@ -872,7 +872,7 @@
     },
     {
      "n": 10,
-     "texto": "Quem é o sábio que compreenderá estas coisas (que escrevi)? Quem tem inteligência para as conhecer? Porque os caminhos do Senhor são retos; por eles andarão os justos, mas neles cairão os prevaricadores."
+     "texto": "Quem é o sábio que compreenderá estas coisas (que escrevi)? Quem tem inteligência para as conhecer? Porque os caminhos do Senhor são rectos; por eles andarão os justos, mas neles cairão os prevaricadores."
     }
    ]
   }

@@ -10,8 +10,8 @@
 **6** O filho honra seu pai, e o servo o seu senhor. Se eu, pois, sou vosso pai, onde está a minha honra? E se eu sou vosso Senhor, onde está o temor que se me deve? — diz o Senhor dos exércitos. A vós, sacerdotes, (é isto dirigido, a vós) que desprezais o meu nome e que dizeis; Em que desprezamos o teu nome?  
 **7** (Nisto:) Ofereceis sobre o meu altar um pão imundo. Também dizeis: Em que te profanamos? — Nisso que dizeis: A mesa do Senhor é desprezível.  
 **8** Se ofereceis um (animal) cego para ser imolado, não é isto mau? E se ofereceis um coxo e doente, não é isto mau? Oferece (isso) ao teu governador e verás se lhe agradará, se te receberá com agrado, diz o Senhor dos exércitos.  
-**9** E agora rogais a Deus que se compadeça de vós! Tudo isto foi feito por vossas mãos. (Nestas circunstâncias) receber-vos-á favoravelmente?— diz o Senhor dos exércitos.  
-**10** Quem há entre vós que feche as portas, para que se não acenda o lume inutilmente sobre o meu altar? O meu afeto não está em vós, diz o Senhor dos exércitos, nem aceitarei oferenda alguma da vossa mão.  
+**9** E agora rogais a Deus que se compadeça de vós! Tudo isto foi feito por vossas mãos. (Nestas circunstâncias) receber-vos-á favoràvelmente?— diz o Senhor dos exércitos.  
+**10** Quem há entre vós que feche as portas, para que se não acenda o lume inutilmente sobre o meu altar? O meu afecto não está em vós, diz o Senhor dos exércitos, nem aceitarei oferenda alguma da vossa mão.  
 **11** Desde o nascente ao poente, o meu nome é grande entre as nações, e em todo o lugar se oferece ao meu nome um sacrifício fumegante e uma oblação pura, porque o meu nome é grande entre as nações, diz o Senhor dos exércitos.  
 **12** Entretanto vós o profanais, dizendo: A mesa do Senhor está contaminada; e aquilo que se oferece em cima dela é alimento desprezível.  
 **13** Dizeis ainda: Ai, que fastio! — e só mostrais desprezo pelo altar — diz o Senhor dos exércitos. Trazeis o animal roubado, o coxo, o doente, como oferta para mim. Julgais que receberei um tal presente da vossa mão? — diz o Senhor.  
@@ -24,7 +24,7 @@
 **3** Eis que vos tirarei a espádua, e atirar-vos-ei à cara com esterco, — o esterco das vossas solenidades, — e sereis lançados fora com ele.  
 **4** Então sabereis que fui eu que vos mandei esta ordem, para que a minha aliança com Levi subsista, diz o Senhor dos exércitos.  
 **5** A minha aliança com ele foi vida e paz, e eu dei-lhas; foi temor, e ele temeu-me e tremeu de medo diante do meu nome.  
-**6** A doutrina da verdade estava na sua boca, e a iniquidade não se encontrava nos seus lábios; andava comigo em paz e em retidão, e afastou muitos da iniquidade.  
+**6** A doutrina da verdade estava na sua boca, e a iniquidade não se encontrava nos seus lábios; andava comigo em paz e em rectidão, e afastou muitos da iniquidade.  
 **7** Porque os lábios dos sacerdotes serão os guardas da ciência, e da sua boca se há-de requerer a doutrina, pois ele é o anjo do Senhor dos exércitos.  
 **8** Mas vós desviastes-vos do caminho e fizestes tropeçar muitos na (observância da) lei; violastes a aliança que eu tinha feito com Levi, diz o Senhor dos exércitos.  
 **9** Por isso, como não guardastes os meus caminhos, e, quando se tratava de sentenciar, segundo a minha lei, fizestes aceção de pessoas, também vos tornei desprezíveis e vis aos olhos de todo o povo.  
@@ -49,7 +49,7 @@
 **8** — Deve um homem enganar o seu Deus? Ora vós enganais-me. E dizeis; Em que te temos enganado? — Nos dízimos e nas primícias.  
 **9** Postes amaldiçoados, e vós, a nação toda, procurais enganar-me.  
 **10** Levai todos os vossos dízimos ao (meu) celeiro, para que haja alimento na minha casa! Desta maneira ponde-me à prova, diz o Senhor, (e vereis) se não vos abro as cataratas do céu e se não derramo a minha bênção sobre vós em abundância.  
-**11** Para vos beneficiar, afugentarei o inseto devorador, que não estragará mais os frutos da vossa terra; nem haverá nos campos vinhas estéreis, diz o Senhor dos exércitos.  
+**11** Para vos beneficiar, afugentarei o insecto devorador, que não estragará mais os frutos da vossa terra; nem haverá nos campos vinhas estéreis, diz o Senhor dos exércitos.  
 **12** Todas as nações vos chamarão ditosos, porque sereis um país de delícias, diz o Senhor dos exércitos.  
 **13** São duras as palavras que tendes proferido contra mim, diz o Senhor.  
 **14** E dizeis: Que temos dito contra ti? — Tendes dito: É em vão que se serve a Deus; que ganhámos em guardar os seus preceitos e em andar tristes (ou penitentes) diante do Senhor dos exércitos?  

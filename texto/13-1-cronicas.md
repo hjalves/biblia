@@ -92,7 +92,7 @@
 **31** Afaim teve um filho chamado Jesi, o qual Jesi gerou Sesan. Sesan gerou Oolai.  
 **32** Os filhos de Jada, irmão de Semei, foram: Jeter e Jonatan. Jeter morreu sem filhos.  
 **33** Jonatan gerou Falet e Ziza. Estes foram os filhos de Jerameel.  
-**34** Sesan não teve filhos, mas somente filhas; (tomou) um escravo egípcio, chamado Jeraa,  
+**34** Sesan não teve filhos, mas sòmente filhas; (tomou) um escravo egípcio, chamado Jeraa,  
 **35** a quem deu por mulher uma sua filha, a qual lhe deu à luz Etei.  
 **36** Etei gerou Natan, e Natan gerou Zabad;  
 **37** Zabad gerou Oflal, e Oflal gerou Obed;  
@@ -509,13 +509,13 @@
 **5** Elusai, Jerimut, Baalia, Samaria, Safatia de Haruf,  
 **6** Elcana, Jesia, Azareel, Joezer, Jesbaão de Carelm,  
 **7** e Joela e Zabadia, filhos de Jeroão de Gedor.  
-**8** Além destes, de entre os Gaditas passaram-se para Davide, quando estava oculto no deserto, homens muito valentes, soldados ótimos, armados de escudo e lança; o seu aspeto era como de leões, e a sua agilidade como das gazelas das montanhas.  
+**8** Além destes, de entre os Gaditas passaram-se para Davide, quando estava oculto no deserto, homens muito valentes, soldados óptimos, armados de escudo e lança; o seu aspecto era como de leões, e a sua agilidade como das gazelas das montanhas.  
 **9** O primeiro era Ezer, o segundo Obdias, o terceiro Eliab,  
 **10** o quarto Masmana, o quinto Jeremias,  
 **11** o sexto foi Efi, o sétimo Eliel,  
 **12** o oitavo Joanan, o nono Elzebad,  
 **13** o décimo Jeremias, o undécimo Macbanai.  
-**14** Estes eram da tribo de Gad, chefes do exército. O menor era capaz de atacar sozinho cem soldados, e o maior mil.  
+**14** Estes eram da tribo de Gad, chefes do exército. O menor era capaz de atacar sòzinho cem soldados, e o maior mil.  
 **15** Foram estes que passaram o Jordão no primeiro mês, quando ele costumava trasbordar por cima das de suas ribeiras, e puseram em fuga todos os que habitavam nos vales, assim ao oriente, como ao ocidente.  
 **16** Foram também vários da tribo de Benjamim e da tribo de Judá, à fortaleza em que estava Davide.  
 **17** Davide saiu-lhes ao encontro e disse: Se vindes pacificamente a socorrer-me, o meu coração se unirá ao vosso; mas se me armais ciladas, secundando os meus inimigos, embora eu tenha as minhas mãos limpas de qualquer iniquidade, o Deus de nossos pais seja disto testemunha e juiz.  
@@ -549,7 +549,7 @@
 **2** e a todo o ajuntamento de Israel: Se vos parece bem e se o que vos vou propor vem do Senhor nosso Deus, mandemos chamar todos os outros nossos irmãos, por todas as províncias de Israel, bem como os sacerdotes e Levitas, que habitam nos arrabaldes das cidades, para que se reunam junto de nós,  
 **3** e reconduzamos para nós a arca do nosso Deus, já que a não buscamos no tempo de Saul.  
 **4** Todo o ajuntamento respondeu que assim se fizesse, porque a todo o povo agradara a proposta.  
-**5** Reuniu, pois, Davide todo o Israel desde o rio Sior do Egito até à entrada de Emat, para conduzir a arca de Deus de Cariatiarim (a Jerusalém).  
+**5** Reuniu, pois, Davide todo o Israel desde o rio Sior do Egipto até à entrada de Emat, para conduzir a arca de Deus de Cariatiarim (a Jerusalém).  
 **6** Davide saiu com todos os homens de Israel para a colina de Cariatiarim, que está na tribo de Judá, para de lá trazer a arca do Senhor Deus, que está sentado sobre os querubins, diante da qual é invocado o seu nome.  
 **7** E puseram a arca de Deus em cima dum carro novo, retirando-a da casa de Abinadab; Oza e seu irmão guiavam o carro.  
 **8** Entretanto Davide e todo o Israel manifestavam a sua alegria diante de Deus com toda a sua força em cânticos, tangendo cítaras, saltérios, tambores, timbales e trombetas.  
@@ -583,7 +583,7 @@
 ## Capítulo 15
 
 **1** Edificou também casa para si, na cidade de Davide, e edificou um lugar (próprio) para a arca de Deus e levantou-lhe um tabernáculo.  
-**2** Então disse Davide: Não é permitido que a arca de Deus seja levada por alguém senão pelos Levitas, aos quais o Senhor escolheu para a levarem e para serem seus ministros perpetuamente.  
+**2** Então disse Davide: Não é permitido que a arca de Deus seja levada por alguém senão pelos Levitas, aos quais o Senhor escolheu para a levarem e para serem seus ministros perpètuamente.  
 **3** Congregou, pois, todo o Israel em Jerusalém, para trasladar a arca de Deus ao lugar, que lhe tinha preparado.  
 **4** Convocou também os filhos de Aarão e os Levitas:  
 **5** dos filhos de Caat, Uriel, que era o chefe, com seus irmãos em número de cento e vinte;  
@@ -664,7 +664,7 @@
 **2** Natan respondeu a Davide: Faze tudo o que tens no teu coração, porque Deus é contigo.  
 **3** Porém, naquela noite, o Senhor falou a Natan, dizendo:  
 **4** Vai, e dize a Davide, meu servo: Isto diz o Senhor: Tu não me edificarás uma casa para eu habitar.  
-**5** Nunca habitei em casa desde o tempo em que libertei Israel (do Egito), até ao presente, mas tenho sempre andado, de lugar em lugar, debaixo duma tenda,  
+**5** Nunca habitei em casa desde o tempo em que libertei Israel (do Egipto), até ao presente, mas tenho sempre andado, de lugar em lugar, debaixo duma tenda,  
 **6** morando com todo o Israel. Porventura dirigi eu alguma palavra a algum dos juízes de Israel, a quem tinha mandado que apascentassem o meu povo, dizendo-lhe: Por que não me edificais vós uma casa de cedro?  
 **7** Agora, pois, dirás assim ao meu servo Davide: Eis o que diz o Senhor dos exércitos: Quando tu conduzias os rebanhos a pastar, eu te escolhi para seres chefe do meu povo de Israel;  
 **8** fui contigo, por onde quer que andavas, e extingui, à tua vista, todos os teus inimigos e fiz o teu nome tão ilustre como o dum dos grandes da terra.  
@@ -673,14 +673,14 @@
 **11** Quando os teus dias estiverem completos para ires para teus pais, eu suscitarei um do teu sangue, que será dos teus filhos, e estabelecerei o seu reino.  
 **12** Esse me edificará uma casa, e firmarei o seu trono para sempre.  
 **13** Eu serei seu pai, e ele será meu filho; não tirarei dele a minha misericórdia, como a tirei de (Saul) teu predecessor,  
-**14** mas eu o estabelecerei na minha casa e no meu reino para sempre, e o seu trono será imóvel perpetuamente.  
+**14** mas eu o estabelecerei na minha casa e no meu reino para sempre, e o seu trono será imóvel perpètuamente.  
 **15** Natan referiu a Davide todas estas palavras e toda esta visão.  
 **16** Tendo ido o rei Davide diante do Senhor e tendo ali parado, disse: Quem sou eu, Senhor Deus, e que casa é a minha, para que me faças tais coisas?  
 **17** Mas isto pareceu ainda pouco em tua presença, e por isso falaste sobre a casa de teu servo, para o futuro, e me fizeste mais notável do que todos os homens, Senhor Deus.  
 **18** Que mais pode desejar Davide, tendo tu glorificado assim o teu servo? Tu conheces, Senhor, o teu servo.  
 **19** Senhor, por amor do teu servo, conforme o teu coração, procedeste com tanta magnificência, e quiseste que ele conhecesse todas estas maravilhas.  
 **20** Senhor, não há outro semelhante a ti, não há outro Deus senão tu, entre todos aqueles de quem temos ouvido falar.  
-**21** Que outro povo há, pois, como o teu povo de Israel, nação única na terra, para a qual se encaminhou Deus, para a livrar, para a fazer o seu povo e para, pelo seu poder e pelos seus terrores, expulsar as nações de diante dela, a quem tinha livrado do Egito?  
+**21** Que outro povo há, pois, como o teu povo de Israel, nação única na terra, para a qual se encaminhou Deus, para a livrar, para a fazer o seu povo e para, pelo seu poder e pelos seus terrores, expulsar as nações de diante dela, a quem tinha livrado do Egipto?  
 **22** Estabeleceste o teu povo de Israel por teu povo para sempre, e tu, ó Senhor, te constituiste o seu Deus.  
 **23** Agora, Senhor, confirmei para sempre a promessa que fizeste a teu servo e à sua casa, e faze o que disseste.  
 **24** Para sempre permaneça e seja glorificado o teu nome, e diga-se: O Senhor dos exércitos é o Deus de Israel, e a casa de Davide, seu servo, permanece sempre estável diante dele.  
@@ -693,7 +693,7 @@
 **1** Depois disto, aconteceu que Davide derrotou os Filisteus e os humilhou, arrebatando às suas mãos Get e as cidades da sua dependência.  
 **2** Derrotou também Moab, e os Moabitas ficaram sujeitos a Davide, pagando-lhe tributos.  
 **3** Neste tempo Davide derrotou também Adarezer, rei de Soba, no país de Hemat, quando partiu para estender o seu império até ao rio Eufrates.  
-**4** Davide tomou-lhe mil carros tirados a quatro cavalos e sete mil cavaleiros, e cortou os jarretes a todos os cavalos dos carros, exceto aos cavalos de cem carros, que reservou para si.  
+**4** Davide tomou-lhe mil carros tirados a quatro cavalos e sete mil cavaleiros, e cortou os jarretes a todos os cavalos dos carros, excepto aos cavalos de cem carros, que reservou para si.  
 **5** Sobrevindo os Sírios de Damasco em socorro de Adarezer, rei de Soba, Davide matou-lhes vinte e dois mil homens.  
 **6** Pôs guarnição em Damasco, para que também tivesse sujeita a si a Síria e lhe fosse tributária. O Senhor ajudou-o em tudo aquilo que empreendeu.  
 **7** Tomou também Davide os escudos de ouro, que tinham sido dos soldados de Aderezer, e levou-os para Jerusalém.  
@@ -711,7 +711,7 @@
 ## Capítulo 19
 
 **1** Depois disto, faleceu Naas, rei dos Amonitas, e seu filho reinou em seu lugar.  
-**2** Davide disse: Quero mostrar o meu afeto a Hanon, filho de Naas, pois que recebi favores de seu pai. E Davide mandou mensageiros para o consolarem na morte de seu pai. Quando eles chegaram ao pais dos Amonitas, para consolarem Hanon,  
+**2** Davide disse: Quero mostrar o meu afecto a Hanon, filho de Naas, pois que recebi favores de seu pai. E Davide mandou mensageiros para o consolarem na morte de seu pai. Quando eles chegaram ao pais dos Amonitas, para consolarem Hanon,  
 **3** os grandes dos Amonitas disseram a Hanon: Julgas talvez que Davide, por honrar a memória de teu pai, te mandou homens que te consolassem? Não vês que os servos vieram para explorar e examinar, e esquadrinhar o teu país?  
 **4** Hanon, então, mandou rapar a cabeça e a barba aos servos de Davide, fez-lhes retalhar as suas túnicas da cintura até aos pés, e despediu-os.  
 **5** Tendo sido avisado disto, Davide mandou (alguns dos seus homens) ao encontro deles (porque era grande o ultraje que tinham padecido), para lhes dizerem que ficassem em Jericó, até lhes crescer a barba, e que então voltassem.  
@@ -719,7 +719,7 @@
 **7** Assoldaram trinta e dois mil carros e o rei Maaca com o seu povo, os quais acamparam defronte de Medaba. Os Amonitas, tendo-se juntado das suas cidades, saíram para a guerra.  
 **8** Davide, informado disto, mandou Joab e todo o exército de homens valentes.  
 **9** Tendo saído os Amonitas, formaram-se em batalha junto da porta da cidade; e os Sírios os reis, que tinham ido em seu socorro, fizeram alto separadamente na campina.  
-**10** Joab, vendo que lhe queriam dar batalha pela frente e pela retaguarda, escolheu os homens mais esforçados de todo o Israel e marchou contra os Sírios.  
+**10** Joab, vendo que lhe queriam dar batalha pela frente e pela rectaguarda, escolheu os homens mais esforçados de todo o Israel e marchou contra os Sírios.  
 **11** Do resto do exército deu o comando a Abisai, seu irmão, para que enfrentasse os Amonitas.  
 **12** Disse: Se os Sírios prevalecerem contra mim, tu virás socorrer-me; se os Amonitas prevalecerem contra ti, eu te socorrerei.  
 **13** Esforça-te e pelejemos valorosamente pelo nosso povo e pelas cidades do nosso Deus; e o Senhor fará o que bem lhe parecer.  
@@ -749,7 +749,7 @@
 **5** Deu a Davide a lista daqueles que tinha recenseado: o número total de Israel era de um milhão e cem mil homens capazes de tomar armas; o de Judá era de quatrocentos e setenta mil homens de guerra.  
 **6** Joab não contou os da tribo de Levi, nem os da tribo de Benjamim, porque lhe repugnava a ordem do rei.  
 **7** Esta ordem desagradou a Deus, o qual feriu Israel.  
-**8** Davide disse a Deus: Eu cometi um grande pecado em fazer isto, peço-te que perdoes a culpa ao teu servo, porque procedi nesciamente.  
+**8** Davide disse a Deus: Eu cometi um grande pecado em fazer isto, peço-te que perdoes a culpa ao teu servo, porque procedi nèsciamente.  
 **9** O Senhor falou a Gad, vidente de Davide, dizendo:  
 **10** Vai, fala a Davide e dize-lhe: Eis o que diz o Senhor: Eu te dou três coisas à escolha; escolhe uma qual quiseres, e eu ta farei.  
 **11** Tendo ido Gad à presença de Davide, disse-lhe: Eis o que diz o Senhor: Escolhe o que quiseres:  
@@ -809,7 +809,7 @@
 **10** Os filhos de Semei foram quatro: Leet, Ziza, Jaus e Baria; estes foram os filhos de Semei.  
 **11** Entre eles Leet era o primeiro, Ziza o segundo; Jaus e Baria não tiveram muitos filhos, e, por isso, foram contados numa só família e numa só casa.  
 **12** Os filhos de Caat foram quatro: Amrão, Isaar, Hebron e Oziel.  
-**13** Filhos de Amrão: Aarão e Moisés. Aarão foi separado para servir no Santo dos Santos, ele e seus filhos perpetuamente, para oferecer incenso ao Senhor, segundo o seu rito, e para bem-dizer o seu nome para sempre.  
+**13** Filhos de Amrão: Aarão e Moisés. Aarão foi separado para servir no Santo dos Santos, ele e seus filhos perpètuamente, para oferecer incenso ao Senhor, segundo o seu rito, e para bem-dizer o seu nome para sempre.  
 **14** Os filhos de Moisés, homem de Deus, também foram contados na tribo de Levi.  
 **15** Filhos de Moisés: Gerson e Eliezer.  
 **16** Filhos de Gerson: Subuel, o chefe.  
@@ -867,11 +867,11 @@
 ## Capítulo 25
 
 **1** Davide e os chefes do exército escolheram para o ministério os filhos de Asaf, de Heman e de Iditun, a fim de tocarem harpa, cítara e címbalos, servindo segundo o seu número no emprego que lhes tinha sido destinado.  
-**2** Dos filhos de Asaf: Zacur, José, Natanias, Asarela, filhos de Asaf, sob a direção de Asaf, que cantava junto do rei.  
-**3** Quanto a Iditun, os filhos de Iditun eram: Godolias, Sori, Jeseias, Hasabias, Mataias (e Semei), seis sob a direção de seu pai Iditun, que cantava ao som da cítara, presidindo aos que cantavam e louvavam ao Senhor.  
+**2** Dos filhos de Asaf: Zacur, José, Natanias, Asarela, filhos de Asaf, sob a direcção de Asaf, que cantava junto do rei.  
+**3** Quanto a Iditun, os filhos de Iditun eram: Godolias, Sori, Jeseias, Hasabias, Mataias (e Semei), seis sob a direcção de seu pai Iditun, que cantava ao som da cítara, presidindo aos que cantavam e louvavam ao Senhor.  
 **4** Quanto a Heman, os filhos de Heman eram: Bociau, Mataniau, Oziel, Subuel, Jerimot, Hananias, Hanani, Eliata, Gedelti, Romentiezer, Jesbacassa, Meloti, Otir, Maaziot.  
 **5** Todos estes eram filhos de Heman, vidente do rei, para cantar louvores de Deus, para exaltar o seu poder. Deus tinha dado a Heman quatorze filhos e três filhas.  
-**6** Todos estavam distribuídos sob a direção de seus pais, isto é, de Asaf, de Iditun e de Heman, para cantarem no templo do Senhor, ao som de címbalos, cítaras e harpas, para exercerem os ministérios da casa do Senhor junto do rei.  
+**6** Todos estavam distribuídos sob a direcção de seus pais, isto é, de Asaf, de Iditun e de Heman, para cantarem no templo do Senhor, ao som de címbalos, cítaras e harpas, para exercerem os ministérios da casa do Senhor junto do rei.  
 **7** O número destes, com seus irmãos, todos exercitados em cantar ao Senhor, que ensinavam os cânticos do Senhor, era de duzentos e oitenta e oito.  
 **8** Deitaram sortes pelas suas classes, tanto o maior como o menor, tanto o mestre como o discípulo,  
 **9** A primeira sorte saiu a José, que era da casa de Asaf. A segunda a Godolias, para ele, para seus filhos e irmãos, que eram doze.  
@@ -935,7 +935,7 @@
 
 ## Capítulo 27
 
-**1** Os filhos de Israel que, segundo o seu número, com os chefes de famílias, os chefes de milhar, os centuriões e oficiais, serviam ao rei, distribuídos pelas suas turmas, entrando e saindo todos os meses do ano (isto é, prestando serviço um mês) eram (em cada mês) vinte e quatro mil homens comandados pelos seus respetivos capitães.  
+**1** Os filhos de Israel que, segundo o seu número, com os chefes de famílias, os chefes de milhar, os centuriões e oficiais, serviam ao rei, distribuídos pelas suas turmas, entrando e saindo todos os meses do ano (isto é, prestando serviço um mês) eram (em cada mês) vinte e quatro mil homens comandados pelos seus respectivos capitães.  
 **2** A primeira divisão para o primeiro mês era comandada por Jesboão, filho de Zabdiel, e ficavam às suas ordens vinte e quatro mil homens.  
 **3** Era da casa de Farés, e o primeiro entre todos os comandantes do exército durante o primeiro mês.  
 **4** Dudia Aoita comandava a divisão do segundo mês e tinha às suas ordens outro, chamado Macelot, que comandava uma parte dos vinte e quatro mil homens.  
@@ -1001,7 +1001,7 @@
 **3** Além destas coisas, que ofereci para a casa do meu Deus, dou do meu pecúlio o ouro e a prata para o templo do meu Deus, sem falar do que preparei para o santuário:  
 **4** três mil talentos de ouro de Ofir, e sete mil talentos de prata finíssima para revestimento das paredes do templo.  
 **5** Desta sorte, quando seja preciso ouro, façam-se de ouro as obras, quando for preciso a prata, façam-se de prata as obras pelas mãos dos artistas. Se alguém, por sua vontade, oferecer alguma coisa ao Senhor, encha hoje as suas mãos e ofereça ao Senhor o que bem lhe parecer.  
-**6** Fizeram ofertas voluntariamente os chefes das famílias, os nobres das tribos de Israel, os chefes de milhar, os centuriões e os intendentes da fazenda do rei.  
+**6** Fizeram ofertas voluntàriamente os chefes das famílias, os nobres das tribos de Israel, os chefes de milhar, os centuriões e os intendentes da fazenda do rei.  
 **7** Deram para as obras da casa de Deus cinco mil talentos de ouro, e dez mil dáricos; dez mil talentos de prata, dezoito mil talentos de cobre, e cem mil talentos de ferro.  
 **8** Todos os que tinham pedras preciosas, deram-nas para os tesouros da casa do Senhor, por mão de Jaiel Gersonita.  
 **9** O povo alegrou-se, ao fazer estas oferendas voluntárias, porque as fazia de todo o seu coração ao Senhor; o rei Davide da mesma sorte se alegrou em extremo,  
@@ -1013,7 +1013,7 @@
 **15** Nós somos peregrinos e estrangeiros diante de ti, como todos os nossos pais. Os nossos dias são como a sombra sobre a terra, e não há consistência alguma.  
 **16** Senhor nosso Deus, toda esta riqueza, que juntamos para se edificar uma casa ao teu santo nome, veio da tua mão, e todas as coisas são tuas.  
 **17** Eu sei, Deus meu, que sondas os corações e que amas a simplicidade, e por isso eu também te ofereci alegre todas estas coisas, na simplicidade do meu coração, e vi que o teu povo, que aqui está reunido, te ofereceu os seus presentes com grande alegria.  
-**18** Senbor Deus de nossos pais Abraão, Isaac e Israel, conserva eternamente este afeto no coração do teu povo, e encaminha para ti o seu coração.  
+**18** Senbor Deus de nossos pais Abraão, Isaac e Israel, conserva eternamente este afecto no coração do teu povo, e encaminha para ti o seu coração.  
 **19** Dá também a meu filho Salomão um coração perfeito, para que guarde os teus mandamentos, as tuas leis e as tuas cerimónias, cumpra tudo, e edifique a casa, para a qual fiz preparativos.  
 **20** Depois disto, Davide disse a todo o ajuntamento: Bem-dizei o Senhor nosso Deus. E todo o povo bem-disse o Senhor Deus de seus pais, prostrando-se e adorando a Deus, e em seguida (prestando as suas homenagens) ao rei.  
 **21** Imolaram vítimas ao Senhor, e, no dia seguinte, ofereceram em holocausto mil touros, mil carneiros, mil cordeiros, com as suas libações ordinárias e muitos outros sacrifícios por todo o Israel.  
@@ -1024,7 +1024,7 @@
 **26** Davide, filho de Isaf, assim reinou sobre todo o Israel.  
 **27** O tempo que reinou sobre Israel foi de quarenta anos: em Hebron reinou sete anos, e em Jerusalém trinta e três anos.  
 **28** Morreu numa ditosa velhice, cheio de dias, de bens e de glória. Salomão seu filho reinou em lugar dele.  
-**29** As ações do rei Davide, desde as primeiras às últimas, estão escritas no livro de Samuel, o vidente, no livro do profeta Natan e no volume de Gad, o vidente,  
+**29** As acções do rei Davide, desde as primeiras às últimas, estão escritas no livro de Samuel, o vidente, no livro do profeta Natan e no volume de Gad, o vidente,  
 **30** com tudo o que ocorreu no seu reinado, o seu poder e as vicissitudes por que passou, assim como Israel e todos os reinos da terra.
 
 ---

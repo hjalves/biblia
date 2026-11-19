@@ -2,7 +2,7 @@
 
 ## Capítulo 1
 
-**1** O Senhor falou a Moisés no deserto do Sinai, no tabernáculo da reunião, no primeiro dia do segundo mês, no segundo ano depois da saída dos filhos de Israel do Egito, dizendo:  
+**1** O Senhor falou a Moisés no deserto do Sinai, no tabernáculo da reunião, no primeiro dia do segundo mês, no segundo ano depois da saída dos filhos de Israel do Egipto, dizendo:  
 **2** Fazei o recenseamento de toda a congregação dos filhos de Israel pelas suas famílias e casas patriarcais, apontando o nome de cada um dos varões,  
 **3** dos vinte anos para cima, de todos os homens aptos para o serviço das armas, em Israel; contá-los-eis pelas suas turmas, tu e Aarão.  
 **4** Tereis junto de vós, a assistir-vos, um homem por cada tribo, chefe de uma linhagem.  
@@ -108,7 +108,7 @@
 **10** a Aarão e aos seus filhos, aos quais os darás inteiramente, de entre os filhos de Israel. Estabelecerás Aarão e seus filhos nas funções do sacerdócio. O estranho, que se aproximar para ministrar, morrerá.  
 **11** O Senhor falou a Moisés, dizendo:  
 **12** Eu tomei os Levitas dentre os filhos de Israel em lugar de todo o primogénito, que abre o seio de sua mãe entre os filhos de Israel, e os Levitas serão meus,  
-**13** porque todo o primogénito é meu. Desde o dia em que feri os primogénitos na terra do Egito, consagrei para mim todo o que nasce primeiro em Israel, desde o homem até ao animal. São meus. Eu sou o Senhor.  
+**13** porque todo o primogénito é meu. Desde o dia em que feri os primogénitos na terra do Egipto, consagrei para mim todo o que nasce primeiro em Israel, desde o homem até ao animal. São meus. Eu sou o Senhor.  
 **14** O Senhor falou a Moisés no deserto do Sinai, dizendo:  
 **15** Numera os filhos de Levi segundo as casas de seus pais e as suas famílias, todos os varões de um mês para cima.  
 **16** Moisés fez o recenseamento conforme o Senhor lhe tinha ordenado.  
@@ -126,7 +126,7 @@
 **28** O censo de todos os varões, de um mês para cima, deu oito mil e seiscentos, que velarão pela guarda do santuário,  
 **29** e acamparão na parte meridional.  
 **30** O seu príncipe será Elisafan, filho de Oziel.  
-**31** Guardarão a arca, a mesa, o candeeiro, os altares e os vasos do santuário, que servem para o ministério, e o véu, e todos os outros objetos deste género.  
+**31** Guardarão a arca, a mesa, o candeeiro, os altares e os vasos do santuário, que servem para o ministério, e o véu, e todos os outros objectos deste género.  
 **32** Eleázaro, filho do sacerdote Aarão, e príncipe dos príncipes dos Levitas, terá a superintendência sobre os que velam pela guarda do santuário.  
 **33** De Merari sairam as famílias dos Moolitas e dos Musitas, recenseados segundo os seus nomes.  
 **34** Os varões, de um mês para cima, somaram seis mil e duzentos.  
@@ -222,13 +222,13 @@
 **18** Estando a mulher de pé diante do Senhor, (o sacerdote) lhe descobrirá a cabeça, e lhe porá nas mãos a oblação de recordação: é uma oferta de zelos. O sacerdote terá (na mão) as águas amargas que levam maldição.  
 **19** Esconjurará a mulher e lhe dirá: Se nenhum homem estranho dormiu contigo, e tu não te manchaste abandonando o leito de teu marido, não te farão mal estas águas amargas sobre que eu acumulei maldições.  
 **20** Mas, se tu te apartaste de teu marido, e te manchaste, dormindo com outro homem,  
-**21** cairão sobre ti estas maldições. O Senhor te faça um objeto de maldição e de execração para todos no teu povo; faça emagrecer os teus flancos e inchar o teu ventre.  
+**21** cairão sobre ti estas maldições. O Senhor te faça um objecto de maldição e de execração para todos no teu povo; faça emagrecer os teus flancos e inchar o teu ventre.  
 **22** Estas águas malditas entrem no teu ventre, fazendo-to inchar e emagrecer os teus flancos. A mulher responderá: Assim seja, assim seja.  
 **23** O sacerdote escreverá num livro estas maldições, e depois as apagará com estas águas amargas que ele cumulou de maldições,  
 **24** e lhe dará a beber (aquelas águas). Depois que ela as tiver bebido,  
 **25** o sacerdote tomará da mão da mulher a oblação de zelos, levantá-la-á diante do Senhor, pô-la-á em cima do altar; antes  
 **26** tomará um punhado desta oblação e o queimará sobre o altar; depois disto, dará a beber à mulher as águas amargas.  
-**27** Depois que ela as tiver bebido, se está culpada, se, desprezado o marido, pecou por adultério, penetrá-la-ão as águas da maldição, farão inchar o seu ventre, emagrecerão os seus flancos, e aquela mulher será objeto de maldição no meio do seu povo.  
+**27** Depois que ela as tiver bebido, se está culpada, se, desprezado o marido, pecou por adultério, penetrá-la-ão as águas da maldição, farão inchar o seu ventre, emagrecerão os seus flancos, e aquela mulher será objecto de maldição no meio do seu povo.  
 **28** Se, porém, não está manchada, não sofrerá mal algum, e terá filhos.  
 **29** Esta é a lei dos zelos. Se uma mulher se retirar de seu marido, e se manchar,  
 **30** e o marido, possuído do espírito de zelos, a apresentar diante do Senhor, e o sacerdote fizer com ela tudo o que fica escrito.  
@@ -359,7 +359,7 @@
 ## Capítulo 8
 
 **1** O Senhor falou a Moisés, dizendo:  
-**2** Fala a Aarão, e dize-lhe: Ao colocares as sete lâmpadas sobre o candelabro, coloca-as de forma que projetem luz para a parte da frente.  
+**2** Fala a Aarão, e dize-lhe: Ao colocares as sete lâmpadas sobre o candelabro, coloca-as de forma que projectem luz para a parte da frente.  
 **3** Aarão assim fez, e pôs as lâmpadas sobre a parte anterior do candelabro, conforme o Senhor tinha ordenado a Moisés.  
 **4** O candelabro era todo de ouro batido a martelo, mesmo o pé e as flores. Segundo o modelo que o Senhor mostrou a Moisés, assim ele fez o candelabro.  
 **5** O Senhor falou a Moisés, dizendo:  
@@ -374,7 +374,7 @@
 **14** e separá-los-ás do meio dos filhos de Israel, para que sejam meus.  
 **15** Depois disto, entrarão no tabernáculo da reunião para me servirem. Assim os purificarás e sagrarás em oferta ao Senhor, porque me foram dados como um dom pelos filhos de Israel.  
 **16** Eu os recebi em lugar de todos os primogénitos de Israel, de todos os que saem primeiro do seio materno,  
-**17** porque todos os primogénitos dos filhos de Israel, tanto de homens como de animais, são meus. Eu os consagrei a mim, desde o dia em que feri todos os primogénitos na terra do Egito.  
+**17** porque todos os primogénitos dos filhos de Israel, tanto de homens como de animais, são meus. Eu os consagrei a mim, desde o dia em que feri todos os primogénitos na terra do Egipto.  
 **18** Tomei os Levitas em lugar de todos os primogénitos dos filhos de Israel,  
 **19** e, (tirados) do meio do povo, dei-os inteiramente a Aarão e a seus filhos, para me servirem por Israel no tabernáculo da reunião e orarem por eles, para que não venha alguma praga sobre o povo, se ousarem aproximar-se do santuário.  
 **20** Moisés, Aarão e toda a multidão dos filhos de Israel fizeram acerca dos Levitas o que o Senhor ordenara a Moisés,  
@@ -383,11 +383,11 @@
 **23** O Senhor falou a Moisés, dizendo:  
 **24** Esta é a lei relativa aos Levitas. Desde os vinte e cinco anos para cima entrarão a servir no tabernáculo da reunião.  
 **25** Quando completarem cinquenta anos de idade, cessarão de servir;  
-**26** (somente) ajudarão seus irmãos no tabernáculo da reunião, para guardarem as coisas que lhes forem confiadas, mas não mais exercerão as funções (ordinárias). Assim disporás os Levitas nos seus encargos.  
+**26** (sòmente) ajudarão seus irmãos no tabernáculo da reunião, para guardarem as coisas que lhes forem confiadas, mas não mais exercerão as funções (ordinárias). Assim disporás os Levitas nos seus encargos.  
 
 ## Capítulo 9
 
-**1** Senhor falou a Moisés no deserto do Sinai, no primeiro mês do segundo ano depois que tinham saído da terra do Egito, e disse:  
+**1** Senhor falou a Moisés no deserto do Sinai, no primeiro mês do segundo ano depois que tinham saído da terra do Egipto, e disse:  
 **2** Os filhos de Israel celebrem a Páscoa no tempo estabelecido,  
 **3** no dia catorze deste mês à tarde, segundo todas as suas cerimónias e os seus filhos.  
 **4** Moisés mandou aos filhos de Israel que celebrassem a Páscoa.  
@@ -401,7 +401,7 @@
 **12** não deixará nada para a manhã seguinte, nem quebrará os ossos, observará todos os ritos da Páscoa.  
 **13** Se alguém está puro, não se encontra em viagem, e todavia não celebra a Páscoa, será exterminado do seu povo, porque não ofereceu no tempo estabelecido o sacrifício do Senhor; esse levará o seu pecado.  
 **14** Do mesmo modo o peregrino e o estrangeiro, se morarem entre vós, farão a Páscoa em honra do Senhor com as suas cerimónias e os seus ritos. O mesmo preceito será guardado entre vós, tanto pelo estrangeiro como pelo natural.  
-**15** No dia, pois, em que o tabernáculo foi ereto, a nuvem o cobriu. Da tarde, porém, até manhã estava sobre o tabernáculo como uma espécie de fogo.  
+**15** No dia, pois, em que o tabernáculo foi erecto, a nuvem o cobriu. Da tarde, porém, até manhã estava sobre o tabernáculo como uma espécie de fogo.  
 **16** Assim acontecia continuamente: De dia cobria-o a nuvem, e de noite como que uma espécie de fogo.  
 **17** Quando se levantava a nuvem que cobria o tabernáculo, então punham-se em marcha os filhos de Israel; no lugar onde a nuvem parava, ai acampavam.  
 **18** A ordem do Senhor partiam, e à sua ordem assentavam o tabernáculo. Todo o tempo em que a nuvem estava parada sobre o tabernáculo, permaneciam no mesmo lugar:  
@@ -456,8 +456,8 @@
 **2** O povo clamou a Moisés; Moisés orou ao Senhor, e o fogo extinguiu-se.  
 **3** (Moisés) pôs àquele lugar o nome de Incêndio, porque ali se tinha acendido contra eles o fogo do Senhor.  
 **4** A populaça que tinha vindo com eles ardeu em desejos, sentando-se e chorando, unindo-se-lhe também os filhos de Israel. Diziam: Quem nos dará carnes para comer?  
-**5** Lembramo-nos dos peixes que comíamos de graça no Egito; vem-nos à memória os pepinos e os melões, e os alhos bravos, e as cebolas, e os alhos.  
-**6** Falta-nos o apetite, pois os nossos olhos não veem senão maná.  
+**5** Lembramo-nos dos peixes que comíamos de graça no Egipto; vem-nos à memória os pepinos e os melões, e os alhos bravos, e as cebolas, e os alhos.  
+**6** Falta-nos o apetite, pois os nossos olhos não vêem senão maná.  
 **7** Ora o maná era como os grãos de coentro, da cor do bdélio.  
 **8** O povo ia ao redor do campo, e, colhendo-o, o moía numa mó, ou o pisava num gral, cozendo-o numa panela, fazia dele tortas dum sabor como de pão amassado com azeite.  
 **9** Enquanto de noite caía o orvalho no campo caia também o maná.  
@@ -469,9 +469,9 @@
 **15** Se te parece outra coisa, peço-te que me tires a vida, e que ache eu graça diante dos teus olhos, para me não ver oprimido de tão grandes males.  
 **16** O Senhor disse a Moisés: Junta-me setenta homens entre os anciães de Israel, que tu saibas serem anciães do povo e seus principais; conduzi-los-ás à porta do tabernáculo da reunião, e ali os farás esperar contigo,  
 **17** para que eu desça, te fale, tome do seu Espírito e lho dê a eles, para que sustentem contigo o peso do povo, e não sejas tu só o agravado.  
-**18** Dirás também ao povo: Santificai-vos, que amanhã comereis carnes, pois vos ouvi dizer. Quem nos dará a comer carnes? Nós estávamos bem no Egito. Assim o Senhor vos dará carnes que comais,  
+**18** Dirás também ao povo: Santificai-vos, que amanhã comereis carnes, pois vos ouvi dizer. Quem nos dará a comer carnes? Nós estávamos bem no Egipto. Assim o Senhor vos dará carnes que comais,  
 **19** não só um dia, nem dois, nem cinco ou dez, nem mesmo vinte,  
-**20** mas um mês inteiro, até elas vos saírem pela boca, até vos causarem enjoo, visto que rejeitastes o Senhor, que está no meio de vós, e chorastes no meio dele, dizendo: Por que saímos nós do Egito?  
+**20** mas um mês inteiro, até elas vos saírem pela boca, até vos causarem enjoo, visto que rejeitastes o Senhor, que está no meio de vós, e chorastes no meio dele, dizendo: Por que saímos nós do Egipto?  
 **21** Moisés disse: É um povo de seiscentos mil homens de pé, e tu dizes: Dar-lhes-ei carne a comer durante um mês inteiro?  
 **22** Porventura matar-se-á tanta quantidade de ovelhas e bois, que possa bastar para a sua comida? Ou juntar-se-ão todos os peixes do mar, para os fartarem?  
 **23** O Senhor respondeu-lhe: Porventura é impotente a mão do Senhor? Agora mesmo verás se a minha palavra se põe por obra.  
@@ -499,7 +499,7 @@
 **8** A ele eu falo cara a cara: ele vê o Senhor claramente, e não sob enigmas e figuras. Por que não temestes vós, pois, falar contra o meu servo Moisés?  
 **9** E, irado contra eles, foi-se embora.  
 **10** Retirou-se também a nuvem, que estava sobre o tabernáculo. No mesmo instante Maria apareceu toda coberta de lepra (branca) como neve. Aarão, tendo olhado para ela, e tendo-a visto coberta de lepra,  
-**11** disse a Moisés: Rogo-te, meu Senhor, que não ponhas sobre nós este pecado, que nesciamente cometemos.  
+**11** disse a Moisés: Rogo-te, meu Senhor, que não ponhas sobre nós este pecado, que nèsciamente cometemos.  
 **12** Que esta não fique como um aborto que é lançado fora do ventre de sua mãe, já meio consumido.  
 **13** E Moisés clamou ao Senhor, dizendo: Ó Deus, eu te rogo, sara-a.  
 **14** O Senhor, respondeu-lhe: Se seu pai lhe tivesse cuspido na cara, não deveria ela estar coberta de vergonha ao menos durante sete dias? Esteja separada fora dos acampamentos durante sete dias, e depois será outra vez chamada.  
@@ -529,7 +529,7 @@
 **20** reparai se a mesma terra é boa ou má; como são as cidades, se muradas ou sem muros;  
 **21** Se o terreno é fértil ou estéril, com arvoredos ou sem árvores. Tende coragem, e trazei-nos dos frutos da terra. Era então o tempo em que as uvas temporãs já podem ser comidas.  
 **22** Tendo, pois, partido, exploraram a terra desde o deserto de Sin, até Roob, à entrada de Emath.  
-**23** Subiram para o meio-dia e foram a Hebron, onde estavam Aquiman, Sisai e Tolmai, filhos de Enac. Hebron foi fundada sete anos antes de Tanis, cidade do Egito.  
+**23** Subiram para o meio-dia e foram a Hebron, onde estavam Aquiman, Sisai e Tolmai, filhos de Enac. Hebron foi fundada sete anos antes de Tanis, cidade do Egipto.  
 **24** Caminhando até ao Vale do Cacho, cortaram um ramo de vide com o seu cacho, o qual levaram dois homens numa vara. Colheram também romãs e figos daquele lugar,  
 **25** que foi chamado Neelescol, isto é, Vale do Cacho, por causa do cacho que de lá levaram os filhos de Israel.  
 **26** Tendo voltado os exploradores, passados quarenta dias, depois de haverem percorrido toda a região,  
@@ -546,8 +546,8 @@
 
 **1** Toda a multidão se pôs a gritar e chorou aquela noite,  
 **2** e todos os filhos de Israel murmuraram contra Moisés e Aarão, dizendo:  
-**3** Oxalá que nós tivéssemos morrido no Egito; oxalá que pereçamos neste vasto deserto, e que o Senhor não nos introduza nessa terra, para não sermos passados à espada, para as nossas mulheres e os nossos filhos não serem levados cativos. Porventura não nos seria melhor voltar para o Egito?  
-**4** Diziam uns para os outros: Escolhamos um chefe, e voltemos para o Egito.  
+**3** Oxalá que nós tivéssemos morrido no Egipto; oxalá que pereçamos neste vasto deserto, e que o Senhor não nos introduza nessa terra, para não sermos passados à espada, para as nossas mulheres e os nossos filhos não serem levados cativos. Porventura não nos seria melhor voltar para o Egipto?  
+**4** Diziam uns para os outros: Escolhamos um chefe, e voltemos para o Egipto.  
 **5** Tendo ouvido isto Moisés e Aarão, lançaram-se por terra diante de toda a multidão dos filhos de Israel.  
 **6** Josué, porém, filho de Nun e Caleb, filho de Jefone, que tinham explorado a terra, rasgaram as suas vestes  
 **7** e disseram a toda a multidão dos filhos de Israel: A terra que nós percorremos é muito boa.  
@@ -562,10 +562,10 @@
 **16** Ele não pôde introduzir o povo no país, que lhe tinha prometido com juramento, por isso os matou no deserto.  
 **17** Seja, pois, glorificada a fortaleza do Senhor como tu juraste, dizendo:  
 **18** O Senhor é paciente e de muita misericórdia, que tira a iniquidade e as maldades, embora nenhum culpado deixe impune e castigue os pecados dos pais sobre os filhos até à terceira e quarta geração  
-**19** Perdoa, te suplico, o pecado deste povo, segundo a tua grande misericórdia, assim como lhe foste propício desde que saíram do Egito até este lugar.  
+**19** Perdoa, te suplico, o pecado deste povo, segundo a tua grande misericórdia, assim como lhe foste propício desde que saíram do Egipto até este lugar.  
 **20** O Senhor disse: Eu perdoei conforme o teu pedido,  
 **21** mas - pela minha vida e pela minha glória que enche toda a terra! -  
-**22** nenhum dos homens, que viram a minha majestade e os prodígios que fiz no Egito e no deserto, que me tentaram já dez vezes, e não obedeceram à minha voz,  
+**22** nenhum dos homens, que viram a minha majestade e os prodígios que fiz no Egipto e no deserto, que me tentaram já dez vezes, e não obedeceram à minha voz,  
 **23** verá a terra que eu prometi a seus pais com juramento. Nenhum dos que me ultrajaram a verá.  
 **24** Quanto ao meu servo Caleb, que cheio de outro espírito me seguiu, eu o introduzirei nesta terra que ele percorreu; a sua posteridade a possuirá.  
 **25** Visto que os Amalecitas e os Cananeus habitam nos vales, amanhã levantai os acampamentos, e voltai para o deserto pelo caminho do mar Vermelho.  
@@ -573,7 +573,7 @@
 **27** Até quando murmurará contra mim esta péssima multidão? Eu ouvi as queixas dos filhos de Israel.  
 **28** Dize-lhes pois: Por minha vida, diz o Senhor, eu vos farei como vos ouvi dizer.  
 **29** Neste deserto ficarão estendidos os vossos cadáveres. Todos vós que fostes contados desde vinte anos para cima, e que murmurastes contra mim,  
-**30** não entrareis na terra, na qual eu jurei fazer-vos habitar, exceto Caleb, filho de Jelone, e Josué, filho de Num.  
+**30** não entrareis na terra, na qual eu jurei fazer-vos habitar, excepto Caleb, filho de Jelone, e Josué, filho de Num.  
 **31** Todavia introduzirei os vossos filhos, dos quais dissestes que seriam presa dos inimigos, para que vejam a terra que vos desagradou.  
 **32** Os vossos cadáveres ficarão jazendo no deserto.  
 **33** Os vossos filhos andarão errantes no deserto durante quarenta anos, e pagarão a vossa infidelidade, até que os cadáveres de seus pais sejam consumidos no deserto.  
@@ -616,7 +616,7 @@
 **22** Quando por ignorância omitirdes algumas destas coisas que o Senhor disse a Moisés,  
 **23** e que por meio dele vos ordenou, desde o dia em que começou a dar-vos os seus mandamentos,  
 **24** se a multidão vier a cair em qualquer falta por esquecimento, oferecerá um bezerro da manada em holocausto de suavíssimo cheiro para o Senhor, com a sua oblação e as suas libações, como prescrevem as cerimónias, e um bode pelo pecado;  
-**25** o sacerdote rogará por toda a multidão dos filhos de Israel, e se lhes perdoará, porque não pecaram voluntariamente e ofereceram contudo um holocausto ao Senhor, pela sua inadvertência.  
+**25** o sacerdote rogará por toda a multidão dos filhos de Israel, e se lhes perdoará, porque não pecaram voluntàriamente e ofereceram contudo um holocausto ao Senhor, pela sua inadvertência.  
 **26** Será perdoado a toda a multidão dos filhos de Israel, e aos estrangeiros que moram entre eles, porque é uma culpa de todo o povo cometida por ignorância.  
 **27** Porém, se uma só pessoa pecar por ignorância, oferecerá uma cabra de um ano pelo seu pecado,  
 **28** e o sacerdote rogará por ela, porque pecou sem o saber diante do Senhor, e lhe alcançará o perdão, e lhe será perdoado.  
@@ -632,7 +632,7 @@
 **38** Fala aos filhos de Israel, e dize-lhes que façam umas guarnições nas extremidades das suas capas, pondo nelas fitas de púrpura violácea,  
 **39** para que, vendo-as, se recordem de todos os mandamentos do Senhor, e não sigam os seus pensamentos nem os seus olhos que os arrastam à infidelidade.  
 **40** Assim se recordarão dos preceitos do Senhor e os cumprirão e serão santos para com o seu Deus.  
-**41** Eu sou o Senhor vosso Deus que vos tirei da terra do Egito, para ser vosso Deus.  
+**41** Eu sou o Senhor vosso Deus que vos tirei da terra do Egipto, para ser vosso Deus.  
 
 ## Capítulo 16
 
@@ -713,15 +713,15 @@
 **6** Eu dei-vos os vossos irmãos Levitas, separando-os do meio dos filhos de Israel. Dados ao Senhor, vos são entregues de novo, como oferta, para que sirvam no ministério do seu tabernáculo.  
 **7** Tu, porém, e teus filhos guardai o vosso sacerdócio; tudo o que pertence ao culto do altar, e que está para dentro do véu, será feito pelo ministério dos sacerdotes: se algum estranho se aproximar, será morto.  
 **8** Falou mais o Senhor a Aarão: Eu te dei a guarda das minhas primícias. Tudo o que me foi consagrado pelos filhos de Israel eu te dei a ti e a teus filhos pelo ministério sacerdotal, por uma lei perpétua.  
-**9** Daquelas coisas que são santificadas e oferecidas ao Senhor, exceto o que deve ser consumido pelo fogo, receberás o seguinte: Toda a oblação e sacrifício, tudo o que me é oferecido pelo pecado e pelo delito, e que (por isso) se torna uma coisa santíssima, será teu e de teus filhos.  
-**10** Tu o comerás no santuário: somente os homens comerão dele, porque é destinado para ti.  
-**11** As primícias, porém, que os filhos de Israel oferecerem por voto ou espontaneamente, eu as dei a ti, a teus filhos e a tuas filhas, por direito perpétuo. Aquele que está puro na tua casa, comerá delas.  
+**9** Daquelas coisas que são santificadas e oferecidas ao Senhor, excepto o que deve ser consumido pelo fogo, receberás o seguinte: Toda a oblação e sacrifício, tudo o que me é oferecido pelo pecado e pelo delito, e que (por isso) se torna uma coisa santíssima, será teu e de teus filhos.  
+**10** Tu o comerás no santuário: sòmente os homens comerão dele, porque é destinado para ti.  
+**11** As primícias, porém, que os filhos de Israel oferecerem por voto ou espontâneamente, eu as dei a ti, a teus filhos e a tuas filhas, por direito perpétuo. Aquele que está puro na tua casa, comerá delas.  
 **12** Eu te dei o melhor do azeite, do vinho e do trigo, tudo o que oferecem como primícias ao Senhor.  
 **13** Todos os primeiros frutos que a terra produz, e são apresentados ao Senhor, servirão para teu uso: aquele que está puro na tua casa, comerá deles.  
 **14** Tudo o que os filhos de Israel derem por voto, será teu.  
 **15** Todo o primogénito de qualquer carne, que oferecem ao Senhor, seja de homens, seja de animais, pertencer-te-á por direito, mas com esta condição de que pelo primogénito do homem recebas o preço e igualmente recebas o resgate de todo o animal impuro.  
 **16** O seu resgate far-se-á depois de um mês por cinco siclos de prata segundo o peso do santuário. O siclo tem vinte óbolos.  
-**17** Mas não farás resgatar o primogénito do boi, nem o da ovelha, nem o da cabra, porque são consagrados ao Senhor; somente derramarás o seu sangue sobre o altar, e queimarás a gordura em suavíssimo odor ao Senhor.  
+**17** Mas não farás resgatar o primogénito do boi, nem o da ovelha, nem o da cabra, porque são consagrados ao Senhor; sòmente derramarás o seu sangue sobre o altar, e queimarás a gordura em suavíssimo odor ao Senhor.  
 **18** As carnes servirão para teu uso, bem como o peito consagrado e a espádua direita.  
 **19** Eu te dei a ti, a teus filhos e filhas, por um direito perpétuo, todas as primícias do santuário, que os filhos de Israel oferecem ao Senhor. É um pacto de sal, perpétuo, diante do Senhor, contigo e com teus filhos.  
 **20** O Senhor disse a Aarão: Tu não possuirás nada na sua terra, nem terás parte alguma entre eles; eu sou a tua parte e a tua herança no meio dos filhos de Israel.  
@@ -769,7 +769,7 @@
 **2** Como o povo necessitasse de água, juntaram-se contra Moisés e Aarão,  
 **3** e, levantando-se em motim, disseram: Oxalá nós tivéssemos perecido entre os nossos irmãos diante do Senhor.  
 **4** Por que conduzistes a assembleia do Senhor ao deserto, para morrermos nós e os nossos animais?  
-**5** Por que nos fizestes partir do Egito, e nos conduzistes a este péssimo lugar, que não se pode semear, e que não produz nem figueiras, nem vinhas, nem romãzeiras, e além disto não tem água para beber?  
+**5** Por que nos fizestes partir do Egipto, e nos conduzistes a este péssimo lugar, que não se pode semear, e que não produz nem figueiras, nem vinhas, nem romãzeiras, e além disto não tem água para beber?  
 **6** Moisés e Aarão, deixada a multidão, entraram no tabernáculo da reunião e prostraram-se com o rosto por terra. E apareceu sobre eles a glória do Senhor.  
 **7** O Senhor falou a Moisés, dizendo;  
 **8** Toma a vara, junta o povo, tu e Aarão, teu irmão, falai ao rochedo diante deles, e ele dará águas. Farás sair água do rochedo, e beberá toda a multidão e os seus animais.  
@@ -779,11 +779,11 @@
 **12** O Senhor disse a Moisés e a Aarão: Porque vós não me crestes para me santificardes diante dos filhos de Israel, não introduzireis estes povos na terra que eu lhes darei  
 **13** Esta é a água da contradição, onde os filhos de Israel altercaram contra o Senhor, e onde (o Senhor) foi santificado entre eles.  
 **14** Entretanto Moisés enviou de Cades embaixadores que lhe dissessem: Isto te manda dizer teu irmão Israel: Sabes todos os trabalhos que temos passado,  
-**15** como os nossos pais desceram ao Egito, como ai habitamos muito tempo, como os Egípcios nos maltrataram a nós e a nossos pais,  
-**16** como clamamos ao Senhor, e ele nos ouviu, e enviou um anjo, que nos tirou do Egito. Agora, encontrando-nos na cidade de Cades, que está no extremo das tuas fronteiras,  
+**15** como os nossos pais desceram ao Egipto, como ai habitamos muito tempo, como os Egípcios nos maltrataram a nós e a nossos pais,  
+**16** como clamamos ao Senhor, e ele nos ouviu, e enviou um anjo, que nos tirou do Egipto. Agora, encontrando-nos na cidade de Cades, que está no extremo das tuas fronteiras,  
 **17** suplicamos-te que nos deixes passar pelo teu país. Não iremos pelos campos nem pelas vinhas, nem beberemos das águas dos teus poços, mas iremos pela estrada pública, sem nos afastarmos nem para a direita nem para a esquerda, até que passemos as tuas fronteiras.  
 **18** Edom respondeu-lhe: Não passarás pelo meu país, de outra sorte sairei armado contra ti.  
-**19** Os filhos de Israel disseram-lhe: Nós iremos pelo caminho ordinário: se bebermos das tuas águas, nós e os nossos gados, pagaremos o que for justo: não haverá dificuldade alguma no preço, permite somente que passemos de corrida.  
+**19** Os filhos de Israel disseram-lhe: Nós iremos pelo caminho ordinário: se bebermos das tuas águas, nós e os nossos gados, pagaremos o que for justo: não haverá dificuldade alguma no preço, permite sòmente que passemos de corrida.  
 **20** Porém ele respondeu: Não passarás. E Edom marchou logo ao encontro dele com uma infinita multidão, e com mão forte.  
 **21** Não quis condescender com o pedido de dar passagem pelo seu país; por isso Israel desviou-se dele.  
 **22** Tendo levantado os acampamentos de Cades, foram ao monte Hor, que está nos confins da terra de Edom,  
@@ -802,7 +802,7 @@
 **2** Então Israel fez voto ao Senhor, e disse: Se tu entregares nas minhas mãos este povo, eu arruinarei as suas cidades.  
 **3** O Senhor ouviu os rogos de Israel e entregou-lhe os Cananeus, que ele matou, destruídas as suas cidades, pondo àquele lugar o nome de Horma, isto é, Anátema.  
 **4** Partiram do monte Hor pela estrada que conduz ao mar Vermelho, para rodearem o pais de Edom. O povo começou a enfastiar-se do caminho e das fadigas,  
-**5** e, falando contra Deus e contra Moisés, disse: Por que nos tiraste do Egito, para morrermos num deserto? Falta pão, não há água: a nossa alma está enfastiada deste alimento levíssimo.  
+**5** e, falando contra Deus e contra Moisés, disse: Por que nos tiraste do Egipto, para morrermos num deserto? Falta pão, não há água: a nossa alma está enfastiada deste alimento levíssimo.  
 **6** Por esta causa o Senhor enviou contra o povo serpentes ardentes, que feriram e mataram muitos.  
 **7** (Os Israelitas) foram ter com Moisés e disseram-lhe: Nós pecamos porque falamos contra o Senhor e contra ti: roga-lhe que afaste de nós as serpentes. Moisés orou pelo povo,  
 **8** e o Senhor disse-lhe: Faze uma serpente de bronze, e põe-na por sinal: aquele que, sendo ferido, olhar para ela, viverá.  
@@ -840,13 +840,13 @@
 **2** Mas Balac, filho de Sefor, vendo tudo o que Israel tinha feito ao Amorreu,  
 **3** e que os Moabitas o temiam muito e não podiam sustentar o seu ataque,  
 **4** disse aos anciães de Madian: Este povo destruirá todos os que habitam em nossos territórios, da mesma sorte que o boi costuma roer as ervas até à raiz. Este era naquele tempo rei dos Moabitas.  
-**5** Mandou, pois, embaixadores a Balaão, filho de Beor, adivinho, que habitava sobre o rio do país dos filhos de Amon, para que o chamassem e lhe dissessem: Eis que saiu do Egito um povo, que cobriu a face da terra, o qual está acampado contra mim.  
+**5** Mandou, pois, embaixadores a Balaão, filho de Beor, adivinho, que habitava sobre o rio do país dos filhos de Amon, para que o chamassem e lhe dissessem: Eis que saiu do Egipto um povo, que cobriu a face da terra, o qual está acampado contra mim.  
 **6** Vem, pois, e amaldiçoa este povo, porque ele é mais forte do que eu, a fim de ver se posso, por algum modo, batê-lo e lançá-lo fora do meu pais. Eu sei que será bendito aquele a quem tu abençoares, e maldito aquele a quem lançares maldições.  
 **7** Os anciães de Moab e os anciães de Madian partiram, levando nas mãos o preço da adivinhação. Tendo chegado junto de Balaão, e tendo-lhe referido todas as palavras de Balac,  
 **8** ele respondeu: Ficai aqui esta noite, e eu vos responderei tudo o que o Senhor me disser. Estando eles em casa de Balaão, veio Deus, e disse-lhe:  
 **9** Que querem estes homens, que estão junto de ti?  
 **10** Ele respondeu: Balac, filho de Sefor, rei dos Moabitas, mandou  
-**11** dizer-me: Eis que um povo, que saiu do Egito, cobriu a superfície da terra: vem e amaldiçoa-o, para que eu, combatendo-o, por qualquer modo o possa afugentar.  
+**11** dizer-me: Eis que um povo, que saiu do Egipto, cobriu a superfície da terra: vem e amaldiçoa-o, para que eu, combatendo-o, por qualquer modo o possa afugentar.  
 **12** Deus disse a Balaão: Não vás com eles, nem amaldiçoes o povo, porque é bendito.  
 **13** (Balaão), levantando-se pela manhã, disse aos príncipes: Tornai para a vossa terra porque o Senhor me proibiu ir convosco.  
 **14** Voltando os príncipes, disseram a Balac: Balaão não quis vir connosco.  
@@ -901,7 +901,7 @@
 **19** Deus não é como o homem, capaz de mentir, nem como o filho do homem, sujeito a mudanças. Ele disse uma coisa, e não a fará? Falou, e não cumprirá a sua palavra?  
 **20** Eu fui trazido para abençoar, ele abençoou e eu não posso impedir a bênção.  
 **21** Em Jacob não há iniquidade, nem em Israel injustiça. Com ele está o Senhor Seu Deus, nele se ouve a aclamação dum rei.  
-**22** Deus tirou-o do Egito: a sua fortaleza é semelhante à do rinoceronte.  
+**22** Deus tirou-o do Egipto: a sua fortaleza é semelhante à do rinoceronte.  
 **23** Não há magia em Jacob, nem adivinhações em Israel. A seu tempo se dirá a Jacob e a Israel o que Deus fez.  
 **24** Eis um povo que se levanta como uma leoa, e se põe em pé como um leão; não se deitará, até que tenha devorado a presa e até que tenha bebido o sangue das suas vitimas.  
 **25** Balac disse a Balaão: Nem o amaldiçoes, nem o abençoes.  
@@ -920,7 +920,7 @@
 **5** Que formosos são os teus pavilhões, ó Jacob, e as tuas tendas, ó Israel!  
 **6** Alargam-se como extensos vales, como jardins junto dos rios que os regam, como aloés que o Senhor plantou, como cedros junto das águas.  
 **7** A água correrá dos seus baldes, e a sua posteridade crescerá em abundantes águas. O seu rei será mais poderoso do que Agag, e o seu reino será exaltado.  
-**8** Deus, que o tirou do Egito, é para ele como a força do rinoceronte. Ele devorará os povos, seus inimigos, e lhes quebrará os ossos, e os trespassará com as frechas.  
+**8** Deus, que o tirou do Egipto, é para ele como a força do rinoceronte. Ele devorará os povos, seus inimigos, e lhes quebrará os ossos, e os trespassará com as frechas.  
 **9** Deitando-se, adormece como o leão, e como a leoa, que ninguém se atreverá a acordar. Quem te abençoar, será também bendito; quem te amaldiçoar, será tido por amaldiçoado.  
 **10** Balac, irado contra Balaão, batendo as mãos, disse-lhe: Eu chamei-te para amaldiçoares os meus inimigos, tu, pelo contrário, os abençoaste (já) por três vezes.  
 **11** Volta para a tua terra. Eu na verdade tinha determinado honrar-te com magnificência, mas o Senhor privou-te da honra (que te estava) destinada.  
@@ -929,7 +929,7 @@
 **14** Contudo, voltando para o meu povo, darei um conselho sobre o que esse povo há-de fazer ao teu povo, no fim dos tempos.  
 **15** Prosseguindo, pois, a parábola, tornou a dizer: Palavra de Balaão, filho de Beor; palavra do homem que tem os olhos fechados;  
 **16** palavra daquele que ouve as palavras de Deus, que conhece a doutrina do Altíssimo, que contempla as visões do Omnipotente,  
-**17** Eu o verei, mas não agora, eu o contemplarei, mas não de perto. NASCERÁ UMA ESTRELA DE JACOB, e levantar-se-á cetro de Israel, que ferirá os dois flancos de Moab, e destruirá os filhos do tumulto.  
+**17** Eu o verei, mas não agora, eu o contemplarei, mas não de perto. NASCERÁ UMA ESTRELA DE JACOB, e levantar-se-á ceptro de Israel, que ferirá os dois flancos de Moab, e destruirá os filhos do tumulto.  
 **18** A Idumeia será sua possessão; Seir passará para os seus inimigos; Israel acrescentará o seu poder.  
 **19** De Jacob sairá um dominador, que arruinará os restos das cidades.  
 **20** Olhando para Amalec, (Balaão) continuou a sua parábola: Amalec é a primeira das nações, mas o seu fim será o extermínio.  
@@ -994,7 +994,7 @@
 **30** Filhos de Galaad: Jezer, do qual (descende) a família dos Jezeritas; Helec, do qual (descende) a família dos Helecitas;  
 **31** Asriel do qual (descende) a família dois Asrielitas: Sequem, do qual (descende) a família dos Sequemitas:  
 **32** Semida, do qual (descende) a família dos Semidaítas; Hefer, do qual (descende) a família dos Heferitas.  
-**33** Hefer foi pai de Salfaad, que não teve filhos, mas somente filhas, cujos nomes são estes: Malala, Noa, Hegla, Melca e Tensa.  
+**33** Hefer foi pai de Salfaad, que não teve filhos, mas sòmente filhas, cujos nomes são estes: Malala, Noa, Hegla, Melca e Tensa.  
 **34** Estas são as famílias de Manassés, de que se contaram, ao todo, cinquenta e dois mil e setecentos (homens).  
 **35** Os filhos de Efraim segundo as suas famílias, foram: Sutala, do qual (descende) a família dos Sutalaítas; Bequer, do qual (descende) a família dos Bequeritas; Teen, do qual (descende) a família dos Teenitas.  
 **36** Filho de Sutala, do Heran, do qual (descende) a família dos Heranitas.  
@@ -1020,13 +1020,13 @@
 **56** Tudo o que tocar por sorte, isso receberão, quer os que são em maior número, quer os que são em menor número.  
 **57** Este é também o número dos filhos de Levi, sendo as suas famílias: Gerson, do qual (descende) a família dos Gersonitas: Caath, do qual (descende) a família dos Caathitas: Merari do qual (descende) a família dos Meraritas.  
 **58** Estas são as famílias de Levi; A família de Lobni, a família de Hebroni, a família de Mooli, a família de Musi, a família de Coré, Caath gerou a Amram,  
-**59** o qual teve por mulher a Jocabed, filha de Levi, a qual lhe nasceu no Egito: esta teve de Amram, seu marido, os filhos Aarão e Moisés, e Maria irmã deles.  
+**59** o qual teve por mulher a Jocabed, filha de Levi, a qual lhe nasceu no Egipto: esta teve de Amram, seu marido, os filhos Aarão e Moisés, e Maria irmã deles.  
 **60** De Aarão nasceram Nadab, Abiu Eleazar e Itamar,  
 **61** dos quais Nadab e Abiu morreram, por terem oferecido um fogo estranho diante do Senhor.  
 **62** Todos os recenseados foram vinte e três mil homens de um mês para cima, porque não foram contados entre os filhos de Israel, nem lhes foi dada herança com os outros.  
 **63** Este é o número dos filhos de Israel, que foram recenseados por Moisés e pelo sacerdote Eleázaro nas planícies de Moab, ao longo do Jordão, defronte de Jericó.  
 **64** Entre eles não se achou nenhum daqueles que tinham sido recenseados antes por Moisés e Aarão no deserto do Sinai.  
-**65** porque o Senhor tinha predito que todos eles morreriam no deserto. Não ficou nenhum deles, exceto Caleb, filho de Jefone, e Josué, filho de Nun.  
+**65** porque o Senhor tinha predito que todos eles morreriam no deserto. Não ficou nenhum deles, excepto Caleb, filho de Jefone, e Josué, filho de Nun.  
 
 ## Capítulo 27
 
@@ -1171,7 +1171,7 @@
 **17** Matai, pois, todos os varões, mesmo os de tenra idade, e degolai as mulheres que tiveram comércio com homens;  
 **18** reservai para vós as donzelas e todas as mulheres virgens.  
 **19** Permanecei fora dos acampamentos sete dias. Quem tiver morto um homem, ou tocado um morto, purificar-se-á no dia terceiro e no sétimo.  
-**20** Purificar-se-á também da presa toda a veste ou vaso, e todo o objeto feito de pele de cabra, ou de pelos, ou de madeira.  
+**20** Purificar-se-á também da presa toda a veste ou vaso, e todo o objecto feito de pele de cabra, ou de pelos, ou de madeira.  
 **21** O sacerdote Eleázaro também falou assim aos soldados, que tinham pelejado: Este é o preceito da lei, que o Senhor deu a Moisés:  
 **22** O ouro, a prata, o cobre, o ferro, o chumbo, o estanho,  
 **23** e tudo o que pode passar pelas chamas, será purificado no fogo; porém tudo o que não pode sofrer o fogo, será purificado com água da expiação;  
@@ -1219,8 +1219,8 @@
 **8** Não foi assim que procederam os vossos pais, quando eu os mandei de Cadesbarne a reconhecer a terra?  
 **9** Depois de terem chegado ao Vale do Cacho, depois de terem percorrido toda aquela região, tiraram a coragem aos filhos de Israel, para que não entrassem na terra que o Senhor lhes deu.  
 **10** Ele, irado, jurou dizendo:  
-**11** Estes homens, que saíram do Egito, de vinte anos para cima, não verão a terra que eu prometi com juramento a Abraão, a Isaac e a Jacob, porque não quiseram seguir-me,  
-**12** exceto Caleb, filho de Jefone Cenezeu, e Josué, filho de Nun; estes cumpriram a minha vontade.  
+**11** Estes homens, que saíram do Egipto, de vinte anos para cima, não verão a terra que eu prometi com juramento a Abraão, a Isaac e a Jacob, porque não quiseram seguir-me,  
+**12** excepto Caleb, filho de Jefone Cenezeu, e Josué, filho de Nun; estes cumpriram a minha vontade.  
 **13** E o Senhor, irado contra Israel, fê-lo andar errante pelo deserto durante quarenta anos, até que fosse extinta toda a geração, que tinha feito o mal na sua presença.  
 **14** Agora, prosseguiu Moisés, vos levantastes vós em lugar dos vossos pais, como renovos e descendência de homens pecadores, para aumentardes o furor do Senhor contra Israel.  
 **15** Se não quiserdes segui-lo, ele deixará o povo no deserto, e vós sereis a causa do extermínio de todos.  
@@ -1254,7 +1254,7 @@
 
 ## Capítulo 33
 
-**1** Estas são as paragens dos filhos de Israel, que saíram do Egito (divididos) pelas suas turmas sob a conduta de Moisés e de Aarão.  
+**1** Estas são as paragens dos filhos de Israel, que saíram do Egipto (divididos) pelas suas turmas sob a conduta de Moisés e de Aarão.  
 **2** Moisés as descreveu, segundo os lugares dos acampamentos, que eles mudavam ao mandado do Senhor.  
 **3** No primeiro mês, no dia quinze, ao outro dia da Páscoa, os filhos de Israel partiram de Ramessés com a mão levantada, à vista de todos os Egípcios,  
 **4** que sepultavam os seus primogénitos, a quem o Senhor tinha ferido (até sobre os seus deuses lançou o seu castigo)  
@@ -1291,7 +1291,7 @@
 **35** Partindo de Hebrona, acamparam em Asiongaber.  
 **36** Partindo de lá, foram ao deserto de Sin, que é Cades.  
 **37** Partindo de Cades, acamparam sobre o monte Hor, nos confins do país de Edom.  
-**38** O sacerdote Aarão subiu por mandado do Senhor ao monte Hor, e ali morreu no primeiro dia do mês, no ano quadragésimo, depois da saída dos filhos de Israel do Egito, no quinto mês,  
+**38** O sacerdote Aarão subiu por mandado do Senhor ao monte Hor, e ali morreu no primeiro dia do mês, no ano quadragésimo, depois da saída dos filhos de Israel do Egipto, no quinto mês,  
 **39** tendo cento e vinte e três anos de idade.  
 **40** (Foi então que) os filhos de Israel tinham chegado à terra de Canaan.  
 **41** Partindo do monte Hor, acamparam em Salmona.  
@@ -1317,7 +1317,7 @@
 **2** Fala aos filhos de Israel, dizendo-lhes: Quando tiverdes entrado na ferra de Canaan, e cada um de vós possuir nela o que lhe tiver caído por sorte, serão estes os seus limites:  
 **3** A parte meridional começará no deserto de Sin, que é perto de Edom, e terá por limite, a oriente, o Mar de Sal.  
 **4** Este limite irá rodeando a parte austral pela subida do Escorpião, de sorte que passe por Sena e chegue desde o meio-dia até Cadesbarne, donde irá até à aldeia chamada Adar, e se estenderá até Asemona,  
-**5** irá girando desde Asemona até à torrente do Egito, e terminará no mar.  
+**5** irá girando desde Asemona até à torrente do Egipto, e terminará no mar.  
 **6** A parte ocidental começará no Mar Grande, e no mesmo mar terminará.  
 **7** Os limites pela parte setentrional começarão desde o Mar Grande, e chegarão até ao monte altíssimo,  
 **8** donde irão a Emath, até aos confins de Sedada,  
@@ -1346,20 +1346,20 @@
 ## Capítulo 35
 
 **1** Disse também o Senhor a Moisés estas coisas nas planícies de Moab, junto do Jordão, defronte de Jericó:  
-**2** Manda aos filhos de Israel que deem das suas possessões aos Levitas  
+**2** Manda aos filhos de Israel que dêem das suas possessões aos Levitas  
 **3** cidades para habitarem, e os seus subúrbios, para que eles morem nas cidades, e os subúrbios sejam para os seus gados e animais.  
 **4** Estes subúrbios estender-se-ão dos muros das cidades para fora mil passos em roda.  
 **5** Serão de dois mil côvados para o oriente, de dois mil côvados para o meio-dia, dois mil côvados para o ocidente, e dois mil côvados para o setentrião, ficando a cidade no meio. Estes são os lugares das pastagens das suas cidades.  
-**6** Das mesmas cidades que deres aos Levitas, seis serão destinadas para refúgio dos fugitivos, a fim de que nelas se acolha aquele que tiver derramado sangue (involuntariamente); além destas (seis), haverá (para os Levitas) outras quarenta e duas cidades,  
+**6** Das mesmas cidades que deres aos Levitas, seis serão destinadas para refúgio dos fugitivos, a fim de que nelas se acolha aquele que tiver derramado sangue (involuntàriamente); além destas (seis), haverá (para os Levitas) outras quarenta e duas cidades,  
 **7** isto é, ao todo quarenta e oito com os seus subúrbios.  
 **8** Essas cidades que se hão-de dar das possessões dos filhos de Israel, serão tomadas mais dos que têm mais, e menos dos que têm menos: cada um dará cidades aos Levitas na proporção da sua herança.  
 **9** O Senhor disse a Moisés:  
 **10** Fala aos filhos de Israel e dize-lhes: Quando, passado o Jordão, tiverdes entrado na terra de Canaan,  
-**11** determinai que cidades devem ser para refúgio dos fugitivos, que involuntariamente derramarem sangue.  
+**11** determinai que cidades devem ser para refúgio dos fugitivos, que involuntàriamente derramarem sangue.  
 **12** Quando o fugitivo se tiver refugiado nelas, o vingador do sangue não poderá matá-lo, enquanto se não apresentar diante da assembleia, enquanto não for julgada a sua causa.  
 **13** Dessas cidades que se devem destinar a refúgio.  
 **14** três serão do lado de lá do Jordão, e três na terra de Canaan,  
-**15** e (serão) tanto para os filhos de Israel, como para os estrangeiros e peregrinos, a fim de que a elas se acolha aquele que involuntariamente tiver derramado sangue.  
+**15** e (serão) tanto para os filhos de Israel, como para os estrangeiros e peregrinos, a fim de que a elas se acolha aquele que involuntàriamente tiver derramado sangue.  
 **16** Se alguém ferir com ferro, e o ferido morrer, (o agressor) é réu de homicídio, também ele morrerá.  
 **17** Se alguém atirar uma pedrada, e o ferido morrer (dela), será castigado da mesma maneira.  
 **18** Se morrer o que foi ferido com pau, será vingado com o sangue do que o feriu.  

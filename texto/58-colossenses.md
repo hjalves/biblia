@@ -40,29 +40,29 @@
 **4** Digo-vos isto, para que ninguém vos engane com discursos subtis,  
 **5** porque, posto que ausente quanto Cristo, ao corpo, estou todavia convosco em espírito, regozijando-me por ver a vossa boa ordem e a firmeza da vossa fé em Cristo.  
 **6** Portanto, vivei em Cristo Jesus, o Senhor, como vos foi ensinado,  
-**7** arraigados e edificados nele, fortificados na fé, como já aprendestes, crescendo nele em ação de graças.  
+**7** arraigados e edificados nele, fortificados na fé, como já aprendestes, crescendo nele em acção de graças.  
 **8** Vede que ninguém vos engane por meio da filosofia inútil e enganadora, segundo a tradição dos homens, segundo os elementos do mundo, e não segundo Cristo.  
 **9** Porque nele habita, corporalmente, toda a plenitude da divindade,  
 **10** e vós estais cheios (de graça e de ciência) nele, que é a cabeça de todo o principado e potestade;  
 **11** também nele estais circuncidados com uma circuncisão não feita por mão de homem, mas que consiste no despojo do corpo da carne, (isto é) na circuncisão de Cristo.  
-**12** Tendo sido sepultados (para o pecado) com ele no batismo, com ele também ressuscitastes (para a vida da graça) mediante a fé na ação de Deus, que o ressuscitou dos mortos.  
+**12** Tendo sido sepultados (para o pecado) com ele no baptismo, com ele também ressuscitastes (para a vida da graça) mediante a fé na acção de Deus, que o ressuscitou dos mortos.  
 **13** A vós, que estáveis mortos pelos vossos pecados e pela incircuncisão (ou desordem) da vossa carne, vos deu vida juntamente com ele, perdoando-nos todos os nossos pecados.  
 **14** Destruiu a ata redigida contra nós, cujas disposições nos condenavam, e fê-la desaparecer, encravando-a na cruz.  
-**15** Despojou os principados e potestades (infernais), e fez deles um objeto de escárnio público, triunfando deles pela cruz.  
+**15** Despojou os principados e potestades (infernais), e fez deles um objecto de escárnio público, triunfando deles pela cruz.  
 **16** Ninguém, pois, vos condene pelo comer ou pelo beber, ou por causa de um dia de festa, ou de uma lua nova, ou de um sábado,  
 **17** todas estas coisas são sombra das vindouras; a realidade é Cristo.  
-**18** Ninguém vos seduza, afetando humildade e culto dos anjos, divagando por coisas que nunca viu, inchado em vão com seus pensamentos carnais,  
+**18** Ninguém vos seduza, afectando humildade e culto dos anjos, divagando por coisas que nunca viu, inchado em vão com seus pensamentos carnais,  
 **19** sem estar unido com a cabeça (que é Cristo), da qual todo o corpo, organizado e servido por ligamentos e junturas, cresce com aumento dado por Deus.  
 **20** Portanto, se estais mortos com Cristo para os elementos deste mundo, por que é que, como se vivêsseis no mundo, vos submeteis a essas prescrições (da lei mosaica):  
 **21** "Não tomeis, nem proveis, nem manuseeis!"  
 **22** Todas estas coisas perecem pelo próprio uso. São preceitos e doutrinas dos homens.  
-**23** Tudo isso tem na verdade uma aparência de sabedoria no culto voluntário (e supersticioso dos anjos), na humildade (afetada) e no mau tratamento do corpo, mas tudo isto é sem honra e só para satisfação da carne.  
+**23** Tudo isso tem na verdade uma aparência de sabedoria no culto voluntário (e supersticioso dos anjos), na humildade (afectada) e no mau tratamento do corpo, mas tudo isto é sem honra e só para satisfação da carne.  
 
 ## Capítulo 3
 
 **1** Portanto, se ressuscitastes com Cristo, buscai as coisas que são lá de cima, onde Cristo está sentado à dextra de Deus;  
 **2** afeiçoai-vos às coisas que são lá de cima, não às que estão sobre a terra.  
-**3** Com efeito, (pelo batismo) estais mortos (para as coisas terrenas) e a nossa vida está escondida com Cristo em Deus.  
+**3** Com efeito, (pelo baptismo) estais mortos (para as coisas terrenas) e a nossa vida está escondida com Cristo em Deus.  
 **4** Quando aparecer Cristo, que é a vossa vida, então também vós aparecereis com ele na glória.  
 **5** Mortificai, pois, os vossos membros terrenos: a fornicação, a impureza, as paixões, os desejos maus e a avareza, que é uma idolatria,  
 **6** pelas quais coisas vem a ira de Deus sobre os filhos da incredulidade;  
@@ -75,7 +75,7 @@
 **13** sofrendo-vos uns aos outros e perdoando-vos mutuamente, se algum tem razão de queixa contra o outro. Assim como o Senhor vos perdoou a vós, também vós perdoai (uns aos outros).  
 **14** Sobretudo, porém tende caridade, que é o vínculo da perfeição.  
 **15** Triunfe em vossos corações a paz de Cristo, à qual fostes chamados, para (formar) um só corpo. Sede agradecidos.  
-**16** A palavra de Cristo habite em vós com toda a sua riqueza. Ensinai-vos e admoestai-vos uns aos outros, com toda a sabedoria, cantai a Deus, em vossos corações, salmos, hinos e cânticos espirituais, sob a ação da graça.  
+**16** A palavra de Cristo habite em vós com toda a sua riqueza. Ensinai-vos e admoestai-vos uns aos outros, com toda a sabedoria, cantai a Deus, em vossos corações, salmos, hinos e cânticos espirituais, sob a acção da graça.  
 **17** Tudo o que fizerdes, em palavras ou por obras, fazei tudo em nome do Senhor Jesus, dando por ele graças a Deus Pai.  
 **18** Mulheres, estai sujeitas a vossos maridos, como convém, no Senhor.  
 **19** Maridos, amai vossas mulheres e não sejais ásperos para com elas.  
@@ -89,7 +89,7 @@
 ## Capítulo 4
 
 **1** Vós, senhores, tratai os vossos servos com justiça e equidade, sabendo que também tendes um Senhor no céu.  
-**2** Perseverai na oração, velando nela com ação de graças.  
+**2** Perseverai na oração, velando nela com acção de graças.  
 **3** Orai também por nós, para que Deus nos abra a porta à palavra, para anunciar o mistério de Cristo, pelo qual estou preso,  
 **4** para que eu o manifeste, como me cumpre manifestar.  
 **5** Procedei com sabedoria com aqueles que estão fora (da Igreja), aproveitando as circunstâncias favoráveis.  

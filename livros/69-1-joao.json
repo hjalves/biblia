@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -68,7 +68,7 @@
     },
     {
      "n": 2,
-     "texto": "Ele é a vítima de propiciação pelos nossos pecados, e não somente pelos nossos, mas também pelos de todo o mundo."
+     "texto": "Ele é a vítima de propiciação pelos nossos pecados, e não sòmente pelos nossos, mas também pelos de todo o mundo."
     },
     {
      "n": 3,
@@ -253,7 +253,7 @@
     },
     {
      "n": 18,
-     "texto": "Meus filhinhos, não amemos (somente) de palavra e com a língua, mas por obra e em verdade."
+     "texto": "Meus filhinhos, não amemos (sòmente) de palavra e com a língua, mas por obra e em verdade."
     },
     {
      "n": 19,
@@ -383,7 +383,7 @@
     },
     {
      "n": 3,
-     "texto": "Efetivamente, o amor de Deus consiste em guardarmos os seus mandamentos, mandamentos que não são custosos."
+     "texto": "Efectivamente, o amor de Deus consiste em guardarmos os seus mandamentos, mandamentos que não são custosos."
     },
     {
      "n": 4,
@@ -395,7 +395,7 @@
     },
     {
      "n": 6,
-     "texto": "Este Jesus Cristo é aquele que veio pela água e pelo sangue; não com água somente, mas com água e com sangue. E o Espírito é o que dá testemunho, porque o Espírito é a verdade."
+     "texto": "Este Jesus Cristo é aquele que veio pela água e pelo sangue; não com água sòmente, mas com água e com sangue. E o Espírito é o que dá testemunho, porque o Espírito é a verdade."
     },
     {
      "n": 7,

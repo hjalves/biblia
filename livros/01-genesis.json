@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -59,7 +59,7 @@
     },
     {
      "n": 11,
-     "texto": "Deus disse: produza a terra verdura, plantas germinadoras de semente e árvores frutíferas, que deem fruto segundo a sua espécie, cuja semente esteja nelas mesmas (para se reproduzirem) sobre a terra. E assim se fez."
+     "texto": "Deus disse: produza a terra verdura, plantas germinadoras de semente e árvores frutíferas, que dêem fruto segundo a sua espécie, cuja semente esteja nelas mesmas (para se reproduzirem) sobre a terra. E assim se fez."
     },
     {
      "n": 12,
@@ -192,7 +192,7 @@
     },
     {
      "n": 12,
-     "texto": "E o ouro deste país é ótimo; ali (também) se acha o bdélio e a pedra ónix."
+     "texto": "E o ouro deste país é óptimo; ali (também) se acha o bdélio e a pedra ónix."
     },
     {
      "n": 13,
@@ -212,7 +212,7 @@
     },
     {
      "n": 17,
-     "texto": "mas não comas do fruto da árvore da ciência do bem e do mal, porque, em qualquer dia que comeres dele, morrerás indubitavelmente."
+     "texto": "mas não comas do fruto da árvore da ciência do bem e do mal, porque, em qualquer dia que comeres dele, morrerás indubitàvelmente."
     },
     {
      "n": 18,
@@ -773,7 +773,7 @@
     },
     {
      "n": 23,
-     "texto": "Foram exterminados todos os sere.s (vivos) que havia sobre a terra, desde o homem até às bestas, tanto os répteis como as aves do céu, tudo foi exterminado da terra: ficou somente Noé, e os que estavam com ele na arca."
+     "texto": "Foram exterminados todos os sere.s (vivos) que havia sobre a terra, desde o homem até às bestas, tanto os répteis como as aves do céu, tudo foi exterminado da terra: ficou sòmente Noé, e os que estavam com ele na arca."
     },
     {
      "n": 24,
@@ -834,7 +834,7 @@
     },
     {
      "n": 13,
-     "texto": "Portanto, no ano seiscentos e um (da vida de Noé), no primeiro mês, no primeiro dia do mês, as águas deixavam a terra: Noé, descoberto o teto da arca, olhou e viu que a superfície da terra se estava a secar."
+     "texto": "Portanto, no ano seiscentos e um (da vida de Noé), no primeiro mês, no primeiro dia do mês, as águas deixavam a terra: Noé, descoberto o tecto da arca, olhou e viu que a superfície da terra se estava a secar."
     },
     {
      "n": 14,
@@ -891,7 +891,7 @@
     },
     {
      "n": 4,
-     "texto": "Somente não comereis carne com sangue,"
+     "texto": "Sòmente não comereis carne com sangue,"
     },
     {
      "n": 5,
@@ -1072,7 +1072,7 @@
     },
     {
      "n": 19,
-     "texto": "indo os limites dos seus territórios, desde Sidónia, na direção de Gerara, até Gaza, e, na direção de Sodoma, Gomorra, Adamam e Seboim, até Lesa."
+     "texto": "indo os limites dos seus territórios, desde Sidónia, na direcção de Gerara, até Gaza, e, na direcção de Sodoma, Gomorra, Adamam e Seboim, até Lesa."
     },
     {
      "n": 20,
@@ -1302,11 +1302,11 @@
     },
     {
      "n": 10,
-     "texto": "Sobreveio, porém, uma fome no país, e Abrão desceu ao Egito, para ai viver algum tempo, porque a fome era muita no (seu) pais."
+     "texto": "Sobreveio, porém, uma fome no país, e Abrão desceu ao Egipto, para ai viver algum tempo, porque a fome era muita no (seu) pais."
     },
     {
      "n": 11,
-     "texto": "Quando estava perto de entrar no Egito disse a Sarai, sua mulher: conheço que és uma mulher formosa"
+     "texto": "Quando estava perto de entrar no Egipto disse a Sarai, sua mulher: conheço que és uma mulher formosa"
     },
     {
      "n": 12,
@@ -1318,7 +1318,7 @@
     },
     {
      "n": 14,
-     "texto": "Tendo pois Abrão entrado no Egito, viram os Egípcios que aquela mulher era muito formosa."
+     "texto": "Tendo pois Abrão entrado no Egipto, viram os Egípcios que aquela mulher era muito formosa."
     },
     {
      "n": 15,
@@ -1342,7 +1342,7 @@
     },
     {
      "n": 20,
-     "texto": "E Faraó deu ordens a seus homens para cuidarem de Abrão, e eles o acompanharam (até à saída do Egito) com sua mulher e com tudo o que possuía."
+     "texto": "E Faraó deu ordens a seus homens para cuidarem de Abrão, e eles o acompanharam (até à saída do Egipto) com sua mulher e com tudo o que possuía."
     }
    ]
   },
@@ -1351,7 +1351,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Abrão, pois, saiu do Egito com sua mulher e com tudo o que possuía, e Loth com ele, e caminhou para a parte meridional."
+     "texto": "Abrão, pois, saiu do Egipto com sua mulher e com tudo o que possuía, e Loth com ele, e caminhou para a parte meridional."
     },
     {
      "n": 2,
@@ -1387,7 +1387,7 @@
     },
     {
      "n": 10,
-     "texto": "Loth, pois, levantando os olhos, contemplou toda a região do Jordão, a qual, antes que o Senhor destruísse Sodoma e Gomorra, era toda regada de água, como o paraíso do Senhor, e como o Egito, do lado de Segor."
+     "texto": "Loth, pois, levantando os olhos, contemplou toda a região do Jordão, a qual, antes que o Senhor destruísse Sodoma e Gomorra, era toda regada de água, como o paraíso do Senhor, e como o Egipto, do lado de Segor."
     },
     {
      "n": 11,
@@ -1504,7 +1504,7 @@
     },
     {
      "n": 20,
-     "texto": "e bendito seja o Deus Altíssimo por cuja proteção os inimigos estão nas tuas mãos. E (Abrão) deu-lhe o dizimo de tudo."
+     "texto": "e bendito seja o Deus Altíssimo por cuja protecção os inimigos estão nas tuas mãos. E (Abrão) deu-lhe o dizimo de tudo."
     },
     {
      "n": 21,
@@ -1520,7 +1520,7 @@
     },
     {
      "n": 24,
-     "texto": "há a excetuar aquilo que estes jovens comeram, e a porção dos homens que vieram comigo, Aner, Escol e Mambré: estes hão-de receber a sua parte."
+     "texto": "há a exceptuar aquilo que estes jovens comeram, e a porção dos homens que vieram comigo, Aner, Escol e Mambré: estes hão-de receber a sua parte."
     }
    ]
   },
@@ -1529,7 +1529,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Passado isto, falou o Senhor a Abrão numa visão, dizendo: não temas, Abrão, eu sou o teu protetor e a tua recompensa (será) excessivamente grande."
+     "texto": "Passado isto, falou o Senhor a Abrão numa visão, dizendo: não temas, Abrão, eu sou o teu protector e a tua recompensa (será) excessivamente grande."
     },
     {
      "n": 2,
@@ -1549,7 +1549,7 @@
     },
     {
      "n": 6,
-     "texto": "Creu Abrão em Deus, e (este ato de fé) lhe foi imputado como justiça."
+     "texto": "Creu Abrão em Deus, e (este acto de fé) lhe foi imputado como justiça."
     },
     {
      "n": 7,
@@ -1597,7 +1597,7 @@
     },
     {
      "n": 18,
-     "texto": "Naquele dia fez o Senhor aliança com Abrão, dizendo: darei à tua descendência esta terra, desde o rio do Egito até ao grande rio Eufrates,"
+     "texto": "Naquele dia fez o Senhor aliança com Abrão, dizendo: darei à tua descendência esta terra, desde o rio do Egipto até ao grande rio Eufrates,"
     },
     {
      "n": 19,
@@ -1654,7 +1654,7 @@
     },
     {
      "n": 10,
-     "texto": "E acrescentou: multiplicarei extraordinariamente a tua descendência e a farei tão numerosa que se não poderá contar."
+     "texto": "E acrescentou: multiplicarei extraordinàriamente a tua descendência e a farei tão numerosa que se não poderá contar."
     },
     {
      "n": 11,
@@ -1691,7 +1691,7 @@
     },
     {
      "n": 2,
-     "texto": "Farei a minha aliança entre mim e ti, e te multiplicarei extraordinariamente."
+     "texto": "Farei a minha aliança entre mim e ti, e te multiplicarei extraordinàriamente."
     },
     {
      "n": 3,
@@ -1707,7 +1707,7 @@
     },
     {
      "n": 6,
-     "texto": "Eu te farei crescer (na tua posteridade) extraordinariamente, farei de ti nações, e de ti sairão reis."
+     "texto": "Eu te farei crescer (na tua posteridade) extraordinàriamente, farei de ti nações, e de ti sairão reis."
     },
     {
      "n": 7,
@@ -1763,7 +1763,7 @@
     },
     {
      "n": 20,
-     "texto": "Eu te ouvi também acerca de Ismael: abençoá-lo-ei, fá-lo-ei crescer e o multiplicarei extraordinariamente: gerará doze príncipes e farei dele uma grande nação."
+     "texto": "Eu te ouvi também acerca de Ismael: abençoá-lo-ei, fá-lo-ei crescer e o multiplicarei extraordinàriamente: gerará doze príncipes e farei dele uma grande nação."
     },
     {
      "n": 21,
@@ -1876,7 +1876,7 @@
     },
     {
      "n": 20,
-     "texto": "Disse, pois, o Senhor; o clamor de Sodoma e de Gomorra aumentou, e o seu pecado agravou-se extraordinariamente."
+     "texto": "Disse, pois, o Senhor; o clamor de Sodoma e de Gomorra aumentou, e o seu pecado agravou-se extraordinàriamente."
     },
     {
      "n": 21,
@@ -1908,7 +1908,7 @@
     },
     {
      "n": 28,
-     "texto": "Que sucederá, se faltarem cinco para os cinquenta justos? Destruirás toda a cidade, porque nela se acham somente quarenta e cinco? E (o Senhor) disse: não a destruirei, se achar nela quarenta e cinco."
+     "texto": "Que sucederá, se faltarem cinco para os cinquenta justos? Destruirás toda a cidade, porque nela se acham sòmente quarenta e cinco? E (o Senhor) disse: não a destruirei, se achar nela quarenta e cinco."
     },
     {
      "n": 29,
@@ -2118,7 +2118,7 @@
     },
     {
      "n": 7,
-     "texto": "Agora, pois, entrega a mulher a seu marido, porque ele é profeta, rogará por ti, e viverás; se, porém, não quiseres restitui-la, sabe que morrerás indubitavelmente, tu e tudo o que é teu."
+     "texto": "Agora, pois, entrega a mulher a seu marido, porque ele é profeta, rogará por ti, e viverás; se, porém, não quiseres restitui-la, sabe que morrerás indubitàvelmente, tu e tudo o que é teu."
     },
     {
      "n": 8,
@@ -2251,7 +2251,7 @@
     },
     {
      "n": 21,
-     "texto": "Habitou no deserto de Faran, e sua mãe tomou para ele uma mulher do pais do Egito."
+     "texto": "Habitou no deserto de Faran, e sua mãe tomou para ele uma mulher do pais do Egipto."
     },
     {
      "n": 22,
@@ -2526,7 +2526,7 @@
     },
     {
      "n": 8,
-     "texto": "Porém, se a mulher não quiser seguir-te, não estarás obrigado ao juramento: somente não reconduzas para lá o meu filho."
+     "texto": "Porém, se a mulher não quiser seguir-te, não estarás obrigado ao juramento: sòmente não reconduzas para lá o meu filho."
     },
     {
      "n": 9,
@@ -2839,7 +2839,7 @@
     },
     {
      "n": 18,
-     "texto": "Seus filhos habitaram desde Hevila até Sur, que olha para o Egito, caminhando para a Assíria, em frente de todos os seus irmãos."
+     "texto": "Seus filhos habitaram desde Hevila até Sur, que olha para o Egipto, caminhando para a Assíria, em frente de todos os seus irmãos."
     },
     {
      "n": 19,
@@ -2916,7 +2916,7 @@
     },
     {
      "n": 2,
-     "texto": "O Senhor apareceu-lhe e disse: Não vás ao Egito, mas fica na terra que eu te disser."
+     "texto": "O Senhor apareceu-lhe e disse: Não vás ao Egipto, mas fica na terra que eu te disser."
     },
     {
      "n": 3,
@@ -3105,7 +3105,7 @@
     },
     {
      "n": 13,
-     "texto": "Sua mãe disse-lhe: Sobre mim caia essa maldição, meu filho: ouve somente a minha voz, e, partindo, traze o que eu disse."
+     "texto": "Sua mãe disse-lhe: Sobre mim caia essa maldição, meu filho: ouve sòmente a minha voz, e, partindo, traze o que eu disse."
     },
     {
      "n": 14,
@@ -3302,7 +3302,7 @@
     },
     {
      "n": 15,
-     "texto": "Eu serei o teu protetor, para onde quer que fores, e te reconduzirei a esta terra, e não te abandonarei sem cumprir tudo o que disse."
+     "texto": "Eu serei o teu protector, para onde quer que fores, e te reconduzirei a esta terra, e não te abandonarei sem cumprir tudo o que disse."
     },
     {
      "n": 16,
@@ -3652,7 +3652,7 @@
     },
     {
      "n": 43,
-     "texto": "Assim tornou-se extraordinariamente rico, teve muitos rebanhos, escravas e escravos, camelos e jumentos."
+     "texto": "Assim tornou-se extraordinàriamente rico, teve muitos rebanhos, escravas e escravos, camelos e jumentos."
     }
    ]
   },
@@ -3865,7 +3865,7 @@
     },
     {
      "n": 52,
-     "texto": "será testemunha: este cabeço bem como esta pedra deem testemunho de que o não passarei, indo contra ti, nem tu o passarás com intento de me fazeres mal."
+     "texto": "será testemunha: este cabeço bem como esta pedra dêem testemunho de que o não passarei, indo contra ti, nem tu o passarás com intento de me fazeres mal."
     },
     {
      "n": 53,
@@ -4128,7 +4128,7 @@
     },
     {
      "n": 7,
-     "texto": "os filhos deste vinham do campo, e, tendo sabido o que acontecera, iraram-se muito, porque (Siquem) tinha feito uma ação vergonhosa contra Israel, violando a filha de Jacob, coisa que se não devia fazer."
+     "texto": "os filhos deste vinham do campo, e, tendo sabido o que acontecera, iraram-se muito, porque (Siquem) tinha feito uma acção vergonhosa contra Israel, violando a filha de Jacob, coisa que se não devia fazer."
     },
     {
      "n": 8,
@@ -4148,7 +4148,7 @@
     },
     {
      "n": 12,
-     "texto": "Aumentai o dote, pedi dádivas, e eu, de boa vontade, darei o que pedirdes: somente me dai esta donzela por mulher."
+     "texto": "Aumentai o dote, pedi dádivas, e eu, de boa vontade, darei o que pedirdes: sòmente me dai esta donzela por mulher."
     },
     {
      "n": 13,
@@ -4192,7 +4192,7 @@
     },
     {
      "n": 23,
-     "texto": "Com isto, a sua riqueza, gados e tudo o que possuem será nosso: somente acedamos (ao seu desejo) e, habitando juntamente, formaremos um só povo."
+     "texto": "Com isto, a sua riqueza, gados e tudo o que possuem será nosso: sòmente acedamos (ao seu desejo) e, habitando juntamente, formaremos um só povo."
     },
     {
      "n": 24,
@@ -4627,7 +4627,7 @@
     },
     {
      "n": 25,
-     "texto": "Depois, sentando-se para comer pão, viram uns viajantes Ismaelitas, que vinham de Galaad, com seus camelos carregados de aromas, resina e mirra, para o Egito."
+     "texto": "Depois, sentando-se para comer pão, viram uns viajantes Ismaelitas, que vinham de Galaad, com seus camelos carregados de aromas, resina e mirra, para o Egipto."
     },
     {
      "n": 26,
@@ -4639,7 +4639,7 @@
     },
     {
      "n": 28,
-     "texto": "Quando passaram os negociantes Madianitas, tiraram-no da cisterna e venderam-no por vinte dinheiros de prata aos Ismaelitas: estes levaram-no para o Egito."
+     "texto": "Quando passaram os negociantes Madianitas, tiraram-no da cisterna e venderam-no por vinte dinheiros de prata aos Ismaelitas: estes levaram-no para o Egipto."
     },
     {
      "n": 29,
@@ -4675,7 +4675,7 @@
     },
     {
      "n": 37,
-     "texto": "os Madianitas venderam José no Egito a Putifar, eunuco de Faraó, general dos exércitos."
+     "texto": "os Madianitas venderam José no Egipto a Putifar, eunuco de Faraó, general dos exércitos."
     }
    ]
   },
@@ -4809,11 +4809,11 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "José foi, pois, conduzido ao Egito, e Putifar Egípcio, eunuco de Faraó e general do exército, comprou-o aos Ismaelitas, que o tinham levado."
+     "texto": "José foi, pois, conduzido ao Egipto, e Putifar Egípcio, eunuco de Faraó e general do exército, comprou-o aos Ismaelitas, que o tinham levado."
     },
     {
      "n": 2,
-     "texto": "O Senhor era com ele, e tudo o que fazia lhe sucedia prosperamente: habitava em casa do seu senhor,"
+     "texto": "O Senhor era com ele, e tudo o que fazia lhe sucedia pròsperamente: habitava em casa do seu senhor,"
     },
     {
      "n": 3,
@@ -4829,7 +4829,7 @@
     },
     {
      "n": 6,
-     "texto": "(Putifar) não tinha outro cuidado que pôr-se à mesa a comer. José era de rosto formoso e aspeto gentil."
+     "texto": "(Putifar) não tinha outro cuidado que pôr-se à mesa a comer. José era de rosto formoso e aspecto gentil."
     },
     {
      "n": 7,
@@ -4837,11 +4837,11 @@
     },
     {
      "n": 8,
-     "texto": "Mas ele, não consentindo de modo algum na execrável ação, disse-lhe: Se o meu Senhor, tendo entregue tudo nas minhas mãos, não pede contas do que tem em sua casa,"
+     "texto": "Mas ele, não consentindo de modo algum na execrável acção, disse-lhe: Se o meu Senhor, tendo entregue tudo nas minhas mãos, não pede contas do que tem em sua casa,"
     },
     {
      "n": 9,
-     "texto": "e nada há que não esteja em meu poder, ou que me não tenha sido confiada, exceto tu, que és sua mulher, como posso eu cometer esta maldade, e pecar contra o meu Deus?"
+     "texto": "e nada há que não esteja em meu poder, ou que me não tenha sido confiada, excepto tu, que és sua mulher, como posso eu cometer esta maldade, e pecar contra o meu Deus?"
     },
     {
      "n": 10,
@@ -4906,7 +4906,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Depois disto, aconteceu que dois eunucos, o copeiro do rei do Egito e o padeiro, pecaram contra o seu senhor."
+     "texto": "Depois disto, aconteceu que dois eunucos, o copeiro do rei do Egipto e o padeiro, pecaram contra o seu senhor."
     },
     {
      "n": 2,
@@ -4958,7 +4958,7 @@
     },
     {
      "n": 14,
-     "texto": "Somente lembra-te de mim e usa para comigo de compaixão, quando fores feliz; solicita a Faraó que me tire deste cárcere,"
+     "texto": "Sòmente lembra-te de mim e usa para comigo de compaixão, quando fores feliz; solicita a Faraó que me tire deste cárcere,"
     },
     {
      "n": 15,
@@ -4966,7 +4966,7 @@
     },
     {
      "n": 16,
-     "texto": "Vendo o padeiro-mor que (José) tinha interpretado sabiamente o sonho, disse: Também eu tive um sonho: (parecia-me) ter três cestos de farinha sobre a minha cabeça,"
+     "texto": "Vendo o padeiro-mor que (José) tinha interpretado sàbiamente o sonho, disse: Também eu tive um sonho: (parecia-me) ter três cestos de farinha sobre a minha cabeça,"
     },
     {
      "n": 17,
@@ -4994,7 +4994,7 @@
     },
     {
      "n": 23,
-     "texto": "Não obstante sucederem-lhe prosperamente as coisas, o copeiro-mór esqueceu-se do seu intérprete."
+     "texto": "Não obstante sucederem-lhe pròsperamente as coisas, o copeiro-mór esqueceu-se do seu intérprete."
     }
    ]
   },
@@ -5015,7 +5015,7 @@
     },
     {
      "n": 4,
-     "texto": "(estas) devoravam aquelas que eram belas de aspeto e gordas de corpo. Tendo Faraó despertado,"
+     "texto": "(estas) devoravam aquelas que eram belas de aspecto e gordas de corpo. Tendo Faraó despertado,"
     },
     {
      "n": 5,
@@ -5031,7 +5031,7 @@
     },
     {
      "n": 8,
-     "texto": "de manhã, cheio de pavor, mandou chamar todos os adivinhos do Egito e todos os sábios; estando reunidos, contou-lhes o sonho e não havia quem lho explicasse."
+     "texto": "de manhã, cheio de pavor, mandou chamar todos os adivinhos do Egipto e todos os sábios; estando reunidos, contou-lhes o sonho e não havia quem lho explicasse."
     },
     {
      "n": 9,
@@ -5075,7 +5075,7 @@
     },
     {
      "n": 19,
-     "texto": "a seguir, atrás destas, vinham outras sete vacas tão disformes e magras, que nunca as vi semelhantes na terra do Egito,"
+     "texto": "a seguir, atrás destas, vinham outras sete vacas tão disformes e magras, que nunca as vi semelhantes na terra do Egipto,"
     },
     {
      "n": 20,
@@ -5115,7 +5115,7 @@
     },
     {
      "n": 29,
-     "texto": "virão sete anos de grande fertilidade por toda a terra do Egito,"
+     "texto": "virão sete anos de grande fertilidade por toda a terra do Egipto,"
     },
     {
      "n": 30,
@@ -5131,7 +5131,7 @@
     },
     {
      "n": 33,
-     "texto": "Agora, pois, escolha, o rei um homem sábio e ativo, a quem dê autoridade sobre a terra do Egito:"
+     "texto": "Agora, pois, escolha, o rei um homem sábio e activo, a quem dê autoridade sobre a terra do Egipto:"
     },
     {
      "n": 34,
@@ -5143,7 +5143,7 @@
     },
     {
      "n": 36,
-     "texto": "e tenha-se preparado para a futura fome dos sete anos, que há-de oprimir o Egito. Assim o país não será consumido pela fome."
+     "texto": "e tenha-se preparado para a futura fome dos sete anos, que há-de oprimir o Egipto. Assim o país não será consumido pela fome."
     },
     {
      "n": 37,
@@ -5163,7 +5163,7 @@
     },
     {
      "n": 41,
-     "texto": "Faraó disse mais a José: Dou-te autoridade sobre toda a terra do Egito."
+     "texto": "Faraó disse mais a José: Dou-te autoridade sobre toda a terra do Egipto."
     },
     {
      "n": 42,
@@ -5171,23 +5171,23 @@
     },
     {
      "n": 43,
-     "texto": "fê-lo subir para o seu segundo coche, clamando o pregoeiro que todos ajoelhassem, diante dele, e soubessem que era o superintendente de toda a terra do Egito."
+     "texto": "fê-lo subir para o seu segundo coche, clamando o pregoeiro que todos ajoelhassem, diante dele, e soubessem que era o superintendente de toda a terra do Egipto."
     },
     {
      "n": 44,
-     "texto": "Disse também o rei a José: Eu sou Faraó; sem o teu mando ninguém moverá mão ou pé em toda a terra do Egito."
+     "texto": "Disse também o rei a José: Eu sou Faraó; sem o teu mando ninguém moverá mão ou pé em toda a terra do Egipto."
     },
     {
      "n": 45,
-     "texto": "Mudou-lhe o nome, e chamou-o, na língua egípcia, Salvador do Mundo. Deu-lhe por mulher a Aseneth, filha de Putifar, sacerdote de Heliópolis. Saiu, portanto, José a correr a terra do Egito,"
+     "texto": "Mudou-lhe o nome, e chamou-o, na língua egípcia, Salvador do Mundo. Deu-lhe por mulher a Aseneth, filha de Putifar, sacerdote de Heliópolis. Saiu, portanto, José a correr a terra do Egipto,"
     },
     {
      "n": 46,
-     "texto": "(tinha trinta anos quando se apresentou diante do rei Faraó), e percorreu todas as provindas do Egito."
+     "texto": "(tinha trinta anos quando se apresentou diante do rei Faraó), e percorreu todas as provindas do Egipto."
     },
     {
      "n": 47,
-     "texto": "Veio a fertilidade dos sete anos, e, atado o trigo aos molhos, foi recolhido nos celeiros do Egito."
+     "texto": "Veio a fertilidade dos sete anos, e, atado o trigo aos molhos, foi recolhido nos celeiros do Egipto."
     },
     {
      "n": 48,
@@ -5211,15 +5211,15 @@
     },
     {
      "n": 53,
-     "texto": "Passados os sete anos da abundância, que houve no Egito,"
+     "texto": "Passados os sete anos da abundância, que houve no Egipto,"
     },
     {
      "n": 54,
-     "texto": "começaram a vir os sete anos de escassez que José prognosticara. Em todo o mundo, se fez sentir a fome: porém em toda a terra do Egito havia pão."
+     "texto": "começaram a vir os sete anos de escassez que José prognosticara. Em todo o mundo, se fez sentir a fome: porém em toda a terra do Egipto havia pão."
     },
     {
      "n": 55,
-     "texto": "Quando também o Egito sentiu a fome, o povo clamou a Faraó, pedindo sustento. Ele respondeu-lhes: Ide a José e fazei tudo o que ele vos disser."
+     "texto": "Quando também o Egipto sentiu a fome, o povo clamou a Faraó, pedindo sustento. Ele respondeu-lhes: Ide a José e fazei tudo o que ele vos disser."
     },
     {
      "n": 56,
@@ -5227,7 +5227,7 @@
     },
     {
      "n": 57,
-     "texto": "De todas as partes vinham ao Egito, para comprar de comer porque a fome era grande em toda a terra."
+     "texto": "De todas as partes vinham ao Egipto, para comprar de comer porque a fome era grande em toda a terra."
     }
    ]
   },
@@ -5236,15 +5236,15 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Jacob, tendo ouvido dizer que no Egito se vendia de comer, disse a seus filhos: Por que estais a olhar uns para os outros?"
+     "texto": "Jacob, tendo ouvido dizer que no Egipto se vendia de comer, disse a seus filhos: Por que estais a olhar uns para os outros?"
     },
     {
      "n": 2,
-     "texto": "Ouvi dizer que no Egito se vendia trigo: ide e comprai-nos o necessário, para que possamos viver e não sejamos consumidos pela fome."
+     "texto": "Ouvi dizer que no Egipto se vendia trigo: ide e comprai-nos o necessário, para que possamos viver e não sejamos consumidos pela fome."
     },
     {
      "n": 3,
-     "texto": "Os dez irmãos de José foram, pois, ao Egito para comprar trigo."
+     "texto": "Os dez irmãos de José foram, pois, ao Egipto para comprar trigo."
     },
     {
      "n": 4,
@@ -5252,11 +5252,11 @@
     },
     {
      "n": 5,
-     "texto": "Eles entraram na terra do Egito com outros que iam comprar (trigo), porque existia a fome na terra de Canaan."
+     "texto": "Eles entraram na terra do Egipto com outros que iam comprar (trigo), porque existia a fome na terra de Canaan."
     },
     {
      "n": 6,
-     "texto": "José era governador na terra do Egito, e, conforme a sua vontade, se vendia o trigo aos povos. Tendo-se prostrado diante dele os seus irmãos, ele os reconheceu,"
+     "texto": "José era governador na terra do Egipto, e, conforme a sua vontade, se vendia o trigo aos povos. Tendo-se prostrado diante dele os seus irmãos, ele os reconheceu,"
     },
     {
      "n": 7,
@@ -5332,7 +5332,7 @@
     },
     {
      "n": 25,
-     "texto": "Tendo mandado tomar e ligar Simeão na presença deles, mandou aos oficiais que enchessem os seus sacos de trigo e repusessem o dinheiro de cada um no seu (respetivo) saco, dando-lhes, além disso, mantimentos para o caminho. E assim se fez."
+     "texto": "Tendo mandado tomar e ligar Simeão na presença deles, mandou aos oficiais que enchessem os seus sacos de trigo e repusessem o dinheiro de cada um no seu (respectivo) saco, dando-lhes, além disso, mantimentos para o caminho. E assim se fez."
     },
     {
      "n": 26,
@@ -5397,7 +5397,7 @@
     },
     {
      "n": 2,
-     "texto": "Consumidos os viventes que tinham levado do Egito, Jacob disse a seus filhos: Voltai e comprai-nos um pouco de viveres."
+     "texto": "Consumidos os viventes que tinham levado do Egipto, Jacob disse a seus filhos: Voltai e comprai-nos um pouco de viveres."
     },
     {
      "n": 3,
@@ -5449,7 +5449,7 @@
     },
     {
      "n": 15,
-     "texto": "Eles, pois, tomaram os presentes, o dinheiro dobrado e Benjamim, desceram ao Egito e apresentaram-se a José."
+     "texto": "Eles, pois, tomaram os presentes, o dinheiro dobrado e Benjamim, desceram ao Egipto e apresentaram-se a José."
     },
     {
      "n": 16,
@@ -5687,11 +5687,11 @@
     },
     {
      "n": 4,
-     "texto": "Ele, porém, com benignidade. disse-lhes: Aproximai-vos de mim. E, tendo-se eles aproximado, disse: Eu sou José, vosso irmão, a quem vós vendestes para o Egito."
+     "texto": "Ele, porém, com benignidade. disse-lhes: Aproximai-vos de mim. E, tendo-se eles aproximado, disse: Eu sou José, vosso irmão, a quem vós vendestes para o Egipto."
     },
     {
      "n": 5,
-     "texto": "Não temais, nem vos pareça ser coisa dura o terdes-me vendido para este país, porque para vossa salvação me mandou Deus adiante de vós para o Egito."
+     "texto": "Não temais, nem vos pareça ser coisa dura o terdes-me vendido para este país, porque para vossa salvação me mandou Deus adiante de vós para o Egipto."
     },
     {
      "n": 6,
@@ -5703,11 +5703,11 @@
     },
     {
      "n": 8,
-     "texto": "Não (foi) por vosso conselho que fui mandado para aqui, mas por vontade de Deus, o qual me tornou quase pai de Faraó, senhor de toda a sua casa, e príncipe em toda a terra do Egito."
+     "texto": "Não (foi) por vosso conselho que fui mandado para aqui, mas por vontade de Deus, o qual me tornou quase pai de Faraó, senhor de toda a sua casa, e príncipe em toda a terra do Egipto."
     },
     {
      "n": 9,
-     "texto": "Apressai-vos, ide a meu pai e lhe direis: Isto te manda dizer teu filho José: Deus fez-me senhor de toda a terra do Egito: vem para a minha companhia, não te demores,"
+     "texto": "Apressai-vos, ide a meu pai e lhe direis: Isto te manda dizer teu filho José: Deus fez-me senhor de toda a terra do Egipto: vem para a minha companhia, não te demores,"
     },
     {
      "n": 10,
@@ -5719,11 +5719,11 @@
     },
     {
      "n": 12,
-     "texto": "Eis que os vossos olhos e os olhos de meu irmão Benjamim veem que é a minha boca que vos fala."
+     "texto": "Eis que os vossos olhos e os olhos de meu irmão Benjamim vêem que é a minha boca que vos fala."
     },
     {
      "n": 13,
-     "texto": "Contai a meu pai toda a minha glória e tudo o que vistes no Egito; apressai-vos e trazei-mo."
+     "texto": "Contai a meu pai toda a minha glória e tudo o que vistes no Egipto; apressai-vos e trazei-mo."
     },
     {
      "n": 14,
@@ -5743,15 +5743,15 @@
     },
     {
      "n": 18,
-     "texto": "tirai de lá vosso pai e família, e vinde para junto de mim; eu vos darei o que há de melhor no Egito, e comereis o melhor dá terra."
+     "texto": "tirai de lá vosso pai e família, e vinde para junto de mim; eu vos darei o que há de melhor no Egipto, e comereis o melhor dá terra."
     },
     {
      "n": 19,
-     "texto": "Ordena também que tomem carros da terra do Egito para a condução de seus filhos e mulheres, e diz-lhes: Tomai vosso pai, e apressai-vos a vir quanto antes."
+     "texto": "Ordena também que tomem carros da terra do Egipto para a condução de seus filhos e mulheres, e diz-lhes: Tomai vosso pai, e apressai-vos a vir quanto antes."
     },
     {
      "n": 20,
-     "texto": "Não tenhais pena de não trazer todas as vossas alfaias, porque todas as riquezas do Egito serão vossas."
+     "texto": "Não tenhais pena de não trazer todas as vossas alfaias, porque todas as riquezas do Egipto serão vossas."
     },
     {
      "n": 21,
@@ -5759,11 +5759,11 @@
     },
     {
      "n": 22,
-     "texto": "Mandou também dar a cada um duas vestes: a Benjamim, porém, deu trezentas moedas de prata com cinco ótimas vestes,"
+     "texto": "Mandou também dar a cada um duas vestes: a Benjamim, porém, deu trezentas moedas de prata com cinco óptimas vestes,"
     },
     {
      "n": 23,
-     "texto": "mandando a seu pai outro tanto de dinheiro e de roupa, acrescentando dez jumentos, que levavam de todas as riquezas do Egito, e outras tantas jumentas, que levavam trigo e pão para o caminho."
+     "texto": "mandando a seu pai outro tanto de dinheiro e de roupa, acrescentando dez jumentos, que levavam de todas as riquezas do Egipto, e outras tantas jumentas, que levavam trigo e pão para o caminho."
     },
     {
      "n": 24,
@@ -5771,11 +5771,11 @@
     },
     {
      "n": 25,
-     "texto": "Eles, partindo do Egito, chegaram à terra de Canaan, a casa de seu pai Jacob,"
+     "texto": "Eles, partindo do Egipto, chegaram à terra de Canaan, a casa de seu pai Jacob,"
     },
     {
      "n": 26,
-     "texto": "e deram-lhe a nova, dizendo: José, teu filho, vive, e governa toda a terra do Egito. Ouvindo isto, Jacob não se comoveu, pois não os acreditava."
+     "texto": "e deram-lhe a nova, dizendo: José, teu filho, vive, e governa toda a terra do Egipto. Ouvindo isto, Jacob não se comoveu, pois não os acreditava."
     },
     {
      "n": 27,
@@ -5800,7 +5800,7 @@
     },
     {
      "n": 3,
-     "texto": "Deus disse-lhe: Eu sou o Deus fortíssimo de teu pai; não temas, vai para o Egito, porque eu te farei ser uma grande nação."
+     "texto": "Deus disse-lhe: Eu sou o Deus fortíssimo de teu pai; não temas, vai para o Egipto, porque eu te farei ser uma grande nação."
     },
     {
      "n": 4,
@@ -5812,7 +5812,7 @@
     },
     {
      "n": 6,
-     "texto": "com tudo o que ele possuía na terra de Canaan, e foi para o Egito com toda a sua família,"
+     "texto": "com tudo o que ele possuía na terra de Canaan, e foi para o Egipto com toda a sua família,"
     },
     {
      "n": 7,
@@ -5820,7 +5820,7 @@
     },
     {
      "n": 8,
-     "texto": "Eis os nomes dos filhos de Israel, que entraram no Egito, quando ele para lá foi com seus filhos. O primogénito (era) Ruben."
+     "texto": "Eis os nomes dos filhos de Israel, que entraram no Egipto, quando ele para lá foi com seus filhos. O primogénito (era) Ruben."
     },
     {
      "n": 9,
@@ -5868,7 +5868,7 @@
     },
     {
      "n": 20,
-     "texto": "A José, na terra do Egito, nasceram os filhos Manassés e Efraim, que lhe deu à luz Aseneth, filha de Putifar, sacerdote de Heliópolis."
+     "texto": "A José, na terra do Egipto, nasceram os filhos Manassés e Efraim, que lhe deu à luz Aseneth, filha de Putifar, sacerdote de Heliópolis."
     },
     {
      "n": 21,
@@ -5892,11 +5892,11 @@
     },
     {
      "n": 26,
-     "texto": "Todas as pessoas que entraram com Jacob no Egito, e que descendiam dele, não contando com as mulheres de seus filhos, eram sessenta e seis."
+     "texto": "Todas as pessoas que entraram com Jacob no Egipto, e que descendiam dele, não contando com as mulheres de seus filhos, eram sessenta e seis."
     },
     {
      "n": 27,
-     "texto": "Os filhos de José, que lhe tinham nascido no Egito, eram dois. Todas as pessoas da casa de Jacob, que entraram no Egito, foram setenta."
+     "texto": "Os filhos de José, que lhe tinham nascido no Egipto, eram dois. Todas as pessoas da casa de Jacob, que entraram no Egipto, foram setenta."
     },
     {
      "n": 28,
@@ -5953,7 +5953,7 @@
     },
     {
      "n": 6,
-     "texto": "A terra do Egito está diante de ti: faze-os habitar no melhor lugar: entrega-lhes a terra de Gessen. Se sabes que há entre eles homens de capacidade, constitui-os superintendentes dos meus rebanhos."
+     "texto": "A terra do Egipto está diante de ti: faze-os habitar no melhor lugar: entrega-lhes a terra de Gessen. Se sabes que há entre eles homens de capacidade, constitui-os superintendentes dos meus rebanhos."
     },
     {
      "n": 7,
@@ -5973,7 +5973,7 @@
     },
     {
      "n": 11,
-     "texto": "José deu a seu pai e a seus irmãos uma propriedade, em um ótimo lugar do país, em Ramsés, como Faraó tinha ordenado,"
+     "texto": "José deu a seu pai e a seus irmãos uma propriedade, em um óptimo lugar do país, em Ramsés, como Faraó tinha ordenado,"
     },
     {
      "n": 12,
@@ -5981,7 +5981,7 @@
     },
     {
      "n": 13,
-     "texto": "Ora o pão faltava em toda aquela terra, a fome era muito grande, principalmente no Egito e em Canaan."
+     "texto": "Ora o pão faltava em toda aquela terra, a fome era muito grande, principalmente no Egipto e em Canaan."
     },
     {
      "n": 14,
@@ -5989,7 +5989,7 @@
     },
     {
      "n": 15,
-     "texto": "Faltando o dinheiro aos compradores, todo o Egito foi ter com José, dizendo: Dá-nos pão; por que razão morreremos nós na tua presença, por falta de dinheiro?"
+     "texto": "Faltando o dinheiro aos compradores, todo o Egipto foi ter com José, dizendo: Dá-nos pão; por que razão morreremos nós na tua presença, por falta de dinheiro?"
     },
     {
      "n": 16,
@@ -6009,15 +6009,15 @@
     },
     {
      "n": 20,
-     "texto": "Portanto José comprou toda a terra do Egito, vendendo cada um deles as suas possessões por causa do rigor da fome: assim a sujeitou a Faraó,"
+     "texto": "Portanto José comprou toda a terra do Egipto, vendendo cada um deles as suas possessões por causa do rigor da fome: assim a sujeitou a Faraó,"
     },
     {
      "n": 21,
-     "texto": "com todos os seus povos, desde uma extremidade do Egito até à outra."
+     "texto": "com todos os seus povos, desde uma extremidade do Egipto até à outra."
     },
     {
      "n": 22,
-     "texto": "Somente não comprou a terra dos sacerdotes, porque os sacerdotes tinham uma determinada provisão de Faraó, e comiam a provisão que lhes dava Faraó. Por isso não venderam as suas terras,"
+     "texto": "Sòmente não comprou a terra dos sacerdotes, porque os sacerdotes tinham uma determinada provisão de Faraó, e comiam a provisão que lhes dava Faraó. Por isso não venderam as suas terras,"
     },
     {
      "n": 23,
@@ -6033,11 +6033,11 @@
     },
     {
      "n": 26,
-     "texto": "Desde aquele tempo até ao dia de hoje, em toda a terra do Egito, se paga aos reis a quinta parte; isto tornou-se lei (para todos) excetuada a terra sacerdotal, que ficou livre desta sujeição."
+     "texto": "Desde aquele tempo até ao dia de hoje, em toda a terra do Egipto, se paga aos reis a quinta parte; isto tornou-se lei (para todos) exceptuada a terra sacerdotal, que ficou livre desta sujeição."
     },
     {
      "n": 27,
-     "texto": "Israel habitou, pois, no Egito, na terra do Gessen, e adquiriu, ali, bens, aumentando e multiplicando-se extraordinariamente."
+     "texto": "Israel habitou, pois, no Egipto, na terra do Gessen, e adquiriu, ali, bens, aumentando e multiplicando-se extraordinàriamente."
     },
     {
      "n": 28,
@@ -6045,7 +6045,7 @@
     },
     {
      "n": 29,
-     "texto": "Vendo que se aproximava o dia da sua morte, chamou seu filho José e disse-lhe: Se achei graça diante de ti, põe a tua mão debaixo da minha coxa; usarás comigo de bondade e fidelidade, e não me sepultarás no Egito."
+     "texto": "Vendo que se aproximava o dia da sua morte, chamou seu filho José e disse-lhe: Se achei graça diante de ti, põe a tua mão debaixo da minha coxa; usarás comigo de bondade e fidelidade, e não me sepultarás no Egipto."
     },
     {
      "n": 30,
@@ -6078,7 +6078,7 @@
     },
     {
      "n": 5,
-     "texto": "Portanto os teus dois filhos, que te nasceram na terra do Egito, antes que eu para aqui viesse ter contigo, serão meus: Efraim e Manassés serão considerados meus (filhos), como Ruben e Simeão."
+     "texto": "Portanto os teus dois filhos, que te nasceram na terra do Egipto, antes que eu para aqui viesse ter contigo, serão meus: Efraim e Manassés serão considerados meus (filhos), como Ruben e Simeão."
     },
     {
      "n": 6,
@@ -6191,7 +6191,7 @@
     },
     {
      "n": 10,
-     "texto": "O cetro não será tirado de Judá, nem o bastão soberano de entre os seus pés, até que venha aquele de quem é o mando, e a quem os povos devem obediência."
+     "texto": "O ceptro não será tirado de Judá, nem o bastão soberano de entre os seus pés, até que venha aquele de quem é o mando, e a quem os povos devem obediência."
     },
     {
      "n": 11,
@@ -6211,7 +6211,7 @@
     },
     {
      "n": 15,
-     "texto": "Viu que o repouso era bom, e que a (sua) terra era ótima; curvou os seus ombros para levar pesos, e sujeitou-se aos tributos,"
+     "texto": "Viu que o repouso era bom, e que a (sua) terra era óptima; curvou os seus ombros para levar pesos, e sujeitou-se aos tributos,"
     },
     {
      "n": 16,
@@ -6296,7 +6296,7 @@
     },
     {
      "n": 3,
-     "texto": "Enquanto eles cumpriam a ordem, passaram-se quarenta dias, porque este é o tempo gasto para embalsamar (um cadáver). O Egito chorou-o durante setenta dias."
+     "texto": "Enquanto eles cumpriam a ordem, passaram-se quarenta dias, porque este é o tempo gasto para embalsamar (um cadáver). O Egipto chorou-o durante setenta dias."
     },
     {
      "n": 4,
@@ -6312,7 +6312,7 @@
     },
     {
      "n": 7,
-     "texto": "Partindo ele, acompanharam-no todos os anciães da casa de Faraó, e todos os principais da terra do Egito,"
+     "texto": "Partindo ele, acompanharam-no todos os anciães da casa de Faraó, e todos os principais da terra do Egipto,"
     },
     {
      "n": 8,
@@ -6328,7 +6328,7 @@
     },
     {
      "n": 11,
-     "texto": "Tendo observado isto os habitantes da terra de Canaan, disseram: Grande pranto é este dos egípcios. Por isto, se ficou chamando aquele lugar o Pranto do Egito."
+     "texto": "Tendo observado isto os habitantes da terra de Canaan, disseram: Grande pranto é este dos egípcios. Por isto, se ficou chamando aquele lugar o Pranto do Egipto."
     },
     {
      "n": 12,
@@ -6340,7 +6340,7 @@
     },
     {
      "n": 14,
-     "texto": "José, sepultado seu pai, voltou para o Egito com seus irmãos e toda a comitiva."
+     "texto": "José, sepultado seu pai, voltou para o Egipto com seus irmãos e toda a comitiva."
     },
     {
      "n": 15,
@@ -6372,7 +6372,7 @@
     },
     {
      "n": 22,
-     "texto": "(José) habitou no Egito, com toda a família de seu pai. Viveu cento e dez anos, e viu os filhos de Efraim até à terceira geração. Os filhos de Maquir, filho de Manassés, nasceram também sobre os joelhos de José."
+     "texto": "(José) habitou no Egipto, com toda a família de seu pai. Viveu cento e dez anos, e viu os filhos de Efraim até à terceira geração. Os filhos de Maquir, filho de Manassés, nasceram também sobre os joelhos de José."
     },
     {
      "n": 23,
@@ -6384,7 +6384,7 @@
     },
     {
      "n": 25,
-     "texto": "Morreu, tendo completado os cento e dez anos da sua vida, e foi embalsamado e depositado num caixão no Egito."
+     "texto": "Morreu, tendo completado os cento e dez anos da sua vida, e foi embalsamado e depositado num caixão no Egipto."
     }
    ]
   }

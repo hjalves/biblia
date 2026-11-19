@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -79,7 +79,7 @@
     },
     {
      "n": 16,
-     "texto": "Mamucan respondeu em presença do rei e dos grandes: A rainha Vasti não somente ofendeu o rei, mas também todos os povos e todos os príncipes que há por todas as províncias do rei Assuero."
+     "texto": "Mamucan respondeu em presença do rei e dos grandes: A rainha Vasti não sòmente ofendeu o rei, mas também todos os povos e todos os príncipes que há por todas as províncias do rei Assuero."
     },
     {
      "n": 17,
@@ -136,7 +136,7 @@
     },
     {
      "n": 7,
-     "texto": "Tinha ele criado Edissa, filha de seu irmão, chamada por outro nome Ester, órfã de pai e mãe; era em extremo formosa e de aspeto gracioso. Depois do falecimento de seu pai e sua mãe, Mardoqueu tínha-a adotado por filha."
+     "texto": "Tinha ele criado Edissa, filha de seu irmão, chamada por outro nome Ester, órfã de pai e mãe; era em extremo formosa e de aspecto gracioso. Depois do falecimento de seu pai e sua mãe, Mardoqueu tínha-a adoptado por filha."
     },
     {
      "n": 8,
@@ -168,7 +168,7 @@
     },
     {
      "n": 15,
-     "texto": "Passado, pois, um certo tempo, estava já próximo o dia em que devia ser apresentada ao rei Ester, filha de Abiail, tio de Mardoqueu, a qual este tinha adotado por filha. Ela não pediu nada, além do que lhe foi entregue pelo eunuco Egeu, que tinha a guarda das donzelas; mas Ester agradou aos olhos de todos os que a viram."
+     "texto": "Passado, pois, um certo tempo, estava já próximo o dia em que devia ser apresentada ao rei Ester, filha de Abiail, tio de Mardoqueu, a qual este tinha adoptado por filha. Ela não pediu nada, além do que lhe foi entregue pelo eunuco Egeu, que tinha a guarda das donzelas; mas Ester agradou aos olhos de todos os que a viram."
     },
     {
      "n": 16,
@@ -213,7 +213,7 @@
     },
     {
      "n": 2,
-     "texto": "Todos os servos do rei, que estavam à porta do palácio dobravam os joelhos, prostravam-se diante de Aman, porque assim lhes tinha mandado o imperador; só Mardoqueu não dobrava os joelhos nem se prostrava diante dele, (por considerar isto um ato de idolatria)."
+     "texto": "Todos os servos do rei, que estavam à porta do palácio dobravam os joelhos, prostravam-se diante de Aman, porque assim lhes tinha mandado o imperador; só Mardoqueu não dobrava os joelhos nem se prostrava diante dele, (por considerar isto um acto de idolatria)."
     },
     {
      "n": 3,
@@ -314,7 +314,7 @@
     },
     {
      "n": 11,
-     "texto": "Todos os servos do rei e todas as províncias que estão debaixo do seu domínio sabem que se alguém, homem ou mulher, entrar, sem ser chamado, na câmara do rei, no mesmo ponto, sem remissão alguma, é morto, exceto se o rei estender para ele o seu cetro de ouro, em sinal de clemência, e lhe salvar assim a vida. Como poderei eu, pois, ir ter com o rei, quando há já trinta dias que ele me não chama para junto de si?"
+     "texto": "Todos os servos do rei e todas as províncias que estão debaixo do seu domínio sabem que se alguém, homem ou mulher, entrar, sem ser chamado, na câmara do rei, no mesmo ponto, sem remissão alguma, é morto, excepto se o rei estender para ele o seu ceptro de ouro, em sinal de clemência, e lhe salvar assim a vida. Como poderei eu, pois, ir ter com o rei, quando há já trinta dias que ele me não chama para junto de si?"
     },
     {
      "n": 12,
@@ -351,7 +351,7 @@
     },
     {
      "n": 2,
-     "texto": "Tendo visto a rainha Ester de pé, olhou-a com agrado e estendeu para ela o cetro de ouro, que tinha na mão. Ester, aproximando-se, beijou a ponta do cetro."
+     "texto": "Tendo visto a rainha Ester de pé, olhou-a com agrado e estendeu para ela o ceptro de ouro, que tinha na mão. Ester, aproximando-se, beijou a ponta do ceptro."
     },
     {
      "n": 3,
@@ -526,7 +526,7 @@
     },
     {
      "n": 4,
-     "texto": "O rei, segundo o costume, estendeu para ela com a sua mão, o cetro de ouro, o que era sinal de clemência; levantando-se ela, pôs-se em pé diante do rei"
+     "texto": "O rei, segundo o costume, estendeu para ela com a sua mão, o ceptro de ouro, o que era sinal de clemência; levantando-se ela, pôs-se em pé diante do rei"
     },
     {
      "n": 5,
@@ -679,11 +679,11 @@
     },
     {
      "n": 24,
-     "texto": "Com efeito, Aman, filho de Amadati, da linhagem de Agag, inimigo e adversário dos Judeus, formara contra eles o mau projeto de os matar e de os extinguir, e lançara sobre isto o Pur, que significa sorte."
+     "texto": "Com efeito, Aman, filho de Amadati, da linhagem de Agag, inimigo e adversário dos Judeus, formara contra eles o mau projecto de os matar e de os extinguir, e lançara sobre isto o Pur, que significa sorte."
     },
     {
      "n": 25,
-     "texto": "Porém, tendo-se apresentado Ester ao rei, este ordenou, por escrito, que caísse sobre a cabeça do seu autor, o projeto perverso que Aman formara contra os Judeus, e que ele (Aman) e seus filhos fossem crucificados."
+     "texto": "Porém, tendo-se apresentado Ester ao rei, este ordenou, por escrito, que caísse sobre a cabeça do seu autor, o projecto perverso que Aman formara contra os Judeus, e que ele (Aman) e seus filhos fossem crucificados."
     },
     {
      "n": 26,
@@ -768,7 +768,7 @@
     },
     {
      "n": 13,
-     "texto": "Estes dias do mês de Adar, o décimo quarto e o décimo quinto, serão celebrados com toda a devoção e júbilo do povo, que se congregará em um ajuntamento, perpetuamente, em todas as gerações do povo de Israel."
+     "texto": "Estes dias do mês de Adar, o décimo quarto e o décimo quinto, serão celebrados com toda a devoção e júbilo do povo, que se congregará em um ajuntamento, perpètuamente, em todas as gerações do povo de Israel."
     }
    ]
   },
@@ -834,7 +834,7 @@
     },
     {
      "n": 2,
-     "texto": "Tendo entendido os seus pensamentos e reconhecido exatamente os seus desígnios, descobriu que intentavam pôr a mão na pessoa do rei Artaxerxes; avisou disso o rei,"
+     "texto": "Tendo entendido os seus pensamentos e reconhecido exactamente os seus desígnios, descobriu que intentavam pôr a mão na pessoa do rei Artaxerxes; avisou disso o rei,"
     },
     {
      "n": 3,
@@ -919,7 +919,7 @@
     },
     {
      "n": 16,
-     "texto": "Não desprezes a tua porção, que para ti resgataste do Egito."
+     "texto": "Não desprezes a tua porção, que para ti resgataste do Egipto."
     },
     {
      "n": 17,
@@ -972,11 +972,11 @@
     },
     {
      "n": 10,
-     "texto": "a fim de abrir as bocas dos gentios e louvar o poder dos seus ídolos e celebrar perpetuamente um rei de carne."
+     "texto": "a fim de abrir as bocas dos gentios e louvar o poder dos seus ídolos e celebrar perpètuamente um rei de carne."
     },
     {
      "n": 11,
-     "texto": "Não entregues, Senhor, o teu cetro àqueles que não são nada, para que não escarneçam da nossa ruína, mas volta contra eles os seus desígnios e destrói aquele que começou a ser cruel contra nós."
+     "texto": "Não entregues, Senhor, o teu ceptro àqueles que não são nada, para que não escarneçam da nossa ruína, mas volta contra eles os seus desígnios e destrói aquele que começou a ser cruel contra nós."
     },
     {
      "n": 12,
@@ -1049,7 +1049,7 @@
     },
     {
      "n": 9,
-     "texto": "Tendo passado, uma por uma, todas as portas, pôs-se diante do rei. Assuero estava sentado sobre o sólio real, vestido de manto real, resplandecendo com o ouro e pedras preciosas, e o seu aspeto era terrível."
+     "texto": "Tendo passado, uma por uma, todas as portas, pôs-se diante do rei. Assuero estava sentado sobre o sólio real, vestido de manto real, resplandecendo com o ouro e pedras preciosas, e o seu aspecto era terrível."
     },
     {
      "n": 10,
@@ -1057,7 +1057,7 @@
     },
     {
      "n": 11,
-     "texto": "Então Deus amansou o coração do rei, o qual, apressado e inquieto, desceu rapidamente do trono, e, sustendo-a com seus braços até que voltou a si, a animava com estas palavras:"
+     "texto": "Então Deus amansou o coração do rei, o qual, apressado e inquieto, desceu ràpidamente do trono, e, sustendo-a com seus braços até que voltou a si, a animava com estas palavras:"
     },
     {
      "n": 12,
@@ -1069,11 +1069,11 @@
     },
     {
      "n": 14,
-     "texto": "Aproxima-te, pois, e toca o cetro."
+     "texto": "Aproxima-te, pois, e toca o ceptro."
     },
     {
      "n": 15,
-     "texto": "Como ela não falasse, tomou o cetro de ouro, pôs-lho sobre o seu colo, beijou-a e disse; Por que não me falas?"
+     "texto": "Como ela não falasse, tomou o ceptro de ouro, pôs-lho sobre o seu colo, beijou-a e disse; Por que não me falas?"
     },
     {
      "n": 16,
@@ -1114,7 +1114,7 @@
     },
     {
      "n": 5,
-     "texto": "Chegam a tal grau de loucura, que, com os artifícios da mentira, procuram arruinar aqueles que cumprem com exatidão os cargos, que lhes foram confiados, e que procedem em tudo de sorte que se tornam dignos do aplauso comum,"
+     "texto": "Chegam a tal grau de loucura, que, com os artifícios da mentira, procuram arruinar aqueles que cumprem com exactidão os cargos, que lhes foram confiados, e que procedem em tudo de sorte que se tornam dignos do aplauso comum,"
     },
     {
      "n": 6,

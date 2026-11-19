@@ -9,7 +9,7 @@
 **5** Com efeito, a qual dos anjos disse (Deus) jamais: Tu és meu filho, eu te gerei hoje (Ps. 2, 7)? E outra vez: Eu serei para ele um Pai, e ele será para mim um Filho (2Sm. 7, 14).  
 **6** E, novamente, quando introduz o seu Primogénito no mundo, diz: Todos os anjos de Deus o adorem (Ps. 96, 7).  
 **7** Acerca dos anjos diz: Ele faz dos seus anjos sopros de vento, e dos seus ministros chamas ardentes (Ps. 103, 4).  
-**8** Mas ao Filho diz: O teu trono ó Deus, subsistirá pelos séculos dos séculos; é um cetro de equidade o cetro do teu reino.  
+**8** Mas ao Filho diz: O teu trono ó Deus, subsistirá pelos séculos dos séculos; é um ceptro de equidade o ceptro do teu reino.  
 **9** Amaste a justiça e aborreceste a iniquidade, por isso. Deus, o teu Deus, te ungiu com óleo de alegria, de preferência aos teus companheiros (Ps. 44, 7-8).  
 **10** E noutro lugar: Tu, Senhor, no princípio fundaste a terra, e o céus são obra das tuas mãos.  
 **11** Eles perecerão, mas tu permanecerás, e todos envelhecerão como um vestido;  
@@ -21,7 +21,7 @@
 
 **1** Portanto, é necessário guardar mais cuidadosamente as coisas que temos ouvido, para não andarmos sem rumo.  
 **2** Porque, se a palavra anunciada pelos anjos ficou firme, e toda a prevaricação e desobediência recebeu a justa retribuição que merecia,  
-**3** como escaparemos nós (ao castigo de Deus), se desprezarmos tão grande salvação, a qual, tendo começado a ser anunciada pelo Senhor, foi depois confirmada entre nós pelos que a ouviram (diretamente dele),  
+**3** como escaparemos nós (ao castigo de Deus), se desprezarmos tão grande salvação, a qual, tendo começado a ser anunciada pelo Senhor, foi depois confirmada entre nós pelos que a ouviram (directamente dele),  
 **4** comprovando Deus o seu testemunho por meio de sinais, maravilhas, toda a espécie de milagres e dons do Espírito Santo, distribuídos segundo a sua vontade?  
 **5** Com efeito, não foi aos anjos (mas a Cristo) que Deus submeteu o mundo futuro, de que falamos (que é a Igreja).  
 **6** Ora alguém deu testemunho, em certo lugar, dizendo: Que é o homem para que te lembres dele, ou o filho do homem para que o visites?  
@@ -43,7 +43,7 @@
 **1** Pelo que, irmãos santos, (vós que sois) participantes da vocação celestial, considerai o Apóstolo e o Pontífice da fé que professamos, Jesus,  
 **2** o qual é fiel ao que o constituiu, assim como também Moisés o era em toda a casa dele (Nm. 12, 7).  
 **3** Contudo este (Jesus) é considerado digno de tanta maior glória do que Moisés, quanto o que edificou a casa tem maior honra que a mesma casa.  
-**4** Efetivamente toda a casa é edificada por alguém; mas o que construiu todas as coisas, é Deus.  
+**4** Efectivamente toda a casa é edificada por alguém; mas o que construiu todas as coisas, é Deus.  
 **5** Moisés na verdade era fiel em toda a casa de Deus, como um servo, para testificar aquelas coisas que se deviam anunciar;  
 **6** porém Cristo foi fiel como um filho posto à frente da sua casa, a qual casa somos nós, se conservarmos firmes até ao fim a confiança e a alegre altivez da esperança (dos bens eternos).  
 **7** Pelo que, como diz o Espírito Santo; Se ouvirdes hoje a sua voz,  
@@ -53,9 +53,9 @@
 **11** por isso jurei-lhes na minha ira: Não entrarão no meu descanso (S. 95,8-11).  
 **12** Vede, irmãos, que não haja em algum de vós um coração mau e incrédulo, que o aparte do Deus vivo,  
 **13** mas exortai-vos uns aos outros, todos os dias, durante (a vida presente que é) o tempo que se chama. Hoje, para que nenhum de vós se endureça, seduzido pelo pecado.  
-**14** Em realidade, (é verdade que) nós somos participantes de Cristo, mas contanto que conservemos inviolavelmente até ao fim a nossa firmeza dos primeiros dias,  
+**14** Em realidade, (é verdade que) nós somos participantes de Cristo, mas contanto que conservemos inviolàvelmente até ao fim a nossa firmeza dos primeiros dias,  
 **15** enquanto se nos diz: Se hoje ouvirdes a sua voz, não endureçais os vossos corações, como sucedeu no lugar da rebelião.  
-**16** Quais foram os que, depois de terem ouvido a sua voz, se revoltaram? Não foram todos aqueles, que tinham saído do Egito, sob a direção de Moisés?  
+**16** Quais foram os que, depois de terem ouvido a sua voz, se revoltaram? Não foram todos aqueles, que tinham saído do Egipto, sob a direcção de Moisés?  
 **17** E contra quem esteve Deus indignado durante quarenta anos? Porventura não foi contra aqueles que pecaram, cujos cadáveres ficaram estendidos no deserto?  
 **18** E quais são aqueles a quem jurou (Deus) que não entrariam no (lugar do) seu descanso (que era a terra prometida de Canaan), senão os que foram incrédulos?  
 **19** E, de facto, nós vemos que eles não puderam lá entrar por causa da sua incredulidade.  
@@ -76,7 +76,7 @@
 **12** Porque a palavra de Deus é viva, eficaz e mais penetrante do que toda a espada de dois gumes; chega até à separação da alma e do espírito, das junturas e das medulas, e discerne os pensamentos e intenções do coração.  
 **13** Não há nenhuma criatura invisível na sua presença, mas todas as coisas estão a nu e a descoberto, aos olhos daquele de quem falamos.  
 **14** Tendo nós, pois, um grande pontífice, que penetrou os céus, Jesus, Filho de Deus, sejamos firmes na profissão da nossa fé.  
-**15** Não temos um pontífice que não possa compadecer-se das nossas enfermidades, mas que foi tentado em tudo á nossa semelhança, exceto no pecado.  
+**15** Não temos um pontífice que não possa compadecer-se das nossas enfermidades, mas que foi tentado em tudo á nossa semelhança, excepto no pecado.  
 **16** Aproximemo-nos, pois, confiadamente do trono da graça, a fim de alcançar misericórdia e de encontrar graça, para sermos socorridos em tempo oportuno.  
 
 ## Capítulo 5
@@ -99,7 +99,7 @@
 ## Capítulo 6
 
 **1** Contudo, deixando de discorrer sobre os primeiros rudimentos acerca de Cristo, elevemo-nos a coisas mais perfeitas, sem voltar de novo aos pontos fundamentais do arrependimento das obras mortas e da fé em Deus,  
-**2** da doutrina sobre os batismos e da imposição das mãos, da ressurreição dos mortos e do juízo eterno.  
+**2** da doutrina sobre os baptismos e da imposição das mãos, da ressurreição dos mortos e do juízo eterno.  
 **3** E isto faremos, se Deus o permitir.  
 **4** É impossível que os que foram uma vez iluminados, que tomaram o gosto ao dom celestial e foram feitos participantes do Espírito Santo,  
 **5** que gostaram a boa palavra de Deus e as maravilhas do mundo futuro,  
@@ -145,7 +145,7 @@
 **22** Jesus tornou-se por isso mesmo o fiador de uma aliança melhor.  
 **23** Demais, entre aqueles foram feitos sacerdotes em grande número, porque a morte não lhes permitia durar (sempre)  
 **24** mas este, porque permanece para sempre, tem um sacerdócio que não passa.  
-**25** Por isso pode salvar perpetuamente os que por ele mesmo se aproximam de Deus, vivendo sempre para interceder em seu favor.  
+**25** Por isso pode salvar perpètuamente os que por ele mesmo se aproximam de Deus, vivendo sempre para interceder em seu favor.  
 **26** Porque convinha que tivéssemos um tal pontífice, santo, inocente, imaculado, segregado dos pecadores e elevado acima dos céus.  
 **27** que não tem necessidade, com os (outros) sumos sacerdotes, de oferecer todos os dias sacrifícios, primeiramente pelos seus pecados, depois pelos do povo; fez isto, uma só vez por todas, oferecendo-se a si mesmo.  
 **28** Porquanto a lei constituiu sumos sacerdotes a homens sujeitos à fraqueza, mas a palavra do juramento, que é posterior à lei, constitui (pontífice) o Filho (de Deus, que é) perfeito eternamente.  
@@ -160,7 +160,7 @@
 **6** Mas (Cristo) recebeu um ministério tanto mais elevado quanto melhor a aliança de que é mediador, a qual foi estabelecida sobre melhores promessas.  
 **7** De facto, se aquela primeira aliança tivesse sido sem defeito, não se buscaria lugar para uma segunda.  
 **8** Pois que (Deus), repreendendo-os, diz: Eis virão dias em que eu contrairei com a casa de Israel e com a casa de Judá uma nova aliança,  
-**9** diferente da aliança que fiz com os seus pais, no dia em que lhes peguei pela mão para os tirar da terra do Egito; porém, visto que eles não perseveraram na minha aliança, também me desinteressei deles, diz o Senhor.  
+**9** diferente da aliança que fiz com os seus pais, no dia em que lhes peguei pela mão para os tirar da terra do Egipto; porém, visto que eles não perseveraram na minha aliança, também me desinteressei deles, diz o Senhor.  
 **10** Mas esta é a aliança que estabelecerei com a casa de Israel depois daqueles dias, diz o Senhor: porei as minhas leis no seu espírito, grava-las-ei no seu coração, e serei o seu Deus, e eles serão o meu povo;  
 **11** ninguém ensinará mais a seu compatriota, ninguém a seu irmão, dizendo: "conhece o Senhor", porque todos eles me conhecerão, desde o mais pequeno até ao maior,  
 **12** pois perdoarei as suas iniquidades e não me lembrarei mais dos seus pecados (Jer. 31,31-34).  
@@ -177,7 +177,7 @@
 **7** na segunda só entra o pontífice, uma vez no ano, não sem sangue que ofereça pelas suas faltas e pelas do povo,  
 **8** significando com isto o Espírito Santo que o caminho do santuário não está ainda aberto, enquanto subsiste o primeiro tabernáculo,  
 **9** que é uma figura do tempo presente, no qual se oferecem dons e sacrifícios, que não podem tornar perfeita a consciência do sacrificante.  
-**10** Tudo isto apenas se refere a alimentos e bebidas, a diversas abluções e determinações carnais, impostas somente até ao tempo da reforma.  
+**10** Tudo isto apenas se refere a alimentos e bebidas, a diversas abluções e determinações carnais, impostas sòmente até ao tempo da reforma.  
 **11** Mas Cristo, vindo como pontífice dos bens futuros, passando pelo meio de um tabernáculo mais excelente e perfeito, não feito por mão de homem, isto é, não desta criação,  
 **12** e não com o sangue dos bodes ou dos bezerros, mas com o seu próprio sangue, entrou uma só vez no santuário, conseguindo-nos uma redenção eterna.  
 **13** Com efeito, se o sangue dos bodes e dos touros, e a cinza de uma novilha, aspergindo os impuros, os santificam e lhes dão a pureza da carne,  
@@ -186,7 +186,7 @@
 **16** De facto, onde há um testamento, é necessário que intervenha a morte do testador,  
 **17** porque o testamento só produz seu efeito em caso de morte, não tendo força enquanto vive o testador.  
 **18** Por isso nem mesmo o primeiro testamento foi inaugurado sem sangue.  
-**19** Efetivamente Moisés, tendo lido a todo o povo todos os preceitos da lei, tomou o sangue dos bezerros e dos bodes, com água, com lã tinta de escarlate e com hissopo aspergiu o mesmo livro (que continha a lei) assim como todo o povo,  
+**19** Efectivamente Moisés, tendo lido a todo o povo todos os preceitos da lei, tomou o sangue dos bezerros e dos bodes, com água, com lã tinta de escarlate e com hissopo aspergiu o mesmo livro (que continha a lei) assim como todo o povo,  
 **20** dizendo: Este é o sangue da aliança que Deus contraiu convosco (Ex. 24, 8).  
 **21** Aspergiu igualmente com sangue o tabernáculo e todos os vasos do ministério.  
 **22** Quase todas as coisas, segundo a lei, se purificam com sangue: sem efusão de sangue não há remissão.  
@@ -199,7 +199,7 @@
 
 ## Capítulo 10
 
-**1** Efetivamente a lei, tendo apenas a sombra dos bens futuros, não a própria realidade, nunca pode, com aquelas mesmas vítimas que se oferecem incessantemente, cada ano, tornar perfeitos os que se aproximam de Deus.  
+**1** Efectivamente a lei, tendo apenas a sombra dos bens futuros, não a própria realidade, nunca pode, com aquelas mesmas vítimas que se oferecem incessantemente, cada ano, tornar perfeitos os que se aproximam de Deus.  
 **2** Doutra sorte não teriam cessado de as oferecer, porque os sacrificadores, uma vez purificados, não mais teriam tido consciência de pecado?  
 **3** Mas nestes sacrifícios faz-se memória dos pecados, todos os anos,  
 **4** porque é impossível que, com o sangue dos touros e dos bodes, se tirem os pecados.  
@@ -220,11 +220,11 @@
 **19** Portanto, irmãos, tendo nós confiança de entrar no santuário (no céu) pelo sangue de Cristo,  
 **20** pelo caminho novo e vivo que nos abriu através do véu, isto é através da sua carne,  
 **21** e tendo um pontífice que preside à casa de Deus,  
-**22** aproximemo-nos (de Deus) com um coração sincero, com plenitude de fé, purificados os corações de todo o mal de que tivermos consciência, e lavado o corpo com uma água limpa (do batismo).  
+**22** aproximemo-nos (de Deus) com um coração sincero, com plenitude de fé, purificados os corações de todo o mal de que tivermos consciência, e lavado o corpo com uma água limpa (do baptismo).  
 **23** Conservemos firme a profissão da nossa esperança, porque é fiel o que fez a promessa,  
 **24** e sejamos solícitos uns para com os outros, para nos estimularmos à caridade e às boas obras,  
 **25** não abandonando a nossa assembleia, como é costume de alguns, mas animando-nos, e tanto mais quanto mais virdes que se aproxima o dia (final).  
-**26** Se pecamos voluntariamente depois de termos recebido o conhecimento da verdade, não resta mais sacrifício pelos pecados,  
+**26** Se pecamos voluntàriamente depois de termos recebido o conhecimento da verdade, não resta mais sacrifício pelos pecados,  
 **27** mas uma expectativa terrível do juízo e o ardor do fogo que há-de devorar os rebeldes.  
 **28** Se alguém violar a lei de Moisés (tornando-se idólatra), sob a deposição de duas ou três testemunhas morre, sem remissão alguma;  
 **29** imaginai vós quanto maiores tormentos merecerá o que tiver calcado aos pés o Filho de Deus, tiver considerado como profano o sangue da aliança, com que foi santificado, e tiver ultrajado o Espírito da graça!  
@@ -241,7 +241,7 @@
 
 ## Capítulo 11
 
-**1** Ora a fé é o fundamento das coisas que se esperam, e o argumento das que não se veem.  
+**1** Ora a fé é o fundamento das coisas que se esperam, e o argumento das que não se vêem.  
 **2** Foi por a terem possuído que os antigos obtiveram um bom testemunho (de Deus).  
 **3** Pela fé reconhecemos que o mundo foi formado pela palavra de Deus, de sorte que o visível foi feito pelo invisível.  
 **4** (Animado) pela fé, ofereceu Abel a Deus um sacrifício melhor que o de Caim; por ela foi declarado justo, tendo Deus aprovado os seus dons; e por ela fala ainda depois de morto (por meio dos seus exemplos).  
@@ -250,7 +250,7 @@
 **7** Foi pela fé que Noé, avisado por Deus de coisas que ainda se não viam, com piedoso temor foi aparelhando uma arca para salvar a sua família; pela fé condenou o mundo e tornou-se herdeiro da justiça, que se obtêm pela fé.  
 **8** Pela fé, aquele que se chama Abraão obedeceu, partindo para o lugar que havia de receber por herança; e partiu, sem saber para onde ia.  
 **9** Pela fé estabeleceu-se na terra prometida, como em terra alheia, habitando em tendas com Isaac e Jacob, herdeiros com ele da mesma promessa,  
-**10** porque esperava ( o céu, que é) aquela cidade de sólidos fundamentos, cujo arquiteto e construtor é Deus.  
+**10** porque esperava ( o céu, que é) aquela cidade de sólidos fundamentos, cujo arquitecto e construtor é Deus.  
 **11** Pela fé, até a mesma Sara estéril recebeu a virtude de conceber, apesar da sua idade avançada, porque creu que era fiel aquele que lho tinha prometido.  
 **12** Por isso de um só homem, e esse já amortecido(pela velhice), saiu uma posteridade tão numerosa como as estrelas do céu e inumerável como as areias das praias.  
 **13** Na fé morreram todos (estes patriarcas), sem terem ainda recebido as coisas prometidas, mas vendo-as e saudando-as de longe, e confessando serem estrangeiros e peregrinos sobre a terra (Gn. 23, 4).  
@@ -261,13 +261,13 @@
 **18** aquele a quem havia sido dito: É de Isaac que sairá a tua descendência (Gn. 21, 12).  
 **19** Todavia (Abraão) considerava que Deus é poderoso até para ressuscitar os mortos; por isso o recuperou. E isto é para nós um símbolo.  
 **20** Pela fé, Isaac abençoou Jacob e Esaú em vista das coisas futuras.  
-**21** Pela fé, Jacob, estando para morrer, abençoou cada um dos filhos de José e prostrou-se ante a extremidade do cetro dele.  
-**22** Pela fé, José, quando estava para morrer, anunciou a saída dos filhos de Israel (do Egito) e fez disposições sobre os seus ossos.  
+**21** Pela fé, Jacob, estando para morrer, abençoou cada um dos filhos de José e prostrou-se ante a extremidade do ceptro dele.  
+**22** Pela fé, José, quando estava para morrer, anunciou a saída dos filhos de Israel (do Egipto) e fez disposições sobre os seus ossos.  
 **23** Pela fé, Moisés, depois de nascido, foi escondido por seus pais durante três meses, porque viram que era um menino formoso e não temeram o decreto do rei.  
 **24** Pela fé, Moisés, depois de grande, negou ser filho da filha de Faraó,  
 **25** escolhendo antes ser afligido com o povo de Deus, que gozar a delícia transitória do pecado,  
 **26** considerando maior riqueza o opróbrio do Cristo, que os tesouros dos Egípcios, porque olhava para a recompensa.  
-**27** Pela fé deixou o Egito, não temendo a cólera do rei: permaneceu firme, como se visse (a auxiliá-lo) aquele que é invisível.  
+**27** Pela fé deixou o Egipto, não temendo a cólera do rei: permaneceu firme, como se visse (a auxiliá-lo) aquele que é invisível.  
 **28** Pela fé celebrou a Páscoa e fez a aspersão do sangue, a fim de que o (anjo) exterminador (dos primogénitos egípcios) não tocasse os primogénitos dos Israelitas.  
 **29** Pela fé passaram o mar Vermelho, como por terra firme, enquanto que os Egípcios, tentando a mesma passagem, foram engolidos (pelas águas).  
 **30** Pela fé, caíram os muros de Jericó, (só) com dar voltas ao redor deles durante sete dias.  
@@ -294,7 +294,7 @@
 **8** Se, porém, estais isentos do castigo, do qual todos são participantes, então sois bastardos, e não verdadeiros filhos.  
 **9** Além disso, visto que nossos pais, segundo a carne, nos castigavam, e nós os respeitávamos, quanto mais não devemos ser obedientes ao Pai dos espíritos para ter a vida?  
 **10** E aqueles castigavam-nos por um período de poucos dias, como bem lhes parecia, este, porém, (castiga-nos) para nosso bem, para nos tornar participantes da sua santidade.  
-**11** Na verdade toda a correção no presente não parece um motivo de gozo, mas de tristeza; porém, depois dará frutos de paz e de justiça aos que por ela foram exercitados,  
+**11** Na verdade toda a correcção no presente não parece um motivo de gozo, mas de tristeza; porém, depois dará frutos de paz e de justiça aos que por ela foram exercitados,  
 **12** Por isso levantai as vossas mãos remissas e os vossos joelhos vacilantes (Is. 35, 3);  
 **13** dirigi os vossos passos pelo caminho direito, para que o que manqueja (na fé), não se desvie, antes porém seja sanado.  
 **14** Buscai a paz com todos e a santidade, sem a qual ninguém verá o Senhor;  
@@ -324,7 +324,7 @@
 **6** Assim digamos confiadamente: O Senhor é o meu auxilio; não temerei; que me poderá fazer o homem? (Ps. 117, 6).  
 **7** Lembrai-vos dos vossos chefes, que vos anunciaram a palavra de Deus, e, considerando o fim da sua vida, imitai a sua fé.  
 **8** Jesus Cristo é sempre o mesmo, ontem e hoje; ele o será também por todos os séculos.  
-**9** Não vos deixeis levar por doutrinas várias e estranhas. É ótimo fortificar o coração com a graça, não com alimentos, que nada aproveitaram aos que usaram deles.  
+**9** Não vos deixeis levar por doutrinas várias e estranhas. É óptimo fortificar o coração com a graça, não com alimentos, que nada aproveitaram aos que usaram deles.  
 **10** Nós (os cristãos) temos um altar, do qual os (sacerdotes judeus) que servem ao tabernáculo não têm faculdade de comer.  
 **11** Os corpos daqueles animais, cujo sangue é levado pelo pontífice ao santuário, para expiação do pecado, são queimados fora dos arraiais.  
 **12** Pelo que também Jesus, para santificar o povo com o seu sangue, padeceu fora da porta (de Jerusalém).  

@@ -2,7 +2,7 @@
  "titulo": "Bíblia Sagrada",
  "traducao": "Padre Manuel de Matos Soares",
  "edicao": "1956",
- "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "ortografia": "Grafia da edição de 1956 (Acordo Ortográfico de 1945)",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
  "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
@@ -19,7 +19,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Aos irmãos Judeus, que estão no Egito, os Judeus seus irmãos, que estão em Jerusalém e no país da Judeia, saúde e venturosa paz!"
+     "texto": "Aos irmãos Judeus, que estão no Egipto, os Judeus seus irmãos, que estão em Jerusalém e no país da Judeia, saúde e venturosa paz!"
     },
     {
      "n": 2,
@@ -55,11 +55,11 @@
     },
     {
      "n": 10,
-     "texto": "Ano cento e oitenta e oito. O povo, que está em Jerusalém e na Judeia, o senado e Judas, a Aristóbulo, conselheiro do rei Ptolomeu, da linhagem dos sacerdotes ungidos, e aos Judeus que vivem no Egito, saúde e prosperidade."
+     "texto": "Ano cento e oitenta e oito. O povo, que está em Jerusalém e na Judeia, o senado e Judas, a Aristóbulo, conselheiro do rei Ptolomeu, da linhagem dos sacerdotes ungidos, e aos Judeus que vivem no Egipto, saúde e prosperidade."
     },
     {
      "n": 11,
-     "texto": "Livrados por Deus de grandes perigos, rendemos-lhe grandes ações de graças, pela fortaleza que nos deu para pelejarmos contra um rei."
+     "texto": "Livrados por Deus de grandes perigos, rendemos-lhe grandes acções de graças, pela fortaleza que nos deu para pelejarmos contra um rei."
     },
     {
      "n": 12,
@@ -79,7 +79,7 @@
     },
     {
      "n": 16,
-     "texto": "depois que Antíoco entrou; em seguida, abrindo uma porta secreta do teto, atiraram pedras, esmagando o chefe e os que estavam com ele; esquartejaram-nos, e, cortadas as cabeças, deitaram-nas aos que se encontravam fora."
+     "texto": "depois que Antíoco entrou; em seguida, abrindo uma porta secreta do tecto, atiraram pedras, esmagando o chefe e os que estavam com ele; esquartejaram-nos, e, cortadas as cabeças, deitaram-nas aos que se encontravam fora."
     },
     {
      "n": 17,
@@ -123,7 +123,7 @@
     },
     {
      "n": 27,
-     "texto": "Congrega todos os nossos irmãos dispersos, livra os que estão debaixo da escravidão dos gentios e olha favoravelmente para os que estão feitos um objeto de desprezo e abominação, a fim de que as nações conheçam que és o nosso Deus."
+     "texto": "Congrega todos os nossos irmãos dispersos, livra os que estão debaixo da escravidão dos gentios e olha favoràvelmente para os que estão feitos um objecto de desprezo e abominação, a fim de que as nações conheçam que és o nosso Deus."
     },
     {
      "n": 28,
@@ -268,7 +268,7 @@
     },
     {
      "n": 26,
-     "texto": "procurámos (ao escrever esta) dar agrado aos que a queiram ler, fazer com que os estudiosos possam mais facilmente retê-la na memória e tomá-la geralmente útil a todos os que a lerem."
+     "texto": "procurámos (ao escrever esta) dar agrado aos que a queiram ler, fazer com que os estudiosos possam mais fàcilmente retê-la na memória e tomá-la geralmente útil a todos os que a lerem."
     },
     {
      "n": 27,
@@ -284,7 +284,7 @@
     },
     {
      "n": 30,
-     "texto": "Assim como um arquiteto, que empreende edificar uma casa nova, deve pôr o cuidado em regular toda a sua fábrica, e o encarregado de a pintar e decorar há-de inquirir o que é acomodado para o seu ornato, da mesma sorte se deve julgar também de nós."
+     "texto": "Assim como um arquitecto, que empreende edificar uma casa nova, deve pôr o cuidado em regular toda a sua fábrica, e o encarregado de a pintar e decorar há-de inquirir o que é acomodado para o seu ornato, da mesma sorte se deve julgar também de nós."
     },
     {
      "n": 31,
@@ -305,7 +305,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Enquanto gozava a cidade santa duma paz perfeita e se observavam exatamente as leis, por causa da piedade do sumo pontífice Onias e do seu ódio a todo o mal,"
+     "texto": "Enquanto gozava a cidade santa duma paz perfeita e se observavam exactamente as leis, por causa da piedade do sumo pontífice Onias e do seu ódio a todo o mal,"
     },
     {
      "n": 2,
@@ -474,7 +474,7 @@
     },
     {
      "n": 2,
-     "texto": "ousava fazer passar por um traidor do reino o protetor da cidade, o defensor dos seus concidadãos, o zeloso observador das leis."
+     "texto": "ousava fazer passar por um traidor do reino o protector da cidade, o defensor dos seus concidadãos, o zeloso observador das leis."
     },
     {
      "n": 3,
@@ -550,7 +550,7 @@
     },
     {
      "n": 21,
-     "texto": "Tendo sido enviado ao Egito Apolónio, filho de Menesteu, por ocasião da entronização do rei Ptolomeu Filometor, Antíoco soube que este rei se lhe tornara hostil; então, pensando em pôr-se em segurança, foi primeiro a Jope, e depois a Jerusalém."
+     "texto": "Tendo sido enviado ao Egipto Apolónio, filho de Menesteu, por ocasião da entronização do rei Ptolomeu Filometor, Antíoco soube que este rei se lhe tornara hostil; então, pensando em pôr-se em segurança, foi primeiro a Jope, e depois a Jerusalém."
     },
     {
      "n": 22,
@@ -606,7 +606,7 @@
     },
     {
      "n": 35,
-     "texto": "Não somente os Judeus, mas também muitos pagãos ficaram indignados e irritados pela injusta morte deste varão."
+     "texto": "Não sòmente os Judeus, mas também muitos pagãos ficaram indignados e irritados pela injusta morte deste varão."
     },
     {
      "n": 36,
@@ -622,7 +622,7 @@
     },
     {
      "n": 39,
-     "texto": "Tendo cometido Lisímaco muitos roubos sacrílegos no templo por conselho de Menelau, e divulgada esta fama, ajuntou-se contra Lisímaco uma grande multidão de povo, quando já tinham desaparecido muitos objetos de ouro."
+     "texto": "Tendo cometido Lisímaco muitos roubos sacrílegos no templo por conselho de Menelau, e divulgada esta fama, ajuntou-se contra Lisímaco uma grande multidão de povo, quando já tinham desaparecido muitos objectos de ouro."
     },
     {
      "n": 40,
@@ -658,7 +658,7 @@
     },
     {
      "n": 48,
-     "texto": "Assim os que haviam sustentado os interesses da cidade, do povo e dos objetos sagrados foram punidos imediatamente com esta pena injusta."
+     "texto": "Assim os que haviam sustentado os interesses da cidade, do povo e dos objectos sagrados foram punidos imediatamente com esta pena injusta."
     },
     {
      "n": 49,
@@ -675,7 +675,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Por este mesmo tempo preparou Antioco a segunda expedição contra o Egito."
+     "texto": "Por este mesmo tempo preparou Antioco a segunda expedição contra o Egipto."
     },
     {
      "n": 2,
@@ -703,7 +703,7 @@
     },
     {
      "n": 8,
-     "texto": "Por fim, apertado por Aretas, rei dos Árabes, fugindo de cidade em cidade, aborrecido de todos, detestado como violador das leis, execrando como carrasco da pátria e dos concidadãos, foi empurrado para o Egito."
+     "texto": "Por fim, apertado por Aretas, rei dos Árabes, fugindo de cidade em cidade, aborrecido de todos, detestado como violador das leis, execrando como carrasco da pátria e dos concidadãos, foi empurrado para o Egipto."
     },
     {
      "n": 9,
@@ -715,7 +715,7 @@
     },
     {
      "n": 11,
-     "texto": "Ao conhecer tais acontecimentos, o rei pensou que os Judeus abandonariam a aliança feita com ele, e, por isso, tendo voltado do Egito com o ânimo enfurecido, tomou a cidade pelas armas."
+     "texto": "Ao conhecer tais acontecimentos, o rei pensou que os Judeus abandonariam a aliança feita com ele, e, por isso, tendo voltado do Egipto com o ânimo enfurecido, tomou a cidade pelas armas."
     },
     {
      "n": 12,
@@ -775,7 +775,7 @@
     },
     {
      "n": 26,
-     "texto": "Então mandou matar todos os que saíram a ver este espetáculo, e, correndo a cidade com os seus soldados, tirou a vida a grande número de pessoas."
+     "texto": "Então mandou matar todos os que saíram a ver este espectáculo, e, correndo a cidade com os seus soldados, tirou a vida a grande número de pessoas."
     },
     {
      "n": 27,
@@ -792,7 +792,7 @@
     },
     {
      "n": 2,
-     "texto": "para profanar o templo de Jerusalém e dedicá-lo a Júpiter Olímpico, e consagrar o templo de Garizim a Júpiter Hospitaleiro, conforme o caráter dos habitantes daquele lugar."
+     "texto": "para profanar o templo de Jerusalém e dedicá-lo a Júpiter Olímpico, e consagrar o templo de Garizim a Júpiter Hospitaleiro, conforme o carácter dos habitantes daquele lugar."
     },
     {
      "n": 3,
@@ -860,7 +860,7 @@
     },
     {
      "n": 19,
-     "texto": "Mas ele, preferindo uma morte gloriosa a uma vida infame, voluntariamente caminhava para o suplício, depois de ter lançado fora da boca (a carne),"
+     "texto": "Mas ele, preferindo uma morte gloriosa a uma vida infame, voluntàriamente caminhava para o suplício, depois de ter lançado fora da boca (a carne),"
     },
     {
      "n": 20,
@@ -908,7 +908,7 @@
     },
     {
      "n": 31,
-     "texto": "Assim acabou a vida, deixando, com a sua morte, não somente aos jovens mas também a toda a sua nação, um exemplo de valor e memória de virtude."
+     "texto": "Assim acabou a vida, deixando, com a sua morte, não sòmente aos jovens mas também a toda a sua nação, um exemplo de valor e memória de virtude."
     }
    ]
   },
@@ -1009,7 +1009,7 @@
     },
     {
      "n": 24,
-     "texto": "Ora Antíoco, considerando-se desprezado e julgando que aquelas palavras (dos mártires) eram um insulto para ele, como faltasse ainda o mais novo, não somente o exortava, mas ainda lhe assegurava com juramento que o faria rico e ditoso, que o teria na classe dos seus amigos e lhe confiaria altos cargos se abandonasse as leis dos seus pais."
+     "texto": "Ora Antíoco, considerando-se desprezado e julgando que aquelas palavras (dos mártires) eram um insulto para ele, como faltasse ainda o mais novo, não sòmente o exortava, mas ainda lhe assegurava com juramento que o faria rico e ditoso, que o teria na classe dos seus amigos e lhe confiaria altos cargos se abandonasse as leis dos seus pais."
     },
     {
      "n": 25,
@@ -1158,7 +1158,7 @@
     },
     {
      "n": 18,
-     "texto": "Eles, dizia-lhes, somente confiam nas suas armas e na sua audácia; porém nós confiamos em Deus Todo-Poderoso, capaz de destruir com um gesto não só os que vêm para nos atacar mas ainda o mundo inteiro."
+     "texto": "Eles, dizia-lhes, sòmente confiam nas suas armas e na sua audácia; porém nós confiamos em Deus Todo-Poderoso, capaz de destruir com um gesto não só os que vêm para nos atacar mas ainda o mundo inteiro."
     },
     {
      "n": 19,
@@ -1166,7 +1166,7 @@
     },
     {
      "n": 20,
-     "texto": "(recordou) a batalha travada contra os Gálatas, em Babilónia, com tal felicidade que, não tendo ousado entrar em ação os Macedónios, seus aliados, eles, que ao todo eram só seis mil, mataram cento e vinte mil homens, por causa do socorro recebido do céu, alcançando por isso enormes vantagens."
+     "texto": "(recordou) a batalha travada contra os Gálatas, em Babilónia, com tal felicidade que, não tendo ousado entrar em acção os Macedónios, seus aliados, eles, que ao todo eram só seis mil, mataram cento e vinte mil homens, por causa do socorro recebido do céu, alcançando por isso enormes vantagens."
     },
     {
      "n": 21,
@@ -1218,7 +1218,7 @@
     },
     {
      "n": 33,
-     "texto": "Quando estavam em Jerusalém rendendo a Deus ações de graças por esta vitória, Calistenes e outros mais, que tinham queimado as sagradas portas, refugiaram-se numa pequena casa; (os Judeus) nela os queimaram, dando-lhes a recompensa que mereciam as suas impiedades."
+     "texto": "Quando estavam em Jerusalém rendendo a Deus acções de graças por esta vitória, Calistenes e outros mais, que tinham queimado as sagradas portas, refugiaram-se numa pequena casa; (os Judeus) nela os queimaram, dando-lhes a recompensa que mereciam as suas impiedades."
     },
     {
      "n": 34,
@@ -1226,11 +1226,11 @@
     },
     {
      "n": 35,
-     "texto": "humilhado com o socorro do Senhor por aqueles mesmos que tinha considerado como uma gente de nada, largada a vestidura de honra, correndo sozinho, como escravo fugitivo, pelo meio dos campos, chegou desacompanhado a Antioquia, numa aflição, pela perda do seu exército."
+     "texto": "humilhado com o socorro do Senhor por aqueles mesmos que tinha considerado como uma gente de nada, largada a vestidura de honra, correndo sòzinho, como escravo fugitivo, pelo meio dos campos, chegou desacompanhado a Antioquia, numa aflição, pela perda do seu exército."
     },
     {
      "n": 36,
-     "texto": "Ele, que prometera aos Romanos que lhes pagaria o tributo com o que tirasse da venda dos cativos de Jerusalém, publicava então que os Judeus tinham um protetor (Deus), e que por isso eram invulneráveis, porque seguiam as leis que lhes tinha dado."
+     "texto": "Ele, que prometera aos Romanos que lhes pagaria o tributo com o que tirasse da venda dos cativos de Jerusalém, publicava então que os Judeus tinham um protector (Deus), e que por isso eram invulneráveis, porque seguiam as leis que lhes tinha dado."
     }
    ]
   },
@@ -1335,7 +1335,7 @@
     },
     {
      "n": 25,
-     "texto": "Refletindo, além disto, em que os monarcas confiantes e vizinhos poderosos do meu reino estão espreitando as conjunturas e aguardando as ocasiões (propicias às suas ambições), designo como rei a meu filho Antíoco, o qual eu, muitas vezes, ao passar às províncias superiores do meu reino, confiava e recomendava a muitos de vós. Escrevi-lhe a carta que abaixo se transcreve."
+     "texto": "Reflectindo, além disto, em que os monarcas confiantes e vizinhos poderosos do meu reino estão espreitando as conjunturas e aguardando as ocasiões (propicias às suas ambições), designo como rei a meu filho Antíoco, o qual eu, muitas vezes, ao passar às províncias superiores do meu reino, confiava e recomendava a muitos de vós. Escrevi-lhe a carta que abaixo se transcreve."
     },
     {
      "n": 26,
@@ -1351,7 +1351,7 @@
     },
     {
      "n": 29,
-     "texto": "Fez trasladar o seu corpo Filipe, seu amigo de infância, o qual, todavia, temendo o filho Antíoco, partiu para o Egito, para junto de Ptolomeu Filometor."
+     "texto": "Fez trasladar o seu corpo Filipe, seu amigo de infância, o qual, todavia, temendo o filho Antíoco, partiu para o Egipto, para junto de Ptolomeu Filometor."
     }
    ]
   },
@@ -1360,7 +1360,7 @@
    "versiculos": [
     {
      "n": 1,
-     "texto": "Entretanto Macabeu e os seus companheiros, graças à proteção do Senhor, recobraram o templo e a cidade,"
+     "texto": "Entretanto Macabeu e os seus companheiros, graças à protecção do Senhor, recobraram o templo e a cidade,"
     },
     {
      "n": 2,
@@ -1718,7 +1718,7 @@
     },
     {
      "n": 12,
-     "texto": "Judas, crendo que eles efetivamente lhe podiam ser úteis em muitas coisas, prometeu-lhes a paz. Concluído o tratado, os Árabes voltaram para as suas tendas."
+     "texto": "Judas, crendo que eles efectivamente lhe podiam ser úteis em muitas coisas, prometeu-lhes a paz. Concluído o tratado, os Árabes voltaram para as suas tendas."
     },
     {
      "n": 13,
@@ -1814,7 +1814,7 @@
     },
     {
      "n": 36,
-     "texto": "Entretanto, achando-se fatigados os que estavam com Esdrin, por terem pelejado muito tempo. Judas Invocou o Senhor, para que se fizesse ele mesmo o protetor e o chefe neste combate."
+     "texto": "Entretanto, achando-se fatigados os que estavam com Esdrin, por terem pelejado muito tempo. Judas Invocou o Senhor, para que se fizesse ele mesmo o protector e o chefe neste combate."
     },
     {
      "n": 37,
@@ -1830,7 +1830,7 @@
     },
     {
      "n": 40,
-     "texto": "Ora encontraram, debaixo das túnicas dos mortos, objetos consagrados aos ídolos de Jâmaia, que a lei proíbe aos Judeus. Todos reconheceram que fora esta a causa da sua morte."
+     "texto": "Ora encontraram, debaixo das túnicas dos mortos, objectos consagrados aos ídolos de Jâmaia, que a lei proíbe aos Judeus. Todos reconheceram que fora esta a causa da sua morte."
     },
     {
      "n": 41,
@@ -1842,7 +1842,7 @@
     },
     {
      "n": 43,
-     "texto": "Tendo feito uma coleta, mandou dois mil dracmas de prata a Jerusalém, para se oferecer um sacrifício pelo pecado. Obra bela e santa, inspirada pela crença na ressurreição,"
+     "texto": "Tendo feito uma colecta, mandou dois mil dracmas de prata a Jerusalém, para se oferecer um sacrifício pelo pecado. Obra bela e santa, inspirada pela crença na ressurreição,"
     },
     {
      "n": 44,
@@ -1927,7 +1927,7 @@
     },
     {
      "n": 17,
-     "texto": "Tudo estava terminado ao romper do dia, graças ao Senhor que dispensou a sua proteção."
+     "texto": "Tudo estava terminado ao romper do dia, graças ao Senhor que dispensou a sua protecção."
     },
     {
      "n": 18,
@@ -1980,7 +1980,7 @@
     },
     {
      "n": 3,
-     "texto": "Ora um certo Alcimo, que tinha sido sumo sacerdote e que voluntariamente se havia manchado no tempo da introdução dos costumes pagãos, considerando que nenhuma salvação havia para ele, nem acesso ao altar,"
+     "texto": "Ora um certo Alcimo, que tinha sido sumo sacerdote e que voluntàriamente se havia manchado no tempo da introdução dos costumes pagãos, considerando que nenhuma salvação havia para ele, nem acesso ao altar,"
     },
     {
      "n": 4,
@@ -1988,7 +1988,7 @@
     },
     {
      "n": 5,
-     "texto": "Mas achou ocasião oportuna de executar o seu louco intento, quando chamado por Demétrio ao conselho, foi interrogado sobre quais as disposições e projetos dos Judeus."
+     "texto": "Mas achou ocasião oportuna de executar o seu louco intento, quando chamado por Demétrio ao conselho, foi interrogado sobre quais as disposições e projectos dos Judeus."
     },
     {
      "n": 6,
@@ -2088,7 +2088,7 @@
     },
     {
      "n": 30,
-     "texto": "Entretanto Macabeu, vendo que Nicanor o tratava mais desabridamente que de ordinário e que lhe mostrava, quando se encontravam, um aspeto mais duro do que costumava, refletindo que esta austeridade não podia proceder de boa causa, convocados alguns poucos dos seus, fugiu à Nicanor."
+     "texto": "Entretanto Macabeu, vendo que Nicanor o tratava mais desabridamente que de ordinário e que lhe mostrava, quando se encontravam, um aspecto mais duro do que costumava, reflectindo que esta austeridade não podia proceder de boa causa, convocados alguns poucos dos seus, fugiu à Nicanor."
     },
     {
      "n": 31,
@@ -2104,7 +2104,7 @@
     },
     {
      "n": 34,
-     "texto": "Ditas estas coisas, foi-se embora. Os sacerdotes então, levantando as mãos ao céu, invocavam aquele (Senhor) que sempre se tinha declarado protetor do nosso povo, dizendo assim:"
+     "texto": "Ditas estas coisas, foi-se embora. Os sacerdotes então, levantando as mãos ao céu, invocavam aquele (Senhor) que sempre se tinha declarado protector do nosso povo, dizendo assim:"
     },
     {
      "n": 35,
@@ -2116,7 +2116,7 @@
     },
     {
      "n": 37,
-     "texto": "Sucedeu também que foi acusado diante de Nicanor um dos anciães de Jerusalém, chamado Bazis, homem que amava os seus concidadãos, que era muito considerado e chamado o pai dos Judeus, pelo afeto que lhes tinha."
+     "texto": "Sucedeu também que foi acusado diante de Nicanor um dos anciães de Jerusalém, chamado Bazis, homem que amava os seus concidadãos, que era muito considerado e chamado o pai dos Judeus, pelo afecto que lhes tinha."
     },
     {
      "n": 38,
@@ -2209,7 +2209,7 @@
     },
     {
      "n": 13,
-     "texto": "depois disto, apareceu-lhe outro varão respeitável pelos seus cabelos todos brancos e pela sua glória, de aspeto majestoso."
+     "texto": "depois disto, apareceu-lhe outro varão respeitável pelos seus cabelos todos brancos e pela sua glória, de aspecto majestoso."
     },
     {
      "n": 14,
@@ -2241,7 +2241,7 @@
     },
     {
      "n": 21,
-     "texto": "considerando Macabeu aquela multidão de gente que vinha sobre eles, aquele aparato de armas tão diversas, o aspeto temível dos elefantes bem colocados, estendeu as mãos para o céu e invocou o Senhor, que faz prodígios, pois sabia que a vitória não depende das armas, mas de Deus que a decide e concede aos que são dignos dela."
+     "texto": "considerando Macabeu aquela multidão de gente que vinha sobre eles, aquele aparato de armas tão diversas, o aspecto temível dos elefantes bem colocados, estendeu as mãos para o céu e invocou o Senhor, que faz prodígios, pois sabia que a vitória não depende das armas, mas de Deus que a decide e concede aos que são dignos dela."
     },
     {
      "n": 22,
@@ -2317,7 +2317,7 @@
     },
     {
      "n": 40,
-     "texto": "Porque, assim como beber somente vinho ou somente água é coisa prejudicial, ao passo que é agradável e proveitoso fazer uso destas bebidas misturadas, do mesmo modo se deve dispor a narração, para encantar os ouvidos do leitor. E com isto termino."
+     "texto": "Porque, assim como beber sòmente vinho ou sòmente água é coisa prejudicial, ao passo que é agradável e proveitoso fazer uso destas bebidas misturadas, do mesmo modo se deve dispor a narração, para encantar os ouvidos do leitor. E com isto termino."
     }
    ]
   }
