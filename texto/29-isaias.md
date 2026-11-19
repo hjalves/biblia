@@ -298,20 +298,20 @@
 **6** Soltai gritos, porque o dia do Senhor está perto: virá do Omnipotente como uma assolação.  
 **7** Por esta causa, todas as mãos perderão o seu vigor, e todo o coração do homem desanimará.  
 **8** Ficarão quebrantados, apoderar-se-ão deles convulsões e dores; torcer-se-ão como a mulher que está de parto; cada um ficará atónito, olhando para o seu vizinho; os seus rostos tornar-se-ão inflamados.  
-**9** A cidade será tomada; horrível massacre.  
-**10** Eis que vem o dia do Senhor, dia cruel, cheio de indignação, de ira e de furor, para transformar a terra numa solidão e para exterminar dela os pecadores.  
-**11** As estrelas do céu, as suas constelações não espalharão a sua luz; cobrir-se-á de trevas o sol no seu nascimento, e a lua não resplandecerá com a sua claridade.  
-**12** Castigarei a terra por suas maldades, e os ímpios por sua iniquidade; porei fim à insolência dos soberbos, humilharei a arrogância dos opressores.  
-**13** Farei que os homens sejam mais raros que o ouro fino, mais raros que o ouro de Ofir.  
-**14** Farei estremecer os céus, e mover-se-á a terra do seu lugar, por causa da indignação do Senhor dos exércitos, no dia em que se acender o seu furor.  
-**15** Então como a gazela que foge, como o rebanho que ninguém congrega, cada um (deixará Babilónia e) voltará para o seu povo, fugirá para a sua terra.  
-**16** Todo o que for encontrado (na cidade) será morto, todo o que for preso cairá passado à espada.  
-**17** Seus filhinhos serão massacrados, diante dos seus olhos, suas casas serão saqueadas, suas mulheres violadas.  
+**9** Eis que vem o dia do Senhor, dia cruel, cheio de indignação, de ira e de furor, para transformar a terra numa solidão e para exterminar dela os pecadores.  
+**10** As estrelas do céu, as suas constelações não espalharão a sua luz; cobrir-se-á de trevas o sol no seu nascimento, e a lua não resplandecerá com a sua claridade.  
+**11** Castigarei a terra por suas maldades, e os ímpios por sua iniquidade; porei fim à insolência dos soberbos, humilharei a arrogância dos opressores.  
+**12** Farei que os homens sejam mais raros que o ouro fino, mais raros que o ouro de Ofir.  
+**13** Farei estremecer os céus, e mover-se-á a terra do seu lugar, por causa da indignação do Senhor dos exércitos, no dia em que se acender o seu furor.  
+**14** Então como a gazela que foge, como o rebanho que ninguém congrega, cada um (deixará Babilónia e) voltará para o seu povo, fugirá para a sua terra.  
+**15** Todo o que for encontrado (na cidade) será morto, todo o que for preso cairá passado à espada.  
+**16** Seus filhinhos serão massacrados, diante dos seus olhos, suas casas serão saqueadas, suas mulheres violadas.  
+**17** Vou suscitar contra eles os Medos, que não buscarão prata nem cobiçarão ouro.  
 **18** Os seus arcos abaterão os jovens; não se compadecerão do fruto do ventre, nem pouparão as criancinhas.  
 **19** Então Babilónia, gloriosa entre os reinos, orgulho dos Caldeus, ficará destruída, como o Senhor destruiu Sodoma e Gomorra.  
 **20** Nunca mais será habitada, nunca mais povoada, no decorrer das idades, nem ali porá as suas tendas o Árabe, nem repousarão nela, com seus gados, os pastores.  
 **21** As feras farão ali o seu covil; encher-se-ão as suas casas de mochos; habitarão ali avestruzes, e sátiros ali dançarão;  
-**22** entre (as minas dos) seus palácios uivarão chacais, e lobos nas suas casas de prazer.  
+**22** entre (as ruínas dos) seus palácios uivarão chacais, e lobos nas suas casas de prazer.  
 
 ## Capítulo 14
 

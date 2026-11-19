@@ -149,8 +149,8 @@
 **1** Lembra-te, Senhor, do que nos aconteceu; olha e vê o nosso opróbrio.  
 **2** A nossa herança passou a estrangeiros, as nossas casas a estranhos.  
 **3** Somos órfãos sem pai; nossas mães são como viúvas.  
-**4** A nossa água, por dinheiro a temos bebido; a nossa lenha, temo-la comprado. Com jugo ao pescoço, somos perseguidos; estamos esgotados, não temos descanso.  
-**5** .  
+**4** A nossa água, por dinheiro a temos bebido; a nossa lenha, temo-la comprado.  
+**5** Com jugo ao pescoço, somos perseguidos; estamos esgotados, não temos descanso.  
 **6** Estendemos a mão ao Egipto e aos Assírios para nos saciarmos de pão.  
 **7** Nossos pais pecaram; já não existem, e nós é que suportamos o castigo das suas iniquidades.  
 **8** Escravos dominaram-nos; ninguém nos livra da sua mão.  

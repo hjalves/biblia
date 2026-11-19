@@ -1230,7 +1230,7 @@
 **16** Mediu o lado do oriente com a cana de medir: quinhentos côvados (medidos) com a cana de medir, ao redor.  
 **17** Mediu o lado do setentrião; quinhentos côvados, com a cana de medir, ao redor.  
 **18** Mediu o lado do meio-dia: quinhentos côvados, com a cana de medir, ao redor.  
-**19** Mediu o lado do ocidente; quinhentos côvados, com a cana de medir (ao redor).  
+**19** Mediu o lado do ocidente: quinhentos côvados, com a cana de medir (ao redor).  
 **20** Mediu assim a parede de cintura, pelos quatro lados, andando á roda, achando o comprimento de quinhentos côvados e a largura de quinhentos côvados; (essa parede) separava o (lugar) sagrado do profano.  
 
 ## Capítulo 43
