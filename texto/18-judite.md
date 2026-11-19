@@ -82,7 +82,7 @@
 **4** e por que motivo, dentre todos os que habitam no Oriente, estes nos desprezaram e não vieram ao nosso encontro, para nos receberem em paz?  
 **5** Então Aquior, chefe de todos os filhos de Amon, respondeu; Meu senhor, se te dignas ouvir-me, eu te direi a verdade na tua presença, relativamente a este povo, que habita nos montes; da minha boca não sairá palavra falsa.  
 **6** Este povo é da raça dos Caldeus;  
-**7** habitou primeiramente na Mesopotâmia. porque não quiseram seguir os deuses de seus pais, que moravam na terra dos Caldeus.  
+**7** habitou primeiramente na Mesopotâmia, porque não quiseram seguir os deuses de seus pais, que moravam na terra dos Caldeus.  
 **8** Abandonados os ritos de seus pais, que prestavam culto a muitos deuses,  
 **9** adoraram um só Deus do céu, o qual lhe mandou que saíssem dali e que fossem habitar em Canan (ou Canaan). Quando sobreveio em todo o país uma grande fome, desceram ao Egipto, e ali, durante quatrocentos anos, multiplicaram-se de tal sorte que o seu exército era inumerável.  
 **10** Como o rei do Egipto os tratasse duramente, sujeitando-os a trabalhar em barro e ladrilhos para edificar as suas cidades, clamaram ao seu Senhor, e este feriu toda a terra do Egipto com várias pragas.  

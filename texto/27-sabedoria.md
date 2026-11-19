@@ -326,7 +326,7 @@
 **10** São desgraçados e fundam em coisa morta as suas esperanças, aqueles que chamaram deuses às obras das mãos dos homens, ao ouro e à prata, trabalhados com arte, às figuras de animais, ou a uma pedra inútil, obra de mão antiga.  
 **11** Um artista hábil corta do bosque um tronco fácil de trabalhar, dextramente lhe tira toda a casca, e, valendo-se da sua arte, faz uma peça útil para uso da vida.  
 **12** O que sobrou da obra, emprega-o para cozinhar a comida, com que fica saciado.  
-**13** Quanto ao resto de tudo isto, que para nenhum uso é útil. por ser um madeiro torto e cheio de nós, vai-o esculpindo nas horas livres, trabalhando-o com a arte que lhe é possível.  
+**13** Quanto ao resto de tudo isto, que para nenhum uso é útil, por ser um madeiro torto e cheio de nós, vai-o esculpindo nas horas livres, trabalhando-o com a arte que lhe é possível.  
 **14** e dá-lhe feições dum homem, ou aspecto de algum vil animal. Põe-lhe vermelhão, pinta-o de uma cor encarnada, encobrindo todas as manchas que nele há.  
 **15** Depois prepara-lhe um nicho conveniente, coloca-o numa parede, segurando-o com um prego.  
 **16** Usa com ele desta precaução, para que não caia, pois reconhece que (o deus) se não pode ajudar a si mesmo: Com efeito, é uma estátua, que precisa de apoio.  

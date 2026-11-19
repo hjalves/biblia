@@ -372,10 +372,9 @@
 **9** Os olhos do Senhor contemplam toda a terra e inspiram força aos que confiam nele com um coração perfeito. Tu procedeste loucamente; por isso desde agora se levantarão guerras contra ti.  
 **10** Asa, irado contra o vidente, mandou-o encarcerar, porque se tinha irritado muito por isto (que o profeta lhe tinha dito); nesta ocasião Asa oprimiu também alguns do povo (que eram partidários do profeta).  
 **11** Quanto às acções de Asa, desde as primeiras até às últimas, estão escritas no livro dos reis de Judá e de Israel.  
-**12** Mas confiou antes... Asa não é censurado por ter recorrido aos médicos, mas por ter confiado mais neles do que em Deus.  
-**13** No ano trinta e nove do seu reinado. Asa adoeceu duma veementíssima dor nos pés; todavia, mesmo na sua enfermidade, não recorreu ao Senhor, mas confiou antes nos médicos.  
-**14** Adormeceu com seus pais; morreu no ano quarenta e um do seu reinado.  
-**15** Sepultaram-no no sepulcro, que ele tinha mandado fazer para si na cidade de Davide, puseram-no sobre o seu leito cheio de aromas e de unguentos delicadíssimos, que tinham sido compostos segundo a arte dos perfumadores, e queimaram uma grande quantidade deles.  
+**12** No ano trinta e nove do seu reinado, Asa adoeceu duma veementíssima dor nos pés; todavia, mesmo na sua enfermidade, não recorreu ao Senhor, mas confiou antes nos médicos.  
+**13** Adormeceu com seus pais; morreu no ano quarenta e um do seu reinado.  
+**14** Sepultaram-no no sepulcro, que ele tinha mandado fazer para si na cidade de Davide, puseram-no sobre o seu leito cheio de aromas e de unguentos delicadíssimos, que tinham sido compostos segundo a arte dos perfumadores, e queimaram uma grande quantidade deles.  
 
 ## Capítulo 17
 
@@ -608,7 +607,7 @@
 **22** Judá foi batido diante de Israel e fugiu para as suas tendas.  
 **23** Joás, rei de Israel, aprisionou Amasias, rei de Judá, filho de Joás, filho de Joacaz, em Betsames, e levou-o a Jerusalém, onde derribou o muro da cidade, desde a porta de Efraim até à porta do ângulo, por espaço de quatrocentos côvados.  
 **24** Levou para Samaria todo o ouro e prata e todos os vasos que encontrou na casa de Deus, na de Obededom e nos tesouros da casa real; (levou) também os filhos dos príncipes, no seu regresso a Samaria.  
-**25** Amasias, filho do rei Joás, rei de Judá. viveu quinze anos, depois da morte de Joás, filho de Joacaz, rei de Israel.  
+**25** Amasias, filho do rei Joás, rei de Judá, viveu quinze anos, depois da morte de Joás, filho de Joacaz, rei de Israel.  
 **26** O resto das acções de Amasias, tanto as primeiras como as últimas, estão escritas no livro dos reis de Judá e de Israel.  
 **27** Depois que este príncipe abandonou o Senhor, armaram uma conjuração contra ele em Jerusalém. Fugiu para Laquis, mas (os conspiradores) mandaram homens, e estes o mataram lá.  
 **28** Trazendo-o sobre cavalos, enterraram-no com os seus maiores na cidade de David.  

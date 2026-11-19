@@ -112,7 +112,7 @@
 **5** seja o tal entregue a Satanás, para a destruição do seu corpo, a fim de que o espírito seja salvo no dia do Senhor.  
 **6** Gloriais-vos sem razão. Não sabeis que um pouco de fermento faz levedar toda a massa?  
 **7** Purificai-vos do velho fermento, para que sejais uma nova massa, assim como sois ázimos. Porquanto Cristo, nosso cordeiro pascal, foi imolado.  
-**8** Celebremos, pois, a festa, não com fermento velho, nem com fermento da malícia e da perversidade. mas com os ázimos da pureza e da verdade.  
+**8** Celebremos, pois, a festa, não com fermento velho, nem com fermento da malícia e da perversidade, mas com os ázimos da pureza e da verdade.  
 **9** Por carta vos escrevi que não tivésseis comunicação com os impudicos,  
 **10** não, de um modo geral, com os deste mundo, ou com os avarentos, ou com ladrões, ou com os idólatras; doutra sorte deveríeis sair deste mundo.  
 **11** Mas escrevi-vos (simplesmente) que não tivésseis comunicação com aquele que, chamando-se irmão, fosse impudico, ou avarento, ou adorador dos ídolos, ou maldizente, ou dado à embriaguez, ou ladrão; com este tal nem comer deveis.  

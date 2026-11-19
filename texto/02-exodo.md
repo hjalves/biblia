@@ -462,7 +462,7 @@
 
 ## Capítulo 16
 
-**1** Partiram de Elim, e toda a multidão dos filhos de Israel foi para o deserto de Sin, o qual está entre Elim e o Sinai, no décimo quinto dia do segundo mês. depois que tinham saído da terra do Egipto.  
+**1** Partiram de Elim, e toda a multidão dos filhos de Israel foi para o deserto de Sin, o qual está entre Elim e o Sinai, no décimo quinto dia do segundo mês, depois que tinham saído da terra do Egipto.  
 **2** Toda a multidão dos filhos de Israel murmurou contra Moisés e Aarão no deserto.  
 **3** Os filhos de Israel disseram-lhes: Antes fôssemos mortos na terra do Egipto pela mão do Senhor, quando estávamos sentados junto às panelas das carnes, e comíamos pão com fartura. Por que nos trouxestes a este deserto, para matar à fome toda esta multidão?  
 **4** O Senhor disse a Moisés: Vou fazer chover, para vós pães do céu: saia o povo e colha o que baste para cada dia, a fim de que eu o ponha à prova (para ver) se anda ou não na minha lei.  
@@ -815,7 +815,7 @@
 **33** O véu será suspenso por meio de argolas, e dentro dele porás a arca do testemunho, e por meio dele serão divididos o Santo e o Santo dos Santos.  
 **34** Porás também o propiciatório sobre a arca do testemunho no Santo dos Santos.  
 **35** (Porás) a mesa fora do véu; defronte da mesa, o candeeiro, na parte meridional do tabernáculo; a mesa estará do lado do aquilão.  
-**36** Farás também, para a entrada do tabernáculo, um véu de linho retorcido. cor de jacinto, e de púrpura, e de escarlate tinto duas vezes, trabalhando com desenhos vários.  
+**36** Farás também, para a entrada do tabernáculo, um véu de linho retorcido, cor de jacinto, e de púrpura, e de escarlate tinto duas vezes, trabalhando com desenhos vários.  
 **37** Este véu estará suspenso de cinco colunas de pau de acácia, revestidas de ouro, cujos capiteis Serão de ouro, e as bases de bronze.  
 
 ## Capítulo 27
@@ -1068,7 +1068,7 @@
 **1** Em seguida (o Senhor) disse: Corta duas tábuas de pedra como as primeiras, e eu escreverei sobre elas as palavras que continham as tábuas que tu quebraste.  
 **2** Está pronto pela manhã, cedo, para subires logo ao monte Sinai, e estarás comigo no cume do monte. Ninguém suba contigo, nem apareça alguém por todo o monte;  
 **3** nem mesmo os bois ou as ovelhas se apascentem defronte.  
-**4** (Moisés) pois cortou duas tábuas de pedra. como eram as primeiras, e, levantando-se de noite, subiu ao monte Sinai, conforme o Senhor lhe tinha ordenado, levando consigo as tábuas.  
+**4** (Moisés) pois cortou duas tábuas de pedra, como eram as primeiras, e, levantando-se de noite, subiu ao monte Sinai, conforme o Senhor lhe tinha ordenado, levando consigo as tábuas.  
 **5** Tendo descido o Senhor no meio da nuvem, esteve com ele, e pronunciou o nome de Iavé.  
 **6** Passando o Senhor diante dele, exclamou; Iavé, Iavé, Deus misericordioso e clemente, paciente e de muita misericórdia, e verdadeiro,  
 **7** que conserva a misericórdia em milhares de gerações, que perdoa a iniquidade, a revolta e os pecados, mas que os não deixa sem castigo, punindo a iniquidade dos pais sobre os filhos e os netos até à terceira e quarta geração.  

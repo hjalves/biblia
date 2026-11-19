@@ -59,7 +59,7 @@
 **2** Os teus dentes são como um rebanho de ovelhas tosquiadas, ao subir do lavadouro; cada uma leva dois cordeirinhos gémeos, e nenhuma há estéril entre elas.  
 **3** Os teus lábios são como um fio de púrpura, o teu falar é doce, como metades de romãs, assim são as tuas faces, por detrás do teu véu.  
 **4** O teu pescoço é (direito) como a torre de Davide, que foi edificada com seus baluartes; dela estão pendentes mil escudos, todos os escudos dos heróis.  
-**5** Os teus dois peitos são como dois filhinhos gémeos, duma gazela. que pastam entre os lírios.  
+**5** Os teus dois peitos são como dois filhinhos gémeos, duma gazela, que pastam entre os lírios.  
 **6** Antes que chegue o fresco do dia, e se inclinem as sombras, eu irei ao monte da mirra, e ao outeiro do incenso.  
 **7** Toda és formosa, minha amada, e em ti não há mácula.  
 **8** Vem do Líbano, esposa minha, vem do Líbano, vem do alto do monte Amaná, dos cumes de Sanir e de Hermon, das cavernas dos leões, dos montes dos leopardos.  
@@ -121,8 +121,7 @@
 **10** Eu sou para o meu amado, e os seus desejos voltam-se para mim.  
 **11** Vem, amado meu, saiamos ao campo, passemos a noite nos pomares.  
 **12** Levantemo-nos de manhã para ir às vinhas, vejamos se a vinha lançou rebentos, se as flores se abrem, se as romãzeiras estão em flor. Aí te darei o meu amor.  
-**13** As mandrúgoras eram plantas que. segundo julgavam, favoreciam o amor e a fecundidade. (Gen. 30, 14-8).  
-**14** As mandrágoras espalham o seu aroma, e nós temos às nossas portas toda a qualidade de frutos excelentes, novos e velhos, que guardei para ti, amado meu.  
+**13** As mandrágoras espalham o seu aroma, e nós temos às nossas portas toda a qualidade de frutos excelentes, novos e velhos, que guardei para ti, amado meu.  
 
 ## Capítulo 8
 
@@ -131,7 +130,7 @@
 **3** A sua mão esquerda está debaixo da minha cabeça, e a sua mão direita abraça-me.  
 **4** Eu vos conjuro, filhas de Jerusalém, que não perturbeis nem acordeis a minha amada antes que ela queira.  
 **5** Quem é esta, que sobe do deserto, apoiada sobre o seu amado? Eu te despertei debaixo da macieira: foi ali que tua mãe te concebeu, foi ali que te concebeu, te deu à luz.  
-**6** Põe-me como um selo sobre o teu coração, como um selo sobre o teu braço. porque o amor é forte como a morte, o zelo do amor é duro como a habitação dos mortos. Os seus ardores são ardores de fogo, os seus fogos são fogos do Senhor.  
+**6** Põe-me como um selo sobre o teu coração, como um selo sobre o teu braço, porque o amor é forte como a morte, o zelo do amor é duro como a habitação dos mortos. Os seus ardores são ardores de fogo, os seus fogos são fogos do Senhor.  
 **7** As muitas águas não poderiam extinguir o amor, nem os rios teriam força para o submergir. Se um homem desse todas as riquezas de sua casa pelo amor, ele o desprezaria como um nada.  
 **8** A nossa irmã é pequena, ainda não tem seios. Que faremos nós à nossa irmã no dia em que for pedida (em casamento)?  
 **9** Se ela é um muro, edifiquemos sobre ela ameias de prata; se é uma porta, guarneçamo-la com tábuas de cedro.  

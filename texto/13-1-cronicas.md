@@ -109,7 +109,7 @@
 **48** Maaca, mulher de segunda ordem de Caleb, deu à luz Saber e Tarana.  
 **49** Ela deu também à luz Saaf, pai de Madmena, e Sue, pai de Maquebena e pai de Gabaa. Acsa foi filha de Caleb.  
 **50** Filhos de Caleb, filho de Hur, primogénito de Efrata, foram estes: Sobal, pai de Cariatiarim,  
-**51** Salma. pai de Belém, Harif, pai de Betgader.  
+**51** Salma, pai de Belém, Harif, pai de Betgader.  
 **52** Sobal, pai de Cariatiarim, teve por filhos Haroé, Hatsi-Hamme-nuhoth.  
 **53** As famílias que eles fundaram em Cariatiarim foram: os Jetreus, os Afuteus, os Semateus e os Masereus. Destes procederam os Saraítas e os Estaolitas.  
 **54** Filhos de Salma: Belém e os Netofatlanos, Ataroth-Beth-Joab, metade dos Manaquitianos, os Saraítas, (foi) dos descendentes de Sarai.  

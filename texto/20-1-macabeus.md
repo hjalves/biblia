@@ -287,7 +287,7 @@
 **13** Todos os nossos irmãos, que habitavam na região de Tob, foram mortos; levaram cativas as suas mulheres e os seus filhos, tomaram os seus despojos e mataram lá perto de mil homens.  
 **14** Quando ainda se estavam lendo estas cartas, eis que chegaram outros mensageiros da Galileia, com as vestes rasgadas, trazendo novas semelhantes,  
 **15** pois diziam que os de Ptolemaida, de Tiro, de Sidónia e de toda a Galileia dos estrangeiros se tinham coligado com o fim de os perder.  
-**16** Logo que Judas e o povo ouviram estas novas, convocaram uma grande assembleia, para- deliberarem o que se devia fazer em favor dos seus irmãos, que se achavam na angústia e que eram atacados por aqueles homens.  
+**16** Logo que Judas e o povo ouviram estas novas, convocaram uma grande assembleia, para deliberarem o que se devia fazer em favor dos seus irmãos, que se achavam na angústia e que eram atacados por aqueles homens.  
 **17** Disse Judas a seu irmão Simão: Escolhe homens e vai livrar os teus irmãos que estão na Galileia; eu e o meu irmão Jónatas iremos a Galaad.  
 **18** Deixou José, filho de Zacarias, e Azarias, à frente do povo, para guardarem a Judeia com o resto das tropas,  
 **19** dando-lhes esta ordem; Governai este povo, mas não deis batalha contra os gentios, enquanto não regressarmos.  
@@ -965,14 +965,14 @@
 **11** Ptolomeu, filho de Abobo, havia sido feito governador militar da planície de Jericó; tinha muita prata e muito ouro,  
 **12** porque era genro do sumo sacerdote.  
 **13** O seu coração encheu-se de soberba; queria tornar-se senhor do país e andava maquinando uma traição contra Simão e seus filhos para os matar.  
-**14** Ora, percorrendo Simão as cidades da Judeia e tratando cuidadosamente do seu bem-estar. baixou a Jericó com Matatias, seu filho, e Judas, no ano cento e setenta e sete, no undécimo mês, que é o mês de Sabat.  
+**14** Ora, percorrendo Simão as cidades da Judeia e tratando cuidadosamente do seu bem-estar, baixou a Jericó com Matatias, seu filho, e Judas, no ano cento e setenta e sete, no undécimo mês, que é o mês de Sabat.  
 **15** O filho de Abobo recebeu-os com má tenção num pequeno forte, chamado Doc, que tinha edificado; mandou-lhes fazer um grande banquete, mas pôs alguns homens escondidos.  
 **16** Quando Simão e seus filhos tinham bebido bem, Ptolomeu e os seus homens levantaram-se, tomaram as suas armas, acometeram Simão na sala do banquete e mataram-no, assim como aos seus dois filhos e a alguns dos seus criados.  
 **17** Deste modo cometeu Ptolomeu em Israel uma grande perfídia e tornou mal por bem.  
 **18** Ptolomeu escreveu isto ao rei, pedindo-lhe que lhe enviasse um exército em seu socorro, a fim de lhe entregar o país e as suas cidades.  
 **19** Ao mesmo tempo mandou outros a Gazara, para matarem João, e enviou cartas aos tribunos para que viessem unir-se com ele, prometendo que lhes daria prata, ouro e presentes.  
 **20** E mandou outros para que se apoderassem de Jerusalém e do monte do templo.  
-**21** Mas, antecipando-se a eles certo homem, foi anunciar a João, em Gazara. que seu pai e seus irmãos tinham Sido mortos e que (Ptolomeu) enviara gente para o matar também a ele.  
+**21** Mas, antecipando-se a eles certo homem, foi anunciar a João, em Gazara, que seu pai e seus irmãos tinham Sido mortos e que (Ptolomeu) enviara gente para o matar também a ele.  
 **22** João, logo que ouviu isto, ficou fora de si. Apoderou-se dos que vinham matá-lo, e mandou-lhes tirar a vida, porque sabia que traziam tenção de o matar.  
 **23** O resto dos actos de João, das suas guerras, das empresas em que valorosamente se portou, da reedificação dos muros que construiu e de todas as suas acções,  
 **24** tudo está escrito no livro dos anais do seu pontificado, começando desde o tempo em que foi constituído sumo pontífice, em lugar de seu pai.

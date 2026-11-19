@@ -50,7 +50,7 @@
 **9** Fazei ouvir isto nos palácios (dos Filisteus) de Azot e nos palácios da terra do Egipto. Dizei: Juntai-vos sobre os montes de Samaria e vede quantas desordens há no meio dela, que violências se praticam no seu interior.  
 **10** Não sabem agir rectamente, diz o Senhor, eles que amontoam em suas casas tesouros de violências e de rapinas.  
 **11** Portanto isto diz o Senhor Deus: Eis o inimigo a cercar o país. Tirar-te-á a tua força (ó Samaria), e os teus palácios serão saqueados.  
-**12** Isto diz o Senhor: Como acontece quando um pastor chega a arrancar da boca do leão as duas pernas, silvos, ou a ponta de uma orelha (da rês que devora), assim serão livrados (dos Assirios) os filhos de Israel que habitam em Samaria. descansados no ângulo dum leito, ou numa cama em Damasco.  
+**12** Isto diz o Senhor: Como acontece quando um pastor chega a arrancar da boca do leão as duas pernas, silvos, ou a ponta de uma orelha (da rês que devora), assim serão livrados (dos Assirios) os filhos de Israel que habitam em Samaria, descansados no ângulo dum leito, ou numa cama em Damasco.  
 **13** Ouvi isto e declarai-o à casa de Jacob, diz o Senhor Deus dos exércitos:  
 **14** No dia em que eu punir as prevaricações de Israel, carregarei sobre os altares serão de Betei: os ângulos do altar serão partidos e cairão por terra.  
 **15** Deitarei abaixo a residência de inverno e a residência de verão; as casas de marfim serão arruinadas, muitos edifícios serão destruídos, diz o Senhor.  

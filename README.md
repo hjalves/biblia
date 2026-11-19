@@ -5,13 +5,13 @@
 **A Bíblia do Padre Manuel de Matos Soares (edição de 1956)**
 em português, revista, corrigida e atualizada ao novo Acordo Ortográfico.
 
-![Livros](https://img.shields.io/badge/livros-73-8a6226) ![Versículos](https://img.shields.io/badge/vers%C3%ADculos-35%20790-8a6226) ![Licença](https://img.shields.io/badge/licen%C3%A7a-CC%20BY%204.0-2ea44f)
+![Livros](https://img.shields.io/badge/livros-73-8a6226) ![Versículos](https://img.shields.io/badge/vers%C3%ADculos-35%20795-8a6226) ![Licença](https://img.shields.io/badge/licen%C3%A7a-CC%20BY%204.0-2ea44f)
 
 </div>
 
 ---
 
-> **Ramo `grafia-1956`:** este ramo tem o mesmo texto do `main`, mas na grafia da edição impressa de 1956 (Acordo Ortográfico de 1945): `Egipto`, `acção`, `objecto`, `baptismo`, `sòmente`, `fàcilmente`, `vêem`, `jóia`. Ver [CORRECOES.md](CORRECOES.md).
+> **Ramo `grafia-1956`:** este ramo tem o mesmo texto do `main`, mas na grafia da edição impressa de 1956 (Acordo Ortográfico de 1945): `Egipto`, `acção`, `objecto`, `baptismo`, `sòmente`, `fàcilmente`, `vêem`, `jóia`. Só a grafia segue a edição de 1956; o texto é o do `main`. Ver [CORRECOES.md](CORRECOES.md).
 
 ## O que é
 

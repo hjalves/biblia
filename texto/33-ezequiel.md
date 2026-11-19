@@ -25,7 +25,7 @@
 **21** Andando os viventes, andavam as rodas; parando eles, paravam elas; e quando eles se elevavam da terra, também as rodas, seguindo-os, juntamente se elevavam, por que o espírito de cada vivente estava nas rodas.  
 **22** Por cima das cabeças dos seres vivos via-se uma o semelhança de firmamento, como de cristal estupendo, estendido por cima de suas cabeças.  
 **23** E debaixo deste firmamento(viam-se) as suas asas estendidas tocando a asa dum na do outro; cada um cobria o seu corpo com duas asas.  
-**24** Eu ouvia, quando eles andavam, o ruído das suas asas, como o ruído de muitas águas, como a voz do Omnipotente. como o ruído dum exército; quando paravam, baixavam as suas asas.  
+**24** Eu ouvia, quando eles andavam, o ruído das suas asas, como o ruído de muitas águas, como a voz do Omnipotente, como o ruído dum exército; quando paravam, baixavam as suas asas.  
 **25** Porque, quando saía uma voz de sobre o firmamento que ficava por cima das suas cabeças, paravam e baixavam as suas asas.  
 **26** Sobre este firmamento, que ficava por cima das suas cabeças, havia uma semelhança de pedra de safira, como um trono, e sobre esta semelhança de trono havia, no alto, um ser com aparência humana.  
 **27** Vi uma espécie de metal brilhante, como fogo, no interior e em volta dele, da sua cintura para cima; e da cintura para baixo vi como um fogo que resplandecia ao redor;  
@@ -135,7 +135,7 @@
 **1** Foi-me dirigida a palavra do Senhor, a qual dizia:  
 **2** Tu, filho de homem, (atende) assim fala o Senhor Deus à terra de Israel: Eis o fim! Já vem o fim sobre os quatro lados desta terra.  
 **3** Agora chega o fim para ti; desafogarei o meu furor contra ti, julgar-te-ei segundo o teu proceder, farei recair sobre ti todas as tuas abominações.  
-**4** O meu olho não te poupará. não me compadecerei de ti, mas farei recair sobre ti as tuas obras, e as tuas abominações estarão no meio de ti. Então sabereis que eu sou o Senhor.  
+**4** O meu olho não te poupará, não me compadecerei de ti, mas farei recair sobre ti as tuas obras, e as tuas abominações estarão no meio de ti. Então sabereis que eu sou o Senhor.  
 **5** Isto diz o Senhor Deus: Uma desgraça única! Eis que uma calamidade (singularíssima) chega.  
 **6** O fim vem, vem o fim; ele despertou contra ti; ei-lo aí vem!  
 **7** Ó tu que habitas nesta terra, uma total ruína vem sobre ti! É chegado o tempo, está perto o dia (da mortandade)! É (chegada) a confusão! Não mais alegria sobre os montes.  
@@ -149,7 +149,7 @@
 **15** Fora, a espada; dentro, a peste e a fome; o que está no campo, morrerá à espada; os que estão na cidade, serão devorados pela peste e pela fome.  
 **16** Os que dentre eles fugirem, andarão sobre as montanhas como pombas dos vales, todos gemendo, cada um por causa da sua iniquidade.  
 **17** Todas as mãos se enfraquecerão, todos os joelhos se fundirão em água.  
-**18** Cingir-se-ão de sacos, o medo os cobrirá; em todo o rosto haverá confusão, e todas as suas cabeças serão rapadas (em. sinal de dor).  
+**18** Cingir-se-ão de sacos, o medo os cobrirá; em todo o rosto haverá confusão, e todas as suas cabeças serão rapadas (em sinal de dor).  
 **19** A sua prata será lançada às ruas, e o seu ouro será reputado como esterco. A sua prata e o seu ouro não os poderão livrar no dia do furor do Senhor. Não saciarão (com, isso) a sua alma, e os seus ventres se não se encherão, porque a sua iniquidade fez disso um motivo de queda.  
 **20** Orgulhavam-se dos seus adornos, e disso fizeram os seus ídolos abomináveis; por tal motivo farei que seja para eles uma imundície,  
 **21** pô-lo-ei nas mãos dos estranhos para ser saqueado: servirá de presa aos ímpios da terra, que o contaminarão.  
@@ -289,8 +289,8 @@
 **6** Têm visões inanes, profetizam a mentira, dizendo: Oráculo do Senhor sendo certo que o Senhor não os enviou: apesar disso, ainda esperam a realização da sua palavra.  
 **7** Porventura não são vãs as visões que tendes mentirosos os oráculos que proferis, quando dizeis: Assim falou o Senhor sendo certo que eu não falei?  
 **8** Por cuja causa assim fala o Senhor Deus: Porque dizeis coisas vãs e tendes visões mentirosas, por isso eis que venho contra vós, diz o Senhor Deus.  
-**9** A minha mão descarregará sobre os profetas que têm visões vãs e que profetizam a mentira: não serão admitidos na assembleia do meu povo. não serão inscritos no censo da casa de Israel, não entrarão na terra de Israel e vós sabereis que eu sou o Senhor Deus.  
-**10** Porque eles enganaram o meu povo. dizendo: Paz! e paz não havia. Quando o meu povo levanta uma parede, eles cobrem-na de barro.  
+**9** A minha mão descarregará sobre os profetas que têm visões vãs e que profetizam a mentira: não serão admitidos na assembleia do meu povo, não serão inscritos no censo da casa de Israel, não entrarão na terra de Israel e vós sabereis que eu sou o Senhor Deus.  
+**10** Porque eles enganaram o meu povo, dizendo: Paz! e paz não havia. Quando o meu povo levanta uma parede, eles cobrem-na de barro.  
 **11** Dize (pois) a esses, que rebocam a parede com barro, que ela cairá; porque virá uma chuva de inundação, e farei cair do céu pedras grandes, e (enviarei) um vento tempestuoso que tudo destruirá.  
 **12** E, quando a muralha tiver caído, não vos será dito (por zombaria): Onde está o reboco que fizestes?  
 **13** Por cuja causa isto diz o Senhor Deus: Farei sair impetuosamente um vento de tempestade na minha indignação, e sobrevirá uma chuva que tudo inunde no meu furor, e arrojarei pedras enormes com ira para total destruição.  
@@ -504,7 +504,7 @@
 **13** Mas, (depois de tudo isto) os filhos da casa de Israel irritaram-me no deserto, não andaram nos meus preceitos, rejeitaram as minhas leis, que dão vida ao que as observa, e profanaram inteiramente os meus sábados. Resolvi, pois, derramar o meu furor sobre eles no deserto e exterminá-los.  
 **14** Mas, por amor do meu nome, procedi (de outra forma) de modo que ele não ficasse desacreditado diante das gentes, aos olhos das, quais eu os tinha feito sair.  
 **15** Também levantei a minha mão contra eles no deserto, jurando não os introduzir na terra que lhes dei, a qual mana leite e mel, a melhor de todas as terras  
-**16** porque eles rejeitaram as minhas leis. não andaram nos meus preceitos, profanaram os meus sábados, pois o seu coração ia após os ídolos.  
+**16** porque eles rejeitaram as minhas leis, não andaram nos meus preceitos, profanaram os meus sábados, pois o seu coração ia após os ídolos.  
 **17** Todavia olhei para eles com olhos de misericórdia, para os não matar, e (de facto) não os exterminei no deserto.  
 **18** Disse a seus filhos no deserto: Não sigais os exemplos de vossos pais, não imiteis os seus costumes, não vos mancheis com os seus ídolos.  
 **19** Eu sou o Senhor vosso Deus; andai nos meus preceitos, guardai as minhas leis e praticai-as.  
@@ -519,7 +519,7 @@
 **28** Quando os introduzi na terra, que com juramento tinha prometido dar-lhes, olharam para todos os outeiros elevados e para todas as árvores frondosas, e ali fizeram os seus sacrifícios, apresentaram as suas oferendas que me irritavam, ali trouxeram os seus agradáveis perfumes e ofereceram as suas libações.  
 **29** Disse-lhes então: Que lugar alto é este aonde vós ides? E até ao dia de hoje lhe ficou o nome de lugar alto.  
 **30** Portanto dize à casa de Israel: Assim fala o Senhor Deus: É verdade que vos tornais imundos, segundo os caminhos de vossos pais, e vos entregais à mesma prostituição com os seus ídolos (ou idolatria).  
-**31** Na oblação dos vossos dons (a Moloch), quando fazeis passar os vossos filhos pelo fogo, vós vos contaminais com todos os vossos ídolos até hoje. E (depois disto) deixar-me-ei ainda consultar por vós, casa de Israel? (Juro) pela minha vida, diz o Senhor Deus. que o não farei.  
+**31** Na oblação dos vossos dons (a Moloch), quando fazeis passar os vossos filhos pelo fogo, vós vos contaminais com todos os vossos ídolos até hoje. E (depois disto) deixar-me-ei ainda consultar por vós, casa de Israel? (Juro) pela minha vida, diz o Senhor Deus, que o não farei.  
 **32** Nem se efectuará o que pensais no vosso espírito quando dizeis: Seremos (felizes) como as nações e como os povos da terra, adorando os paus e as pedras.  
 **33** Juro pela minha vida, diz o Senhor Deus, que reinarei sobre vós com mão forte, com braço estendido, na efusão do meu furor.  
 **34** Tirar-vos-ei do meio dos povos e vos juntarei dos países, para onde tínheis sido dispersos, com mão forte, com braço estendido, com efusão do meu furor,  
@@ -600,7 +600,7 @@
 **22** Como a prata se funde no meio da fornalha, assim vós no meio desta cidade; então sabereis que eu, o Senhor, derramei a minha indignação sobre vós.  
 **23** Foi-me dirigida a palavra do Senhor nestes termos:  
 **24** Filho de homem, dize a Jerusalém: Tu és uma terra imunda, que não foi regada pelas chuvas no dia do furor.  
-**25** Os seus príncipes conjuram no meio dela, devoram as pessoas como um leão que ruge e que arrebata a sua presa, apoderam-se de bens e tesouros. multiplicam as viúvas no meio dela.  
+**25** Os seus príncipes conjuram no meio dela, devoram as pessoas como um leão que ruge e que arrebata a sua presa, apoderam-se de bens e tesouros, multiplicam as viúvas no meio dela.  
 **26** Os seus sacerdotes desprezam a minha lei, profanam o meu santuário; não distinguem entre o santo e o profano, não ensinam a distinguir o puro do impuro, apartam os seus olhos dos meus sábados: sou profanado no meio deles.  
 **27** Os seus chefes, no meio dela, são como lobos que despedaçam a sua presa, que derramam sangue, fazem perecer vidas, para arrebatar os bens.  
 **28** Os seus profetas rebocam as paredes com barro solto; têm inanes visões, oráculos enganosos. Dizem: Assim fala o Senhor Deus quando o Senhor não falou.  
@@ -615,7 +615,7 @@
 **3** as quais se prostituíram no Egipto, prostituíram-se na sua mocidade (como povo). Aí lhes apertaram os peitos lhes apalparam o seio virginal.  
 **4** A mais velha chama-se Oola, e a sua irmã Ooliba. Desposei-me com elas, e deram à luz filhos e filhas. No tocante a seus nomes. Oola é a Samaria, e Ooliba é Jerusalém.  
 **5** Oola foi-me infiel e apaixonou-se pelos seus amantes os Assírios, seus vizinhos,  
-**6** vestidos de púrpura. governadores e chefes, jovens amáveis, cavaleiros montados a cavalo.  
+**6** vestidos de púrpura, governadores e chefes, jovens amáveis, cavaleiros montados a cavalo.  
 **7** Dispensou os seus favores amorosos a estes homens escolhidos, filhos todos dos Assírios, e manchou-se com ídolos de todos aqueles de quem loucamente estava enamorada.  
 **8** Porém não abandonou as prostituições que tinha tido no Egipto, pois (os Egípcios) dormiram com ela na sua adolescência, apertaram o seu seio virginal, comunicaram-lhe todas as suas impurezas.  
 **9** Por isso entreguei-a nas mãos dos seus amantes, nas mãos dos filhos de Assur, por quem ardia de paixão.  
@@ -1230,7 +1230,7 @@
 **16** Mediu o lado do oriente com a cana de medir: quinhentos côvados (medidos) com a cana de medir, ao redor.  
 **17** Mediu o lado do setentrião; quinhentos côvados, com a cana de medir, ao redor.  
 **18** Mediu o lado do meio-dia: quinhentos côvados, com a cana de medir, ao redor.  
-**19** Mediu o lado do ocidente; quinhentos côvados. com a cana de medir (ao redor).  
+**19** Mediu o lado do ocidente; quinhentos côvados, com a cana de medir (ao redor).  
 **20** Mediu assim a parede de cintura, pelos quatro lados, andando á roda, achando o comprimento de quinhentos côvados e a largura de quinhentos côvados; (essa parede) separava o (lugar) sagrado do profano.  
 
 ## Capítulo 43
@@ -1384,7 +1384,7 @@
 **2** Junto dos confins de Dan, desde o oriente até ao ocidente, será a porção de Aser.  
 **3** Junto dos confins de Aser, da região oriental até à ocidental, a porção de Neftali.  
 **4** Junto dos confins de Neftali, desde a região oriental até à ocidental, a porção de Manassés.  
-**5** Junto dos confins de Manassés. desde a região oriental até à ocidental, a porção de Efraim.  
+**5** Junto dos confins de Manassés, desde a região oriental até à ocidental, a porção de Efraim.  
 **6** Junto dos confins de Efraim, desde a região oriental até à ocidental, a porção de Ruben.  
 **7** Junto dos confins de Ruben, desde a região oriental até à ocidental, a porção de Judá.  
 **8** Junto dos confins de Judá, desde a região oriental à ocidental, serão as primícias (ou porções) que separareis, as quais terão vinte e cinco mil medidas (ou côvados) de largura, e um comprimento igual a cada um dos outros quinhões, desde a região oriental até à ocidental. O santuário ficará no meio.  

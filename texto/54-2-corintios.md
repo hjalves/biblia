@@ -283,7 +283,7 @@
 **1** Vou ter convosco pela terceira vez. Sobre a declaração de duas ou três testemunhas tudo será decidido.  
 **2** Como já o disse, achando-me presente, na minha segunda visita, assim o digo, também agora, estando ausente, que, se eu for outra vez, não perdoarei aos que antes pecaram nem a todos os outros.  
 **3** Porventura quereis pôr à prova Cristo, que fala em mim, o qual não é fraco a vosso respeito, mas sim poderoso entre vós?  
-**4** Em realidade, embora fosse crucificado por fraqueza, vive todavia pelo poder de Deus. Também. nós somos fracos nele, mas viveremos com ele pela virtude de Deus em vós.  
+**4** Em realidade, embora fosse crucificado por fraqueza, vive todavia pelo poder de Deus. Também nós somos fracos nele, mas viveremos com ele pela virtude de Deus em vós.  
 **5** Examinai-vos a vós mesmos, (vede) se estais firmes na fé. Provai-vos a vós mesmos. Acaso não conheceis que Jesus Cristo está em vós? A não ser que a prova seja contra vós.  
 **6** Mas espero que reconhecereis que a prova não é contra nós.  
 **7** Rogamos a Deus que não façais nenhum mal, não para que apareçamos como aprovados, mas a fim de que façais o bem, ainda que sejamos tidos como reprovados.  

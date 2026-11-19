@@ -473,7 +473,7 @@
 **15** Davide deixou Saul e voltou a apascentar o rebanho de seu pai em Belém  
 **16** O Filisteu apresentava-se de manhã e de tarde, e continuou assim durante quarenta dias.  
 **17** Isaí disse a seu filho Davide: Toma para teus irmãos um efi de grão torrado e estes dez pães, e corre (a levá-los) a teus irmãos, ao acampamento;  
-**18** levarás também estes dez queijos ao chefe do seu milhar; visitarás os teus irmãos, para ver se estão bem, e informa- te em que companhia servem.  
+**18** levarás também estes dez queijos ao chefe do seu milhar; visitarás os teus irmãos, para ver se estão bem, e informa-te em que companhia servem.  
 **19** Saul e eles, e todos os filhos de Israel, combatiam contra os Filisteus no vale de Terebinto.  
 **20** Davide levantou-se de manhã, confiou o rebanho a um guarda, e, carregado, pôs-se a caminho, como Isaí lhe tinha mandado. Chegou ao acampamento, quando o exército, tendo saído a dar batalha, gritava em sinal de combate.  
 **21** Israel tinha posto em ordem as suas tropas, mas também os Filisteus do outro lado se tinham preparado para os atacar.  

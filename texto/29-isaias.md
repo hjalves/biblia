@@ -137,7 +137,7 @@
 **3** E clamavam um para o outro, dizendo: Santo, Santo, Santo, é o Senhor Deus dos exércitos! Toda a terra está cheia da sua glória!  
 **4** Estremeceram as portas, em seus gonzos, à voz do que clamava, e a casa encheu-se de fumo.  
 **5** Então disse eu: Ai de mim, que estou perdido, porque sendo um homem de lábios impuros, e habitando no meio dum povo que tem os seus também impuros, vi com os meus olhos o Rei, Senhor dos exércitos!  
-**6** Mas (então) voou para mim um dos serafins, o qual trazia na mão uma brasa viva. que tinha tomado do altar com uma tenaz.  
+**6** Mas (então) voou para mim um dos serafins, o qual trazia na mão uma brasa viva, que tinha tomado do altar com uma tenaz.  
 **7** Tocou a minha boca e disse: Eis que, tendo esta brasa tocado os teus lábios, será tirada a tua iniquidade, expiado o teu pecado.  
 **8** E ouvi a voz do Senhor que dizia: Quem enviarei eu? e quem irá por nós? Então eu disse: Aqui me tens, envia-me.  
 **9** O Senhor disse-me: Vai, e dirás a esse povo: Ouvi o que vos digo, e não compreendei, olhai e não entendei.  
@@ -165,8 +165,8 @@
 **15** Ele comerá coalhada e mel, até que saiba rejeitar o mal e escolher o bem.  
 **16** Porque, antes que o menino saiba rejeitar o mal e escolher o bem, a terra, cujos dois reis tu temes, será devastada.  
 **17** O Senhor (por intervenção do rei dos Assírios) fará vir sobre ti, sobre o teu povo e sobre a casa de teu pai, dias tais quais não foram vistos desde que Efraim se separou de Judá.  
-**18** Os Egípcios são comparados às moscas, e os Assírios, mais poderosos, a um enxame de abelhas.  
-**19** Acontecerá, naqueles dias, que o Senhor assobiará à mosca que está no extremo dos rios do Egipto, e à abelha que está na terra da Assíria.  
+**18** Acontecerá, naqueles dias, que o Senhor assobiará à mosca que está no extremo dos rios do Egipto, e à abelha que está na terra da Assíria.  
+**19** Elas virão e pousarão todas nos vales e torrentes, nas cavernas dos rochedos, em todos os matos e em todas as pastagens.  
 **20** Naquele dia o Senhor, por meio duma navalha alugada na banda de além do rio (Eufrates), por intervenção do rei dos Assírios, rapará a cabeça, o pelo das pernas e a barba toda.  
 **21** Acontecerá também naquele dia que um homem criará uma vaca e duas ovelhas,  
 **22** e, pela abundância do leite, sustentar-se-á de coalhada, porque todo aquele que tiver ficado no meio da terra, comerá coalhada e mel.  
@@ -285,7 +285,7 @@
 **2** Tirareis com gosto águas das fontes da salvação,  
 **3** e direis naquele dia; Louvai o Senhor, invocai o seu nome, publicai entre os povos as suas obras, proclamai que o seu nome é excelso.  
 **4** Cantai ao Senhor, porque ele fez coisas magníficas; que se saiba isto em toda a terra.  
-**5** Cantai de alegria, rejubilai, habitantes de Sião. porque se mostra grande, no meio de vós, o Santo de Israel.  
+**5** Cantai de alegria, rejubilai, habitantes de Sião, porque se mostra grande, no meio de vós, o Santo de Israel.  
 
 ## Capítulo 13
 
@@ -334,7 +334,7 @@
 **18** Todos os reis das nações, todos, repousam com glória, cada um em sua morada.  
 **19** Mas tu foste atirado para longe do teu sepulcro, como um tronco inútil e manchado, confundido com aqueles que foram mortos à espada, e precipitados pelas ladeiras rochosas do abismo, como um cadáver que se calca.  
 **20** Não terás consórcio com eles nem ainda na sepultura porque arruinaste a tua terra, fizeste perecer o teu povo. Jamais se falará da raça dos celerados.  
-**21** Preparai para seus filhos o massacre. por causa da iniquidade de seus pais. Que não se levantem para conquistar a terra. que não encham de cidades a face do mundo.  
+**21** Preparai para seus filhos o massacre, por causa da iniquidade de seus pais. Que não se levantem para conquistar a terra, que não encham de cidades a face do mundo.  
 **22** Levantar-me-ei contra eles, declara o Senhor dos exércitos, destruirei o nome de Babilónia e as suas relíquias, toda a raça e o seu renovo, declara o Senhor,  
 **23** Reduzi-la-ei a um ninho de ouriços e a um pântano, e varrê-la-ei com a vassoura da destruição, diz o Senhor dos exércitos.  
 **24** Jurou o Senhor dos exércitos, dizendo: Por certo que, como pensei, assim será; o que tracei na mente,  
@@ -546,8 +546,8 @@
 **7** Neste monte tirará o véu que vela todos os povos, a cobertura estendida sobre todas as nações.  
 **8** Aniquilará a morte para sempre; o Senhor Deus enxugará as lágrimas de todas as faces, e tirará de cima de toda a terra o opróbrio do seu povo. Foi o Senhor que o disse.  
 **9** Dir-se-á naquele dia: Eis o nosso Deus, de quem esperávamos a salvação; este é que é o Senhor, em quem pusemos a nossa esperança; exultemos, alegremo-nos com a salvação que vem dele.  
-**10** Porque neste monte repousará a mão do Senhor, e Moab será pisado debaixo dele. como se pisam as palhas no monturo.  
-**11** Aí estenderá as suas mãos por baixo dele. como as estende o nadador para nadar; (porém Deus) abaterá o seu orgulho, quebrando-lhe o esforço das suas mãos.  
+**10** Porque neste monte repousará a mão do Senhor, e Moab será pisado debaixo dele, como se pisam as palhas no monturo.  
+**11** Aí estenderá as suas mãos por baixo dele, como as estende o nadador para nadar; (porém Deus) abaterá o seu orgulho, quebrando-lhe o esforço das suas mãos.  
 **12** As fortificações das tuas altas muralhas (ó Moab) derrubá-las-á (ó Senhor), atirá-las-á à terra, ao pó.  
 
 ## Capítulo 26

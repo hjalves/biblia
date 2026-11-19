@@ -733,7 +733,7 @@
 **26** Ordena, manda aos Levitas: Quando receberdes dos filhos de Israel os dízimos que vos dei, oferecei as primícias deles ao Senhor, isto é, a décima parte do dízimo,  
 **27** para que isto vos seja contado como oferta de primícias, tanto das eiras como dos lagares.  
 **28** Assim oferecereis também ao Senhor, de todas as coisas de que recebestes dízimos, e esta oferta, reservada ao Senhor, dai-a ao sacerdote Aarão.  
-**29** Tudo o que oferecerdes dos dízimos, e que separardes para oferta ao Senhor, será o melhor e o mais. escolhido.  
+**29** Tudo o que oferecerdes dos dízimos, e que separardes para oferta ao Senhor, será o melhor e o mais escolhido.  
 **30** Dir-lhe-ás outrossim: Depois de oferecerdes o mais belo e o melhor deles, os dízimos serão para os Levitas como o fruto da terra e o produto do lagar.  
 **31** Comereis desses dízimos, vós e as vossas famílias, em qualquer lugar que habitardes, porque são o preço do ministério que exerceis no tabernáculo da reunião.  
 **32** Já não pecareis, depois de oferecido o melhor e o mais escolhido, já não profanareis as coisas santas dos filhos de Israel, e não morrereis.  

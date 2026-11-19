@@ -676,7 +676,7 @@
 **12** Ó Senhor Deus do meu Senhor Abraão, rogo-te me auxilies hoje, e uses de misericórdia para com meu senhor Abraão.  
 **13** Eis que estou ao pé desta fonte de água, e as filhas dos habitantes desta cidade sairão a vir tirar água:  
 **14** portanto a donzela a quem eu disser: Inclina o teu cântaro para eu beber — e ela responder: Bebe, e também darei de beber a teus camelos — essa é aquela que destinaste para teu servo Isaac: por isso conhecerei que usaste de misericórdia com o meu senhor.  
-**15** Ainda não tinha acabado de dizer no seu interior estas palavras, quando Rebeca, filha de Batuel, filho de Melca. mulher de Nacor, irmão de Abraão, saía com um cântaro aos ombros.  
+**15** Ainda não tinha acabado de dizer no seu interior estas palavras, quando Rebeca, filha de Batuel, filho de Melca, mulher de Nacor, irmão de Abraão, saía com um cântaro aos ombros.  
 **16** Era uma donzela linda em extremo, virgem formosíssima não conhecida por homem algum: tinha descido à fonte, enchido o cântaro, e já voltava.  
 **17** Mas o Servo saiu-lhe ao encontro e disse: Dá-me de beber um pouco de água do teu cântaro.  
 **18** Ela respondeu: Bebe, meu senhor: e prontamente inclinou o cântaro sobre o seu braço, e lhe deu de beber.  
@@ -719,7 +719,7 @@
 **55** Mas os irmãos dela e a mãe responderam: Fique a donzela connosco ao menos dez dias, e depois partirá.  
 **56** Não queirais, respondeu-lhes, demorar-me, porque o Senhor dirigiu o meu caminho: Deixas que eu vá para o meu senhor.  
 **57** Eles disseram: Chamemos a donzela e saibamos qual é a sua vontade.  
-**58** Chamaram-na. pois, e perguntaram-lhe: queres ir com este homem? Ela respondeu: Irei.  
+**58** Chamaram-na, pois, e perguntaram-lhe: queres ir com este homem? Ela respondeu: Irei.  
 **59** Deixaram-na, pois, partir juntamente com a sua ama de leite, e o servo de Abraão e seus companheiros,  
 **60** fazendo votos pelas prosperidades de sua irmã, dizendo: És nossa irmã, cresce em milhares de milhares, e a tua posteridade possua as portas de seus inimigos.  
 **61** Então Rebeca e suas criadas, montadas nos camelos, seguiram aquele homem, o qual a toda a pressa voltava para o seu Senhor.  
@@ -839,7 +839,7 @@
 **30** Apenas Isaac tinha acabado de dar a bênção, e Jacob tinha saído, chegou Esaú.  
 **31** Levou ao pai os guisados preparados da sua caçada, dizendo: Levanta-te, meu pai, e come da caça de teu filho, para que a tua alma me abençoe.  
 **32** Isaac disse-lhe: Mas quem és tu? Ele respondeu: Sou o teu filho primogénito Esaú.  
-**33** Isaac, possuído de uma violenta emoção, disse: Quem é, pois, aquele que há pouco me trouxe a caça que apanhou? Comi de tudo antes que tu viesses. abençoei-o, e ele será bendito.  
+**33** Isaac, possuído de uma violenta emoção, disse: Quem é, pois, aquele que há pouco me trouxe a caça que apanhou? Comi de tudo antes que tu viesses, abençoei-o, e ele será bendito.  
 **34** Esaú, ouvidas as palavras do pai, gritou com grande clamor, e, consternado, disse: Dá-me também a mim a bênção, meu pai.  
 **35** Ele disse: O teu irmão veio fraudulentemente e recebeu a tua bênção.  
 **36** Esaú prosseguiu: com razão lhe foi posto o nome de Jacob, porque pela segunda vez me suplantou: Primeiro, tirou-me o direito da primogenitura, e, agora, novamente me roubou a minha bênção. Disse de novo ao pai: Porventura não reservaste uma bênção também para mim?  
@@ -949,7 +949,7 @@
 **28** Determina tu a recompensa que deverei dar-te.  
 **29** Mas ele respondeu: Tu sabes de que modo te servi, e quanto os teus bens aumentaram nas minhas mãos.  
 **30** Tinhas pouco, antes que eu viesse para ti, e agora tornaste-te rico; o Senhor te abençoou com a minha vinda. É, pois, justo que eu pense também agora (em estabelecer) a minha casa.  
-**31** Labão disse-lhe: Que te hei-de eu dar? Respondeu- lhe Jacob: Não quero nada (em dinheiro); mas, se fizeres o que vou pedir-te, continuarei a apascentar e a guardar os teus rebanhos.  
+**31** Labão disse-lhe: Que te hei-de eu dar? Respondeu-lhe Jacob: Não quero nada (em dinheiro); mas, se fizeres o que vou pedir-te, continuarei a apascentar e a guardar os teus rebanhos.  
 **32** Passarei, hoje, pelo meio de todos os teus rebanhos, e porei à parte todas as ovelhas negras ou de diversas cores e de pelo malhado; tudo o que for negro, malhado e vário, tanto entre as ovelhas como entre as cabras, será a minha recompensa.  
 **33** E amanhã me dará testemunho a minha justiça, quando chegar o tempo combinado entre nós; tudo o que não for de cores variegadas, malhado ou negro, tanto entre as ovelhas como entre as cabras, me arguirá de furto.  
 **34** Labão disse: agrada-me o que pedes.  
@@ -1070,7 +1070,7 @@
 **10** Jacob disse: Não procedas assim, te peço, mas, se achei graça diante de teus olhos, recebe das minhas mãos esta pequena dádiva, porque eu vi a tua face, como se visse o rosto de Deus: sê-me propício,  
 **11** e aceita a bênção que eu te trouxe e que Deus me deu, o qual dá todas as coisas. Forçado pelo irmão, Esaú aceitou com dificuldade  
 **12** e disse: Caminhemos juntamente, e eu serei companheiro na tua viagem.  
-**13** Jacob respondeu: Tu vês. meu senhor, que tenho comigo meninos tenros, ovelhas e vacas prenhes: se eu as cansar, fazendo-as andar mais, morrerão num dia todos os rebanhos.  
+**13** Jacob respondeu: Tu vês, meu senhor, que tenho comigo meninos tenros, ovelhas e vacas prenhes: se eu as cansar, fazendo-as andar mais, morrerão num dia todos os rebanhos.  
 **14** Vá o meu senhor adiante do seu servo: eu seguirei pouco a pouco os seus passos, como vir que os meus meninos podem, até chegar à casa de meu Senhor em Seir.  
 **15** Esaú respondeu: Peço-te que, do povo que está comigo, fique ao menos quem te acompanhe na viagem. Jacob respondeu: Não é necessário: de uma única coisa necessito, meu senhor, que é achar graça em tua presença.  
 **16** Voltou, portanto, Esaú naquele dia para Seir pelo caminho por onde tinha vindo.  
@@ -1496,7 +1496,7 @@
 **1** José não se podia conter mais diante dos muitos circunstantes, pelo que ordenou que todos saíssem, e, nenhum estranho assistisse ao reconhecimento mútuo.  
 **2** José levantou a voz tão alto chorando, que a ouviram o Egípcios e toda a casa de Faraó.  
 **3** Disse a seus irmãos: Eu sou José; vive ainda meu pai? Não podiam responder-lhe seus irmãos, possuídos dum excessivo terror.  
-**4** Ele, porém, com benignidade. disse-lhes: Aproximai-vos de mim. E, tendo-se eles aproximado, disse: Eu sou José, vosso irmão, a quem vós vendestes para o Egipto.  
+**4** Ele, porém, com benignidade, disse-lhes: Aproximai-vos de mim. E, tendo-se eles aproximado, disse: Eu sou José, vosso irmão, a quem vós vendestes para o Egipto.  
 **5** Não temais, nem vos pareça ser coisa dura o terdes-me vendido para este país, porque para vossa salvação me mandou Deus adiante de vós para o Egipto.  
 **6** Portanto há dois anos que principiou a haver fome neste país, e ainda restam cinco anos, nos quais nem se poderá lavrar, nem ceifar.  
 **7** Deus enviou-me adiante para que sejais conservados sobre a terra, e possais ter alimento para viver.  

@@ -137,16 +137,16 @@
 **57** Obras do Senhor, bem-dizei todas o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **58** Anjos do Senhor, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **59** Céus, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
-**60** Águas que estais por cima dos céus, bem-dizei todas o Senhor. louvai-o e exaltai-o por todos os séculos.  
+**60** Águas que estais por cima dos céus, bem-dizei todas o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **61** Forças do Senhor, bem-dizei todas o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **62** Sol e lua, bem-dizei o Senhor.louvai-o e exaltai-o por todos os séculos.  
 **63** Astros do céu, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
-**64** Chuvas e orvalhos- bem-dizei todos o Senhor, louvai-o e exaltai-o por todos os séculos.  
+**64** Chuvas e orvalhos, bem-dizei todos o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **65** Ventos, bem-dizei todos o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **66** Fogos e calores, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **67** Frios e ardor, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **68** Orvalhos e geadas, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
-**69** Gelos e frialdade, bem:dizei o Senhor. louvai-o e exaltai-o por todos os séculos.  
+**69** Gelos e frialdade, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **70** Gelos e neves, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **71** Noites e dias, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **72** Luz e trevas, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
@@ -195,7 +195,7 @@
 **12** Deixai todavia na terra o toco com as suas raízes; seja ele atado com cadeias de ferro e de bronze entre as ervas dos campos, seja molhado com o orvalho do céu e tenha, com os animais, parte na erva da terra.  
 **13** O seu coração não seja mais um coração de homem, dê-se-lhe um coração de animal, e passem (permanecendo ele neste estado) sete tempos por cima dele.  
 **14** Por sentença dos (anjos) vigilantes assim foi decretado, esta decisão é uma ordem dos santos, para que conheçam os viventes que o Altíssimo tem o domínio sobre a realeza dos homens, que a dá a quem quer e eleva a ela (se quiser) o mais humilde dos homens.  
-**15** Eis o sonho que eu. rei Nabucodonosor, tive. Tu, Baltasar, interpreta-mo, porque nenhum dos sábios do meu reino me pode dizer o que significa; tu, porém, podes, porque o espírito dos deuses santos está em ti.  
+**15** Eis o sonho que eu, rei Nabucodonosor, tive. Tu, Baltasar, interpreta-mo, porque nenhum dos sábios do meu reino me pode dizer o que significa; tu, porém, podes, porque o espírito dos deuses santos está em ti.  
 **16** Então Daniel, por outro nome Baltasar, ficou, de momento embaraçado, e os seus pensamentos perturbavam-no. Mas o rei, tomando a palavra, disse-lhe: Baltasar, não te turbe o sonho, nem a sua interpretação. Baltasar respondeu-lhe: Meu senhor, (oxalá que) o sonho seja contra os que te têm ódio, e a sua interpretação contra os teus inimigos.  
 **17** A árvore que tu viste alta e robusta, que chegava até ao céu e se via de toda a terra,  
 **18** (essa árvore) de folhagem formosa e frutos abundantes, na qual todos achavam com que se sustentar, a cuja sombra os animais do campo se acolhiam e em cujos ramos as aves do céu pousavam,  
@@ -233,13 +233,13 @@
 **13** Daniel, então, foi apresentado diante do rei. O rei disse-lhe: És tu Daniel, um dos cativos dos filhos de Judá que o rei, meu pai, trouxe da Judeia?  
 **14** Ouvi dizer de ti que tens o espírito dos deuses, e que em ti se encontram, em grau superior, luz, inteligência e sabedoria.  
 **15** Ainda agora vieram à minha presença os sábios e os magos, para lerem esta escritura e me darem a interpretação dela, mas não puderam decifrar o sentido daquelas palavras.  
-**16** Porém de ti ouvi dizer que podes interpretar as coisas obscuras e resolver as intrincadas; se fores capaz, portanto, de ler esta escritura e de me dar a sua interpretação, serás vestido de púrpura. trarás um colar de ouro ao teu pescoço, e serás o terceiro no meu reino.  
+**16** Porém de ti ouvi dizer que podes interpretar as coisas obscuras e resolver as intrincadas; se fores capaz, portanto, de ler esta escritura e de me dar a sua interpretação, serás vestido de púrpura, trarás um colar de ouro ao teu pescoço, e serás o terceiro no meu reino.  
 **17** Daniel, respondendo a isto, disse em presença do rei: As tuas dádivas sejam para ti, e dá os teus presentes a outro! Todavia vou-te ler, ó rei, esta escritura, e dar-te a sua significação.  
 **18** O Deus altíssimo, ó rei, deu a Nabucodonosor, teu pai, o reino e a grandeza, a glória e a majestade.  
 **19** Por causa do grande poder que lhe tinha dado, todos os povos, nações e línguas temiam e tremiam diante dele: aos que queria, matava; aos que queria, deixava viver; aos que queria, exaltava; e aos que queria, humilhava.  
 **20** Porém, depois que o seu coração se elevou, e o seu espírito se endureceu até à arrogância, foi deposto do trono da sua realeza, e foi-lhe tirada a sua glória.  
 **21** Foi expulso do meio dos filhos dos homens, o seu coração ficou semelhante ao dos brutos, e a sua habitação era com os asnos selvagens; comia erva como os bois, e o seu corpo foi molhado com o orvalho do céu, até que reconheceu que o Altíssimo tem um poder soberano sobre a realeza dos homens, e que eleva a ela quem lhe apraz.  
-**22** E tu, Baltasar. que és seu filho, não humilhaste o teu coração, apesar de saberes todas estas coisas;  
+**22** E tu, Baltasar, que és seu filho, não humilhaste o teu coração, apesar de saberes todas estas coisas;  
 **23** antes, pelo contrário, te elevaste contra o Senhor do céu, fizeste vir para diante de ti os vasos da sua casa, e bebeste por eles vinho, tu, com os teus grandes, as tuas mulheres e as tuas concubinas; ao mesmo tempo louvaste os deuses de prata e de ouro, de bronze, de ferro, de pau e pedra, que não vêem, nem ouvem, nem entendem, e não deste glória ao Deus, que tem na sua mão o teu sopro (vital) e todos os teus caminhos  
 **24** Por isso é que ele mandou os dedos daquela mão que escreveu o que está traçado (na parede).  
 **25** Eis o significado do que ali está escrito: Mene, Mene, Tequel, Farsin.  
@@ -319,7 +319,7 @@
 **3** Levantei os meus olhos para olhar, e eis que vi, em pé diante da ribeira, um carneiro, que tinha duas hastes elevadas; uma era mais alta do que a outra, mas cresceu depois dela.  
 **4** Vi que o carneiro dava marradas contra o ocidente, contra o aquilão e contra o meio-dia e nenhuma besta lhe podia resistir, ninguém podia livrar-se do seu poder; fazia quanto queria e tornava-se poderoso.  
 **5** Estava eu considerando isto e eis que um bode vinha do ocidente sobre a face de toda a terra, e (tão ràpidamente que) não tocava na terra; este bode tinha uma grande haste entre os seus olhos.  
-**6** Dirigiu-se contra aquele carneiro que tinha hastes, o qual eu tinha visto em pé. diante da ribeira, e correu para ele com todo o ímpeto da sua força.  
+**6** Dirigiu-se contra aquele carneiro que tinha hastes, o qual eu tinha visto em pé, diante da ribeira, e correu para ele com todo o ímpeto da sua força.  
 **7** Vi-o chegar perto do carneiro: atacou-o com fúria, feriu-o e quebrou-lhe as duas hastes, sem que o carneiro lhe pudesse resistir; tendo-o lançado por terra, pisou-o aos pés, e não houve quem pudesse livrar o carneiro do seu poder.  
 **8** Ora o bode tornou-se extraordinàriamente grande; mas, quando se fez forte, quebrou-se o sua grande haste, e formaram-se em lugar dela quatro hastes para os quatro ventos do céu.  
 **9** Porém, duma destas saiu uma haste pequena, que se tornou grande para o meio-dia, para o oriente e para a terra esplêndida (de Israel).  
@@ -427,7 +427,7 @@
 **27** Os dois reis sòmente pensarão em fazer o mal um ao outro, e, sentados à mesma mesa, dirão palavras de mentira, mas nenhum conseguirá os seus intentos, porque o prazo (marcado por Deus) é para outro tempo.  
 **28** Voltará para o seu pais com muitas riquezas; o seu coração será hostil à santa aliança (do Senhor), fará (muitos males), e, depois, voltará para o seu pais.  
 **29** No tempo determinado, tornará a vir para o Meio-dia, mas esta última expedição não será semelhante à primeira,  
-**30** Os navios de Kittim virão contra ele, que ficará desanimado; voltará e conceberá uma grande indignação contra a aliança santa, empreenderá muitas coisas contra ela. fazendo acordo com os que a tinham abandonado.  
+**30** Os navios de Kittim virão contra ele, que ficará desanimado; voltará e conceberá uma grande indignação contra a aliança santa, empreenderá muitas coisas contra ela, fazendo acordo com os que a tinham abandonado.  
 **31** Virão tropas, às suas ordens, profanar o santuário, a fortaleza, farão cessar o sacrifício perpétuo e porão no templo a abominação da desolação.  
 **32** Perverterá os violadores da aliança, mas o povo, que conhece o seu Deus, perseverará constante e procederá (segundo a lei).  
 **33** Os que forem doutos entre o povo, ensinarão a muitos, mas cairão vítimas da espada, da chama, do cativeiro e da pilhagem, durante um certo tempo.  
