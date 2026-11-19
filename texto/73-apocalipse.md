@@ -2,7 +2,7 @@
 
 ## Capítulo 1
 
-**1** Revelação de Jesus Cristo, que, para descobrir aos seus servos as coisas que em breve devem acontecer. Deus lhe fez. Ele (Jesus) a comunicou, por meio do seu anjo, ao seu servo João.  
+**1** Revelação de Jesus Cristo, que, para descobrir aos seus servos as coisas que em breve devem acontecer. Deus lhe fez. Ele (Jesus) a comunicou, por meio do seu anjo, ao seu servo João,  
 **2** o qual atesta ser palavra de Deus e testemunho de Jesus Cristo tudo o que viu.  
 **3** Bem-aventurado aquele que lê e aquele que ouve as palavras desta profecia, e observa as coisas que nela estão escritas, porque o tempo (da sua realização) está próximo.  
 **4** João às sete Igrejas que há na Ásia; Graça a vós e paz, da parte daquele que é, que era e que vem, da parte dos sete espíritos que estão diante do seu trono,  
@@ -464,7 +464,7 @@
 **13** Eu sou o Alfa e o Ómega, o primeiro e o último, o princípio e o fim.  
 **14** Bem-aventurados aqueles que lavam as suas vestes (no sangue do Cordeiro) para terem direito à árvore de vida e entrarem na cidade pelas portas.  
 **15** (Ficam) fora os cães, os feiticeiros, os impudicos, os homicidas, os idólatras e todo o que ama e pratica a mentira."  
-**16** "Eu, Jesus,enviei o meu anjo, para vos atestar estas coisas a respeito das Igrejas. Eu sou a raiz e a geração de David, a estrela resplandecente da manhã."  
+**16** "Eu, Jesus, enviei o meu anjo, para vos atestar estas coisas a respeito das Igrejas. Eu sou a raiz e a geração de David, a estrela resplandecente da manhã."  
 **17** E o Espírito (Santo) e a Esposa dizem: "Vem! E o que ouve, diga; "Vem!" E o que tem sede, venha; e o que quer, receba de graça a água da vida.  
 **18** Eu declaro a todos os que ouvem as palavras da profecia deste livro: se alguém lhes juntar (alguma coisa), Deus carregará sobre ele as pragas escritas neste livro.  
 **19** Se alguém tirar qualquer coisa das palavras da profecia deste livro. Deus lhe tirará a sua parte da árvore da vida e da cidade santa, que estão descritas neste livro.  

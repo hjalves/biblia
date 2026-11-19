@@ -20,7 +20,7 @@
 **16** porque está escrito: Sereis santos, porque eu sou santo (Lv. 11, 44).  
 **17** E, se invocais como pai aquele que sem aceção de pessoas julga segundo as obras de cada um, vivei em temor durante o tempo da vossa peregrinação (sobre a terra),  
 **18** sabendo que fostes resgastados da nossa vã maneira de viver recebida de vossos pais, não a preço de coisas corruptíveis, de prata ou de ouro,  
-**19** mas pelo precioso sangue de Cristo, o cordeiro sem defeito e sem mancha.  
+**19** mas pelo precioso sangue de Cristo, o cordeiro sem defeito e sem mancha,  
 **20** designado (por Deus para nosso Salvador) antes da criação do mundo, e manifestado nos últimos tempos por amor de vós.  
 **21** Por ele tendes fé em Deus, o qual o ressuscitou dos mortos e o glorificou, de maneira que a vossa fé e a vossa esperança estejam em Deus.  
 **22** Purificando as vossas almas na obediência à verdade, para vos amardes como irmãos. Do intimo do coração amai-vos, pois, intensamente uns aos outros,  

@@ -22,7 +22,7 @@
 **18** e ordenou que o ensinassem aos filhos de Judá. É o Cântico do Arco, e está escrito no livro do Justo:  
 **19** A tua glória, Israel, pereceu sobre os teus montes. Como caíram os heróis?  
 **20** Não o noticies em Get, nem o publiqueis nas ruas de Ascalon, para que não se alegrem as filhas dos Filisteus, não exultem as filhas dos incircuncidados.  
-**21** ó montes de Gelboé, nem orvalho, nem chuva caiam sobre vós; nem haja campos de (que oferecer) primícias, porque lá foi lançado por terra o escudo dos fortes, o escudo de Saul, como se não tivesse sido ungido com óleo.  
+**21** Ó montes de Gelboé, nem orvalho, nem chuva caiam sobre vós; nem haja campos de (que oferecer) primícias, porque lá foi lançado por terra o escudo dos fortes, o escudo de Saul, como se não tivesse sido ungido com óleo.  
 **22** Sem sangue de mortos, sem gordura de fortes, o arco de Jónatas nunca voltou para trás, e a espada de Saul nunca se retirou em vão.  
 **23** Saul e Jónatas, amáveis e belos na sua vida, também na morte se não separaram. Eram mais ligeiros do que as águias, mais valentes do que os leões.  
 **24** Filhas de Israel, chorai sobre Saul, que vos vestia de púrpura entre as delícias, e que vos dava os ornamentos de ouro para vosso enfeite.  
@@ -324,7 +324,7 @@
 **23** Mas agora que ele morreu, por que hei-de jejuar? Porventura posso eu fazê-lo ainda viver? Eu Irei para junto dele, mas ele não voltará mais para junto de mim.  
 **24** Depois Davide consolou sua mulher Betsabé, foi dormir com ela, e ela gerou um filho, a que pôs o nome de Salomão. O Senhor o amou,  
 **25** e enviou o profeta Natan, o qual deu ao menino o nome de Amável ao Senhor, porque o Senhor o amava.  
-**26** Entretanto Joab continuava a combater contra Raba dos Amonitas, e tomou a cidade real.  
+**26** Entretanto Joab continuava a combater contra Raba dos Amonitas, e tomou a cidade real,  
 **27** e Joab enviou mensageiros a Davide, dizendo: Tenho combatido contra Raba, e a cidade das Águas está tomada.  
 **28** Agora, junta o resto do povo, vem ao sítio da cidade e toma-a, para não suceder que, tendo eu destruído a cidade, se atribua ao meu nome a vitória.  
 **29** Juntou Davide todo o povo, marchou contra Raba e, depois de ter combatido, a tomou.  
@@ -534,7 +534,7 @@
 **23** (Aquimaas) respondeu: Seja o que for, eu correrei. Joab disse-lhe: Corre. Correndo, pois, Aquimaas por um atalho, passou adiante do cusita.  
 **24** Davide estava sentado entre as duas portas. A sentinela que estava por cima da porta, sobre a muralha, levantando os olhos, viu vir um homem correndo sozinho e gritou para advertir o rei. O rei respondeu: Se vem só, traz alguma boa nova. Entretanto, apressando-se ele e estando já próximo,  
 **25** .  
-**26** a sentinela descobriu outro homem que corria, e, gritando de cima, disse: Eu vejo lá vir correndo outro homem só. O rei disse: Também este traz alguma boa nova.  
+**26** A sentinela descobriu outro homem que corria, e, gritando de cima, disse: Eu vejo lá vir correndo outro homem só. O rei disse: Também este traz alguma boa nova.  
 **27** A sentinela disse: Observo que o modo de correr do primeiro me parece ser o correr de Aquimaas, filho de Sadoc. O rei disse: É um homem de bem, e vem (certamente) trazer boas novas.  
 **28** Aquimaas, gritando, disse ao rei: Vitória! E, prostrado em terra, diante do rei, e fazendo-lhe uma profunda reverência; disse: Bem-dito seja o Senhor, teu Deus, que destroçou os homens que se tinham sublevado contra o rei, meu senhor.  
 **29** O rei disse: Está vivo o meu filho Absalão? Aquimaas respondeu-lhe: Quando o teu servo Joab me enviou a ti, que (também) sou teu servo, ó rei, eu vi um grande tumulto; não sei mais nada.  

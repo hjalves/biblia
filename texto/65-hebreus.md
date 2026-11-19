@@ -146,7 +146,7 @@
 **23** Demais, entre aqueles foram feitos sacerdotes em grande número, porque a morte não lhes permitia durar (sempre)  
 **24** mas este, porque permanece para sempre, tem um sacerdócio que não passa.  
 **25** Por isso pode salvar perpetuamente os que por ele mesmo se aproximam de Deus, vivendo sempre para interceder em seu favor.  
-**26** Porque convinha que tivéssemos um tal pontífice, santo, inocente, imaculado, segregado dos pecadores e elevado acima dos céus.  
+**26** Porque convinha que tivéssemos um tal pontífice, santo, inocente, imaculado, segregado dos pecadores e elevado acima dos céus,  
 **27** que não tem necessidade, com os (outros) sumos sacerdotes, de oferecer todos os dias sacrifícios, primeiramente pelos seus pecados, depois pelos do povo; fez isto, uma só vez por todas, oferecendo-se a si mesmo.  
 **28** Porquanto a lei constituiu sumos sacerdotes a homens sujeitos à fraqueza, mas a palavra do juramento, que é posterior à lei, constitui (pontífice) o Filho (de Deus, que é) perfeito eternamente.  
 

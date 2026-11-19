@@ -280,7 +280,7 @@
 **2** Lembra-te (lhe disse) dos dias da tua humilhação, de como foste criada pela minha mão. Aman, que é o segundo depois do rei, tem falado contra nós para nos fazer morrer;  
 **3** tu, pois, invoca o Senhor e fala por nós ao rei; livra-nos da morte. (E também encontrei o que se segue:)  
 **4** No dia terceiro, (Ester) depôs os vestidos que trazia e adornou-se com os da sua glória.  
-**5** Brilhando neste traje real e invocando a Deus, que é governador e salvador de todos, tomou duas das suas criadas.  
+**5** Brilhando neste traje real e invocando a Deus, que é governador e salvador de todos, tomou duas das suas criadas,  
 **6** la-se apoiando sobre uma delas, como se, por debilidade, não pudesse suster o seu corpo delicado.  
 **7** A outra criada ia atrás da sua senhora, segurando a extremidade das suas longas vestes.  
 **8** (Ester) com a cor de rosa em seu rosto e com os olhos graciosos e brilhantes, ocultava a tristeza do seu coração, penetrado de um vivo temor.  

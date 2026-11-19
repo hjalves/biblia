@@ -14,7 +14,7 @@
 **10** Portanto, irmãos, ponde cada vez maior cuidado em tornardes certa a vossa vocação e eleição (por meio das boas obras). Fazendo isto, não pecareis jamais.  
 **11** Deste modo vos será concedida largamente a entrada no reino eterno de Nosso Senhor e Salvador Jesus Cristo.  
 **12** Pelo que não cessarei de vos admoestar sempre sobre estas coisas, embora estejais instruídos e confirmados na presente verdade.  
-**13** Sim, considero meu dever, enquanto estou neste tabernáculo, (do meu corpo), despertar-vos com admoestações.  
+**13** Sim, considero meu dever, enquanto estou neste tabernáculo, (do meu corpo), despertar-vos com admoestações,  
 **14** sabendo que, dentro em breve, deixarei o meu tabernáculo, segundo o que me deu a entender Nosso Senhor Jesus Cristo.  
 **15** Mas terei cuidado de que, mesmo depois da minha morte, possais, em qualquer ocasião, recordar estas coisas.  
 **16** Efetivamente, não foi seguindo fábulas engenhosas que vos fizemos conhecer o poder e a vinda (no fim do mundo) de Nosso Senhor Jesus Cristo, mas foi depois de termos sido espetadores da sua grandeza.  

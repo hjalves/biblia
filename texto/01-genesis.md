@@ -493,7 +493,7 @@
 **14** Há porventura alguma coisa (que seja) difícil a Deus? Voltarei a ti, segundo a promessa feita, neste mesmo tempo no próximo ano, e Sara terá um filho.  
 **15** Sara (cheia de medo) negou, dizendo: eu não me ri. Mas o Senhor disse: não é assim; tu riste-te.  
 **16** Tendo-se, pois, levantado dali aqueles homens, dirigiram-se para Sodoma; Abraão ia com eles, acompanhando-os.  
-**17** Senhor disse: acaso poderei eu ocultar a Abraão o que estou para fazer.  
+**17** Senhor disse: acaso poderei eu ocultar a Abraão o que estou para fazer,  
 **18** havendo de ser, como será, pai duma nação numerosíssima e poderosíssima, e havendo todas as nações da terra de ser benditas nele?  
 **19** Escolhi-o, com efeito, para ordenar a seus filhos e à sua casa, depois dele, que guardem os caminhos do Senhor e que pratiquem a equidade e a justiça, para que o Senhor cumpra a favor de Abraão tudo o que lhe prometeu.  
 **20** Disse, pois, o Senhor; o clamor de Sodoma e de Gomorra aumentou, e o seu pecado agravou-se extraordinariamente.  
@@ -536,7 +536,7 @@
 **21** E o Senhor disse-lhe: ainda nisto eu ouvi os teus rogos, para não destruir a cidade a favor da qual me falaste.  
 **22** Apressa-te e salva-te lá, porque não poderei fazer nada, enquanto tu lá não tiveres entrado. Por isso puseram àquela cidade o nome de Segor.  
 **23** O sol levantava-se sobre a terra, quando Loth entrou em Segor.  
-**24** Fez, pois, o Senhor da parte do Senhor chover sobre Sodoma e Gomorra enxofre e fogo (vindo) do céu.  
+**24** Fez, pois, o Senhor da parte do Senhor chover sobre Sodoma e Gomorra enxofre e fogo (vindo) do céu,  
 **25** e destruiu estas cidades, todo o país em roda, todos os habitantes das cidades e toda a verdura da terra.  
 **26** A mulher de Loth, tendo olhado para trás, ficou convertida numa estátua de sal.  
 **27** Ora Abraão, tendo-se levantado de manhã, foi ao lugar onde antes tinha estado com o Senhor,  
@@ -743,7 +743,7 @@
 **9** Isaac e Ismael, seus filhos, sepultaram-no na dupla caverna que está situada no campo de Efron, filho de Seor Heteu, defronte de Mambré,  
 **10** o qual (campo Abraão) tinha comprado aos filhos de Heth; aí foi sepultado com Sara, sua mulher.  
 **11** E, depois da sua morte. Deus abençoou Isaac, seu filho, o qual habitava junto do poço chamado (poço) do que vive e do que vê.  
-**12** Descendência de Ismael.  
+**12** Descendência de Ismael,  
 **13** e estes são os nomes de seus filhos, segundo os seus nomes, e nas suas gerações. O primogénito de Ismael foi Nabajoth; depois (nasceram) Cedar, Abdeel, Mabsam,  
 **14** Masma, Duma, Massa,  
 **15** Hadar, Temia, Jetur, Nafis e Cedma.  
@@ -753,7 +753,7 @@
 **19** Esta é a descendência de Isaac, filho de Abraão: Abraão gerou Isaac,  
 **20** o qual, tendo quarenta anos, se casou com Rebeca, filha de Batuel Siro, da Mesopotâmia, irmã de Labão.  
 **21** Isaac orou ao Senhor por sua mulher, porque ela era estéril, e ele o ouviu, e permitiu que Rebeca concebesse.  
-**22** Mas as crianças lutavam no seu ventre, e ela disse: Se assim me havia de acontecer, que necessidade havia de que eu concebesse? Foi consultar o Senhor.  
+**22** Mas as crianças lutavam no seu ventre, e ela disse: Se assim me havia de acontecer, que necessidade havia de que eu concebesse? Foi consultar o Senhor,  
 **23** o qual lhe disse: Duas nações estão no teu ventre, dois povos (ao sair) do teu ventre se dividirão, e um povo vencerá o outro, e o mais velho servirá ao mais novo.  
 **24** Quando chegou o tempo de dar à luz, foram achados dois gémeos no seu ventre.  
 **25** O que saiu primeiro era ruivo e todo peludo, como uma pelica: e foi-lhe posto o nome de Esaú. Imediatamente saiu o outro, que agarrava com a mão o pé de Esaú, e por isso ela o chamou Jacob.  
@@ -1025,7 +1025,7 @@
 
 **1** Jacob prosseguiu o caminho que levava, e saíram-lhe ao encontro uns anjos de Deus.  
 **2** Tendo-os visto disse: Estes são os acampamentos de Deus; por isso, deu àquele lugar o nome de Maanaim, isto é, acampamentos.  
-**3** Jacob mandou mensageiros adiante de si a Esaú, seu irmão, à terra de Seir, na região de Edom.  
+**3** Jacob mandou mensageiros adiante de si a Esaú, seu irmão, à terra de Seir, na região de Edom,  
 **4** e ordenou-lhes: Falai assim a Esaú, meu senhor; Jacob, teu irmão, disse isto: Morei com Labão como estrangeiro, e (com ele) estive até ao dia de hoje.  
 **5** Tenho bois, jumentos, ovelhas, servos e servas, e mando agora uma embaixada ao meu senhor, para achar graça diante dele.  
 **6** Os mensageiros voltaram a Jacob e disseram: Fomos ter com teu irmão Esaú, e eis que vem a toda a pressa encontrar-se contigo com quatrocentos homens.  
@@ -1086,7 +1086,7 @@
 **3** A sua alma se prendeu a ela, e, vendo-a triste, a acariciou com meiguices.  
 **4** E, indo ter com seu pai Hemor, disse: Toma esta donzela para minha mulher.  
 **5** Jacob, tendo ouvido isto enquanto os filhos estavam ausentes e ocupados em apascentar os gados, não disse nada enquanto não voltaram.  
-**6** Mas, tendo Hemor, pai de Siquem, ido falar a Jacob.  
+**6** Mas, tendo Hemor, pai de Siquem, ido falar a Jacob,  
 **7** os filhos deste vinham do campo, e, tendo sabido o que acontecera, iraram-se muito, porque (Siquem) tinha feito uma ação vergonhosa contra Israel, violando a filha de Jacob, coisa que se não devia fazer.  
 **8** Hemor falou-lhes assim: A alma de meu filho Siquem afeiçoou-se fortemente à vossa filha: dai-lha por mulher,  
 **9** e façamos matrimónios reciprocamente: dai-nos as vossas filhas, recebei as nossas,  
@@ -1108,7 +1108,7 @@
 **25** Ao terceiro dia, quando a dor das feridas é mais violenta, os dois filhos de Jacob, Simeão e Levi, irmãos de Dina, empunhadas as espadas, entraram resolutamente na cidade, e, mortos todos os varões,  
 **26** trucidaram igualmente Hemor e Siquem, tirando sua irmã Dina da casa de Siquem.  
 **27** Tendo estes saído, os outros filhos de Jacob caíram impetuosamente sobre os mortos, e saquearam a cidade, por haver sido desonrada a irmã.  
-**28** Tomaram as ovelhas, os rebanhos, os jumentos, devastaram tudo o que havia nas casas e nos campos.  
+**28** Tomaram as ovelhas, os rebanhos, os jumentos, devastaram tudo o que havia nas casas e nos campos,  
 **29** e levaram cativos os (seus) filhos e (as suas) mulheres.  
 **30** Praticado isto com tanta audácia, disse Jacob a Simeão e Levi: Vós me afligistes e me tornastes odioso aos Cananeus e aos Fereseus, habitantes deste país. Somos poucos. Eles, congregados, me acometerão, e serei destruído eu e a minha casa.  
 **31** Eles responderam: Porventura deviam eles abusar da nossa irmã, como uma prostituta?  
@@ -1347,7 +1347,7 @@
 **27** As sete vacas magras e macilentas, que subiram (do rio) após as primeiras, e as sete espigas delgadas e queimadas do vento, são sete anos de fome que estão para vir.  
 **28** Isto cumprir-se-á por esta ordem:  
 **29** virão sete anos de grande fertilidade por toda a terra do Egito,  
-**30** depois dos quais se seguirão outros sete anos de tanta esterilidade que será esquecida toda a abundância passada; com efeito, a fome há-de consumir toda a terra.  
+**30** depois dos quais se seguirão outros sete anos de tanta esterilidade que será esquecida toda a abundância passada; com efeito, a fome há-de consumir toda a terra,  
 **31** e a grandeza da penúria há-de absorver a grandeza da abundância.  
 **32** Quanto ao segundo sonho que tivestes, que se refere à mesma coisa, é um sinal certo de que se há-de executar a palavra de Deus, e prontamente se cumprirá.  
 **33** Agora, pois, escolha, o rei um homem sábio e ativo, a quem dê autoridade sobre a terra do Egito:  

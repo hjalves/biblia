@@ -91,7 +91,7 @@
 **8** Se, porventura, alguém não tem cuidado dos seus, e principalmente dos da sua casa, negou a fé e é pior que um infiel.  
 **9** Somente seja inscrita no grupo das viúvas (para o serviço da Igreja) uma mulher com sessenta anos, casada uma só vez,  
 **10** que tenha reputação de boas obras, que tenha educado bem os filhos, praticado a hospitalidade, lavado os pés dos santos, acudido aos atribulados, realizado toda a obra boa.  
-**11** Não admitas viúvas jovens, porque, quando os seus desejos as afastam de Cristo (seu esposo), querem voltar a casar-se.  
+**11** Não admitas viúvas jovens, porque, quando os seus desejos as afastam de Cristo (seu esposo), querem voltar a casar-se,  
 **12** e tornam-se culpadas faltando ao seu primeiro compromisso.  
 **13** Além disto, vivendo na ociosidade, acostumam-se a andar de casa em casa; não somente são ociosas, mas também chocarreiras e curiosas, falando sobre o que não convém.  
 **14** (Antes) quero pois que as jovens viúvas (que não têm virtude para viver na continência) se casem, criem filhos, sejam (boas) mães de família, não deem ocasião ao adversário de dizer mal.  
@@ -125,7 +125,7 @@
 **14** que observes este mandamento, (conservando-te) sem mácula, irrepreensível, até à vinda de Nosso Senhor Jesus Cristo,  
 **15** que mostrará, a seu tempo, o bem-aventurado e o único poderoso, o Rei dos reis e Senhor dos senhores,  
 **16** o único que possui a imortalidade, que habita numa luz inacessível, que não foi nem pode ser visto por nenhum homem. A ele, honra e império sempiterno! Amém.  
-**17** Manda aos ricos deste mundo que não sejam altivos, nem confiem na incerteza das riquezas, mas em Deus, o qual nos dá abundantemente todas as coisas para nosso uso.  
+**17** Manda aos ricos deste mundo que não sejam altivos, nem confiem na incerteza das riquezas, mas em Deus, o qual nos dá abundantemente todas as coisas para nosso uso,  
 **18** que façam bem, que se tornem ricos em boas obras, que sejam generosos, que repartam,  
 **19** que juntem (assim) para si um sólido tesouro para o futuro, a fim de alcançarem a verdadeira vida.  
 **20** Ó Timóteo, guarda o depósito (da fé), evitando as disputas vãs e ímpias e as contradições de uma ciência de falso nome,  

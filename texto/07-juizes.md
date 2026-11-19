@@ -600,7 +600,7 @@
 **26** A mulher, ao amanhecer, foi à porta da casa, onde estava o seu senhor, e lá caiu por terra.  
 **27** Chegada a manhã, levantou-se o marido e, ao abrir a porta para continuar a viagem começada, viu que sua mulher jazia (morta) diante da porta, com as mãos estendidas sobre a soleira.  
 **28** Ele, julgando que ela estava morta, tomou-a, pô-la sobre o jumento e voltou para sua casa.  
-**29** Logo que entrou, tomou um cutelo, dividiu o cadáver de sua mulher, membro por membro, em doze partes,e enviou-as por todos os confins de Israel.  
+**29** Logo que entrou, tomou um cutelo, dividiu o cadáver de sua mulher, membro por membro, em doze partes, e enviou-as por todos os confins de Israel.  
 **30** Quando tal viram, exclamavam: Nunca tal coisa se fez em Israel, desde o dia em que os nossos pais saíram do Egito até hoje; pronunciai uma sentença e resolvei de comum acordo o que se deve fazer.  
 
 ## Capítulo 20

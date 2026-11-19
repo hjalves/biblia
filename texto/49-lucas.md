@@ -140,7 +140,7 @@
 
 ## Capítulo 3
 
-**1** No ano décimo quinto do império de Tibério César, sendo Pôncio Pilatos governador da Judeia, Herodes tetrarca da Galileia, Filipe, seu irmão, tetrarca da Itureia e da província da Traconítida, Lisânias tetrarca da Abilina.  
+**1** No ano décimo quinto do império de Tibério César, sendo Pôncio Pilatos governador da Judeia, Herodes tetrarca da Galileia, Filipe, seu irmão, tetrarca da Itureia e da província da Traconítida, Lisânias tetrarca da Abilina,  
 **2** sendo pontífices Anás e Caifás, o Senhor falou a João, filho de Zacarias, no deserto.  
 **3** E ele foi por toda a terra do Jordão, pregando o batismo de penitência para remissão dos pecados,  
 **4** como está escrito no livro das palavras do profeta (Is. 40, 3-5): Voz do que clama no deserto; Preparai o caminho do Senhor, endireitai as suas veredas;  
@@ -198,7 +198,7 @@
 **15** Ensinava nas sinagogas, e era aclamado por todos.  
 **16** Foi a Nazaré, onde se tinha criado, entrou na sinagoga, segundo o seu costume, em dia de sábado, e levantou-se para fazer a leitura.  
 **17** Foi-lhe dado o livro do profeta Isaías. Quando desenrolou o livro, encontrou o lugar onde estava escrito (Is. 61, 1-2; Is. 58, 6):  
-**18** O Espírito do Senhor repousou sobre mim; pelo que me ungiu para anunciar a boa nova aos pobres; me enviou a sarar os contritos do coração.  
+**18** O Espírito do Senhor repousou sobre mim; pelo que me ungiu para anunciar a boa nova aos pobres; me enviou a sarar os contritos do coração,  
 **19** a anunciar aos cativos a redenção, e aos cegos a recuperação da vista, a pôr em liberdade os oprimidos, a pregar o ano favorável do Senhor.  
 **20** Tendo enrolado o livro, deu-o ao ministro, e sentou-se. Estavam fixos nele os olhos de todos os que se encontravam na sinagoga.  
 **21** Começou a dizer-lhes: "Hoje cumpriu-se esta escritura que acabais de ouvir."  
@@ -674,7 +674,7 @@
 **9** se com isto der fruto, bem está, senão, cortá-la-ás depois."  
 **10** Jesus estava ensinando numa sinagoga em dia de sábado.  
 **11** Estava lá uma mulher possessa de um espírito que a tinha doente havia dezoito anos; andava encurvada, e não podia absolutamente levantar a cabeça.  
-**12** Jesus, vendo-a, chamou-a, e disse-lhe; "Mulher, estás livre da tua enfermidade.  
+**12** Jesus, vendo-a, chamou-a, e disse-lhe; "Mulher, estás livre da tua enfermidade,  
 **13** impôs-lhe as mãos. Imediatamente ficou direita, e glorificava a Deus.  
 **14** Mas, tomando a palavra o príncipe da sinagoga, indignado de que Jesus tivesse curado em dia de sábado, disse ao povo: "Há seis dias para trabalhar; vinde, pois, nestes, e sede curados, mas não em dia de sábado."  
 **15** O Senhor disse-lhe: "Hipócritas, qualquer de vós não solta aos sábados o seu boi ou seu jumento da manjedoura, para os levar a beber?  
@@ -931,7 +931,7 @@
 **34** Eles responderam: "Porque o Senhor tem necessidade dele."  
 **35** Levaram-no a Jesus. E, lançando sobre o jumentinho os seus mantos, fizeram-no montar em cima.  
 **36** Á sua passagem, as multidões estendiam os seus mantos no caminho.  
-**37** Quando já ia chegando à descida do monte das Oliveiras, toda a multidão dos seus discípulos começou alegremente a louvar a Deus em altas vozes por todas as maravilhas que tinham visto.  
+**37** Quando já ia chegando à descida do monte das Oliveiras, toda a multidão dos seus discípulos começou alegremente a louvar a Deus em altas vozes por todas as maravilhas que tinham visto,  
 **38** dizendo: "Bendito o rei que vem em nome do Senhor! (Ps. 117, 26). Paz no céu e gloria nas alturas!"  
 **39** Então alguns dos fariseus que se achavam entre o povo, disseram-lhe: "Mestre, repreende os teus discípulos."  
 **40** Mas ele respondeu-lhes: "Digo-vos que, se eles se calarem, clamarão as mesmas pedras."  
@@ -1183,7 +1183,7 @@
 **11** Mas estas palavras pareciam-lhes como que um delírio, e não lhes deram crédito.  
 **12** Todavia Pedro, levantando-se, correu ao sepulcro. Inclinando-se, viu só os lençóis ( por terra), e retirou-se, admirando consigo mesmo o que sucedera.  
 **13** No mesmo dia, caminhavam dois deles para uma aldeia, chamada Emaús, que estava à distância de Jerusalém sessenta estádios.  
-**14** Iam falando um com o outro sobre tudo o que se tinha passado.  
+**14** Iam falando um com o outro sobre tudo o que se tinha passado,  
 **15** discorrendo entre si, aproximou-se deles o próprio Jesus, e caminhou com eles.  
 **16** Os seus olhos, porém, estavam como que fechados, de modo que não o reconheram.  
 **17** Ele disse-lhes: "Que conversas são essas que ides tendo pelo caminho, porque estais tristes?  
@@ -1221,7 +1221,7 @@
 **49** Eu vou mandar sobre vós o que meu Pai prometeu. Entretanto permanecei na cidade, até que sejais revestidos da virtude do alto."  
 **50** Depois levou-os até cerca de Betânia, e levantando as suas mãos, os abençoou,  
 **51** Enquanto os abençoava, separou-se deles, e elevava-se ao céu.  
-**52** Eles, depois de se haverem prostrado diante dele, voltaram para Jerusalém com grande júbilo.  
+**52** Eles, depois de se haverem prostrado diante dele, voltaram para Jerusalém com grande júbilo,  
 **53** e estavam continuamente no templo, louvando a Deus.
 
 ---

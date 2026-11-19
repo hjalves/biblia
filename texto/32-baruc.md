@@ -7,7 +7,7 @@
 **3** Baruch leu as palavras deste livro aos ouvidos de Jeconias, filho de Joaquim, rei de Judá e aos ouvidos de todas as pessoas que tinham vindo ouvir ler este livro,  
 **4** aos ouvidos dos grandes, dos príncipes reais, dos anciães e de todo o povo, que habitavam em Babilónia, junto do rio Sodi,  
 **5** os quais, ouvindo-o. choravam, jejuavam e oravam na presença do Senhor,  
-**6** Juntaram dinheiro conforme as posses de cada um.  
+**6** Juntaram dinheiro conforme as posses de cada um,  
 **7** e enviaram-no a Jerusalém, a Joaquim, filho de Helcias, filho de Salom, sacerdote, assim como aos outros sacerdotes e a todas as pessoas que se achavam com ele em Jerusalém,  
 **8** Baruch tinha Já recuperado os utensílios do templo do Senhor, que haviam sido levados do templo, para os restituir à terra de Judá, a dez do mês de Sivan, utensílios de prata, que Sedecias filho de Josias, rei de Judá, mandara fazer  
 **9** depois que Nabucodonosor rei de Babilónia, aprisionou Jeconias, os príncipes, todos os grandes e o povo da terra, e os levou de Jerusalém para Babilónia.  
@@ -40,7 +40,7 @@
 **11** E agora, ó Senhor Deus de Israel, que tiraste o teu povo da terra do Egito com mão forte, com sinais e prodígios, com grande poder e braço levantado, e adquiriste para ti um renome como se está vendo neste dia,  
 **12** nós pecámos, procedemos com impiedade, fizemos mal ó Senhor nosso Deus, contra todos os teus mandamentos.  
 **13** Aparte-se de nós a tua ira, porque ficámos poucos entre as nações por onde nos dispersaste.  
-**14** Ouve, Senhor, as nossas preces, as nossas orações livra-nos por amor de ti mesmo, e faze que achemos graça diante da face daqueles que nos deportaram.  
+**14** Ouve, Senhor, as nossas preces, as nossas orações livra-nos por amor de ti mesmo, e faze que achemos graça diante da face daqueles que nos deportaram,  
 **15** para que toda a terra saiba que tu és o Senhor nosso Deus, visto que o teu nome foi dado a Israel e à sua raça.  
 **16** Olha, Senhor, para nós da tua santa casa, pensa em nós, inclina o teu ouvido e ouve-nos.  
 **17** Abre os teus olhos e vê, porque os mortos que estão no sepulcro, cujo espírito foi separado das suas entranhas, não dão honra nem justiça ao Senhor;  
@@ -48,12 +48,12 @@
 **19** Porque não é, apoiados na justiça de nossos pais e de nossos reis, que derramamos os nossos rogos diante da tua face, ó Senhor nosso Deus.  
 **20** Porque (justamente) enviaste a tua ira e o teu furor sobre nós, como o predisseste pela boca dos teus servos, os profetas, dizendo:  
 **21** Assim fala o Senhor: Abaixai o vosso ombro e servi ao rei de Babilónia, e continuareis a morar na terra que dei a vossos pais.  
-**22** Se porém não ouvirdes a voz do Senhor vosso Deus, submetendo-vos ao rei de Babilónia.  
+**22** Se porém não ouvirdes a voz do Senhor vosso Deus, submetendo-vos ao rei de Babilónia,  
 **23** tirarei das cidades de Judá e de Jerusalém toda a voz de regozijo e de alegria, o cantar do esposo e o cantar da esposa, e ficará toda a terra um deserto, sem habitantes.  
 **24** Mas não ouvimos a tua voz, servindo o rei de Babilónia; (então) cumpriste as palavras que pronunciaste pela boca de teus servos, os profetas, anunciando que seriam arrebatados do seu lugar os ossos dos nossos reis e os ossos de nossos pais.  
 **25** E eis que foram expostos ao calor do dia e ao frio da noite. E tinham morrido em meio de acerbas dores, pela fome, pela espada e pela peste.  
 **26** Reduziste esta casa sobre que tem sido invocado o teu nome, ao estado em que se encontra hoje, por causa da maldade da casa de Israel e da casa de Judá.  
-**27** Procedeste connosco ó Senhor, nosso Deus, segundo a tua bondade, conforme toda a tua grande misericórdia.  
+**27** Procedeste connosco ó Senhor, nosso Deus, segundo a tua bondade, conforme toda a tua grande misericórdia,  
 **28** como o tinhas predito por meio do teu servo Moisés, no dia em que lhe mandaste escrever a tua lei diante dos filhos de Israel,  
 **29** dizendo: Se não ouvirdes a minha voz, esta grande multidão de gente será reduzida a um pequeno número, entre as nações, por onde os dispersarei.  
 **30** Com efeito, sei que este povo me não há-de ouvir, pois é um povo de dura cerviz. Mas reentrarão em si mesmos, na terra do seu cativeiro,  
@@ -87,7 +87,7 @@
 **20** Jovens (de nova geração) viram a luz e habitaram sobre a terra, mas ignoraram o caminho da sabedoria,  
 **21** não entenderam as suas veredas; seus filhos também a não apreenderam, ficaram longe do seu caminho.  
 **22** Não foi ouvida na terra de Canaan, nem foi vista em Teman.  
-**23** Também os filhos de Agar que buscam uma prudência, que vem da terra, os negociantes de Merra e de Teman, os intérpretes de parábolas e os pesquisadores da prudência e da inteligência, não conheceram o caminho da sabedoria, não notaram as suas veredas.  
+**23** Também os filhos de Agar que buscam uma prudência, que vem da terra, os negociantes de Merra e de Teman, os intérpretes de parábolas e os pesquisadores da prudência e da inteligência, não conheceram o caminho da sabedoria, não notaram as suas veredas,  
 **24** ó Israel, quão grande é a casa de Deus, quão espaçoso o lugar da sua possessão!  
 **25** É vasto, não tem limites, é elevado e imenso.  
 **26** Ali nasceram aqueles antigos gigantes famosos, de grande estatura, dextros na guerra.  

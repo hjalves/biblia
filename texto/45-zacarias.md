@@ -126,7 +126,7 @@
 **3** Isto diz o Senhor dos exércitos: Volto para Sião, venho habitar no meio de Jerusalém; Jerusalém chamar-se-á a cidade da fidelidade, e o monte do Senhor dos exércitos monte santo.  
 **4** Isto diz o Senhor dos exércitos: Ainda nas praças de Jerusalém se verão velhos e velhas, tendo cada um na mão um cajado por causa da sua muita idade;  
 **5** os largos da cidade estarão cheios de meninos e meninas, que brincarão nas suas praças.  
-**6** Isto diz o Senhor dos exércitos: Se o que eu predigo para esse tempo parecer impossível aos olhos dos que restarem deste povo, acaso será.isso impossível a meus olhos? — diz o Senhor dos exércitos.  
+**6** Isto diz o Senhor dos exércitos: Se o que eu predigo para esse tempo parecer impossível aos olhos dos que restarem deste povo, acaso será isso impossível a meus olhos? — diz o Senhor dos exércitos.  
 **7** Assim fala o Senhor dos exércitos: Eis que vou livrar o meu povo, tirando-o da terra do oriente e da terra do ocidente.  
 **8** Eu os trarei, e eles habitarão no meio de Jerusalém; serão o meu povo, e eu serei o seu Deus na fidelidade e na justiça.  
 **9** Isto diz o Senhor dos exércitos: Confortem-se as vossas mãos, ó vós, que nestes dias ouvis estas palavras da boca dos profetas, agora que foram lançados os fundamentos da casa do 'Senhor dos exércitos, para que o templo seja reedificado.  
@@ -168,7 +168,7 @@
 ## Capítulo 10
 
 **1** Pedi ao Senhor chuvas serôdias, e o Senhor fará brilhar o relâmpago, dar-vos-á chuvas em abundância, a cada um erva no campo.  
-**2** (Como já vistes) os terafins deram respostas vãs,os adivinhos tiveram visões mentirosas; os sonhos apresentados são vãos, as consolações são consolações falsas; por isso (os vossos crédulos pais) foram levados como um rebanho, foram afligidos, porque não tinham pastor.  
+**2** (Como já vistes) os terafins deram respostas vãs, os adivinhos tiveram visões mentirosas; os sonhos apresentados são vãos, as consolações são consolações falsas; por isso (os vossos crédulos pais) foram levados como um rebanho, foram afligidos, porque não tinham pastor.  
 **3** O meu furor acende-se contra os pastores, castigarei os bodes. Sim, o Senhor dos exércitos terá cuidado do seu rebanho, da casa de Judá, e fará dela como que o seu cavalo de glória na guerra.  
 **4** De Judá sairá o ângulo, dele a estaca, dele o arco de guerra, dele todos os chefes.  
 **5** Serão como heróis que, nas refregas, pisarão aos pés o inimigo, como a lama das ruas; pelejarão valorosamente, porque o Senhor está com eles; e por eles serão confundidos os cavaleiros (dos seus adversários).  
@@ -188,7 +188,7 @@
 **4** Isto diz o Senhor meu Deus: Apascenta estas ovelhas destinadas para o matadouro,  
 **5** as quais os seus donos matam sem se compadecerem delas, cujos vendedores dizem; Bem-dito seja o Senhor, que estou rico! — sem que os seus próprios pastores tenham compaixão delas.  
 **6** Eu, pois, não perdoarei mais aos habitantes desta terra, diz o Senhor; entregarei os homens uns aos outros, e nas mãos do seu rei; arruinarão o país, e não livrarei ninguém da sua mão.  
-**7** Então pus-me a apascentar as ovelhas destinadas ao matadouro para os mercadores.Então (diz: o profeta) tomei dois cajados, a um dos quais chamei Graça, e a outro União, e levei o rebanho a pastar.  
+**7** Então pus-me a apascentar as ovelhas destinadas ao matadouro para os mercadores. Então (diz: o profeta) tomei dois cajados, a um dos quais chamei Graça, e a outro União, e levei o rebanho a pastar.  
 **8** Suprimi três pastores num mês. Depois perdi a paciência com as ovelhas, e também elas se aborreceram de mim.  
 **9** Eu disse: Não vos apascentarei mais; o que morre, morra; o que se corta, corte-se; e os que escaparam, que se devorem uns aos outros.  
 **10** Eu então tomei o cajado que se chamava Graça, e quebrei-o para assim desfazer a aliança que tinha feito com todos os povos.  

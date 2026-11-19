@@ -133,13 +133,13 @@
 **53** Tu és bem-dito no templo da tua santa glória, digno do máximo louvor e exaltação, por todos os séculos.  
 **54** Tu és bem-dito sobre o trono do teu reino, digno do máximo louvor e exaltação, por todos os séculos.  
 **55** Tu és bem-dito, tu que penetras o fundo dos abismos e estás assentado sobre os Querubins, digno do máximo louvor e glória, por todos os séculos.  
-**56** Tu és bem-dito no firmamento do céu.e digno de louvor e de glória, por todos os séculos.  
+**56** Tu és bem-dito no firmamento do céu, e digno de louvor e de glória, por todos os séculos.  
 **57** Obras do Senhor, bem-dizei todas o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **58** Anjos do Senhor, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **59** Céus, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **60** Águas que estais por cima dos céus, bem-dizei todas o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **61** Forças do Senhor, bem-dizei todas o Senhor, louvai-o e exaltai-o por todos os séculos.  
-**62** Sol e lua, bem-dizei o Senhor.louvai-o e exaltai-o por todos os séculos.  
+**62** Sol e lua, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **63** Astros do céu, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **64** Chuvas e orvalhos, bem-dizei todos o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **65** Ventos, bem-dizei todos o Senhor, louvai-o e exaltai-o por todos os séculos.  
@@ -158,7 +158,7 @@
 **78** Mares e rios, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **79** Monstros e tudo o que se move nas águas, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **80** Aves do céu, bem-dizei todas o Senhor, louvai-o e exaltai-o por todos os séculos.  
-**81** Animais selvagens e rebanhos, bem-dizei o Senhor.louvai-o e exaltai-o por todos os séculos.  
+**81** Animais selvagens e rebanhos, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **82** Filhos dos homens, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **83** Bem-diga Israel o Senhor, louve-o e exalte-o por todos os séculos.  
 **84** Sacerdotes do Senhor, bem-dizei o Senhor, louvai-o e exaltaí-o por todos os séculos.  
@@ -167,7 +167,7 @@
 **87** Santos e humildes do coração bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos.  
 **88** Ananias, Azarias e Misael, bem-dizei o Senhor, louvai-o e exaltai-o por todos os séculos; porque ele nos tirou da morada dos mortos, salvou-nos da mão da morte, livrou-nos do meio das chamas ardentes, tirou-nos do meio do fogo.  
 **89** Dai graças ao Senhor, porque ele é bom, porque a sua misericórdia é eterna.  
-**90** Vós todos que adorais o Senhor, bem-dizei o Deus dos deuses, louvai-o e rendei-lhe ações de graças.porque a sua misericórdia permanece por todos os séculos.  
+**90** Vós todos que adorais o Senhor, bem-dizei o Deus dos deuses, louvai-o e rendei-lhe ações de graças, porque a sua misericórdia permanece por todos os séculos.  
 **91** Então o rei Nabucodonosor ficou estupefacto: levantou-se de repente e disse para os seus conselheiros: Não lançámos nós no meio do fogo três homens atados? Eles, respondendo ao rei, disseram: Assim é, ó rei.  
 **92** Ao que ele replicou: Contudo eu vejo quatro homens soltos, passeando no meio do fogo, sem sofrer mal algum; o aspeto do quarto é semelhante ao dum filho dos deuses.  
 **93** Então Nabucodonosor aproximou-se da porta da fornalha incandescente e disse; Sidrac, Misac e Abdenago, servos do Deus Altíssimo, saí e vinde. E logo Sidrac, Misac e Abdenago saíram do meio do fogo.  
@@ -299,7 +299,7 @@
 **14** Foram-lhe dados império, honra e reino; e todos os povos, nações e línguas o serviram; o seu império é um império eterno, que não passará, e o seu reino não será jamais destruído.  
 **15** O meu espírito encheu-se de horror; eu, Daniel, fiquei atemorizado com estas coisas, as visões da minha cabeça perturbaram-me.  
 **16** Aproximei-me dum dos assistentes e perguntei-lhe a verdade sobre tudo isto. Ele deu-me a interpretação destas visões, ensinou-me;  
-**17** Estes quatro grandes animais são quatro reis, que se levantarão da terra.  
+**17** Estes quatro grandes animais são quatro reis, que se levantarão da terra,  
 **18** mas os santos do Deus altíssimo receberão o reino e entrarão na posse do mesmo reino para sempre, por uma eternidade de eternidades.  
 **19** Depois disto, quis saber a verdade acerca do quarto animal, que era diferente de todos os outros e sobremaneira temeroso, de dentes de ferro e unhas de bronze, que devorava e despedaçava, e calcava aos pés o que sobejava.  
 **20** (Quis também informar-me) das dez hastes que tinha na cabeça e da outra que lhe nascera na presença da qual tinham caído três hastes, haste que tinha olhos e uma boca que falava com insolência e que parecia maior que as outras  
@@ -450,7 +450,7 @@
 **2** Muitos dos que dormem no pó da terra acordarão, uns para a vida eterna, e outros para a vergonha, o horror eterno.  
 **3** Aqueles que tiverem sido doutos, resplandecerão como a luz do firmamento; e os que tiverem ensinado a muitos o caminho da justiça, brilharão como as estrelas por toda a eternidade.  
 **4** Tu, porém, Daniel, conserva guardadas estas palavras e sela o livro até ao tempo do fim; muitos o passarão pelos olhos e acrescentarão a sua ciência.  
-**5** Então eu, Daniel, olhei e vi que estavam em pé outros dois homens; um, duma parte sobre a margem do rio, e outro, da outra parte sobre a outra margem do mesmo rio.  
+**5** Então eu, Daniel, olhei e vi que estavam em pé outros dois homens; um, duma parte sobre a margem do rio, e outro, da outra parte sobre a outra margem do mesmo rio,  
 **6** um deles disse ao homem que estava vestido de roupas de linho, o qual se sustinha em pé sobre as águas do rio: Quando se cumprirão estas coisas extraordinárias?  
 **7** E ouvi o homem, vestido de roupas de linho, o qual se sustinha em pé sobre as águas do rio; tendo levantado ao céu a mão direita e a mão esquerda, jurou por aquele (Senhor) que vive eternamente, que isso seria depois dum tempo; (dois) tempos e metade dum tempo, que todas estas coisas se cumpririam, quando acabasse de ser despedaçada a força do povo santo.  
 **8** Ouvi (o que ele dizia), mas não o entendi, e disse: Meu Senhor, qual será o fim de tudo isto?  
@@ -458,7 +458,7 @@
 **10** Muitos serão purificados, branqueados e provados; os ímpios procederão impiamente, e nenhum ímpio compreenderá, mas os sábios compreenderão.  
 **11** Desde o tempo em que o sacrifício perpétuo for abolido, e a abominação da desolação for estabelecida (no templo), passarão mil e duzentos e noventa dias.  
 **12** Bem-aventurado o que esperar e chegar até mil e trezentos e trinta e cinco dias!  
-**13** Tu vai até ao fim e (depois) descansa; levantar-te-ás para (receber) a tua porção no fim dos dias.Até aqui (diz S. Jerónimo) lemos Daniel no texto hebreu.O que segue, até ao fim do livro, foi traduzido segundo a edição de Teodocião.  
+**13** Tu vai até ao fim e (depois) descansa; levantar-te-ás para (receber) a tua porção no fim dos dias. Até aqui (diz S. Jerónimo) lemos Daniel no texto hebreu. O que segue, até ao fim do livro, foi traduzido segundo a edição de Teodocião.  
 
 ## Capítulo 13
 
@@ -561,7 +561,7 @@
 **29** Viu o rei que apertavam com ele fortemente, e, constrangido da necessidade, entregou-lhes Daniel.  
 **30** Eles lançaram-no na cova dos leões, onde esteve seis dias.  
 **31** Havia no lago sete leões, aos quais, todos os dias, davam dois cadáveres e duas ovelhas; mas por então não lhos deram, a fim de que devorassem Daniel.  
-**32** Estava então o Profeta Habacuc na Judeia.Tinha cozido um caldo e migado uns pães dentro duma vasilha, e ia levá-los ao campo, aos ceifeiros que lá trazia.  
+**32** Estava então o Profeta Habacuc na Judeia. Tinha cozido um caldo e migado uns pães dentro duma vasilha, e ia levá-los ao campo, aos ceifeiros que lá trazia.  
 **33** O anjo do Senhor disse a Habacuc: Leva a Babilónia essa refeição que tens, para a dares a Daniel, que está na cova dos leões.  
 **34** Habacuc respondeu; Senhor, nunca vi Babilónia e não sei onde é a cova.  
 **35** Então o anjo do Senhor tomou-o pelo alto da cabeça, e, tendo-o pelos cabelos, levou-o com a impetuosidade do seu espírito até Babilónia, sobre a cova.  

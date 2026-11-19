@@ -119,7 +119,7 @@
 **33** O que recebe o seu testemunho, certifica que Deus é verdadeiro.  
 **34** Aquele a quem Deus enviou, fala palavras de Deus, porque Deus não lhe dá o Espírito por medida.  
 **35** O Pai ama o Filho, e pôs todas as coisas na sua mão.  
-**36** O que crê no Filho,a vida eterna; o que, porém, não crê no Filho, não verá a vida, mas sobre ele pesa a ira de Deus.  
+**36** O que crê no Filho, tem a vida eterna; o que, porém, não crê no Filho, não verá a vida, mas sobre ele pesa a ira de Deus.  
 
 ## Capítulo 4
 

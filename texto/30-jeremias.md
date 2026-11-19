@@ -315,7 +315,7 @@
 **1** Palavra que foi dirigida pelo Senhor a Jeremias:  
 **2** Ouvi as palavras desta aliança e falai aos homens de Judá e aos habitantes de Jerusalém.  
 **3** E (tu, ó Jeremiais) lhes dirás: Assim fala o Senhor Deus de Israel: Maldito o homem que não ouvir as palavras desta aliança,  
-**4** a qual eu fiz com vossos pais no dia em que os tirei da terra do Egito, daquela fornalha de ferro, dizendo: Ouvi a minha voz e fazei todas as coisas que vos mando, e sereis o meu povo e eu serei o vosso Deus.  
+**4** a qual eu fiz com vossos pais no dia em que os tirei da terra do Egito, daquela fornalha de ferro, dizendo: Ouvi a minha voz e fazei todas as coisas que vos mando, e sereis o meu povo e eu serei o vosso Deus,  
 **5** de forma a dar cumprimento ao juramento que fiz a vossos pais, de que lhes entregaria uma terra que manasse leite e mel - como se vê (cumprido) no dia de hoje. - Respondi: Sim, Senhor.  
 **6** E o Senhor me disse: Prega em alta voz todas estas palavras nas cidades de Judá e nas ruas de Jerusalém: Ouvi as palavras desta aliança e observai-as,  
 **7** porque avisei insistentemente vossos pais, desde o dia em que os tirei da terra do Egito até hoje, dizendo-lhes continuamente: Ouvi a minha voz.  
@@ -707,7 +707,7 @@
 **2** Isto diz o Senhor: Põe-te no átrio da casa do Senhor, e falarás às gentes de todas as cidades de Judá, que vêm adorar na casa do Senhor, anunciar-lhes-ás todas as palavras que te tenho mandado anunciar, sem nada omitir,  
 **3** para ver se acaso eles te ouvem e se convertem cada um do seu mau caminho; então me arrependerei (ou desistirei) do mal que tenho tenção de lhes fazer, por causa da malícia das suas ações.  
 **4** Dir-lhes-ás: Assim fala o Senhor: Se me não ouvirdes, se não andardes segundo a lei que vos dei,  
-**5** ouvindo as palavras dos meus servos, os profetas, que eu com tanta solicitude vos enviei, e a quem (de facto) não tendes ouvido.  
+**5** ouvindo as palavras dos meus servos, os profetas, que eu com tanta solicitude vos enviei, e a quem (de facto) não tendes ouvido,  
 **6** farei a esta casa o que fiz a Silo e farei que esta cidade seja objeto da maldição de todas as nações da terra.  
 **7** Os sacerdotes, os profetas e todo o povo ouviram Jeremias proferindo estas palavras na casa do Senhor.  
 **8** Tendo Jeremias acabado de dizer tudo o que o Senhor lhe tinha ordenado que dissesse a todo o povo, os sacerdotes, os (falsos) profetas e todo o povo pegaram nele, dizendo: À morte!  
@@ -749,7 +749,7 @@
 **17** Não queirais, pois, dar-lhes ouvidos, mas sujeitai-vos ao rei de Babilónia, para que vivais; por que há-de ficar esta cidade reduzida a um deserto?  
 **18** Se são profetas (verdadeiros) e está neles a palavra do Senhor, intercedam junto do Senhor dos exércitos, para que os objetos que ficaram na casa do Senhor, na casa do rei de Judá e em Jerusalém, não sejam (também) levados para Babilónia.  
 **19** Porque eis o que diz o Senhor dos exércitos acerca das colunas, do mar (de bronze), das bases e dos outros objetos, que ficaram nesta cidade,  
-**20** os quais Nabucodonosor, rei de Babilónia, não levou de Jerusalém para Babilónia, quando transportou Jeconias, filho de Joaquim, rei de Judá, e todos os grandes de Judá e de Jerusalém.  
+**20** os quais Nabucodonosor, rei de Babilónia, não levou de Jerusalém para Babilónia, quando transportou Jeconias, filho de Joaquim, rei de Judá, e todos os grandes de Judá e de Jerusalém,  
 **21** eis (repito) o que diz o Senhor dos exércitos, o Deus de Israel, acerca dos objetos que foram deixados na casa do Senhor, na casa do rei de Judá e em Jerusalém;  
 **22** A Babilónia serão transportados e ali estarão até ao dia em que eu os for buscar, diz o Senhor, e os fizer trazer e restituir a este lugar.  
 
@@ -910,7 +910,7 @@
 **28** Portanto, isto diz o Senhor: Vou entregar esta cidade nas mãos dos Caldeus, e nas mãos de Nabucodonosor, rei de Babilónia, que a tomará.  
 **29** Virão os Caldeus pelejar contra esta cidade, entrarão nela e lhe porão fogo; queimarão as casas em cujos terraços sacrificavam a Baal e ofereciam a deuses estranhos libações, para me irritarem.  
 **30** Porque os filhos de Israel e os filhos de Judá têm feito incessantemente o mal diante dos meus olhos desde a sua mocidade; os filhos de Israel, com efeito, nada fizeram senão irritar-me com as obras das suas mãos diz o Senhor.  
-**31** Esta cidade tornou-se objeto do meu furor e da minha indignação, desde o dia em que a edificaram até hoje, em que a vou tirar da minha presença.  
+**31** Esta cidade tornou-se objeto do meu furor e da minha indignação, desde o dia em que a edificaram até hoje, em que a vou tirar da minha presença,  
 **32** por causa da maldade que os filhos de Israel e os filhos de Judá cometeram: (serão tirados da minha presença) eles e os seus reis, os seus grandes, os seus sacerdotes, os seus profetas, os varões de Judá e os habitantes de Jerusalém.  
 **33** Voltaram para mim as costas e não o rosto, quando os ensinava infatigavelmente e os corrigia, não quiseram ouvir nem receber o ensino.  
 **34** Puseram os seus ídolos na casa que tem o meu nome, para a profanarem.  

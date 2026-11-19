@@ -86,7 +86,7 @@
 **7** Tendo, pois, Apolónio avisado o rei das riquezas que lhe foram referidas, este mandou chamar Heliodoro, seu primeiro ministro, e enviou-o com ordem de trazer as ditas riquezas.  
 **8** Heliodoro pôs-se logo a caminho, com o pretexto de visitar as cidades da Cealesíria e da Fenícia, mas na realidade para executar a ordem do rei.  
 **9** Chegado a Jerusalém e recebido na cidade com amabilidade pelo sumo sacerdote, Heliodoro declarou-lhe as informações recebidas e qual a verdadeira causa da sua vinda, perguntando, todavia, se era verdade o que tinha sido dito.  
-**10** Então o sumo sacerdote representou-lhe que se tratava de depósitos das viúvas e dos órfãos.  
+**10** Então o sumo sacerdote representou-lhe que se tratava de depósitos das viúvas e dos órfãos,  
 **11** que parte pertencia a Hircano, filho de Tobias, varão muito eminente; que as declarações de Simão eram caluniosas, pois toda a soma era de quatrocentos talentos de prata e duzentos de ouro;  
 **12** que de nenhum modo se podia defraudar os que tinham depositado confiança na santidade do lugar e na inviolabilidade e majestade do templo, que por todo o mundo era honrado.  
 **13** Mas Heliodoro, em cumprimento das ordens recebidas do rei, sustentava que, em todo o caso, devia aquele dinheiro ser levado para o tesouro real.  

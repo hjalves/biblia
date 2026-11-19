@@ -27,7 +27,7 @@
 **4** O nosso nome com o tempo ficará sepultado no esquecimento, e ninguém se lembrará das nossas obras.  
 **5** A nossa vida é a passagem duma sombra, o nosso fim é seu retorno, porque é posto o selo e ninguém volta.  
 **6** Vinde, pois, e gozemos dos bens presentes, apressemo-nos a gozar das criaturas com o ardor da juventude.  
-**7** lnebriemo-nos de vinho precioso e de perfumes, e não deixemos passar a flor da primavera,  
+**7** Inebriemo-nos de vinho precioso e de perfumes, e não deixemos passar a flor da primavera,  
 **8** Coroemo-nos de rosas, antes que murchem: não haja prado algum em que a nossa voluptuosidade não passe.  
 **9** Nenhum de nós falte às nossas orgias. Deixemos em toda a parte sinais da nossa alegria, porque esta é a parte que nos toca, esta é a nossa sorte.  
 **10** Oprimamos o justo que é pobre, não poupemos a viúva, nem respeitemos as cãs do velho, carregado de anos.  
@@ -50,7 +50,7 @@
 ## Capítulo 3
 
 **1** Mas as almas dos justos estão na mão de Deus, e não os tocará nenhum tormento.  
-**2** Aos olhos dos insensatos parece que morreram, a sua saída deste mundo é considerada como uma infelicidade.  
+**2** Aos olhos dos insensatos parece que morreram, a sua saída deste mundo é considerada como uma infelicidade,  
 **3** e a sua separação de nós como um aniquilamento, mas eles estão em paz (no céu).  
 **4** Se eles sofreram tormentos aos olhos dos homens, a sua esperança está cheia de imortalidade.  
 **5** Depois duma leve tribulação, receberão uma grande recompensa, porque Deus, que os provou, achou-os dignos de si.  
@@ -66,7 +66,7 @@
 **15** Porque o fruto dos bons trabalhos é glorioso, e a raiz da prudência é imperecível.  
 **16** Porém os filhos dos adúlteros não atingirão o seu fim, e a descendência dum tálamo iníquo será exterminada.  
 **17** Ainda que tenham larga vida, serão reputados por nada, e a sua velhice finalmente será sem honra.  
-**18** Se morrerem mais depressa, não terão esperança, nem consolação no dia do juízo.  
+**18** Se morrerem mais depressa, não terão esperança, nem consolação no dia do juízo,  
 **19** porque os fins duma raça iníqua são funestos.  
 
 ## Capítulo 4
@@ -211,7 +211,7 @@
 **1** Deus de meus pais e Senhor de misericórdia, que fizeste tudo pela tua palavra,  
 **2** e que estabeleceste o homem, pela tua sabedoria, para ter domínio sobre as criaturas, que por ti foram feitas,  
 **3** para governar o mundo com equidade e justiça, para sentenciar em Juízo com retidão do coração.  
-**4** dá-me aquela sabedoria, que está sentada contigo no teu trono, e não me queiras excluir no número dos teus filhos  
+**4** Dá-me aquela sabedoria, que está sentada contigo no teu trono, e não me queiras excluir no número dos teus filhos  
 **5** porque eu sou servo teu, filho da tua escrava, sou um homem fraco e de pouca dura, e pouco capaz de compreender o juízo e as leis.  
 **6** Ainda que alguém seja perfeito entre os filhos dos homens, se lhe faltar a tua sabedoria, será considerado como nada.  
 **7** Escolheste-me para rei do teu povo, e para juiz dos teus filhos e filhas.  
@@ -326,12 +326,12 @@
 **10** São desgraçados e fundam em coisa morta as suas esperanças, aqueles que chamaram deuses às obras das mãos dos homens, ao ouro e à prata, trabalhados com arte, às figuras de animais, ou a uma pedra inútil, obra de mão antiga.  
 **11** Um artista hábil corta do bosque um tronco fácil de trabalhar, dextramente lhe tira toda a casca, e, valendo-se da sua arte, faz uma peça útil para uso da vida.  
 **12** O que sobrou da obra, emprega-o para cozinhar a comida, com que fica saciado.  
-**13** Quanto ao resto de tudo isto, que para nenhum uso é útil, por ser um madeiro torto e cheio de nós, vai-o esculpindo nas horas livres, trabalhando-o com a arte que lhe é possível.  
+**13** Quanto ao resto de tudo isto, que para nenhum uso é útil, por ser um madeiro torto e cheio de nós, vai-o esculpindo nas horas livres, trabalhando-o com a arte que lhe é possível,  
 **14** e dá-lhe feições dum homem, ou aspeto de algum vil animal. Põe-lhe vermelhão, pinta-o de uma cor encarnada, encobrindo todas as manchas que nele há.  
 **15** Depois prepara-lhe um nicho conveniente, coloca-o numa parede, segurando-o com um prego.  
 **16** Usa com ele desta precaução, para que não caia, pois reconhece que (o deus) se não pode ajudar a si mesmo: Com efeito, é uma estátua, que precisa de apoio.  
 **17** Entretanto, quando o implora por causa dos seus bens, dos seus casamentos, ou dos seus filhos, não se envergonha de falar com o (pedaço de madeira) que não tem vida  
-**18** e implora saúde a um inválido, pede vida a um morto invoca em seu socorro um débil.  
+**18** e implora saúde a um inválido, pede vida a um morto invoca em seu socorro um débil,  
 **19** para o bom sucesso duma jornada, recorre aquele que não pode andar; (enfim) para seus negócios, suas empresas, e para o bom êxito de todas as suas obras, implora a quem nada pode fazer com as mãos.  
 
 ## Capítulo 14
@@ -342,7 +342,7 @@
 **4** mostrando que és poderoso para salvar de todos (os perigos), ainda que alguém se meta no mar sem conhecimento da arte (de marear).  
 **5** Queres, entretanto, que as obras da tua sabedoria não sejam vãs, e, por isso, os homens confiam a um pequeno lenho as suas vidas, e, atravessando o mar sobre uma embarcação, chegam a salvamento.  
 **6** Desta sorte, nos primeiros tempos, quando pereceram os soberbos gigantes, refugiou-se a esperança de toda a terra numa barca, conservando para o mundo a semente das novas gerações, graças à tua mão que a governava.  
-**7** O madeiro, do qual se faz bom uso, é bendito.  
+**7** O madeiro, do qual se faz bom uso, é bendito;  
 **8** mas o ídolo, obra das mãos (do homem), é maldito, ele e o seu autor; este, porque de facto o fabricou, e aquele, porque, sendo uma coisa corruptível foi chamado deus.  
 **9** Deus aborrece, de facto, igualmente o ímpio e a sua impiedade.  
 **10** A obra será castigada juntamente com o seu autor.  
@@ -413,12 +413,12 @@
 **19** Outras vezes o fogo, contra a sua virtude natural, ardia na água, para consumir as produções duma terra iníqua.  
 **20** Em contraposição de tudo isto alimentaste o teu povo com alimento dos anjos, deste-lhe, sem trabalho, pão vindo do céu completamente preparado, que tinha em si toda a delícia e se acomodava a todos os gostos.  
 **21** Este alimento mostrava a doçura que tens para com teus filhos, pois, acomodando-se às vontade de cada um, transformava-se no que cada um queria.  
-**22** A neve e o gelo aturavam a violência do fogo sem se fundirem, para que soubessem que destruía os frutos dos inimigos um fogo que ardia no meio da saraiva, que cintilava por entre a chuva.  
+**22** A neve e o gelo aturavam a violência do fogo sem se fundirem, para que soubessem que destruía os frutos dos inimigos um fogo que ardia no meio da saraiva, que cintilava por entre a chuva,  
 **23** fogo que, a seguir, esquecia a sua própria força, quando se tratava dos sustento dos justos.  
 **24** A criatura, servindo-te a ti seu Criador, desenvolve a sua energia para atormentar os injustos, e abranda-a para fazer bem aqueles que em ti confiam.  
 **25** Por isto ela, transformando-se em toda a sorte de gostos obedecia à tua generosidade que tudo sustenta, acomodando-se ao desejo dos necessitados,  
 **26** a fim de que soubessem os teus filhos, a quem amaste, Senhor, que não são os frutos naturais que sustentam os homens, mas que é a tua palavra que conserva aqueles que creem em ti.  
-**27** O que pelo fogo não podia ser devorado, ao ser aquecido por um escasso raio do sol, imediatamente se desfazia.  
+**27** O que pelo fogo não podia ser devorado, ao ser aquecido por um escasso raio do sol, imediatamente se desfazia,  
 **28** para ensinar a todos que é preciso antecipar-se ao nascer do sol para te dar graça, e adorar-te desde o raiar da manhã.  
 **29** A esperança do ingrato fundirá como o gelo do inverno, e se perderá como água inútil.  
 
@@ -466,7 +466,7 @@
 **17** Então foram imediatamente perturbados por visões de sonhos horríveis, e temores inesperados os assaltaram.  
 **18** Arrojados para um lado e para outro, semimortos, manifestavam a causa da morte que os atingia.  
 **19** As visões, que os perturbavam, tinham-lhes revelado isso, para não suceder que morressem sem saber a causa dos males que sofriam.  
-**20** É verdade que também feriu os justos uma prova de morte, e no deserto houve uma mortandade na multidão, mas a (tua) ira não durou muito tempo.  
+**20** É verdade que também feriu os justos uma prova de morte, e no deserto houve uma mortandade na multidão, mas a (tua) ira não durou muito tempo,  
 **21** porque um homem irrepreensível se apressou a interceder pelo povo, servindo-se das armas do seu ministério, a oração e a expiação do incenso. Atalhou os progressos da tua ira e pôs fim ao flagelo, mostrando que era teu servo.  
 **22** Não dominou a sedição com a força do corpo, nem com o poder das armas, mas sim com a sua palavra deteve o (anjo) exterminador, recordando os juramentos feitos aos patriarcas e a aliança.  
 **23** Quando já os mortos jaziam uns sobre os outros, ele, metendo-se de permeio, deteve a cólera e cortou-lhe o caminho que ia ter aos vivos.  
@@ -481,19 +481,19 @@
 **4** Levava-os a este (triste) fim uma fatalidade de que eram dignos, fazia-lhes perder a lembrança do que lhes tinha acontecido, para que recebessem plenamente o castigo,  
 **5** para que, enquanto o teu povo passava maravilhosamente (o mar), eles achassem uma morte estranha.  
 **6** É que todas as tuas criaturas foram transformadas na sua natureza, obedecendo aos teus mandados, a fim de que os teus servos fossem conservados ilesos.  
-**7** E assim uma nuvem fazia sombra ao seu acampamento: onde antes havia água, apareceu terra seca e no Mar Vermelho uma passagem sem embaraço, e um campo viçoso emergiu das ondas impetuosas.  
+**7** E assim uma nuvem fazia sombra ao seu acampamento: onde antes havia água, apareceu terra seca e no Mar Vermelho uma passagem sem embaraço, e um campo viçoso emergiu das ondas impetuosas,  
 **8** pelo qual passou todo o povo que era protegido pela tua mão, espetador dos teus maravilhosos prodígios.  
 **9** Alegraram-se como cavalos nas suas pastagens, e como cordeiros saltaram (de prazer), glorificando-te a ti, Senhor, que os tinhas livrado.  
 **10** Recordavam-se ainda do que tinha acontecido no lugar do seu exílio, como a terra, em vez de outros animais, tinha produzido moscas, e, em lugar de peixes, o rio tinha lançado fora multidão de rãs.  
 **11** Mais tarde viram uma nova casta de aves, quando, levados pela gula, pediram manjares exquisitos:  
-**12** para satisfazer o seu desejo, vieram-lhes da banda do mar codornizes. Porém sobre os (Egípcios) pecadores caíram castigos, não sem aqueles avisos, que antecipadamente lhes foram feitos pela violência dos raios. Sofriam justamente segundo as suas maldades.  
+**12** para satisfazer o seu desejo, vieram-lhes da banda do mar codornizes. Porém sobre os (Egípcios) pecadores caíram castigos, não sem aqueles avisos, que antecipadamente lhes foram feitos pela violência dos raios. Sofriam justamente segundo as suas maldades,  
 **13** porque tinham mostrado uma violentíssima aversão aos estrangeiros. Houve, certamente, quem não quis receber estrangeiros desconhecidos, mas estes (os Egípcios) reduziram à escravidão hóspedes benfeitores.  
 **14** E não é tudo; aqueles têm uma desculpa, porque receberam (desde o princípio) como inimigos os estrangeiros,  
 **15** enquanto que estes, depois de terem recebido com alegria a homens que gozavam dos mesmos direitos que eles os atormentaram com sofrimentos cruéis.  
 **16** Por isso foram feridos de cegueira, como aqueles o tinham sido à porta do justo (Lot), quando, repentinamente cobertos de trevas, buscavam, cada um por seu lado, a entrada da sua porta.  
 **17** Os elementos trocavam entre si suas propriedades, como na harpa os sons mudam de ritmo, conservando a mesma tonalidade. É o que se pode ver claramente pela experiência.  
 **18** Os animais terrestres tornavam-se aquáticos, e os que nadam passavam para a terra.  
-**19** o fogo, excedendo a sua virtude, ateava-se mais no meio da água, e esta esquecia-se da natureza que tem de o apagar.  
+**19** O fogo, excedendo a sua virtude, ateava-se mais no meio da água, e esta esquecia-se da natureza que tem de o apagar.  
 **20** As chamas, pelo contrário, não ofendiam as carnes dos frágeis animais que andavam entre elas, nem dissolviam aquele delicioso manjar, que se desfazia tão facilmente como o gelo. Em todas as coisas, Senhor, tu glorificaste o teu povo, honraste-o, não o desprezaste, assistindo-lhe em todo o tempo e em todo o lugar.
 
 ---

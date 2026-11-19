@@ -89,7 +89,7 @@
 **6** Cheias que foram as vasilhas, disse ela a um de seus filhos: Chega-me cá ainda alguma outra vasilha. Ele respondeu-lhe: Não tenho mais. E o azeite cessou _(de se multiplicar).  
 **7** Foi, então, ela, e referiu tudo ao homem de Deus. Ele disse; Vai, vende o azeite e paga ao teu credor. Depois disso, tu e teus filhos vivei do resto.  
 **8** Aconteceu também que Eliseu, um dia, passava por Sunam, onde havia uma mulher rica, a qual o deteve para tomar alimento. Depois, todas as vezes que ali passava, ia pousar em sua casa, para tomar a sua refeição.  
-**9** disse ao seu marido: Tenho observado que este homem, que passa tantas vezes por nossa casa, é um santo homem de Deus.  
+**9** Disse ao seu marido: Tenho observado que este homem, que passa tantas vezes por nossa casa, é um santo homem de Deus.  
 **10** Façamos-lhe, pois, um pequeno quarto, ponhamos-lhe nele uma cama, uma mesa, uma cadeira e um candeeiro, para que, quando vier a nossa casa, se acomode ali.  
 **11** Aconteceu que, um dia, Eliseu veio, alojou-se no quarto e descansou nele.  
 **12** E disse a Giezi, seu criado: Chama esta Sunamita. Tendo-a ele chamado, e estando ela em pé diante dele,  

@@ -112,7 +112,7 @@
 **51** Salma, pai de Belém, Harif, pai de Betgader.  
 **52** Sobal, pai de Cariatiarim, teve por filhos Haroé, Hatsi-Hamme-nuhoth.  
 **53** As famílias que eles fundaram em Cariatiarim foram: os Jetreus, os Afuteus, os Semateus e os Masereus. Destes procederam os Saraítas e os Estaolitas.  
-**54** Filhos de Salma: Belém e os Netofatlanos, Ataroth-Beth-Joab, metade dos Manaquitianos, os Saraítas, (foi) dos descendentes de Sarai.  
+**54** Filhos de Salma: Belém e os Netofatlanos, Ataroth-Beth-Joab, metade dos Manaquitianos, os Saraítas, (foi) dos descendentes de Sarai,  
 **55** e também as famílias dos escribas, que habitavam em Jabes: Os Tiriatianos, os Squimatianos e os Sucatianos. Estes são os Cinens, que descendem de Hamath, pai da casa de Recab.  
 
 ## Capítulo 3
@@ -856,7 +856,7 @@
 **22** de Isaari era filho Salemot, e de Salemot era filho Jaat;  
 **23** de Jaat foi filho primogénito Jeriau, Amaria o segundo, Jaaziel o terceiro, Jacmaan o quarto;  
 **24** filho de Oziel foi Mica; filho de Mica foi Samir;  
-**25** irmão de Mica foi Jesia; filho de Jesia foi Zacarias.  
+**25** irmão de Mica foi Jesia; filho de Jesia foi Zacarias,  
 **26** filhos de Merari: Mooli e Musi; filho de Oziau foi Beno;  
 **27** filhos de Merari, por Oziau, foram: Soão, Zacur e Hebri;  
 **28** Mooli teve um filho, isto é, Eleazar, o qual não teve filhos;  

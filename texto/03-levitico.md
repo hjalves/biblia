@@ -90,7 +90,7 @@
 **27** Se, porém, algum do povo da terra pecar por ignorância, e fizer alguma das coisas proibidas pela lei do Senhor, incorrendo assim em culpa,  
 **28** quando reconhecer o seu pecado, oferecerá uma cabra sem defeito.  
 **29** Porá a mão sobre a cabeça da vítima, que é (oferecida) pelo pecado, e imolá-la-á no lugar do holocausto.  
-**30** O sacerdote tomará com o seu dedo do sangue, e, tendo posto algum sobre as pontas do altar, dos holocaustos, derramará o resto ao pé do mesmo altar.  
+**30** O sacerdote tomará com o seu dedo do sangue, e, tendo posto algum sobre as pontas do altar, dos holocaustos, derramará o resto ao pé do mesmo altar,  
 **31** tirando-lhe toda a gordura, como se costuma tirar das vítimas pacíficas, queimá-la-á sobre o altar em odor de suavidade para o Senhor. Assim fará o sacerdote a expiação por este homem e (o seu pecado) será perdoado.  
 **32** Se, porém, oferecer pelo pecado um cordeiro, será uma fêmea sem defeito.  
 **33** Pôr-lhe-á a mão sobre a cabeça, e imolá-la-á no lugar onde se costumam matar as vítimas dos holocaustos.  
@@ -509,7 +509,7 @@
 **4** Revestir-se-á da túnica santa de linho, cobrirá a sua nudez com calções de linho; cingir-se-á com um cinto de linho; porá na cabeça uma tiara de linho: Estas são as vestes sagradas que ele vestirá depois de se ter lavado.  
 **5** Receberá de toda a multidão dos filhos de Israel dois bodes pelo pecado, e um carneiro para holocausto.  
 **6** Aarão oferecerá o novilho pelo pecado e fará expiação por si e pela sua casa.  
-**7** Apresentará, depois, diante do Senhor os dois bodes à porta do tabernáculo da reunião.  
+**7** Apresentará, depois, diante do Senhor os dois bodes à porta do tabernáculo da reunião,  
 **8** e, deitando sortes sobre um e outro, uma pelo Senhor e outra por Azazei,  
 **9** oferecerá pelo pecado aquele que a sorte destinar para o Senhor:  
 **10** e aquele, ao qual a sorte tiver destinado para Azazel, apresentá-lo-á vivo diante do Senhor, para fazer sobre ele as preces, e enviá-lo para o deserto.  
@@ -766,7 +766,7 @@
 **39** Desde o dia quinze do sétimo mês, quando tiverdes colhido todos os frutos da vossa terra, celebrareis as festas do Senhor durante sete dias: o primeiro dia e o oitavo serão de completo descanso.  
 **40** No primeiro dia tomareis dos frutos de árvores formosas, folhas de palmeira, ramos de árvores frondosas, salgueiros da torrente, e alegrar-vos-eis diante do Senhor vosso Deus.  
 **41** Celebrareis todos os anos durante sete dias esta solenidade. Esta será uma lei perpétua em vossas gerações. Celebrá-la-eis no sétimo mês,  
-**42** e habitareis à sombra dos ramos durante sete dias: todo o homem da geração de Israel habitará em tendas.  
+**42** e habitareis à sombra dos ramos durante sete dias: todo o homem da geração de Israel habitará em tendas,  
 **43** para que os vossos descendentes saibam que eu fiz habitar em tendas os filhos de Israel, depois de os ter tirado da terra do Egito. Eu sou o Senhor vosso Deus.  
 **44** Moisés, pois, falou aos filhos de Israel sobre as festas do Senhor.  
 

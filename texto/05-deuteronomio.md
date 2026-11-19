@@ -84,7 +84,7 @@
 **31** O Senhor disse-me: Comecei a entregar-te Seon e o seu país. Empreende a conquista pata dominares esta região.  
 **32** Seon saiu ao nosso encontro com todo o seu povo, para nos dar batalha em Jasa.  
 **33** O Senhor nosso Deus no-lo entregou, e nós o derrotámos com seus filhos e com todo o Seu povo.  
-**34** Naquele tempo tomámos-lhe todas as suas cidades, mortos os seus habitantes, homens e mulheres e meninos, e nelas não deixámos nada.  
+**34** Naquele tempo tomámos-lhe todas as suas cidades, mortos os seus habitantes, homens e mulheres e meninos, e nelas não deixámos nada,  
 **35** exceto os animais, que tocaram aos saqueadores, e os despojos das cidades, que tomámos.  
 **36** Desde Aroer, que está sobre a margem da torrente do Arnon, cidade situada no vale, até Galaad, não houve aldeia nem cidade, que escapasse às nossas mãos: todas no-las entregou o Senhor nosso Deus,  
 **37** exceto a terra dos filhos de Amon, a que não chegamos, e todas as regiões adjacentes à torrente de Jeboc, e as cidades das montanhas, e todos os lugares, que o Senhor nosso Deus nos proibiu (que tomássemos).  
@@ -282,7 +282,7 @@
 **12** não suceda que, depois de teres comido e estares saciado, de teres edificado formosas casas, e morado nelas,  
 **13** de teres manadas de bois e rebanhos de ovelhas, e abundância de prata e de ouro e de todas as coisas,  
 **14** o teu coração se eleve, e te não lembres do Senhor teu Deus, que te tirou da terra do Egito, da casa da servidão,  
-**15** e que foi o teu guia no grande e terrível deserto, onde havia serpentes ardentes e escorpiões, e uma falta completa de água; que fez sair arroios da pedra duríssima.  
+**15** e que foi o teu guia no grande e terrível deserto, onde havia serpentes ardentes e escorpiões, e uma falta completa de água; que fez sair arroios da pedra duríssima,  
 **16** e que te alimentou no deserto com o maná, que teus pais não conheceram: que, depois de te ter afligido e provado, por fim teve compaixão de ti,  
 **17** para que não dissesses no teu coração: a minha força e o vigor do meu braço adquiriram-me todas estas coisas,  
 **18** mas antes te lembrasses que foi o Senhor teu Deus que te deu forças para cumprir o pacto, que jurou a teus pais, como mostra o dia de hoje.  
@@ -338,7 +338,7 @@
 **13** observando os mandamentos do Senhor e as suas leis que hoje te prescrevo, para que sejas feliz?  
 **14** Repara que o céu é do Senhor teu Deus, assim como o céu dos céus, a terra e tudo o que há nela.  
 **15** Não obstante isto, o Senhor uniu-se estreitamente a teus pais e amou-os, e escolheu a sua linhagem depois deles, isto é, a vós, dentre todas as nações, como hoje está provado.  
-**16** Circuncidai, pois, o vosso coração, e não endureçais mais a vossa cerviz.  
+**16** Circuncidai, pois, o vosso coração, e não endureçais mais a vossa cerviz,  
 **17** porque o Senhor vosso Deus é o Deus dos deuses, o Senhor dos senhores, o Deus grande, poderoso, e terrível, que não faz aceção de pessoas, nem (recebe) presentes.  
 **18** Eie faz justiça ao órfão e à viúva, ama o peregrino e dá-lhe o sustento e vestuário.  
 **19** Amai vós, também, os estrangeiros, porque fostes estrangeiros na terra do Egito.  
@@ -684,7 +684,7 @@
 **7** Não abominarás o Idumeu, porque é teu irmão, nem o Egípcio, porque tu foste forasteiro na sua terra.  
 **8** Os que nascerem deles, entrarão à terceira geração na Assembleia do Senhor.  
 **9** Quando saíres a combater contra os teus inimigos, abster-te-ás de toda a coisa má.  
-**10** Se entre vós houver (algum) homem que seja impuro, por causa dum acidente noturno, sairá para fora do acampamento.  
+**10** Se entre vós houver (algum) homem que seja impuro, por causa dum acidente noturno, sairá para fora do acampamento,  
 **11** e não voltará, antes de se ter lavado em água à tarde; depois do sol posto tomará a para o acampamento.  
 **12** Terás fora do acampamento um lugar, onde vás satisfazer as necessidades da natureza,  
 **13** levando no cinto um pau; depois de teres satisfeito a tua necessidade, cavarás ao redor, e cobrirás os excrementos com terra,  
@@ -881,7 +881,7 @@
 **7** Assim chegastes a este lugar Seon, rei de Hesebon, e Og, rei de Basan, marcharam contra nós para nos combater. Nós os derrotámos,  
 **8** tomámos o seu país, e demos a sua propriedade a Ruben, a Gad e à meia tribo de Manassés.  
 **9** Observai, pois, as palavras desta aliança, cumpri-as, a fim de assegurardes o feliz êxito de tudo o que empreenderdes.  
-**10** Vós estais hoje todos diante do Senhor vosso Deus, os vossos chefes, as vossas tribos, os anciães, os oficiais, todos varões de Israel.  
+**10** Vós estais hoje todos diante do Senhor vosso Deus, os vossos chefes, as vossas tribos, os anciães, os oficiais, todos varões de Israel,  
 **11** os vossos filhos e as vossas mulheres, e o estrangeiro que mora contigo no acampamento, desde os que cortam lenha, aos que acarretam água;  
 **12** (tu, ó Israel, estás diante do Senhor) para entrar na aliança do Senhor teu Deus, no juramento que o Senhor teu Deus faz hoje contigo,  
 **13** a fim de te escolher como seu povo, e ele próprio ser o teu Deus, como te disse, e como jurou a teus pais, Abraão, Isaac e Jacob.  
@@ -972,7 +972,7 @@
 **10** (O Senhor) encontrou-o numa terra deserta, num lugar horroroso e de vasta solidão, cercou-o e instruiu-o, guardou-o como as meninas dos seus olhos.  
 **11** Como a águia que provoca seus filhos a voar, e esvoaça sobre eles, (assim o Senhor) estendeu as suas asas e o tomou, e o levou sobre seus ombros.  
 **12** Só o Senhor foi o seu guia, e não estava com ele deus algum estranho.  
-**13** Levou-o às alturas da terra, nutriu-o com os frutos dos campos, deu-lhe a sugar o mel (que saía) da pedra, e o azeite (que saía) do rochedo duríssimo.  
+**13** Levou-o às alturas da terra, nutriu-o com os frutos dos campos, deu-lhe a sugar o mel (que saía) da pedra, e o azeite (que saía) do rochedo duríssimo,  
 **14** a manteiga das vacas, o leite das ovelhas, com gordura dos cordeiros, e dos carneiros criados em Basan, e dos cabritos, com a flor de farinha do trigo, e ele bebeu o mais puro sangue da uva.  
 **15** Mas Jesurun engordou e recalcitrou; tendo-se tomado gordo, cheio e nédio, abandonou a Deus seu criador, e afastou-se de Deus sua salvação.  
 **16** Provocaram-no com deuses estranhos, e excitaram-no à ira com as suas abominações.  
@@ -1029,7 +1029,7 @@
 **12** De Benjamim disse: O muito amado do Senhor habita com ele confiadamente, o Senhor o protege sempre, e, ele repousa entre os seus braços.  
 **13** Disse também a José: A sua terra seja abençoada pelo Senhor, com o precioso dom do céu, com o orvalho, e (com as águas) do abismo que está debaixo,  
 **14** com os frutos produzidos por virtude do sol e da lua.  
-**15** (com frutos que provêm) do cimo dos montes antigos, e com os frutos das colinas eternas.  
+**15** (com frutos que provêm) do cimo dos montes antigos, e com os frutos das colinas eternas,  
 **16** e com os frutos da terra, de toda a sua abundância. A bênção daquele que apareceu na sarça, (desça) sobre a cabeça de José, e sobre o alto da cabeça daquele que é príncipe dos seus irmãos.  
 **17** A sua majestade é como a do primogénito do touro, as suas pontas (símbolo da força) são pontas do búfalo: com elas levantará ao ar as gentes até às extremidades da terra. Tais são as multidões de Efraim, tais são os milhares de Manassés.  
 **18** A Zabulon disse: Alegra-te, Zabulon, nas tuas caminhadas, e tu, Issacar, nas tuas tendas.  

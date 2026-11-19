@@ -521,7 +521,7 @@
 **20** Quão grande é, Senhor, a tua bondade, que tens reservada para os que te temem, que concedes aos que se refugiam em ti, à vista dos homens!  
 **21** Sob a proteção do teu rosto os defendes das conjuras dos homens, oculta-los no tabernáculo contra as altercações das línguas.  
 **22** Bendito seja o Senhor, porque maravilhosamente me mostrou a sua misericórdia na cidade fortificada.  
-**23** Eu disse na minha ansiedade: "Fui expulso da tua presença." Tu, porém, ouviste a voz da minha,oração, quando a ti clamava.  
+**23** Eu disse na minha ansiedade: "Fui expulso da tua presença." Tu, porém, ouviste a voz da minha oração, quando a ti clamava.  
 **24** Amai o Senhor, vós todos os seus santos! o Senhor guarda os que são fiéis, mas dá abundantemente a paga merecida aos que procedem com soberba.  
 **25** Esforçai-vos e fortaleça-se o vosso coração, vós todos que esperais no Senhor.  
 
@@ -732,7 +732,7 @@
 **5** Bem-aventurado o homem que pôs a sua esperança no Senhor e não anda após os que adoram ídolos e se desviam para a mentira.  
 **6** Senhor, Deus meu, tens feito muitas obras maravilhosas, e não há quem te seja semelhante nos teus desígnios para connosco.  
 **7** Não quiseste sacrifício nem oferenda, mas abriste-me os ouvidos. (Também) não pediste holocausto e vítima pelo pecado:  
-**8** então eu disse: "Eis,que venho; no rolo do livro está escrito de mim:  
+**8** então eu disse: "Eis que venho; no rolo do livro está escrito de mim:  
 **9** em fazer a tua vontade, ó meu Deus, me deleito, e a tua lei está no íntimo do meu coração.  
 **10** Anunciei a (tua) justiça na grande assembleia; não contive os meus lábios; Senhor, tu o sabes,  
 **11** Não escondi a tua justiça no meu coração: publiquei a tua fidelidade e o teu socorro. Não ocultei a tua graça e a tua fidelidade à grande assembleia.  
@@ -877,7 +877,7 @@
 **10** Comemoramos, ó Deus, a tua misericórdia, dentro do teu templo.  
 **11** Como o teu nome, ó Deus, assim também o louvor se estende até aos confins da terra. A tua dextra está cheia de justiça:  
 **12** alegre-se o monte de Sião, regozijem-se as cidades de Judá, por causa dos teus juízos.  
-**13** visitai Sião, andai à sua volta, contai as suas torres.  
+**13** Visitai Sião, andai à sua volta, contai as suas torres.  
 **14** Contemplai as suas defesas, percorrei as suas fortalezas, para que narreis às gerações vindouras  
 **15** quão grande é Deus. E o nosso Deus, eternamente, para sempre: ele nos guiará.  
 
@@ -1259,7 +1259,7 @@
 **6** O Deus, tu conheces a minha insipiência, e os meus delitos não te são ocultos.  
 **7** Não sejam confundidos por minha causa os que esperam em ti, Senhor, Senhor dos exércitos. Não se envergonhem por minha causa, os que te buscam, ó Deus de Israel.  
 **8** Pois por ti sofri afronta, foi coberto de confusão o meu rosto.  
-**9** Tornei-me um estranho para os meus irmãos, e um desconhecido para os filhos de minha mãe.  
+**9** Tornei-me um estranho para os meus irmãos, e um desconhecido para os filhos de minha mãe,  
 **10** e por causa do zelo pela casa de Deus.  
 **11** Mortifiquei pelo jejum a minha alma, e isto tornou-se-me em opróbrio.  
 **12** Tomei por vestido um saco, e fui para eles objeto de escárnio.  
@@ -1369,7 +1369,7 @@
 **18** Na verdade, é sobre caminhos escorregadios que os colocas, precipita-los na ruína.  
 **19** Oh! como tombara num momento, acabaram, foram consumidos de espantoso terror!  
 **20** Como um sonho, ao despertar, Senhor, assim, quando te Levantas, desprezarás a sua aparência.  
-**21** Quando se exasperava o meu espírito, e o meu coração se sentia aguilhoado.  
+**21** Quando se exasperava o meu espírito, e o meu coração se sentia aguilhoado,  
 **22** eu era um insensato e não compreendia, fui diante de ti como um jumento.  
 **23** Todavia, não; estarei sempre contigo: tomaste-me pela minha mão direita,  
 **24** Hás-de guiar-me com teu conselho, e por fim hás-de receber-me na tua glória.  
@@ -1552,7 +1552,7 @@
 ## Capítulo 79
 
 **1** Ao mestre do coro. Segundo a melodia de "o lírio da lei..." De Asaf. Salmo.  
-**2** Tu que apascentas Israel, atende, tu que conduzes José como um rebanho. Tu que estás sentado sobre os querubins, manifesta-te com esplendor.  
+**2** Tu que apascentas Israel, atende, tu que conduzes José como um rebanho. Tu que estás sentado sobre os querubins, manifesta-te com esplendor,  
 **3** diante de Efraim, Benjamim e Manassés. Desperta o teu poder, e vem para nos salvar.  
 **4** Ó Deus, restaura-nos e mostra-nos sempre o teu rosto, para que sejamos salvos.  
 **5** Senhor Deus dos exércitos, até quando estarás irado, não obstante o teu povo orar?  
@@ -1809,7 +1809,7 @@
 
 **1** Salmo. Cântico. Para o dia de sábado.  
 **2** Bom é louvar o Senhor, cantar salmos ao teu nome, ó Altíssimo:  
-**3** anunciar pela manhã a tua misericórdia, e a tua fidelidade durante a noite.  
+**3** anunciar pela manhã a tua misericórdia, e a tua fidelidade durante a noite,  
 **4** com o saltério de dez cordas e a lira, com cântico ao som da cítara.  
 **5** Em realidade me alegras, Senhor, com as tuas obras, eu exulto com as obras das tuas mãos.  
 **6** Quão magníficas são, Senhor, as tuas obras! Quão profundos são os teus pensamentos!  
@@ -1909,7 +1909,7 @@
 **2** O Senhor manifestou a sua salvação; revelou a sua justiça aos olhos das gentes.  
 **3** Lembrou-se da sua bondade e da sua fidelidade em favor da casa de Israel. Todos os confins da terra viram a salvação do nosso Deus.  
 **4** Aclamai o Senhor, todas as terras, alegrai-vos, rejubilai e cantai salmos.  
-**5** Cantai salmos ao Senhor com cítara, com cítara e ao som do saltério.  
+**5** Cantai salmos ao Senhor com cítara, com cítara e ao som do saltério,  
 **6** com trombetas e ao som de corneta: regozijai-vos na presença do (vosso) rei, (que é o) Senhor.  
 **7** Ressoe o mar e tudo o que há nele, o mundo e os que habitam nele.  
 **8** Batam palmas os rios, ao mesmo tempo os montes se alegrem  
@@ -1968,7 +1968,7 @@
 **18** se tiver voltado para a súplica dos indigentes, nem tiver rejeitado a sua oração.  
 **19** Sejam escritas estas coisas para a geração futura, e o povo, que há-de ser criado, louve o Senhor.  
 **20** Porque olhou do seu santuário excelso, o Senhor do céu olhou sobre a terra,  
-**21** para ouvir os gemidos dos encarcerados, para libertar os condenados à morte.  
+**21** para ouvir os gemidos dos encarcerados, para libertar os condenados à morte,  
 **22** a fim de que em Sião seja proclamado o nome do Senhor, e o seu louvor em Jerusalém,  
 **23** quando os povos se juntarem todos e os reinos para servirem ao Senhor.  
 **24** Consumiu as minhas forças no caminho, encurtou os meus dias.  
@@ -2047,7 +2047,7 @@
 **2** Cantai-lhe, entoai salmos em sua honra, narrai todas as suas maravilhas.  
 **3** Gloriai-vos do seu santo nome; alegre-se o coração dos que buscam o Senhor.  
 **4** Meditai no Senhor e no seu poder, buscai sempre a sua face.  
-**5** Lembrai-vos das maravilhas que fez, dos seus prodígios e das sentenças que saíram da sua boca.  
+**5** Lembrai-vos das maravilhas que fez, dos seus prodígios e das sentenças que saíram da sua boca,  
 **6** vós, ó descendentes de Abraão, seu servo, vós, ó filhos de Jacob, seu eleito!  
 **7** O próprio Senhor é o nosso Deus; os seus juízos exercem-se em toda a terra.  
 **8** Ele lembra-se para sempre da sua aliança, da promessa que fez para mil gerações,  
