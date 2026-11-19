@@ -4,7 +4,7 @@
  "edicao": "1956",
  "lingua": "pt-PT",
  "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
- "versiculos": 35795,
+ "versiculos": 35810,
  "organizacao": "Avelentis",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
@@ -26605,6 +26605,10 @@
       {
        "n": 8,
        "texto": "Na outra banda do Jordão, para o nascente de Jericó, destinaram Bosor, que está situada na planície do deserto, da tribo de Buben, e Ramot em Galaad, da tribo de Gad, e Gaulon em Basan, da tribo de Manassés."
+      },
+      {
+       "n": 9,
+       "texto": "Estas foram as cidades estabelecidas para todos os filhos de Israel, e para os estrangeiros que habitavam entre eles, a fim de que aquele que tivesse morto uma pessoa sem querer, se refugiasse nelas e não morresse às mãos do vingador do sangue, antes de se apresentar ante o povo para defender a sua causa."
       }
      ]
     },
@@ -32593,14 +32597,18 @@
       },
       {
        "n": 20,
-       "texto": "e participou-lhe que Saul tinha matado os sacerdotes do Senhor."
+       "texto": "Escapando um filho de Aquimelec, filho de Aquitob, que se chamava Abiatar, fugiu para Davide"
       },
       {
        "n": 21,
-       "texto": "Davide disse a Abiatar: Eu logo vi, naquele dia, que, estando lá Doeg, Idumeu, certamente o havia de dizer a Saul: eu sou o culpado da morte de toda a casa de teu pai."
+       "texto": "e participou-lhe que Saul tinha matado os sacerdotes do Senhor."
       },
       {
        "n": 22,
+       "texto": "Davide disse a Abiatar: Eu logo vi, naquele dia, que, estando lá Doeg, Idumeu, certamente o havia de dizer a Saul: eu sou o culpado da morte de toda a casa de teu pai."
+      },
+      {
+       "n": 23,
        "texto": "Fica comigo, não temas; se alguém buscar a minha vida, buscará também a tua; comigo estarás bem guardado."
       }
      ]
@@ -46866,14 +46874,18 @@
       },
       {
        "n": 15,
-       "texto": "Nós mandaremos cortar no Líbano as madeiras de que tiveres necessidade, e faremos pôr jangadas para irem por mar até Jope, donde tu as mandarás transportar a Jerusalém."
+       "texto": "Manda, pois, meu senhor, para os teus servos o trigo, a cevada, o azeite e o vinho, que prometeste."
       },
       {
        "n": 16,
-       "texto": "Salomão, pois, mandou tomar nota de todos os estrangeiros, que havia na terra, de Israel, depois do recenseamento que tinha mandado fazer Davide, seu pai, e achou-se que eram cento e cinquenta e três mil e seiscentos."
+       "texto": "Nós mandaremos cortar no Líbano as madeiras de que tiveres necessidade, e faremos pôr jangadas para irem por mar até Jope, donde tu as mandarás transportar a Jerusalém."
       },
       {
        "n": 17,
+       "texto": "Salomão, pois, mandou tomar nota de todos os estrangeiros, que havia na terra, de Israel, depois do recenseamento que tinha mandado fazer Davide, seu pai, e achou-se que eram cento e cinquenta e três mil e seiscentos."
+      },
+      {
+       "n": 18,
        "texto": "Destes escolheu setenta mil, que levassem as cargas às costas, oitenta mil que cortassem pedras nos montes, e três mil e seiscentos para inspetores dos trabalhos desta gente."
       }
      ]
@@ -78981,7 +78993,11 @@
       },
       {
        "n": 26,
-       "texto": "Examina a vereda em que pões os teus pés, e todos os teus caminhos sejam direitos. Não declines nem para a direita nem para a esquerda, retira o teu pé do mal."
+       "texto": "Examina a vereda em que pões os teus pés, e todos os teus caminhos sejam direitos."
+      },
+      {
+       "n": 27,
+       "texto": "Não declines nem para a direita nem para a esquerda, retira o teu pé do mal."
       }
      ]
     },
@@ -81808,7 +81824,11 @@
       },
       {
        "n": 26,
-       "texto": "Os cordeiros são para te vestires, e os cabritos para comprares um campo. Basta-te o leite das cabras para o teu sustento, para o sustento da tua família e para manter as tuas escravas."
+       "texto": "Os cordeiros são para te vestires, e os cabritos para comprares um campo."
+      },
+      {
+       "n": 27,
+       "texto": "Basta-te o leite das cabras para o teu sustento, para o sustento da tua família e para manter as tuas escravas."
       }
      ]
     },
@@ -82034,7 +82054,11 @@
       },
       {
        "n": 26,
-       "texto": "São muitos os que buscam a face (o favor) do príncipe; porém do Senhor depende a verdadeira sentença de cada um. Os justos abominam o homem ímpio, e os ímpios abominam aqueles que estão no caminho reto."
+       "texto": "São muitos os que buscam a face (o favor) do príncipe; porém do Senhor depende a verdadeira sentença de cada um."
+      },
+      {
+       "n": 27,
+       "texto": "Os justos abominam o homem ímpio, e os ímpios abominam aqueles que estão no caminho reto."
       }
      ]
     },
@@ -85897,10 +85921,14 @@
       },
       {
        "n": 21,
-       "texto": "Os que temem o Senhor, guardam os seus mandamentos, e têm paciência até que lance os olhos sobre eles, dizendo: Se não fizermos penitência, cairemos nas mãos do Senhor, e não nas mãos dos homens."
+       "texto": "Os que temem o Senhor, guardam os seus mandamentos, e têm paciência até que lance os olhos sobre eles, dizendo:"
       },
       {
        "n": 22,
+       "texto": "Se não fizermos penitência, cairemos nas mãos do Senhor, e não nas mãos dos homens."
+      },
+      {
+       "n": 23,
        "texto": "Porque, na medida em que é elevada a sua grandeza, assim o é a sua misericórdia."
       }
      ]
@@ -89271,18 +89299,22 @@
       },
       {
        "n": 26,
-       "texto": "Ela durará (algum, mas) não muito tempo; assenhorear-se-á dos caminhos dos injustos, mas a sua chama não queimará os justos. Os que deixam a Deus, cairão no poder dela, que os queimará, sem se extinguir; lançar-se-á sobre eles como um leão, e como um leopardo os despedaçará."
+       "texto": "Ela durará (algum, mas) não muito tempo; assenhorear-se-á dos caminhos dos injustos, mas a sua chama não queimará os justos."
       },
       {
        "n": 27,
-       "texto": "Cerca os teus ouvidos com espinhos,não queiras ouvir a língua má, e põe na tua boca uma porta com ferrolhos."
+       "texto": "Os que deixam a Deus, cairão no poder dela, que os queimará, sem se extinguir; lançar-se-á sobre eles como um leão, e como um leopardo os despedaçará."
       },
       {
        "n": 28,
-       "texto": "Funde o teu ouro e a tua prata, e faze uma balança para (pesares) as tuas palavras, e um freio bem ajustado para a tua boca;"
+       "texto": "Cerca os teus ouvidos com espinhos,não queiras ouvir a língua má, e põe na tua boca uma porta com ferrolhos."
       },
       {
        "n": 29,
+       "texto": "Funde o teu ouro e a tua prata, e faze uma balança para (pesares) as tuas palavras, e um freio bem ajustado para a tua boca;"
+      },
+      {
+       "n": 30,
        "texto": "olha, não escorregues no teu falar, para não caíres diante dos teus inimigos, que te armam ciladas, e para que não venha a tua queda a ser incurável e mortal."
       }
      ]
@@ -89537,7 +89569,11 @@
       },
       {
        "n": 26,
-       "texto": "A inveja e a ira abreviam os dias, e os afans fazem chegar a velhice antes do tempo. Um coração generoso e bom está num contínuo festim, porque lhe preparam com diligência o seu alimento."
+       "texto": "A inveja e a ira abreviam os dias, e os afans fazem chegar a velhice antes do tempo."
+      },
+      {
+       "n": 27,
+       "texto": "Um coração generoso e bom está num contínuo festim, porque lhe preparam com diligência o seu alimento."
       }
      ]
     },
@@ -91411,7 +91447,11 @@
       },
       {
        "n": 26,
-       "texto": "Distinguiu-o com suas bênçãos, deu-lhe a herança, e repartiu-lha entre as doze tribos. E conservou-lhe homens de misericórdia, que fossem amados por todas as gentes."
+       "texto": "Distinguiu-o com suas bênçãos, deu-lhe a herança, e repartiu-lha entre as doze tribos."
+      },
+      {
+       "n": 27,
+       "texto": "E conservou-lhe homens de misericórdia, que fossem amados por todas as gentes."
       }
      ]
     },
@@ -93308,22 +93348,26 @@
      "versiculos": [
       {
        "n": 1,
-       "texto": "Dirás naquele dia: Eu te rendo graças, Senhor, porque, havendo-te irado contra mim, o teu furor aplacou-se e tu me consolaste. Eis o Deus meu Salvador; estou cheio de confiança, não temo, porque o Senhor é a minha fortaleza e o meu louvor; ele foi a minha salvação."
+       "texto": "Dirás naquele dia: Eu te rendo graças, Senhor, porque, havendo-te irado contra mim, o teu furor aplacou-se e tu me consolaste."
       },
       {
        "n": 2,
-       "texto": "Tirareis com gosto águas das fontes da salvação,"
+       "texto": "Eis o Deus meu Salvador; estou cheio de confiança, não temo, porque o Senhor é a minha fortaleza e o meu louvor; ele foi a minha salvação."
       },
       {
        "n": 3,
-       "texto": "e direis naquele dia; Louvai o Senhor, invocai o seu nome, publicai entre os povos as suas obras, proclamai que o seu nome é excelso."
+       "texto": "Tirareis com gosto águas das fontes da salvação,"
       },
       {
        "n": 4,
-       "texto": "Cantai ao Senhor, porque ele fez coisas magníficas; que se saiba isto em toda a terra."
+       "texto": "e direis naquele dia; Louvai o Senhor, invocai o seu nome, publicai entre os povos as suas obras, proclamai que o seu nome é excelso."
       },
       {
        "n": 5,
+       "texto": "Cantai ao Senhor, porque ele fez coisas magníficas; que se saiba isto em toda a terra."
+      },
+      {
+       "n": 6,
        "texto": "Cantai de alegria, rejubilai, habitantes de Sião, porque se mostra grande, no meio de vós, o Santo de Israel."
       }
      ]
@@ -94395,38 +94439,42 @@
       },
       {
        "n": 4,
-       "texto": "Não tenho indignação (contra ela). Quem me dará silvas e espinhos para combater? Marcharei contra eles, queimá-los-ei todos juntos, a não ser que se ponham debaixo da minha proteção, que façam a paz comigo, que façam comigo a paz."
+       "texto": "Não tenho indignação (contra ela). Quem me dará silvas e espinhos para combater? Marcharei contra eles, queimá-los-ei todos juntos,"
       },
       {
        "n": 5,
-       "texto": "Em dias futuros, Jacob lançará raízes, Israel florescerá, lançará rebentos e encherá de seus frutos a face finai de da terra."
+       "texto": "a não ser que se ponham debaixo da minha proteção, que façam a paz comigo, que façam comigo a paz."
       },
       {
        "n": 6,
-       "texto": "Porventura feriu-o (Deus) como feriu os seus opressores? Ou matou-o como aos que o matavam?"
+       "texto": "Em dias futuros, Jacob lançará raízes, Israel florescerá, lançará rebentos e encherá de seus frutos a face da terra."
       },
       {
        "n": 7,
-       "texto": "Pelo desterro o castigou, impelindo-o com o seu sopro impetuoso, como vento do Oriente"
+       "texto": "Porventura feriu-o (Deus) como feriu os seus opressores? Ou matou-o como aos que o matavam?"
       },
       {
        "n": 8,
-       "texto": "Assim foi expiado o crime da casa de Jacob, e eis todo o fruto da expiação do seu pecado: pulverizou todas as pedras dos altares como pedras reduzidas a cinzas, e não se levantarão mais (ascherás) nem estelas do Sol."
+       "texto": "Pelo desterro o castigou, impelindo-o com o seu sopro impetuoso, como vento do Oriente"
       },
       {
        "n": 9,
-       "texto": "Porque a cidade forte foi assolada, despovoada e abandonada, como um deserto; nela pastam os bois, nela se deitam, e comem as pontas da sua verdura."
+       "texto": "Assim foi expiado o crime da casa de Jacob, e eis todo o fruto da expiação do seu pecado: pulverizou todas as pedras dos altares como pedras reduzidas a cinzas, e não se levantarão mais (ascherás) nem estelas do Sol."
       },
       {
        "n": 10,
-       "texto": "As ramagens secas partem-se, e vêm as mulheres e queimam-nas. É um povo sem inteligência: por isso, aquele que o fez não terá pena dele, não lhe fará mercê aquele que o formou."
+       "texto": "Porque a cidade forte foi assolada, despovoada e abandonada, como um deserto; nela pastam os bois, nela se deitam, e comem as pontas da sua verdura."
       },
       {
        "n": 11,
-       "texto": "E acontecerá que naquele dia o Senhor sacudirá o trigo desde o leito do rio (Eufrates) até à torrente do Egito; e vós, filhos de Israel, sereis congregados, um a um."
+       "texto": "As ramagens secas partem-se, e vêm as mulheres e queimam-nas. É um povo sem inteligência: por isso, aquele que o fez não terá pena dele, não lhe fará mercê aquele que o formou."
       },
       {
        "n": 12,
+       "texto": "E acontecerá que naquele dia o Senhor sacudirá o trigo desde o leito do rio (Eufrates) até à torrente do Egito; e vós, filhos de Israel, sereis congregados, um a um."
+      },
+      {
+       "n": 13,
        "texto": "Também acontecerá que naquele dia soará uma grande trombeta e virão os que tinham ficado perdidos na terra dos Assírios, e os que se achavam desterrados na terra do Egito, e adorarão o Senhor no monte santo, em Jerusalém."
       }
      ]
@@ -99096,7 +99144,11 @@
       },
       {
        "n": 16,
-       "texto": "Se eles, escarmentados, aprenderem os caminhos do meu povo, de maneira que jurem em meu nome (dizendo): Vive o Senhor - como ensinaram o meu povo a jurar por Baal, _(então) serão estabelecidos no meio do meu povo. Porém, se não ouvirem, arrancarei pela raiz e exterminarei aquela gente, diz o Senhor."
+       "texto": "Se eles, escarmentados, aprenderem os caminhos do meu povo, de maneira que jurem em meu nome (dizendo): Vive o Senhor - como ensinaram o meu povo a jurar por Baal, _(então) serão estabelecidos no meio do meu povo."
+      },
+      {
+       "n": 17,
+       "texto": "Porém, se não ouvirem, arrancarei pela raiz e exterminarei aquela gente, diz o Senhor."
       }
      ]
     },
@@ -99752,6 +99804,10 @@
       {
        "n": 14,
        "texto": "Quando Jeremias voltou de Tofet, aonde o tinha enviado o Senhor a profetizar, pôs-se em pé no átrio da casa do Senhor e disse a todo o povo:"
+      },
+      {
+       "n": 15,
+       "texto": "Assim fala o Senhor dos exércitos, o Deus de Israel: Vou fazer vir sobre esta cidade e sobre todas as cidades dela dependentes, todos os males que predisse contra ela, porque endureceram a sua cerviz, para não ouvir as minhas palavras."
       }
      ]
     },
@@ -116691,6 +116747,10 @@
       {
        "n": 11,
        "texto": "Israel passará o mar, do Egito, (o Senhor) ferirá as ondas do mar, todas as profundidades do Nilo ficarão descobertas. A soberba de Assur será humilhada, e o cetro do Egito será tirado."
+      },
+      {
+       "n": 12,
+       "texto": "Fortificá-los-ei no Senhor, e eles andarão no seu nome — oráculo do Senhor."
       }
      ]
     },

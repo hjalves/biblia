@@ -65,8 +65,9 @@
 **18** Os que temem o Senhor não são incrédulos à sua palavra, e os que o amam continuam no seu caminho.  
 **19** Os que temem o Senhor procuram o que lhe é agradável, e os que o amam saciam-se da sua lei.  
 **20** Os que temem o Senhor preparam os seus corações, e santificam as suas almas na sua presença.  
-**21** Os que temem o Senhor, guardam os seus mandamentos, e têm paciência até que lance os olhos sobre eles, dizendo: Se não fizermos penitência, cairemos nas mãos do Senhor, e não nas mãos dos homens.  
-**22** Porque, na medida em que é elevada a sua grandeza, assim o é a sua misericórdia.  
+**21** Os que temem o Senhor, guardam os seus mandamentos, e têm paciência até que lance os olhos sobre eles, dizendo:  
+**22** Se não fizermos penitência, cairemos nas mãos do Senhor, e não nas mãos dos homens.  
+**23** Porque, na medida em que é elevada a sua grandeza, assim o é a sua misericórdia.  
 
 ## Capítulo 3
 
@@ -954,10 +955,11 @@
 **23** Bem-aventurado aquele que está a coberto da língua iníqua, que não passou pela ira dela, que não atraiu para cima de si o seu jugo e que não foi ligado com as suas cadeias,  
 **24** porque o seu jugo é um jugo de ferro, e as suas cadeias são cadeias de bronze.  
 **25** A morte que ela causa é uma morte desgraçadíssima, e a sepultura é-lhe preferível.  
-**26** Ela durará (algum, mas) não muito tempo; assenhorear-se-á dos caminhos dos injustos, mas a sua chama não queimará os justos. Os que deixam a Deus, cairão no poder dela, que os queimará, sem se extinguir; lançar-se-á sobre eles como um leão, e como um leopardo os despedaçará.  
-**27** Cerca os teus ouvidos com espinhos,não queiras ouvir a língua má, e põe na tua boca uma porta com ferrolhos.  
-**28** Funde o teu ouro e a tua prata, e faze uma balança para (pesares) as tuas palavras, e um freio bem ajustado para a tua boca;  
-**29** olha, não escorregues no teu falar, para não caíres diante dos teus inimigos, que te armam ciladas, e para que não venha a tua queda a ser incurável e mortal.  
+**26** Ela durará (algum, mas) não muito tempo; assenhorear-se-á dos caminhos dos injustos, mas a sua chama não queimará os justos.  
+**27** Os que deixam a Deus, cairão no poder dela, que os queimará, sem se extinguir; lançar-se-á sobre eles como um leão, e como um leopardo os despedaçará.  
+**28** Cerca os teus ouvidos com espinhos,não queiras ouvir a língua má, e põe na tua boca uma porta com ferrolhos.  
+**29** Funde o teu ouro e a tua prata, e faze uma balança para (pesares) as tuas palavras, e um freio bem ajustado para a tua boca;  
+**30** olha, não escorregues no teu falar, para não caíres diante dos teus inimigos, que te armam ciladas, e para que não venha a tua queda a ser incurável e mortal.  
 
 ## Capítulo 29
 
@@ -1024,7 +1026,8 @@
 **23** O júbilo do coração é a vida do homem e um tesouro inexaurível de santidade; a alegria do homem prolonga a sua vida.  
 **24** Tem piedade da tua alma, procurando agradar a Deus, e aguenta-te; recolhe o teu coração na santidade do mesmo Deus e afugenta para longe de ti a tristeza.  
 **25** Com efeito, a tristeza tem matado a muitos, e não há utilidade nela.  
-**26** A inveja e a ira abreviam os dias, e os afans fazem chegar a velhice antes do tempo. Um coração generoso e bom está num contínuo festim, porque lhe preparam com diligência o seu alimento.  
+**26** A inveja e a ira abreviam os dias, e os afans fazem chegar a velhice antes do tempo.  
+**27** Um coração generoso e bom está num contínuo festim, porque lhe preparam com diligência o seu alimento.  
 
 ## Capítulo 31
 
@@ -1517,7 +1520,8 @@
 **23** que exaltaria a sua posteridade como as estrelas, e que lhe daria por herança (o continente) de mar a mar, e desde o rio (Eufrates) até às extremidades da terra,  
 **24** Com Isaac procedeu do mesmo modo, por amor de Abraão, seu pai.  
 **25** O Senhor deu-lhe a bênção de todas as nações, e confirmou a sua aliança sobre a cabeça de Jacob.  
-**26** Distinguiu-o com suas bênçãos, deu-lhe a herança, e repartiu-lha entre as doze tribos. E conservou-lhe homens de misericórdia, que fossem amados por todas as gentes.  
+**26** Distinguiu-o com suas bênçãos, deu-lhe a herança, e repartiu-lha entre as doze tribos.  
+**27** E conservou-lhe homens de misericórdia, que fossem amados por todas as gentes.  
 
 ## Capítulo 45
 

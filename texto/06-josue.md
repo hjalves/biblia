@@ -589,6 +589,7 @@
 **6** Habitará nesta cidade, até que compareça em juízo, para dar conta do que fez e até que morra o sumo sacerdote, que estiver (em exercício) naquele tempo. Então voltará o homicida, e entrará na sua cidade e na sua casa, donde tinha fugido.  
 **7** (Consequentemente) decretaram (que fossem cidades de refúgio) Cedes na Galileia, sobre o monte de Neftali, e Siquem sobre o monte de Efraim, e Cariatarbe, que é Hebron, sobre o monte de Judá.  
 **8** Na outra banda do Jordão, para o nascente de Jericó, destinaram Bosor, que está situada na planície do deserto, da tribo de Buben, e Ramot em Galaad, da tribo de Gad, e Gaulon em Basan, da tribo de Manassés.  
+**9** Estas foram as cidades estabelecidas para todos os filhos de Israel, e para os estrangeiros que habitavam entre eles, a fim de que aquele que tivesse morto uma pessoa sem querer, se refugiasse nelas e não morresse às mãos do vingador do sangue, antes de se apresentar ante o povo para defender a sua causa.  
 
 ## Capítulo 21
 

@@ -494,7 +494,11 @@
     },
     {
      "n": 26,
-     "texto": "Examina a vereda em que pões os teus pés, e todos os teus caminhos sejam direitos. Não declines nem para a direita nem para a esquerda, retira o teu pé do mal."
+     "texto": "Examina a vereda em que pões os teus pés, e todos os teus caminhos sejam direitos."
+    },
+    {
+     "n": 27,
+     "texto": "Não declines nem para a direita nem para a esquerda, retira o teu pé do mal."
     }
    ]
   },
@@ -3321,7 +3325,11 @@
     },
     {
      "n": 26,
-     "texto": "Os cordeiros são para te vestires, e os cabritos para comprares um campo. Basta-te o leite das cabras para o teu sustento, para o sustento da tua família e para manter as tuas escravas."
+     "texto": "Os cordeiros são para te vestires, e os cabritos para comprares um campo."
+    },
+    {
+     "n": 27,
+     "texto": "Basta-te o leite das cabras para o teu sustento, para o sustento da tua família e para manter as tuas escravas."
     }
    ]
   },
@@ -3547,7 +3555,11 @@
     },
     {
      "n": 26,
-     "texto": "São muitos os que buscam a face (o favor) do príncipe; porém do Senhor depende a verdadeira sentença de cada um. Os justos abominam o homem ímpio, e os ímpios abominam aqueles que estão no caminho reto."
+     "texto": "São muitos os que buscam a face (o favor) do príncipe; porém do Senhor depende a verdadeira sentença de cada um."
+    },
+    {
+     "n": 27,
+     "texto": "Os justos abominam o homem ímpio, e os ímpios abominam aqueles que estão no caminho reto."
     }
    ]
   },
