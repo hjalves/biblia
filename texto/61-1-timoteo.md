@@ -111,7 +111,7 @@
 
 **1** Todos os escravos, que estão sob o jugo, considerem os seus senhores dignos de toda a honra, para que o nome do Senhor e a sua doutrina não sejam blasfemados.  
 **2** Os que têm senhores fiéis, não os desprezem, porque são irmãos, antes os sirvam melhor, pelo facto de serem fiéis e amados (de Deus) aqueles que recebem os seus serviços. Isto ensina e exorta.  
-**3** Se alguém ensina de modo diferente, e não abraça as sãs palavras de Nosso Senhor Jesus Cristo e aquela doutrina que é conforme a piedade,  
+**3** Se alguém ensina de modo diferente, e não abraça as sãs palavras de Nosso Senhor Jesus Cristo e aquela doutrina que é conforme à piedade,  
 **4** é um soberbo, que nada sabe, um espírito doente, que se ocupa de questões e contendas de palavras, donde se originam invejas, contendas, maledicências, más suspeitas,  
 **5** altercações de homens com o espírito pervertido, que estão privados da verdade e pensam que a piedade é uma fonte de lucro.  
 **6** Verdadeiramente a piedade é uma grande fonte de lucro, tornando-nos contentes com o que basta (para viver).  

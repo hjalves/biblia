@@ -205,7 +205,7 @@
 **6** Tendo o Senhor dado ao homem, que estava vestido de roupas de linho, esta ordem: Toma do fogo do intervalo das rodas que estão entre os querubins ele foi e pôs-se junto das rodas.  
 **7** Então um querubim estendeu a mão do meio dos querubins para o fogo, que estava entre os querubins, pegou nele e pô-lo nas mãos daquele que estava vestido de roupas de linho, o qual, tomando-o, saiu.  
 **8** Via-se nos querubins uma semelhança de mão de homem debaixo das suas asas.  
-**9** Olhei ainda e (vi que) havia quatro rodas junto dos querubins: uma roda junto de cada querubim. O aspecto destas rodas era como ó duma pedra de crisólito.  
+**9** Olhei ainda e (vi que) havia quatro rodas junto dos querubins: uma roda junto de cada querubim. O aspecto destas rodas era como o duma pedra de crisólito.  
 **10** Todas quatro pareciam semelhantes, como se uma roda estivesse no meio de outra roda.  
 **11** Ao avançar, moviam-se nas quatro direcções, e não tornavam para trás quando andavam, porque, para onde a que estava primeiro dirigia o seu caminho, para lá também as outras seguiam, sem voltar para nenhum outro lado.  
 **12** Todo o corpo (dos querubins), o seu dorso, as suas mãos e asas, bem como as rodas, estavam cheios de olhos em toda a volta: cada um dos quatro tinha uma roda.  
@@ -430,7 +430,7 @@
 **18** Desprezou o juramento, violou a aliança, apesar de ter dado a sua mão. Tendo feito todas estas coisas, não escapará.  
 **19** Portanto isto diz o Senhor Deus: Juro pela minha vida que foi o meu juramento que ele desprezou, a minha aliança que violou: farei recair isso sobre a sua cabeça.  
 **20** Estenderei a minha rede sobre ele, e será apanhado nos meus laços; levá-lo-ei a Babilónia e lá o julgarei pela prevaricação cometida contra mim.  
-**21** Todos os fugitivos do seu exército cairão mortos a espada; os que ficarem serão espalhados a todo o vento, e sabereis que eu, o Senhor, é que falei.  
+**21** Todos os fugitivos do seu exército cairão mortos à espada; os que ficarem serão espalhados a todo o vento, e sabereis que eu, o Senhor, é que falei.  
 **22** Isto diz o Senhor Deus: Tomarei do cimo do elevado cedro, cortarei do mais alto de seus ramos um tenro garfo, e plantá-lo-ei sobre uma elevadíssima montanha,  
 **23** Eu o plantarei na alta montanha de Israel, e ele deitará ramos e dará fruto, e tornar-se-á um grande cedro; todas as aves habitarão debaixo dele, todas as espécies de voláteis repousarão à sombra dos seus ramos.  
 **24** E saberão todas as árvores dos campos que eu, o Senhor é que humilho a árvore elevada e exalto a árvore humilde, que seco a árvore verde e faço reverdecer a árvore seca. Eu o Senhor, o disse e o farei.  
@@ -719,7 +719,7 @@
 **5** Virá a ser no meio do mar como um enxugadouro das redes sou eu que o declaro, diz o Senhor Deus será presa das nações.  
 **6** As suas filhas, que estão no campo, serão também passadas ao fio da espada. E saber-se-á que eu sou o Senhor.  
 **7** Eis o que diz o Senhor Deus: Vou fazer vir, das partes do setentrião contra Tiro, a Nabucodonosor, rei de Babilónia, rei dos reis, com cavalos, carros, cavalaria e grande multidão de tropa.  
-**8** Ele fará cair a golpes da espada as tuas filhas, que estão no campo, por-te-á cerco, erguerá plataformas, levantará o escuro contra ti.  
+**8** Ele fará cair a golpes da espada as tuas filhas, que estão no campo, pôr-te-á cerco, erguerá plataformas, levantará o escuro contra ti.  
 **9** Disporá contra os teus muros os seus aríetes e destruirá as tuas torres com as suas máquinas de guerra.  
 **10** A multidão dos seus cavalos te cobrirá de pó; ao estrondo da sua cavalaria, das rodas e dos carros, tremerão as tuas muralhas, quando ele entrar pelas tuas portas, como quem entra numa cidade destruída.  
 **11** Com os cascos dos seus cavalos pisará todas as tuas ruas; passará o teu povo à espada, e cairão por terra as tuas imponentes estátuas.  
@@ -1267,7 +1267,7 @@
 
 **1** Fez-me voltar depois para o pórtico exterior do santuário que olhava para o oriente, o qual estava fechado.  
 **2** O Senhor disse-me; Este pórtico estará fechado: não se abrirá, ninguém passará por ele, porque o Senhor Deus de Israel por aí passou: ficará fechado.  
-**3** Porém o príncipe, como príncipe sentar-se-à nele para comer o pão diante do Senhor; mas entrará pelo caminho do vestíbulo do pórtico, e pelo mesmo caminho sairá.  
+**3** Porém o príncipe, como príncipe sentar-se-á nele para comer o pão diante do Senhor; mas entrará pelo caminho do vestíbulo do pórtico, e pelo mesmo caminho sairá.  
 **4** Levou-me pelo pórtico do setentrião, diante do templo; olhei e vi que a glória do Senhor enchia a casa do Senhor; (ao ver isto) prostrei-me sobre o meu rosto.  
 **5** E o Senhor disse-me: Filho de homem, considera no teu coração, olha com os teus olhos e ouve com os teus ouvidos todas as coisas que te disser acerca de todas as ordenações da casa do Senhor, de todos os seus regulamentos; aplica o teu coração a conhecer como entrar no templo e a conhecer também todas as saídas do santuário.  
 **6** Dirás à casa de Israel, a estes rebeldes: Assim fala o Senhor Deus: Bastem-vos já, casa de Israel, todas as vossas maldades:  

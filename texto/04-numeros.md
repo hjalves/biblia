@@ -209,7 +209,7 @@
 **5** O Senhor falou a Moisés, dizendo:  
 **6** Dize aos filhos de Israel: Se um homem ou uma mulher tiverem cometido algum dos pecados que prejudicam o próximo, prevaricando contra o Senhor,  
 **7** confessará o seu pecado, restituirá o devido, com um quinto a mais, àquele contra quem tiver pecado.  
-**8** Se, porém, não houver quem o receba, dá-lo-à ao Senhor, e pertencerá ao sacerdote, além do carneiro, que é oferecido por expiação pelo culpado.  
+**8** Se, porém, não houver quem o receba, dá-lo-á ao Senhor, e pertencerá ao sacerdote, além do carneiro, que é oferecido por expiação pelo culpado.  
 **9** Todas as primícias que os filhos de Israel oferecerem pertencem também ao sacerdote;  
 **10** tudo o que é consagrado, ao sacerdote pertence; tudo o que se entrega nas mãos do sacerdote, será dele.  
 **11** O Senhor falou a Moisés, dizendo:  
@@ -663,7 +663,7 @@
 **25** Levantou-se, pois, Moisés, e foi a Datan e Ebirom, seguindo-o os anciães de Israel,  
 **26** e disse ao povo: Afastai-vos das tendas destes homens ímpios e não toqueis coisa que lhes pertença, para que não sejais envolvidos nos seus pecados.  
 **27** Afastando-se o povo das suas tendas, Datan e Abiron, saindo fora, estavam em pé à entrada das suas tendas com suas mulheres e filhos, e com todos os companheiros.  
-**28** Moisés disse: Nisto conhecereis que o Senhor me enviou a fazer tudo o que vedes, é que eu não o fiz por minha cabeça.  
+**28** Moisés disse: Nisto conhecereis que o Senhor me enviou a fazer tudo o que vedes, e que eu não o fiz por minha cabeça.  
 **29** Se estes morrerem com a morte ordinária dos homens, se a sua sorte foi como a dos outros homens, o Senhor não me enviou:  
 **30** mas, se o Senhor fizer por um novo prodígio que a terra, abrindo a sua boca, os engula com tudo o que lhes pertence, e que desçam vivos à morada dos mortos, então sabereis que eles blasfemaram contra o Senhor.  
 **31** Logo que ele acabou de falar, fendeu-se a terra debaixo dos seus pés,  
@@ -1050,7 +1050,7 @@
 **18** O Senhor disse-lhe: Toma Josué, filho de Nun, homem no qual reside o (meu) espírito, e põe a tua mão sobre ele.  
 **19** Ele estará diante do sacerdote Eleázaro e de toda a multidão:  
 **20** tu lhe darás os preceitos à vista de todos, e uma parte da tua glória, para que toda a congregação dos filhos de Israel o ouça.  
-**21** Quando se tiver de empreender alguma coisa, o sacerdote Eleázaro consultará o Senhor. A palavra deste, Josué sairá ou entrará e com ele todos os filhos de Israel, o resto do povo.  
+**21** Quando se tiver de empreender alguma coisa, o sacerdote Eleázaro consultará o Senhor. À palavra deste, Josué sairá ou entrará e com ele todos os filhos de Israel, o resto do povo.  
 **22** Moisés fez como o Senhor tinha ordenado. Tomou Josué apresentou-o diante do sacerdote Eleázaro e de todo o ajuntamento do povo.  
 **23** Impostas as mãos sobre a sua cabeça, declarou-lhe tudo o que o Senhor tinha mandado.  
 

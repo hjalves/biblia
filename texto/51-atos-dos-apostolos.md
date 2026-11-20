@@ -803,7 +803,7 @@
 
 **1** Tendo-nos feito à vela, depois que nos separámos deles, fomos directamente a Cós; no dia seguinte, a Rodes, e dali a Pátara.  
 **2** Tendo encontrado um navio que passava pela Fenicia, embarcámos nele e fizemo-nos à vela.  
-**3** Chegados a vista de Chipre, deixando-a à esquerda, navegámos para a Síria e chegámos a Tiro, onde devia o navio deixar a sua carga.  
+**3** Chegados à vista de Chipre, deixando-a à esquerda, navegámos para a Síria e chegámos a Tiro, onde devia o navio deixar a sua carga.  
 **4** Tendo encontrado lá discípulos, detivemo-nos sete dias. Inspirados pelo Espírito Santo, diziam eles a Paulo que não subisse a Jerusalém.  
 **5** Passados estes sete (dias), partimos, acompanhando-nos todos com as mulheres e filhos até fora da cidade. Postos de joelhos na praia, fizemos oração.  
 **6** Em seguida, tendo-nos despedido-uns dos outros, embarcámos, e eles voltaram para suas casas.  

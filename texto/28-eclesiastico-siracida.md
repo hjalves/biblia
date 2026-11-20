@@ -71,7 +71,7 @@
 
 ## Capítulo 3
 
-**1** Os filhos da sabedoria foram assembleia dos justos, e o povo que constituem e obediência e amor (de Deus).  
+**1** Os filhos da sabedoria foram assembleia dos justos, e o povo que constituem é obediência e amor (de Deus).  
 **2** Ouvi, filhos, os preceitos do vosso pai, e procedei assim para que sejais salvos.  
 **3** Porque Deus quis honrar o pai pelos filhos e firmou cuidadosamente sobre eles a autoridade da mãe.  
 **4** O que ama a Deus implorará o perdão dos seus pecados, e se absterá de tornar a cair neles, e será ouvido na sua oração de todos os dias.  
@@ -158,7 +158,7 @@
 **9** porque virá de improviso a sua ira, e no dia do castigo te perderá.  
 **10** Não andes inquieto por (amor de) riquezas injustas, porque elas não te aproveitarão no dia do castigo e da escuridão.  
 **11** Não te voltes a todo o vento, e não andes por todos os caminhos, porque é assim que todo o pecador de língua dobre se dá a conhecer.  
-**12** Se firme no caminho do Senhor, na sinceridade dos teus sentimentos e conhecimentos, e que a palavra de paz e de justiça te acompanhe sempre.  
+**12** Sê firme no caminho do Senhor, na sinceridade dos teus sentimentos e conhecimentos, e que a palavra de paz e de justiça te acompanhe sempre.  
 **13** Sê manso para ouvir a palavra, a fim de que a entendas; então darás com sabedoria uma resposta justa.  
 **14** Se tens inteligência, responde ao teu próximo; se não, põe a tua mão sobre a tua boca, para que te não suceda ser surpreendido numa palavra indiscreta e cair em confusão,  
 **15** A honra e a glória acompanham o falar do homem sensato, mas a língua do imprudente é a sua ruína.  

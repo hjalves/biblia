@@ -27,7 +27,7 @@
 **23** E fez-se tarde e manhã (e foi) o quinto dia.  
 **24** Disse também Deus: Produza a terra animais viventes segundo a sua espécie, animais domésticos, e répteis, e animais selváticos segundo a sua espécie. E assim se fez.  
 **25** E fez Deus os animais selváticos, segundo a sua espécie, e os animais domésticos, e todos os répteis da terra (cada um) segundo a sua espécie. E viu Deus que isto era bom,  
-**26** e (por fim) disse: Façamos o homem à nossa imagem e semelhança, e presida aos peixes do mar, e as aves do Céu, e aos animais selváticos, e a toda a terra, e a todos os répteis, que se movem sobre a terra.  
+**26** e (por fim) disse: Façamos o homem à nossa imagem e semelhança, e presida aos peixes do mar, e às aves do Céu, e aos animais selváticos, e a toda a terra, e a todos os répteis, que se movem sobre a terra.  
 **27** E criou Deus o homem à sua imagem; criou-o à imagem de Deus, varão e fêmea os criou.  
 **28** E Deus os abençoou, e disse: Crescei e multiplicai-vos, e enchei a terra, e sujeitai-a, e dominai sobre os peixes do mar e sobre as aves do céu, e sobre todos os animais que se movem sobre a terra.  
 **29** E Deus disse: Eis que vos dei todas as ervas, que dão semente sobre a terra, e todas as árvores, que encerram em si mesmas a semente do seu género, para que vos sirvam de alimento,  
@@ -429,7 +429,7 @@
 ## Capítulo 16
 
 **1** Ora Sarai, mulher de Abrão, não tinha gerado filhos; mas, tendo uma escrava egípcia, chamada Agar,  
-**2** disse a seu marido: eis que o Senhor me fez estéril, para que não de à luz; toma, pois, a minha escrava, a ver se, ao menos por ela, posso ter filhos. Como Abrão anuísse aos seus rogos, (Sarai)  
+**2** disse a seu marido: eis que o Senhor me fez estéril, para que não dê à luz; toma, pois, a minha escrava, a ver se, ao menos por ela, posso ter filhos. Como Abrão anuísse aos seus rogos, (Sarai)  
 **3** tomou Agar egípcia, sua escrava, passados dez anos desde que tinham começado a habitar na terra de Canaan, e deu-a por mulher a seu marido.  
 **4** E ele aproximou-se dela, que concebeu; ela, vendo que tinha concebido, desprezou sua Senhora.  
 **5** Sarai disse a Abrão: tu tratas-me dum modo injusto: eu dei-te a minha escrava para tua mulher, e ela, vendo que concebeu, despreza-me: o Senhor seja juiz entre mim e ti.  
@@ -734,7 +734,7 @@
 
 **1** Abraão, porém, tomou outra mulher chamada Cetura,  
 **2** a qual lhe deu à luz Zanram, Jecsan, Madan, Madian, Jesboc e Sué.  
-**3** Jecsan gerou Saba e Dadàn. Os filhos, de Dadan foram Assurim, Latussim e Laomin,  
+**3** Jecsan gerou Saba e Dadan. Os filhos, de Dadan foram Assurim, Latussim e Laomin,  
 **4** De Madian nasceram Efa, Ofer, Henoch Abida e Eldas. Estes são todos os filhos de Cetura.  
 **5** Abraão deu tudo o que possuía a Isaac;  
 **6** pelos filhos das mulheres secundárias distribuiu dádivas, mas separou-os de Isaac, seu filho, ainda em sua vida, (mandando-os) para as partes do oriente.  
@@ -1063,7 +1063,7 @@
 **3** Ele, adiantando-se, prostrou-se sete vezes por terra, até seu irmão se aproximar.  
 **4** Então, correndo Esaú ao encontro de seu irmão, o abraçou, e, apertando-lhe o pescoço e beijando-o, chorou.  
 **5** Em seguida, levantando os olhos, viu as mulheres e os seus filhos, e disse: Quem são estes? Porventura pertencem-te? Respondeu: São os filhos que Deus me deu a mim, teu servo,  
-**6** Aproximando-se às escravas e os seus filhos, inclinaram-se profundamente.  
+**6** Aproximando-se as escravas e os seus filhos, inclinaram-se profundamente.  
 **7** Chegou também Lia com seus filhos, que se inclinaram do mesmo modo; em último lugar se inclinaram José e Raquel.  
 **8** Esaú disse: Que significam estas partidas que encontrei? Respondeu: (Enviei-as) para achar graça diante do meu senhor.  
 **9** Esaú, porém, disse: Tenho muitos bens, meu irmão, guarda para ti o que é teu.  
@@ -1451,7 +1451,7 @@
 **30** Então apressou-se (a retirar), porque o seu íntimo se tinha comovido por causa de seu irmão. Procurando onde chorar, entrou no (seu) quarto e aí chorou.  
 **31** Saindo outra vez, depois de lavado o rosto, conteve-se e disse: Trazei de comer.  
 **32** E foi posta a mesa à parte para José, à parte para os irmãos, à parte também para os Egípcios, que comiam com ele porque não é licito aos Egípcios, comer com os Hebreus, pois consideram isso abominável.  
-**33** Sentavam-se na sua presença, o primogénito segundo o seu privilégio de primogenitura, e o mais novo segundo a sua idade, olhando-sé espantados uns para os outros.  
+**33** Sentavam-se na sua presença, o primogénito segundo o seu privilégio de primogenitura, e o mais novo segundo a sua idade, olhando-se espantados uns para os outros.  
 **34** Ao receberem as rações que lhes mandava, (viram que) a de Benjamim era cinco vezes mais abundante. E beberam e alegraram-se com ele.  
 
 ## Capítulo 44

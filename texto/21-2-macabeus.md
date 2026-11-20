@@ -542,7 +542,7 @@
 **27** Então o rei, exasperado e irritado devido às calúnias deste mau homem, escreveu a Nicanor, dizendo-lhe que levava muito a mal que tivesse feito o tratado com Macabeu e que lhe ordenava que, o mais depressa possível, lho remetesse preso a Antioquia.  
 **28** Nicanor, recebida esta nova, ficou consternado, pois custava-lhe muito ter de violar o concerto feito com Macabeu, não tendo recebido agravo algum da sua pessoa.  
 **29** Mas, porque não podia resistir ao rei buscava ocasião favorável para executar, por qualquer estratagema, a ordem recebida.  
-**30** Entretanto Macabeu, vendo que Nicanor o tratava mais desabridamente que de ordinário e que lhe mostrava, quando se encontravam, um aspecto mais duro do que costumava, reflectindo que esta austeridade não podia proceder de boa causa, convocados alguns poucos dos seus, fugiu à Nicanor.  
+**30** Entretanto Macabeu, vendo que Nicanor o tratava mais desabridamente que de ordinário e que lhe mostrava, quando se encontravam, um aspecto mais duro do que costumava, reflectindo que esta austeridade não podia proceder de boa causa, convocados alguns poucos dos seus, fugiu a Nicanor.  
 **31** Quando Nicanor soube que tinha ficado logrado, foi ao augustíssimo templo, enquanto os sacerdotes ofereciam os sacrifícios ordinários, e mandou-lhes que lhe entregassem esse homem.  
 **32** Afirmando-lhe eles com juramento que não sabiam do paradeiro daquele que buscava, estendendo a mão para o templo  
 **33** jurou assim: Se me não entregardes Judas debaixo de prisão, arrasarei este santuário de Deus, derribarei o altar e levantarei aqui um magnífico templo a Baco.  

@@ -230,7 +230,7 @@
 ## Capítulo 12
 
 **1** Depois apareceu no céu um grande sinal: uma Mulher vestida de sol, com a lua debaixo de seus pés, e uma coroa de doze estrelas sobre a sua cabeça.  
-**2** Ela está grávida, e clama com dores, atormentada para dar a luz.  
+**2** Ela está grávida, e clama com dores, atormentada para dar à luz.  
 **3** Foi visto ainda um outro sinal no céu: era um grande Dragão, cor de fogo, que tinha sete cabeças e dez pontas, e nas suas cabeças sete diademas.  
 **4** A sua cauda arrasta a terça parte das estrelas do céu, e precipitou-as na terra. Depois o Dragão parou diante da Mulher, que estava para dar à luz, a fim de devorar o seu filho, logo que ela o tivesse dado à luz.  
 **5** Ela deu à luz um filho varão, que deve reger todas as gentes com vara de ferro. E o seu filho foi arrebatado para Deus e para o seu trono.  

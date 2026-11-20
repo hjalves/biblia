@@ -16,7 +16,7 @@
 **12** Eles são as máculas dos vossos festins, em que se banqueteiam sem respeito, apascentando-se a si mesmos, nuvens sem água, que os ventos levam de uma parte para a outra, árvores de fim de outono, sem fruto, duas vezes mortas, desarraigadas,  
 **13** ondas furiosas do mar, que arrojam as espumas da sua torpeza, estrelas errantes, para quem espessas trevas estão reservadas por toda a eternidade.  
 **14** Também Henoch, o sétimo patriarca depois de Adão, profetizou destes, dizendo: Eis que vem o Senhor, com as suas santas miríades,  
-**15** a fazer juízo contra todos, é a confundir todos os ímpios de todas as obras de impiedade, que cometeram, e de todas as palavras injuriosas, que os pecadores ímpios têm proferido contra ele (Deus).  
+**15** a fazer juízo contra todos, e a confundir todos os ímpios de todas as obras de impiedade, que cometeram, e de todas as palavras injuriosas, que os pecadores ímpios têm proferido contra ele (Deus).  
 **16** Eles são uns murmuradores queixosos, que andam segundo as suas paixões, e a sua boca profere coisas soberbas, as quais mostram admiração pelas pessoas segundo convém ao seu próprio interesse.  
 **17** Mas vós, caríssimos, lembrai-vos do que foi predito pelos Apóstolos de Nosso Senhor Jesus Cristo,  
 **18** os quais vos diziam: "Nos últimos tempos virão impostores, que andarão segundo as suas paixões, cheias de impiedade."  

@@ -1208,7 +1208,7 @@
 **9** Alegrai-vos, louvai à uma, ruínas de Jerusalém, porque o Senhor consolou o seu povo, resgatou Jerusalém.  
 **10** O Senhor faz ver o seu santo braço aos olhos de todas as nações, e todos os confins da terra verão a salvação do nosso Deus.  
 **11** Retirai-vos, retirai-vos, saí daí, não toqueis coisa impura; saí do meio dela, purificai-vos, vós os que levais os vasos do Senhor.  
-**12** Não saireis tumultuàriamente, em fuga precipitada, porque o Senhor irá adiante de vós, e o Deus de Israel à vossa rectaguarda.  
+**12** Não saireis tumultuariamente, em fuga precipitada, porque o Senhor irá adiante de vós, e o Deus de Israel à vossa rectaguarda.  
 **13** Eis que o meu Servo prosperará, será engrandecido, exaltado, muito altamente elevado.  
 **14** Assim como pasmaram muitos ao verem-no - tão desfigurado estava depois, o seu rosto que não parecia de homem -  
 **15** assim o admirarão muitas nações, e diante dele os reis taparão a boca, porque verão o que nunca lhes tinha sido contado, observarão um prodígio inaudito.  

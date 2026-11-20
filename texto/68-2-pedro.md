@@ -7,7 +7,7 @@
 **3** O seu divino poder deu-nos todas as coisas que dizem respeito à vida e à piedade, por meio do conhecimento daquele que nos chamou pela sua glória e virtude.  
 **4** Por elas nos deu estas preciosas e magnificas promessas, a fim de que assim vos torneis participantes da natureza divina, fugindo da corrupção que há no mundo pela concupiscência.  
 **5** Ora vós, aplicando todo o cuidado, juntai à vossa fé a virtude, à virtude a ciência,  
-**6** à ciência a temperança, à temperança a constância, a constância a piedade,  
+**6** à ciência a temperança, à temperança a constância, à constância a piedade,  
 **7** à piedade o amor fraterno, ao amor fraterno a caridade.  
 **8** Com efeito, se estas coisas se encontrarem e abundarem em vós, não vos deixarão vazios nem infrutuosos pelo conhecimento de Nosso Senhor Jesus Cristo.  
 **9** Quem não tem estas coisas é um míope, um cego, e esquece-se de que foi purificado (pelo baptismo) dos seus pecados antigos.  

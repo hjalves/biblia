@@ -319,7 +319,7 @@
 **45** Então Judas congregou todos os Israelitas, que havia em Galaad, desde o mais pequeno ao maior, com suas mulheres, filhos e bens imensa multidão! para os conduzir à terra de Judá.  
 **46** Chegaram a Efron, cidade grande, situada no caminho de retorno, e muito forte; não se podia declinar dela nem para a direita, nem para a esquerda, pois o caminho passava pelo seu meio.  
 **47** Os que estavam na cidade fecharam-se dentro e obstruíram as portas com pedras. Judas enviou-lhes mensageiros com palavras de paz;  
-**48** Sede servidos de nos deixar passar pelo vosso país, à fim de irmos para a nossa terra, e ninguém vos fará mal algum. Apenas passaremos. Eles, porém, não quiseram abrir-lhes.  
+**48** Sede servidos de nos deixar passar pelo vosso país, a fim de irmos para a nossa terra, e ninguém vos fará mal algum. Apenas passaremos. Eles, porém, não quiseram abrir-lhes.  
 **49** Então Judas mandou apregoar pelo acampamento que cada um fosse atacar a cidade pelo lugar em que estivesse.  
 **50** Os homens de guerra, portanto, prepararam-se. Judas deu o assalto àquela cidade durante todo o dia e toda a noite, e a cidade caiu nas suas mãos.  
 **51** Passaram ao fio da espada todos os varões; (Judas) destruiu a cidade até aos fundamentos, levou os seus despojos e atravessou a cidade por cima de cadáveres.  

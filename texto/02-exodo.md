@@ -309,7 +309,7 @@
 **1** O Senhor disse a Moisés: Flagelarei ainda com uma praga a Faraó e ao Egipto, e, depois disso, vos deixará partir, e até vos constrangerá a sair.  
 **2** Dirás, pois, a todo o povo que cada homem peça ao seu amigo, e cada mulher à sua vizinha objectos de prata e ouro.  
 **3** O Senhor fez que o seu povo achasse graça diante dos Egipcios. O próprio Moisés foi um homem muito grande na terra do Egipto, aos olhos dos servos de Faraó e de todo o povo.  
-**4** Moisés disse: Estas coisas diz o Senhor: A meia-noite passarei pelo Egipto,  
+**4** Moisés disse: Estas coisas diz o Senhor: À meia-noite passarei pelo Egipto,  
 **5** e todo o primogénito morrerá na terra do Egipto, desde o primogénito de Faraó que se assenta sobre o seu trono, até ao primogénito da escrava, que está à mó, e até aos primogénitos dos animais.  
 **6** Haverá em toda a terra do Egipto um grande clamor qual nunca antes houve, nem haverá jamais.  
 **7** Mas entre todos os filhos de Israel, desde os homens até aos animais, não se ouvirá ganir um cão, para que saibais com que grande milagre o Senhor separa os Egípcios de Israel.  
@@ -610,7 +610,7 @@
 **1** Estas são as leis que lhes darás:  
 **2** Se comprares um escravo hebreu, ele te servirá seis anos; ao sétimo, sairá forro, sem pagar nada.  
 **3** Se entrou só, sairá só; se tiver mulher, também a mulher sairá juntamente com ele.  
-**4** Mas, se o senhor lhe tiver dado mulher, e ela tiver dado a luz filhos e filhas, a mulher e os seus filhos serão do seu senhor, e ele sairá só.  
+**4** Mas, se o senhor lhe tiver dado mulher, e ela tiver dado à luz filhos e filhas, a mulher e os seus filhos serão do seu senhor, e ele sairá só.  
 **5** Porém, se o escravo disser: "Eu tenho amor ao meu senhor, à minha mulher e aos meus filhos, não quero sair forro,"  
 **6** então o senhor o fará comparecer diante de Deus, e o fará encostar à porta e às ombreiras, e lhe furará a orelha com uma sovela; e ele ficará seu escravo para sempre.  
 **7** Se algum vender sua filha para ser serva, esta não sairá como costumam sair as escravas.  

@@ -209,7 +209,7 @@
 **11** Com esta madeira de sândalo fez o rei os degraus da casa do Senhor e do palácio, real, as harpas e as liras dos músicos: nunca se viu na terra de Judá madeira como esta.  
 **12** O rei Salomão deu à rainha de Sabá tudo o que ela desejou e pediu, muito mais do que lhe tinha trazido. Depois ela, retirando-se, voltou para a sua terra com os seus servos.  
 **13** O peso do ouro, que todos os anos era levado a Salomão, era de seiscentos e seis talentos de ouro,  
-**14** sem contar aquela soma que recebia dos mercadores e traficantes; todos os reis da Arábia e os governadores das províncias levavam ouro e prata à Salomão.  
+**14** sem contar aquela soma que recebia dos mercadores e traficantes; todos os reis da Arábia e os governadores das províncias levavam ouro e prata a Salomão.  
 **15** Fez o rei Salomão duzentos grandes escudos de ouro, em cada um dos quais eram empregados seiscentos siclos de ouro,  
 **16** e trezentos pequenos escudos de ouro, cada um dos quais levou trezentos siclos de ouro. O rei depositou-os no palácio do Bosque do Líbano.  
 **17** Fez também o rei um grande trono de marfim, que revestiu de ouro puríssimo.  
