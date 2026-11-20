@@ -430,7 +430,7 @@
 **14** não coma nada do que nasce da vinha; não beba vinho, nem coisa que possa embriagar; não coma coisa alguma impura; observe e cumpra o que lhe ordenei.  
 **15** Manué disse ao anjo do Senhor: Rogo-te que condescendas com minhas súplicas, e que te preparemos um cabrito.  
 **16** O anjo respondeu-lhe: Ainda que me faças violência, não comerei do teu pão, mas, se queres fazer um holocausto, oferece-o ao Senhor. Manué, que não sabia que era o anjo do Senhor,  
-**17** disse-lhe: Qual é o teu nome, para que, cumprida que seja a tua palavra, nos te honremos?  
+**17** disse-lhe: Qual é o teu nome, para que, cumprida que seja a tua palavra, nós te honremos?  
 **18** O anjo respondeu-lhe: Porque perguntas tu o meu nome, que é admirável (ou incompreensível)?  
 **19** Tomou pois Manué o cabrito e as libações, e pô-lo sobre a pedra, oferecendo-o ao Senhor, que operou um prodígio, aos olhos de Manué e de sua mulher.  
 **20** Quando a chama do altar subiu ao céu, subiu também o anjo do Senhor junto com a chama. À vista disto, Manué e sua mulher caíram com os rostos por terra,  
@@ -627,7 +627,7 @@
 **20** Avançando a combater contra Benjamim, começaram a situar a cidade.  
 **21** Então os filhos de Benjamim, tendo saído de Gabaa, mataram naquele dia vinte e dois mil homens dos filhos de Israel.  
 **22** Os filhos de Israel, confiando nas suas forças e no seu número, puseram-se novamente em batalha no mesmo lugar, onde primeiro tinham combatido.  
-**23** Antes, porém, subiram e foram chorar até a noite diante do Senhor, e consultaram-no, dizendo: Devemos continuar ainda a pelejar contra os filhos de Benjamin, nossos irmãos, ou não? O Senhor respondeu-lhes: Ide contra eles.  
+**23** Antes, porém, subiram e foram chorar até à noite diante do Senhor, e consultaram-no, dizendo: Devemos continuar ainda a pelejar contra os filhos de Benjamin, nossos irmãos, ou não? O Senhor respondeu-lhes: Ide contra eles.  
 **24** Ao outro dia, tendo marchado os filhos de Israel para combater contra os filhos de Benjamim,  
 **25** os filhos de Benjamim saíram com ímpeto das portas de Gabaa ao seu encontro, e fizeram neles tão grande mortandade, que derrubaram dezoito mil guerreiros.  
 **26** Pelo que todos os filhos de Israel foram à casa de Deus e, sentados, choravam diante do Senhor; jejuaram aquele dia, até à tarde, ofereceram-lhe holocaustos e vítimas pacíficas,  

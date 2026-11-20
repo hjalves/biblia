@@ -99,7 +99,7 @@
 **12** Sede como eu, porque também eu sou (agora) como vós. Eu vo-lo peço, irmãos. Vós em nada me ofendestes.  
 **13** Sabeis que da primeira vez vos preguei o Evangelho estando muito doente. E este corpo, que era uma prova para vós,  
 **14** não o desprezastes nem rejeitastes, antes me recebestes como um anjo de Deus, como Cristo Jesus.  
-**15** Onde está, pois, (agora) aquela vossa felicidade? Porque posso testemunhar que (então), se fosse possível, vós arrancaríeis os olhos para nos dar.  
+**15** Onde está, pois, (agora) aquela vossa felicidade? Porque posso testemunhar que (então), se fosse possível, vós arrancaríeis os olhos para mos dar.  
 **16** Tornei-me eu logo vosso inimigo, porque vos disse a verdade?  
 **17** Esses (falsos apóstolos)mostram-se cheios de afeto por vós, mas não retamente; antes querem-vos separar de nós, para serem objeto do vosso afeto.  
 **18** É bom ser objeto de afeição, mas sempre, e não só quando estou presente entre vós.  

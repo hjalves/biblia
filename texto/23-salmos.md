@@ -754,7 +754,7 @@
 **6** Os meus inimigos dizem mal de mim: "Quando morrerá e perecerá o seu nome?"  
 **7** O que vem visitar-me fala de coisas vãs; o seu coração acumula iniquidades, e, saindo, fala (contra mim).  
 **8** Todos os meus inimigos à uma murmuram contra mim; têm contra mim funestos pensamentos:  
-**9** "Um a peste maligna penetrou nele", e "caiu de cama, nunca mais se levantará".  
+**9** "Uma peste maligna penetrou nele", e "caiu de cama, nunca mais se levantará".  
 **10** Até o meu amigo, em quem eu confiava, que comia o meu pão, levantou contra mim o seu calcanhar.  
 **11** Tu, pois, Senhor, tem compaixão de mim e levanta-me, e eu lhes darei (o que merecem).  
 **12** Nisto conhecerei eu que tu me favoreces, se o meu inimigo se não alegrar à minha custa.  
@@ -832,7 +832,7 @@
 **14** A filha do rei entra toda formosa; tecidos de ouro são os seus vestidos.  
 **15** E apresentada ao rei coberta de recamadas vestes; as virgens que formam o seu séquito, suas companheiras, são-te conduzidas (ó rei).  
 **16** São conduzidas com alegria e com regozijo, entram no palácio do rei.  
-**17** Aos teus pais sucederão os teus filhos; estabelecê-los-às príncipes sobre toda a terra.  
+**17** Aos teus pais sucederão os teus filhos; estabelecê-los-ás príncipes sobre toda a terra.  
 **18** Recordarei o teu nome por todas as gerações; por isso os povos te louvarão pelos séculos dos séculos.  
 
 ## Capítulo 45
@@ -977,7 +977,7 @@
 **4** Todos juntamente se transviaram, se perverteram; não há quem faça o bem, não há sequer um só.  
 **5** Porventura não cairão em si os que praticam a iniquidade, os que devoram o meu povo como quem come pão.  
 **6** Tremeram de medo onde não havia que temer, porque Deus dispersou os ossos dos que te assediavam; foram confundidos, porque Deus os rejeitou.  
-**7** Oh! venha de Sião a salvação de Israel! Quando Deus mudar a sorte do seu povo, regozijar-se-á Jacob, alegrar-se-à Israel.  
+**7** Oh! venha de Sião a salvação de Israel! Quando Deus mudar a sorte do seu povo, regozijar-se-á Jacob, alegrar-se-á Israel.  
 
 ## Capítulo 53
 
@@ -1061,7 +1061,7 @@
 **8** Desapareçam, como as águas que correm; se atirarem as suas setas, que fiquem embotadas.  
 **9** Passem como a lesma que se vai dissolvendo, como aborto de mulher, que não viu o sol.  
 **10** Antes que as vossas panelas se aqueçam ao fogo do espinheiro verde, sejam eles arrebatados pelo vendaval.  
-**11** Alegrar-se-à o justo ao ver a vingança: lavará os seus pés no sangue do ímpio.  
+**11** Alegrar-se-á o justo ao ver a vingança: lavará os seus pés no sangue do ímpio.  
 **12** E os homens dirão: "Deveras há recompensa para o justo, deveras há um Deus que julga sobre a terra."  
 
 ## Capítulo 58
@@ -2439,7 +2439,7 @@
 **59** Considerei os meus caminhos, e voltei aos meus passos para os teus preceitos.  
 **60** Apressei-me e não demorei a guardar os teus mandamentos.  
 **61** Os laços dos pecadores me cingiram, mas eu não me esqueci da tua lei.  
-**62** A meia-noite levantei-me para te louvar por teus justos decretos.  
+**62** À meia-noite levantei-me para te louvar por teus justos decretos.  
 **63** Sou amigo de todos os que te temem e dos que guardam os teus mandamentos.  
 **64** A terra está cheia, Senhor, da tua graça: ensina-me os teus preceitos,  
 **65** Tens usado de bondade com o teu servo, segundo a tua palavra, ó Senhor.  

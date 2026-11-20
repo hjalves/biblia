@@ -39,7 +39,7 @@
 
 ## Capítulo 3
 
-**1** O sumo pontífice Eliasib e os sacerdotes seus irmãos puseram mãos à obra e reedificaram a porta do Rebanho; eles mesmos a consagraram e assentaram os seus batentes. Repararam também a muralha e consagraram-na até à torre de Mea é até à torre de Hananeel.  
+**1** O sumo pontífice Eliasib e os sacerdotes seus irmãos puseram mãos à obra e reedificaram a porta do Rebanho; eles mesmos a consagraram e assentaram os seus batentes. Repararam também a muralha e consagraram-na até à torre de Mea e até à torre de Hananeel.  
 **2** Ao lado edificavam os homens de Jericó; mais adiante, edificou Zacur, filho de Amri.  
 **3** Os filhos de Asnaa edificaram a porta dos Peixes, cobriram-na, puseram-lhe os batentes, as fechaduras e as trancas; ao lado deles trabalhou nas reparações Marimut, filho de Urias, filho de Acus;  
 **4** ao lado deste, Mosolão, filho de Baraquias, filho de Mesezebel; ao lado deles, Sadoc, filho de Baana;  

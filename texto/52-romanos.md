@@ -143,7 +143,7 @@
 **10** Se, sendo nós inimigos, fomos reconciliados com Deus pela morte de seu Filho, muito mais, estando já reconciliados, seremos salvos por sua vida.  
 **11** E não só isto, mas também nos gloriamos em Deus por Nosso Senhor Jesus Cristo, por quem agora recebemos a reconciliação.  
 **12** Portanto, assim como por um só homem entrou o pecado (original) neste mundo, e pelo pecado a morte, e assim passou a morte a todos os homens, porque todos pecaram...  
-**13** Porque até a lei o pecado estava no mundo; porém, o pecado não era imputado, não havendo lei.  
+**13** Porque até à lei o pecado estava no mundo; porém, o pecado não era imputado, não havendo lei.  
 **14** Todavia a morte reinou desde Adão até Moisés, mesmo sobre aqueles que não pecaram por uma transgressão semelhante à de Adão, o qual é a figura do (segundo Adão) que havia de vir.  
 **15** Mas o dom gratuito não é como o delito, porque, se pelo delito de um só (homem) morreram todos os outros, muito mais a graça de Deus e o dom (que vem) pela graça de um só homem, (que é) Jesus Cristo, são abundantemente espalhados sobre todos os outros.  
 **16** E não se dá com o dom o mesmo que se dá com o pecado de um só, porque a sentença de condenação foi dada por causa do pecado de um só, ao passo que o dom da graça traz a justificação de muitos pecados.  
@@ -289,7 +289,7 @@
 
 **1** Irmãos, o bom desejo do meu coração e a minha oração a Deus por eles, é que sejam salvos.  
 **2** Pois lhes dou testemunho de que eles têm zelo de Deus, mas mal esclarecido.  
-**3** Porque, não conhecendo a justiça de Deus e procurando estabelecer a sua própria, não se sujeitaram a justiça de Deus.  
+**3** Porque, não conhecendo a justiça de Deus e procurando estabelecer a sua própria, não se sujeitaram à justiça de Deus.  
 **4** Com efeito, o fim da lei é Cristo, para a justificação de todo o que crê.  
 **5** Efetivamente Moisés escreveu, a respeito da justiça que vem da lei: O homem que a cumprir, por ela viverá (Lv. 18, 5).  
 **6** Mas a justiça que vem da fé diz assim: Não digas no teu coração: Quem subirá ao céu?— e isso para fazer descer Cristo.  

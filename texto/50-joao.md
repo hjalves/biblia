@@ -590,7 +590,7 @@
 **18** Por isso, lhe saiu ao encontro a multidão, porque ouviram dizer que tinha feito este milagre.  
 **19** Então os fariseus disseram entre si: "Vedes que nada aproveitais? Eis que todos correm atrás dele."  
 **20** Ora havia lá alguns Gregos, entre aqueles que tinham ido adorar a Deus durante a festa.  
-**21** Estes aproximaram-sé de Filipe, que era de Betsaida da Galileia, e fizeram-lhe este pedido: "Senhor, desejamos ver Jesus."  
+**21** Estes aproximaram-se de Filipe, que era de Betsaida da Galileia, e fizeram-lhe este pedido: "Senhor, desejamos ver Jesus."  
 **22** Filipe foi dizê-lo a André; André e Filipe disseram-no a Jesus.  
 **23** Jesus respondeu-lhes: "Chegou a hora em que o Filho do homem será glorificado.  
 **24** Em verdade, em verdade, vos digo, que se o grão de trigo, que cai na terra, não morrer,  

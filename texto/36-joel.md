@@ -15,7 +15,7 @@
 **11** Os lavradores estão confusos, os vinhateiros soltam gritos, por causa do trigo e da cevada, pois se perdeu a colheita dos campos.  
 **12** A vinha não vingou, a figueira secou; as romanzeiras, as palmeiras e as macieiras, todas as árvores do campo secaram; (por cujo motivo) a alegria, envergonhada, foi para longe dos filhos dos homens.  
 **13** Cingi-vos, sacerdotes, e chorai; soltai gritos, ministros do altar! Vinde, passai a noite vestidos de saco, ministros do meu Deus, porque da casa do vosso Deus o povo desapareceram a oferenda e a libação.  
-**14** Ordenai à um jejum sagrado, convocai a assembleia, congregai os anciães e todos os habitantes do país, para a casa do vosso Deus, e clamai ao Senhor.  
+**14** Ordenai um jejum sagrado, convocai a assembleia, congregai os anciães e todos os habitantes do país, para a casa do vosso Deus, e clamai ao Senhor.  
 **15** Ai, que dia (terrível)! O dia do Senhor está perto! Virá como uma assolação da parte do Todo-Poderoso.  
 **16** Porventura não desapareceram diante dos vossos olhos os alimentos, e, da casa do nosso Deus, a alegria e o regozijo?  
 **17** As sementes apodreceram debaixo dos torrões, os celeiros estão vazios, os armazéns arruinados, porque se perdeu o trigo.  

@@ -293,7 +293,7 @@
 **27** dos filhos de Zetua: Elioenai, Eliasib. Matania, Jerimot, Zabad e Aziza;  
 **28** dos filhos de Bebai: Joanan, Hanauia, Zabai e Alalai;  
 **29** dos filhos de Bani: Mosolão, Meiuc, Adaia, Jasub, Saal e Ramot;  
-**30** dos filhos de Faat-Moab: Edna, Calai, Banaias. Maasias, Màtanias, Beseleel, Benui e Manassés;  
+**30** dos filhos de Faat-Moab: Edna, Calai, Banaias. Maasias, Matanias, Beseleel, Benui e Manassés;  
 **31** dos filhos de Harim: Eliezer, Jesias, Melquias. Semeias, Simeão,  
 **32** Benjamim, Maloc, Samarias;  
 **33** dos filhos de Hasom: Matanai, Malata, Zabad, Elifelet, Jermai, Manassés e Semei;  

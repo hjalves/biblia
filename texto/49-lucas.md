@@ -156,7 +156,7 @@
 **14** Interrogavam-no também os soldados: "E nós que faremos?" Respondeu-lhes: "Não façais violência a ninguém, nem denuncieis falsamente, e contentai-vos com o vosso soldo."  
 **15** Estando o povo na espectativa, e pensando todos nos seus corações que talvez João fosse o Cristo,  
 **16** João respondeu, dizendo a todos; "Eu na verdade batizo-vos em água, mas virá um mais forte do que eu, a quem não sou digno de desatar a correia dos seus sapatos; ele vos batizará no Espírito Santo e no fogo;  
-**17** tomará na sua mão a pá, limpará a sua eira, e recolherá o trigo no seu celeiro, mas a palha queimá-la-à num fogo inextinguível."  
+**17** tomará na sua mão a pá, limpará a sua eira, e recolherá o trigo no seu celeiro, mas a palha queimá-la-á num fogo inextinguível."  
 **18** Por muitas outras exortações anunciava ao povo a boa nova.  
 **19** Porém, Herodes tetrarca, sendo repreendido por ele por causa de Herodíades, mulher de seu irmão, e por causa de todos os males que tinha feito,  
 **20** acrescentou a todos os outros crimes também este: Mandar meter João num cárcere.  
@@ -307,7 +307,7 @@
 **35** Vós, porém, amai os vossos inimigos; fazei bem e emprestai, sem daí esperardes nada; e será grande a vossa recompensa, e sereis filhos do Altíssimo, que é bom para os ingratos e para os maus.  
 **36** Sede misericordiosos, como também vosso Pai é misericordioso.  
 **37** Não julgueis, e não sereis julgados; não condeneis, e não sereis condenados; perdoai, e sereis perdoados;  
-**38** dai, e dar-se-vos-à. Uma medida boa, cheia, recalcada e acogulada, vos será lançada nas dobras do vosso vestido. Porque, com a mesma medida com que medirdes para os outros, será medido para vós."  
+**38** dai, e dar-se-vos-á. Uma medida boa, cheia, recalcada e acogulada, vos será lançada nas dobras do vosso vestido. Porque, com a mesma medida com que medirdes para os outros, será medido para vós."  
 **39** Dizia-lhes também esta comparação: "Pode porventura um cego guiar outro cego? Não cairão ambos no barranco?  
 **40** O discípulo não é mais que o mestre; mas todo o discípulo será perfeito, se for como seu mestre.  
 **41** Porque vês tu a aresta no olho do teu irmão, e não notas a trave que tens no teu?  

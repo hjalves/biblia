@@ -1117,7 +1117,7 @@
 **50** Jesus, tornando a dar um alto grito, expirou.  
 **51** E eis que o véu do templo se rasgou em duas partes de alto a baixo, a terra tremeu, as rochas fenderam-se,  
 **52** abriram-se as sepulturas, e muitos corpos de santos, que tinham adormecido, ressuscitaram,  
-**53** e saindo das sepulturas depois da ressurreição de Jesus, foram a cidade santa, e apareceram a muitos.  
+**53** e saindo das sepulturas depois da ressurreição de Jesus, foram à cidade santa, e apareceram a muitos.  
 **54** O centurião e os que com ele estavam de guarda a Jesus, vendo o terremoto e as coisas que aconteciam, tiveram grande medo, e diziam: "Na verdade este era Filho de Deus."  
 **55** Achavam-se também ali muitas mulheres que olhavam de longe, as quais tinham seguido Jesus desde a Galileia, subministrando-lhe o necessário.  
 **56** Entre elas estava Maria Madalena, Maria, mãe de Tiago e de José, e a mãe dos filhos de Zebedeu.  

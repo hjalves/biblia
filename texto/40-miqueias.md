@@ -42,7 +42,7 @@
 **3** Comem a carne do meu povo, arrancam-lhe a pele, quebram-lhe os ossos, partem-no como (carne) para por num tacho como carne para dentro duma panela.  
 **4** Um dia clamarão ao Senhor, e ele não os ouvirá; esconder-lhes-á a sua face nesse tempo, como o merece a iniquidade das suas ações.  
 **5** Isto diz o Senhor acerca dos (falsos) profetas que seduzem o meu povo, que, quando têm alguma coisa para mastigar, pregam a paz, e, àquele que não lhes põe na boca coisa alguma, declaram a guerra.  
-**6** Por Isso, em lugar de visões, tereis a noite, e as trevas em vez de revelação; por-se-á o sol para estes profetas, para eles se obscurecerá o dia.  
+**6** Por Isso, em lugar de visões, tereis a noite, e as trevas em vez de revelação; pôr-se-á o sol para estes profetas, para eles se obscurecerá o dia.  
 **7** Serão confundidos os videntes, cobrir-se-ão de vergonha os adivinhos; todos esconderão a barba, porque não haverá resposta de Deus (para eles).  
 **8** Pelo que toca a mim, contudo, estou cheio da força do espírito do Senhor, da justiça e do vigor, para anunciar a Jacob a sua maldade, e a Israel o seu pecado.  
 **9** Ouvi isto, príncipes da casa de Jacob e juízes da casa de Israel, vós que abominais a justiça e perverteis tudo o que ó reto,  

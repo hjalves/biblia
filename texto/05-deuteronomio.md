@@ -26,7 +26,7 @@
 **22** Então aproximastes-vos todos de mim, e dissestes: Enviemos homens que explorem a terra, e que nos ensinem por que caminho devemos subir, e para que cidades devemos encaminhar-nos.  
 **23** Como me tivesse parecido bem tal modo de falar, enviei doze homens dentre vós, um por cada tribo,  
 **24** os quais, tendo-se posto a caminho, e tendo atravessado os montes, chegaram até ao Vale do Cacho: depois de explorada a terra,  
-**25** tomando dos seus frutos, para mostrarem a sua fertilidade, no-los trouxeram, e disseram: É boa a terra que o Senhor nosso Deus nós há-de dar.  
+**25** tomando dos seus frutos, para mostrarem a sua fertilidade, no-los trouxeram, e disseram: É boa a terra que o Senhor nosso Deus nos há-de dar.  
 **26** Vós não quisestes subir (a ela), mas, incrédulos à palavra do Senhor nosso Deus,  
 **27** murmurastes nas vossas tendas, dizendo: O Senhor tem-nos ódio, e por isso nos tirou da terra do Egito para nos entregar nas mãos dos Amorreus, e exterminar-nos.  
 **28** Para onde subiremos? Os exploradores aterraram o nosso coração, dizendo: A multidão é grande, e de estatura mais alta do que a nossa: as cidades são grandes, e fortificadas até ao céu: ali vimos os filhos dos Enacins.  

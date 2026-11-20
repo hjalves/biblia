@@ -905,7 +905,7 @@
 **23** Se houver algum anjo, um entre milhares, que fale a seu favor, que instrua o homem no seu dever,  
 **24** Se compadeça dele e diga: "Livra-o, para que não desça à corrupção; encontrei o resgate (da sua vida)",  
 **25** - a sua carne reverdecerá mais que na juventude, voltará aos dias da adolescência.  
-**26** Ele suplicará a Deus, e Deus se aplacará, mostrar-lhe-à com júbilo a sua face, e dará ao homem o seu direito.  
+**26** Ele suplicará a Deus, e Deus se aplacará, mostrar-lhe-á com júbilo a sua face, e dará ao homem o seu direito.  
 **27** Ele se voltará para os (outros) homens e dirá; Pequei, violei a justiça, e não fui castigado como merecia.  
 **28** Deus livrou a minha alma de cair na morte, e a minha vida volta a ver a luz.  
 **29** Ora Deus faz todas estas coisas, duas ou três vezes, em cada homem,  
@@ -1182,7 +1182,7 @@
 **1** Respondendo Job ao Senhor, disse:  
 **2** Sei que podes tudo, e que nenhum projeto é, para ti, demasiado difícil.  
 **3** Quem é este que, falto de ciência, encobre o conselho (de Deus)? (Confesso que) falei nesciamente, sobre coisas que me ultrapassam e que eu ignoro.  
-**4** "Ouve, e eu falarei, interrogar-te-ei, e responder-me-às."  
+**4** "Ouve, e eu falarei, interrogar-te-ei, e responder-me-ás."  
 **5** Os meus ouvidos haviam escutado falar de ti, mas agora os meus próprios olhos te veem.  
 **6** Por isso acuso-me a mim mesmo, e faço penitência no pó e na cinza.  
 **7** O Senhor, depois que falou naquela sorte de Job, disse a Elifaz de Teman: O meu furor se acendeu contra ti e contra os teus dois amigos, porque vós não falastes de mim, retamente, como falou o meu servo Job.  

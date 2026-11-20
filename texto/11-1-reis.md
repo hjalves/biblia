@@ -219,7 +219,7 @@
 **21** Cobriu, além disso, de puríssimo ouro, a parte do templo que estava diante do santuário, e pregou as lâminas (de ouro) com pregos de ouro.  
 **22** Nada havia no templo que não estivesse coberto de ouro: até cobriu de ouro todo o altar do oráculo.  
 **23** Pôs no santuário dois querubins feitos de pau de oliveira, de dez côvados de altura.  
-**24** Uma das asas dum querubim tinha cinco côvados, e a outra asa tinha também cinco côvados; isto é, iam dez côvados, desde a extremidade duma das asas até a extremidade da outra.  
+**24** Uma das asas dum querubim tinha cinco côvados, e a outra asa tinha também cinco côvados; isto é, iam dez côvados, desde a extremidade duma das asas até à extremidade da outra.  
 **25** O segundo querubim tinha também dez côvados. A dimensão e o feitio de ambos os querubins eram iguais,  
 **26** isto é, o primeiro querubim tinha dez côvados de altura, e o segundo querubim da mesma sorte.  
 **27** Pôs os querubins no meio do templo interior; os querubins tinham as suas asas estendidas, de modo que a asa do primeiro tocava numa parede, e a asa do segundo tocava na outra parede, enquanto que as outras duas asas se encontravam, no meio do santuário.  

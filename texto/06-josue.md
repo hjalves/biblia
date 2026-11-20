@@ -136,7 +136,7 @@
 **18** Vós, porém, guardai-vos de tocar alguma daquelas coisas que vos foram proibidas, para que vos não torneis réus de prevaricação, e todo o acampamento de Israel não fique sob o pecado, e não seja posto em desordem.  
 **19** Tudo o que se encontrar de ouro e prata, de utensílios de cobre e de ferro, seja consagrado ao Senhor e depositado nos seus tesouros.  
 **20** Levantando pois todo o povo um grande clamor, ao ouvir o som das trombetas dos sacerdotes, caíram de repente os muros, e cada um subiu pelo lugar que lhe ficava defronte. Tomaram a cidade,  
-**21** mataram tudo o que nela havia, desde os homens até as mulheres, desde as crianças até aos velhos. Passaram também ao fio da espada os bois, as ovelhas e os jumentos.  
+**21** mataram tudo o que nela havia, desde os homens até às mulheres, desde as crianças até aos velhos. Passaram também ao fio da espada os bois, as ovelhas e os jumentos.  
 **22** Josué disse aos dois homens que tinham sido enviados como espiões: Entrai em casa da mulher meretriz, e fazei-a sair com tudo o que lhe pertence, como vós lho prometestes com juramento.  
 **23** Tendo aqueles jovens entrado, tiraram para fora Raab e seus pais, assim como os irmãos, e tudo o que lhes pertencia, e toda a sua parentela, e fizeram-nos permanecer fora do acampamento de Israel.  
 **24** Puseram fogo à cidade e a tudo o que nela havia, à exceção do ouro e da prata, dos utensílios de cobre e de ferro, que consagraram para o tesouro do Senhor.  
@@ -721,7 +721,7 @@
 **24** O povo disse a Josué: Nós serviremos ao Senhor nosso Deus, e seremos obedientes aos seus preceitos,  
 **25** Josué renovou naquele dia a aliança, e deu ao povo preceitos e leis em Siquem.  
 **26** Escreveu também todas estas palavras no livro da lei do Senhor, tomou uma pedra muito grande, colocou-a debaixo dum carvalho, que estava no santuário do Senhor,  
-**27** e disse a todo o povo: Esta pedra servir-vos-à de testemunho de que ouviu todas as palavras, que o Senhor vos disse, para que não aconteça que depois queirais renegar o Senhor vosso Deus.  
+**27** e disse a todo o povo: Esta pedra servir-vos-á de testemunho de que ouviu todas as palavras, que o Senhor vos disse, para que não aconteça que depois queirais renegar o Senhor vosso Deus.  
 **28** E despediu o povo, cada um para a sua possessão.  
 **29** Depois disto morreu Josué, filho de Nun, servo do Senhor, com cento e dez anos.  
 **30** Sepultaram-no nos confins da sua possessão, em Tamnat Saraa, que está situada sobre o monte de Efraim, para a parte setentrional do monte Gaas.  
