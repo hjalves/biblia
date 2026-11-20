@@ -4,6 +4,8 @@ Palavras que o corretor ortográfico não reconhece depois da modernização. A 
 
 570 palavras, 1396 ocorrências.
 
+**Lista já verificada** com a edição de 1956: 473 palavras estão assim na edição (termos bíblicos e antigos); cerca de 40 eram erros da digitalização e foram corrigidas (ver [CORRECOES.md](../CORRECOES.md)). A lista fica como registo.
+
 | Palavra | Vezes | Sugestão | Primeira ocorrência |
 |---|---|---|---|
 | siclos | 89 | ciclos | Gênesis 23,15 |

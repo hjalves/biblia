@@ -24,8 +24,16 @@ O texto parte de uma digitalização da Bíblia do Padre Manuel de Matos Soares 
 
 No total: **477 formas diferentes alteradas, em 2 713 ocorrências**. A lista completa, com contagens, está em [docs/ortografia.md](docs/ortografia.md).
 
-## O que ainda está em revisão
+## O que ainda pode ter erros
 
-- Há **570 palavras** que o corretor ortográfico não reconhece (a maioria são termos bíblicos legítimos, como *siclo*, *éfode* ou *hissopo*; algumas podem ser erros por apanhar). A lista está em [docs/por-rever.md](docs/por-rever.md). Se encontrares um erro, abre uma *issue*.
+Todos os versículos foram conferidos com a edição de 1956, e a lista de [docs/por-rever.md](docs/por-rever.md) foi verificada (ver acima). Podem ainda ter escapado:
+
+- **Acentos em palavras pequenas** (`a/à`, `e/é`, `as/às`) e **vírgulas por pontos finais**: o OCR da edição de 1956 não os distingue com segurança, por isso só foram corrigidos os casos claros.
+- **Erros iguais na digitalização e no OCR**: onde os dois leram mal a mesma palavra, a comparação não os vê.
+
+Se encontrares um erro, abre uma *issue*.
+
+## Limitações
+
 - **Sem notas de rodapé**: a digitalização não as inclui.
 - **Numeração**: a edição de 1956 não tem o versículo Esd 8,3 (o texto passa de 8,2 para 8,4).
